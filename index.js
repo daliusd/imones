@@ -24,8 +24,6 @@ const nonWords = [
   'bendrija',
   'bendrovės',
   'asociacija',
-  'namo',
-  'namų',
   'všį',
   'profesinė',
   'daugiabučių',
