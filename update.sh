@@ -1,4 +1,5 @@
 #!/bin/sh
+mkdir input
 sh ./jar.sh
 sh ./vmi.sh
 node index.js
