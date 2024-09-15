@@ -1,0 +1,981 @@
+[
+  {
+    "name": "MB Aplico",
+    "code": "305568052",
+    "address": "Švenčionių r. sav., Švenčionėliai, Partizanų g. 1-2, LT-18223",
+    "vatcode": "LT100016337917"
+  },
+  {
+    "name": "MB \"Inovatyvios aplikacijos\"",
+    "code": "304741971",
+    "address": "Tauragė, Jūros g. 29, LT-72212"
+  },
+  {
+    "name": "MB \"Modernios aplikacijos\"",
+    "code": "303119190",
+    "address": "Vilnius, Adutiškio g. 3-3, LT-02112",
+    "vatcode": "LT100008183218"
+  },
+  {
+    "name": "MB \"Universalios aplikacijos\"",
+    "code": "304075850",
+    "address": "Klaipėda, Taikos pr. 75-42, LT-94114",
+    "vatcode": "LT100009578818"
+  },
+  {
+    "name": "MB \"Verslo aplikacijos\"",
+    "code": "303101705",
+    "address": "Vilniaus r. sav., Bezdonių sen., Sakiškių k., Beržo 1-oji g. 1, LT-15181",
+    "vatcode": "LT100009965912"
+  },
+  {
+    "name": "UAB \"Aplikacijos grupė LT\"",
+    "code": "304831461",
+    "address": "Vilniaus r. sav., Rukainių sen., Mūrininkų k., Mūrininkų g. 25, LT-13182"
+  },
+  {
+    "name": "MB \"Mobiliųjų aplikacijų sprendimai\"",
+    "code": "304396201",
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100011911813"
+  },
+  {
+    "name": "UAB Aplikacijų centras",
+    "code": "304611351",
+    "address": "Vilnius, Kazio Ulvydo g. 5-15, LT-08354",
+    "vatcode": "LT100011111217"
+  },
+  {
+    "name": "AUTOKLUBAS \"APLINK LIETUVĄ\"",
+    "code": "193078962",
+    "address": "Vilnius, Tuskulėnų g. 41, LT-09219"
+  },
+  {
+    "name": "Asociacija \"Aplink Žaslius\"",
+    "code": "305282396",
+    "address": "Kaišiadorių r. sav., Žaslių sen., Guronių k., Šilo g. 26, LT-56421"
+  },
+  {
+    "name": "MB Aplink visatą",
+    "code": "305868263",
+    "address": "Vilnius, Kalvarijų g. 98-8, LT-08211"
+  },
+  {
+    "name": "MB Gamta aplink",
+    "code": "306974935",
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
+    "name": "UAB \"Aplink pilvą\"",
+    "code": "306635899",
+    "address": "Biržai, P. Kalpoko g. 6, LT-41179"
+  },
+  {
+    "name": "UAB Aplink Labs",
+    "code": "306339327",
+    "address": "Vilnius, J. Jasinskio g. 16B, LT-03163"
+  },
+  {
+    "name": "Viešoji įstaiga \"Aplink\"",
+    "code": "300629423",
+    "address": "Vilnius, Verkių g. 42, LT-09117"
+  },
+  {
+    "name": "Viešoji įstaiga terapinio ugdymo centras \"Aplink\"",
+    "code": "305758767",
+    "address": "Vilnius, Svajonių g. 56, LT-10100"
+  },
+  {
+    "name": "VšĮ \"Aplink tave\"",
+    "code": "302425316",
+    "address": "Vilnius, L. Sapiegos g. 4-11, LT-10312",
+    "vatcode": "LT100005053819"
+  },
+  {
+    "name": "\"Švari aplinka\", MB",
+    "code": "304478876",
+    "address": "Kaunas, Kovo 11-osios g. 84-40, LT-50446",
+    "vatcode": "LT100012292114"
+  },
+  {
+    "name": "Asociacija \"Sveika aplinka\"",
+    "code": "304189366",
+    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Vyšnių g. 11-1, LT-13245"
+  },
+  {
+    "name": "Klaipėdos literatų klubas \"APLINKA\"",
+    "code": "141804397",
+    "address": "Klaipėda, Aukštoji g. 9, LT-91246"
+  },
+  {
+    "name": "MB \"E. aplinka\"",
+    "code": "304820130",
+    "address": "Vilnius, Kalvų Sodų 3-ioji g. 4, LT-10244",
+    "vatcode": "LT100011572719"
+  },
+  {
+    "name": "MB \"Jevdokijos aplinka\"",
+    "code": "305882163",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+  },
+  {
+    "name": "MB \"Kiemo aplinka\"",
+    "code": "304192907",
+    "address": "Vilnius, S. Stanevičiaus g. 92-23, LT-07103",
+    "vatcode": "LT100010636713"
+  },
+  {
+    "name": "MB \"Kitokia aplinka\"",
+    "code": "305404423",
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Alksnupės g. 6-2, LT-92337"
+  },
+  {
+    "name": "MB \"Moderni aplinka\"",
+    "code": "306092656",
+    "address": "Vilnius, V. Grybo g. 39-207, LT-10319"
+  },
+  {
+    "name": "MB \"Mūsų aplinka\"",
+    "code": "304433991",
+    "address": "Vilniaus r. sav., Maišiagala, Naujoji g. 22, LT-14242"
+  },
+  {
+    "name": "MB \"Pajūrio aplinka\"",
+    "code": "306149228",
+    "address": "Klaipėdos r. sav., Kretingalės sen., Plikių mstl., Beržų g. 20, LT-96232"
+  },
+  {
+    "name": "MB \"Statybų aplinka\"",
+    "code": "304227571",
+    "address": "Molėtai, S. Dariaus ir S. Girėno g. 15, LT-33102",
+    "vatcode": "LT100013400110"
+  },
+  {
+    "name": "MB \"Svajonių aplinka\"",
+    "code": "306013228",
+    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Vanaginės g. 45-1, LT-14261"
+  },
+  {
+    "name": "MB \"Vip Aplinka\"",
+    "code": "305795648",
+    "address": "Vilnius, Didlaukio g. 80-96, LT-08326"
+  },
+  {
+    "name": "MB Aplinka kitaip",
+    "code": "306246093",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
+    "name": "MB Aro aplinka",
+    "code": "306840861",
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
+    "name": "MB Eco aplinka",
+    "code": "306337237",
+    "address": "Vilniaus r. sav., Zujūnų sen., Čekoniškių k., Čekoniškių g. 91, LT-14207",
+    "vatcode": "LT100016464618"
+  },
+  {
+    "name": "MB Išmani aplinka",
+    "code": "306294679",
+    "address": "Kaunas, Baltų pr. 193B-2, LT-47120",
+    "vatcode": "LT100015874019"
+  },
+  {
+    "name": "MB Pamario aplinka",
+    "code": "306056304",
+    "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Radailių g. 3, LT-92400"
+  },
+  {
+    "name": "RB Aplinka, MB",
+    "code": "306963974",
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+  },
+  {
+    "name": "UAB \"Aplinka ir ekologija\"",
+    "code": "300588439",
+    "address": "Kaunas, Savanorių pr. 363, LT-51480",
+    "vatcode": "LT100004149216"
+  },
+  {
+    "name": "UAB \"Aplinka.lt\"",
+    "code": "305399200",
+    "address": "Vilniaus r. sav., Kalvelių sen., Kuosinės k., Kuosinės g. 2, LT-13146"
+  },
+  {
+    "name": "UAB \"Darni aplinka\"",
+    "code": "302761466",
+    "address": "Kaunas, Draugystės g. 19, LT-51230",
+    "vatcode": "LT100006796711"
+  },
+  {
+    "name": "UAB \"Graži aplinka\"",
+    "code": "301741628",
+    "address": "Vilnius, Taikos g. 45-5, LT-05260",
+    "vatcode": "LT100008610214"
+  },
+  {
+    "name": "UAB \"Tavo nauja aplinka\"",
+    "code": "305656100",
+    "address": "Klaipėda, Liepų g. 64, LT-92101",
+    "vatcode": "LT100013555215"
+  },
+  {
+    "name": "UAB \"Tvarkinga aplinka\"",
+    "code": "302688662",
+    "address": "Klaipėdos r. sav., Dovilų sen., Medsėdžių k., Stirbių g. 34, LT-96165",
+    "vatcode": "LT100009581313"
+  },
+  {
+    "name": "UAB \"VERSLO APLINKA VISIEMS\"",
+    "code": "149693657",
+    "address": "Alytus, Vilniaus g. 6, LT-62112",
+    "vatcode": "LT496936515"
+  },
+  {
+    "name": "UAB \"Verslo aplinka\"",
+    "code": "304458069",
+    "address": "Kaunas, Vilniaus g. 34-1D, LT-44287",
+    "vatcode": "LT100010755918"
+  },
+  {
+    "name": "UAB \"Visa aplinka\"",
+    "code": "304298262",
+    "address": "Marijampolės sav., Liudvinavo sen., Marčiukinio k. 1D, LT-69150",
+    "vatcode": "LT100010325719"
+  },
+  {
+    "name": "UAB \"Žalioji aplinka\"",
+    "code": "304090172",
+    "address": "Kretingos r. sav., Kretingos sen., Kretingsodžio k., Vėjo g. 11, LT-97100"
+  },
+  {
+    "name": "UAB Aplinka",
+    "code": "306678808",
+    "address": "Kauno r. sav., Zapyškio sen., Vilemų k., Mėlynių g. 8, LT-53433"
+  },
+  {
+    "name": "UAB Būsto aplinka",
+    "code": "303297727",
+    "address": "Vilnius, Ozo g. 12A, LT-08200",
+    "vatcode": "LT100008551417"
+  },
+  {
+    "name": "UAB Mano aplinka",
+    "code": "305229187",
+    "address": "Vilnius, Elektrinės g. 3, LT-03150",
+    "vatcode": "LT100012577614"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"DARBO APLINKA\"",
+    "code": "222907130",
+    "address": "Vilnius, Giedraičių g. 10-3, LT-09307"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Molėtų aplinka\"",
+    "code": "305843580",
+    "address": "Molėtų r. sav., Joniškio sen., Žaugeniškių k. 4, LT-33226"
+  },
+  {
+    "name": "VšĮ \"Tavo aplinka\"",
+    "code": "303371202",
+    "address": "Raseinių r. sav., Kalnujų sen., Kalnujų k., Kaštonų g. 4, LT-60321"
+  },
+  {
+    "name": "VšĮ \"Tvari aplinka\"",
+    "code": "305142533",
+    "address": "Klaipėda, Slėnio g. 1, LT-92335"
+  },
+  {
+    "name": "MB \"Darbai aplinkai\"",
+    "code": "306062990",
+    "address": "Kaunas, Panerių g. 51-46, LT-48334",
+    "vatcode": "LT100015283414"
+  },
+  {
+    "name": "UAB Nauda aplinkai",
+    "code": "305959243",
+    "address": "Vilnius, Rubikių g. 17, LT-08452",
+    "vatcode": "LT100014613018"
+  },
+  {
+    "name": "VšĮ \"Socialinės inovacijos švaresnei aplinkai\"",
+    "code": "304753856",
+    "address": "Vilnius, Giedraičių g. 60B-60, LT-08212"
+  },
+  {
+    "name": "MB \"Aplinkera\"",
+    "code": "306338595",
+    "address": "Šiaulių r. sav., Bubių sen., Gervėnų k., Ramunių g. 7, LT-80208"
+  },
+  {
+    "name": "Mergalaukio ir aplinkinių Angininkų, Bažavos, Komisaruvkos, Atesninkų kaimų bendruomenės klubas \"Besimokanti visuomenė-sėkmingas ateities garantas\"",
+    "code": "153745387",
+    "address": "Alytaus r. sav., Simno sen., Mergalaukio k., Topolių g. 11, LT-64304"
+  },
+  {
+    "name": "Pasvalio rajono Saločių miestelio ir aplinkinių kaimų bendruomenė",
+    "code": "169297099",
+    "address": "Pasvalio r. sav., Saločiai, Vytauto g. 11, LT-39423"
+  },
+  {
+    "name": "Plaučiškių kaimo ir aplinkinių kaimų bendruomenė",
+    "code": "168294381",
+    "address": "Pakruojo r. sav., Rozalimo sen., Plaučiškių k., Parko g. 1, LT-83254"
+  },
+  {
+    "name": "Švobiškio ir aplinkinių kaimų bendruomenė",
+    "code": "169297850",
+    "address": "Pasvalio r. sav., Joniškėlio apylinkių sen., Švobiškio k., Parko g. 1, LT-39290"
+  },
+  {
+    "name": "Mažoji bendrija \"Aplinkita\"",
+    "code": "306307639",
+    "address": "Kelmės r. sav., Tytuvėnų apylinkių sen., Pagryžuvio k., Tulpių g. 11, LT-86207",
+    "vatcode": "LT100016304315"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Aplinkkelio verslo parkas\"",
+    "code": "305736272",
+    "address": "Vilnius, Turniškių g. 15-1, LT-10104",
+    "vatcode": "LT100013963918"
+  },
+  {
+    "name": "UAB \"Palangos aplinkkelis\"",
+    "code": "303036257",
+    "address": "Vilnius, Antano Tumėno g. 4, LT-01109",
+    "vatcode": "LT100007717111"
+  },
+  {
+    "name": "VšĮ \"Gyvenimo aplinkkelis\"",
+    "code": "304724388",
+    "address": "Vilniaus r. sav., Pagirių sen., Vairos k., Vyšnelių 6-oji g. 14, LT-14130"
+  },
+  {
+    "name": "\"Efektyvaus darbo aplinkos kūrimas\", MB",
+    "code": "304694589",
+    "address": "Kaunas, Žilvino g. 14-2, LT-47102"
+  },
+  {
+    "name": "APLINKOS VYSTYMO ASOCIACIJA",
+    "code": "302445315",
+    "address": "Vilnius, Lvivo g. 13-12, LT-09313"
+  },
+  {
+    "name": "Aplinkos apsaugos agentūra",
+    "code": "188784898",
+    "address": "Vilnius, A. Juozapavičiaus g. 9, LT-09311"
+  },
+  {
+    "name": "Aplinkos apsaugos asociacija",
+    "code": "304036737",
+    "address": "Vilnius, Juodasis kel. 104A, LT-11307"
+  },
+  {
+    "name": "Aplinkos apsaugos departamentas prie Aplinkos ministerijos",
+    "code": "304766622",
+    "address": "Vilnius, Smolensko g. 15, LT-03201"
+  },
+  {
+    "name": "Aplinkos apsaugos institutas",
+    "code": "304662367",
+    "address": "Vilnius, Prano Vaičaičio g. 39, LT-08340",
+    "vatcode": "LT100011317713"
+  },
+  {
+    "name": "Aplinkos apsaugos projektų valdymo paramos fondas",
+    "code": "303416590",
+    "address": "Vilnius, Saulėtekio al. 55-1, LT-10228"
+  },
+  {
+    "name": "Aplinkos gerbūvis MB",
+    "code": "305935655",
+    "address": "Vilnius, Žirmūnų g. 48E-21, LT-09226",
+    "vatcode": "LT100014509116"
+  },
+  {
+    "name": "Aplinkos ir paveldo saugojimo sąjūdis",
+    "code": "304585020",
+    "address": "Trakai, Šv. Jono Nepomuko g. 13, LT-21127"
+  },
+  {
+    "name": "Asociacija \"VERSLAS APLINKOS APSAUGAI\"",
+    "code": "125023285",
+    "address": "Vilnius, Kaminkelio g. 34-36, LT-02182"
+  },
+  {
+    "name": "Ekologinė Mokslinė - praktinė Asociacija (EMA) \"Aplinkos analizė, verslo ir gamybos teisių ir interesų apsauga\"",
+    "code": "306020258",
+    "address": "Vilnius, Architektų g. 226, LT-04215"
+  },
+  {
+    "name": "Europos aplinkos ir sveikatos jaunimo koalicija",
+    "code": "303372731",
+    "address": "Vilnius, Minties g. 24-31, LT-09224"
+  },
+  {
+    "name": "Gėlininkų mėgėjų ir aplinkos inžinierių asociacija \"Raktažolė\"",
+    "code": "302333800",
+    "address": "Marijampolė, Atgimimo g. 52, LT-68150"
+  },
+  {
+    "name": "Kauno miškų ir aplinkos inžinerijos kolegijos studentų atstovybė",
+    "code": "301120596",
+    "address": "Kauno r. sav., Samylų sen., Girionių k., Liepų g. 1-1, LT-53101"
+  },
+  {
+    "name": "LIETUVOS ŽMONIŲ SU NEGALIA APLINKOS PRITAIKYMO ASOCIACIJA",
+    "code": "191948432",
+    "address": "Vilnius, Žemaitės g. 21, LT-03118"
+  },
+  {
+    "name": "Lietuvos Respublikos aplinkos ministerija",
+    "code": "188602370",
+    "address": "Vilnius, A. Jakšto g. 4, LT-01105"
+  },
+  {
+    "name": "Lietuvos Respublikos aplinkos ministerijos Aplinkos projektų valdymo agentūra",
+    "code": "288779560",
+    "address": "Vilnius, Labdarių g. 3-102, LT-01120"
+  },
+  {
+    "name": "Lietuvos Respublikos aplinkos ministerijos darbuotojų profesinė sąjunga",
+    "code": "306558584",
+    "address": "Vilnius, J. Jasinskio g. 9-101, LT-01112"
+  },
+  {
+    "name": "Lietuvos aplinkos apsaugos sistemos darbuotojų profesinė sąjunga",
+    "code": "302623077",
+    "address": "Vilnius, Birželio 23-iosios g. 15, LT-03206"
+  },
+  {
+    "name": "Lietuvos aplinkos tyrimų laboratorijų asociacija",
+    "code": "305212501",
+    "address": "Vilnius, P. Vileišio g. 9, LT-10308"
+  },
+  {
+    "name": "Lietuvos geologijos tarnyba prie Aplinkos ministerijos",
+    "code": "188710780",
+    "address": "Vilnius, S. Konarskio g. 35, LT-03123"
+  },
+  {
+    "name": "Lietuvos hidrometeorologijos tarnyba prie Aplinkos ministerijos",
+    "code": "290743240",
+    "address": "Vilnius, Oršos g. 8, LT-09300",
+    "vatcode": "LT907432416"
+  },
+  {
+    "name": "M. Raulinaičio firma \"APLINKOS APSAUGOS KONSULTACIJOS\"",
+    "code": "125531682",
+    "address": "Vilnius, Paupio g. 29A-43, LT-11341"
+  },
+  {
+    "name": "MB \"Aplinkos dizainas\"",
+    "code": "306068071",
+    "address": "Kaišiadorių r. sav., Kruonio sen., Ginteikiškių k., Ginteikiškių g. 13, LT-56317"
+  },
+  {
+    "name": "MB \"Aplinkos ekspertai\"",
+    "code": "305553011",
+    "address": "Vilniaus r. sav., Paberžės sen., Anavilio k., Tuopų g. 8-8, LT-14271",
+    "vatcode": "LT100013536219"
+  },
+  {
+    "name": "MB \"Aplinkos grožio kūrėjai\"",
+    "code": "304254127",
+    "address": "Klaipėda, Dragūnų g. 1-31, LT-92331",
+    "vatcode": "LT100012826013"
+  },
+  {
+    "name": "MB \"Aplinkos idilė\"",
+    "code": "306025885",
+    "address": "Vilkaviškio r. sav., Keturvalakių sen., Karklinių k., Parko g. 19, LT-70322"
+  },
+  {
+    "name": "MB \"Aplinkos infrastruktūra\"",
+    "code": "304600337",
+    "address": "Kaišiadorių r. sav., Kaišiadorių apylinkės sen., Gudzenkos k., Taikos g. 28, LT-56104",
+    "vatcode": "LT100011842413"
+  },
+  {
+    "name": "MB \"Aplinkos inžinerijos studija\"",
+    "code": "306272049",
+    "address": "Kėdainių r. sav., Vilainių sen., Vilainių k., Nevėžio g. 31A, LT-58101",
+    "vatcode": "LT100015833910"
+  },
+  {
+    "name": "MB \"Aplinkos modelis\"",
+    "code": "303005557",
+    "address": "Klaipėda, Taikos pr. 24-13, LT-91222"
+  },
+  {
+    "name": "MB \"Aplinkos priežiūros darbai\"",
+    "code": "305161708",
+    "address": "Kauno miesto savivaldybės teritorija"
+  },
+  {
+    "name": "MB \"Aplinkos sprendimai\"",
+    "code": "304726898",
+    "address": "Alytaus r. sav., Nemunaičio sen., Užupių k., Miškininkų g. 55, LT-64201"
+  },
+  {
+    "name": "MB \"Aplinkos statyba\"",
+    "code": "302823380",
+    "address": "Šiauliai, Tilžės g. 27-2, LT-78229"
+  },
+  {
+    "name": "MB \"Aplinkos tvarkytojai\"",
+    "code": "304711565",
+    "address": "Alytus, Medeinos g. 7, LT-62441",
+    "vatcode": "LT100011263216"
+  },
+  {
+    "name": "MB \"Aplinkos tyrimų grupė\"",
+    "code": "306289109",
+    "address": "Jonavos r. sav., Žeimiai, Taikos g. 7, LT-55384"
+  },
+  {
+    "name": "MB \"Kauno regiono aplinkos tvarkymas\"",
+    "code": "306771917",
+    "address": "Kaunas, Obelynės g. 25-1, LT-47421"
+  },
+  {
+    "name": "MB APLINKOS ARCHITEKTAI",
+    "code": "305702163",
+    "address": "Kauno r. sav., Karmėlavos sen., Narėpų k., Pėsčiųjų g. 3-2, LT-54470"
+  },
+  {
+    "name": "MB Aplinkos ekspertų grupė",
+    "code": "304567093",
+    "address": "Vilnius, Neužmirštuolių g. 7-1, LT-04123"
+  },
+  {
+    "name": "MB Aplinkos meistrai",
+    "code": "306730087",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
+    "name": "MB Aplinkos projektavimas ir įgyvendinimas",
+    "code": "305757409",
+    "address": "Kaunas, Lakūnų pl. 17, LT-46287"
+  },
+  {
+    "name": "MB Aplinkos tvarkymas ir priežiūra",
+    "code": "305561937",
+    "address": "Telšių r. sav., Viešvėnų sen., Rainių k., Liepų g. 3-4, LT-88401"
+  },
+  {
+    "name": "MB Aplinkos valymo projektai",
+    "code": "306384767",
+    "address": "Kaunas, Kovo 11-osios g. 63-53, LT-49435"
+  },
+  {
+    "name": "Mažoji bendrija \"Aplinkos apsaugos projektai\"",
+    "code": "305897329",
+    "address": "Kaunas, V. Krėvės pr. 99B-11, LT-50371"
+  },
+  {
+    "name": "Nacionalinė žemės tarnyba prie Aplinkos ministerijos",
+    "code": "188704927",
+    "address": "Vilnius, Gedimino pr. 19, LT-01103"
+  },
+  {
+    "name": "Neįgaliųjų aplinkos asociacija",
+    "code": "193437415",
+    "address": "Panevėžys, Ramygalos g. 63-33, LT-36213"
+  },
+  {
+    "name": "Pikutiškių tvarkingos aplinkos asociacija",
+    "code": "306693564",
+    "address": "Vilniaus r. sav., Avižienių sen., Pikutiškių k., Jonažolių g. 15-2, LT-14305"
+  },
+  {
+    "name": "Sveikatingumo, socialinės aplinkos ir ekologijos gerinimo asociacija",
+    "code": "305665576",
+    "address": "Vilnius, Budiniškių g. 5-101, LT-05275"
+  },
+  {
+    "name": "Tarandės tvarkingos aplinkos asociacija",
+    "code": "305713245",
+    "address": "Vilnius, Užubalių g. 7-6, LT-12151"
+  },
+  {
+    "name": "UAB \"APLINKOS INŽINIERIŲ GRUPĖ\"",
+    "code": "110872756",
+    "address": "Vilnius, P. Lukšio g. 7, LT-08221",
+    "vatcode": "LT108727515"
+  },
+  {
+    "name": "UAB \"APLINKOS PRIEŽIŪRA\"",
+    "code": "302442326",
+    "address": "Kaunas, Lazūnų g. 33, LT-50140"
+  },
+  {
+    "name": "UAB \"APLINKOS VADYBA\"",
+    "code": "300513582",
+    "address": "Vilnius, Vilkpėdės g. 22, LT-03151",
+    "vatcode": "LT100003527619"
+  },
+  {
+    "name": "UAB \"Aplinkos apsaugos sprendimai\"",
+    "code": "302924835",
+    "address": "Vilnius, Veiverių g. 9B-41, LT-11346",
+    "vatcode": "LT100007529314"
+  },
+  {
+    "name": "UAB \"Aplinkos broliai\"",
+    "code": "305560041",
+    "address": "Rokiškio r. sav., Rokiškio kaimiškoji sen., Vilkų k. 1, LT-42411",
+    "vatcode": "LT100013176212"
+  },
+  {
+    "name": "UAB \"Aplinkos darbai\"",
+    "code": "301173613",
+    "address": "Kaunas, Ašigalio g. 6A, LT-49142",
+    "vatcode": "LT100003589013"
+  },
+  {
+    "name": "UAB \"Aplinkos gerovė\"",
+    "code": "305268934",
+    "address": "Kaunas, Buksmedžių g. 2A, LT-47222",
+    "vatcode": "LT100013820918"
+  },
+  {
+    "name": "UAB \"Aplinkos inžinerija\"",
+    "code": "300593710",
+    "address": "Vilnius, Architektų g. 15-45, LT-04112",
+    "vatcode": "LT100002646616"
+  },
+  {
+    "name": "UAB \"Aplinkos komfortas\"",
+    "code": "302616734",
+    "address": "Molėtai, Pušų g. 6, LT-33137",
+    "vatcode": "LT100006104116"
+  },
+  {
+    "name": "UAB \"Aplinkos priežiūros technika\"",
+    "code": "135527974",
+    "address": "Kaunas, Jonavos g. 136, LT-44136",
+    "vatcode": "LT355279716"
+  },
+  {
+    "name": "UAB \"Aplinkos projektai\"",
+    "code": "300090004",
+    "address": "Vilnius, Laurų Sodų 7-oji g. 17, LT-10150"
+  },
+  {
+    "name": "UAB \"Aplinkos servisas\"",
+    "code": "304433660",
+    "address": "Panevėžio r. sav., Raguvos sen., Dūdelėnų k. 2, LT-38168"
+  },
+  {
+    "name": "UAB \"Aplinkos tvarkymas\"",
+    "code": "303516968",
+    "address": "Šiaulių r. sav., Kairiai, Alyvų g. 19, LT-80115",
+    "vatcode": "LT100009098714"
+  },
+  {
+    "name": "UAB \"Aplinkos tvarkymo darbai\"",
+    "code": "303362089",
+    "address": "Vilnius, Viršupio Sodų 3-ioji g. 5, LT-10230",
+    "vatcode": "LT100008940518"
+  },
+  {
+    "name": "UAB \"Aplinkos tvarkymo projektai\"",
+    "code": "302520390",
+    "address": "Vilnius, Latvių g. 19A-7, LT-08113"
+  },
+  {
+    "name": "UAB \"Aplinkos tvarkymo sprendimai\"",
+    "code": "304510605",
+    "address": "Ukmergė, Serbentų g. 20, LT-20116",
+    "vatcode": "LT100010884514"
+  },
+  {
+    "name": "UAB \"Aplinkos tvarkymo technika\"",
+    "code": "178263473",
+    "address": "Širvintos, Vilniaus g. 142, LT-19127",
+    "vatcode": "LT782634716"
+  },
+  {
+    "name": "UAB \"Aplinkos švara\"",
+    "code": "302460858",
+    "address": "Kaunas, Neries krant. 2-46, LT-48342",
+    "vatcode": "LT100005210111"
+  },
+  {
+    "name": "UAB \"Tavo aplinkos vizija\"",
+    "code": "302779368",
+    "address": "Kaišiadorių r. sav., Žiežmarių apylinkės sen., Strėvininkų Babilių k. 9, LT-56263"
+  },
+  {
+    "name": "UAB \"Verslo aplinkos sprendimai\"",
+    "code": "304405465",
+    "address": "Kaunas, Maironio g. 26B, LT-44249",
+    "vatcode": "LT100010467014"
+  },
+  {
+    "name": "UAB Aplinkos priežiūros centras",
+    "code": "303517034",
+    "address": "Kauno r. sav., Raudondvario sen., Šilelio k., Vlado Dautarto g. 11, LT-54139",
+    "vatcode": "LT100010575112"
+  },
+  {
+    "name": "UAB Aplinkos priežiūros projektai",
+    "code": "305785134",
+    "address": "Kaunas, Salantų g. 5, LT-47453"
+  },
+  {
+    "name": "UAB Aplinkos tvarkymo grupė",
+    "code": "305328153",
+    "address": "Kauno r. sav., Vilkija, Pirties g. 12, LT-54229",
+    "vatcode": "LT100013188710"
+  },
+  {
+    "name": "UAB Aplinkos tvarkymo paslaugos",
+    "code": "300935701",
+    "address": "Vilnius, Laisvės pr. 78B-86, LT-05263"
+  },
+  {
+    "name": "Valstybinė saugomų teritorijų tarnyba prie Aplinkos ministerijos",
+    "code": "188724381",
+    "address": "Vilnius, Antakalnio g. 25, LT-10312"
+  },
+  {
+    "name": "Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos",
+    "code": "288600210",
+    "address": "Vilnius, A. Vienuolio g. 8, LT-01104"
+  },
+  {
+    "name": "Viešoji įstaiga \"Media ir aplinkos projektai\"",
+    "code": "300656349",
+    "address": "Vilnius, Bitininkų g. 4F-28, LT-08310",
+    "vatcode": "LT100004440012"
+  },
+  {
+    "name": "Viešoji įstaiga APLINKOS APSAUGOS POLITIKOS CENTRAS",
+    "code": "223823870",
+    "address": "Vilnius, A. Juozapavičiaus g. 9-409",
+    "vatcode": "LT238238716"
+  },
+  {
+    "name": "Viešoji įstaiga Aplinkos vadybos ir audito institutas",
+    "code": "124542380",
+    "address": "Vilnius, Dominikonų g. 4, LT-01131",
+    "vatcode": "LT245423811"
+  },
+  {
+    "name": "Viešoji įstaiga Baltijos aplinkos forumas",
+    "code": "110090837",
+    "address": "Vilnius, Šlamučių g. 2, LT-10238",
+    "vatcode": "LT100002936910"
+  },
+  {
+    "name": "VšĮ \"Aplinkos sveikatinimo institutas\"",
+    "code": "302471281",
+    "address": "Šiauliai, Architektų g. 18B-13, LT-78282"
+  },
+  {
+    "name": "VšĮ \"Aplinkos vertinimo projektai\"",
+    "code": "302307428",
+    "address": "Vilnius, Vydūno g. 6-51, LT-06204"
+  },
+  {
+    "name": "Šiaulių municipalinė aplinkos tyrimų laboratorija",
+    "code": "145412194",
+    "address": "Šiauliai, Gegužių g. 94, LT-78365"
+  },
+  {
+    "name": "MB \"Darni aplinkosauga\"",
+    "code": "304735363",
+    "address": "Alytaus r. sav., Nemunaičio sen., Užupių k., Kalvų g. 7, LT-64201"
+  },
+  {
+    "name": "UAB \"Aplinkosauga Jums\"",
+    "code": "306283750",
+    "address": "Kaunas, Partizanų g. 174-51, LT-50333",
+    "vatcode": "LT100016420616"
+  },
+  {
+    "name": "UAB \"Aplinkosauga LT\"",
+    "code": "304777775",
+    "address": "Kaunas, Veiverių g. 139, LT-46389",
+    "vatcode": "LT100012125212"
+  },
+  {
+    "name": "Asociacija \"Aplinkosauginiai melioracijos sprendimai\"",
+    "code": "305168948",
+    "address": "Vilniaus r. sav., Avižienių sen., Lindiniškių k., Bajorų g. 14-1, LT-14181"
+  },
+  {
+    "name": "MB \"Aplinkosauginiai projektai\"",
+    "code": "305680763",
+    "address": "Vilnius, Girulių g. 10-201, LT-12112"
+  },
+  {
+    "name": "Lietuvos aplinkosauginių ūkių asociacija",
+    "code": "305152424",
+    "address": "Trakų r. sav., Paluknio sen., Pakrempės k., Durpyno g. 7A, LT-21169",
+    "vatcode": "LT100015665815"
+  },
+  {
+    "name": "APLINKOSAUGOS INFORMACIJOS CENTRAS",
+    "code": "124707686",
+    "address": "Vilnius, Pylimo g. 15"
+  },
+  {
+    "name": "Aplinkosaugos koalicija",
+    "code": "302638894",
+    "address": "Vilnius, Visorių g. 6A-54, LT-08300"
+  },
+  {
+    "name": "MB \"Aplinkosaugos konsultacijos\"",
+    "code": "304719811",
+    "address": "Klaipėda, Virkučių g. 35, LT-92353",
+    "vatcode": "LT100012236517"
+  },
+  {
+    "name": "MB \"Aplinkosaugos specialistai\"",
+    "code": "304742906",
+    "address": "Vilnius, Skersinės Sodų 5-oji g. 29, LT-08449",
+    "vatcode": "LT100012050318"
+  },
+  {
+    "name": "MB \"Aplinkosaugos sprendimai\"",
+    "code": "302955357",
+    "address": "Molėtų r. sav., Dubingių sen., Mikališkių k. 1, LT-33254"
+  },
+  {
+    "name": "MB Aplinkosaugos namai",
+    "code": "306232631",
+    "address": "Vilnius, Architektų g. 111-10, LT-04211",
+    "vatcode": "LT100015650918"
+  },
+  {
+    "name": "UAB \"Aplinkosaugos darbai ir konsultacijos\"",
+    "code": "304371529",
+    "address": "Vilnius, Kalvarijų g. 110-50, LT-08211",
+    "vatcode": "LT100011928616"
+  },
+  {
+    "name": "UAB \"Aplinkosaugos profesionalų konsultacijos\"",
+    "code": "304226754",
+    "address": "Kaunas, Europos pr. 122, LT-46351",
+    "vatcode": "LT100010123417"
+  },
+  {
+    "name": "UAB \"Aplinkosaugos servisas\"",
+    "code": "150069377",
+    "address": "Alytus, Pramonės g. 31B, LT-62175",
+    "vatcode": "LT100003496817"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Aplinkosaugos paslaugų centras\"",
+    "code": "302570393",
+    "address": "Kaunas, Savanorių pr. 273, LT-50131",
+    "vatcode": "LT100005799317"
+  },
+  {
+    "name": "VIEŠOJI ĮSTAIGA \"REGIONINĖS PLĖTROS IR APLINKOSAUGOS GRUPĖ\"",
+    "code": "225508670",
+    "address": "Vilnius, Bitėnų g. 9-7, LT-06228"
+  },
+  {
+    "name": "Viešoji įstaiga \"Aplinkosaugos projektai ir konsultacijos\"",
+    "code": "303024778",
+    "address": "Vilnius, Eišiškių pl. 45-42, LT-02184"
+  },
+  {
+    "name": "Viešoji įstaiga \"Inovatyvūs aplinkosaugos sprendimai\"",
+    "code": "303075694",
+    "address": "Vilnius, J. Jasinskio g. 16A, LT-03163"
+  },
+  {
+    "name": "Viešoji įstaiga Aplinkosaugos valdymo ir technologijų centras",
+    "code": "210069790",
+    "address": "Kaunas, Laisvės al. 94, LT-44251"
+  },
+  {
+    "name": "Viešoji įstaiga Nemuno regiono turizmo ir aplinkosaugos agentūra",
+    "code": "151482247",
+    "address": "Marijampolės sav., Marijampolės sen., Svetlicos k."
+  },
+  {
+    "name": "VšĮ Aplinkosaugos sprendimų centras",
+    "code": "303028794",
+    "address": "Vilnius, Petro Rimšos g. 11-4, LT-10313"
+  },
+  {
+    "name": "MB Aplinkosta",
+    "code": "306144843",
+    "address": "Kaunas, Maironio g. 16A, LT-44298",
+    "vatcode": "LT100015421013"
+  },
+  {
+    "name": "UAB \"Statyba ir aplinkotvarka\"",
+    "code": "304501570",
+    "address": "Vilniaus r. sav., Šatrininkų sen., Kapitulščiznos k., Tulpių g. 16, LT-13132"
+  },
+  {
+    "name": "UAB \"Tomo aplinkotvarka\"",
+    "code": "304478673",
+    "address": "Kauno r. sav., Babtų sen., Piepalių k., Algupio g. 6, LT-54293",
+    "vatcode": "LT100010813313"
+  },
+  {
+    "name": "UAB \"Aplinkotvarkos darbai\"",
+    "code": "303387270",
+    "address": "Alytaus r. sav., Pivašiūnų sen., Čižiūnų k., Čižiūnų kel. 13, LT-64485",
+    "vatcode": "LT100008916717"
+  },
+  {
+    "name": "UAB \"Aplinkotvarkos servisas\"",
+    "code": "302308462",
+    "address": "Marijampolė, Draugystės g. 27-7, LT-68239"
+  },
+  {
+    "name": "UAB \"Aplinkotvarkos sprendimai\"",
+    "code": "303067053",
+    "address": "Kauno r. sav., Domeikavos sen., Šakių k., Tvenkinių g. 8A-54, LT-47413",
+    "vatcode": "LT100007764618"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Varėnos aplinkotvarkos grupė\"",
+    "code": "184842158",
+    "address": "Varėna, Pramonės g. 3, LT-65210",
+    "vatcode": "LT848421515"
+  },
+  {
+    "name": "Aplinkotyros klubas \"Viola\"",
+    "code": "183840695",
+    "address": "Utena, Paupio g. 1, LT-28140"
+  },
+  {
+    "name": "MB \"Aplinkošvara\"",
+    "code": "305568892",
+    "address": "Vilniaus r. sav., Sužionių sen., Sužionių k., Kalvinės g. 8, LT-15112",
+    "vatcode": "LT100013770110"
+  },
+  {
+    "name": "Išplėstinės aplinkybės, MB",
+    "code": "305911348",
+    "address": "Kaunas, S. Daukanto g. 10-39, LT-44308"
+  },
+  {
+    "name": "UAB \"Aplinkybės\"",
+    "code": "305734307",
+    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120",
+    "vatcode": "LT100014696719"
+  },
+  {
+    "name": "Asociacija \"Už harmoningą aplinką\"",
+    "code": "305670178",
+    "address": "Vilnius, Džiaugsmo g. 74, LT-11302"
+  },
+  {
+    "name": "MB \"Susitvarkome aplinką\"",
+    "code": "306031190",
+    "address": "Kauno r. sav., Taurakiemio sen., Guogų k., Rytų kel. 19, LT-53183"
+  }
+]

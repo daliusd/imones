@@ -1,0 +1,683 @@
+[
+  {
+    "name": "Šiaulių Didždvario gimnazija",
+    "code": "190531375",
+    "address": "Šiauliai, Vilniaus g. 188, LT-76299"
+  },
+  {
+    "name": "A. Didžgalvio įmonė \"Denilis\"",
+    "code": "134679840",
+    "address": "Kaunas, A. Juozapavičiaus pr. 42-19, LT-45220"
+  },
+  {
+    "name": "N. Didžgalvio firma",
+    "code": "180725428",
+    "address": "Telšiai, Kepyklos g. 11, LT-87105",
+    "vatcode": "LT100003531314"
+  },
+  {
+    "name": "Ignalinos rajono medžiotojų būrelis \"Didžiagiris\"",
+    "code": "291562780",
+    "address": "Ignalinos r. sav., Ignalinos sen., Bendoriškės k. 2, LT-30194"
+  },
+  {
+    "name": "Didžiasalio bendruomenė",
+    "code": "155644846",
+    "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Pupienos g. 3, LT-30153"
+  },
+  {
+    "name": "Didžiasalio kaimo, Nemėžio sen., Vilniaus rajono daugiabučių gyvenamųjų namų esančių Pakupečių g. 55 savininkų bendrija \"Pakupečiai 55\"",
+    "code": "303309072",
+    "address": "Vilniaus r. sav., Nemėžio sen., Didžiasalio k., Pakupečių g. 55-7, LT-13264"
+  },
+  {
+    "name": "Didžiasalio sodininkų bendrija \"Birvėta\"",
+    "code": "191074118",
+    "address": "Ignalinos r. sav., Dūkšto sen., Didžiasalio k."
+  },
+  {
+    "name": "Didžiasalio teritorinė darbininkų sąjunga",
+    "code": "255633060",
+    "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Pupienos g. 3-310, LT-30153"
+  },
+  {
+    "name": "Didžiasalio vaikų globos ir socialinės paramos šeimai centras",
+    "code": "155626061",
+    "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Pupienos g. 4, LT-30153"
+  },
+  {
+    "name": "Ignalinos r. Didžiasalio \"Ryto\" gimnazija",
+    "code": "190239620",
+    "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Agarinio g. 10, LT-30154"
+  },
+  {
+    "name": "Ignalinos rajono savivaldybės administracijos Didžiasalio seniūnija",
+    "code": "188632933",
+    "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Salos g. 23, LT-30152"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Didžiasalio komunalinės paslaugos\"",
+    "code": "155513971",
+    "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Salos g. 23, LT-30152",
+    "vatcode": "LT555139716"
+  },
+  {
+    "name": "VšĮ Didžiasalio saulė",
+    "code": "306965893",
+    "address": "Vilniaus r. sav., Šatrininkų sen., Vėliučionių k., Liepų al. 27, LT-13130"
+  },
+  {
+    "name": "MB Didžiausia bendrija",
+    "code": "306709449",
+    "address": "Kaunas, A. Juozapavičiaus pr. 139A-48, LT-45267"
+  },
+  {
+    "name": "\"Didžioji gatvė\", UAB",
+    "code": "304710876",
+    "address": "Vilnius, Kaštonų g. 2-28, LT-01107",
+    "vatcode": "LT100011601615"
+  },
+  {
+    "name": "\"Didžioji prekyba\", UAB",
+    "code": "303383012",
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+  },
+  {
+    "name": "DNSB \"Didžioji sankryža\"",
+    "code": "302615454",
+    "address": "Vilnius, Šeimyniškių g. 17-4, LT-09312"
+  },
+  {
+    "name": "DNSB Didžioji 26",
+    "code": "306831848",
+    "address": "Kėdainiai, Didžioji g. 26-8, LT-57255"
+  },
+  {
+    "name": "Daugiabučio namo Didžioji g. 10, Vilniuje savininkų bendrija",
+    "code": "300037464",
+    "address": "Vilnius, Didžioji g. 10A-55, LT-01128"
+  },
+  {
+    "name": "Daugiabučio namo savininkų bendrija \"Didžioji g. 1A\"",
+    "code": "305931977",
+    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Didžioji g. 1A, LT-54123"
+  },
+  {
+    "name": "Daugiabučio namo savininkų bendrija Didžioji 29",
+    "code": "306193185",
+    "address": "Kėdainiai, Didžioji g. 29, LT-57257"
+  },
+  {
+    "name": "Lietuvos ir Kinijos UAB \"Didžioji siena\"",
+    "code": "110724056",
+    "address": "Kaunas, M. Daukšos g. 29-25, LT-44282"
+  },
+  {
+    "name": "Lietuvos laisvųjų ir pripažintųjų mūrininkų Didžioji ložė A.F. & A.M.",
+    "code": "302250201",
+    "address": "Vilnius, Tilto g. 3-6, LT-01101"
+  },
+  {
+    "name": "MB \"Chano didžioji šventė\"",
+    "code": "306795010",
+    "address": "Vilnius, A. Gustaičio g. 23-255A, LT-02189"
+  },
+  {
+    "name": "MB \"Didžioji bendrija\"",
+    "code": "306702497",
+    "address": "Vilnius, Vytenio g. 20-321, LT-03207"
+  },
+  {
+    "name": "MB \"Didžioji pelėda\"",
+    "code": "305857509",
+    "address": "Vilnius, Vilkpėdės g. 9-109, LT-03157",
+    "vatcode": "LT100014273216"
+  },
+  {
+    "name": "MB \"Didžioji pėda\"",
+    "code": "305621327",
+    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Kėnių g. 3-1, LT-54307",
+    "vatcode": "LT100014356811"
+  },
+  {
+    "name": "MB Didžioji 22",
+    "code": "306238584",
+    "address": "Vilnius, T. Ševčenkos g. 16K-504, LT-03111"
+  },
+  {
+    "name": "UAB \"DIDŽIOJI NYKŠTUKĖ\"",
+    "code": "267615860",
+    "address": "Molėtų r. sav., Luokesos sen., Jaurų I k."
+  },
+  {
+    "name": "UAB \"DIDŽIOJI RAMUNĖ\"",
+    "code": "125378489",
+    "address": "Vilnius, Didžioji g. 25, LT-01128",
+    "vatcode": "LT253784811"
+  },
+  {
+    "name": "UAB \"Didžioji nasturtė\"",
+    "code": "304220947",
+    "address": "Molėtai, Pušų g. 3, LT-33137"
+  },
+  {
+    "name": "UAB \"Didžioji prieplauka\"",
+    "code": "304047356",
+    "address": "Telšiai, Alyvų g. 64, LT-87327"
+  },
+  {
+    "name": "UAB \"Didžioji statyba\"",
+    "code": "303092715",
+    "address": "Vilnius, Švitrigailos g. 7, LT-03110",
+    "vatcode": "LT100007933711"
+  },
+  {
+    "name": "UAB \"Didžioji virtuvė\"",
+    "code": "304928946",
+    "address": "Vilnius, Vyšnių g. 6-36, LT-02173"
+  },
+  {
+    "name": "UAB Didžioji 33",
+    "code": "306104884",
+    "address": "Vilnius, Antano Tumėno g. 4, LT-01109"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė DIDŽIOJI VAISTINĖ",
+    "code": "147484783",
+    "address": "Panevėžys, Laisvės a. 16, LT-35200",
+    "vatcode": "LT474847811"
+  },
+  {
+    "name": "Viešoji įstaiga \"Didžioji upė\"",
+    "code": "300052854",
+    "address": "Vilnius, Konstitucijos pr. 7, LT-09308"
+  },
+  {
+    "name": "VšĮ \"Lietuvos Didžioji Kunigaikštystė\"",
+    "code": "302579047",
+    "address": "Vilnius, Panerių g. 11, LT-03209"
+  },
+  {
+    "name": "Workland Lithuania Didžioji UAB",
+    "code": "304828294",
+    "address": "Vilnius, Gedimino pr. 20, LT-01103",
+    "vatcode": "LT100011613114"
+  },
+  {
+    "name": "\"Lietuvos didžiojo kunigaikščio Vytauto ainiai\"",
+    "code": "304880451",
+    "address": "Varėnos r. sav., Varėnos sen., Senosios Varėnos k., Vilniaus g. 11, LT-65487"
+  },
+  {
+    "name": "Asociacija \"Vilniaus Vytauto Didžiojo Lions klubas\"",
+    "code": "300115817",
+    "address": "Vilnius, M. K. Čiurlionio g. 84, LT-03100"
+  },
+  {
+    "name": "Asociacija \"Vytauto Didžiojo universiteto Informatikos fakulteto absolventų Alumni draugija\"",
+    "code": "302332659",
+    "address": "Kaunas, Vileikos g. 8, LT-44404"
+  },
+  {
+    "name": "Bazilionų Šv. Bazilijaus Didžiojo parapija",
+    "code": "191252460",
+    "address": "Šiaulių r. sav., Bubių sen., Bazilionų mstl."
+  },
+  {
+    "name": "Daugiabučių namų savininkų bendrija \"Vytauto Didžiojo g. 72\"",
+    "code": "168080541",
+    "address": "Pakruojis, Vytauto Didžiojo g. 72, LT-83159"
+  },
+  {
+    "name": "Jurbarko Vytauto Didžiojo progimnazija",
+    "code": "191873296",
+    "address": "Jurbarkas, Vytauto Didžiojo g. 53A, LT-74134"
+  },
+  {
+    "name": "Kauno Švč. M. Marijos Ėmimo į dangų (Vytauto Didžiojo) rektoratas",
+    "code": "191160599",
+    "address": "Kaunas, Aleksoto g. 3, LT-44280"
+  },
+  {
+    "name": "Klaipėdos Vytauto Didžiojo gimnazija",
+    "code": "190438049",
+    "address": "Klaipėda, S. Daukanto g. 31, LT-92231"
+  },
+  {
+    "name": "Lietuvos kariuomenės Didžiojo Lietuvos etmono Jonušo Radvilos mokomasis pulkas",
+    "code": "188728789",
+    "address": "Jonavos r. sav., Ruklos sen., Ruklos k., Laumės g. 3, LT-55283"
+  },
+  {
+    "name": "Lietuvos kariuomenės Lietuvos Didžiojo kunigaikščio Gedimino štabo batalionas",
+    "code": "193086724",
+    "address": "Vilnius, Jono Kairiūkščio g. 14, LT-08411"
+  },
+  {
+    "name": "Lietuvos kariuomenės Lietuvos didžiojo etmono Jono Karolio Chodkevičiaus pėstininkų brigada \"Žemaitija\"",
+    "code": "304170519",
+    "address": "Klaipėda, Jaunystės g. 7, LT-91274"
+  },
+  {
+    "name": "Lietuvos kariuomenės Lietuvos didžiojo etmono Jono Karolio Chodkevičiaus pėstininkų brigados \"Žemaitija\" Brigados generolo Motiejaus Pečiulionio artilerijos batalionas",
+    "code": "304503354",
+    "address": "Šilalės r. sav., Pajūris, Dariaus ir Girėno g. 19, LT-75287"
+  },
+  {
+    "name": "Lietuvos kariuomenės Lietuvos didžiojo etmono Jono Karolio Chodkevičiaus pėstininkų brigados \"Žemaitija\" Kunigaikščio Margirio pėstininkų batalionas",
+    "code": "304856048",
+    "address": "Radviliškis, Dariaus ir Girėno g. 144, LT-82141"
+  },
+  {
+    "name": "Lietuvos kariuomenės Lietuvos didžiojo etmono Jono Karolio Chodkevičiaus pėstininkų brigados \"Žemaitija\" Lietuvos didžiojo kunigaikščio Butigeidžio dragūnų batalionas",
+    "code": "300087741",
+    "address": "Klaipėda, Liepojos g. 5, LT-92289"
+  },
+  {
+    "name": "Lietuvos kariuomenės Lietuvos didžiojo etmono Jono Karolio Chodkevičiaus pėstininkų brigados \"Žemaitija\" Lietuvos didžiojo kunigaikščio Kęstučio pėstininkų batalionas",
+    "code": "188745742",
+    "address": "Tauragės r. sav., Tauragės sen., Laužo k. 1, LT-72370"
+  },
+  {
+    "name": "Lietuvos kariuomenės Lietuvos didžiojo etmono Jono Karolio Chodkevičiaus pėstininkų brigados \"Žemaitija\" vadovybė",
+    "code": "306083301",
+    "address": "Klaipėda, Jaunystės g. 7, LT-91274"
+  },
+  {
+    "name": "Lietuvos kariuomenės Lietuvos didžiojo etmono Kristupo Radvilos Perkūno ryšių ir informacinių sistemų batalionas",
+    "code": "304980697",
+    "address": "Vilnius, Jono Kairiūkščio g. 14, LT-08411"
+  },
+  {
+    "name": "Lietuvos kariuomenės Lietuvos didžiojo kunigaikščio Vytenio bendrosios paramos logistikos batalionas",
+    "code": "188788238",
+    "address": "Marijampolė, Vytauto g. 72, LT-68283"
+  },
+  {
+    "name": "Lietuvos kariuomenės Pėstininkų brigados \"Geležinis Vilkas\" Lietuvos didžiojo kunigaikščio Algirdo pėstininkų batalionas",
+    "code": "188745361",
+    "address": "Jonavos r. sav., Rukla, Karaliaus Mindaugo g. 11"
+  },
+  {
+    "name": "Lietuvos kariuomenės Specialiųjų operacijų pajėgų Vytauto Didžiojo jėgerių batalionas",
+    "code": "193014059",
+    "address": "Kaunas, Vaidoto g. 209, LT-45393"
+  },
+  {
+    "name": "Pirmojo pėstininkų Lietuvos Didžiojo Kunigaikščio Gedimino pulko ir Lietuvos Didžiojo Kunigaikščio Gedimino štabo bataliono muziejus",
+    "code": "188207882",
+    "address": "Vilnius, Jono Kairiūkščio g. 14, LT-08411"
+  },
+  {
+    "name": "Trakų Vytauto Didžiojo gimnazija",
+    "code": "190667368",
+    "address": "Trakai, Birutės g. 48, LT-21114"
+  },
+  {
+    "name": "Ukmergės karo istorijos klubas \"1 - as LDK Didžiojo Etmono pėstininkų regimentas\"",
+    "code": "300575452",
+    "address": "Ukmergė, Dariaus ir Girėno g. 16-4, LT-20151"
+  },
+  {
+    "name": "VILNIAUS VYTAUTO DIDŽIOJO GIMNAZIJOS PROFESINĖ SĄJUNGA",
+    "code": "304977562",
+    "address": "Vilnius, J. Jasinskio g. 9, LT-01112"
+  },
+  {
+    "name": "VYTAUTO DIDŽIOJO SĄJUNGA",
+    "code": "302459539",
+    "address": "Vilnius, Mėsinių g. 9-2, LT-01133"
+  },
+  {
+    "name": "Viešoji įstaiga Vytauto Didžiojo universiteto Ugnės Karvelis gimnazija",
+    "code": "191090460",
+    "address": "Kauno r. sav., Akademija, Mokyklos g. 5, LT-53347"
+  },
+  {
+    "name": "Viešoji įstaiga Vytauto Didžiojo universiteto Verslo praktikų centras",
+    "code": "303262174",
+    "address": "Kaunas, Vytauto pr. 71-3, LT-44321"
+  },
+  {
+    "name": "Vilniaus Vytauto Didžiojo gimnazija",
+    "code": "300134269",
+    "address": "Vilnius, Augustijonų g. 8, LT-01127"
+  },
+  {
+    "name": "Vilniaus r. Maišiagalos Lietuvos didžiojo kunigaikščio Algirdo gimnazija",
+    "code": "191315633",
+    "address": "Vilniaus r. sav., Maišiagala, Vilniaus g. 15A, LT-14242"
+  },
+  {
+    "name": "Vytauto Didžiojo 1430 paramos fondas",
+    "code": "306652350",
+    "address": "Kaunas, K. Donelaičio g. 64-1, LT-44248"
+  },
+  {
+    "name": "Vytauto Didžiojo karo muziejus",
+    "code": "190756315",
+    "address": "Kaunas, K. Donelaičio g. 64, LT-44248"
+  },
+  {
+    "name": "Vytauto Didžiojo kredito unija",
+    "code": "112046049",
+    "address": "Kaišiadorys, Birutės g. 4-2, LT-56124"
+  },
+  {
+    "name": "Vytauto Didžiojo sambūrio labdaros ir paramos fondas",
+    "code": "193528295",
+    "address": "Vilnius, Antakalnio g. 35-68, LT-10312"
+  },
+  {
+    "name": "Vytauto Didžiojo universitetas",
+    "code": "111950396",
+    "address": "Kaunas, K. Donelaičio g. 58, LT-44248",
+    "vatcode": "LT119503917"
+  },
+  {
+    "name": "Vytauto Didžiojo universiteto \"Atžalyno\" progimnazija",
+    "code": "290136920",
+    "address": "Kaunas, Partizanų g. 46, LT-49460"
+  },
+  {
+    "name": "Vytauto Didžiojo universiteto \"Rasos\" gimnazija",
+    "code": "190138557",
+    "address": "Kaunas, P. Lukšio g. 40, LT-49294"
+  },
+  {
+    "name": "Vytauto Didžiojo universiteto Kauno botanikos sodo draugų klubas",
+    "code": "193419926",
+    "address": "Kaunas, Ž. E. Žilibero g. 6, LT-46324"
+  },
+  {
+    "name": "Vytauto Didžiojo universiteto Studentų atstovybė",
+    "code": "193417341",
+    "address": "Kaunas, K. Donelaičio g. 52, LT-44244"
+  },
+  {
+    "name": "Vytauto Didžiojo universiteto absolventų klubas",
+    "code": "191939579",
+    "address": "Kaunas, K. Donelaičio g. 58, LT-44248"
+  },
+  {
+    "name": "Vytauto Didžiojo universiteto kamerinio merginų choro asociacija",
+    "code": "303253314",
+    "address": "Kaunas, S. Daukanto g. 28, LT-44246"
+  },
+  {
+    "name": "Vytauto Didžiojo universiteto klasikinio ugdymo mokykla",
+    "code": "190134530",
+    "address": "Kaunas, Vokiečių g. 164, LT-45299"
+  },
+  {
+    "name": "Vytauto Didžiojo universiteto profesinė sąjunga \"Akademus\"",
+    "code": "302641545",
+    "address": "Kauno r. sav., Akademija, Studentų g. 11, LT-53361"
+  },
+  {
+    "name": "VšĮ Vytauto Didžiojo futbolo akademija",
+    "code": "304829581",
+    "address": "Vilnius, Saltoniškių g. 34A, LT-08106"
+  },
+  {
+    "name": "Šventųjų, lygių apaštalams, kunigaikščio Volodimiro Didžiojo ir kunigaikštienės Olhos bendruomenė",
+    "code": "304830466",
+    "address": "Vilniaus r. sav., Sudervės sen., Grikienių k., Riešės 8-oji g. 11, LT-14304"
+  },
+  {
+    "name": "R. Didžioko konsultacinė firma",
+    "code": "140742238",
+    "address": "Klaipėda, Didžioji Vandens g. 14A-5, LT-91246"
+  },
+  {
+    "name": "\"ŠV. ADALBERTO - LIETUVOS DIDŽIOSIOS KUNIGAIKŠTYSTĖS - RITERIŲ ORDINAS\"",
+    "code": "304341799",
+    "address": "Vilnius, Laisvės pr. 60, LT-05120"
+  },
+  {
+    "name": "Bendra Lietuvos ir Didžiosios Britanijos įmonė uždaroji akcinė bendrovė \"BALTIJOS TYRIMAI\"",
+    "code": "110367316",
+    "address": "Vilnius, M. K. Čiurlionio g. 7-18, LT-03104",
+    "vatcode": "LT103673113"
+  },
+  {
+    "name": "Bendra Lietuvos ir Didžiosios Britanijos įmonė uždaroji akcinė bendrovė \"HARDIM\"",
+    "code": "110664036",
+    "address": "Vilnius, Žirmūnų g. 139A-101, LT-09120",
+    "vatcode": "LT106640314"
+  },
+  {
+    "name": "Didžiosios Britanijos firmos \"SHELL INTERNATIONAL PETROLEUM COMPANY LIMITED\" atstovybė",
+    "code": "110223419",
+    "address": "Vilnius, Gedimino pr. 3A-2, LT-01103"
+  },
+  {
+    "name": "Didžiosios Britanijos kompanijos \"DESFORD INVESTMENT INC.\" atstovybė",
+    "code": "110254126",
+    "address": "Vilnius, Architektų g. 59-28, LT-04217"
+  },
+  {
+    "name": "Didžiosios Britanijos ribotos atsakomybės bendrovės \"ANGLO BALT LIMITED\" atstovybė",
+    "code": "110239747",
+    "address": "Kaunas, Kęstučio g. 31-6, LT-44312"
+  },
+  {
+    "name": "Didžiosios Britanijos ribotos atsakomybės kompanijos \"European Materials Agency Limited\" atstovybė",
+    "code": "110252456",
+    "address": "Vilnius, Žemaitijos g. 8-224"
+  },
+  {
+    "name": "Didžiosios Britanijos uždarosios akcinės bendrovės \"FRINTON TRADING LIMITED\" atstovybė",
+    "code": "110247466",
+    "address": "Kaunas, Pašilės g. 38-16, LT-51359"
+  },
+  {
+    "name": "LIETUVOS DIDŽIOSIOS KUNIGAIKŠTIENĖS BIRUTĖS KARININKŲ ŠEIMŲ MOTERŲ VILNIAUS DRAUGIJA",
+    "code": "293186120",
+    "address": "Vilnius, Pamėnkalnio g. 13, LT-01114"
+  },
+  {
+    "name": "LIETUVOS DIDŽIOSIOS KUNIGAIKŠTYSTĖS KILMINGŲJŲ PALIKUONIŲ BENDRIJA",
+    "code": "302968867",
+    "address": "Vilnius, Laisvės pr. 60, LT-05120"
+  },
+  {
+    "name": "LIETUVOS DIDŽIOSIOS KUNIGAIKŠTYSTĖS KILMINGŲJŲ SUSIVIENIJIMAS",
+    "code": "302968924",
+    "address": "Vilnius, Fabijoniškių g. 69-38, LT-07111"
+  },
+  {
+    "name": "LIETUVOS IR DIDŽIOSIOS BRITANIJOS ASOCIACIJA \"BRITISH CHAMBER OF COMMERCE\"",
+    "code": "124923634",
+    "address": "Vilnius, T. Ševčenkos g. 21, LT-03111"
+  },
+  {
+    "name": "Lietuvos Didžiosios Kunigaikštystės ponų taryba",
+    "code": "304751150",
+    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Pilies tak. 1, LT-54127"
+  },
+  {
+    "name": "Lietuvos didžiosios kunigaikštienės Birutės Alytaus įgulos karininkų šeimų moterų draugija",
+    "code": "303141500",
+    "address": "Alytus, Ulonų g. 14, LT-62157"
+  },
+  {
+    "name": "Lietuvos didžiosios kunigaikštienės Birutės Klaipėdos regiono karininkų šeimų moterų draugija",
+    "code": "302724254",
+    "address": "Klaipėda, Vytauto g. 5, LT-92138"
+  },
+  {
+    "name": "Lietuvos didžiosios kunigaikštienės Birutės Panevėžio įgulos karininkų šeimų moterų draugija",
+    "code": "303208924",
+    "address": "Panevėžys, Kranto g. 43-6, LT-35172"
+  },
+  {
+    "name": "Lietuvos didžiosios kunigaikštienės Birutės karininkų šeimų moterų draugija",
+    "code": "193259172",
+    "address": "Kaunas, A. Mickevičiaus g. 19, LT-44310"
+  },
+  {
+    "name": "Lietuvos didžiosios kunigaikštienės Birutės karininkų šeimų moterų sąjunga",
+    "code": "295705350",
+    "address": "Vilnius, Pamėnkalnio g. 13, LT-01114"
+  },
+  {
+    "name": "Lietuvos didžiosios kunigaikštienės Birutės karininkų šeimų moterų sąjungos Šiaulių draugija",
+    "code": "305668412",
+    "address": "Šiauliai, Lakūnų g. 3, LT-77103"
+  },
+  {
+    "name": "Lietuvos ir Didžiosios Britanijos uždaroji akcinė bendrovė \"KEMIKVESTA\"",
+    "code": "122781741",
+    "address": "Vilnius, Verkių g. 29, LT-09108",
+    "vatcode": "LT227817410"
+  },
+  {
+    "name": "Lietuvos ir Didžiosios Britanijos uždaroji akcinė bendrovė \"PIPRA\"",
+    "code": "110746857",
+    "address": "Ukmergės r. sav., Šešuolių sen., Liaušių k."
+  },
+  {
+    "name": "Lietuvos kariuomenės Krašto apsaugos savanorių pajėgų Didžiosios Kovos apygardos 8-oji rinktinė",
+    "code": "191688479",
+    "address": "Vilnius, Jono Kairiūkščio g. 14, LT-08411"
+  },
+  {
+    "name": "Lietuvos kariuomenės Pėstininkų brigados \"Geležinis vilkas\" Didžiosios kunigaikštienės Birutės ulonų batalionas",
+    "code": "188745023",
+    "address": "Alytus, Ulonų g. 14, LT-62157"
+  },
+  {
+    "name": "Lietuvos-Didžiosios Britanijos-Italijos-Rusijos uždaroji akcinė bendrovė \"MEDIREL\"",
+    "code": "110674525",
+    "address": "Vilnius, Subačiaus g. 8-7, LT-01302"
+  },
+  {
+    "name": "Lindiniškių Didžiosios gatvės gerinimo asociacija",
+    "code": "306682151",
+    "address": "Vilnius, Č. Sugiharos g. 4-26, LT-05115"
+  },
+  {
+    "name": "MB Didžiosios investicijos",
+    "code": "306168698",
+    "address": "Šiauliai, Draugystės pr. 8-42, LT-77150",
+    "vatcode": "LT100015545219"
+  },
+  {
+    "name": "Mažoji bendrija Lietuvos Didžiosios Kunigaikštystės plytinė",
+    "code": "303236172",
+    "address": "Varėnos r. sav., Matuizų sen., Krūminių k., Versekos g. 3, LT-65474",
+    "vatcode": "LT100010763616"
+  },
+  {
+    "name": "Nacionalinis muziejus Lietuvos Didžiosios Kunigaikštystės valdovų rūmai",
+    "code": "302297628",
+    "address": "Vilnius, Katedros a. 4, LT-01143",
+    "vatcode": "LT100007722511"
+  },
+  {
+    "name": "UAB \"Didžiosios Sėlos\"",
+    "code": "302479748",
+    "address": "Šalčininkų r. sav., Gerviškių sen., Didžiųjų Sėlų k.",
+    "vatcode": "LT100005179718"
+  },
+  {
+    "name": "Viešoji įstaiga \"LIETUVOS DIDŽIOSIOS KUNIGAIKŠTYSTĖS INSTITUTAS\"",
+    "code": "302464098",
+    "address": "Kaunas, Saulėgrąžų g. 24, LT-46326"
+  },
+  {
+    "name": "Vilniaus r. Didžiosios Riešės vaikų lopšelis-darželis",
+    "code": "306422659",
+    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Mokyklos g. 19, LT-14260"
+  },
+  {
+    "name": "VšĮ \"LIETUVOS DIDŽIOSIOS KUNIGAIKŠTYSTĖS ATMINTIES RŪMAI\"",
+    "code": "302760752",
+    "address": "Vilnius, Nemenčinės pl. 166A, LT-10156"
+  },
+  {
+    "name": "Kooperatinė bendrovė \"Didžiuliai\"",
+    "code": "172395799",
+    "address": "Raseinių r. sav., Ariogalos sen., Didžiulių k., Lentpjūvės g. 4, LT-60295",
+    "vatcode": "LT723957917"
+  },
+  {
+    "name": "A. Didžiulio firma \"ADRILĖ\"",
+    "code": "124623042",
+    "address": "Vilnius, Viršuliškių g. 26-15, LT-05110",
+    "vatcode": "LT246230411"
+  },
+  {
+    "name": "UAB \"A. Didžiulio odontologijos klinika\"",
+    "code": "173036870",
+    "address": "Rokiškis, Taikos g. 1-1, LT-42145"
+  },
+  {
+    "name": "Z. Didžiulio individuali įmonė \"ALUOJA\"",
+    "code": "122397363",
+    "address": "Vilnius, Taikos g. 239-21, LT-05213"
+  },
+  {
+    "name": "MB \"Didžiulis\"",
+    "code": "304570627",
+    "address": "Trakų r. sav., Lentvario sen., Dėdeliškių k., Kalno g. 21B, LT-21401",
+    "vatcode": "LT100015383612"
+  },
+  {
+    "name": "Anykščių rajono savivaldybės Liudvikos ir Stanislovo Didžiulių viešoji biblioteka",
+    "code": "190049980",
+    "address": "Anykščiai, Vyskupo skv. 1, LT-29145"
+  },
+  {
+    "name": "Didžiulių kaimo bendruomenė",
+    "code": "172779967",
+    "address": "Raseinių r. sav., Ariogalos sen., Didžiulių k."
+  },
+  {
+    "name": "Didžiulė bendruomenė",
+    "code": "304703426",
+    "address": "Trakų r. sav., Lentvario sen., Karpiškių k. 3, LT-25138"
+  },
+  {
+    "name": "VšĮ \"Kad mama didžiuotųsi\"",
+    "code": "304777736",
+    "address": "Vilnius, Blindžių g. 22-7, LT-08110"
+  },
+  {
+    "name": "Didžiųjų Lelių bendruomenė",
+    "code": "304422450",
+    "address": "Klaipėdos r. sav., Sendvario sen., Lelių k., Žvaigždynų g. 3, LT-91277"
+  },
+  {
+    "name": "Didžiųjų Šelvių kaimo bendruomenė",
+    "code": "300633788",
+    "address": "Vilkaviškio r. sav., Šeimenos sen., Didžiųjų Šelvių k., Saulės g. 8, LT-70194"
+  },
+  {
+    "name": "MB Didžiųjų duomenų centras",
+    "code": "304716224",
+    "address": "Vilnius, Smolensko g. 10-72, LT-03201"
+  },
+  {
+    "name": "Skuodo rajono Didžiųjų Rūšupių kaimo bendruomenė",
+    "code": "300152185",
+    "address": "Skuodo r. sav., Skuodo sen., Didžiųjų Rūšupių k., Mokyklos g. 6, LT-98104"
+  },
+  {
+    "name": "Viešoji įstaiga \"Didžiųjų motinų studija\"",
+    "code": "126197919",
+    "address": "Vilnius, Mykolo Marcinkevičiaus g. 29-14, LT-08433"
+  },
+  {
+    "name": "Kaimo bendruomenė \"Didžprūdis\"",
+    "code": "306617381",
+    "address": "Kupiškio r. sav., Kupiškio sen., Didžprūdžių k., Didžprūdžio g. 9, LT-40427"
+  },
+  {
+    "name": "MB Didžėjus",
+    "code": "306056247",
+    "address": "Vilniaus r. sav., Šatrininkų sen., Rokantiškių k., Šumsko pl. 2A, LT-13126",
+    "vatcode": "LT100014888317"
+  }
+]

@@ -1,0 +1,838 @@
+[
+  {
+    "name": "VšĮ Bažnytinio paveldo muziejus",
+    "code": "300100459",
+    "address": "Vilnius, S. Skapo g. 4, LT-01122"
+  },
+  {
+    "name": "Lietuvos evangelikų reformatų Sinedrionas - bažnytinis teismas",
+    "code": "304347161",
+    "address": "Biržai, Reformatų g. 3A, LT-41175"
+  },
+  {
+    "name": "Lietuvos evangelikų liuteronų bažnytinės muzikos sandrauga",
+    "code": "191957449",
+    "address": "Jurbarkas, K. Donelaičio g. 41, LT-74168"
+  },
+  {
+    "name": "Švedriškės bažnytkaimio bendruomenė \"Švedriškės santalka\"",
+    "code": "302013533",
+    "address": "Ignalinos r. sav., Kazitiškio sen., Švedriškės k., Ežero g. 10, LT-30251"
+  },
+  {
+    "name": "\"Sostinės\" evangelikų baptistų bažnyčia",
+    "code": "306124577",
+    "address": "Vilnius, Tuskulėnų g. 3-133, LT-09215"
+  },
+  {
+    "name": "180 laipsnių bažnyčia",
+    "code": "304981774",
+    "address": "Vilnius, Vytenio g. 39-1, LT-03207"
+  },
+  {
+    "name": "Akmenynės Šv. Kūdikėlio Jėzaus Teresės bažnyčia",
+    "code": "191307348",
+    "address": "Šalčininkų r. sav., Akmenynės sen., Akmenynės k."
+  },
+  {
+    "name": "Alytaus evangelinė bažnyčia",
+    "code": "191060474",
+    "address": "Alytus, Naujoji g. 34-18, LT-63255"
+  },
+  {
+    "name": "Alytaus laisvųjų krikščionių bažnyčia",
+    "code": "305992841",
+    "address": "Alytaus r. sav., Alovės sen., Jurkionių k., Lelijų g. 19, LT-64108"
+  },
+  {
+    "name": "Anykščių krikščionių evangelikų bažnyčia",
+    "code": "192062122",
+    "address": "Anykščiai, J. Tumo-Vaižganto g. 18, LT-29106"
+  },
+  {
+    "name": "Anykščių Šv. apašt. evang. Mato bažnyčia",
+    "code": "191256715",
+    "address": "Anykščiai, Vilniaus g. 8, LT-29145"
+  },
+  {
+    "name": "Bezdonių Švč. M. Marijos Aušros Vartų Gailestingumo Motinos bažnyčia",
+    "code": "192061216",
+    "address": "Vilniaus r. sav., Bezdonys, Geležinkelio g. 36, LT-15201"
+  },
+  {
+    "name": "Biržų jungtinė metodistų bažnyčia",
+    "code": "192059521",
+    "address": "Biržai, Kęstučio g. 25, LT-41135"
+  },
+  {
+    "name": "Dievo atpirktųjų krikščionių bažnyčia",
+    "code": "304642966",
+    "address": "Kaunas, Kovo 11-osios g. 110-109, LT-49368"
+  },
+  {
+    "name": "Druskininkų evangelinė bažnyčia",
+    "code": "192062460",
+    "address": "Druskininkai, M. K. Čiurlionio g. 91, LT-66162"
+  },
+  {
+    "name": "Elektrėnų evangelinė bažnyčia",
+    "code": "192062994",
+    "address": "Elektrėnai, Šviesos g. 16-30, LT-26105"
+  },
+  {
+    "name": "Elektrėnų krikščionių bažnyčia \"Gyvenimo šaltinis\"",
+    "code": "192067240",
+    "address": "Vilniaus m. sav., Salų k., Slankų g. 8B, LT-27128"
+  },
+  {
+    "name": "Evangelikų baptistų bažnyčia \"Naujoji viltis\"",
+    "code": "300554369",
+    "address": "Klaipėda, Naikupės g. 6, LT-93246"
+  },
+  {
+    "name": "Evangelinio tikėjimo krikščionių bažnyčia \"Išgelbėjimo šviesa\"",
+    "code": "192084161",
+    "address": "Klaipėda, Žalgirio g. 1-15, LT-93248"
+  },
+  {
+    "name": "Gedžiūnėlių Švč. M. Marijos Sopulingosios bažnyčia",
+    "code": "291299920",
+    "address": "Ignalinos r. sav., Kazitiškio sen., Gedžiūnėlių k., Dvariškių g. 18, LT-30256"
+  },
+  {
+    "name": "Grigiškių Biblijos krikščionių bažnyčia",
+    "code": "192056945",
+    "address": "Vilniaus m. sav., Salų k., Sniegenų g. 25, LT-27128"
+  },
+  {
+    "name": "Gyvenimo bažnyčia",
+    "code": "301730464",
+    "address": "Vilnius, Kregždžių g. 12, LT-10234"
+  },
+  {
+    "name": "Ignalinos bažnyčia \"Tikėjimo žodis\"",
+    "code": "192063224",
+    "address": "Ignalina, Aukštaičių g. 31-3, LT-30113"
+  },
+  {
+    "name": "Jonavos krikščionių bažnyčia",
+    "code": "305828137",
+    "address": "Jonava, Stanislovo Gedimino Ilgūno g. 16, LT-55148"
+  },
+  {
+    "name": "Jonavos krikščionių evangelikų bažnyčia",
+    "code": "192078984",
+    "address": "Jonava, Šlaito g. 12, LT-55164"
+  },
+  {
+    "name": "Juodšilių Pal. Mykolo Sopočkos bažnyčia",
+    "code": "305636496",
+    "address": "Vilniaus r. sav., Juodšilių sen., Juodšilių k., Šv. Uršulės g. 25A, LT-14100"
+  },
+  {
+    "name": "Jurbarko bažnyčia \"Tikėjimo žodis\"",
+    "code": "192080330",
+    "address": "Jurbarkas, Kęstučio g. 25A-16, LT-74155"
+  },
+  {
+    "name": "Katalikiškų šeimų bendruomenė \"Namų Bažnyčia\"",
+    "code": "306249082",
+    "address": "Vilniaus r. sav., Nemėžio sen., Daržininkų k., Vėjų g. 2-1, LT-13281"
+  },
+  {
+    "name": "Kauno evangelinė bažnyčia",
+    "code": "192067589",
+    "address": "Kaunas, Seniavos pl. 8A, LT-46386"
+  },
+  {
+    "name": "Kauno jungtinė metodistų bažnyčia",
+    "code": "192082687",
+    "address": "Kaunas, A. Juozapavičiaus pr. 119, LT-45267"
+  },
+  {
+    "name": "Kauno krikščionių bažnyčia",
+    "code": "193021395",
+    "address": "Kaunas, K. Donelaičio g. 33-1, LT-44240"
+  },
+  {
+    "name": "Kauno laisvųjų krikščionių bažnyčia",
+    "code": "192093744",
+    "address": "Kaunas, Nemuno g. 16A"
+  },
+  {
+    "name": "Kauno seminarijos Švč. Trejybės bažnyčia",
+    "code": "190954350",
+    "address": "Kaunas"
+  },
+  {
+    "name": "Kauno Šv. Jurgio bažnyčia",
+    "code": "192055996",
+    "address": "Kaunas, Papilio g. 9, LT-44275"
+  },
+  {
+    "name": "Kauno Švč. M. Marijos Apsilankymo pas Elzbietą bažnyčia",
+    "code": "192056564",
+    "address": "Kaunas, T. Masiulio g. 31, LT-52436"
+  },
+  {
+    "name": "Kačergiškės Šv. Jono Krikštytojo bažnyčia",
+    "code": "191313582",
+    "address": "Ignalinos r. sav., Naujojo Daugėliškio sen., Kačergiškės k."
+  },
+  {
+    "name": "Kenos Švč. Aušros Vartų Dievo Motinos bažnyčia",
+    "code": "191301847",
+    "address": "Vilniaus r. sav., Rukainių sen., Kenos k."
+  },
+  {
+    "name": "Klaipėdos \"Gyvenimo kelias\" evangeliška bažnyčia",
+    "code": "192086027",
+    "address": "Klaipėda, Žardininkų g. 8-45, LT-94235"
+  },
+  {
+    "name": "Klaipėdos Evangelikų baptistų bažnyčia",
+    "code": "191717062",
+    "address": "Klaipėda, Vytauto g. 38, LT-92127"
+  },
+  {
+    "name": "Klaipėdos Kristaus bažnyčia",
+    "code": "192079029",
+    "address": "Klaipėda, Naujakiemio g. 26-4, LT-94192"
+  },
+  {
+    "name": "Klaipėdos krikščionių bažnyčia \"Vynuogynas Klaipėdoje\"",
+    "code": "304404331",
+    "address": "Klaipėda, Smilčių g. 5, LT-92277"
+  },
+  {
+    "name": "Klaipėdos krikščionių protestantų bažnyčia \"Gyvenimas ir ramybė\"",
+    "code": "305131412",
+    "address": "Klaipėda, Šilutės pl. 36-10, LT-94137"
+  },
+  {
+    "name": "Klaipėdos laisvųjų krikščionių bažnyčia",
+    "code": "192055124",
+    "address": "Klaipėda, Vytauto g. 38, LT-92127"
+  },
+  {
+    "name": "Klaipėdos miesto Evangelijos bažnyčia",
+    "code": "192071139",
+    "address": "Klaipėdos r. sav., Kretingalės sen., Šimkų k., Sarčių g. 5, LT-92422"
+  },
+  {
+    "name": "Kolainių Švč. M. Marijos Karmelio kalno Karalienės bažnyčia",
+    "code": "300520527",
+    "address": "Kelmės r. sav., Užvenčio sen., Kolainių k."
+  },
+  {
+    "name": "Kretingos miesto Evangelijos bažnyčia",
+    "code": "291154540",
+    "address": "Kretinga, Mėguvos g. 3-112"
+  },
+  {
+    "name": "Krikščionių bažnyčia \"Atsinaujinimas\"",
+    "code": "303529353",
+    "address": "Vilnius, Pažagiškių g. 69, LT-04125"
+  },
+  {
+    "name": "Krikščionių bažnyčia \"Nauja karta\"",
+    "code": "304298337",
+    "address": "Kaunas, Vinių g. 17-2, LT-45275"
+  },
+  {
+    "name": "Krikščionių evangelikų sekmininkų bažnyčia",
+    "code": "300568486",
+    "address": "Vilnius, Ukmergės g. 263, LT-07100"
+  },
+  {
+    "name": "Kupiškio evangelinė bažnyčia",
+    "code": "192063562",
+    "address": "Kupiškis, Krantinės g. 10-12, LT-40117"
+  },
+  {
+    "name": "Kuršėnų evangelinė bažnyčia",
+    "code": "192080679",
+    "address": "Šiaulių r. sav., Kuršėnai, Daugėlių g. 83, LT-81117"
+  },
+  {
+    "name": "Kybartų jungtinė metodistų bažnyčia",
+    "code": "192091540",
+    "address": "Vilkaviškio r. sav., Kybartai, J. Basanavičiaus g. 36, LT-70416"
+  },
+  {
+    "name": "Kėdainių krikščionių bažnyčia",
+    "code": "192064098",
+    "address": "Kėdainiai, Birutės g. 14, LT-57174"
+  },
+  {
+    "name": "LIETUVOS NAUJOJI APAŠTALŲ BAŽNYČIA",
+    "code": "192092457",
+    "address": "Klaipėda, Taikos pr. 72, LT-93202"
+  },
+  {
+    "name": "Laisvųjų krikščionių Bažnyčia",
+    "code": "192108865",
+    "address": "Kaunas, Nemuno g. 16A"
+  },
+  {
+    "name": "Lietuvos evangelikų liuteronų bažnyčia",
+    "code": "192108712",
+    "address": "Tauragė, J. Tumo-Vaižganto g. 50, LT-72263"
+  },
+  {
+    "name": "Lietuvos evangelikų reformatų Bažnyčia - Sinodas",
+    "code": "192100594",
+    "address": "Biržai, Reformatų g. 3A, LT-41175"
+  },
+  {
+    "name": "Lietuvos jungtinė metodistų bažnyčia",
+    "code": "292059860",
+    "address": "Kaunas, J. Naugardo g. 8, LT-44280"
+  },
+  {
+    "name": "Lietuvos sentikių Bažnyčia",
+    "code": "192095033",
+    "address": "Vilnius, Naujininkų g. 20, LT-02109"
+  },
+  {
+    "name": "Marijampolės baptistų bažnyčia",
+    "code": "192098339",
+    "address": "Marijampolės savivaldybės teritorija"
+  },
+  {
+    "name": "Marijampolės krikščionių evangelikų bažnyčia",
+    "code": "192066149",
+    "address": "Marijampolė, Palangos g. 10, LT-68188"
+  },
+  {
+    "name": "Mažeikių Sekminių bažnyčia \"Kristaus kelias\"",
+    "code": "192080526",
+    "address": "Mažeikiai, Senkelio g. 1A, LT-89235"
+  },
+  {
+    "name": "Miesto bažnyčia",
+    "code": "192079367",
+    "address": "Klaipėda, Vilties g. 9-2, LT-92227"
+  },
+  {
+    "name": "Molėtų evangelinė bažnyčia",
+    "code": "192064326",
+    "address": "Kaunas, Seniavos pl. 8A, LT-46386"
+  },
+  {
+    "name": "Naujosios Akmenės evangelikų bažnyčia",
+    "code": "192079214",
+    "address": "Naujoji Akmenė, Nepriklausomybės al. 20, LT-85129"
+  },
+  {
+    "name": "PROTESTANTŲ BAŽNYČIA \"KRISTAUS PALIEPIMAS\"",
+    "code": "302342315",
+    "address": "Vilnius, Srovės g. 16, LT-01206"
+  },
+  {
+    "name": "PROTESTANTŲ BAŽNYČIA \"NAUJOJI KARTA\"",
+    "code": "300063092",
+    "address": "Vilniaus r. sav., Avižienių sen., Raisteniškių vs., Raisteniškių g. 8, LT-14180"
+  },
+  {
+    "name": "Pakruojo krikščionių bažnyčia",
+    "code": "305672407",
+    "address": "Pakruojis, J. Basanavičiaus g. 6, LT-83150"
+  },
+  {
+    "name": "Palangos evangelijos bažnyčia",
+    "code": "192097956",
+    "address": "Palanga, Sodų g. 61-72, LT-00122"
+  },
+  {
+    "name": "Panevėžio \"Gyvojo Dievo\" krikščionių bažnyčia",
+    "code": "191775941",
+    "address": "Panevėžys, Molainių g. 20-61, LT-37136"
+  },
+  {
+    "name": "Panevėžio evangelinė bažnyčia",
+    "code": "191744472",
+    "address": "Panevėžys, Nemuno g. 72-1A, LT-35190"
+  },
+  {
+    "name": "Panevėžio laisvųjų krikščionių bažnyčia",
+    "code": "192060648",
+    "address": "Panevėžys, A. Mackevičiaus g. 5, LT-35168"
+  },
+  {
+    "name": "Pasvalio bažnyčia \"Tiesos žodis\"",
+    "code": "192090787",
+    "address": "Pasvalio r. sav., Vaškai, Vilniaus g. 50, LT-39374"
+  },
+  {
+    "name": "Pilviškių jungtinė metodistų bažnyčia",
+    "code": "192070941",
+    "address": "Vilkaviškio r. sav., Pilviškiai, Vasario 16-osios g. 46, LT-70495"
+  },
+  {
+    "name": "Plungės m. Evangelijos bažnyčia",
+    "code": "192078831",
+    "address": "Plungė, Telšių g. 20, LT-90163"
+  },
+  {
+    "name": "Prienų bažnyčia \"Tikėjimo žodis\"",
+    "code": "192081770",
+    "address": "Prienai, Statybininkų g. 2-16, LT-59131"
+  },
+  {
+    "name": "Protestantų bažnyčia \"Gyvenimo šviesa\"",
+    "code": "303334232",
+    "address": "Marijampolė, Uosupio g. 20-41, LT-68156"
+  },
+  {
+    "name": "Protestantų bažnyčia \"NEW GENERATION LITHUANIA\"",
+    "code": "306053906",
+    "address": "Trakų r. sav., Grendavės sen., Panošiškių k., Koplyčios g. 2, LT-21190"
+  },
+  {
+    "name": "Pūškų Švč. M. Marijos Gailestingumo Motinos bažnyčia",
+    "code": "191300179",
+    "address": "Ignalinos r. sav., Rimšės sen., Pūškų k."
+  },
+  {
+    "name": "Radviliškio evangelinė bažnyčia",
+    "code": "192081813",
+    "address": "Radviliškis, Laisvės al. 8, LT-82119"
+  },
+  {
+    "name": "Radviliškio miesto krikščionių bažnyčia \"Emanuelis\"",
+    "code": "191874430",
+    "address": "Radviliškio r. sav., Šeduva, Vėriškių g. 27, LT-82234"
+  },
+  {
+    "name": "Raseinių evangelinė bažnyčia",
+    "code": "192072383",
+    "address": "Raseiniai, Savanorių g. 24A, LT-60183"
+  },
+  {
+    "name": "Religinė bendruomenė \"Vilniaus Kristaus bažnyčia\"",
+    "code": "192083789",
+    "address": "Vilnius, Pylimo g. 40, LT-01136"
+  },
+  {
+    "name": "Religinė bendruomenė Krikščionių evangelikų (penkiasdešimtininkų) bažnyčia \"Dievo karalystė\"",
+    "code": "304733679",
+    "address": "Vilnius, Laisvės pr. 125-101, LT-06118"
+  },
+  {
+    "name": "Religinė krikščionių bendruomenė \"Bažnyčia Jonavoje\"",
+    "code": "192090068",
+    "address": "Jonava, Lietavos g. 11-8, LT-55140"
+  },
+  {
+    "name": "Riešės evangelinė bažnyčia",
+    "code": "305649305",
+    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Pavasario g. 8B, LT-14261"
+  },
+  {
+    "name": "Rokiškio evangelinė bažnyčia",
+    "code": "192064664",
+    "address": "Rokiškis, Taikos g. 1A-9, LT-42146"
+  },
+  {
+    "name": "Septintosios dienos adventistų Bažnyčia",
+    "code": "192058615",
+    "address": "Kaunas, Pašilės g. 122, LT-51302"
+  },
+  {
+    "name": "Skuodo Martyno Liuterio bažnyčia",
+    "code": "304140885",
+    "address": "Kretingos r. sav., Darbėnai, Skuodo g. 24, LT-97266"
+  },
+  {
+    "name": "Tarptautinė Kristaus bažnyčia Vilniuje",
+    "code": "192101881",
+    "address": "Vilnius, Didlaukio g. 51-30, LT-08303"
+  },
+  {
+    "name": "Tauragės evangelinė bažnyčia",
+    "code": "191150719",
+    "address": "Tauragė, Dariaus ir Girėno g. 64, LT-72235"
+  },
+  {
+    "name": "Tauragės jungtinė metodistų bažnyčia",
+    "code": "192070418",
+    "address": "Tauragė, Vytenio g. 126"
+  },
+  {
+    "name": "Telšių m. Evangelijos bažnyčia",
+    "code": "192084357",
+    "address": "Telšiai, Džiugo g. 12, LT-87117"
+  },
+  {
+    "name": "Turmanto Švč. Jėzaus Širdies bažnyčia",
+    "code": "191300898",
+    "address": "Zarasų r. sav., Turmantas, Žalioji g. 4, LT-32205"
+  },
+  {
+    "name": "Ukmergės krikščionių baptistų bažnyčia",
+    "code": "305279471",
+    "address": "Ukmergė, Gedimino g. 4-6, LT-20130"
+  },
+  {
+    "name": "Ukmergės krikščionių evangelikų bažnyčia",
+    "code": "191725162",
+    "address": "Ukmergė, Vasario 16-osios g. 49-7, LT-20129"
+  },
+  {
+    "name": "Utenos baptistų bažnyčia",
+    "code": "192102111",
+    "address": "Utena, Tauragnų g. 20, LT-28240"
+  },
+  {
+    "name": "Utenos evangelinė bažnyčia",
+    "code": "190945497",
+    "address": "Zarasai, Vilniaus g. 61, LT-32107"
+  },
+  {
+    "name": "Veisiejų bažnyčia \"Tikėjimo žodis\"",
+    "code": "192072611",
+    "address": "Lazdijų r. sav., Veisiejai, Gėlių g. 3-2, LT-67341"
+  },
+  {
+    "name": "Vievio bažnyčia \"Tikėjimo žodis\"",
+    "code": "192073670",
+    "address": "Elektrėnų sav., Vievis, Ežero g. 19, LT-21377"
+  },
+  {
+    "name": "Vilniaus \"Malonės\" baptistų bažnyčia",
+    "code": "192085982",
+    "address": "Vilnius, Verkių g. 22, LT-08219"
+  },
+  {
+    "name": "Vilniaus Laisvųjų Septintos Dienos Adventistų Bažnyčia",
+    "code": "303169001",
+    "address": "Vilnius, Vytauto g. 37-18, LT-08122"
+  },
+  {
+    "name": "Vilniaus evangelikų liuteronų bažnyčia",
+    "code": "191373750",
+    "address": "Vilnius, Vokiečių g. 20, LT-01130"
+  },
+  {
+    "name": "Vilniaus evangelinė bažnyčia",
+    "code": "191700351",
+    "address": "Vilnius, Bitėnų g. 2C, LT-06239"
+  },
+  {
+    "name": "Vilniaus jungtinė metodistų bažnyčia",
+    "code": "192097760",
+    "address": "Vilnius, Kedrų g. 7-101, LT-03116"
+  },
+  {
+    "name": "Vilniaus krikščionių bažnyčia \"Victory\" (\"Pergalė\")",
+    "code": "292099050",
+    "address": "Vilnius, Vinciūniškių g."
+  },
+  {
+    "name": "Vilniaus krikščionių bažnyčia \"Vineyard\" (\"Vynuogynas\")",
+    "code": "192053988",
+    "address": "Vilnius, Ukmergės g. 11-42"
+  },
+  {
+    "name": "Vilniaus laisvųjų krikščionių Bažnyčia",
+    "code": "192100637",
+    "address": "Vilniaus r. sav., Bezdonių sen., Ąžuolinės k., Dovanų 5-oji g. 6, LT-15253"
+  },
+  {
+    "name": "Vilniaus m. evangelinio tikėjimo krikščionių bažnyčia \"Maldos namai\"",
+    "code": "291716680",
+    "address": "Vilnius, Krivūlės g. 12, LT-11341"
+  },
+  {
+    "name": "Vilniaus Šv. Jono Krikštytojo ir Šv. Jono Apaštalo ir Evangelisto bažnyčia",
+    "code": "191312523",
+    "address": "Vilnius, Šv. Jono g. 12, LT-01123"
+  },
+  {
+    "name": "Vilniaus Šv. Kazimiero bažnyčia",
+    "code": "291310320",
+    "address": "Vilnius, Didžioji g. 34, LT-01128"
+  },
+  {
+    "name": "Vilniaus Šv. Kryžiaus bažnyčia",
+    "code": "192051827",
+    "address": "Vilnius, S. Daukanto a. 1, LT-01122"
+  },
+  {
+    "name": "Vilniaus Šv. Onos bažnyčia",
+    "code": "191310134",
+    "address": "Vilnius, Maironio g. 8, LT-01124"
+  },
+  {
+    "name": "Vilniaus Šv. apaštalų Pilypo ir Jokūbo bažnyčia",
+    "code": "191312676",
+    "address": "Vilnius, Lukiškių a. 10"
+  },
+  {
+    "name": "Vilniaus Švč. Trejybės graikų apeigų katalikų bažnyčia",
+    "code": "192090591",
+    "address": "Vilnius, Aušros Vartų g. 7B, LT-01304"
+  },
+  {
+    "name": "Vilniaus šv. Baltramiejaus bažnyčia",
+    "code": "292085830",
+    "address": "Vilnius, Užupio g. 17A, LT-01202"
+  },
+  {
+    "name": "Visagino Evangelikų Krikščionių Baptistų bažnyčia",
+    "code": "292071510",
+    "address": "Visaginas, Jaunystės g. 21-2, LT-31230"
+  },
+  {
+    "name": "Visagino bažnyčia \"Teisybės žodis\"",
+    "code": "191830462",
+    "address": "Visaginas, Taikos pr. 8C, LT-31107"
+  },
+  {
+    "name": "Visagino krikščionių bažnyčia \"Atgimimas\"",
+    "code": "192056411",
+    "address": "Visaginas, Taikos pr. 8C, LT-31107"
+  },
+  {
+    "name": "Ylakių evangelikų baptistų bažnyčia",
+    "code": "192085644",
+    "address": "Skuodo r. sav., Ylakiai, Dariaus ir Girėno g. 38, LT-98348"
+  },
+  {
+    "name": "Zarasų krikščionių evangelikų bažnyčia",
+    "code": "292065190",
+    "address": "Zarasai, Vilniaus g. 61, LT-32107"
+  },
+  {
+    "name": "Šakių bažnyčia \"Tikėjimo žodis\"",
+    "code": "192079933",
+    "address": "Šakiai, Šaulių g. 39, LT-71117"
+  },
+  {
+    "name": "Šiaulių bažnyčia \"Tiesos žodis\"",
+    "code": "192076257",
+    "address": "Šiauliai, Voveriškių g. 39A, LT-78143"
+  },
+  {
+    "name": "Šiaulių evangelinio tikėjimo krikščionių bažnyčia",
+    "code": "192097422",
+    "address": "Šiauliai, Lydos g. 9, LT-77167"
+  },
+  {
+    "name": "Šiaulių jungtinė metodistų bažnyčia",
+    "code": "292053640",
+    "address": "Šiauliai, Lydos g. 9, LT-77167"
+  },
+  {
+    "name": "Šiaulių m. laisvųjų krikščionių bažnyčia",
+    "code": "192085263",
+    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Žeimių g. 7, LT-81494"
+  },
+  {
+    "name": "Šiaulių miesto evangelijos krikščionių bažnyčia",
+    "code": "192059293",
+    "address": "Šiauliai, Lydos g. 9, LT-77167"
+  },
+  {
+    "name": "Šiaulių Šv. Ignaco Lojolos bažnyčia",
+    "code": "291067110",
+    "address": "Šiauliai, Vilniaus g. 247B, LT-76343"
+  },
+  {
+    "name": "Šilutės evangelikų baptistų bažnyčia",
+    "code": "192090972",
+    "address": "Šilutė, Stoties g. 7, LT-99142"
+  },
+  {
+    "name": "Šilutės laisvųjų krikščionių bažnyčia",
+    "code": "192079890",
+    "address": "Šilutė, Gluosnių g. 13, LT-99126"
+  },
+  {
+    "name": "Šilutės m. Evangelijos bažnyčia",
+    "code": "192077925",
+    "address": "Šilutė, Pramonės g. 6I, LT-99116"
+  },
+  {
+    "name": "Švenčionių miesto ir rajono Evangelinio Tikėjimo Krikščionių Bažnyčia \"Evangelijos šviesa\"",
+    "code": "192054741",
+    "address": "Švenčionys, A. Rymo g. 10, LT-18111"
+  },
+  {
+    "name": "Švenčionėlių krikščionių evangelikų bažnyčia",
+    "code": "192073332",
+    "address": "Švenčionių r. sav., Švenčionėliai, Žemutinė g. 35B-28, LT-18211"
+  },
+  {
+    "name": "Anykščių Šv. Mato bažnyčios Caritas",
+    "code": "192101924",
+    "address": "Anykščiai, Vilniaus g. 13, LT-29145"
+  },
+  {
+    "name": "Armėnų Apaštališkosios Bažnyčios Baltijos šalių vyskupija",
+    "code": "306155633",
+    "address": "Vilnius, Jogailos g. 4, LT-01116"
+  },
+  {
+    "name": "Armėnų Apaštališkosios Bažnyčios Vilniaus šv. Nareko religinė bendruomenė",
+    "code": "306114907",
+    "address": "Vilnius, Jogailos g. 4, LT-01116"
+  },
+  {
+    "name": "Armėnų Apaštališkosios Bažnyčios Vilniaus šv. Vardano religinė bendruomenė",
+    "code": "192090634",
+    "address": "Vilnius, Metalo g. 4, LT-02190"
+  },
+  {
+    "name": "Asociacija \"Bernardinų bažnyčios giedojimo mokykla\"",
+    "code": "193149320",
+    "address": "Vilnius, Maironio g. 8, LT-01124"
+  },
+  {
+    "name": "Daugiabučio namo Bažnyčios g. 17, Šalčininkų mst. savininkų bendrija",
+    "code": "302840084",
+    "address": "Šalčininkai, Bažnyčios g. 17-4, LT-17122"
+  },
+  {
+    "name": "Daugiabučio namo savininkų bendrija \"Bažnyčios 13\"",
+    "code": "302431408",
+    "address": "Marijampolė, Bažnyčios g. 13-16, LT-68298"
+  },
+  {
+    "name": "KAUNO PASTARŲJŲ DIENŲ ŠVENTŲJŲ JĖZAUS KRISTAUS BAŽNYČIOS BENDRUOMENĖ",
+    "code": "192061369",
+    "address": "Kaunas, Draugystės g. 1, LT-51282"
+  },
+  {
+    "name": "Kauno Šv. arkangelo Mykolo (Įgulos) bažnyčios kamerinis choras \"TE DEUM\"",
+    "code": "300899664",
+    "address": "Kaunas, Karo Ligoninės g. 29, LT-44352"
+  },
+  {
+    "name": "Klaipėdos evangelikų liuteronų šv. Jono atminimo bažnyčios atstatymo labdaros ir paramos fondas",
+    "code": "303205789",
+    "address": "Klaipėda, Pylimo g. 2, LT-91249"
+  },
+  {
+    "name": "Labdaros ir paramos fondas \"Bažnyčios kronika\"",
+    "code": "192033380",
+    "address": "Kaunas, Rotušės a. 14A, LT-44279"
+  },
+  {
+    "name": "Lietuvos evangelikų liuteronų bažnyčios konsistorija",
+    "code": "192069444",
+    "address": "Tauragė, J. Tumo-Vaižganto g. 50, LT-72263"
+  },
+  {
+    "name": "Lietuvos sentikių bažnyčios Aukščiausioji taryba",
+    "code": "191682259",
+    "address": "Vilnius, Naujininkų g. 20, LT-02109"
+  },
+  {
+    "name": "Pastarųjų Dienų Šventųjų Jėzaus Kristaus Bažnyčios religinė bendrija",
+    "code": "300560799",
+    "address": "Vilnius, Ateities g. 83, LT-06324"
+  },
+  {
+    "name": "Pastarųjų dienų šventųjų Jėzaus Kristaus bažnyčios religinė bendruomenė Vilniuje",
+    "code": "191863035",
+    "address": "Vilnius, Ateities g. 83, LT-06324"
+  },
+  {
+    "name": "Plaškių bažnyčios atkūrimo bendrija",
+    "code": "304441618",
+    "address": "Pagėgių sav., Stoniškių sen., Šilgalių k., Sodo g. 1, LT-99307"
+  },
+  {
+    "name": "Septintosios dienos adventistų bažnyčios Daunorių bendruomenė",
+    "code": "300548544",
+    "address": "Biržų r. sav., Vabalninko sen., Daunorių k., Sodų g. 3, LT-41275"
+  },
+  {
+    "name": "Septintosios dienos adventistų bažnyčios Kauno bendruomenė",
+    "code": "193038334",
+    "address": "Kaunas, Pašilės g. 122, LT-51302"
+  },
+  {
+    "name": "Septintosios dienos adventistų bažnyčios Klaipėdos bendruomenė",
+    "code": "193038487",
+    "address": "Klaipėda, Klevų g. 5-16, LT-92207"
+  },
+  {
+    "name": "Septintosios dienos adventistų bažnyčios Kėdainių bendruomenė",
+    "code": "192056379",
+    "address": "Kėdainiai, J. Basanavičiaus g. 77-2, LT-57279"
+  },
+  {
+    "name": "Septintosios dienos adventistų bažnyčios Mažeikių bendruomenė",
+    "code": "192055658",
+    "address": "Mažeikiai, M. Valančiaus g. 1, LT-89227"
+  },
+  {
+    "name": "Septintosios dienos adventistų bažnyčios Panevėžio bendruomenė",
+    "code": "291744320",
+    "address": "Panevėžys, A. Jakšto g. 2, LT-35138"
+  },
+  {
+    "name": "Septintosios dienos adventistų bažnyčios Plungės bendruomenė",
+    "code": "192087086",
+    "address": "Plungė, V. Mačernio g. 43A-2, LT-90132"
+  },
+  {
+    "name": "Septintosios dienos adventistų bažnyčios Vilniaus bendruomenė",
+    "code": "191844782",
+    "address": "Vilnius, Gerosios Vilties g. 4-42, LT-03134"
+  },
+  {
+    "name": "Septintosios dienos adventistų bažnyčios Šiaulių bendruomenė",
+    "code": "192056030",
+    "address": "Šiauliai, J. Šliūpo g. 27, LT-76192"
+  },
+  {
+    "name": "Skuodo Martyno Liuterio bažnyčios asociacija \"Gailestingasis samarietis\"",
+    "code": "304281035",
+    "address": "Skuodas, Vaižganto g. 39A, LT-98121"
+  },
+  {
+    "name": "Utenos Kristaus žengimo į dangų bažnyčios choras \"Laudate Dominum\"",
+    "code": "184283466",
+    "address": "Utena, Vytauto a. 4, LT-28242"
+  },
+  {
+    "name": "VIEŠOJI ĮSTAIGA Vilniaus evangelikų liuteronų bažnyčios diakonija \"VILNIAUS SANDORA\"",
+    "code": "121900178",
+    "address": "Vilnius, Vokiečių g. 22, LT-01130",
+    "vatcode": "LT219001716"
+  },
+  {
+    "name": "Viešoji įstaiga \"Klaipėdos Šv. Jono bažnyčios bokšto atkūrimas\"",
+    "code": "306163719",
+    "address": "Klaipėda, Pylimo g. 2, LT-91249"
+  },
+  {
+    "name": "Vilniaus šv. Kazimiero bažnyčios choras \"AVE VERUM\"",
+    "code": "300659879",
+    "address": "Vilnius, Žemynos g. 12-32, LT-06129"
+  },
+  {
+    "name": "ŠV. V. MAMIKONIANO BAŽNYČIOS RELIGINĖ BENDRUOMENĖ",
+    "code": "305646686",
+    "address": "Vilnius, Žemynos g. 49-5, LT-06127"
+  },
+  {
+    "name": "ŠVENTOJI DVASINĖ PASAULIO KRIKŠČIONIŲ SUSIVIENIJIMO ASOCIACIJOS (SUSIVIENIJIMO BAŽNYČIOS) JAUNIMO RELIGINĖ BENDRUOMENĖ",
+    "code": "300078781",
+    "address": "Vilnius, Vaikų g. 21-12, LT-02209"
+  },
+  {
+    "name": "Šiaulių m. pilnos Evangelijos bažnyčios \"Tiesos žodis\" įmonė",
+    "code": "144714282",
+    "address": "Šiauliai, Tilžės g. 121, LT-77161"
+  },
+  {
+    "name": "Lietuvos evangelinių bažnyčių bendrija",
+    "code": "192061892",
+    "address": "Vilnius, Bitėnų g. 2C, LT-06239"
+  }
+]
