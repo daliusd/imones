@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 mkdir input
 sh ./jar.sh
 sh ./vmi.sh
