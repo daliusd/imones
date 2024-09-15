@@ -2,6 +2,7 @@
 mkdir input
 sh ./jar.sh
 sh ./vmi.sh
+npm install --omit=dev
 node index.js
 
 RUN_FROM_GITHUB_ACTION="${RUN_FROM_GITHUB_ACTION:-false}"
