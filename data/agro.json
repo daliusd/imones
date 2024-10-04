@@ -106,6 +106,11 @@
     "address": "Šiauliai, Vytauto g. 147-18, LT-76341"
   },
   {
+    "name": "MB \"Agro laikas\"",
+    "code": "306994215",
+    "address": "Kupiškio r. sav., Kupiškio sen., Šepetos k., Kikonių g. 4, LT-40334"
+  },
+  {
     "name": "MB \"Agro laistymas\"",
     "code": "305500699",
     "address": "Vilniaus r. sav., Kalvelių sen., Kalabariškių k., Vilniaus g. 96, LT-13152",
@@ -329,8 +334,7 @@
   {
     "name": "UAB \"APSA Agro group\"",
     "code": "305020390",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
-    "vatcode": "LT100012211814"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
     "name": "UAB \"Agro Baltik\"",
@@ -407,8 +411,7 @@
   {
     "name": "UAB \"Agro X\"",
     "code": "305682928",
-    "address": "Vilnius, Olandų g. 10A-5, LT-01100",
-    "vatcode": "LT100013755813"
+    "address": "Vilnius, Olandų g. 10A-5, LT-01100"
   },
   {
     "name": "UAB \"Agro angarai\"",
@@ -888,7 +891,8 @@
   {
     "name": "ŽŪB \"AGRO GERVIŠKĖS\"",
     "code": "303062063",
-    "address": "Vilnius, Karių Kapų g. 27-8, LT-10313"
+    "address": "Vilnius, Karių Kapų g. 27-8, LT-10313",
+    "vatcode": "LT100017164513"
   },
   {
     "name": "ŽŪB \"AGRO investicijos\"",
@@ -982,7 +986,7 @@
   {
     "name": "UAB Agroaibė",
     "code": "186177369",
-    "address": "Vilniaus r. sav., Marijampolio sen., Marijampolio k., Mokyklos g. 4, LT-13210",
+    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Vilniaus g. 43, LT-13246",
     "vatcode": "LT861773610"
   },
   {
@@ -1165,8 +1169,7 @@
   {
     "name": "UAB \"Agrobosas\"",
     "code": "303764928",
-    "address": "Marijampolė, Vasaros g. 24, LT-68110",
-    "vatcode": "LT100009273313"
+    "address": "Marijampolė, Vasaros g. 24, LT-68110"
   },
   {
     "name": "ŽŪB \"Agrobroliai\"",
@@ -1301,7 +1304,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"AGROCHEMA\"",
     "code": "110548779",
-    "address": "Jonavos r. sav., Ruklos sen., Jonalaukio k.",
+    "address": "Jonavos r. sav., Ruklos sen., Jonalaukio k. 1-1, LT-55296",
     "vatcode": "LT105487716"
   },
   {
@@ -1559,7 +1562,8 @@
   {
     "name": "MB AgroFarms",
     "code": "306695088",
-    "address": "Kėdainių r. sav., Josvainių sen., Josvainių k., Žemdirbių g. 4, LT-58190"
+    "address": "Kėdainių r. sav., Josvainių sen., Josvainių k., Žemdirbių g. 4, LT-58190",
+    "vatcode": "LT100017164412"
   },
   {
     "name": "Agrofert Trading UAB",
@@ -1871,7 +1875,8 @@
   {
     "name": "UAB Agroja",
     "code": "306745146",
-    "address": "Šalčininkų r. sav., Gerviškių sen., Gerviškių k., Centrinė g. 8, LT-17146"
+    "address": "Šalčininkų r. sav., Gerviškių sen., Gerviškių k., Centrinė g. 8, LT-17146",
+    "vatcode": "LT100017151612"
   },
   {
     "name": "UAB \"Agrojavai\"",
@@ -2288,6 +2293,11 @@
     "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
+    "name": "Agrologistas MB",
+    "code": "306983208",
+    "address": "Klaipėda, Serviso g. 25, LT-92335"
+  },
+  {
     "name": "UAB \"Agrologistika LT\"",
     "code": "304062372",
     "address": "Klaipėda, Nemuno g. 2A, LT-91199",
@@ -2332,11 +2342,6 @@
     "code": "300976858",
     "address": "Vilnius, Ulonų g. 3-114, LT-08240",
     "vatcode": "LT100003636114"
-  },
-  {
-    "name": "\"Agromator\", MB",
-    "code": "305638732",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB prekybos centras \"Agromašas\"",
@@ -2937,11 +2942,6 @@
     "address": "Vilnius, Ūmėdžių g. 98-42, LT-02303"
   },
   {
-    "name": "UAB Agrosela LT",
-    "code": "302639900",
-    "address": "Prienai, Šaltinių g. 8A, LT-59152"
-  },
-  {
     "name": "MB \"AgroSementaliai\"",
     "code": "306348632",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
@@ -3124,7 +3124,7 @@
   {
     "name": "Agroserviso kooperatyvas \"Papynaujis\"",
     "code": "276603750",
-    "address": "Šilalės r. sav., Kvėdarnos sen., Papynaujo k.",
+    "address": "Šilalės r. sav., Kvėdarna, Šilalės g. 1, LT-75348",
     "vatcode": "LT766037515"
   },
   {
@@ -3336,6 +3336,11 @@
     "name": "MB \"Agrostimulas\"",
     "code": "303107619",
     "address": "Skuodo r. sav., Ylakiai, Sodų g. 12, LT-98348"
+  },
+  {
+    "name": "MB Agrostone",
+    "code": "306994635",
+    "address": "Biržų r. sav., Papilio sen., Kvetkų k., Nemunėlio g. 12, LT-41212"
   },
   {
     "name": "MB AgroSync Technologies",
@@ -3657,8 +3662,7 @@
   {
     "name": "UAB \"Baltijos agroverslo projektai\"",
     "code": "126414582",
-    "address": "Vilnius, J. Jasinskio g. 12, LT-01112",
-    "vatcode": "LT100000935013"
+    "address": "Vilnius, J. Jasinskio g. 12, LT-01112"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA BALTIJOS AGROVERSLO INSTITUTAS",
@@ -3730,11 +3734,6 @@
     "code": "305219531",
     "address": "Pasvalys, Šermukšnių g. 14B-9, LT-39131",
     "vatcode": "LT100014532918"
-  },
-  {
-    "name": "MB Agrovisio",
-    "code": "305636959",
-    "address": "Neringa, Gintaro Įlankos g. 8-2, LT-93102"
   },
   {
     "name": "Individuali įmonė \"Agrovit\"",

@@ -22,7 +22,8 @@
   {
     "name": "Social Light, MB",
     "code": "305939237",
-    "address": "Vilnius, Girulių g. 10, LT-12112"
+    "address": "Vilnius, Girulių g. 10, LT-12112",
+    "vatcode": "LT100017201118"
   },
   {
     "name": "Social TradeX, UAB",
@@ -38,8 +39,7 @@
   {
     "name": "UAB \"Laura social\"",
     "code": "305646565",
-    "address": "Kaunas, Taikos pr. 95-125, LT-50449",
-    "vatcode": "LT100015902917"
+    "address": "Kaunas, Taikos pr. 95-125, LT-50449"
   },
   {
     "name": "UAB \"Social Solutions\"",
@@ -203,20 +203,25 @@
     "address": "Kaunas, Sukilėlių pr. 67-8, LT-49333"
   },
   {
+    "name": "Mažoji bendrija \"Sociali karta\"",
+    "code": "306986930",
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Teleičių k., Lelijų g. 12, LT-53273"
+  },
+  {
     "name": "Klaipėdos miesto socialiai remtinų gyventojų klubas \"RŪTA\"",
     "code": "193220618",
     "address": "Klaipėda, Kalnupės g. 13-3, LT-93254"
+  },
+  {
+    "name": "Pagalbos socialiai pažeidžiamiems asmenims centras \"Humanitas\"",
+    "code": "305537441",
+    "address": "Vilnius, Saltoniškių g. 31-303, LT-08106"
   },
   {
     "name": "Socialiai atsakingo verslo klubas",
     "code": "302570984",
     "address": "Vilnius, Laisvės pr. 77C, LT-06155",
     "vatcode": "LT100006132616"
-  },
-  {
-    "name": "VšĮ \"Socialiai aktyvūs tarptautiniai partneriai\"",
-    "code": "305639859",
-    "address": "Vilniaus m. sav., Grigiškės, Kunigiškių g. 12-12, LT-27109"
   },
   {
     "name": "VšĮ \"Socialiai atsakinga bendruomenė\"",
@@ -365,6 +370,11 @@
     "name": "Lietuvos darbininkų sąjungos Valstybinio socialinio draudimo fondo valdybos Ignalinos rajono skyriaus paslaugų sektoriaus darbuotojų sąjunga",
     "code": "155629748",
     "address": "Ignalina, Laisvės g. 62, LT-30117"
+  },
+  {
+    "name": "Lietuvos socialinio darbo gatvėje asociacija",
+    "code": "307000931",
+    "address": "Vilnius, P. Žadeikos g. 26A, LT-06321"
   },
   {
     "name": "Lietuvos socialinio darbo mokyklų asociacija",
@@ -578,7 +588,7 @@
   {
     "name": "VšĮ Socialinis taksi",
     "code": "305650211",
-    "address": "Vilnius, Kaimynų g. 200, LT-25127"
+    "address": "Vilniaus m. sav., Grigiškių m., Mokyklos g. 8-2, LT-27105"
   },
   {
     "name": "VšĮ Vilniaus socialinis klubas",
@@ -613,7 +623,7 @@
   {
     "name": "Asociacija \"Socialinių inovacijų tinklas\"",
     "code": "304468953",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "Asociacija \"Socialinių paslaugų ratas\"",
@@ -951,7 +961,7 @@
   {
     "name": "SOCIALINIŲ PASLAUGŲ PLĖTROS FONDAS, UAB",
     "code": "305557579",
-    "address": "Vilnius, J. Jasinskio g. 16E, LT-03163",
+    "address": "Kalvarijos sav., Kalvarijos sen., Mikališkių k. 4, LT-69228",
     "vatcode": "LT100015793413"
   },
   {
@@ -1718,7 +1728,7 @@
   {
     "name": "Labdaros ir paramos fondas \"Socialinės paramos piliečiai\"",
     "code": "303113522",
-    "address": "Vilnius, Konstitucijos pr. 12, LT-09308"
+    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "Lavėnų socialinės globos namai",
@@ -1906,11 +1916,6 @@
     "address": "Kaunas, Apuolės g. 44, LT-48302"
   },
   {
-    "name": "Socialinės globos įstaigų asociacija \"Humanitas\"",
-    "code": "305537441",
-    "address": "Vilnius, Saltoniškių g. 31-303, LT-08106"
-  },
-  {
     "name": "Socialinės integracijos centras",
     "code": "300624814",
     "address": "Šiauliai, Draugystės pr. 16-22, LT-77154"
@@ -2082,11 +2087,6 @@
     "name": "Viešoji įstaiga \"Nacionalinis socialinės integracijos institutas\"",
     "code": "302326599",
     "address": "Zarasai, Malūno g. 19A, LT-32118"
-  },
-  {
-    "name": "Viešoji įstaiga \"Pravieniškių kalinių socialinės integracijos centras\"",
-    "code": "300560742",
-    "address": "Kaišiadorių r. sav., Pravieniškių sen., Pravieniškių k., Šv. Florijono g. 15, LT-56369"
   },
   {
     "name": "Viešoji įstaiga \"Socialinės atsakomybės projektai\"",
@@ -2474,6 +2474,11 @@
     "name": "Labdaros ir paramos fondas \"Civil Society Support Foundation\"",
     "code": "305731275",
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
+  },
+  {
+    "name": "MB Artillerry motors rental society",
+    "code": "306996013",
+    "address": "Zarasai, Petro Cvirkos g. 8, LT-32116"
   },
   {
     "name": "MB Brands society",

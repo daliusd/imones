@@ -28,11 +28,6 @@
     "address": "Kauno r. sav., Čekiškė, Ateities g. 26, LT-54276"
   },
   {
-    "name": "IĮ \"Ievos gamyba\"",
-    "code": "303344130",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "MB \"AC Gamyba\"",
     "code": "306043876",
     "address": "Vilnius, Kazio Ulvydo g. 5-15, LT-08354",
@@ -324,6 +319,11 @@
     "vatcode": "LT100006218917"
   },
   {
+    "name": "UAB AG Gamyba",
+    "code": "306994222",
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Kuprių k., Jovarų g. 15, LT-77197"
+  },
+  {
     "name": "UAB Kvarco stalviršių gamyba",
     "code": "305821146",
     "address": "Kaunas, Santakos g. 24-2, LT-44279",
@@ -332,7 +332,8 @@
   {
     "name": "UAB Litmer gamyba",
     "code": "306407671",
-    "address": "Anykščiai, Liudiškių g. 16-2, LT-29130"
+    "address": "Anykščiai, Liudiškių g. 16-2, LT-29130",
+    "vatcode": "LT100017038518"
   },
   {
     "name": "UAB SAULĖS ENERGIJOS GAMYBA",
@@ -779,11 +780,6 @@
     "address": "Vilnius, Panerių g. 11, LT-03209"
   },
   {
-    "name": "M. Jankauskienės gamybinė-prekybinė įmonė \"Astra\"",
-    "code": "181182871",
-    "address": "Elektrėnai, Šviesos g. 22"
-  },
-  {
     "name": "M. Junoko gamybinė-komercinė įmonė",
     "code": "140623675",
     "address": "Klaipėda, Sausio 15-osios g. 6C-57, LT-91236",
@@ -972,11 +968,6 @@
     "name": "S. Drapanauskio gamybinė įmonė",
     "code": "141376950",
     "address": "Klaipėda, Žardininkų g. 18-2, LT-94233"
-  },
-  {
-    "name": "S. Kartanovič personalinė gamybinė firma \"SKARTAS\"",
-    "code": "120031374",
-    "address": "Vilnius, Justiniškių g. 74-6, LT-05234"
   },
   {
     "name": "S. Petrovo gamybinė-komercinė firma",
@@ -1634,7 +1625,7 @@
   {
     "name": "Ričardo Petriko gamybos įmonė",
     "code": "262744520",
-    "address": "Kelmės r. sav., Užventis, Žemaitės g. 55, LT-86343",
+    "address": "Kelmės r. sav., Užvenčio sen., Palonių k. 3, LT-86340",
     "vatcode": "LT627445219"
   },
   {

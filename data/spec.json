@@ -84,11 +84,6 @@
     "vatcode": "LT100016553911"
   },
   {
-    "name": "Special Media, MB",
-    "code": "305655354",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
-  },
-  {
     "name": "Special situations 1, UAB",
     "code": "306974013",
     "address": "Vilnius, Jogailos g. 9A, LT-01116"
@@ -108,6 +103,11 @@
     "name": "UAB \"Special technologies\"",
     "code": "306635372",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "UAB Jusema Special Transporte",
+    "code": "306984541",
+    "address": "Ukmergės r. sav., Deltuvos sen., Dainavos k., Pakalnės g. 15, LT-20287"
   },
   {
     "name": "UAB Special Building Forces SBF",
@@ -162,23 +162,19 @@
     "address": "Klaipėda, Liepų g. 79, LT-92195"
   },
   {
-    "name": "Alytaus r. Simno specialioji mokykla",
-    "code": "190984347"
-  },
-  {
     "name": "Kelmės specialioji mokykla",
     "code": "190100485",
     "address": "Kelmė, Liolių g. 19, LT-86185"
   },
   {
-    "name": "Linkuvos specialioji mokykla",
-    "code": "290985820",
-    "address": "Pakruojo r. sav., Linkuva, Gimnazijos g. 30, LT-83435"
-  },
-  {
     "name": "Panevėžio specialioji mokykla-daugiafunkcis centras",
     "code": "148209637",
     "address": "Panevėžys, Algirdo g. 31, LT-35243"
+  },
+  {
+    "name": "Rokiškio specialioji mokykla-daugiafunkcis centras",
+    "code": "303331300",
+    "address": "Rokiškis, J. Biliūno g. 2, LT-42105"
   },
   {
     "name": "Specialioji uždarojo tipo nekilnojamojo turto investicinė bendrovė \"INVL Baltic Real Estate\"",
@@ -197,10 +193,6 @@
     "address": "Vilnius, Gynėjų g. 14, LT-01109"
   },
   {
-    "name": "Varėnos specialioji mokykla",
-    "code": "190987457"
-  },
-  {
     "name": "Viešoji įstaiga \"Klaipėdos specialioji mokykla-daugiafunkcis centras \"Svetliačiok\"",
     "code": "195171536",
     "address": "Klaipėda, Baltijos pr. 49, LT-94127"
@@ -214,15 +206,6 @@
     "name": "Vilniaus \"Vilties\" specialioji mokykla-daugiafunkcinis centras",
     "code": "190034188",
     "address": "Vilnius, Igno Šimulionio g. 6, LT-04331"
-  },
-  {
-    "name": "Šalčininkų specialioji mokykla",
-    "code": "190986355",
-    "address": "Šalčininkai, Bažnyčios g. 25, LT-17122"
-  },
-  {
-    "name": "Žagarės specialioji mokykla",
-    "code": "190565616"
   },
   {
     "name": "Plungės specialiojo ugdymo centras",
@@ -894,10 +877,6 @@
     "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
-    "name": "Molėtų r. Kijėlių specialusis ugdymo centras",
-    "code": "195401122"
-  },
-  {
     "name": "Vilniaus specialusis lopšelis-darželis \"Čiauškutis\"",
     "code": "190027941",
     "address": "Vilnius, Sausio 13-osios g. 6, LT-04347"
@@ -950,7 +929,8 @@
   {
     "name": "UAB Specjums",
     "code": "306414139",
-    "address": "Vilnius, Santariškių g. 75-34, LT-08457"
+    "address": "Vilnius, Santariškių g. 75-34, LT-08457",
+    "vatcode": "LT100017185617"
   },
   {
     "name": "UAB \"Specmašinos\"",
@@ -976,8 +956,7 @@
   },
   {
     "name": "VšĮ \"Specpervežimai\"",
-    "code": "306053913",
-    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., S. Nėries g. 14A-1, LT-54129"
+    "code": "306053913"
   },
   {
     "name": "UAB \"Specprojektas\"",
@@ -1111,11 +1090,6 @@
     "code": "305712392",
     "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Erdvės g. 7, LT-52114",
     "vatcode": "LT100013974610"
-  },
-  {
-    "name": "MB \"CBD Spectrum\"",
-    "code": "305578477",
-    "address": "Klaipėdos r. sav., Priekulės sen., Derceklių k., Bangų g. 10, LT-96379"
   },
   {
     "name": "MB Spectrum sprendimai",

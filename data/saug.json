@@ -830,10 +830,6 @@
     "address": "Kelmės r. sav., Kelmės apylinkių sen., Verpenos k., Parko g. 9-2, LT-86105"
   },
   {
-    "name": "Civilinės saugos departamentas prie Vidaus reikalų ministerijos",
-    "code": "188700672"
-  },
-  {
     "name": "Darbo saugos specialistų darbdavių asociacija",
     "code": "302493616",
     "address": "Klaipėda, J. Janonio g. 12-2, LT-92252"
@@ -950,12 +946,14 @@
   {
     "name": "MB Darbų saugos biuras",
     "code": "305196723",
-    "address": "Šiauliai, Gaisrininkų g. 3B, LT-76295"
+    "address": "Šiauliai, Gaisrininkų g. 3B, LT-76295",
+    "vatcode": "LT100017180919"
   },
   {
     "name": "MB Elektroninės saugos grupė",
     "code": "303144699",
-    "address": "Elektrėnų sav., Semeliškių sen., Jokūbiškių k., Laičių g. 52, LT-21342"
+    "address": "Elektrėnų sav., Semeliškių sen., Jokūbiškių k., Laičių g. 52, LT-21342",
+    "vatcode": "LT100017190815"
   },
   {
     "name": "MB SAUGOS KURSAI",
@@ -966,6 +964,11 @@
     "name": "MB Saugos Tarnyba \"Gintarinis Tigras\"",
     "code": "306705479",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+  },
+  {
+    "name": "MB Saugos guru",
+    "code": "306982946",
+    "address": "Klaipėda, Nidos g. 56-29, LT-93191"
   },
   {
     "name": "MB Saugos ir taktikos mokykla",
@@ -1466,11 +1469,6 @@
     "address": "Marijampolė, Sporto g. 2-36, LT-68238"
   },
   {
-    "name": "UAB \"Kraujagyslių saugumas\"",
-    "code": "302651322",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "UAB \"Saugumas LT\"",
     "code": "302500078",
     "address": "Šiauliai, Dvaro g. 98, LT-76239",
@@ -1580,11 +1578,6 @@
     "code": "126128734",
     "address": "Vilnius, Savanorių pr. 11A-35, LT-03116",
     "vatcode": "LT100005482818"
-  },
-  {
-    "name": "UAB \"Saugumo agentūra\"",
-    "code": "305553292",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
   },
   {
     "name": "UAB \"Saugumo vizija\"",

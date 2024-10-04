@@ -1,10 +1,5 @@
 [
   {
-    "name": "Asociacija Mes Tauta",
-    "code": "305630415",
-    "address": "Vilnius, Verkių g. 31C, LT-09108"
-  },
-  {
     "name": "Asociacija Šeima Tauta Valstybė",
     "code": "306966155",
     "address": "Kauno r. sav., Zapyškio sen., Jadagonių k., Tvenkinio g. 27, LT-53403"
@@ -13,6 +8,11 @@
     "name": "MB Laiminga tauta",
     "code": "305932591",
     "address": "Kaunas, R. Kalantos g. 147-61, LT-52313"
+  },
+  {
+    "name": "VšĮ \"Bundanti tauta\"",
+    "code": "306990003",
+    "address": "Kaunas, Raudondvario pl. 182, LT-47149"
   },
   {
     "name": "VšĮ \"Stipri tauta\"",
@@ -518,7 +518,7 @@
   {
     "name": "Lietuvos tautodailininkų sąjungos Kauno bendrija",
     "code": "135639724",
-    "address": "Kaunas, S. Daukanto g. 15, LT-44305"
+    "address": "Kaunas, Laisvės al. 57, LT-44305"
   },
   {
     "name": "Lietuvos tautodailininkų sąjungos Panevėžio bendrija",
@@ -708,6 +708,11 @@
     "address": "Vilnius, Antakalnio g. 6, LT-10308"
   },
   {
+    "name": "MB TauTrans",
+    "code": "306994941",
+    "address": "Vilnius, Lazdynėlių g. 38C-4, LT-04126"
+  },
+  {
     "name": "UAB \"Tautranta\"",
     "code": "304966740",
     "address": "Marijampolės sav., Liudvinavo sen., Buktos k., Pievų g. 11, LT-69191",
@@ -724,11 +729,6 @@
     "code": "305717126",
     "address": "Panevėžys, Įmonių g. 5D-3, LT-35101",
     "vatcode": "LT100014459419"
-  },
-  {
-    "name": "MB \"Tautsta\"",
-    "code": "305631691",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
   },
   {
     "name": "IĮ \"Tautukas\"",
@@ -832,11 +832,6 @@
     "name": "Alytaus tautų kultūros draugija \"Malachitas\"",
     "code": "150159426",
     "address": "Alytus, S. Dariaus ir S. Girėno g. 1-17, LT-62137"
-  },
-  {
-    "name": "Azijos tautų tradicijų asociacija",
-    "code": "305425200",
-    "address": "Kaunas, P. Kalpoko g. 1, LT-44146"
   },
   {
     "name": "Jungtinių Tautų Taikos Kūrimo Aljansas",

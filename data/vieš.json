@@ -230,7 +230,7 @@
   {
     "name": "Vidos Gabartienės firma \"VIDOS\" viešbutis",
     "code": "121863299",
-    "address": "Vilnius, Pranciškaus Smuglevičiaus g. 6-27, LT-08333"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "\"Viešbučio lovos ir medžiagos\", UAB",
@@ -307,7 +307,8 @@
   {
     "name": "MB \"Vilniaus viešieji renginiai\"",
     "code": "304078355",
-    "address": "Vilnius, Buivydiškių g. 14-707, LT-07195"
+    "address": "Vilnius, Buivydiškių g. 14-707, LT-07195",
+    "vatcode": "LT100017185213"
   },
   {
     "name": "VIEŠIEJI INTERNETO PRIEIGOS TAŠKAI (VIPT)",
@@ -850,21 +851,6 @@
     "address": "Klaipėda, Jurginų g. 33, LT-91206"
   },
   {
-    "name": "Viešosios įstaigos Klaipėdos universiteto ligoninės filialas \"Jūrininkų ligoninė\"",
-    "code": "306209629",
-    "address": "Klaipėda, Liepojos g. 45, LT-92288"
-  },
-  {
-    "name": "Viešosios įstaigos Klaipėdos universiteto ligoninės filialas \"Klaipėdos ligoninė\"",
-    "code": "306209287",
-    "address": "Klaipėda, Liepojos g. 41, LT-92288"
-  },
-  {
-    "name": "Viešosios įstaigos Klaipėdos universiteto ligoninės filialas \"Palangos reabilitacijos ligoninė\"",
-    "code": "306209173",
-    "address": "Palanga, Vytauto g. 153, LT-00163"
-  },
-  {
     "name": "Viešosios įstaigos Krikščionių medicinos centro Vilniaus filialas",
     "code": "304572546",
     "address": "Vilnius, Geležinkelio g. 6-130, LT-02100"
@@ -1240,6 +1226,11 @@
     "address": "Vilnius, V. Grybo g. 7, LT-10313"
   },
   {
+    "name": "Viešosios įstaigos Vilniaus universiteto ligoninės Santaros klinikų filialas Žalgirio klinika",
+    "code": "306983585",
+    "address": "Vilnius, Žalgirio g. 117, LT-08217"
+  },
+  {
     "name": "Viešosios įstaigos jaunimo centro \"BABILONAS\" Ukmergės filialas",
     "code": "182938656",
     "address": "Ukmergė, Linų g. 27C, LT-20175"
@@ -1350,10 +1341,6 @@
     "address": "Jurbarko r. sav., Viešvilės sen., Jūravos k. 9, LT-74231"
   },
   {
-    "name": "Jurbarko r. Viešvilės pagrindinė mokykla",
-    "code": "190920152"
-  },
-  {
     "name": "Jurbarko rajono savivaldybės administracijos Viešvilės seniūnija",
     "code": "188623731",
     "address": "Jurbarko r. sav., Viešvilė, Klaipėdos g. 63, LT-74235"
@@ -1398,11 +1385,6 @@
     "name": "Viešvėnų kaimo bendruomenė",
     "code": "180382260",
     "address": "Telšių r. sav., Viešvėnų sen., Viešvėnų I k., Getautės g. 1, LT-88405"
-  },
-  {
-    "name": "Viešvėnų kaimo bendruomenė \"Judra\"",
-    "code": "305410006",
-    "address": "Telšių r. sav., Viešvėnų sen., Vembūtų k., Ankštėlės g. 22, LT-88407"
   },
   {
     "name": "Viešvėnų Švč. Trejybės parapija",

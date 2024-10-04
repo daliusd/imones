@@ -31,6 +31,11 @@
     "address": "Kauno miesto savivaldybės teritorija"
   },
   {
+    "name": "MB Info mingaslt",
+    "code": "306983279",
+    "address": "Kaunas, Savanorių pr. 108-12, LT-44147"
+  },
+  {
     "name": "UAB \"BVS Info\"",
     "code": "123470266",
     "address": "Kaunas, Statybininkų g. 7, LT-50118",
@@ -492,11 +497,6 @@
     "name": "Viešoji įstaiga \"Inforlitus\"",
     "code": "135932385",
     "address": "Kaunas, V. Krėvės pr. 48-40, LT-50405"
-  },
-  {
-    "name": "UAB INFORM DEBTOR",
-    "code": "304921720",
-    "address": "Vilnius, L. Giros g. 10, LT-06325"
   },
   {
     "name": "VšĮ \"Direct Inform Team\"",
@@ -1108,8 +1108,7 @@
   {
     "name": "Viešoji įstaiga Zarasų turizmo ir verslo informacijos centras",
     "code": "187918593",
-    "address": "Zarasai, Sėlių a. 22, LT-32110",
-    "vatcode": "LT100011579413"
+    "address": "Zarasai, Sėlių a. 22, LT-32110"
   },
   {
     "name": "Viešoji įstaiga Žemaitijos turizmo informacijos centras",
@@ -1489,7 +1488,7 @@
   {
     "name": "UAB Informacinių sistemų centras",
     "code": "304760007",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "UAB Informacinių sistemų laboratorija",
@@ -1744,7 +1743,8 @@
   {
     "name": "UAB \"Information technology solutions command\"",
     "code": "305677404",
-    "address": "Joniškio r. sav., Žagarė, Kęstučio g. 7, LT-84325"
+    "address": "Joniškio r. sav., Žagarė, Kęstučio g. 7, LT-84325",
+    "vatcode": "LT100017173815"
   },
   {
     "name": "UAB \"MANAGEMENT INFORMATION\"",
@@ -2045,6 +2045,11 @@
     "code": "305911120",
     "address": "Vilnius, Lvivo g. 25-702, LT-09320",
     "vatcode": "LT100014561417"
+  },
+  {
+    "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"PrimePlot Residential Real Estate Fund 1\"",
+    "code": "306818391",
+    "address": "Vilnius, Didžioji g. 18, LT-01128"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"Verslo trikampis\"",
@@ -2419,7 +2424,7 @@
     "address": "Vilnius, Vytauto Žalakevičiaus g. 15-1, LT-10109"
   },
   {
-    "name": "Infotrust, UAB",
+    "name": "The Infotrust, UAB",
     "code": "302821874",
     "address": "Vilnius, Zarasų g. 3-1, LT-01205",
     "vatcode": "LT100007357519"

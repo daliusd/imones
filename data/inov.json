@@ -67,7 +67,8 @@
   {
     "name": "MB MG inovacija",
     "code": "306095549",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100017134814"
   },
   {
     "name": "UAB \"Inovacija ir darbai\"",
@@ -355,11 +356,6 @@
     "address": "Kaunas, Gedimino g. 45-7, LT-44239"
   },
   {
-    "name": "UAB \"Elektros inovacijos\"",
-    "code": "303575614",
-    "address": "Vilnius, Minsko pl. 33A, LT-02121"
-  },
-  {
     "name": "UAB \"Grožio inovacijos akademija\"",
     "code": "305997048",
     "address": "Vilnius, Konstitucijos pr. 12, LT-09308"
@@ -575,7 +571,7 @@
   {
     "name": "Asociacija \"Socialinių inovacijų tinklas\"",
     "code": "304468953",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "Eismo inovacijų grupė, VšĮ",
@@ -626,6 +622,11 @@
     "name": "Kauno švietimo inovacijų centras",
     "code": "193043096",
     "address": "Kaunas, Vytauto pr. 44, LT-44329"
+  },
+  {
+    "name": "Labdaros ir paramos fondas - Pasaulio inovacijų raktas \"DABER\"",
+    "code": "306986040",
+    "address": "Joniškio r. sav., Žagarė, Kęstučio g. 7, LT-84325"
   },
   {
     "name": "Lietuvos Respublikos ekonomikos ir inovacijų ministerija",
@@ -746,6 +747,11 @@
     "name": "MB Karjeros inovacijų ir perkvalifikavimo centras",
     "code": "305210023",
     "address": "Varėnos r. sav., Varėnos sen., Senosios Varėnos k., Riešutų g. 1A, LT-65487"
+  },
+  {
+    "name": "MB Mitybos tyrimų inovacijų centras",
+    "code": "307000123",
+    "address": "Panevėžys, Parko g. 59-20, LT-37320"
   },
   {
     "name": "MB Skaitmeninių inovacijų centras",
@@ -1103,11 +1109,6 @@
     "address": "Klaipėda, Vilhelmo Berbomo g. 13-13, LT-92222"
   },
   {
-    "name": "VšĮ Ekologijos ir inovacijų centras",
-    "code": "305663027",
-    "address": "Kretingos r. sav., Kretingos sen., Parąžės k., Alksnių g. 12, LT-97220"
-  },
-  {
     "name": "VšĮ Europos inovacijų ir investicijų akademija",
     "code": "303443872",
     "address": "Vilnius, Konstitucijos pr. 12, LT-09308"
@@ -1436,7 +1437,7 @@
   {
     "name": "VšĮ \"Jaunieji inovatoriai\"",
     "code": "304156626",
-    "address": "Marijampolės sav., Marijampolės sen., Kumelionių k., Vingio g. 29, LT-68130"
+    "address": "Marijampolė, A. J. Greimo g. 7, LT-68138"
   },
   {
     "name": "MB \"Inovatorius\"",
@@ -1829,11 +1830,6 @@
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
-    "name": "MB Inovatyvus ūkis",
-    "code": "305595302",
-    "address": "Biržų r. sav., Nemunėlio Radviliškio sen., Ločerų k. 1, LT-41471"
-  },
-  {
     "name": "UAB \"Inovatyvus maistas\"",
     "code": "305229995",
     "address": "Vilnius, Pikutiškių g. 48, LT-14187"
@@ -1900,7 +1896,7 @@
   {
     "name": "UAB \"Inovatyvūs restoranai\"",
     "code": "304219165",
-    "address": "Vilnius, A. Goštauto g. 40A, LT-03163",
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
     "vatcode": "LT100010077712"
   },
   {
@@ -1976,6 +1972,16 @@
     "code": "302499779",
     "address": "Vilnius, Petro Baublio g. 73, LT-08431",
     "vatcode": "LT100015568510"
+  },
+  {
+    "name": "MB Inovegus",
+    "code": "306984349",
+    "address": "Klaipėda, Taikos pr. 115A, LT-94231"
+  },
+  {
+    "name": "MB \"Inovela\"",
+    "code": "306987039",
+    "address": "Šiauliai, Dainų g. 100-72, LT-78270"
   },
   {
     "name": "MB \"Inovelis\"",
@@ -2060,6 +2066,11 @@
     "vatcode": "LT100015200211"
   },
   {
+    "name": "MB Inovilus",
+    "code": "306991240",
+    "address": "Vilnius, Gvazdikų g. 42A, LT-10108"
+  },
+  {
     "name": "MB \"Inovis\"",
     "code": "305025754",
     "address": "Klaipėda, Šilutės pl. 36-28, LT-94137"
@@ -2079,6 +2090,11 @@
     "name": "MB \"Inovita LT\"",
     "code": "306958151",
     "address": "Alytaus r. sav., Nemunaičio sen., Balninkų k., Centrinė g. 7, LT-64202"
+  },
+  {
+    "name": "MB Inovizija",
+    "code": "306989816",
+    "address": "Vilnius, Skersinės g. 66A, LT-14191"
   },
   {
     "name": "MB \"Inovo projektai\"",
