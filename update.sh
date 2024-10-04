@@ -8,6 +8,8 @@ node index.js
 RUN_FROM_GITHUB_ACTION="${RUN_FROM_GITHUB_ACTION:-false}"
 if [ "$RUN_FROM_GITHUB_ACTION" = "true" ]; then
   if [[ `git status --porcelain` ]]; then
+      git config user.email "dalius.dobravolskas@gmail.com"
+      git config user.name "Dalius"
       NOW=$(date "+%Y-%m-%d-%H-%M-%S")
       git checkout -b update-${NOW}
       git add .
