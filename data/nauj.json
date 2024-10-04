@@ -264,11 +264,6 @@
     "address": "Kėdainiai, M. Daukšos g. 52-2, LT-57137"
   },
   {
-    "name": "VšĮ \"Gyvenkime naujai\"",
-    "code": "305427137",
-    "address": "Kauno miesto savivaldybės teritorija"
-  },
-  {
     "name": "Daugiabučio namo savininkų bendrija \"Naujakiemio 4\"",
     "code": "304871484",
     "address": "Klaipėda, Naujakiemio g. 4-14, LT-94187"
@@ -759,7 +754,8 @@
   {
     "name": "UAB \"Naujas regėjimas\"",
     "code": "306081994",
-    "address": "Vilnius, Savičiaus g. 3A-40, LT-01127"
+    "address": "Vilnius, Savičiaus g. 3A-40, LT-01127",
+    "vatcode": "LT100017168617"
   },
   {
     "name": "UAB \"Naujas skonis\"",
@@ -1171,7 +1167,7 @@
   {
     "name": "A. Vrubliauskienės IĮ \"Nauji vėjai\"",
     "code": "123694442",
-    "address": "Vilnius, Bitėnų g. 5-8, LT-06228"
+    "address": "Vilnius, Šv. Stepono g. 5-46, LT-01139"
   },
   {
     "name": "MB \"Nauji ir naudoti rūbai iš Anglijos\"",
@@ -1232,11 +1228,6 @@
     "name": "UAB \"Nauji vėjai Lietuvoje\"",
     "code": "302598268",
     "address": "Panevėžys, Artojų g. 3-18, LT-35219"
-  },
-  {
-    "name": "UAB NAUJI HORIZONTAI",
-    "code": "303045669",
-    "address": "Vilnius, Lukiškių g. 5, LT-01108"
   },
   {
     "name": "UAB Nauji ir dėvėti drabužiai",
@@ -1627,11 +1618,6 @@
     "name": "UAB \"Naujo transporto paslaugos\"",
     "code": "304675795",
     "address": "Vilnius, Naugarduko g. 102, LT-03160"
-  },
-  {
-    "name": "UAB \"Naujo\"",
-    "code": "305213400",
-    "address": "Vilnius, Jogailos g. 11B, LT-01116"
   },
   {
     "name": "Viešoji įstaiga \"Kalba iš naujo\"",
@@ -2052,7 +2038,8 @@
   {
     "name": "UAB \"Naujoji ranga\"",
     "code": "300603994",
-    "address": "Kaunas, Raudondvario pl. 288C, LT-47164"
+    "address": "Kaunas, Raudondvario pl. 288C, LT-47164",
+    "vatcode": "LT100002691611"
   },
   {
     "name": "UAB \"Naujoji rasa\"",
@@ -2353,6 +2340,11 @@
     "vatcode": "LT100016148011"
   },
   {
+    "name": "MB Naujos šviesos grupė",
+    "code": "306985604",
+    "address": "Klaipėda, Vytauto g. 16-6, LT-92133"
+  },
+  {
     "name": "Naujos ekonomikos institutas",
     "code": "191602964",
     "address": "Vilnius, Stepono Batoro g. 52-1, LT-01215"
@@ -2360,7 +2352,7 @@
   {
     "name": "Naujos kartos kompiuterių mokykla",
     "code": "193093156",
-    "address": "Vilnius, L. Giros g. 96-45, LT-06301"
+    "address": "Vilnius, Verkių g. 31C, LT-09108"
   },
   {
     "name": "Naujos kartos mokslo ir verslo klasteris",

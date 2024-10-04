@@ -97,7 +97,7 @@
   {
     "name": "A.B.C. Nekilnojamas turtas Vilnius, UAB",
     "code": "304939348",
-    "address": "Vilnius, Laisvės pr. 62, LT-05259",
+    "address": "Vilniaus r. sav., Rukainių sen., Rukainių k., Kunigo Povilo Ksavero Bžostovskio g. 9, LT-13176",
     "vatcode": "LT100011987319"
   },
   {
@@ -288,6 +288,11 @@
     "name": "MB Panevėžio turtas",
     "code": "305939454",
     "address": "Panevėžys, Kranto g. 2-16, LT-35174"
+  },
+  {
+    "name": "MB Privatus turtas",
+    "code": "306994681",
+    "address": "Kretinga, Kęstučio g. 20-47, LT-97177"
   },
   {
     "name": "MB Resale nekilnojamasis turtas",
@@ -693,12 +698,6 @@
     "vatcode": "LT100009078715"
   },
   {
-    "name": "UAB \"Kauno turtas\"",
-    "code": "303543417",
-    "address": "Kaunas, Kalvarijos g. 28H, LT-46345",
-    "vatcode": "LT100009126315"
-  },
-  {
     "name": "UAB \"Kertinis turtas\"",
     "code": "306655033",
     "address": "Kaunas, Vandžiogalos pl. 20, LT-47442",
@@ -796,11 +795,6 @@
     "code": "301300555",
     "address": "Vilnius, Verkių g. 42, LT-09117",
     "vatcode": "LT100003641812"
-  },
-  {
-    "name": "UAB \"MGP turtas\"",
-    "code": "303307484",
-    "address": "Vilnius, S. Žukausko g. 39-53, LT-09130"
   },
   {
     "name": "UAB \"Mano nekilnojamasis turtas\"",
@@ -1234,11 +1228,6 @@
     "address": "Kaunas, Baltijos g. 96-27, LT-48209"
   },
   {
-    "name": "UAB \"Verkių turtas\"",
-    "code": "304186427",
-    "address": "Vilnius, Verkių g. 32-6, LT-08221"
-  },
-  {
     "name": "UAB \"Verslo turtas\"",
     "code": "302663303",
     "address": "Vilnius, Pranciškaus Smuglevičiaus g. 8-18, LT-08333",
@@ -1411,6 +1400,11 @@
     "code": "304607303",
     "address": "Palanga, Aušros g. 22, LT-00103",
     "vatcode": "LT100011741610"
+  },
+  {
+    "name": "UAB Lio nekilnojamasis turtas",
+    "code": "306991450",
+    "address": "Vilnius, Literatų g. 9-31, LT-01125"
   },
   {
     "name": "UAB Modus solar turtas",
@@ -1705,7 +1699,8 @@
   {
     "name": "Lietuvos nekilnojamojo turto plėtros asociacija",
     "code": "300048927",
-    "address": "Vilnius, A. Goštauto g. 40A, LT-03163"
+    "address": "Vilnius, A. Goštauto g. 40A, LT-03163",
+    "vatcode": "LT100017163818"
   },
   {
     "name": "Lietuvos šeimos turto valdytojų asociacija",
@@ -1812,7 +1807,8 @@
   {
     "name": "MB \"Turto plėtros grupė\"",
     "code": "306864816",
-    "address": "Kaunas, V. Šiugždinio g. 17-3, LT-47239"
+    "address": "Kaunas, V. Šiugždinio g. 17-3, LT-47239",
+    "vatcode": "LT100017139714"
   },
   {
     "name": "MB \"Turto priežiūra\"",
@@ -2295,7 +2291,7 @@
   {
     "name": "UAB \"Turto ir verslo tyrimo centras\"",
     "code": "135628329",
-    "address": "Kaunas, Draugystės g. 19A, LT-51231",
+    "address": "Kaunas, Draugystės g. 19A-40, LT-51231",
     "vatcode": "LT356283219"
   },
   {
@@ -2518,11 +2514,6 @@
     "name": "UAB NEKILNOJAMO TURTO AGENTŪRA \"TURTO MENĖ\"",
     "code": "300022576",
     "address": "Vilnius, Gedimino pr. 54B, LT-01110"
-  },
-  {
-    "name": "UAB Nekilnojamojo turto agentūra \"Aveniu\"",
-    "code": "304636924",
-    "address": "Alytus, Sudvajų g. 22-13, LT-63281"
   },
   {
     "name": "UAB Nekilnojamojo turto agentūra \"Centras\"",

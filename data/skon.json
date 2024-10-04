@@ -353,11 +353,6 @@
     "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Raizgių k., Vyturių g. 42, LT-80184"
   },
   {
-    "name": "MB Skonio chuliganai",
-    "code": "305520068",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "MB Skonio elementai",
     "code": "306697228",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -815,6 +810,11 @@
     "address": "Kaunas, Girios g. 6-25, LT-47338"
   },
   {
+    "name": "MB Šaltas skonis",
+    "code": "306983891",
+    "address": "Vilnius, Spaudos g. 9-1, LT-05132"
+  },
+  {
     "name": "Mažoji bendrija Laužo skonis",
     "code": "305710605",
     "address": "Kaišiadorys, Gedimino g. 121-59, LT-56143"
@@ -926,11 +926,6 @@
     "vatcode": "LT100010508512"
   },
   {
-    "name": "UAB \"Prancūziškas skonis\"",
-    "code": "305625699",
-    "address": "Kaunas, Vėtrungės g. 16-42, LT-48130"
-  },
-  {
     "name": "UAB \"Puikus skonis\"",
     "code": "302558252",
     "address": "Šilalės r. sav., Šilalės kaimiškoji sen., Balsių k., Bažnyčios g. 3, LT-75102",
@@ -1039,6 +1034,11 @@
     "vatcode": "LT100014837211"
   },
   {
+    "name": "MB \"Skonių dulkės\"",
+    "code": "306988162",
+    "address": "Vilnius, Rasakilų g. 8, LT-13106"
+  },
+  {
     "name": "MB \"Skonių ekspertai\"",
     "code": "305822419",
     "address": "Klaipėda, Kalnupės g. 2-11, LT-93176"
@@ -1081,7 +1081,8 @@
   {
     "name": "MB Skonių pasaulis",
     "code": "306849910",
-    "address": "Vilnius, I. Kanto al. 19-31, LT-06202"
+    "address": "Vilnius, I. Kanto al. 19-31, LT-06202",
+    "vatcode": "LT100017192418"
   },
   {
     "name": "MB Skonių spektras",

@@ -34,7 +34,8 @@
   {
     "name": "UAB \"VERTA LT\"",
     "code": "306564605",
-    "address": "Lazdijų r. sav., Seirijai, Algirdo g. 20, LT-67227"
+    "address": "Lazdijų r. sav., Seirijai, Algirdo g. 20, LT-67227",
+    "vatcode": "LT100017189014"
   },
   {
     "name": "UAB \"Verta Trade\"",
@@ -220,7 +221,8 @@
   {
     "name": "MB Vertical boys",
     "code": "306631064",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100017152711"
   },
   {
     "name": "UAB \"VERTICAL GROUP\"",
@@ -376,8 +378,7 @@
   {
     "name": "IĮ \"Saloros vertimai\"",
     "code": "183836316",
-    "address": "Utena, Maironio g. 12-4, LT-28143",
-    "vatcode": "LT100015723917"
+    "address": "Utena, Maironio g. 12-4, LT-28143"
   },
   {
     "name": "IĮ \"Vlastos vertimai\"",
@@ -398,7 +399,7 @@
   {
     "name": "MB \"Vertimai jums\"",
     "code": "305336958",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+    "address": "Kauno miesto savivaldybės teritorija"
   },
   {
     "name": "MB \"Vertingi vertimai\"",
@@ -487,6 +488,11 @@
     "code": "120447547",
     "address": "Vilnius, Vasario 16-osios g. 2-81, LT-01106",
     "vatcode": "LT204475410"
+  },
+  {
+    "name": "MB Greitasis vertimas",
+    "code": "306992399",
+    "address": "Vilnius, Krivių g. 5, LT-01204"
   },
   {
     "name": "UAB \"Skubus vertimas\"",
@@ -1343,11 +1349,6 @@
     "code": "302742416",
     "address": "Trakai, Vytauto g. 15-1, LT-21105",
     "vatcode": "LT100006733713"
-  },
-  {
-    "name": "UAB \"Vertės kūryba\"",
-    "code": "302411779",
-    "address": "Vilnius, Taikos g. 65-16, LT-05232"
   },
   {
     "name": "UAB \"Vertės namai\"",

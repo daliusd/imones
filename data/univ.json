@@ -12,7 +12,8 @@
   {
     "name": "Mažoji bendrija Universa group",
     "code": "306556640",
-    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Vakarės g. 8, LT-92342"
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Vakarės g. 8, LT-92342",
+    "vatcode": "LT100017174510"
   },
   {
     "name": "Viešoji įstaiga Klaipėdos \"Universa Via\" tarptautinė mokykla",
@@ -59,12 +60,6 @@
     "name": "MB Universal GeTo",
     "code": "306315251",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "MB Universal proline",
-    "code": "306282342",
-    "address": "Vilnius, Santariškių g. 75-34, LT-08457",
-    "vatcode": "LT100015905619"
   },
   {
     "name": "TOV \"BK \"UNIVERSAL\" filialas",
@@ -737,11 +732,6 @@
     "vatcode": "LT119503917"
   },
   {
-    "name": "VšĮ \"Bendruomenių universitetas\"",
-    "code": "305539563",
-    "address": "Vilnius, Mokslininkų g. 3-63, LT-08411"
-  },
-  {
     "name": "VšĮ \"Gyvenimo universitetas LT\"",
     "code": "302612796",
     "address": "Vilnius, Pramonės g. 97-401, LT-11115",
@@ -1083,11 +1073,6 @@
     "vatcode": "LT214669811"
   },
   {
-    "name": "VIEŠOJI ĮSTAIGA VILNIAUS UNIVERSITETO LIGONINĖS ŽALGIRIO KLINIKA",
-    "code": "191744287",
-    "address": "Vilnius, Žalgirio g. 117, LT-08217"
-  },
-  {
     "name": "VILNIAUS GEDIMINO TECHNIKOS UNIVERSITETO STUDENTŲ ATSTOVYBĖ",
     "code": "193080995",
     "address": "Vilnius, Saulėtekio al. 11, LT-10223"
@@ -1174,21 +1159,6 @@
     "address": "Kaunas, Vytauto pr. 71-3, LT-44321"
   },
   {
-    "name": "Viešosios įstaigos Klaipėdos universiteto ligoninės filialas \"Jūrininkų ligoninė\"",
-    "code": "306209629",
-    "address": "Klaipėda, Liepojos g. 45, LT-92288"
-  },
-  {
-    "name": "Viešosios įstaigos Klaipėdos universiteto ligoninės filialas \"Klaipėdos ligoninė\"",
-    "code": "306209287",
-    "address": "Klaipėda, Liepojos g. 41, LT-92288"
-  },
-  {
-    "name": "Viešosios įstaigos Klaipėdos universiteto ligoninės filialas \"Palangos reabilitacijos ligoninė\"",
-    "code": "306209173",
-    "address": "Palanga, Vytauto g. 153, LT-00163"
-  },
-  {
     "name": "Viešosios įstaigos Lietuvos sveikatos mokslų universiteto Kauno ligoninės filialas P. Mažylio gimdymo namai",
     "code": "302621635",
     "address": "Kaunas, V. Putvinskio g. 3, LT-44242"
@@ -1202,6 +1172,11 @@
     "name": "Viešosios įstaigos Vilniaus Universiteto ligoninės Santariškių klinikos gydytojų profesinė sąjunga",
     "code": "300133847",
     "address": "Vilnius, Santariškių g. 2, LT-08406"
+  },
+  {
+    "name": "Viešosios įstaigos Vilniaus universiteto ligoninės Santaros klinikų filialas Žalgirio klinika",
+    "code": "306983585",
+    "address": "Vilnius, Žalgirio g. 117, LT-08217"
   },
   {
     "name": "Vilniaus Gedimino technikos universiteto (VGTU) darbuotojų profesinė sąjunga",
@@ -1349,6 +1324,11 @@
     "address": "Kauno r. sav., Akademija, Studentų g. 11, LT-53361"
   },
   {
+    "name": "Vytauto Didžiojo universiteto Šakių \"Žiburio\" gimnazija",
+    "code": "195360750",
+    "address": "Šakiai, V. Kudirkos g. 33, LT-71124"
+  },
+  {
     "name": "VšĮ Lietuvos sporto universiteto sporto centras",
     "code": "300123397",
     "address": "Kaunas, Sporto g. 6, LT-44221"
@@ -1422,11 +1402,6 @@
     "name": "UAB European medical university council and educational training",
     "code": "305879199",
     "address": "Vilnius, Veiverių g. 9B-1, LT-11346"
-  },
-  {
-    "name": "UAB WEALDEN UNIVERSITY",
-    "code": "305466898",
-    "address": "Vilnius, Didžioji g. 14-1, LT-01128"
   },
   {
     "name": "VšĮ \"WOW University\"",

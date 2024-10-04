@@ -15,6 +15,11 @@
     "address": "Vilnius, Mozūriškių g. 17-8, LT-06298"
   },
   {
+    "name": "Asociacija \"Tavo LT\"",
+    "code": "306993138",
+    "address": "Klaipėda, Debreceno g. 36-42, LT-94147"
+  },
+  {
     "name": "Asociacija \"Čia tavo namai\"",
     "code": "304541020",
     "address": "Kaunas, V. Krėvės pr. 18-115, LT-50415"
@@ -249,7 +254,8 @@
   {
     "name": "MB \"Tavo mylimiausia daina\"",
     "code": "306502094",
-    "address": "Vilnius, Smolensko g. 11-55, LT-03201"
+    "address": "Vilnius, Smolensko g. 11-55, LT-03201",
+    "vatcode": "LT100017166015"
   },
   {
     "name": "MB \"Tavo namų erdvė\"",
@@ -598,11 +604,6 @@
     "vatcode": "LT100007541010"
   },
   {
-    "name": "UAB \"Tavo Kama\"",
-    "code": "305098962",
-    "address": "Vilnius, Šv. Stepono g. 17-9, LT-01139"
-  },
-  {
     "name": "UAB \"Tavo Kaunas\"",
     "code": "302554122",
     "address": "Kaunas, Julijanavos g. 1D, LT-46392",
@@ -618,11 +619,6 @@
     "code": "305693209",
     "address": "Vilnius, Manufaktūrų g. 6-9, LT-11342",
     "vatcode": "LT100013761919"
-  },
-  {
-    "name": "UAB \"Tavo aplinkos vizija\"",
-    "code": "302779368",
-    "address": "Kaišiadorių r. sav., Žiežmarių apylinkės sen., Strėvininkų Babilių k. 9, LT-56263"
   },
   {
     "name": "UAB \"Tavo apskaita\"",
@@ -646,20 +642,10 @@
     "vatcode": "LT100012960716"
   },
   {
-    "name": "UAB \"Tavo darna\"",
-    "code": "303398975",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
-  },
-  {
     "name": "UAB \"Tavo draugas\"",
     "code": "134473491",
     "address": "Kaunas, Sukilėlių pr. 98-46, LT-49320",
     "vatcode": "LT344734917"
-  },
-  {
-    "name": "UAB \"Tavo ekspresas\"",
-    "code": "305031458",
-    "address": "Kaunas, A. Ramanausko-Vanago g. 4-19, LT-49306"
   },
   {
     "name": "UAB \"Tavo elektra\"",

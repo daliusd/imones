@@ -5,11 +5,6 @@
     "address": "Vilnius, Architektų g. 200-28, LT-04213"
   },
   {
-    "name": "MB \"Pard.app\"",
-    "code": "305539428",
-    "address": "Panevėžys, J. Žemgulio g. 46, LT-35239"
-  },
-  {
     "name": "UAB \"Pardamus\"",
     "code": "303272574",
     "address": "Elektrėnai, Trakų g. 23-27, LT-26116"
@@ -98,7 +93,8 @@
   {
     "name": "UAB \"Higso pardavimai\"",
     "code": "306917966",
-    "address": "Vilnius, Žirmūnų g. 139, LT-09120"
+    "address": "Vilnius, Žirmūnų g. 139, LT-09120",
+    "vatcode": "LT100017135518"
   },
   {
     "name": "UAB \"Internetiniai pardavimai\"",
@@ -270,7 +266,8 @@
   {
     "name": "MB NT pardavimų sprendimai",
     "code": "306417338",
-    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263"
+    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263",
+    "vatcode": "LT100017145817"
   },
   {
     "name": "MB PARDAVIMŲ KOMANDA",
@@ -435,6 +432,11 @@
     "code": "140944485",
     "address": "Klaipėda, Birutės g. 23-7, LT-91214",
     "vatcode": "LT409444811"
+  },
+  {
+    "name": "MB \"Pardis Commerce Group\"",
+    "code": "306991500",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
     "name": "Parduo2uab, UAB",
@@ -961,6 +963,12 @@
     "vatcode": "LT100003769011"
   },
   {
+    "name": "IĮ V. Vitkausko parduotuvė \"Luoma\"",
+    "code": "153000151",
+    "address": "Naujoji Akmenė, Vytauto g. 4-3, LT-85124",
+    "vatcode": "LT530001515"
+  },
+  {
     "name": "J. Griguolos ūkinių prekių parduotuvė",
     "code": "180724130",
     "address": "Telšių r. sav., Žarėnai, Varnių g. 9, LT-88379"
@@ -1075,8 +1083,7 @@
   {
     "name": "MB \"Parduotuvė lira\"",
     "code": "305635946",
-    "address": "Alytaus r. sav., Miroslavo sen., Peršėkininkų k., Dainavos g. 105, LT-64262",
-    "vatcode": "LT100014664216"
+    "address": "Alytaus r. sav., Miroslavo sen., Peršėkininkų k., Dainavos g. 105, LT-64262"
   },
   {
     "name": "MB \"Šeimos parduotuvė\"",
@@ -1121,8 +1128,7 @@
   {
     "name": "MB Parduotuvė \"Žiedas\"",
     "code": "305748812",
-    "address": "Kelmė, Raseinių g. 23, LT-86186",
-    "vatcode": "LT100014043114"
+    "address": "Kelmė, Raseinių g. 23, LT-86186"
   },
   {
     "name": "MB Sesių parduotuvė",
@@ -1273,11 +1279,6 @@
     "address": "Raseinių r. sav., Nemakščių sen., Užkalnių k."
   },
   {
-    "name": "S. Balčiūnienės parduotuvė \"Mistika\"",
-    "code": "169146040",
-    "address": "Pasvalio r. sav., Joniškėlis, P. Avižonio g. 1, LT-39306"
-  },
-  {
     "name": "S. Kiaulėnienės parduotuvė",
     "code": "154766530",
     "address": "Biržų r. sav., Pačeriaukštės sen., Pačeriaukštės I k."
@@ -1315,11 +1316,6 @@
     "address": "Ignalina, Laisvės g. 67A, LT-30117"
   },
   {
-    "name": "UAB \"E-parduotuvė\"",
-    "code": "302541801",
-    "address": "Klaipėda, Šventosios g. 8, LT-92281"
-  },
-  {
     "name": "UAB \"Gerdos parduotuvė\"",
     "code": "302414978",
     "address": "Šiauliai, Lingailių g. 17, LT-79241",
@@ -1352,12 +1348,6 @@
     "name": "UAB \"Žaidimų parduotuvė\"",
     "code": "305669037",
     "address": "Vilnius, Erfurto g. 5-30, LT-04220"
-  },
-  {
-    "name": "UAB Amerikos automobilių parduotuvė",
-    "code": "304064213",
-    "address": "Varėna, Dzūkų g. 62-15, LT-65167",
-    "vatcode": "LT100009589914"
   },
   {
     "name": "UAB Fejerverkų parduotuvė",
@@ -1445,20 +1435,9 @@
     "address": "Raseiniai, Vytauto Didžiojo g. 23-13, LT-60128"
   },
   {
-    "name": "V. Umbrasienės parduotuvė \"Viltaras\"",
-    "code": "182834853",
-    "address": "Ukmergės r. sav., Želvos sen., Tolučių k., Liepų g. 1, LT-20206"
-  },
-  {
     "name": "V. Urbono parduotuvė",
     "code": "162422422",
     "address": "Kelmės r. sav., Kelmės apylinkių sen., Verpenos k."
-  },
-  {
-    "name": "V. Vitkausko parduotuvė \"Luoma\"",
-    "code": "153000151",
-    "address": "Naujoji Akmenė, Vytauto g. 4-3, LT-85124",
-    "vatcode": "LT530001515"
   },
   {
     "name": "V. Šablavinsko parduotuvė \"Eglė\"",

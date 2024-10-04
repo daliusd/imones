@@ -1165,8 +1165,7 @@
   },
   {
     "name": "FK \"Vilniaus Viesulas\"",
-    "code": "302738503",
-    "address": "Utenos r. sav., Leliūnų sen., Narkūnų k., Svajonių g. 12-2, LT-28104"
+    "code": "302738503"
   },
   {
     "name": "FK \"Vilniaus vytis\" paramos fondas",
@@ -1231,7 +1230,7 @@
   {
     "name": "IĮ \"Vilniaus Gidas\"",
     "code": "300138591",
-    "address": "Vilnius, Barboros Radvilaitės g. 5-20, LT-01124"
+    "address": "Vilnius, M. Mironaitės g. 18-44, LT-04231"
   },
   {
     "name": "IĮ \"Vilniaus kurjeris - ekspedicija\"",
@@ -1624,11 +1623,6 @@
     "address": "Vilnius, Girulių g. 10, LT-12112"
   },
   {
-    "name": "MB \"Vilniaus investicijų centras\"",
-    "code": "305648655",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
-  },
-  {
     "name": "MB \"Vilniaus investiciniai namai\"",
     "code": "306143353",
     "address": "Vilnius, Gabijos g. 32, LT-06158"
@@ -1702,7 +1696,8 @@
   {
     "name": "MB \"Vilniaus viešieji renginiai\"",
     "code": "304078355",
-    "address": "Vilnius, Buivydiškių g. 14-707, LT-07195"
+    "address": "Vilnius, Buivydiškių g. 14-707, LT-07195",
+    "vatcode": "LT100017185213"
   },
   {
     "name": "MB \"Vilniaus vystymas\"",
@@ -1761,6 +1756,11 @@
     "address": "Vilnius, J. Jasinskio g. 10, LT-01112"
   },
   {
+    "name": "MB Vilniaus masažo ir grožio klinika",
+    "code": "306988995",
+    "address": "Vilnius, Vanaginės Sodų 5-oji g. 26, LT-08421"
+  },
+  {
     "name": "MB Vilniaus masažo klinika",
     "code": "306690109",
     "address": "Vilnius, Kalvarijų g. 152-48, LT-08207"
@@ -1810,7 +1810,7 @@
   {
     "name": "Mažoji bendrija Vilniaus kino studija",
     "code": "305254030",
-    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
+    "address": "Vilnius, Ozo g. 4, LT-08200"
   },
   {
     "name": "Mažoji bendrija Vilniaus ortodontijos centras",
@@ -2097,11 +2097,6 @@
     "address": "Vilnius, Gedimino pr. 2, LT-01103"
   },
   {
-    "name": "UAB \"MASYS\" Vilniaus filialas",
-    "code": "300151069",
-    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Sodų g. 57-10, LT-13274"
-  },
-  {
     "name": "UAB \"Miroda\" Vilniaus filialas",
     "code": "300519724",
     "address": "Vilnius, A. Jakšto g. 14-8, LT-01105"
@@ -2242,10 +2237,6 @@
     "name": "UAB \"VILNIAUS VENTOS PUSLAIDININKIAI\" DARBUOTOJŲ PROFESINĖ SĄJUNGA",
     "code": "125093223",
     "address": "Vilnius, Ateities g. 10, LT-08345"
-  },
-  {
-    "name": "UAB \"VILNIAUS VERSLO GRUPĖ\"",
-    "code": "302652456"
   },
   {
     "name": "UAB \"VILNIAUS VIEŠASIS TRANSPORTAS\" DARBUOTOJŲ PROFESINĖ SĄJUNGA",
@@ -2421,6 +2412,11 @@
     "code": "305098948",
     "address": "Vilnius, Architektų g. 72-6, LT-04109",
     "vatcode": "LT100012958018"
+  },
+  {
+    "name": "UAB \"Vilniaus biuras\"",
+    "code": "306984769",
+    "address": "Vilnius, Dangeručio g. 33-5, LT-14332"
   },
   {
     "name": "UAB \"Vilniaus blokas\"",
@@ -2798,12 +2794,6 @@
     "address": "Elektrėnų sav., Vievis, Jaunystės g. 31, LT-21366"
   },
   {
-    "name": "UAB \"Vilniaus projektai 2\"",
-    "code": "304067597",
-    "address": "Vilnius, Gedimino pr. 10-5, LT-01103",
-    "vatcode": "LT100012865811"
-  },
-  {
     "name": "UAB \"Vilniaus projektai\"",
     "code": "300068506",
     "address": "Vilnius, Metalo g. 7, LT-02190"
@@ -2841,12 +2831,6 @@
     "name": "UAB \"Vilniaus santechnikas\"",
     "code": "304268696",
     "address": "Vilnius, Veiverių g. 9B-62, LT-11346"
-  },
-  {
-    "name": "UAB \"Vilniaus senamiesčio investicijos\"",
-    "code": "304448858",
-    "address": "Vilnius, Antano Tumėno g. 4-107, LT-01109",
-    "vatcode": "LT100010925919"
   },
   {
     "name": "UAB \"Vilniaus servisas\"",
@@ -2917,12 +2901,6 @@
     "name": "UAB \"Vilniaus vagonai\"",
     "code": "303441483",
     "address": "Vilnius, Kęstučio g. 47, LT-08124"
-  },
-  {
-    "name": "UAB \"Vilniaus vartų projektai\"",
-    "code": "304244460",
-    "address": "Vilnius, Antano Tumėno g. 4-1101, LT-01109",
-    "vatcode": "LT100010263917"
   },
   {
     "name": "UAB \"Vilniaus vartų valda\"",
@@ -3897,11 +3875,6 @@
     "name": "VIEŠOJI ĮSTAIGA VILNIAUS SKAUTŲ CENTRAS",
     "code": "125453073",
     "address": "Vilnius, A. Smetonos g. 8, LT-01115"
-  },
-  {
-    "name": "VIEŠOJI ĮSTAIGA VILNIAUS UNIVERSITETO LIGONINĖS ŽALGIRIO KLINIKA",
-    "code": "191744287",
-    "address": "Vilnius, Žalgirio g. 117, LT-08217"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA VILNIAUS VAIKŲ IR JAUNIMO DAILĖS MOKYKLA",
@@ -4896,7 +4869,7 @@
   {
     "name": "Viešoji įstaiga \"Vilniaus teniso akademija\"",
     "code": "301819692",
-    "address": "Vilnius, Ąžuolyno g. 5A, LT-07196"
+    "address": "Vilnius, Ąžuolyno g. 7-101, LT-07196"
   },
   {
     "name": "Viešoji įstaiga \"Vilniaus universiteto būstas\"",
@@ -5184,6 +5157,11 @@
     "name": "Viešosios įstaigos Vilniaus privačios gimnazijos filialas \"Šiuolaikinių inovacijų diegimo ir kompetencijų ugdymo centras\"",
     "code": "302672423",
     "address": "Vilnius, V. Grybo g. 7, LT-10313"
+  },
+  {
+    "name": "Viešosios įstaigos Vilniaus universiteto ligoninės Santaros klinikų filialas Žalgirio klinika",
+    "code": "306983585",
+    "address": "Vilnius, Žalgirio g. 117, LT-08217"
   },
   {
     "name": "Vilniaus \"Ateities\" mokykla",
@@ -5595,11 +5573,6 @@
     "name": "Vilniaus Gerosios Vilties progimnazija",
     "code": "190004615",
     "address": "Vilnius, Skroblų g. 3A, LT-03144"
-  },
-  {
-    "name": "Vilniaus Gerviškių bendruomenė",
-    "code": "305522667",
-    "address": "Vilnius, Jurgio Lebedžio g. 9-260, LT-08353"
   },
   {
     "name": "Vilniaus Griausmas",
@@ -7966,6 +7939,11 @@
     "address": "Vilnius, T. Vrublevskio g. 4-16, LT-01143"
   },
   {
+    "name": "Vilniaus miesto daugiabučio gyvenamojo namo Tilto g. 1 savininkų bendrija",
+    "code": "306991219",
+    "address": "Vilnius, Tilto g. 1, LT-01101"
+  },
+  {
     "name": "Vilniaus miesto daugiabučio gyvenamojo namo Vingrių g. 3A savininkų bendrija",
     "code": "304988758",
     "address": "Vilnius, Vingrių g. 3A-9, LT-01118"
@@ -8597,7 +8575,7 @@
     "address": "Vilniaus r. sav., Nemenčinės sen., Eitminiškių k., Misionierių g. 10, LT-15131"
   },
   {
-    "name": "Vilniaus r. Glitiškių vaikų darželis",
+    "name": "Vilniaus r. Glitiškių vaikų lopšelis-darželis",
     "code": "191320623",
     "address": "Vilniaus r. sav., Paberžės sen., Glitiškių k., Liepų al. 20, LT-14292"
   },
@@ -8622,7 +8600,7 @@
     "address": "Vilniaus r. sav., Kalvelių sen., Kalvelių k., Mokyklos g. 8, LT-13149"
   },
   {
-    "name": "Vilniaus r. Kalvelių vaikų darželis",
+    "name": "Vilniaus r. Kalvelių vaikų lopšelis-darželis",
     "code": "191324792",
     "address": "Vilniaus r. sav., Kalvelių sen., Kalvelių k., Margių g. 1, LT-13150"
   },
@@ -8660,11 +8638,6 @@
     "name": "Vilniaus r. Marijampolio vaikų lopšelis-darželis",
     "code": "191851442",
     "address": "Vilniaus r. sav., Marijampolio sen., Marijampolio k., Liepų g. 17, LT-13210"
-  },
-  {
-    "name": "Vilniaus r. Medininkų šv. Kazimiero gimnazija",
-    "code": "191315829",
-    "address": "Vilniaus r. sav., Medininkų sen., Medininkų k., Medaus g. 10, LT-13192"
   },
   {
     "name": "Vilniaus r. Mickūnų gimnazija",
@@ -8739,7 +8712,7 @@
   {
     "name": "Vilniaus r. Pagirių meno mokykla",
     "code": "302428853",
-    "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Šiltnamių g. 15-3"
+    "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Šiltnamių g. 15-2, LT-14115"
   },
   {
     "name": "Vilniaus r. Pakenės Česlovo Milošo pagrindinė mokykla",
@@ -9208,11 +9181,6 @@
     "address": "Vilniaus r. sav., Pagirių sen., Pagirių k."
   },
   {
-    "name": "Vilniaus rankinio akademija, UAB",
-    "code": "305471429",
-    "address": "Vilnius, Girulių g. 5, LT-12124"
-  },
-  {
     "name": "Vilniaus rankų lenkimo klubas \"IRON ARM\"",
     "code": "302488875",
     "address": "Vilnius, Laisvės pr. 69-24, LT-07189"
@@ -9365,7 +9333,7 @@
   {
     "name": "Vilniaus sporto federacija",
     "code": "305116905",
-    "address": "Vilnius, Karaliaučiaus g. 1-17, LT-06281"
+    "address": "Vilnius, Mūrinės Vokės g. 1-2, LT-25140"
   },
   {
     "name": "Vilniaus sporto klubas \"Edelveisas\"",
@@ -9667,11 +9635,6 @@
     "name": "Vilniaus vaikų ir jaunimo klubas \"Klevas\"",
     "code": "191663853",
     "address": "Vilnius, Architektų g. 86, LT-04107"
-  },
-  {
-    "name": "Vilniaus vaikų ir jaunimo klubas \"Kregždutė\"",
-    "code": "291664760",
-    "address": "Vilnius, Šiaulių g. 8, LT-01133"
   },
   {
     "name": "Vilniaus vaikų ir jaunimo klubas \"Lakštingala\"",
@@ -12326,7 +12289,7 @@
   {
     "name": "A.B.C. Nekilnojamas turtas Vilnius, UAB",
     "code": "304939348",
-    "address": "Vilnius, Laisvės pr. 62, LT-05259",
+    "address": "Vilniaus r. sav., Rukainių sen., Rukainių k., Kunigo Povilo Ksavero Bžostovskio g. 9, LT-13176",
     "vatcode": "LT100011987319"
   },
   {
@@ -12402,11 +12365,6 @@
     "name": "Asociacija SBK Vilnius",
     "code": "306263961",
     "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
-  },
-  {
-    "name": "Asociacija Vilnius Singers",
-    "code": "305632569",
-    "address": "Vilnius, Pylimo g. 27-34, LT-01309"
   },
   {
     "name": "Asociacija motoklubas \"Vilnius\"",
@@ -12565,11 +12523,6 @@
     "name": "Daugiabučio namo Erfurto g. 34, Vilnius savininkų bendrija",
     "code": "302326332",
     "address": "Vilnius, Erfurto g. 34-3, LT-04100"
-  },
-  {
-    "name": "Daugiabučio namo Konstitucijos pr. 13, Vilnius, savininkų bendrija",
-    "code": "303235483",
-    "address": "Vilnius, Konstitucijos pr. 13-37, LT-09308"
   },
   {
     "name": "Daugiabučio namo Krokuvos g. 13, Vilnius, savininkų bendrija",
@@ -12827,6 +12780,11 @@
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
+    "name": "MB Jaukus Vilnius",
+    "code": "307001830",
+    "address": "Vilnius, Žemaitijos g. 7-1, LT-01134"
+  },
+  {
     "name": "MB Maids group Vilnius",
     "code": "305995638",
     "address": "Molėtai, Ąžuolų g. 9-4, LT-33124"
@@ -12850,6 +12808,11 @@
     "name": "MB Vilnius Creamery",
     "code": "306323643",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "MB Vilnius architects",
+    "code": "306999479",
+    "address": "Vilnius, Kanklių g. 18-4, LT-10321"
   },
   {
     "name": "MB Vilnius plumber",
@@ -13815,12 +13778,6 @@
     "vatcode": "LT100003881311"
   },
   {
-    "name": "UAB The Atomic Garden Vilnius",
-    "code": "303554068",
-    "address": "Vilnius, Ulonų g. 3-37, LT-08240",
-    "vatcode": "LT100009139811"
-  },
-  {
     "name": "UAB Travel Retail Vilnius",
     "code": "300940552",
     "address": "Vilnius, Lvivo g. 25-104, LT-09320",
@@ -13989,11 +13946,6 @@
     "code": "111528726",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
     "vatcode": "LT115287219"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"VILNIUS TRANS CONTINENTAL\"",
-    "code": "111486348",
-    "address": "Vilnius, Žirmūnų g. 136-50, LT-09127"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Videvita Vilnius\"",

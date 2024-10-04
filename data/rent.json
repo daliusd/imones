@@ -59,7 +59,8 @@
   {
     "name": "Inbank Rent UAB",
     "code": "306736745",
-    "address": "Vilnius, Kareivių g. 11B, LT-09133"
+    "address": "Vilnius, Kareivių g. 11B, LT-09133",
+    "vatcode": "LT100017166711"
   },
   {
     "name": "MB \"AM rent\"",
@@ -160,6 +161,11 @@
     "address": "Vilnius, Ateities g. 15, LT-08300"
   },
   {
+    "name": "MB Rent LT",
+    "code": "306992901",
+    "address": "Šalčininkų r. sav., Jašiūnų sen., Pamarazių k., Žemutinė g. 7B, LT-17244"
+  },
+  {
     "name": "MB Rent for freedom",
     "code": "306981837",
     "address": "Lazdijų r. sav., Krosna, Jaunimo g. 9, LT-67443"
@@ -216,6 +222,11 @@
     "name": "Rent 445, MB",
     "code": "306210421",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+  },
+  {
+    "name": "Rent invest MB",
+    "code": "306991945",
+    "address": "Kaunas, Eitkūnų g. 3-5, LT-48188"
   },
   {
     "name": "Rent, UAB",
@@ -388,11 +399,6 @@
     "address": "Vilnius, S. Žukausko g. 25-24, LT-08234"
   },
   {
-    "name": "UAB \"RENT-A-BUS\"",
-    "code": "303047353",
-    "address": "Vilnius, Naugarduko g. 22-8, LT-03225"
-  },
-  {
     "name": "UAB \"Real estate rent\"",
     "code": "306625410",
     "address": "Vilnius, Upės g. 23-1, LT-08128"
@@ -523,7 +529,8 @@
   {
     "name": "UAB Nova rent service",
     "code": "306808803",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Ražiškių k., Vasario 16-osios g. 49, LT-53278"
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Ražiškių k., Vasario 16-osios g. 49, LT-53278",
+    "vatcode": "LT100017142018"
   },
   {
     "name": "UAB Prime Rent",
@@ -559,14 +566,14 @@
     "vatcode": "LT100016842219"
   },
   {
+    "name": "Bokšto renta, MB",
+    "code": "306985974",
+    "address": "Mažeikiai, J. Basanavičiaus g. 9-2, LT-89212"
+  },
+  {
     "name": "MB Laim Renta",
     "code": "306617253",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
-  },
-  {
-    "name": "MB RENTA LT",
-    "code": "305573373",
-    "address": "Raseinių r. sav., Ariogala, Žemaičių g. 20-3, LT-60256"
   },
   {
     "name": "RENTA PUMPS, UAB",
@@ -700,6 +707,11 @@
     "code": "304856176",
     "address": "Vilniaus r. sav., Avižienių sen., Bajorų k., Vandenio g. 1E-2, LT-14189",
     "vatcode": "LT100011730110"
+  },
+  {
+    "name": "MB Artillerry motors rental society",
+    "code": "306996013",
+    "address": "Zarasai, Petro Cvirkos g. 8, LT-32116"
   },
   {
     "name": "MB D Trailer Rental",
@@ -1016,7 +1028,7 @@
   {
     "name": "UAB Renterika",
     "code": "306967524",
-    "address": "Vilnius, Žirmūnų g. 115-96, LT-09118"
+    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "UAB Rentevent",
@@ -1123,11 +1135,6 @@
     "address": "Vilnius, Kolektyvo g. 123-1, LT-08350"
   },
   {
-    "name": "UAB \"Rentis\"",
-    "code": "305571874",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
     "name": "UAB \"Rentit\"",
     "code": "305253850",
     "address": "Vilnius, Kazio Ulvydo g. 11-199, LT-08355",
@@ -1136,7 +1143,7 @@
   {
     "name": "UAB \"Rentita\"",
     "code": "305769685",
-    "address": "Kelmės r. sav., Tytuvėnų apylinkių sen., Paulišių k. 1, LT-86444",
+    "address": "Šiauliai, Vilniaus g. 54-12, LT-76251",
     "vatcode": "LT100014063219"
   },
   {
@@ -1172,11 +1179,6 @@
     "code": "304435476",
     "address": "Klaipėda, Mokyklos g. 19-42, LT-91263",
     "vatcode": "LT100011077516"
-  },
-  {
-    "name": "UAB \"Rentmina\"",
-    "code": "300594876",
-    "address": "Vilnius, Linkmenų g. 13, LT-09300"
   },
   {
     "name": "MB \"RentNow\"",
@@ -1317,7 +1319,7 @@
   {
     "name": "UAB \"Renturtas\"",
     "code": "304449465",
-    "address": "Vilniaus miesto savivaldybės teritorija",
+    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228",
     "vatcode": "LT100012575816"
   },
   {

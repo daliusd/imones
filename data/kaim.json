@@ -101,6 +101,11 @@
     "address": "Molėtų r. sav., Luokesos sen., Bebrusų k., Žvejų g. 2, LT-33162"
   },
   {
+    "name": "UAB \"Kaimas mieste\"",
+    "code": "306994336",
+    "address": "Kaunas, Brastos g. 24B-13, LT-47185"
+  },
+  {
     "name": "UAB \"Mano kaimas\"",
     "code": "300851559",
     "address": "Radviliškis, Parko g. 5A-12, LT-82158",
@@ -177,11 +182,6 @@
     "name": "Linva bendruomenė kaime",
     "code": "305706457",
     "address": "Utenos r. sav., Utenos sen., Vaikutėnų k., Tvenkinių g. 5, LT-28424"
-  },
-  {
-    "name": "MB \"Kaime pas Kristiną\"",
-    "code": "306192592",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Kaip kaime\"",
@@ -600,6 +600,11 @@
     "code": "305483431",
     "address": "Šiaulių r. sav., Kužių sen., Beržynės k., Sodo g. 13, LT-80269",
     "vatcode": "LT100013158618"
+  },
+  {
+    "name": "Asociacija \"Beržėnų kaimo bendruomenė\"",
+    "code": "306986421",
+    "address": "Kelmės r. sav., Užvenčio sen., Pašilėnų k., Jaunimo g. 2, LT-86357"
   },
   {
     "name": "Asociacija \"Dargužių kaimo bendruomenė\"",
@@ -1311,7 +1316,7 @@
   {
     "name": "Eglesių kaimo bendruomenė \"Papartis\"",
     "code": "153275795",
-    "address": "Akmenės r. sav., Papilės sen., Eglesių k."
+    "address": "Akmenės r. sav., Papilės sen., Eglesių k., Ežero g. 7-8, LT-85222"
   },
   {
     "name": "Eivydų kaimo bendruomenė \"Rukupis\"",
@@ -1564,11 +1569,6 @@
     "address": "Raseinių r. sav., Viduklės sen., Gylių k."
   },
   {
-    "name": "Gyvatiškių kaimo bendruomenė",
-    "code": "305569357",
-    "address": "Kaišiadorių r. sav., Žaslių sen., Gyvatiškių k. 1, LT-56416"
-  },
-  {
     "name": "Gyviškių kaimo bendruomenė",
     "code": "302533765",
     "address": "Marijampolės sav., Liudvinavo sen., Gyviškių k., Sodžiaus g. 13-4, LT-69152"
@@ -1632,6 +1632,11 @@
     "name": "Jankūnų kaimo bendruomenė",
     "code": "300714603",
     "address": "Joniškio r. sav., Rudiškių sen., Jankūnų k., Tyrelio g. 23, LT-84280"
+  },
+  {
+    "name": "Janušavos kaimo \"Gintaro\" bendruomenė",
+    "code": "306995712",
+    "address": "Anykščių r. sav., Kavarsko sen., Janušavos k., Saulės g. 10, LT-29257"
   },
   {
     "name": "Jašiūnų kaimo bendruomenės centras",
@@ -3512,7 +3517,7 @@
   {
     "name": "Patašinės kaimo bendruomenės centras",
     "code": "306645103",
-    "address": "Šakių r. sav., Griškabūdžio sen., Patašinės k., Jovarų g. 16, LT-71273"
+    "address": "Šakių r. sav., Griškabūdžio sen., Patašinės k., Alyvų g. 9, LT-71273"
   },
   {
     "name": "Patilčių kaimo bendruomenė",
@@ -4917,11 +4922,6 @@
     "address": "Telšių r. sav., Viešvėnų sen., Viešvėnų I k., Getautės g. 1, LT-88405"
   },
   {
-    "name": "Viešvėnų kaimo bendruomenė \"Judra\"",
-    "code": "305410006",
-    "address": "Telšių r. sav., Viešvėnų sen., Vembūtų k., Ankštėlės g. 22, LT-88407"
-  },
-  {
     "name": "Vijurkų kaimo bendruomenė",
     "code": "300127118",
     "address": "Kelmės r. sav., Kukečių sen., Mikaliniškės k. 3, LT-86434"
@@ -5354,6 +5354,11 @@
     "vatcode": "LT100013476514"
   },
   {
+    "name": "Šaulių I kaimo bendruomenė SAULĖTEKIS",
+    "code": "306993259",
+    "address": "Zarasų r. sav., Zarasų sen., Šaulių I k., Jaunystės g. 9-3, LT-32402"
+  },
+  {
     "name": "Šedbarų kaimo bendruomenė \"Spiečius\"",
     "code": "302531351",
     "address": "Kelmės r. sav., Tytuvėnų apylinkių sen., Šedbarų k., Darželio g. 6, LT-86453"
@@ -5615,11 +5620,6 @@
     "address": "Vilniaus r. sav., Paberžės sen., Anavilio k., Bitininkų g. 5, LT-14271"
   },
   {
-    "name": "MB \"Iš kaimuko\"",
-    "code": "305653435",
-    "address": "Ukmergės r. sav., Šešuolių sen., Skuolių k., Skuolių g. 4, LT-20216"
-  },
-  {
     "name": "\"Tikri kaimynai\"",
     "code": "304707638",
     "address": "Vilniaus r. sav., Zujūnų sen., Geležių k., Smėlio g. 7, LT-14176"
@@ -5818,6 +5818,11 @@
     "name": "MB \"Graži kaimynystė\"",
     "code": "305181109",
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
+  },
+  {
+    "name": "MB Šauniausia kaimynystė",
+    "code": "306994521",
+    "address": "Šilalės r. sav., Kaltinėnų sen., Vosgirdų k. 7, LT-75449"
   },
   {
     "name": "Melkio kaimynystė",

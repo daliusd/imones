@@ -90,11 +90,6 @@
     "vatcode": "LT100010440811"
   },
   {
-    "name": "UAB \"Vertės kūryba\"",
-    "code": "302411779",
-    "address": "Vilnius, Taikos g. 65-16, LT-05232"
-  },
-  {
     "name": "VšĮ \"Brigados kūryba\"",
     "code": "306087342",
     "address": "Akmenės r. sav., Papilė, Palangos g. 8, LT-85241"
@@ -127,7 +122,8 @@
   {
     "name": "VšĮ Metas kūrybai",
     "code": "306369224",
-    "address": "Anykščių r. sav., Anykščių sen., Keblonių k., Rubikių 1-oji g. 16, LT-29160"
+    "address": "Anykščių r. sav., Anykščių sen., Keblonių k., Rubikių 1-oji g. 16, LT-29160",
+    "vatcode": "LT100017140314"
   },
   {
     "name": "MB \"Kūrybinga komunikacija\"",
@@ -225,11 +221,6 @@
     "address": "Kaunas, Trakų g. 13A-3, LT-44236"
   },
   {
-    "name": "VšĮ Justėja Kūrybiniai Projektai",
-    "code": "306303509",
-    "address": "Vilnius, Parko g. 69-207, LT-11225"
-  },
-  {
     "name": "VšĮ Kūrybiniai mokymai",
     "code": "302863282",
     "address": "Vilnius, Pavasario g. 12, LT-10309"
@@ -248,6 +239,11 @@
     "name": "92-oji kūrybinio jaunimo gyvenamųjų namų statybos bendrija",
     "code": "300152662",
     "address": "Vilnius, Nugalėtojų g. 3A, LT-10105"
+  },
+  {
+    "name": "MB Kūrybinio mokymosi akademija",
+    "code": "306993526",
+    "address": "Vilnius, Kražių g. 25, LT-01108"
   },
   {
     "name": "MB Noru kūrybinio marketingo agentūra",
@@ -974,6 +970,11 @@
     "address": "Klaipėda, Nemuno g. 2, LT-91199"
   },
   {
+    "name": "Mažoji bendrija Sigutės kūrybos studija",
+    "code": "306986097",
+    "address": "Vilnius, Debesijos g. 1-32, LT-10318"
+  },
+  {
     "name": "Mickaus kūrybos studija, MB",
     "code": "302896211",
     "address": "Vilnius, T. Ševčenkos g. 16A, LT-03111",
@@ -1113,6 +1114,11 @@
     "address": "Kauno r. sav., Zapyškio sen., Zapyškio mstl., Vytauto g. 77, LT-53419"
   },
   {
+    "name": "VšĮ \"Kūrybos kapsulė\"",
+    "code": "306989638",
+    "address": "Vilnius, P. Vileišio g. 6G-8, LT-10308"
+  },
+  {
     "name": "VšĮ \"Kūrybos kišenė\"",
     "code": "304037853",
     "address": "Plungės r. sav., Babrungo sen., Babrungo k., Žemaitijos g. 9, LT-90108"
@@ -1150,7 +1156,7 @@
   {
     "name": "VšĮ \"S. KARCZMARO KŪRYBOS NAMAI\"",
     "code": "305373426",
-    "address": "Šalčininkų rajono savivaldybės teritorija"
+    "address": "Vilnius, Taikos g. 111B, LT-05202"
   },
   {
     "name": "VšĮ \"Vaikų techninės kūrybos centras\"",
