@@ -806,7 +806,7 @@
     "address": "Marijampolė, Kęstučio g. 9-1, LT-68308"
   },
   {
-    "name": "Marijampolės \"Ryto\" pagrindinė mokykla",
+    "name": "Marijampolės \"Ryto\" progimnazija",
     "code": "190453670",
     "address": "Marijampolė, Mokyklos g. 22, LT-68262"
   },
@@ -979,11 +979,6 @@
     "name": "Marijampolės bitininkų draugija",
     "code": "193087826",
     "address": "Marijampolė, V. Kudirkos g. 80, LT-68291"
-  },
-  {
-    "name": "Marijampolės bokso klubas \"Ringas\"",
-    "code": "193282370",
-    "address": "Marijampolė, Kauno g. 117, LT-68223"
   },
   {
     "name": "Marijampolės boulingo klubas",
@@ -1378,10 +1373,6 @@
     "address": "Marijampolės sav., Šunskų sen., Mokolų k., Mokyklos g. 5, LT-68461"
   },
   {
-    "name": "Marijampolės sav. Sasnavos pagrindinė mokykla",
-    "code": "290399490"
-  },
-  {
     "name": "Marijampolės sav. Želsvos progimnazija",
     "code": "190379088",
     "address": "Marijampolės sav., Liudvinavo sen., Želsvos k., Vinco Marazo g. 6, LT-69193"
@@ -1422,11 +1413,6 @@
     "address": "Marijampolė, R. Juknevičiaus g. 28, LT-68209"
   },
   {
-    "name": "Marijampolės savivaldybės administracijos Marijampolės seniūnija",
-    "code": "188621495",
-    "address": "Marijampolė, Vytauto g. 17, LT-68299"
-  },
-  {
     "name": "Marijampolės savivaldybės administracijos Mokolų seniūnija",
     "code": "306967232",
     "address": "Marijampolė, Lietuvininkų g. 18, LT-68300"
@@ -1445,11 +1431,6 @@
     "name": "Marijampolės savivaldybės administracijos darbuotojų profesinė sąjunga",
     "code": "300623872",
     "address": "Marijampolė, J. Basanavičiaus a. 1, LT-68307"
-  },
-  {
-    "name": "Marijampolės savivaldybės administracijos Šunskų seniūnija",
-    "code": "188621538",
-    "address": "Marijampolės sav., Šunskai, Varpo g. 32, LT-69360"
   },
   {
     "name": "Marijampolės savivaldybės bendruomenių asociacija",
@@ -3589,11 +3570,6 @@
     "vatcode": "LT100016229314"
   },
   {
-    "name": "UAB \"Marindrės prekyba\"",
-    "code": "305001881",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Sutkūnų k., J. Basanavičiaus g. 147-5, LT-76116"
-  },
-  {
     "name": "\"DOHLE MARINE SERVICES EUROPE\" atstovybė Klaipėdoje",
     "code": "300632273",
     "address": "Klaipėda, Nidos g. 54-77, LT-93190"
@@ -3799,11 +3775,6 @@
     "vatcode": "LT100008277613"
   },
   {
-    "name": "UAB \"Marine tech consulting\"",
-    "code": "302702635",
-    "address": "Vilnius, Adutiškio g. 5-29, LT-02112"
-  },
-  {
     "name": "UAB \"Marine trade\"",
     "code": "306145895",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
@@ -3835,6 +3806,12 @@
     "name": "UAB Adma marine",
     "code": "303367428",
     "address": "Klaipėda, Nidos g. 54-1, LT-93190"
+  },
+  {
+    "name": "UAB Bio Marine Baltic",
+    "code": "306178856",
+    "address": "Šiauliai, Pramonės g. 23J, LT-78136",
+    "vatcode": "LT100016763518"
   },
   {
     "name": "UAB GOLBERG marine",
@@ -3983,7 +3960,7 @@
   {
     "name": "UAB \"Marinos dizainas\"",
     "code": "123604135",
-    "address": "Vilnius, Viršuliškių g. 27-42, LT-05106"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "Ivano Marinovskio individuali įmonė",
@@ -4004,10 +3981,6 @@
     "name": "MB \"Marinta\"",
     "code": "304080210",
     "address": "Klaipėda, Žalgirio g. 13-37, LT-93252"
-  },
-  {
-    "name": "UAB \"Astrum marinum\"",
-    "code": "301767530"
   },
   {
     "name": "UAB \"Aurum marinum\"",
@@ -4047,6 +4020,11 @@
     "code": "305693337",
     "address": "Mažeikiai, Žemaitijos g. 35-6, LT-89134",
     "vatcode": "LT100014189018"
+  },
+  {
+    "name": "MB \"MARIO TRIPAS\"",
+    "code": "306988657",
+    "address": "Lazdijų r. sav., Šeštokai, Kalvarijos g. 8, LT-67422"
   },
   {
     "name": "Individuali įmonė \"Mariogala\"",
@@ -4338,7 +4316,7 @@
   {
     "name": "UAB \"JSB Maritime\"",
     "code": "302576720",
-    "address": "Klaipėda, Turgaus a. 23, LT-91246",
+    "address": "Klaipėdos miesto savivaldybės teritorija",
     "vatcode": "LT100005908316"
   },
   {
@@ -4598,7 +4576,7 @@
   {
     "name": "MB Marių šventkalnis",
     "code": "306963141",
-    "address": "Klaipėdos r. sav., Priekulės sen., Svencelės k., Svencelės g. 89, LT-96241"
+    "address": "Klaipėdos r. sav., Priekulės sen., Svencelės k., Svencelės g. 89 K3, LT-96241"
   },
   {
     "name": "Marių gidas MB",

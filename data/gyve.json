@@ -245,11 +245,6 @@
     "address": "Vilnius, Laisvės pr. 123, LT-06118"
   },
   {
-    "name": "532-oji daugiabučio gyvenamojo namo savininkų bendrija",
-    "code": "125332698",
-    "address": "Vilnius, Parko g. 60-702, LT-11224"
-  },
-  {
     "name": "555-oji daugiabučio gyvenamojo namo savininkų bendrija",
     "code": "306064639",
     "address": "Kaunas, S. Žukausko g. 15, LT-49309"
@@ -764,6 +759,11 @@
     "name": "Daugiabučio gyvenamojo namo Bajorų kelias 25 savininkų bendrija \"Bajorų ketvertas\"",
     "code": "304740467",
     "address": "Vilnius, Bajorų kel. 25-7, LT-08467"
+  },
+  {
+    "name": "Daugiabučio gyvenamojo namo Bertužių g. 3 savininkų bendrija",
+    "code": "306993113",
+    "address": "Šiaulių r. sav., Kairių sen., Bertužių k., Bertužių g. 3-20, LT-80116"
   },
   {
     "name": "Daugiabučio gyvenamojo namo Birželio 23-iosios g. 8, Vilniuje savininkų bendrija",
@@ -1927,11 +1927,6 @@
     "address": "Švenčionių r. sav., Pabradė, Arnionių g. 62-3, LT-18170"
   },
   {
-    "name": "Gyvenamojo namo statybos bendrija \"Viltis-2\"",
-    "code": "303138778",
-    "address": "Vilkaviškis, Aušros g. 8-17, LT-70152"
-  },
-  {
     "name": "Gyvenamojo namo statybos bendrija \"Vėjas\"",
     "code": "255290850",
     "address": "Biržai, Vėjo g. 26A-18, LT-41162"
@@ -1987,11 +1982,6 @@
     "name": "Kauno miesto Daugiabučio gyvenamojo namo Klevų g. 3 savininkų bendrija \"Trys Klevai\"",
     "code": "303127504",
     "address": "Kaunas, Klevų g. 3-4, LT-45301"
-  },
-  {
-    "name": "Kauno miesto R. Kalantos g. 171 daugiabučio gyvenamojo namo savininkų bendrija",
-    "code": "304156373",
-    "address": "Kaunas, R. Kalantos g. 171-17, LT-52326"
   },
   {
     "name": "Kauno miesto daugiabučio gyvenamojo namo T. Ivanausko g. 61 savininkų bendrija",
@@ -2382,6 +2372,11 @@
     "name": "Vilniaus miesto daugiabučio gyvenamojo namo T. Vrublevskio g. 4 savininkų bendrija",
     "code": "304392523",
     "address": "Vilnius, T. Vrublevskio g. 4-16, LT-01143"
+  },
+  {
+    "name": "Vilniaus miesto daugiabučio gyvenamojo namo Tilto g. 1 savininkų bendrija",
+    "code": "306991219",
+    "address": "Vilnius, Tilto g. 1, LT-01101"
   },
   {
     "name": "Vilniaus miesto daugiabučio gyvenamojo namo Vingrių g. 3A savininkų bendrija",
@@ -3074,6 +3069,11 @@
     "address": "Kauno r. sav., Ringaudų sen., Mitkūnų k., Tuopų al. 4-2, LT-53370"
   },
   {
+    "name": "Gyvenamųjų namų bendrija \"Antežerių kotedžų bendrija\"",
+    "code": "306990544",
+    "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Mėtų g. 12C, LT-14166"
+  },
+  {
     "name": "Gyvenamųjų namų bendrija \"Bendorių kelias\"",
     "code": "305478911",
     "address": "Vilniaus r. sav., Avižienių sen., Žemųjų Rusokų vs., Bendorių kel. 12-2, LT-14336"
@@ -3131,7 +3131,7 @@
   {
     "name": "Gyvenamųjų namų ir kitų pastatų savininkų bendrija \"Svajonių kranto gyvenvietė\"",
     "code": "303353880",
-    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Virkučių g. 2-2, LT-92338"
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Klipščių g. 48, LT-92338"
   },
   {
     "name": "Gyvenamųjų namų ir sklypų savininkų bendrija \"Dirvuoliai\"",
@@ -3366,7 +3366,7 @@
   {
     "name": "Gyvenamųjų namų savininkų bendrija \"Mažoji Gurių gatvės bendrija\"",
     "code": "304472485",
-    "address": "Vilniaus miesto savivaldybės teritorija"
+    "address": "Vilnius, Gurių g. 121-1, LT-11331"
   },
   {
     "name": "Gyvenamųjų namų savininkų bendrija \"Merkpilis\"",
@@ -3492,6 +3492,11 @@
     "name": "Gyvenamųjų namų savininkų bendrija \"Reinio namai\"",
     "code": "306155925",
     "address": "Vilnius, Mečislovo Reinio g. 9-2, LT-11323"
+  },
+  {
+    "name": "Gyvenamųjų namų savininkų bendrija \"Rimkų pušynas\"",
+    "code": "306982017",
+    "address": "Klaipėdos r. sav., Dovilų sen., Rimkų k., Fazanų g. 1, LT-95346"
   },
   {
     "name": "Gyvenamųjų namų savininkų bendrija \"Romainių pušynas\"",
@@ -3917,7 +3922,7 @@
   {
     "name": "Gyvenamųjų namų statybos bendrija \"Trušelių sodybos\"",
     "code": "300131337",
-    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Labguvos g. 12, LT-92441"
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Gilijos g. 19, LT-92441"
   },
   {
     "name": "Gyvenamųjų namų statybos bendrija \"Trušelių valdos\"",
@@ -4238,11 +4243,6 @@
     "name": "Individualių gyvenamųjų namų savininkų bendrija \"Radailių namai\"",
     "code": "305216019",
     "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Sodų g. 14, LT-92406"
-  },
-  {
-    "name": "Individualių gyvenamųjų namų savininkų bendrija \"Rojaus obuolys\"",
-    "code": "301490738",
-    "address": "Klaipėda, Liepų g. 21-42, LT-92139"
   },
   {
     "name": "Individualių gyvenamųjų namų savininkų bendrija \"Sakiškių girelė\"",
@@ -4735,7 +4735,8 @@
   {
     "name": "MB Gyvenimas be dietų",
     "code": "306371588",
-    "address": "Vilnius, Žėručio g. 11-11, LT-04103"
+    "address": "Vilnius, Žėručio g. 11-11, LT-04103",
+    "vatcode": "LT100017197711"
   },
   {
     "name": "MB Gyvenimas gausoje",
@@ -4796,11 +4797,6 @@
     "address": "Panevėžys, Uliūnų g. 7, LT-36252"
   },
   {
-    "name": "UAB \"Saldus gyvenimas\"",
-    "code": "305593372",
-    "address": "Kėdainiai, Liepų al. 9-13, LT-57160"
-  },
-  {
     "name": "UAB \"Stilingas gyvenimas\"",
     "code": "302627638",
     "address": "Vilnius, Pramonės g. 97-401, LT-11115",
@@ -4852,6 +4848,11 @@
     "name": "VšĮ \"Medžio gyvenimas\"",
     "code": "305278818",
     "address": "Druskininkų sav., Viečiūnų sen., Naujasodės k., Naujasodės g. 16, LT-66443"
+  },
+  {
+    "name": "VšĮ Normalus Gyvenimas",
+    "code": "306999148",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "VšĮ SVEIKIAUSIAS GYVENIMAS",
@@ -5103,7 +5104,7 @@
   {
     "name": "UAB \"Sveikatos ir gyvenimo kokybės centras\"",
     "code": "300020283",
-    "address": "Vilnius, Šilo g. 29-2, LT-10317"
+    "address": "Vilnius, Miškadvario g. 14A, LT-10243"
   },
   {
     "name": "UAB GYVENIMO JŪRA",
@@ -5253,11 +5254,6 @@
     "address": "Kauno rajono savivaldybės teritorija"
   },
   {
-    "name": "VšĮ Savanoriški gyvenimo namai \"Gyvenimo raktas\"",
-    "code": "305662085",
-    "address": "Kaunas, Baltų pr. 27-56, LT-48237"
-  },
-  {
     "name": "VšĮ Varėnos gyvenimo meno centras",
     "code": "304811793",
     "address": "Varėnos r. sav., Varėnos sen., Senosios Varėnos k., Vytauto g. 97, LT-65487"
@@ -5291,6 +5287,12 @@
     "name": "MB \"Namai paruošti gyvenimui\"",
     "code": "306242198",
     "address": "Vilnius, Totorių g. 13, LT-01121"
+  },
+  {
+    "name": "MB Geram gyvenimui",
+    "code": "306556099",
+    "address": "Vilnius, Gedimino pr. 27, LT-01104",
+    "vatcode": "LT100016371614"
   },
   {
     "name": "MB Šokis gyvenimui",
@@ -5418,11 +5420,6 @@
     "address": "Klaipėda, Baltijos pr. 11-52, LT-94134"
   },
   {
-    "name": "VšĮ \"Gyvenkime naujai\"",
-    "code": "305427137",
-    "address": "Kauno miesto savivaldybės teritorija"
-  },
-  {
     "name": "Asociacija \"Sveikos gyvensenos skatinimas\"",
     "code": "304935093",
     "address": "Šiauliai, Spindulio g. 5-27B, LT-76163"
@@ -5501,11 +5498,6 @@
     "name": "Senovės baltų gyvensenos ir amatų klubas \"Stebulė\"",
     "code": "301846789",
     "address": "Alytaus r. sav., Simno sen., Gluosninkų k., Gluosninkų g. 5, LT-64302"
-  },
-  {
-    "name": "Simo Galdiko sveikos gyvensenos centras",
-    "code": "305672528",
-    "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Rūko g. 2, LT-91289"
   },
   {
     "name": "Sporto ir sveikos gyvensenos asociacija \"Strigailiškis\"",
@@ -5688,14 +5680,14 @@
     "address": "Vilniaus r. sav., Avižienių sen., Bajorų k., Žemuogių g. 62-2, LT-14182"
   },
   {
-    "name": "Baltijos aikštės gyventojų asociacija",
-    "code": "305582187",
-    "address": "Palanga, Baltijos a. 7, LT-00131"
-  },
-  {
     "name": "Daugiabučio namo gyventojų bendrija \"STB\"",
     "code": "301820794",
     "address": "Trakų r. sav., Senųjų Trakų sen., Senųjų Trakų k., Trakų g. 43-5, LT-21146"
+  },
+  {
+    "name": "Dūkštų apylinkės gyventojų asociacija",
+    "code": "306993960",
+    "address": "Vilniaus r. sav., Dūkštų sen., Miežionių k., Žalioji g. 7, LT-14230"
   },
   {
     "name": "GYVENTOJŲ ASOCIACIJA \"DVARČIONIŠKIAI\"",
@@ -5982,7 +5974,7 @@
   {
     "name": "Gyvenamųjų namų ir kitų pastatų savininkų bendrija \"Svajonių kranto gyvenvietė\"",
     "code": "303353880",
-    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Virkučių g. 2-2, LT-92338"
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Klipščių g. 48, LT-92338"
   },
   {
     "name": "Gyvenamųjų namų savininkų bendrija \"Bičiulių gyvenvietė\"",

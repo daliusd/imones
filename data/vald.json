@@ -215,11 +215,6 @@
     "address": "Vilnius, Markučių g. 8, LT-11347"
   },
   {
-    "name": "UAB \"AVI valda\"",
-    "code": "300529946",
-    "address": "Vilnius, Savanorių pr. 180, LT-03154"
-  },
-  {
     "name": "UAB \"Alytaus namų valda\"",
     "code": "304175740",
     "address": "Alytus, Žiburio g. 10-2, LT-63235"
@@ -398,7 +393,7 @@
   {
     "name": "UAB \"Jeruzalės valda\"",
     "code": "302721226",
-    "address": "Vilnius, Savanorių pr. 74, LT-03149"
+    "address": "Vilnius, Kalvarijų g. 59-104, LT-09317"
   },
   {
     "name": "UAB \"K Valda\"",
@@ -490,8 +485,7 @@
   {
     "name": "UAB \"Mano valda\"",
     "code": "111697110",
-    "address": "Kaunas, Savanorių pr. 286, LT-49474",
-    "vatcode": "LT116971113"
+    "address": "Kaunas, Savanorių pr. 286, LT-49474"
   },
   {
     "name": "UAB \"Mačiuliškių valda\"",
@@ -887,7 +881,8 @@
   {
     "name": "UAB Trade Valda",
     "code": "306843341",
-    "address": "Vilnius, Metalo g. 11, LT-02190"
+    "address": "Vilnius, Metalo g. 11, LT-02190",
+    "vatcode": "LT100017165713"
   },
   {
     "name": "UAB Vv valda",
@@ -1035,11 +1030,6 @@
     "name": "IĮ \"VALDAS\"",
     "code": "301733649",
     "address": "Kauno miesto savivaldybės teritorija"
-  },
-  {
-    "name": "UAB \"Lai Valdas stato\"",
-    "code": "305450666",
-    "address": "Kėdainių rajono savivaldybės teritorija"
   },
   {
     "name": "UAB \"Valdas & Kristi\"",
@@ -2286,7 +2276,8 @@
   {
     "name": "UAB \"Pamario valdos\"",
     "code": "304588874",
-    "address": "Klaipėda, Taikos pr. 24-13, LT-91222"
+    "address": "Klaipėda, Taikos pr. 24-13, LT-91222",
+    "vatcode": "LT100011061511"
   },
   {
     "name": "UAB \"Ragainės valdos\"",
@@ -2327,6 +2318,16 @@
     "code": "305738978",
     "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Gelažių g. 6, LT-14163",
     "vatcode": "LT100013984113"
+  },
+  {
+    "name": "UAB Draugystės valdos",
+    "code": "306984947",
+    "address": "Kaunas, Draugystės g. 15A, LT-51227"
+  },
+  {
+    "name": "UAB Neveronių valdos",
+    "code": "306984491",
+    "address": "Kaunas, Draugystės g. 15A, LT-51227"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Mūsų valdos\" ir ko",
@@ -2394,11 +2395,6 @@
     "name": "MB \"Valdovas\"",
     "code": "305331128",
     "address": "Marijampolės sav., Liudvinavas, Gėlių g. 7, LT-69170"
-  },
-  {
-    "name": "MB Vadovas ir Valdovas",
-    "code": "305651231",
-    "address": "Vilniaus r. sav., Bezdonių sen., Sakiškių k., Pušų al. 46, LT-15181"
   },
   {
     "name": "UAB \"Gelmių valdovas\"",
@@ -2994,6 +2990,11 @@
     "vatcode": "LT100016374114"
   },
   {
+    "name": "MB Interesų valdymas",
+    "code": "306997108",
+    "address": "Telšių r. sav., Varniai, Senojo Malūno g. 5, LT-88320"
+  },
+  {
     "name": "MB Namų valdymas",
     "code": "305623463",
     "address": "Klaipėda, Taikos pr. 24-13, LT-91222"
@@ -3147,11 +3148,6 @@
     "vatcode": "LT100006828814"
   },
   {
-    "name": "UAB \"Baltijos autoparko valdymas\"",
-    "code": "303091232",
-    "address": "Vilnius, Rugių g. 12-17, LT-08430"
-  },
-  {
     "name": "UAB \"Baltijos laivų valdymas\"",
     "code": "304501951",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
@@ -3215,11 +3211,6 @@
     "vatcode": "LT100005037918"
   },
   {
-    "name": "UAB \"Ekonomikos valdymas\"",
-    "code": "303185895",
-    "address": "Vilnius, Giedraičių g. 18-4, LT-09301"
-  },
-  {
     "name": "UAB \"Erdvės valdymas\"",
     "code": "304148405",
     "address": "Klaipėdos r. sav., Sendvario sen., Sudmantų k., Palangos pl. 6, LT-96327"
@@ -3229,11 +3220,6 @@
     "code": "304441486",
     "address": "Klaipėda, Vingio g. 39-36, LT-95218",
     "vatcode": "LT100012263015"
-  },
-  {
-    "name": "UAB \"Franšizių valdymas\"",
-    "code": "305935445",
-    "address": "Vilnius, Turniškių g. 29-1, LT-10104"
   },
   {
     "name": "UAB \"G turto valdymas\"",
@@ -3331,11 +3317,6 @@
     "name": "UAB \"KT valdymas\"",
     "code": "304354946",
     "address": "Vilnius, Meistrų g. 9, LT-02190"
-  },
-  {
-    "name": "UAB \"Kapitalo valdymas\"",
-    "code": "303362096",
-    "address": "Vilnius, Antano Tumėno g. 4-107, LT-01109"
   },
   {
     "name": "UAB \"Kauno staklių nekilnojamojo turto valdymas\"",
@@ -3724,11 +3705,6 @@
     "name": "UAB \"Verslo angelų fondo valdymas\"",
     "code": "304822925",
     "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
-  },
-  {
-    "name": "UAB \"Verslo sprendimų valdymas\"",
-    "code": "301881669",
-    "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Šiltnamių g. 9-39, LT-14114"
   },
   {
     "name": "UAB \"Vilniaus turto valdymas\"",
@@ -4131,11 +4107,6 @@
     "address": "Rokiškio r. sav., Juodupės sen., Onuškio k., Parko g. 8, LT-42441"
   },
   {
-    "name": "MB \"Ūkio valdymo departamentas\"",
-    "code": "305555457",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
-  },
-  {
     "name": "MB Apskaitos valdymo biuras",
     "code": "304434890",
     "address": "Vilnius, Ukmergės g. 317B, LT-06306",
@@ -4258,8 +4229,7 @@
   {
     "name": "UAB \"AUTOPARKO VALDYMO SPRENDIMAI\"",
     "code": "302608901",
-    "address": "Vilnius, Sodų g. 6-4, LT-01313",
-    "vatcode": "LT100006044217"
+    "address": "Vilnius, Sodų g. 6-4, LT-01313"
   },
   {
     "name": "UAB \"Apskaitos valdymo sistemos\"",
@@ -4431,11 +4401,6 @@
     "vatcode": "LT100006450411"
   },
   {
-    "name": "UAB \"Projektų Valdymo Kompanija\"",
-    "code": "302452733",
-    "address": "Vilnius, Justiniškių g. 144A-33, LT-05268"
-  },
-  {
     "name": "UAB \"Projektų valdymo ekspertai\"",
     "code": "300657853",
     "address": "Vilnius, Tuskulėnų g. 18-7, LT-09212",
@@ -4512,11 +4477,6 @@
     "code": "304182044",
     "address": "Kaunas, Sukilėlių pr. 91-25, LT-49235",
     "vatcode": "LT100010201210"
-  },
-  {
-    "name": "UAB \"Statybų valdymo sprendimai\"",
-    "code": "177408421",
-    "address": "Šilutė, Pramonės g. 3A, LT-99116"
   },
   {
     "name": "UAB \"Technologijų valdymo centras\"",
@@ -4686,11 +4646,6 @@
     "vatcode": "LT100010261819"
   },
   {
-    "name": "UAB Rinkodaros valdymo centras",
-    "code": "304848610",
-    "address": "Vilniaus r. sav., Avižienių sen., Tarandės k., Kelpių g. 25A-2, LT-14184"
-  },
-  {
     "name": "UAB Rizikos valdymo projektai",
     "code": "302853441",
     "address": "Vilnius, Kviečių g. 4-97, LT-08438"
@@ -4839,6 +4794,11 @@
     "name": "Viešoji įstaiga Inovacijų valdymo centras",
     "code": "148531410",
     "address": "Panevėžys, Aguonų g. 103, LT-37457"
+  },
+  {
+    "name": "Viešoji įstaiga Vidaus reikalų ministerijos projektų valdymo agentūra",
+    "code": "300075874",
+    "address": "Vilnius, Šventaragio g. 2, LT-01510"
   },
   {
     "name": "Viešojo valdymo agentūra",

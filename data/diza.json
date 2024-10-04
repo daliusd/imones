@@ -104,11 +104,6 @@
     "vatcode": "LT100012895016"
   },
   {
-    "name": "MB \"Baldų dizainas\"",
-    "code": "305635490",
-    "address": "Vilnius, Čiobiškio g. 37-20, LT-07188"
-  },
-  {
     "name": "MB \"Digi dizainas\"",
     "code": "306318347",
     "address": "Šiaulių r. sav., Kužiai, Gruzdžių g. 24-1, LT-80265"
@@ -245,7 +240,7 @@
   {
     "name": "MB \"Technologijų dizainas\"",
     "code": "304503870",
-    "address": "Vilnius, Slucko g. 3, LT-09312"
+    "address": "Visaginas, Visagino g. 19-9, LT-31102"
   },
   {
     "name": "MB \"Trio Dizainas\"",
@@ -313,7 +308,7 @@
   {
     "name": "MB Kvapų dizainas",
     "code": "305741974",
-    "address": "Vilnius, Vytauto Žalakevičiaus g. 15-2, LT-10109"
+    "address": "Vilnius, Kareivių g. 2H-13, LT-08248"
   },
   {
     "name": "MB Midcentury dizainas",
@@ -482,12 +477,13 @@
   {
     "name": "UAB \"Marinos dizainas\"",
     "code": "123604135",
-    "address": "Vilnius, Viršuliškių g. 27-42, LT-05106"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "UAB \"Marko dizainas\"",
     "code": "304447838",
-    "address": "Tauragė, Žemaitės g. 30-18, LT-72236"
+    "address": "Tauragė, Žemaitės g. 30-18, LT-72236",
+    "vatcode": "LT100017143412"
   },
   {
     "name": "UAB \"Minimalus dizainas\"",
@@ -914,12 +910,8 @@
   {
     "name": "Lietuvos dizaino asociacija",
     "code": "191939198",
-    "address": "Vilnius, Filaretų g. 6-3, LT-01208"
-  },
-  {
-    "name": "Lietuvos dizaino sąjunga",
-    "code": "305510394",
-    "address": "Vilnius, Rugių g. 12-17, LT-08430"
+    "address": "Vilnius, Filaretų g. 6-3, LT-01208",
+    "vatcode": "LT100005967816"
   },
   {
     "name": "M. Bartaševičiūtės dizaino studija \"KVINTESENCIJA\"",
@@ -1053,6 +1045,11 @@
     "address": "Molėtų r. sav., Luokesos sen., Papuntės k. 2, LT-33161"
   },
   {
+    "name": "MB AMI Kūno dizaino studija",
+    "code": "306996337",
+    "address": "Tauragė, Ateities tak. 14-1, LT-72281"
+  },
+  {
     "name": "MB Agnės dizaino studija",
     "code": "304846837",
     "address": "Jurbarkas, Mokyklos g. 2A K26-142, LT-74135"
@@ -1065,7 +1062,7 @@
   {
     "name": "MB Automobilių dizaino studija",
     "code": "303309108",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+    "address": "Kauno miesto savivaldybės teritorija"
   },
   {
     "name": "MB Babelytės dizaino studija",
@@ -1155,6 +1152,11 @@
     "name": "MB Motociklų dizaino studija",
     "code": "306223269",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+  },
+  {
+    "name": "MB Multimedijos dizaino studija",
+    "code": "306989830",
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Versmės g. 2-27, LT-53272"
   },
   {
     "name": "MB Ok dizaino studija",
@@ -1580,6 +1582,11 @@
     "name": "VšĮ \"Dizaino fondas\"",
     "code": "304273355",
     "address": "Vilnius, Verkių g. 28-14, LT-08221"
+  },
+  {
+    "name": "VšĮ Dizaino loftas",
+    "code": "306995452",
+    "address": "Vilnius, Naugarduko g. 62-54, LT-03203"
   },
   {
     "name": "Z. Šimkienės įmonė A. Šimkaus grafinio dizaino studija",

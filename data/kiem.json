@@ -163,11 +163,6 @@
     "address": "Ukmergės r. sav., Pivonijos sen., Vileikių k., Klevų g. 7, LT-20239"
   },
   {
-    "name": "MB Lankų kiemas",
-    "code": "305580510",
-    "address": "Kaunas, Partizanų g. 84-3, LT-50346"
-  },
-  {
     "name": "MB Mažas kiemas",
     "code": "306206597",
     "address": "Kaunas, Pakalnės g. 15B, LT-47160"
@@ -372,7 +367,8 @@
   {
     "name": "UAB Gilių kiemelis",
     "code": "306965509",
-    "address": "Kaunas, Užnerio g. 55A, LT-47491"
+    "address": "Kaunas, Užnerio g. 55A, LT-47491",
+    "vatcode": "LT100017180515"
   },
   {
     "name": "UAB Ryšių kiemelis",
@@ -487,11 +483,6 @@
     "vatcode": "LT100014114712"
   },
   {
-    "name": "MB \"Kiemo želdiniai\"",
-    "code": "305567954",
-    "address": "Kauno r. sav., Raudondvario sen., Didvyrių k., Skroblų g. 3, LT-54113"
-  },
-  {
     "name": "MB \"Sūduvių kiemo duona\"",
     "code": "306283355",
     "address": "Vilkaviškis, Kapų g. 92, LT-70121",
@@ -512,6 +503,12 @@
     "code": "306736617",
     "address": "Vilnius, Kryžiokų Sodų 5-oji g. 98, LT-08444",
     "vatcode": "LT100016909314"
+  },
+  {
+    "name": "MB Kiemo magija",
+    "code": "306338467",
+    "address": "Šiauliai, K. Korsako g. 35-58, LT-78373",
+    "vatcode": "LT100016032816"
   },
   {
     "name": "MB Kiemo meistrai",

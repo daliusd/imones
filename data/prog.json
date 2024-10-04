@@ -172,11 +172,6 @@
     "address": "Jurbarkas, Kalninės g. 39, LT-74179"
   },
   {
-    "name": "Jurbarko Vytauto Didžiojo progimnazija",
-    "code": "191873296",
-    "address": "Jurbarkas, Vytauto Didžiojo g. 53A, LT-74134"
-  },
-  {
     "name": "Kaišiadorių Vaclovo Giržado progimnazija",
     "code": "190596323",
     "address": "Kaišiadorys, Paukštininkų g. 5, LT-56166"
@@ -387,7 +382,7 @@
     "address": "Kėdainiai, Pavasario g. 6, LT-57469"
   },
   {
-    "name": "Kėdainių Juozo Paukštelio progimnazija",
+    "name": "Kėdainių Senamiesčio progimnazija",
     "code": "195092544",
     "address": "Kėdainiai, Vilniaus g. 11, LT-57209"
   },
@@ -395,6 +390,11 @@
     "name": "Lietuvos sporto universiteto Kėdainių \"Aušros\" progimnazija",
     "code": "191019591",
     "address": "Kėdainiai, Chemikų g. 30, LT-57416"
+  },
+  {
+    "name": "Marijampolės \"Ryto\" progimnazija",
+    "code": "190453670",
+    "address": "Marijampolė, Mokyklos g. 22, LT-68262"
   },
   {
     "name": "Marijampolės \"Šaltinio\" progimnazija",
@@ -562,14 +562,14 @@
     "address": "Raseiniai, Ateities g. 23, LT-60154"
   },
   {
+    "name": "Rokiškio Juozo Tumo-Vaižganto progimnazija",
+    "code": "190248822",
+    "address": "Rokiškis, M. Riomerio g. 1, LT-42116"
+  },
+  {
     "name": "Rokiškio Juozo Tūbelio progimnazija",
     "code": "190249358",
     "address": "Rokiškis, P. Širvio g. 2, LT-42153"
-  },
-  {
-    "name": "Rokiškio Senamiesčio progimnazija",
-    "code": "190248822",
-    "address": "Rokiškis, J. Biliūno g. 2, LT-42105"
   },
   {
     "name": "Skuodo Bartuvos progimnazija",
@@ -1245,10 +1245,6 @@
     "vatcode": "LT100013445716"
   },
   {
-    "name": "UAB \"Programavimo rykliai\"",
-    "code": "303323047"
-  },
-  {
     "name": "UAB \"Programavimo technologijos\"",
     "code": "304678866",
     "address": "Mažeikiai, Sodų g. 22-18, LT-89117",
@@ -1633,8 +1629,7 @@
   {
     "name": "UAB \"Statybos progresas\"",
     "code": "300124773",
-    "address": "Vilnius, Žirmūnų g. 21-76, LT-09102",
-    "vatcode": "LT100001798317"
+    "address": "Vilnius, Žirmūnų g. 21-76, LT-09102"
   },
   {
     "name": "VšĮ \"Sporto progresas\"",

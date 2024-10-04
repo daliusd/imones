@@ -353,11 +353,6 @@
     "address": "Vilnius, Raugyklos g. 25, LT-01140"
   },
   {
-    "name": "Irinos Konstantinovos individuali įmonė",
-    "code": "302867291",
-    "address": "Druskininkai, Veisiejų g. 9-21, LT-66211"
-  },
-  {
     "name": "Vilniaus r. Nemenčinės Konstanto Parčevskio gimnazija",
     "code": "191315971",
     "address": "Vilniaus r. sav., Nemenčinė, A. Mickevičiaus g. 20, LT-15170"
@@ -393,11 +388,6 @@
     "code": "305628916",
     "address": "Vilnius, Konstitucijos pr. 21C, LT-08105",
     "vatcode": "LT100013584017"
-  },
-  {
-    "name": "Daugiabučio namo Konstitucijos pr. 13, Vilnius, savininkų bendrija",
-    "code": "303235483",
-    "address": "Vilnius, Konstitucijos pr. 13-37, LT-09308"
   },
   {
     "name": "Daugiabučio namo Konstitucijos pr. 15/5 savininkų bendrija",
@@ -695,7 +685,8 @@
   {
     "name": "MB A konstrukcijos",
     "code": "306105687",
-    "address": "Kaunas, V. Krėvės pr. 4-25, LT-50422"
+    "address": "Kaunas, V. Krėvės pr. 4-25, LT-50422",
+    "vatcode": "LT100017145315"
   },
   {
     "name": "MB AK konstrukcijos",
@@ -823,7 +814,7 @@
   {
     "name": "UAB \"Mako konstrukcijos\"",
     "code": "302620501",
-    "address": "Panevėžys, Klaipėdos g. 132-36, LT-37377"
+    "address": "Panevėžys, Dariaus ir Girėno g. 1-17, LT-37378"
   },
   {
     "name": "UAB \"Matomos konstrukcijos\"",
@@ -1017,11 +1008,6 @@
     "code": "135731763",
     "address": "Kaunas, Universiteto g. 9, LT-46265",
     "vatcode": "LT100001848811"
-  },
-  {
-    "name": "UAB \"Konstrukcijų lyderiai\"",
-    "code": "305154350",
-    "address": "Vilnius, Girulių g. 20, LT-12123"
   },
   {
     "name": "UAB \"Konstrukcijų projektavimas\"",
@@ -2086,11 +2072,6 @@
     "address": "Vilnius, V. Grybo g. 17-135, LT-10318"
   },
   {
-    "name": "MB Integre konsultacijos",
-    "code": "304917782",
-    "address": "Vilnius, Sporto g. 18, LT-09238"
-  },
-  {
     "name": "MB Jonis ir Jonis konsultacijos",
     "code": "306124883",
     "address": "Vilnius, Stirnų g. 32-29, LT-08101"
@@ -2225,6 +2206,11 @@
     "address": "Vilnius, Jurgio Baltrušaičio g. 11-98, LT-06145"
   },
   {
+    "name": "MB Vivide konsultacijos",
+    "code": "304917782",
+    "address": "Vilnius, Sporto g. 18, LT-09238"
+  },
+  {
     "name": "MB Vvs konsultacijos",
     "code": "305627433",
     "address": "Kaunas, Mauručių g. 29, LT-46389",
@@ -2293,6 +2279,11 @@
     "address": "Vilnius, Smolensko g. 6, LT-03201"
   },
   {
+    "name": "Rinkos konsultacijos, MB",
+    "code": "306987053",
+    "address": "Vilnius, Naugarduko g. 2A-9, LT-01309"
+  },
+  {
     "name": "S. ŠINKARIOVO PERSONALINĖ ĮMONĖ \"LIDIVOS KONSULTACIJOS\"",
     "code": "125654119",
     "address": "Vilnius, Kalvarijų g. 125, LT-08221"
@@ -2341,11 +2332,6 @@
     "code": "304226754",
     "address": "Kaunas, Europos pr. 122, LT-46351",
     "vatcode": "LT100010123417"
-  },
-  {
-    "name": "UAB \"Atkulos konsultacijos\"",
-    "code": "303332434",
-    "address": "Vilnius, Savanorių pr. 11A-83, LT-03116"
   },
   {
     "name": "UAB \"Atominės konsultacijos\"",
@@ -2446,11 +2432,6 @@
     "name": "UAB \"Hiroko konsultacijos\"",
     "code": "305663618",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
-  },
-  {
-    "name": "UAB \"IT konsultacijos\"",
-    "code": "305428869",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB \"Importas ir konsultacijos\"",
@@ -4412,6 +4393,11 @@
     "code": "301589907",
     "address": "Kauno r. sav., Domeikavos sen., Šakių k., Stumbro g. 6-7A, LT-47413",
     "vatcode": "LT100005608811"
+  },
+  {
+    "name": "VšĮ Lėlių terapijos ir psichologinio konsultavimo centras",
+    "code": "306998822",
+    "address": "Anykščiai, Kęstučio g. 27, LT-29131"
   },
   {
     "name": "VšĮ Mokymų ir konsultavimo biuras",

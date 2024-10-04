@@ -356,11 +356,6 @@
     "address": "Vilniaus r. sav., Riešės sen., Raudondvario k., Žirgų g. 18-6, LT-14257"
   },
   {
-    "name": "MB \"IT Harmonija\"",
-    "code": "306526750",
-    "address": "Vilnius, Vandentiekio g. 40-16, LT-03152"
-  },
-  {
     "name": "MB \"IT ID\"",
     "code": "303354683",
     "address": "Kaunas, I. Kanto g. 2-3, LT-44296",
@@ -898,7 +893,8 @@
   {
     "name": "MB Balti it projektai",
     "code": "306466591",
-    "address": "Kaunas, Kalniečių g. 204, LT-50111"
+    "address": "Kaunas, Kalniečių g. 204, LT-50111",
+    "vatcode": "LT100017134410"
   },
   {
     "name": "MB Bartus IT Solutions",
@@ -1039,20 +1035,9 @@
     "address": "Visagino sav., Drūkšinių k., Elektrinės g. 10, LT-31152"
   },
   {
-    "name": "MB IT namams ir verslui",
-    "code": "305490269",
-    "address": "Kaišiadorių r. sav., Rumšiškių sen., Dovainonių k., Draugystės g. 15, LT-56342"
-  },
-  {
     "name": "MB IT noras",
     "code": "305631766",
     "address": "Jurbarkas, V. Kudirkos g. 25, LT-74138"
-  },
-  {
-    "name": "MB IT servisas",
-    "code": "304847992",
-    "address": "Kupiškis, Jaunimo g. 1-9, LT-40128",
-    "vatcode": "LT100011673118"
   },
   {
     "name": "MB IT ūkis",
@@ -1168,6 +1153,11 @@
     "name": "MB Reikia IT",
     "code": "306244174",
     "address": "Gargždai, Žemaitės g. 4, LT-96121"
+  },
+  {
+    "name": "MB Sveikatingumo klinika treat it",
+    "code": "306994813",
+    "address": "Marijampolės sav., Sasnavos sen., Puskelnių k., Ramunės g. 28, LT-68102"
   },
   {
     "name": "MB Techrevolution IT Consultancy",
@@ -1683,11 +1673,6 @@
     "vatcode": "LT100014926919"
   },
   {
-    "name": "UAB \"IT konsultacijos\"",
-    "code": "305428869",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
     "name": "UAB \"IT kryptis\"",
     "code": "306054196",
     "address": "Vilnius, J. Jasinskio g. 4-15, LT-01112",
@@ -1758,11 +1743,6 @@
     "code": "300551743",
     "address": "Anykščiai, J. Biliūno g. 6-23, LT-29114",
     "vatcode": "LT100002270714"
-  },
-  {
-    "name": "UAB \"IT projekcija\"",
-    "code": "304845450",
-    "address": "Mažeikiai, Tylioji g. 6-30, LT-89306"
   },
   {
     "name": "UAB \"IT projektai\"",
@@ -1946,8 +1926,7 @@
   {
     "name": "UAB \"Pay IT\"",
     "code": "305438906",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
-    "vatcode": "LT100013009613"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB \"Pilis IT\"",
@@ -1970,6 +1949,11 @@
     "code": "302247835",
     "address": "Vilnius, Kareivių g. 11B, LT-09133",
     "vatcode": "LT100004897917"
+  },
+  {
+    "name": "UAB \"Restart it\"",
+    "code": "306986834",
+    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144"
   },
   {
     "name": "UAB \"SKS IT\"",

@@ -60,7 +60,8 @@
   {
     "name": "MB \"Prekių sistema\"",
     "code": "304973813",
-    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., Antano Šidiškio g. 9, LT-53304"
+    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., Antano Šidiškio g. 9, LT-53304",
+    "vatcode": "LT100017186918"
   },
   {
     "name": "MB \"Sistema 2 plius\"",
@@ -622,6 +623,11 @@
     "address": "Marijampolė, Vasario 16-osios g. 10-48, LT-68301"
   },
   {
+    "name": "MB \"MK sistemos\"",
+    "code": "306987078",
+    "address": "Vilnius, Perkūnkiemio g. 17-67, LT-12119"
+  },
+  {
     "name": "MB \"Mariaus Patacko vėdinimo sistemos\"",
     "code": "305237885",
     "address": "Kaunas, V. Landsbergio-Žemkalnio g. 9-38, LT-49296",
@@ -649,14 +655,9 @@
     "address": "Kauno r. sav., Garliava, Liepų g. 8, LT-53209"
   },
   {
-    "name": "MB \"Nešiojamos garso sistemos\"",
-    "code": "305546547",
-    "address": "Vilnius, Lvivo g. 13-12, LT-09313"
-  },
-  {
     "name": "MB \"Nuotekų sistemos\"",
     "code": "305568337",
-    "address": "Šiaulių r. sav., Kuršėnai, Gedimino g. 42, LT-81181",
+    "address": "Šiauliai, Ramunės Sodų 8-oji g. 20, LT-79204",
     "vatcode": "LT100014001018"
   },
   {
@@ -851,6 +852,11 @@
     "name": "MB Namų sistemos",
     "code": "306727098",
     "address": "Kaunas, V. Krėvės pr. 72-18, LT-50395"
+  },
+  {
+    "name": "MB Nemuno sistemos",
+    "code": "306997955",
+    "address": "Panevėžys, Vilniaus g. 27A, LT-36100"
   },
   {
     "name": "MB Pastatų mikroklimato sistemos",
@@ -1149,11 +1155,6 @@
     "code": "303339076",
     "address": "Vilnius, Saulėtekio al. 15-1, LT-10224",
     "vatcode": "LT100012287612"
-  },
-  {
-    "name": "UAB \"BŪSTO SISTEMOS\"",
-    "code": "142166168",
-    "address": "Klaipėda, Taikos pr. 77-34, LT-94114"
   },
   {
     "name": "UAB \"CNC ir automatinės sistemos\"",
@@ -2025,19 +2026,9 @@
     "vatcode": "LT100004014711"
   },
   {
-    "name": "UAB \"Šviesos sistemos\"",
-    "code": "303092430",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
-  },
-  {
     "name": "UAB Darbo sistemos",
     "code": "306317195",
     "address": "Jurbarko r. sav., Smalininkai, Parko g. 4B-19, LT-74224"
-  },
-  {
-    "name": "UAB Dirbtinio intelekto sistemos",
-    "code": "305566507",
-    "address": "Vilnius, Fabijoniškių g. 5-63, LT-06335"
   },
   {
     "name": "UAB ELEKTRONINIO VERSLO SISTEMOS",
@@ -2086,7 +2077,8 @@
   {
     "name": "UAB LDSR sistemos",
     "code": "306853830",
-    "address": "Kaunas, Raudondvario pl. 99E, LT-47184"
+    "address": "Kaunas, Raudondvario pl. 99E, LT-47184",
+    "vatcode": "LT100017154415"
   },
   {
     "name": "UAB MB Sistemos",
@@ -3193,16 +3185,6 @@
     "address": "Šakiai, Lygumų g. 22, LT-71118"
   },
   {
-    "name": "Melioracijos sistemų naudotojų asociacija \"Vandens pieva\"",
-    "code": "305560600",
-    "address": "Šakių r. sav., Kriūkų sen., Jokūbonių k., Jokūbonių g. 1, LT-71217"
-  },
-  {
-    "name": "Melioracijos sistemų naudotojų asociacija \"Vandens vingis\"",
-    "code": "305572766",
-    "address": "Rokiškio r. sav., Rokiškio kaimiškoji sen., Kavoliškio k., Garažo g. 2-8, LT-42345"
-  },
-  {
     "name": "Melioracijos sistemų naudotojų asociacija \"Vepriai\"",
     "code": "304219884",
     "address": "Ukmergės r. sav., Vepriai, Pergalės g. 5-4, LT-20283"
@@ -3235,7 +3217,7 @@
   {
     "name": "Melioracijos sistemų naudotojų asociacija \"Švaininkai\"",
     "code": "305194882",
-    "address": "Radviliškio r. sav., Sidabravo sen., Davongalio k. 1, LT-82258"
+    "address": "Panevėžio r. sav., Smilgių sen., Švaininkų k. 17, LT-38388"
   },
   {
     "name": "Melioracijos sistemų naudotojų asociacija \"Švitinėlis\"",
@@ -3430,6 +3412,11 @@
     "address": "Ignalina, Aukštaičių g. 30-35, LT-30107"
   },
   {
+    "name": "Termoinžinerinių sistemų ranga UAB",
+    "code": "306995445",
+    "address": "Kaunas, Raudondvario pl. 147-R8, LT-47192"
+  },
+  {
     "name": "Trimėsėdžio kaimo melioracijos sistemų naudotojų asociacija",
     "code": "305189440",
     "address": "Telšių r. sav., Nevarėnų sen., Trimėsėdžio k. 4, LT-88492"
@@ -3553,11 +3540,6 @@
     "address": "Vilnius, Aitvarų g. 39, LT-08400"
   },
   {
-    "name": "UAB \"Ventiliacinių sistemų valymas\"",
-    "code": "300621138",
-    "address": "Vilnius, A. Mickevičiaus g. 9-1, LT-08119"
-  },
-  {
     "name": "UAB \"Verslo sistemų bankas\"",
     "code": "304813577",
     "address": "Klaipėda, Rūko g. 23, LT-91273",
@@ -3582,7 +3564,7 @@
   {
     "name": "UAB Informacinių sistemų centras",
     "code": "304760007",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "UAB Informacinių sistemų laboratorija",
@@ -3707,11 +3689,6 @@
     "address": "Vilnius, Ateities g. 31, LT-06326"
   },
   {
-    "name": "Žaliosios melioracijos sistemų naudotojų asociacija",
-    "code": "304221878",
-    "address": "Lazdijų r. sav., Krosna, Miško g. 6, LT-67443"
-  },
-  {
     "name": "Žindaičių melioracijos sistemų ir statinių naudotojų asociacija",
     "code": "303142940",
     "address": "Jurbarko r. sav., Jurbarkų sen., Žindaičių k., Tilto g."
@@ -3751,11 +3728,6 @@
     "name": "MB SISTILIUS",
     "code": "305454173",
     "address": "Vilnius, Laisvės pr. 77D-45, LT-06155"
-  },
-  {
-    "name": "MB \"Sistola\"",
-    "code": "305610996",
-    "address": "Prienų r. sav., Pakuonio sen., Aštuonėlių k. 8, LT-59316"
   },
   {
     "name": "MB \"Sistosis\"",

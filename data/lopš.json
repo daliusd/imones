@@ -120,10 +120,6 @@
     "address": "Vilnius, Vandentiekio g. 56, LT-03152"
   },
   {
-    "name": "Alytaus lopšelis-darželis \"Boružėlė\"",
-    "code": "191055331"
-  },
-  {
     "name": "Alytaus lopšelis-darželis \"Du gaideliai\"",
     "code": "191054578",
     "address": "Alytus, Jaunimo g. 15, LT-63314"
@@ -132,15 +128,6 @@
     "name": "Alytaus lopšelis-darželis \"Girinukas\"",
     "code": "191055484",
     "address": "Alytus, Daugų g. 8, LT-62172"
-  },
-  {
-    "name": "Alytaus lopšelis-darželis \"Linelis\"",
-    "code": "191054425",
-    "address": "Alytus, Jaunimo g. 13, LT-63313"
-  },
-  {
-    "name": "Alytaus lopšelis-darželis \"Nykštukas\"",
-    "code": "191053280"
   },
   {
     "name": "Alytaus lopšelis-darželis \"Obelėlė\"",
@@ -501,11 +488,6 @@
     "name": "Kauno lopšelis-darželis \"Nežiniukas\"",
     "code": "191642873",
     "address": "Kaunas, Vakarų g. 14, LT-51307"
-  },
-  {
-    "name": "Kauno lopšelis-darželis \"Obelėlė\"",
-    "code": "191641771",
-    "address": "Kaunas, K. Baršausko g. 76, LT-51439"
   },
   {
     "name": "Kauno lopšelis-darželis \"Pagrandukas\"",
@@ -1558,6 +1540,11 @@
     "address": "Tauragė, Moksleivių al. 12, LT-72288"
   },
   {
+    "name": "Tauragės lopšelis-darželis \"Pušelė\"",
+    "code": "190457359",
+    "address": "Tauragė, Stoties g. 25A, LT-72303"
+  },
+  {
     "name": "Tauragės lopšelis-darželis \"Ąžuoliukas\"",
     "code": "190455536",
     "address": "Tauragė, Vytauto g. 58, LT-72247"
@@ -1673,6 +1660,11 @@
     "address": "Ukmergė, Bažnyčios g. 5, LT-20107"
   },
   {
+    "name": "Utenos vaikų lopšelis - darželis \"Eglutė\"",
+    "code": "190174788",
+    "address": "Utena, Vilniaus g. 26, LT-28248"
+  },
+  {
     "name": "Utenos vaikų lopšelis-darželis \"Gandrelis\"",
     "code": "190181252",
     "address": "Utena, Vaižganto g. 38, LT-28196"
@@ -1686,6 +1678,11 @@
     "name": "Utenos vaikų lopšelis-darželis \"Saulutė\"",
     "code": "190181067",
     "address": "Utena, Vaižganto g. 54, LT-28186"
+  },
+  {
+    "name": "Utenos vaikų lopšelis-darželis \"Varpelis\"",
+    "code": "190181448",
+    "address": "Utena, Aušros g. 58, LT-28149"
   },
   {
     "name": "Utenos vaikų lopšelis-darželis \"Voveraitė\"",
@@ -2368,9 +2365,19 @@
     "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Mokyklos g. 19, LT-14260"
   },
   {
+    "name": "Vilniaus r. Glitiškių vaikų lopšelis-darželis",
+    "code": "191320623",
+    "address": "Vilniaus r. sav., Paberžės sen., Glitiškių k., Liepų al. 20, LT-14292"
+  },
+  {
     "name": "Vilniaus r. Kabiškių vaikų lopšelis-darželis",
     "code": "302430110",
     "address": "Vilniaus r. sav., Nemenčinės sen., Didžiųjų Kabiškių k., Liepų g. 2, LT-15153"
+  },
+  {
+    "name": "Vilniaus r. Kalvelių vaikų lopšelis-darželis",
+    "code": "191324792",
+    "address": "Vilniaus r. sav., Kalvelių sen., Kalvelių k., Margių g. 1, LT-13150"
   },
   {
     "name": "Vilniaus r. Maišiagalos vaikų lopšelis-darželis",
@@ -2513,10 +2520,6 @@
     "address": "Šalčininkų r. sav., Šalčininkų sen., Zavišonių k., Visinčios g. 8, LT-17265"
   },
   {
-    "name": "Šiaulių lopšelis-darželis \"Auksinis raktelis\"",
-    "code": "190529538"
-  },
-  {
     "name": "Šiaulių lopšelis-darželis \"Berželis\"",
     "code": "190528817",
     "address": "Šiauliai, Lydos g. 4, LT-77162"
@@ -2610,10 +2613,6 @@
     "name": "Šiaulių lopšelis-darželis \"Ąžuoliukas\"",
     "code": "190525283",
     "address": "Šiauliai, Rūdės g. 6, LT-77151"
-  },
-  {
-    "name": "Šiaulių lopšelis-darželis \"Žilvitis\"",
-    "code": "190529876"
   },
   {
     "name": "Šiaulių lopšelis-darželis \"Žiogelis\"",
