@@ -118,14 +118,10 @@
     "address": "Kaunas, M. Daukšos g. 20, LT-44283"
   },
   {
-    "name": "UAB Demus Nida Development",
-    "code": "306972425",
-    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
-  },
-  {
     "name": "UAB Nida holding",
     "code": "306980831",
-    "address": "Neringa, Lotmiškio g. 1, LT-93123"
+    "address": "Neringa, Lotmiškio g. 1, LT-93123",
+    "vatcode": "LT100017207510"
   },
   {
     "name": "UAB Rotonda Nida",
@@ -138,6 +134,11 @@
     "code": "306277085",
     "address": "Neringa, Taikos g. 5-9, LT-93121",
     "vatcode": "LT100016797613"
+  },
+  {
+    "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB Demus Nida Development",
+    "code": "306972425",
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
   },
   {
     "name": "VšĮ \"Moca Nida\"",
@@ -446,8 +447,7 @@
   {
     "name": "UAB \"Nidos skonis\"",
     "code": "304200624",
-    "address": "Vilnius, Žaros g. 38-15, LT-04125",
-    "vatcode": "LT100010879013"
+    "address": "Vilnius, Žaros g. 38-15, LT-04125"
   },
   {
     "name": "UAB \"Nidos vėjai\"",
@@ -501,11 +501,6 @@
     "name": "Viešoji įstaiga Nidos oro parkas",
     "code": "152782436",
     "address": "Neringa, Taikos g. 2, LT-93123"
-  },
-  {
-    "name": "VšĮ \"Nidos menas\"",
-    "code": "304477030",
-    "address": "Neringa, Purvynės g. 8-2, LT-93128"
   },
   {
     "name": "MB Niduga",

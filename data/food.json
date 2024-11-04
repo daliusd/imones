@@ -219,7 +219,7 @@
   {
     "name": "MB Baltis food",
     "code": "306355228",
-    "address": "Vilnius, Pažagiškių g. 18, LT-04125",
+    "address": "Vilnius, Taikos g. 14-61, LT-05256",
     "vatcode": "LT100016181013"
   },
   {
@@ -259,16 +259,12 @@
   {
     "name": "MB Liri food",
     "code": "306636093",
-    "address": "Kauno r. sav., Alšėnų sen., Mastaičių k., Samanų g. 37A, LT-53306"
+    "address": "Kauno r. sav., Alšėnų sen., Mastaičių k., Samanų g. 37A, LT-53306",
+    "vatcode": "LT100016944918"
   },
   {
     "name": "MB Litha food",
     "code": "306322979",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "MB Magic food",
-    "code": "305638668",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
@@ -353,7 +349,8 @@
   {
     "name": "Soul and food, MB",
     "code": "306994432",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100017241813"
   },
   {
     "name": "UAB \"APL fast food\"",
@@ -539,7 +536,7 @@
   {
     "name": "UAB 360 Food",
     "code": "305741255",
-    "address": "Kaunas, Savanorių pr. 290, LT-49473",
+    "address": "Vilnius, Pavilnionių g. 55-101, LT-12144",
     "vatcode": "LT100017088716"
   },
   {
@@ -563,6 +560,11 @@
     "name": "UAB Baltic Food Trading",
     "code": "302575401",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "UAB Baltic fish food",
+    "code": "307019508",
+    "address": "Šiauliai, Radviliškio g. 62-30, LT-76366"
   },
   {
     "name": "UAB Craft Food Baltic",
@@ -691,10 +693,15 @@
     "vatcode": "LT100012256318"
   },
   {
+    "name": "UAB Foodo LT",
+    "code": "306262368",
+    "address": "Vilnius, Rinktinės g. 5-101, LT-09234",
+    "vatcode": "LT100015918419"
+  },
+  {
     "name": "MB Foodonfire",
     "code": "306634466",
-    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
-    "vatcode": "LT100016838019"
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
   },
   {
     "name": "CJ WILDBIRD FOODS LIMITED FILIALAS",
@@ -875,5 +882,10 @@
     "name": "IĮ \"Foodstuff service\"",
     "code": "306000501",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+  },
+  {
+    "name": "MB \"Foodyfun\"",
+    "code": "307015520",
+    "address": "Vilniaus r. sav., Šatrininkų sen., Grigaičių k., Eglių g. 9, LT-11237"
   }
 ]

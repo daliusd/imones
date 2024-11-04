@@ -22,7 +22,7 @@
   {
     "name": "AUTO MOTO group, VšĮ",
     "code": "302895974",
-    "address": "Vilnius, Sudervės kel. 3, LT-07195"
+    "address": "Vilnius, Paribio g. 20-2, LT-08103"
   },
   {
     "name": "Asociacija \"BANELIS MOTO\"",
@@ -440,11 +440,6 @@
     "address": "Vilnius, Tilto g. 7-17, LT-01101"
   },
   {
-    "name": "Vilkaviškio rajono sporto klubas \"Motobanga\"",
-    "code": "302728562",
-    "address": "Vilkaviškio r. sav., Virbalio sen., Staugaičių k., Liepų g. 31, LT-70392"
-  },
-  {
     "name": "MB \"Motobeast\"",
     "code": "305681580",
     "address": "Ukmergė, Serbentų g. 53, LT-20116",
@@ -548,11 +543,6 @@
     "name": "Asociacija Motociklininkų klubas \"Benzingalviai\"",
     "code": "305123440",
     "address": "Šiauliai, Bačiūnų g. 12M, LT-77110"
-  },
-  {
-    "name": "Asociacija motociklininkų klubas \"Viesulai\"",
-    "code": "303106232",
-    "address": "Kauno r. sav., Kulautuva, Minijos g. 6, LT-53478"
   },
   {
     "name": "Aukštaitijos motociklininkų asociacija",
@@ -778,11 +768,6 @@
     "name": "Motociklų mėgėjų klubas \"Laukiniai šernai\"",
     "code": "303492378",
     "address": "Elektrėnai, Elektrinės g. 4A-122A, LT-26109"
-  },
-  {
-    "name": "Motociklų sporto klubas \"Armada mx\"",
-    "code": "302302228",
-    "address": "Panevėžio r. sav., Panevėžio sen., Navaršonių k., Navaršonių g. 29, LT-38365"
   },
   {
     "name": "Motociklų sporto klubas \"Bestuntas\"",
@@ -1414,7 +1399,8 @@
   {
     "name": "MB \"AVAS motor\"",
     "code": "306837484",
-    "address": "Kauno r. sav., Rokų sen., Patamulšėlio k., Pamiškės g. 29, LT-46164"
+    "address": "Kauno r. sav., Rokų sen., Patamulšėlio k., Pamiškės g. 29, LT-46164",
+    "vatcode": "LT100017239811"
   },
   {
     "name": "MOTOR GALAXY, INC. Kauno filialas",
@@ -1508,10 +1494,6 @@
     "code": "300577542",
     "address": "Vilnius, Savičiaus g. 5-1, LT-01127",
     "vatcode": "LT100002596818"
-  },
-  {
-    "name": "UAB \"Stanislavo motorai\"",
-    "code": "305672268"
   },
   {
     "name": "Viešoji įstaiga automobilių sporto klubas \"Samsono motorai\"",
@@ -1680,14 +1662,10 @@
     "address": "Šilutė, Pramonės g. 1, LT-99116"
   },
   {
-    "name": "Motorinių transporto priemonių iš JAV importuotojų ir pardavėjų asociacija",
-    "code": "301745904",
-    "address": "Kaunas, Jovarų g. 3, LT-47192"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Motorinės jachtos\"",
     "code": "120052692",
-    "address": "Vilnius, Piliakalnio g. 1, LT-06229"
+    "address": "Vilnius, Piliakalnio g. 1, LT-06229",
+    "vatcode": "LT200526917"
   },
   {
     "name": "UAB \"Motoris\"",
@@ -1872,6 +1850,12 @@
     "address": "Radviliškio r. sav., Baisogalos sen., Pakiršinio k., Draugystės g. 1, LT-82297"
   },
   {
+    "name": "MB \"Bm motors\"",
+    "code": "307005533",
+    "address": "Vilnius, Girulių g. 10-201, LT-12112",
+    "vatcode": "LT100017256710"
+  },
+  {
     "name": "MB \"Bsa motors\"",
     "code": "306971736",
     "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Gaisų g. 1C-5, LT-14158"
@@ -1973,11 +1957,6 @@
     "code": "306629024",
     "address": "Kauno r. sav., Domeikavos sen., Smiltynų I k., Volungės g. 9-1, LT-54440",
     "vatcode": "LT100016934214"
-  },
-  {
-    "name": "MB \"Rimmer motors\"",
-    "code": "305622468",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
   },
   {
     "name": "MB \"Royal motors\"",
@@ -2338,6 +2317,11 @@
     "vatcode": "LT100006800314"
   },
   {
+    "name": "UAB \"ARS MOTORS\"",
+    "code": "307018712",
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Voveriškių k., Pakraščio g. 9, LT-77192"
+  },
+  {
     "name": "UAB \"Aleks Motors\"",
     "code": "304934408",
     "address": "Rokiškio r. sav., Pandėlio sen., Raikėnų k., Lakštutės g. 18, LT-42360"
@@ -2563,7 +2547,7 @@
   {
     "name": "UAB Black tiger motors",
     "code": "304888583",
-    "address": "Vilnius, Loretos Asanavičiūtės g. 1B, LT-04300"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "UAB Br Motors",
@@ -2669,6 +2653,11 @@
     "name": "VD CONTINENTAL MOTORS, MB",
     "code": "305566514",
     "address": "Šiaulių r. sav., Meškuičiai, Dapkūnų g. 7, LT-81442"
+  },
+  {
+    "name": "Vareda motors, MB",
+    "code": "307007648",
+    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Miglos g. 14, LT-81495"
   },
   {
     "name": "UAB \"Motorsa\"",
@@ -2879,9 +2868,15 @@
     "address": "Rokiškis, Vilties g. 22-72, LT-42159"
   },
   {
+    "name": "VšĮ \"Jasikonis Motorsports\"",
+    "code": "307013971",
+    "address": "Kaunas, J. Matuso g. 60, LT-47250"
+  },
+  {
     "name": "MB Motorspot",
     "code": "306983642",
-    "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Dvaro g. 3, LT-37175"
+    "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Dvaro g. 3, LT-37175",
+    "vatcode": "LT100017239014"
   },
   {
     "name": "UAB \"Motortech\"",

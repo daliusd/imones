@@ -89,11 +89,6 @@
     "address": "Klaipėda, Lietuvininkų a. 4A-5, LT-92232"
   },
   {
-    "name": "MB \"Tvarus pastatas\"",
-    "code": "305160385",
-    "address": "Kaunas, Pamario g. 1, LT-52265"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"PASTATAS\"",
     "code": "140986445",
     "address": "Klaipėda, Birutės g. 2, LT-91200",
@@ -459,6 +454,11 @@
     "vatcode": "LT100016647318"
   },
   {
+    "name": "MB Pastatų administravimo sprendimai",
+    "code": "307007228",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+  },
+  {
     "name": "MB Pastatų inžineriniai sprendimai",
     "code": "306396602",
     "address": "Vilnius, Pagubės Sodų 28-oji g. 7, LT-14286"
@@ -648,11 +648,6 @@
     "address": "Vilnius, Ramunių g. 34, LT-11347"
   },
   {
-    "name": "UAB \"Pastatų priežiūra ir administravimas\"",
-    "code": "303266728",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
     "name": "UAB \"Pastatų priežiūra plius\"",
     "code": "304615905",
     "address": "Vilnius, Gabijos g. 42-31, LT-06157",
@@ -764,6 +759,11 @@
     "vatcode": "LT100012554514"
   },
   {
+    "name": "MB Pastebėti",
+    "code": "307014767",
+    "address": "Vilnius, Savanorių pr. 38-54, LT-03121"
+  },
+  {
     "name": "Individuali įmonė \"Pastelinė dėžutė\"",
     "code": "305728806",
     "address": "Šilalės r. sav., Pajūrio sen., Pakisio k., Vladislovo Šimkevičiaus g. 4, LT-75286"
@@ -873,7 +873,8 @@
   {
     "name": "MB Medinė pastogė",
     "code": "306718754",
-    "address": "Šiauliai, Pabalių g. 39C-1, LT-77121"
+    "address": "Šiauliai, Pabalių g. 39C-1, LT-77121",
+    "vatcode": "LT100017232410"
   },
   {
     "name": "MB Pastogė senamiestyje",
@@ -1025,8 +1026,7 @@
   {
     "name": "UAB Pastolininkai",
     "code": "305833248",
-    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Pavasario g. 6, LT-14261",
-    "vatcode": "LT100014506818"
+    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Pavasario g. 6, LT-14261"
   },
   {
     "name": "UAB \"Pastolinis\"",

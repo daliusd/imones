@@ -261,7 +261,8 @@
   {
     "name": "MB Mak Elektra",
     "code": "306995210",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100017256519"
   },
   {
     "name": "MB Su elektra",
@@ -293,6 +294,11 @@
     "name": "NEO ELEKTRA, MB",
     "code": "302895935",
     "address": "Vilnius, Šiaulių g. 6-18, LT-01133"
+  },
+  {
+    "name": "Piliečių energijos bendrija Elektra man saulė",
+    "code": "307019198",
+    "address": "Vilnius, Ateities g. 5-86, LT-08305"
   },
   {
     "name": "UAB \"ARC elektra\"",
@@ -544,6 +550,12 @@
     "name": "MB \"Klaipėdos elektrikai\"",
     "code": "305861087",
     "address": "Klaipėdos r. sav., Sendvario sen., Martinų k., Žirnupių g. 5A, LT-91283"
+  },
+  {
+    "name": "MB Baltijos elektrikai",
+    "code": "307006368",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
+    "vatcode": "LT100017240916"
   },
   {
     "name": "MB Geriausi elektrikai",
@@ -1038,6 +1050,11 @@
     "vatcode": "LT106815219"
   },
   {
+    "name": "MB Elektrobarzdžio 3Dirbtuvės",
+    "code": "307010822",
+    "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105"
+  },
+  {
     "name": "MB Elektrobena",
     "code": "306283526",
     "address": "Kaišiadorių r. sav., Rumšiškės, Beržų g. 7, LT-56336"
@@ -1250,6 +1267,11 @@
     "code": "306158907",
     "address": "Vilnius, Virginijaus Druskio g. 4-20, LT-04305",
     "vatcode": "LT100015933210"
+  },
+  {
+    "name": "MB \"Elektromarket LT\"",
+    "code": "307016259",
+    "address": "Kaunas, Ašmenos 1-oji g. 10A-6, LT-44499"
   },
   {
     "name": "UAB \"Elektromas\"",
@@ -1730,11 +1752,6 @@
     "vatcode": "LT100007330012"
   },
   {
-    "name": "VšĮ \"Elektronikos tvarkymas\"",
-    "code": "304290205",
-    "address": "Vilnius, Igno Šimulionio g. 10-7, LT-04330"
-  },
-  {
     "name": "UAB Elektroniks",
     "code": "302775619",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
@@ -2103,12 +2120,6 @@
     "address": "Birštonas, Pušyno g. 9-3, LT-59203"
   },
   {
-    "name": "Bendra Lietuvos ir Rusijos įmonė uždaroji akcinė bendrovė \"ELEKTROS KABELIS\"",
-    "code": "110658097",
-    "address": "Ukmergė, Vasarnamių g. 9",
-    "vatcode": "LT106580917"
-  },
-  {
     "name": "Buvusios Kėdainių elektros aparatūros gamyklos darbuotojų klubas \"Kontaktas\"",
     "code": "302242820",
     "address": "Kėdainių r. sav., Dotnuva, Tilto g. 33, LT-58373"
@@ -2230,6 +2241,11 @@
     "name": "Lietuvos elektros energetikos asociacija",
     "code": "124478472",
     "address": "Vilnius, P. Lukšio g. 1, LT-08221"
+  },
+  {
+    "name": "Lietuvos elektros energijos kaupiklių asociacija",
+    "code": "307009115",
+    "address": "Vilnius, Girulių g. 5, LT-12124"
   },
   {
     "name": "Lietuvos nepriklausomų elektros tiekėjų asociacija",
@@ -2367,7 +2383,8 @@
   {
     "name": "MB Elektros dizainas",
     "code": "306695476",
-    "address": "Panevėžys, Dariaus ir Girėno g. 30-51, LT-37306"
+    "address": "Panevėžys, Dariaus ir Girėno g. 30-51, LT-37306",
+    "vatcode": "LT100017241319"
   },
   {
     "name": "MB Elektros energetikas",
@@ -2623,6 +2640,12 @@
     "vatcode": "LT100006669617"
   },
   {
+    "name": "UAB \"Elektros kabelis\"",
+    "code": "110658097",
+    "address": "Ukmergė, Vasarnamių g. 5, LT-20168",
+    "vatcode": "LT106580917"
+  },
+  {
     "name": "UAB \"Elektros lizdas\"",
     "code": "304710627",
     "address": "Kretingos r. sav., Žalgirio sen., Jokūbavo k., Žalioji g. 24, LT-97210",
@@ -2701,7 +2724,7 @@
   {
     "name": "UAB \"Elektros tinklų projektai\"",
     "code": "305172989",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112",
+    "address": "Kaunas, Europos pr. 110, LT-46351",
     "vatcode": "LT100013971616"
   },
   {
@@ -2729,7 +2752,8 @@
   {
     "name": "UAB \"Elektros vorai\"",
     "code": "306285000",
-    "address": "Radviliškio r. sav., Aukštelkų sen., Arimaičių k., Ežero g. 2E, LT-82184"
+    "address": "Radviliškio r. sav., Aukštelkų sen., Arimaičių k., Ežero g. 2E, LT-82184",
+    "vatcode": "LT100017203316"
   },
   {
     "name": "UAB \"Elektros zona\"",
@@ -3072,14 +3096,14 @@
     "address": "Elektrėnų sav., Vievio sen., Lapiakalnio k., Lapiakalnio g. 13, LT-21368"
   },
   {
+    "name": "Asociacija \"Elektrėnų ASK\"",
+    "code": "303230251",
+    "address": "Elektrėnai, Prano Noreikos g. 2, LT-26115"
+  },
+  {
     "name": "Asociacija \"Elektrėnų slėnis\"",
     "code": "305581929",
     "address": "Kaunas, Kukučių g. 41, LT-51338"
-  },
-  {
-    "name": "Asociacija \"Elektrėnų šeimų klubas\"",
-    "code": "302806057",
-    "address": "Elektrėnai, Rungos g. 5, LT-26110"
   },
   {
     "name": "Asociacija Elektrėnų smiginio klubas \"Dublis\"",
@@ -3417,11 +3441,6 @@
     "address": "Elektrėnai, Rungos g. 22, LT-26110"
   },
   {
-    "name": "Elektrėnų savivaldybės sportinio judėjimo asociacija",
-    "code": "303230251",
-    "address": "Elektrėnai, Prano Noreikos g. 2, LT-26115"
-  },
-  {
     "name": "Elektrėnų savivaldybės sporto centras",
     "code": "304104330",
     "address": "Elektrėnai, Prano Noreikos g. 2, LT-26115",
@@ -3519,8 +3538,7 @@
   },
   {
     "name": "Elektrėnų šiluma, UAB",
-    "code": "306231134",
-    "address": "Vilnius, Polocko g. 40-9, LT-01205"
+    "code": "306231134"
   },
   {
     "name": "Elektrėnų švietimo paslaugų centras",

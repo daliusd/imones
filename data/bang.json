@@ -155,11 +155,6 @@
     "address": "Vilnius, Žygio g. 52-5, LT-08232"
   },
   {
-    "name": "MB \"Gyvoji banga\"",
-    "code": "304058228",
-    "address": "Vilnius, Dzūkų g. 55-64, LT-02117"
-  },
-  {
     "name": "MB \"Juoda banga\"",
     "code": "306210115",
     "address": "Vilnius, Savanorių pr. 171C, LT-03150",
@@ -188,6 +183,11 @@
     "vatcode": "LT100012810511"
   },
   {
+    "name": "MB \"Pulso banga\"",
+    "code": "307006553",
+    "address": "Klaipėda, Upelio g. 29-79, LT-93268"
+  },
+  {
     "name": "MB \"Skonio banga\"",
     "code": "305722810",
     "address": "Utena, Vilniaus g. 157, LT-28247"
@@ -205,7 +205,8 @@
   {
     "name": "MB Fundamentali banga",
     "code": "306998256",
-    "address": "Klaipėda, I. Kanto g. 19-24, LT-92239"
+    "address": "Klaipėda, I. Kanto g. 19-24, LT-92239",
+    "vatcode": "LT100017245116"
   },
   {
     "name": "MB Prabangos banga",
@@ -329,7 +330,7 @@
   {
     "name": "UAB \"Nauja banga\"",
     "code": "304017427",
-    "address": "Elektrėnų sav., Vievio sen., Alesninkų k., Žiedo g. 7, LT-21364"
+    "address": "Elektrėnai, Draugystės g. 12-48, LT-26114"
   },
   {
     "name": "UAB \"Naujoji banga\"",
@@ -357,11 +358,6 @@
     "code": "306340105",
     "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Karališkių g. 54, LT-92437",
     "vatcode": "LT100016148314"
-  },
-  {
-    "name": "UAB \"Sėkmės banga\"",
-    "code": "304502544",
-    "address": "Vilnius, Krokuvos g. 53-3, LT-09306"
   },
   {
     "name": "UAB \"Tendencijų banga\"",
@@ -487,6 +483,11 @@
     "name": "VšĮ \"Maloni banga\"",
     "code": "304909006",
     "address": "Klaipėda, Geležinkelio g. 12-10, LT-92260"
+  },
+  {
+    "name": "VšĮ Pirmoji banga",
+    "code": "307016782",
+    "address": "Vilnius, Žirmūnų g. 24-6, LT-09231"
   },
   {
     "name": "VšĮ Pokyčio banga",

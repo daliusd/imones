@@ -124,6 +124,11 @@
     "vatcode": "LT100013289311"
   },
   {
+    "name": "MB ER-Instaliacija",
+    "code": "307008166",
+    "address": "Klaipėda, Tiltų g. 19, LT-91249"
+  },
+  {
     "name": "MB Profesionali e instaliacija",
     "code": "305969515",
     "address": "Šilutė, Dariaus ir Girėno g. 18B-342, LT-99131",
@@ -304,11 +309,6 @@
     "code": "305697563",
     "address": "Klaipėda, Naikupės g. 7A-53, LT-93257",
     "vatcode": "LT100013908219"
-  },
-  {
-    "name": "\"Instant Miracle Baltic\", UAB",
-    "code": "302664405",
-    "address": "Vilnius, Panerių g. 11, LT-03209"
   },
   {
     "name": "INSTANT ENERGY COMPANY, UAB",
@@ -552,11 +552,6 @@
     "vatcode": "LT100004815216"
   },
   {
-    "name": "Biosistemų inžinerinių tyrimų institutas",
-    "code": "303506504",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
-  },
-  {
     "name": "Butės institutas",
     "code": "303446014",
     "address": "Vilnius, Virginijaus Druskio g. 3-4, LT-04307"
@@ -585,11 +580,6 @@
     "name": "Europietiškos dešinės institutas, VšĮ",
     "code": "306327289",
     "address": "Vilnius, J. Jasinskio g. 17, LT-01111"
-  },
-  {
-    "name": "Europos regioninės politikos institutas",
-    "code": "301502585",
-    "address": "Vilnius, S. Konarskio g. 49, LT-03123"
   },
   {
     "name": "Europos viešosios politikos institutas",
@@ -746,6 +736,11 @@
     "code": "304766914",
     "address": "Klaipėdos r. sav., Kretingalės sen., Girkalių k., Kriaušių g. 3-1, LT-92372",
     "vatcode": "LT100012350811"
+  },
+  {
+    "name": "MB Suaugusiųjų švietimo institutas",
+    "code": "307005106",
+    "address": "Kaunas, K. Petrausko g. 13A-6, LT-44155"
   },
   {
     "name": "Marijos Krikščionių Pagalbos dukterų institutas",
@@ -1018,8 +1013,7 @@
   {
     "name": "UAB Malonumų institutas",
     "code": "306067699",
-    "address": "Vilnius, Linkmenų g. 19-120, LT-08217",
-    "vatcode": "LT100015857110"
+    "address": "Vilnius, Linkmenų g. 19-120, LT-08217"
   },
   {
     "name": "UAB Profesiologijos institutas",
@@ -1622,11 +1616,6 @@
     "address": "Vilnius, Subačiaus g. 15, LT-01300"
   },
   {
-    "name": "VšĮ Europos strateginių tyrimų institutas",
-    "code": "303147866",
-    "address": "Palanga, Druskininkų g. 1-5, LT-00151"
-  },
-  {
     "name": "VšĮ Europos tikėjimo darbo ir ekonomikos institutas",
     "code": "306981292",
     "address": "Klaipėdos r. sav., Kretingalės sen., Normantų k., Pilsoto g. 67, LT-92358"
@@ -1822,11 +1811,6 @@
     "address": "Vilnius, Manufaktūrų g. 20-159, LT-11342"
   },
   {
-    "name": "VšĮ Tarptautinės komunikacijos institutas",
-    "code": "304184547",
-    "address": "Kaunas, Baltijos g. 53-44, LT-48299"
-  },
-  {
     "name": "VšĮ Vaiko teisių institutas",
     "code": "305440572",
     "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Kaštonų g. 1B, LT-13268"
@@ -1992,11 +1976,6 @@
     "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
-    "name": "Viešoji įstaiga \"Crisis, Security & Risk Management Institute\"",
-    "code": "302822225",
-    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Žalioji g. 3, LT-13268"
-  },
-  {
     "name": "Viešoji įstaiga \"International Republican institute\"",
     "code": "300111797",
     "address": "Vilnius, Jogailos g. 4, LT-01116"
@@ -2140,7 +2119,8 @@
   {
     "name": "UAB \"Instituto 13\"",
     "code": "306371691",
-    "address": "Kauno r. sav., Lapių sen., Ginėnų k., Neries g. 21, LT-54430"
+    "address": "Kauno r. sav., Lapių sen., Ginėnų k., Neries g. 21, LT-54430",
+    "vatcode": "LT100017229511"
   },
   {
     "name": "VILNIAUS UNIVERSITETO ONKOLOGIJOS INSTITUTO GYDYTOJŲ SĄJUNGA",
@@ -2306,11 +2286,6 @@
     "code": "302874204",
     "address": "Alytus, Naujoji g. 16-125, LT-63251",
     "vatcode": "LT100007718513"
-  },
-  {
-    "name": "UAB \"BUSINESS INSTRUMENTS\"",
-    "code": "302620387",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "UAB \"DEKA Instruments\"",

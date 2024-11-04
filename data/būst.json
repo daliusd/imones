@@ -158,6 +158,12 @@
     "vatcode": "LT100016450816"
   },
   {
+    "name": "MB \"Armario būstas\"",
+    "code": "304215131",
+    "address": "Klaipėda, Deimės g. 2-1, LT-93184",
+    "vatcode": "LT100010486717"
+  },
+  {
     "name": "MB \"Būstas tau\"",
     "code": "303348926",
     "address": "Vilnius, Tolimosios Sodų 1-oji g. 20, LT-11313"
@@ -248,7 +254,7 @@
   {
     "name": "MB \"Tvarus būstas\"",
     "code": "306291035",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "address": "Klaipėda, Svajonės g. 38, LT-94101",
     "vatcode": "LT100016085514"
   },
   {
@@ -261,6 +267,11 @@
     "name": "MB Euro būstas",
     "code": "306341627",
     "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+  },
+  {
+    "name": "MB Gražus būstas",
+    "code": "307018826",
+    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Darbėnų pl. 11-6, LT-97196"
   },
   {
     "name": "MB Idėjų būstas",
@@ -339,12 +350,6 @@
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
   },
   {
-    "name": "UAB \"Armario būstas\"",
-    "code": "304215131",
-    "address": "Klaipėda, Deimės g. 2-1, LT-93184",
-    "vatcode": "LT100010486717"
-  },
-  {
     "name": "UAB \"Aukštabalio būstas\"",
     "code": "302584158",
     "address": "Vilnius, Eduardo Andrė g. 18, LT-02232"
@@ -369,7 +374,7 @@
   {
     "name": "UAB \"Ekonomiškas būstas\"",
     "code": "303283161",
-    "address": "Ignalinos r. sav., Ignalinos sen., Palūšės k., Pašakarvio g. 19, LT-30202"
+    "address": "Vilniaus r. sav., Riešės sen., Pikeliškių k., Ramunių g. 18, LT-15145"
   },
   {
     "name": "UAB \"Eurošilumos būstas\"",
@@ -542,11 +547,6 @@
     "address": "Klaipėda, Minijos g. 39, LT-91207"
   },
   {
-    "name": "UAB \"Skandinaviškas būstas\"",
-    "code": "303122329",
-    "address": "Klaipėda, Taikos pr. 24-13, LT-91222"
-  },
-  {
     "name": "UAB \"Tavo būstas\"",
     "code": "303119023",
     "address": "Vilniaus miesto savivaldybės teritorija"
@@ -602,7 +602,7 @@
   {
     "name": "UAB \"YIT Lietuva būstas\"",
     "code": "274935280",
-    "address": "Vilnius, Viršuliškių skg. 34-1, LT-05132",
+    "address": "Vilnius, Spaudos g. 7, LT-05132",
     "vatcode": "LT749352811"
   },
   {
@@ -740,7 +740,7 @@
     "address": "Kaunas, Miško g. 30-25, LT-44313"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"PANEVĖŽIO BŪSTAS\"",
+    "name": "Uždaroji akcinė bendrovė \"Panevėžio būstas\"",
     "code": "147146333",
     "address": "Panevėžys, Nemuno g. 31D, LT-37165",
     "vatcode": "LT471463314"
@@ -1261,6 +1261,11 @@
     "vatcode": "LT100006562119"
   },
   {
+    "name": "UAB Vilniaus būsto ranga",
+    "code": "306348479",
+    "address": "Šalčininkų r. sav., Pabarės sen., Pabarės k., Ipolito Jundzilo g. 39-5, LT-17201"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"BŪSTO SPRENDIMAI\"",
     "code": "160001684",
     "address": "Kaunas, P. Kalpoko g. 11, LT-44146",
@@ -1297,11 +1302,6 @@
     "name": "A. Gudelio įmonė \"BŪSTODARA\"",
     "code": "124322110",
     "address": "Vilnius, Gelvonų g. 59-46, LT-07135"
-  },
-  {
-    "name": "UAB Būstoranga",
-    "code": "306348479",
-    "address": "Šalčininkų r. sav., Pabarės sen., Pabarės k., Ipolito Jundzilo g. 39-5, LT-17201"
   },
   {
     "name": "MB \"Grožis būstui\"",

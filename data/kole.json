@@ -49,12 +49,6 @@
     "address": "Kaunas, Eivenių g. 2, LT-50161"
   },
   {
-    "name": "Marijampolės kolegija",
-    "code": "211967140",
-    "address": "Marijampolė, P. Armino g. 92-4, LT-68125",
-    "vatcode": "LT119671416"
-  },
-  {
     "name": "Panevėžio kolegija",
     "code": "111968437",
     "address": "Panevėžys, Laisvės a. 23, LT-35200"
@@ -172,11 +166,6 @@
     "vatcode": "LT100013901312"
   },
   {
-    "name": "Kauno technikos kolegijos darbuotojų profesinė sąjunga",
-    "code": "135619465",
-    "address": "Kaunas, Tvirtovės al. 35, LT-50155"
-  },
-  {
     "name": "Klaipėdos valstybinės kolegijos Alumni klubas",
     "code": "302597173",
     "address": "Klaipėda, Jaunystės g. 1, LT-91274"
@@ -195,6 +184,11 @@
     "name": "Lietuvos demokratiškumo ugdymo kolegijos filialas Vaikų dienos centras \"Navininkai\"",
     "code": "300631381",
     "address": "Trakų r. sav., Aukštadvaris, Dariaus ir Girėno g. 6, LT-21253"
+  },
+  {
+    "name": "Lietuvos inžinerijos kolegijos profesinė sąjunga",
+    "code": "135619465",
+    "address": "Kaunas, Tvirtovės al. 35, LT-50155"
   },
   {
     "name": "Lietuvos verslo kolegijos Alumni klubas",
@@ -356,11 +350,6 @@
     "name": "Vaidučio Kolegos įmonė",
     "code": "174389859",
     "address": "Šakių r. sav., Lukšiai, Pergalės g. 1-1, LT-71177"
-  },
-  {
-    "name": "Viešoji įstaiga \"Jūsų kolegos\"",
-    "code": "134863032",
-    "address": "Kaunas, Studentų g. 63A, LT-51369"
   },
   {
     "name": "UAB \"Kolegėlės\"",
@@ -529,7 +518,8 @@
   {
     "name": "Perspektyvus kolektyvas MB",
     "code": "306168310",
-    "address": "Vilnius, Birželio 23-iosios g. 10A-27, LT-03205"
+    "address": "Vilnius, Birželio 23-iosios g. 10A-27, LT-03205",
+    "vatcode": "LT100017246017"
   },
   {
     "name": "Tautinių šokių kolektyvas \"Žaltytis\"",
@@ -605,8 +595,7 @@
   {
     "name": "UAB Auto Koler",
     "code": "145600164",
-    "address": "Klaipėda, Gedminų g. 4-28, LT-94168",
-    "vatcode": "LT456001610"
+    "address": "Klaipėda, Gedminų g. 4-28, LT-94168"
   },
   {
     "name": "UAB \"Koleris\"",

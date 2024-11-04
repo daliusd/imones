@@ -67,11 +67,6 @@
     "address": "Raseinių r. sav., Raseinių sen., Rakavos k."
   },
   {
-    "name": "Kupiškio rajono susivienijimo \"Sodai\" individuali prekybos įmonė",
-    "code": "164715178",
-    "address": "Kupiškis, Lauryno Stuokos-Gucevičiaus a. 1"
-  },
-  {
     "name": "Lietuvos sodininkų draugijos Kauno susivienijimo \"Sodai\" individuali prekybos įmonė",
     "code": "132678063",
     "address": "Kaunas, Savanorių pr. 304-2, LT-49453"
@@ -195,6 +190,11 @@
     "name": "Sodininkų bendrija \"Geluvos sodai\"",
     "code": "301145585",
     "address": "Šiaulių r. sav., Bubių sen., Maskvytės k., Jurginų g. 32, LT-80163"
+  },
+  {
+    "name": "Sodininkų bendrija \"Kisinių sodai\"",
+    "code": "163688123",
+    "address": "Klaipėdos r. sav., Dovilų sen., Kisinių k."
   },
   {
     "name": "Sodininkų bendrija \"Kvėdarnos sodai\"",
@@ -341,8 +341,7 @@
   {
     "name": "UAB Maisto sodai",
     "code": "305937784",
-    "address": "Vilnius, Šeimyniškių g. 23-309, LT-09236",
-    "vatcode": "LT100014637219"
+    "address": "Vilnius, Šeimyniškių g. 23-309, LT-09236"
   },
   {
     "name": "UAB Partnerių sodai",
@@ -395,7 +394,8 @@
   {
     "name": "VšĮ Kalbantys sodai",
     "code": "305571739",
-    "address": "Šilutės r. sav., Juknaičių sen., Juknaičių k., Akmenų g. 10, LT-99332"
+    "address": "Šilutės r. sav., Juknaičių sen., Juknaičių k., Akmenų g. 10, LT-99332",
+    "vatcode": "LT100017214816"
   },
   {
     "name": "Zarasų rajono susivienijimas \"Sodai\"",
@@ -460,6 +460,11 @@
     "name": "A. Kulikausko įmonė \"MINČIŲ SODAS\"",
     "code": "124459162",
     "address": "Vilnius, Varpų g. 4A, LT-01208"
+  },
+  {
+    "name": "Barbariškio meno ir kultūros sodas",
+    "code": "307009859",
+    "address": "Rokiškio r. sav., Kriaunų sen., Bajorų k., Barbariškio g. 12, LT-42250"
   },
   {
     "name": "Daugiabučio gyvenamojo namo savininkų bendrija \"Naujasis sodas\"",
@@ -630,7 +635,8 @@
   {
     "name": "MB Žinių sodas",
     "code": "306053991",
-    "address": "Vilnius, Žirgo g. 2-7, LT-10221"
+    "address": "Vilnius, Žirgo g. 2-7, LT-10221",
+    "vatcode": "LT100017248518"
   },
   {
     "name": "Mažoji bendrija Budos sodas",

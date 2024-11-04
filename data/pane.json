@@ -921,6 +921,11 @@
     "address": "Panevėžys, Respublikos g. 47, LT-35170"
   },
   {
+    "name": "PANEVĖŽIO KETURRAČIŲ KLUBAS BEBRAI",
+    "code": "307014361",
+    "address": "Panevėžio r. sav., Paįstrio sen., Paįstrio k., Baltijos Kelio g. 80, LT-38432"
+  },
+  {
     "name": "PANEVĖŽIO KLUBAS \"DVIRAČIAI\"",
     "code": "300009970",
     "address": "Panevėžys, Parko g. 7-81, LT-35189"
@@ -1147,7 +1152,7 @@
   {
     "name": "Panevėžio Gamtininkų vietos bendruomenė",
     "code": "303006374",
-    "address": "Panevėžys, Gamtininkų skg. 2, LT-37451"
+    "address": "Panevėžio miesto savivaldybės teritorija"
   },
   {
     "name": "Panevėžio HIDROPLANAS, UAB",
@@ -1646,11 +1651,6 @@
     "address": "Panevėžys, Žibučių g. 15, LT-37461"
   },
   {
-    "name": "Panevėžio krepšinio klubas \"Strėlės\"",
-    "code": "148340679",
-    "address": "Panevėžys, Vilties g. 5-5, LT-35132"
-  },
-  {
     "name": "Panevėžio krepšinio klubas \"Turbo\"",
     "code": "148499126",
     "address": "Panevėžys, Staniūnų g. 33A-36, LT-36120"
@@ -1946,11 +1946,6 @@
     "address": "Panevėžys, Taikos al. 11, LT-35148"
   },
   {
-    "name": "Panevėžio miesto pagyvenusių žmonių bendrija",
-    "code": "300579422",
-    "address": "Panevėžys, Nevėžio g. 38, LT-35107"
-  },
-  {
     "name": "Panevėžio miesto savivaldybės administracija",
     "code": "288724610",
     "address": "Panevėžys, Laisvės a. 20, LT-35200"
@@ -1999,11 +1994,6 @@
     "name": "Panevėžio miško darbuotojų profesinė sąjunga",
     "code": "304081643",
     "address": "Panevėžys, Parko g. 32, LT-37188"
-  },
-  {
-    "name": "Panevėžio mišrus choras \"Godos\"",
-    "code": "148536681",
-    "address": "Panevėžys, Žalgirio g. 17, LT-37465"
   },
   {
     "name": "Panevėžio moksleivių namai",
@@ -2248,7 +2238,7 @@
   {
     "name": "Panevėžio rajono Lepšių bendruomenė",
     "code": "304876378",
-    "address": "Panevėžio r. sav., Panevėžio sen., Lepšių k., Opstainės g. 1, LT-36246"
+    "address": "Panevėžio r. sav., Panevėžio sen., Pažagienių k., Švyturio g. 31, LT-36222"
   },
   {
     "name": "Panevėžio rajono Liberiškio žemės ūkio bendrovė",
@@ -2920,11 +2910,6 @@
     "address": "Rokiškis, Panevėžio g. 14-39, LT-42158"
   },
   {
-    "name": "SIA \"RIKTA V\" Panevėžio filialas",
-    "code": "300066811",
-    "address": "Panevėžys, Tinklų g. 51, LT-35115"
-  },
-  {
     "name": "Septintosios dienos adventistų bažnyčios Panevėžio bendruomenė",
     "code": "291744320",
     "address": "Panevėžys, A. Jakšto g. 2, LT-35138"
@@ -2994,11 +2979,6 @@
     "code": "302493687",
     "address": "Panevėžio r. sav., Miežiškių sen., Vaideginės k. 5A, LT-38137",
     "vatcode": "LT100005311217"
-  },
-  {
-    "name": "UAB \"PANEVĖŽIO KETUS\" profesinė sąjunga",
-    "code": "148519618",
-    "address": "Panevėžys, Senamiesčio g. 109, LT-35115"
   },
   {
     "name": "UAB \"PANEVĖŽIO LYTAGRA\"",
@@ -3242,12 +3222,6 @@
     "vatcode": "LT474833413"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"PANEVĖŽIO BŪSTAS\"",
-    "code": "147146333",
-    "address": "Panevėžys, Nemuno g. 31D, LT-37165",
-    "vatcode": "LT471463314"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"PANEVĖŽIO FONAS\"",
     "code": "147647547",
     "address": "Panevėžys, Darbo a. 5, LT-35220",
@@ -3325,14 +3299,15 @@
     "vatcode": "LT100006979212"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Panevėžio būstas\"",
+    "code": "147146333",
+    "address": "Panevėžys, Nemuno g. 31D, LT-37165",
+    "vatcode": "LT471463314"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Panevėžio medicinos reikmenys\"",
     "code": "147815443",
     "address": "Panevėžys, V. Kudirkos g. 4, LT-35201"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Panevėžio veislininkystė\"",
-    "code": "168559278",
-    "address": "Panevėžio r. sav., Naujamiesčio sen., Algirdiškio k., Šiaulių g. 53, LT-38355"
   },
   {
     "name": "Uždaroji akcinė bendrovė PANEVĖŽIO BUITINĖ TECHNIKA",
@@ -3519,6 +3494,11 @@
     "address": "Panevėžys, Vasario 16-osios g. 8, LT-35174"
   },
   {
+    "name": "Vilniaus miesto Daugiabučio gyvenamojo namo Panevėžio g. 23 savininkų bendrija \"Naujystė\"",
+    "code": "307005939",
+    "address": "Vilnius, Panevėžio g. 23-14, LT-02165"
+  },
+  {
     "name": "VŠĮ \"PAGALBOS CENTRAS\" Panevėžio skyrius",
     "code": "302621959",
     "address": "Panevėžys, Liepų al. 7-1, LT-35140"
@@ -3584,6 +3564,11 @@
     "name": "VšĮ Panevėžio saugaus eismo centras",
     "code": "301767605",
     "address": "Panevėžys, Beržų g. 45-65, LT-36139"
+  },
+  {
+    "name": "VšĮ Panevėžio stalo teniso klubas",
+    "code": "307002099",
+    "address": "Panevėžys, Klaipėdos g. 25-301, LT-35213"
   },
   {
     "name": "VšĮ Respublikinės Panevėžio ligoninės darbuotojų profesinė sąjunga",

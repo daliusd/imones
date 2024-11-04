@@ -44,11 +44,6 @@
     "address": "Alytus, Vytenio g. 6, LT-62235"
   },
   {
-    "name": "Gee Serve, UAB",
-    "code": "302723088",
-    "address": "Vilnius, Palangos g. 4, LT-01402"
-  },
-  {
     "name": "MB Fly Serve",
     "code": "306686527",
     "address": "Vilnius, Ūmėdžių g. 66A-60, LT-02301"
@@ -237,6 +232,11 @@
     "vatcode": "LT100013303119"
   },
   {
+    "name": "Baltic industry service, UAB",
+    "code": "307019999",
+    "address": "Kaunas, Kęstučio g. 60-2, LT-44304"
+  },
+  {
     "name": "Baltic safety service group MB",
     "code": "305836205",
     "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Jonušų k., Anso Lymanto g. 25, LT-96173"
@@ -251,6 +251,12 @@
     "code": "110538660",
     "address": "Vilnius, Savanorių pr. 119, LT-03150",
     "vatcode": "LT100000022811"
+  },
+  {
+    "name": "Boat service, MB",
+    "code": "307002131",
+    "address": "Kauno r. sav., Samylų sen., Šlienavos k., Nemuno g. 64, LT-53146",
+    "vatcode": "LT100017236918"
   },
   {
     "name": "Brothers service MB",
@@ -895,7 +901,8 @@
   {
     "name": "MB KC service",
     "code": "306985650",
-    "address": "Kauno r. sav., Linksmakalnio sen., Linksmakalnio k., Žalioji g. 9-8, LT-53291"
+    "address": "Kauno r. sav., Linksmakalnio sen., Linksmakalnio k., Žalioji g. 9-8, LT-53291",
+    "vatcode": "LT100017276715"
   },
   {
     "name": "MB MM Service",
@@ -917,11 +924,6 @@
     "name": "MB Mincargo service",
     "code": "306390670",
     "address": "Vilnius, Nidos g. 2-19, LT-06293"
-  },
-  {
-    "name": "MB N&L SERVICE",
-    "code": "306026859",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "MB NDL Service",
@@ -1111,6 +1113,11 @@
     "vatcode": "LT100003363118"
   },
   {
+    "name": "Select Service Partner Lithuania UAB",
+    "code": "307018961",
+    "address": "Vilnius, Vito Gerulaičio g. 10-101, LT-08200"
+  },
+  {
     "name": "Service State, UAB",
     "code": "302632927",
     "address": "Vilniaus r. sav., Avižienių sen., Saldenės k., Gervių g. 11, LT-14186",
@@ -1256,15 +1263,9 @@
     "vatcode": "LT100011555817"
   },
   {
-    "name": "UAB \"BALTPACK SERVICE\"",
-    "code": "302932764",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
-  },
-  {
     "name": "UAB \"BASIS OF SERVICE\"",
     "code": "111733955",
-    "address": "Vilnius, Taikos g. 95-19, LT-05200",
-    "vatcode": "LT100011015915"
+    "address": "Vilnius, Taikos g. 95-19, LT-05200"
   },
   {
     "name": "UAB \"BGC service\"",
@@ -1821,11 +1822,6 @@
     "vatcode": "LT100015197418"
   },
   {
-    "name": "UAB \"Laguna maretime service\"",
-    "code": "300111199",
-    "address": "Klaipėda, Danės g. 15, LT-92117"
-  },
-  {
     "name": "UAB \"Landscaping service\"",
     "code": "302452936",
     "address": "Širvintų r. sav., Musninkų sen., Pigašių k., Girios g. 1, LT-19181",
@@ -2134,10 +2130,6 @@
     "vatcode": "LT100007302612"
   },
   {
-    "name": "UAB \"SGM Service\"",
-    "code": "305540163"
-  },
-  {
     "name": "UAB \"SICK SERVICE\"",
     "code": "300628022",
     "address": "Vilnius, Geležinė g. 15, LT-11351"
@@ -2355,7 +2347,7 @@
   {
     "name": "UAB \"West Baltic service\"",
     "code": "306147693",
-    "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Mėtų g. 5, LT-91289",
+    "address": "Šilutės r. sav., Kintų sen., Sakūčių k., Tilto g. 3, LT-99357",
     "vatcode": "LT100015882313"
   },
   {
@@ -2586,11 +2578,6 @@
     "vatcode": "LT100016430916"
   },
   {
-    "name": "UAB INTERAIR SERVICE",
-    "code": "302788132",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "UAB Industry service",
     "code": "304521224",
     "address": "Skuodo r. sav., Skuodo sen., Daukšių k., Sodų g. 2, LT-98290",
@@ -2656,6 +2643,11 @@
     "code": "302814552",
     "address": "Vilnius, Dzūkų g. 21-82, LT-02161",
     "vatcode": "LT100008550217"
+  },
+  {
+    "name": "UAB Omni Stage Service",
+    "code": "307007363",
+    "address": "Vilnius, Taurupės g. 14, LT-06296"
   },
   {
     "name": "UAB Oneplace Service",
@@ -2995,7 +2987,8 @@
   {
     "name": "A&S Services, MB",
     "code": "306689587",
-    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Naujoji g. 1A, LT-97157"
+    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Naujoji g. 1A, LT-97157",
+    "vatcode": "LT100017254613"
   },
   {
     "name": "A. J. Cater įmonė \"BRITBALT FINANCIAL SERVICES\"",
@@ -3288,8 +3281,7 @@
   {
     "name": "Gotewo Nordic Services UAB",
     "code": "306283490",
-    "address": "Kaunas, V. Krėvės pr. 113-15, LT-50375",
-    "vatcode": "LT100016356015"
+    "address": "Kaunas, V. Krėvės pr. 113-15, LT-50375"
   },
   {
     "name": "Hallo Healthcare Business Services UAB",
@@ -3390,6 +3382,11 @@
     "name": "MB \"A Squared Services and Supplies\"",
     "code": "306262083",
     "address": "Vilnius, Girulių g. 5, LT-12124"
+  },
+  {
+    "name": "MB \"A&K Services\"",
+    "code": "307011162",
+    "address": "Klaipėda, Debreceno g. 92-10, LT-94156"
   },
   {
     "name": "MB \"AHH Recruitment Services\"",
@@ -3611,6 +3608,11 @@
     "name": "MB ACCOUNTING SERVICES",
     "code": "306995769",
     "address": "Šiauliai, Vytauto g. 147-18, LT-76341"
+  },
+  {
+    "name": "MB ADV services",
+    "code": "307005145",
+    "address": "Raseinių r. sav., Pagojukų sen., Skirmantiškės k., Dubysos g. 16, LT-60473"
   },
   {
     "name": "MB AI Services",
@@ -3926,6 +3928,11 @@
     "address": "Vilnius, Žalgirio g. 90-100, LT-09303"
   },
   {
+    "name": "North Ship Services, UAB",
+    "code": "307006126",
+    "address": "Klaipėda, Naujakiemio g. 26, LT-94192"
+  },
+  {
     "name": "Orakulas Services, UAB",
     "code": "304530910",
     "address": "Vilnius, Konstitucijos pr. 12, LT-09308",
@@ -4001,6 +4008,11 @@
     "address": "Vilnius, Laisvės pr. 83-410, LT-06123"
   },
   {
+    "name": "RoyaltyRange Services, UAB",
+    "code": "302938817",
+    "address": "Vilnius, Dariaus ir Girėno g. 42-1, LT-02188"
+  },
+  {
     "name": "SERVICES LT MB",
     "code": "303028470",
     "address": "Klaipėda, Sportininkų g. 24-26, LT-92262",
@@ -4030,6 +4042,11 @@
     "name": "SP Corporate Services UAB",
     "code": "302790329",
     "address": "Vilnius, A. Juozapavičiaus g. 3-9, LT-09310"
+  },
+  {
+    "name": "SPSS Worldcargo Services, UAB",
+    "code": "307005095",
+    "address": "Vilnius, A. Goštauto g. 8-224, LT-01108"
   },
   {
     "name": "SUPA FINANCIAL SERVICES, UAB",
@@ -4121,7 +4138,8 @@
   {
     "name": "UAB \"ALS Customs Services\"",
     "code": "306647104",
-    "address": "Vilnius, Metelių g. 12, LT-02236"
+    "address": "Vilnius, Metelių g. 12, LT-02236",
+    "vatcode": "LT100017205817"
   },
   {
     "name": "UAB \"ASECO CONTAINER SERVICES\"",
@@ -4247,10 +4265,6 @@
     "address": "Vilnius, Perkūnkiemio g. 13-25B, LT-12114"
   },
   {
-    "name": "UAB \"Control services\"",
-    "code": "305631175"
-  },
-  {
     "name": "UAB \"Credit Consulting Services\"",
     "code": "302314255",
     "address": "Kaunas, K. Būgos g. 1, LT-44355"
@@ -4287,6 +4301,11 @@
     "name": "UAB \"EUROPEAN SERVICES\"",
     "code": "300533574",
     "address": "Klaipėda, Priestočio g. 1A-2, LT-92228"
+  },
+  {
+    "name": "UAB \"Enerheads services\"",
+    "code": "307010270",
+    "address": "Vilnius, Mozūriškių g. 108, LT-06298"
   },
   {
     "name": "UAB \"Extra Services\"",
@@ -4794,11 +4813,6 @@
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
   },
   {
-    "name": "UAB IMG Services and Consulting",
-    "code": "305578267",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
-  },
-  {
     "name": "UAB ITech Services",
     "code": "306155804",
     "address": "Vilnius, J. Basanavičiaus g. 16-36, LT-03224",
@@ -4958,11 +4972,6 @@
     "address": "Vilnius, A. Goštauto g. 8-112, LT-01108"
   },
   {
-    "name": "UAB Rapid Informatic Media and Communication Services",
-    "code": "305758742",
-    "address": "Vilnius, Treniotos g. 4, LT-08121"
-  },
-  {
     "name": "UAB Real estate Baltic services",
     "code": "305914718",
     "address": "Vilnius, Švitrigailos g. 7, LT-03110"
@@ -4981,7 +4990,8 @@
   {
     "name": "UAB Services Optimization Stobbe",
     "code": "306345508",
-    "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194"
+    "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194",
+    "vatcode": "LT100017278711"
   },
   {
     "name": "UAB Services and innovations",
@@ -5245,6 +5255,11 @@
     "name": "MB S 282 SERVIS",
     "code": "306060249",
     "address": "Kauno r. sav., Domeikavos sen., Šakių k., Tvenkinių g. 8A-54, LT-47413"
+  },
+  {
+    "name": "MB Ure servis",
+    "code": "307017998",
+    "address": "Vilnius, Karaliaučiaus g. 28-172, LT-06263"
   },
   {
     "name": "Mažoji bendrija \"Kossta servis\"",
@@ -5621,8 +5636,7 @@
   {
     "name": "MB \"AR46 Servisas\"",
     "code": "305616789",
-    "address": "Klaipėda, Dragūnų g. 6-40, LT-92331",
-    "vatcode": "LT100013372313"
+    "address": "Klaipėda, Dragūnų g. 6-40, LT-92331"
   },
   {
     "name": "MB \"Adm servisas\"",
@@ -5780,7 +5794,7 @@
   {
     "name": "MB \"Mėmelio servisas\"",
     "code": "305144139",
-    "address": "Klaipėda, Mechanizacijos g. 4, LT-93233"
+    "address": "Klaipėda, Balandžių g. 3-2, LT-91188"
   },
   {
     "name": "MB \"Odontologijos servisas\"",
@@ -5956,6 +5970,11 @@
     "name": "MB Automobilių servisas",
     "code": "304065105",
     "address": "Vilkaviškis, Nepriklausomybės g. 62-13, LT-70183"
+  },
+  {
+    "name": "MB BBT Servisas",
+    "code": "307005049",
+    "address": "Klaipėda, Kretingos g. 58A-2, LT-92325"
   },
   {
     "name": "MB Baltgastro servisas",
@@ -6223,12 +6242,6 @@
     "address": "Vilnius, Dariaus Gerbutavičiaus g. 1-113, LT-04318"
   },
   {
-    "name": "MB servisas \"Prius\"",
-    "code": "304059892",
-    "address": "Vilnius, Verkių g. 32, LT-08221",
-    "vatcode": "LT100009714410"
-  },
-  {
     "name": "MB servisas \"Sakla\"",
     "code": "305173639",
     "address": "Palanga, Medžiotojų g. 24, LT-00132"
@@ -6308,7 +6321,7 @@
   {
     "name": "UAB \"AUTODINOS SERVISAS LT\"",
     "code": "305431484",
-    "address": "Vilnius, T. Ševčenkos g. 16A, LT-03111",
+    "address": "Vilnius, T. Ševčenkos g. 16A-132, LT-03111",
     "vatcode": "LT100012904019"
   },
   {
@@ -6403,12 +6416,6 @@
     "code": "305911095",
     "address": "Prienai, F. Martišiaus g. 76B, LT-59119",
     "vatcode": "LT100014427017"
-  },
-  {
-    "name": "UAB \"Autodecor servisas\"",
-    "code": "306143143",
-    "address": "Vilnius, Pilkalnio g. 14-2, LT-06232",
-    "vatcode": "LT100015287518"
   },
   {
     "name": "UAB \"Autoera servisas\"",
@@ -6642,7 +6649,7 @@
   {
     "name": "UAB \"Energetikos servisas\"",
     "code": "302591195",
-    "address": "Visaginas, Jaunystės g. 21-4A, LT-31230",
+    "address": "Vilnius, Fabijoniškių g. 3B-81, LT-07130",
     "vatcode": "LT100005915016"
   },
   {
@@ -6803,11 +6810,6 @@
     "address": "Vilnius, Vytenio g. 9-101, LT-03113"
   },
   {
-    "name": "UAB \"Industrinių dažų servisas\"",
-    "code": "304466468",
-    "address": "Klaipėda, Dragūnų g. 6-40, LT-92331"
-  },
-  {
     "name": "UAB \"Informacinių technologijų servisas\"",
     "code": "126389296",
     "address": "Vilniaus miesto savivaldybės teritorija"
@@ -6843,7 +6845,7 @@
   {
     "name": "UAB \"KRANŲ SERVISAS\"",
     "code": "125517152",
-    "address": "Vilnius, Eišiškių pl. 38"
+    "address": "Akmenės r. sav., Venta, Bausko g. 7-49E, LT-85327"
   },
   {
     "name": "UAB \"Katilų servisas 24/7\"",
@@ -6904,8 +6906,7 @@
   {
     "name": "UAB \"Komforto servisas\"",
     "code": "304041912",
-    "address": "Vilnius, Gėlių g. 5, LT-01137",
-    "vatcode": "LT100009442619"
+    "address": "Vilnius, Gėlių g. 5, LT-01137"
   },
   {
     "name": "UAB \"Komotos servisas\"",
@@ -7160,7 +7161,8 @@
   {
     "name": "UAB \"Pg servisas\"",
     "code": "303164883",
-    "address": "Vilnius, Gedimino pr. 20, LT-01103"
+    "address": "Vilnius, Gedimino pr. 20, LT-01103",
+    "vatcode": "LT100008094610"
   },
   {
     "name": "UAB \"Pilaitės servisas\"",
@@ -7302,11 +7304,6 @@
     "code": "303369169",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
     "vatcode": "LT100010971418"
-  },
-  {
-    "name": "UAB \"Sigma servisas\"",
-    "code": "304281074",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "UAB \"Sistemų servisas\"",
@@ -8048,11 +8045,6 @@
     "address": "Vilnius, Mūrinės Vokės g. 7-3, LT-25140"
   },
   {
-    "name": "UAB \"Serviseta\"",
-    "code": "304403215",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
-  },
-  {
     "name": "MB Servisfera",
     "code": "305725984",
     "address": "Panevėžio r. sav., Velžio sen., Staniūnų k., Naujakurių g. 5, LT-38121"
@@ -8288,7 +8280,7 @@
   {
     "name": "V. Servos individuali įmonė",
     "code": "141571886",
-    "address": "Klaipėda, Minijos g. 129-111, LT-93212"
+    "address": "Klaipėdos miesto savivaldybės teritorija"
   },
   {
     "name": "UAB \"Servtechnika\"",

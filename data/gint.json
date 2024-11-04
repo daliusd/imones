@@ -116,6 +116,11 @@
     "address": "Kaunas, Kapsų g. 111A, LT-44139"
   },
   {
+    "name": "MB Jurgitos gintarai",
+    "code": "306137350",
+    "address": "Prienai, Jaunystės g. 1A, LT-59115"
+  },
+  {
     "name": "UAB \"Devyni gintarai\"",
     "code": "142051721",
     "address": "Klaipėda, Plieno g. 4, LT-95112",
@@ -345,7 +350,8 @@
   {
     "name": "MB Gintariniai vakarai",
     "code": "306314427",
-    "address": "Kretinga, Savanorių g. 41-38, LT-97112"
+    "address": "Kretinga, Savanorių g. 41-38, LT-97112",
+    "vatcode": "LT100017260910"
   },
   {
     "name": "UAB \"GINTARINIAI EŽERAI\"",
@@ -364,11 +370,6 @@
     "code": "126189057",
     "address": "Vilnius, A. Juozapavičiaus g. 10, LT-09311",
     "vatcode": "LT100005111719"
-  },
-  {
-    "name": "VšĮ \"Gintariniai Spinduliai\"",
-    "code": "305644607",
-    "address": "Marijampolės sav., Liudvinavo sen., Netičkampio k., Narto g. 3, LT-69159"
   },
   {
     "name": "VšĮ \"Gintariniai žirgai\"",
@@ -520,11 +521,6 @@
     "name": "Klaipėdos miesto bėgimo sporto klubas \"Gintarinė jūrmylė\"",
     "code": "193176164",
     "address": "Klaipėda, Smiltynės g. 13, LT-93100"
-  },
-  {
-    "name": "L. Vidiakinos turizmo agentūra \"Gintarinė Evelina\"",
-    "code": "240461480",
-    "address": "Klaipėda, Liepų g. 49-17, LT-92191"
   },
   {
     "name": "Labdaros ir paramos fondas \"Gintarinė žara\"",
@@ -974,11 +970,6 @@
     "vatcode": "LT447645314"
   },
   {
-    "name": "Gintaro Padrėzo įmonė",
-    "code": "159427142",
-    "address": "Kaišiadorių r. sav., Kaišiadorių apylinkės sen., Gudienos k., Pievų g. 11, LT-56113"
-  },
-  {
     "name": "Gintaro Palaimos individuali įmonė",
     "code": "122489769",
     "address": "Trakai, Naujoji g. 11, LT-21111"
@@ -1059,7 +1050,7 @@
   {
     "name": "Gintaro Sviderskio veterinarijos įmonė",
     "code": "169168460",
-    "address": "Pasvalio r. sav., Daujėnai"
+    "address": "Pasvalio r. sav., Daujėnai, Dirbtuvių g. 1, LT-39207"
   },
   {
     "name": "Gintaro Trepenaičio firma \"Trega\"",
@@ -1261,11 +1252,6 @@
     "address": "Vilnius, Architektų g. 40-60, LT-04122"
   },
   {
-    "name": "MB \"Gintaro santechnika\"",
-    "code": "304484352",
-    "address": "Jurbarko r. sav., Raudonės sen., Raudonėnų k., Raudonėnų g. 50, LT-74446"
-  },
-  {
     "name": "MB \"Gintaro technika\"",
     "code": "306287631",
     "address": "Elektrėnų sav., Elektrėnų sen., Abromiškių k., Vilties g. 1, LT-26130"
@@ -1290,7 +1276,8 @@
   {
     "name": "MB Gintaro stogai",
     "code": "306109073",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100017213717"
   },
   {
     "name": "MB Gintaro studija",
@@ -2167,11 +2154,6 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
-    "name": "Mažoji bendrija \"Gintauto reisai\"",
-    "code": "304722355",
-    "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Šlapšilės k., Rūko g. 2, LT-96171"
-  },
-  {
     "name": "Tikroji profesinė ūkinė bendrija \"D. Gintauto ir partnerių juridinė kontora\"",
     "code": "232140980",
     "address": "Kaunas, A. Mickevičiaus g. 8-75, LT-44312"
@@ -2487,6 +2469,11 @@
     "name": "G. Šlefendoro firma \"GINTOPAS\"",
     "code": "122825180",
     "address": "Vilnius, Tyzenhauzų g. 19B-28, LT-02106"
+  },
+  {
+    "name": "MB Gintpro",
+    "code": "307016661",
+    "address": "Kėdainių r. sav., Josvainiai, Kėdainių g. 37, LT-58189"
   },
   {
     "name": "Futbolo klubas \"Gintra\"",

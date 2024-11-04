@@ -138,14 +138,14 @@
     "address": "Vilnius, Vingrių g. 5B-8, LT-01141"
   },
   {
+    "name": "Klaipėdos krašto vystymo kompanija, UAB",
+    "code": "307007491",
+    "address": "Vilnius, Vingrių g. 15-11, LT-01141"
+  },
+  {
     "name": "MB \"Adele kompanija\"",
     "code": "304781745",
     "address": "Kazlų Rūda, S. Daukanto g. 19-5, LT-69430"
-  },
-  {
-    "name": "MB \"Eksimo\" prekybos kompanija",
-    "code": "304714337",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
   },
   {
     "name": "MB \"Kepurė ir kompanija\"",
@@ -163,6 +163,11 @@
     "code": "306318781",
     "address": "Kauno r. sav., Karmėlavos sen., Narėpų k., Garažų g. 2, LT-54470",
     "vatcode": "LT100016244116"
+  },
+  {
+    "name": "MB \"Nedo kompanija\"",
+    "code": "307007235",
+    "address": "Vilnius, Šeškinės Sodų 3-ioji g. 21, LT-08343"
   },
   {
     "name": "MB \"Nikolas ir kompanija\"",
@@ -484,10 +489,6 @@
     "name": "UAB Europos auditorių kompanija",
     "code": "304099698",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "UAB Ingos kompanija",
-    "code": "304744889"
   },
   {
     "name": "UAB Jūros dugno gilinimo kompanija",
@@ -1157,8 +1158,7 @@
   {
     "name": "UAB BIZNIO MAŠINŲ KOMPANIJOS KOPIJAVIMO CENTRAS",
     "code": "125252832",
-    "address": "Vilnius, Igno Šimulionio g. 5-93, LT-04330",
-    "vatcode": "LT252528314"
+    "address": "Vilnius, Igno Šimulionio g. 5-93, LT-04330"
   },
   {
     "name": "UAB TOLIMOJO KELEIVINIO TRANSPORTO KOMPANIJOS NEPRIKLAUSOMA UŽMIESČIO VAIRUOTOJŲ PROFESINĖ SĄJUNGA",
@@ -1409,6 +1409,11 @@
     "address": "Kaunas, Šiaurės pr. 38-42, LT-49224"
   },
   {
+    "name": "MB Kompetencijų tobulinimo centras",
+    "code": "303422419",
+    "address": "Vilnius, Aguonų g. 6, LT-03213"
+  },
+  {
     "name": "Transporto kompetencijų agentūros darbuotojų profesinė sąjunga",
     "code": "305099441",
     "address": "Kaunas, I. Kanto g. 25, LT-44296"
@@ -1439,11 +1444,6 @@
     "name": "Viešosios įstaigos Vilniaus privačios gimnazijos filialas \"Šiuolaikinių inovacijų diegimo ir kompetencijų ugdymo centras\"",
     "code": "302672423",
     "address": "Vilnius, V. Grybo g. 7, LT-10313"
-  },
-  {
-    "name": "VšĮ \"Kompetencijų tobulinimo centras\"",
-    "code": "303422419",
-    "address": "Vilnius, Manufaktūrų g. 20-190, LT-11342"
   },
   {
     "name": "VšĮ \"Lietuvos kibernetinių nusikaltimų kompetencijų ir tyrimų centras\"",
@@ -1528,11 +1528,6 @@
     "name": "UAB \"Kompiuteka\"",
     "code": "304404790",
     "address": "Vilnius, Lvivo g. 89-32, LT-08104"
-  },
-  {
-    "name": "IĮ Kompiutera",
-    "code": "301359589",
-    "address": "Kaunas, Savanorių pr. 415-38, LT-49287"
   },
   {
     "name": "MB \"Kompiuterapija\"",
@@ -1653,6 +1648,11 @@
     "vatcode": "LT357854610"
   },
   {
+    "name": "MB \"Kažką su kompiuteriais\"",
+    "code": "307006585",
+    "address": "Vilnius, Girulių g. 10, LT-12112"
+  },
+  {
     "name": "Ričardo Cimalansko programinės įrangos sudarymo kompiuteriams įmonė \"Plius minus\"",
     "code": "157535596",
     "address": "Joniškis, Malūno g. 27, LT-84157",
@@ -1684,11 +1684,6 @@
     "code": "248432160",
     "address": "Panevėžys, J. Zikaro g. 3-4, LT-35211",
     "vatcode": "LT484321610"
-  },
-  {
-    "name": "MB \"Kompiuteriniai kursai\"",
-    "code": "304822117",
-    "address": "Švenčionių r. sav., Pabradė, Malūno g. 60, LT-18170"
   },
   {
     "name": "UAB \"KOMPIUTERINIAI PROJEKTAI\"",
@@ -1749,7 +1744,7 @@
   {
     "name": "MB \"Kompiuterinių sistemų grupė\"",
     "code": "303164456",
-    "address": "Kaunas, Taikos pr. 82A-25, LT-51276",
+    "address": "Kaunas, Draugystės g. 19D, LT-51231",
     "vatcode": "LT100009750810"
   },
   {
@@ -1916,11 +1911,6 @@
     "code": "305716024",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
     "vatcode": "LT100013948418"
-  },
-  {
-    "name": "MB Kompiuterių vaistinė",
-    "code": "304549316",
-    "address": "Vilnius, Fabijoniškių g. 21-41, LT-07121"
   },
   {
     "name": "MB Spausdintuvų ir kompiuterių priežiūros centras",
@@ -2254,8 +2244,7 @@
   {
     "name": "UAB \"Mikado komponentai\"",
     "code": "300051446",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Plikių mstl., Klaipėdos g. 23, LT-96231",
-    "vatcode": "LT100001203016"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Plikių mstl., Klaipėdos g. 23, LT-96231"
   },
   {
     "name": "UAB \"Pramoniniai automatikos komponentai\"",

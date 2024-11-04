@@ -147,6 +147,11 @@
     "address": "Klaipėda, Kuncų g. 2-51, LT-95248"
   },
   {
+    "name": "JUPA Turtas, UAB",
+    "code": "307014429",
+    "address": "Vilnius, Konstitucijos pr. 29-1, LT-08105"
+  },
+  {
     "name": "Kalvarijų turtas, UAB",
     "code": "305717838",
     "address": "Vilnius, Kareivių g. 2C, LT-08248",
@@ -230,7 +235,8 @@
   {
     "name": "MB \"Turtas Vilniuje\"",
     "code": "306874454",
-    "address": "Vilnius, Šeškinės Sodų g. 12-21, LT-08343"
+    "address": "Vilnius, Šeškinės Sodų g. 12-21, LT-08343",
+    "vatcode": "LT100017214614"
   },
   {
     "name": "MB \"Turtas investicijai\"",
@@ -278,6 +284,11 @@
     "name": "MB Jaunystės turtas",
     "code": "306151631",
     "address": "Vilnius, Jaunystės g. 114H, LT-14122"
+  },
+  {
+    "name": "MB Liūto turtas",
+    "code": "307015634",
+    "address": "Varėnos r. sav., Valkininkų sen., Užuperkasio k., Užuperkasio g. 18, LT-65443"
   },
   {
     "name": "MB NH nekilnojamasis turtas",
@@ -405,11 +416,6 @@
     "address": "Vilnius, Gurelių g. 95, LT-25124"
   },
   {
-    "name": "UAB \"AA Turtas\"",
-    "code": "301536609",
-    "address": "Vilnius, Pamėnkalnio g. 5-8, LT-01116"
-  },
-  {
     "name": "UAB \"AG turtas\"",
     "code": "304565815",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -498,11 +504,6 @@
     "code": "304069146",
     "address": "Vilnius, Lvivo g. 25-701, LT-09320",
     "vatcode": "LT100009660710"
-  },
-  {
-    "name": "UAB \"Beta turtas\"",
-    "code": "304233777",
-    "address": "Vilnius, Šeimyniškių g. 21D-18, LT-09236"
   },
   {
     "name": "UAB \"Bokšto turtas\"",
@@ -604,11 +605,6 @@
     "code": "306655738",
     "address": "Kaunas, Veiverių g. 51C, LT-46336",
     "vatcode": "LT100016610510"
-  },
-  {
-    "name": "UAB \"Gabijos turtas\"",
-    "code": "304102308",
-    "address": "Vilnius, Lazdynėlių g. 42, LT-04126"
   },
   {
     "name": "UAB \"Gama turtas\"",
@@ -1139,7 +1135,7 @@
   {
     "name": "UAB \"Turtas ir vertė\"",
     "code": "303397407",
-    "address": "Kaunas, Šiaurės pr. 36-80, LT-49225",
+    "address": "Kaunas, Kovo 11-osios g. 40A-14, LT-51319",
     "vatcode": "LT100011363212"
   },
   {
@@ -1172,7 +1168,7 @@
   {
     "name": "UAB \"Urantijos turtas\"",
     "code": "301700631",
-    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Kiparisų g. 13, LT-14262",
+    "address": "Vilnius, Kviečių g. 2-2, LT-08418",
     "vatcode": "LT100004088513"
   },
   {
@@ -1384,6 +1380,16 @@
     "address": "Panevėžys, Molainių g. 58-1, LT-37146"
   },
   {
+    "name": "UAB BA turtas",
+    "code": "307004125",
+    "address": "Vilnius, Rubikių g. 17, LT-08452"
+  },
+  {
+    "name": "UAB Bendras turtas",
+    "code": "307013836",
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+  },
+  {
     "name": "UAB DNT TURTAS",
     "code": "300071502",
     "address": "Klaipėdos r. sav., Kretingalės sen., Karklės k., Placio g. 1, LT-92383",
@@ -1412,10 +1418,20 @@
     "address": "Vilnius, Ozo g. 10A-10, LT-08200"
   },
   {
+    "name": "UAB NUCAPITAL turtas",
+    "code": "307005017",
+    "address": "Panevėžys, Beržų g. 17-60, LT-36215"
+  },
+  {
     "name": "UAB Radviliškio turtas",
     "code": "306236843",
     "address": "Vilnius, Savanorių pr. 1-63, LT-03116",
     "vatcode": "LT100015821311"
+  },
+  {
+    "name": "UAB Riešės turtas",
+    "code": "307018064",
+    "address": "Vilnius, Antano Tumėno g. 4, LT-01110"
   },
   {
     "name": "UAB Vaistija turtas",
@@ -1481,7 +1497,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"OBER-HAUS\" nekilnojamas turtas",
     "code": "111645042",
-    "address": "Vilnius, Geležinio Vilko g. 18A, LT-08126",
+    "address": "Vilnius, Saltoniškių g. 2-1, LT-08126",
     "vatcode": "LT116450411"
   },
   {
@@ -1745,11 +1761,6 @@
     "address": "Kaunas, F. Kiršos g. 20, LT-45497"
   },
   {
-    "name": "MB \"Nekilnojamojo turto valdymas ir konsultacijos\"",
-    "code": "304971100",
-    "address": "Vilnius, P. Vileišio g. 10-13, LT-10307"
-  },
-  {
     "name": "MB \"New Moon Turto Valdymas\"",
     "code": "305880618",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
@@ -1849,6 +1860,16 @@
     "address": "Panevėžio r. sav., Panevėžio sen., Šilagalio k., Nendrės g. 9, LT-36223"
   },
   {
+    "name": "MB Turto fortas",
+    "code": "307015965",
+    "address": "Kretinga, Savanorių g. 5A-3, LT-97108"
+  },
+  {
+    "name": "MB Turto foto",
+    "code": "307014984",
+    "address": "Vilnius, Jonažolių g. 10-5, LT-04134"
+  },
+  {
     "name": "MB Turto gijos",
     "code": "306852034",
     "address": "Kaunas, P. Višinskio g. 27-2, LT-44157"
@@ -1856,7 +1877,8 @@
   {
     "name": "MB Turto vystymo partneriai",
     "code": "306848840",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100017226113"
   },
   {
     "name": "Mažoji bendrija \"Nekilnojamojo turto komanda\"",
@@ -2680,6 +2702,11 @@
     "code": "124605934",
     "address": "Vilnius, Vilniaus g. 25, LT-01402",
     "vatcode": "LT246059314"
+  },
+  {
+    "name": "MB Turtosprendimai 24",
+    "code": "307008650",
+    "address": "Vilnius, Džiaugsmo g. 66A, LT-11302"
   },
   {
     "name": "MB \"Turtovita\"",

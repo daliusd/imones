@@ -1,10 +1,5 @@
 [
   {
-    "name": "\"Arsenalo\" mažoji bendrija",
-    "code": "303531870",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "\"Autostiklas\" Mažoji bendrija",
     "code": "302934797",
     "address": "Vilnius, Jono Kazlausko g. 1, LT-08247",
@@ -519,7 +514,8 @@
   {
     "name": "Mažoji Bendrija \"Gėlių gentis\"",
     "code": "306278575",
-    "address": "Širvintų r. sav., Gelvonų sen., Bagaslaviškio mstl., Klevų g. 9, LT-19213"
+    "address": "Širvintų r. sav., Gelvonų sen., Bagaslaviškio mstl., Klevų g. 9, LT-19213",
+    "vatcode": "LT100017252314"
   },
   {
     "name": "Mažoji Bendrija \"JS Aviation\"",
@@ -765,7 +761,8 @@
   {
     "name": "Mažoji bendrija \"Amber Bead\"",
     "code": "302862344",
-    "address": "Klaipėda, Joniškės g. 24G-54, LT-91266"
+    "address": "Klaipėda, Joniškės g. 24G-54, LT-91266",
+    "vatcode": "LT100008735317"
   },
   {
     "name": "Mažoji bendrija \"Amber resin\"",
@@ -940,11 +937,6 @@
     "name": "Mažoji bendrija \"Aurėjos\"",
     "code": "302962070",
     "address": "Prienai, F. Vaitkaus g. 165, LT-59109"
-  },
-  {
-    "name": "Mažoji bendrija \"Austėda\"",
-    "code": "305340942",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "Mažoji bendrija \"Autlema\"",
@@ -1142,11 +1134,6 @@
     "address": "Kaunas, Partizanų g. 70-4, LT-50351"
   },
   {
-    "name": "Mažoji bendrija \"Bumbuliokšt!\"",
-    "code": "304032518",
-    "address": "Vilnius, Verkių g. 25B-65, LT-08223"
-  },
-  {
     "name": "Mažoji bendrija \"Bus visko\"",
     "code": "304784054",
     "address": "Vilnius, M. K. Oginskio g. 4-14, LT-10219"
@@ -1218,11 +1205,6 @@
     "vatcode": "LT100016745510"
   },
   {
-    "name": "Mažoji bendrija \"Curonian Media Company\"",
-    "code": "302889067",
-    "address": "Mažeikiai, Raselės 6-oji g. 11, LT-89244"
-  },
-  {
     "name": "Mažoji bendrija \"DBA projektai\"",
     "code": "302918138",
     "address": "Kaunas, Partizanų g. 27E-51, LT-49449",
@@ -1266,6 +1248,11 @@
     "name": "Mažoji bendrija \"Darbas plius\"",
     "code": "305674358",
     "address": "Šiauliai, Birutės g. 41-20, LT-76214"
+  },
+  {
+    "name": "Mažoji bendrija \"Darbo sauga jūsų verslui\"",
+    "code": "307017681",
+    "address": "Šiauliai, Tilžės g. 37A-19, LT-78212"
   },
   {
     "name": "Mažoji bendrija \"Daugiabučių administravimas\"",
@@ -1664,6 +1651,11 @@
     "address": "Vilniaus m. sav., Grigiškių m., Projektavimo g. 11, LT-27103"
   },
   {
+    "name": "Mažoji bendrija \"Erikginta\"",
+    "code": "304722355",
+    "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Šlapšilės k., Rūko g. 2, LT-96171"
+  },
+  {
     "name": "Mažoji bendrija \"Erimsa\"",
     "code": "306468585",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -1744,6 +1736,11 @@
     "name": "Mažoji bendrija \"Fausto investicija\"",
     "code": "305442648",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "Mažoji bendrija \"Feeldeal\"",
+    "code": "307014087",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "Mažoji bendrija \"Figure it out\"",
@@ -1944,11 +1941,6 @@
     "code": "305638166",
     "address": "Vilnius, Girulių g. 10, LT-12112",
     "vatcode": "LT100014657213"
-  },
-  {
-    "name": "Mažoji bendrija \"Gintauto reisai\"",
-    "code": "304722355",
-    "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Šlapšilės k., Rūko g. 2, LT-96171"
   },
   {
     "name": "Mažoji bendrija \"Ginvarta\"",
@@ -2419,6 +2411,11 @@
     "vatcode": "LT100010534216"
   },
   {
+    "name": "Mažoji bendrija \"Judesys ir garsas\"",
+    "code": "307006076",
+    "address": "Kaunas, Žemaičių g. 31-119, LT-44175"
+  },
+  {
     "name": "Mažoji bendrija \"Jukrema\"",
     "code": "305426213",
     "address": "Kauno r. sav., Taurakiemio sen., Margininkų k., Centrinė g. 18, LT-53180",
@@ -2474,6 +2471,11 @@
     "name": "Mažoji bendrija \"Kabern\"",
     "code": "306725994",
     "address": "Kauno r. sav., Alšėnų sen., Padainupio k., J. Lukšos g. 167-1, LT-53300"
+  },
+  {
+    "name": "Mažoji bendrija \"Kaga\"",
+    "code": "307004207",
+    "address": "Vilnius, S. Konarskio g. 8-26, LT-03122"
   },
   {
     "name": "Mažoji bendrija \"Kaimiška mėsa\"",
@@ -2845,7 +2847,7 @@
   {
     "name": "Mažoji bendrija \"MB Ieva I\"",
     "code": "305472883",
-    "address": "Panevėžys, Kaštonų g. 2-58, LT-35193"
+    "address": "Panevėžio miesto savivaldybės teritorija"
   },
   {
     "name": "Mažoji bendrija \"MB26\"",
@@ -2906,11 +2908,6 @@
     "address": "Šiauliai, Tilžės g. 61C-12, LT-78166"
   },
   {
-    "name": "Mažoji bendrija \"Maltupis\"",
-    "code": "302524392",
-    "address": "Vilnius, Kuosų g. 12, LT-10311"
-  },
-  {
     "name": "Mažoji bendrija \"Mamos ir dukros studija\"",
     "code": "305712951",
     "address": "Alytus, Naujoji g. 4-1, LT-63248"
@@ -2934,11 +2931,6 @@
     "name": "Mažoji bendrija \"Mangistrans\"",
     "code": "305733212",
     "address": "Elektrėnų sav., Vievis, Semeliškių g. 101A-27, LT-21380"
-  },
-  {
-    "name": "Mažoji bendrija \"Mano mada\"",
-    "code": "303396547",
-    "address": "Vilnius, Telšių g. 9-3, LT-02166"
   },
   {
     "name": "Mažoji bendrija \"Mansome europe\"",
@@ -3090,6 +3082,11 @@
     "vatcode": "LT100016270710"
   },
   {
+    "name": "Mažoji bendrija \"Meti lt\"",
+    "code": "307009282",
+    "address": "Vilnius, Garsioji g. 7, LT-11306"
+  },
+  {
     "name": "Mažoji bendrija \"Metidus\"",
     "code": "306265243",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
@@ -3206,11 +3203,6 @@
     "address": "Vilnius, Erfurto g. 5-60, LT-04220"
   },
   {
-    "name": "Mažoji bendrija \"Morkus\"",
-    "code": "305399937",
-    "address": "Kauno r. sav., Domeikavos sen., Šakių k., Žuvų g. 1, LT-47412"
-  },
-  {
     "name": "Mažoji bendrija \"Moteris pasaulyje\"",
     "code": "306108135",
     "address": "Vilnius, Nemenčinės pl. 88, LT-10104"
@@ -3262,11 +3254,6 @@
     "code": "305894112",
     "address": "Vilnius, Skersinės Sodų 4-oji g. 22, LT-08449",
     "vatcode": "LT100014662613"
-  },
-  {
-    "name": "Mažoji bendrija \"Nanošvara\"",
-    "code": "303261033",
-    "address": "Vilnius, Jeruzalės g. 31-8, LT-08420"
   },
   {
     "name": "Mažoji bendrija \"Naras\"",
@@ -3435,6 +3422,11 @@
     "vatcode": "LT100007771812"
   },
   {
+    "name": "Mažoji bendrija \"Opusaras\"",
+    "code": "307008789",
+    "address": "Vilnius, Mykolo Marcinkevičiaus g. 27-23, LT-08433"
+  },
+  {
     "name": "Mažoji bendrija \"Orentė\"",
     "code": "305342142",
     "address": "Klaipėda, Bokštų g. 5-2, LT-92125",
@@ -3464,6 +3456,11 @@
     "name": "Mažoji bendrija \"Pagalbinis inkaras\"",
     "code": "305680731",
     "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Paringuvio k., Ringuvos g. 7A-3, LT-81107"
+  },
+  {
+    "name": "Mažoji bendrija \"Pagėgių blicas\"",
+    "code": "307005309",
+    "address": "Šilutė, Hermano Zudermano g. 5-33, LT-99177"
   },
   {
     "name": "Mažoji bendrija \"Pajūrio inžinerija\"",
@@ -3857,7 +3854,7 @@
   {
     "name": "Mažoji bendrija \"Ratlifas\"",
     "code": "305646939",
-    "address": "Biržai, Beržų g. 5, LT-41125"
+    "address": "Biržų r. sav., Pačeriaukštės sen., Jukniškių k. 1, LT-41417"
   },
   {
     "name": "Mažoji bendrija \"Raugeliai\"",
@@ -4103,11 +4100,6 @@
     "vatcode": "LT100014676916"
   },
   {
-    "name": "Mažoji bendrija \"Sales tech\"",
-    "code": "306174060",
-    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Mažoji g. 8-8, LT-54123"
-  },
-  {
     "name": "Mažoji bendrija \"Salon de beaute\"",
     "code": "306209433",
     "address": "Kaunas, Slankų g. 25, LT-46383"
@@ -4116,6 +4108,12 @@
     "name": "Mažoji bendrija \"Samdenta\"",
     "code": "303403461",
     "address": "Kaunas, R. Kalantos g. 40-2, LT-52491"
+  },
+  {
+    "name": "Mažoji bendrija \"Samrida\"",
+    "code": "307005273",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017281318"
   },
   {
     "name": "Mažoji bendrija \"Santos Barbaros krautuvėlė\"",
@@ -4346,6 +4344,11 @@
     "code": "304516049",
     "address": "Kauno r. sav., Karmėlavos sen., Naujasodžio k., Vytauto g. 58, LT-44101",
     "vatcode": "LT100010891719"
+  },
+  {
+    "name": "Mažoji bendrija \"Spanedda\"",
+    "code": "307019255",
+    "address": "Palanga, Medvalakio g. 1-9, LT-00142"
   },
   {
     "name": "Mažoji bendrija \"Spaudmora\"",
@@ -4837,7 +4840,7 @@
   {
     "name": "Mažoji bendrija \"Vaigitė\"",
     "code": "304897536",
-    "address": "Šilutė, Draugystės 1-asis tak. 1, LT-99165",
+    "address": "Šilutė, Jaunimo al. 1-9, LT-99121",
     "vatcode": "LT100014768911"
   },
   {
@@ -4910,11 +4913,6 @@
     "name": "Mažoji bendrija \"Veg4U\"",
     "code": "306086347",
     "address": "Kauno r. sav., Babtų sen., Panevėžiuko k., Vikūnų g. 14, LT-54286"
-  },
-  {
-    "name": "Mažoji bendrija \"Veganiška kosmetika\"",
-    "code": "305616497",
-    "address": "Rokiškis, Pušų skg. 10, LT-42100"
   },
   {
     "name": "Mažoji bendrija \"Veiklos teritorija\"",
@@ -5246,9 +5244,14 @@
     "address": "Vilniaus r. sav., Avižienių sen., Gilužių k., Grikienių g. 6, LT-14187"
   },
   {
+    "name": "Mažoji bendrija \"Žizu\"",
+    "code": "307005490",
+    "address": "Klaipėdos r. sav., Priekulės sen., Derceklių k., Vilijos g. 2, LT-96385"
+  },
+  {
     "name": "Mažoji bendrija \"Žuvys ir ko\"",
     "code": "306275173",
-    "address": "Klaipėdos r. sav., Sendvario sen., Klipščių k., Ąžuolynės g. 31, LT-92339"
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Ežero g. 6D, LT-92338"
   },
   {
     "name": "Mažoji bendrija \"Žvejo sala\"",
@@ -5320,6 +5323,11 @@
     "name": "Mažoji bendrija Abusua",
     "code": "306472103",
     "address": "Vilnius, J. Basanavičiaus g. 16-73, LT-03224"
+  },
+  {
+    "name": "Mažoji bendrija Academic town",
+    "code": "307012225",
+    "address": "Vilnius, Jono Karolio Chodkevičiaus g. 36-1, LT-12189"
   },
   {
     "name": "Mažoji bendrija Ad 17 architektai",
@@ -5395,6 +5403,11 @@
     "name": "Mažoji bendrija Akcijukė",
     "code": "306721049",
     "address": "Prienų r. sav., Balbieriškio sen., Paprūdžių k., Eglių g. 9, LT-59258"
+  },
+  {
+    "name": "Mažoji bendrija Akseler",
+    "code": "307018872",
+    "address": "Vilnius, Vytenio g. 50A-201, LT-03229"
   },
   {
     "name": "Mažoji bendrija Aktierius",
@@ -5719,6 +5732,12 @@
     "vatcode": "LT100016168712"
   },
   {
+    "name": "Mažoji bendrija Baltic events and marketing",
+    "code": "307007623",
+    "address": "Biržų r. sav., Nemunėlio Radviliškis, Aušros g. 6-13, LT-41444",
+    "vatcode": "LT100017265619"
+  },
+  {
     "name": "Mažoji bendrija Baltic web agency",
     "code": "306277249",
     "address": "Vilnius, Verkių g. 39-89, LT-09109",
@@ -5818,6 +5837,11 @@
     "code": "305688386",
     "address": "Vilnius, Grūdų g. 36, LT-11302",
     "vatcode": "LT100013739618"
+  },
+  {
+    "name": "Mažoji bendrija Bio-fert",
+    "code": "307010142",
+    "address": "Panevėžys, Aušros g. 8, LT-35196"
   },
   {
     "name": "Mažoji bendrija Biolapas",
@@ -6119,6 +6143,11 @@
     "name": "Mažoji bendrija Dental boutique",
     "code": "306025821",
     "address": "Vilnius, Liepyno g. 9-55, LT-08108"
+  },
+  {
+    "name": "Mažoji bendrija Develoft",
+    "code": "307003774",
+    "address": "Vilnius, Taikos g. 253-21, LT-05214"
   },
   {
     "name": "Mažoji bendrija Devtraining",
@@ -6443,7 +6472,8 @@
   {
     "name": "Mažoji bendrija Era švara",
     "code": "306779935",
-    "address": "Vilnius, Panevėžio g. 40-19, LT-02183"
+    "address": "Vilnius, Panevėžio g. 40-19, LT-02183",
+    "vatcode": "LT100017214715"
   },
   {
     "name": "Mažoji bendrija Eristana",
@@ -6595,7 +6625,8 @@
   {
     "name": "Mažoji bendrija Fruits and goods",
     "code": "306716810",
-    "address": "Klaipėda, Gedminų g. 2-138, LT-94167"
+    "address": "Klaipėda, Gedminų g. 2-138, LT-94167",
+    "vatcode": "LT100017231412"
   },
   {
     "name": "Mažoji bendrija Furlux",
@@ -6652,6 +6683,11 @@
     "address": "Vilnius, Turniškių g. 34A-18, LT-10104"
   },
   {
+    "name": "Mažoji bendrija Game like academy",
+    "code": "307015214",
+    "address": "Vilnius, Pečiukų g. 7, LT-10152"
+  },
+  {
     "name": "Mažoji bendrija Gamma nulis",
     "code": "306307742",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -6694,9 +6730,15 @@
     "address": "Vilnius, Lazdynėlių g. 32-3, LT-04126"
   },
   {
+    "name": "Mažoji bendrija Gereko",
+    "code": "307003977",
+    "address": "Klaipėdos r. sav., Kretingalė, Klevų g. 22, LT-96333"
+  },
+  {
     "name": "Mažoji bendrija Gerovės vizija",
     "code": "306998434",
-    "address": "Vilnius, Erfurto g. 33-59, LT-04226"
+    "address": "Vilnius, Erfurto g. 33-59, LT-04226",
+    "vatcode": "LT100017279518"
   },
   {
     "name": "Mažoji bendrija Gidantė",
@@ -6835,6 +6877,11 @@
     "name": "Mažoji bendrija Hait studio",
     "code": "305650930",
     "address": "Klaipėda, Verpėjų g. 15A, LT-91265"
+  },
+  {
+    "name": "Mažoji bendrija Hallbrand",
+    "code": "307018491",
+    "address": "Klaipėda, Pievų Tako g. 15-2, LT-92236"
   },
   {
     "name": "Mažoji bendrija Happy day vila",
@@ -6995,6 +7042,11 @@
     "address": "Alytus, S. Dariaus ir S. Girėno g. 2-12, LT-62137"
   },
   {
+    "name": "Mažoji bendrija Jaranta",
+    "code": "307006418",
+    "address": "Vilnius, Labdarių g. 6A-7, LT-01120"
+  },
+  {
     "name": "Mažoji bendrija Jauki aura",
     "code": "305938142",
     "address": "Rokiškio r. sav., Kamajų sen., Aukštakalnių k., Kamajų g. 40, LT-42281"
@@ -7102,6 +7154,11 @@
     "code": "305901667",
     "address": "Elektrėnai, Pergalės g. 55-12, LT-26124",
     "vatcode": "LT100014378116"
+  },
+  {
+    "name": "Mažoji bendrija Justo programavimo darbai",
+    "code": "307015011",
+    "address": "Vilniaus r. sav., Mickūnų sen., Gailiūnų k., Gailiūnų g. 20A, LT-13100"
   },
   {
     "name": "Mažoji bendrija Jutservisas",
@@ -7242,6 +7299,11 @@
     "address": "Raseinių r. sav., Ariogala, Melioratorių g. 1-30, LT-60256"
   },
   {
+    "name": "Mažoji bendrija Kraunamviska",
+    "code": "307001823",
+    "address": "Vilnius, Taikos g. 126-7, LT-05225"
+  },
+  {
     "name": "Mažoji bendrija Kridona",
     "code": "305758952",
     "address": "Marijampolės sav., Sasnavos sen., Puskelnių k., Ramunės g. 26, LT-68102"
@@ -7318,6 +7380,11 @@
     "address": "Vilniaus r. sav., Rukainių sen., Senasalio k., Senasalio g. 68, LT-13200"
   },
   {
+    "name": "Mažoji bendrija La projektai",
+    "code": "307018783",
+    "address": "Šiauliai, V. Bielskio g. 74, LT-76133"
+  },
+  {
     "name": "Mažoji bendrija Lablombas",
     "code": "306668486",
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
@@ -7355,7 +7422,7 @@
   {
     "name": "Mažoji bendrija Lemehost",
     "code": "305994116",
-    "address": "Vilnius, Kryžiokų g. 388, LT-08422"
+    "address": "Kaunas, Žeimenos g. 151C-1, LT-49329"
   },
   {
     "name": "Mažoji bendrija Lengva statyba",
@@ -7370,7 +7437,7 @@
   {
     "name": "Mažoji bendrija Leoservis",
     "code": "306682621",
-    "address": "Šalčininkų r. sav., Pabarės sen., Serbentų k. 2, LT-17204",
+    "address": "Akmenės r. sav., Venta, Bausko g. 7-49E, LT-85327",
     "vatcode": "LT100016793419"
   },
   {
@@ -7683,6 +7750,11 @@
     "address": "Kaunas, Kukučių g. 39, LT-51338"
   },
   {
+    "name": "Mažoji bendrija Mg autodalys",
+    "code": "307014518",
+    "address": "Raseinių r. sav., Raseinių sen., Geišių k., Kęstučio g. 19, LT-60111"
+  },
+  {
     "name": "Mažoji bendrija Micu statyba",
     "code": "306316467",
     "address": "Vilnius, Kareivių g. 19-152, LT-09133",
@@ -7720,11 +7792,6 @@
     "code": "305758105",
     "address": "Raseinių r. sav., Šiluva, Žaiginio g. 15, LT-60433",
     "vatcode": "LT100014298215"
-  },
-  {
-    "name": "Mažoji bendrija Mini deal",
-    "code": "306260716",
-    "address": "Vilnius, S. Stanevičiaus g. 13-18, LT-07134"
   },
   {
     "name": "Mažoji bendrija Minrena",
@@ -7845,8 +7912,7 @@
   {
     "name": "Mažoji bendrija Multibrandai",
     "code": "305715730",
-    "address": "Vilnius, M. Mažvydo g. 16-33, LT-06269",
-    "vatcode": "LT100013925219"
+    "address": "Vilnius, M. Mažvydo g. 16-33, LT-06269"
   },
   {
     "name": "Mažoji bendrija Muzika dp",
@@ -8078,6 +8144,11 @@
     "address": "Vilnius, J. Franko g. 16A-11, LT-08431"
   },
   {
+    "name": "Mažoji bendrija Pardavimų asistentai",
+    "code": "307018210",
+    "address": "Vilnius, Daugėliškio g. 57-60, LT-09300"
+  },
+  {
     "name": "Mažoji bendrija Pardavimų mokslas",
     "code": "306360848",
     "address": "Vilnius, Krivių g. 5, LT-01204"
@@ -8208,7 +8279,8 @@
   {
     "name": "Mažoji bendrija Priežastis būti",
     "code": "306948709",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100017253211"
   },
   {
     "name": "Mažoji bendrija Prigama",
@@ -8452,7 +8524,8 @@
   {
     "name": "Mažoji bendrija Rhevio",
     "code": "306627094",
-    "address": "Vilnius, Jono Kairiūkščio g. 7A-46, LT-08454"
+    "address": "Vilnius, Jono Kairiūkščio g. 7A-46, LT-08454",
+    "vatcode": "LT100017242811"
   },
   {
     "name": "Mažoji bendrija Rieda karieta",
@@ -8555,11 +8628,6 @@
     "address": "Panevėžys, J. Žemgulio g. 46, LT-35239"
   },
   {
-    "name": "Mažoji bendrija Savaitgalio laboratorija",
-    "code": "303302220",
-    "address": "Vilnius, Žėručio g. 10-5, LT-04113"
-  },
-  {
     "name": "Mažoji bendrija Saye",
     "code": "302987390",
     "address": "Vilnius, Gedvydžių g. 14-24, LT-06303",
@@ -8585,6 +8653,11 @@
     "name": "Mažoji bendrija Shameless",
     "code": "306687472",
     "address": "Radviliškio r. sav., Aukštelkų sen., Mažaičių k., Mažaičių g. 6, LT-82480"
+  },
+  {
+    "name": "Mažoji bendrija Siaubo naktis",
+    "code": "307007769",
+    "address": "Pasvalys, Taikos g. 17-13, LT-39137"
   },
   {
     "name": "Mažoji bendrija Sigutės kūrybos studija",
@@ -8907,6 +8980,11 @@
     "vatcode": "LT100014732012"
   },
   {
+    "name": "Mažoji bendrija Teisės rojus",
+    "code": "307004456",
+    "address": "Vilnius, P. Vileišio g. 25-17, LT-10205"
+  },
+  {
     "name": "Mažoji bendrija Terapijos nauda",
     "code": "306003593",
     "address": "Trakų r. sav., Onuškio sen., Pasamavio k., Alytaus g. 1, LT-21242"
@@ -8962,6 +9040,11 @@
     "address": "Jonavos r. sav., Kulvos sen., Kulvos k., Kauno g. 26, LT-55350"
   },
   {
+    "name": "Mažoji bendrija Topogeokada",
+    "code": "307015381",
+    "address": "Vilnius, P. Lukšio g. 7-101, LT-08221"
+  },
+  {
     "name": "Mažoji bendrija Toro spalvos",
     "code": "305676658",
     "address": "Vilnius, Rygos g. 5-16, LT-05258",
@@ -8982,6 +9065,11 @@
     "name": "Mažoji bendrija Transherdita",
     "code": "306134614",
     "address": "Marijampolė, Dariaus ir Girėno g. 11-86, LT-68258"
+  },
+  {
+    "name": "Mažoji bendrija Triki education",
+    "code": "307014525",
+    "address": "Vilnius, Vokiečių g. 10-7, LT-01130"
   },
   {
     "name": "Mažoji bendrija Trunega",
@@ -9037,6 +9125,11 @@
     "name": "Mažoji bendrija Uola ir vėjas",
     "code": "305744372",
     "address": "Vilnius, Vytenio g. 2-21, LT-03113"
+  },
+  {
+    "name": "Mažoji bendrija Upcommerce",
+    "code": "307014308",
+    "address": "Vilnius, Šilo g. 58-1, LT-10317"
   },
   {
     "name": "Mažoji bendrija Uvalita",
@@ -9137,6 +9230,11 @@
     "address": "Klaipėda, Minijos g. 135A-3, LT-93206"
   },
   {
+    "name": "Mažoji bendrija Vesus",
+    "code": "307015246",
+    "address": "Vilnius, Pavilnionių g. 45-74, LT-12100"
+  },
+  {
     "name": "Mažoji bendrija Victory Motors",
     "code": "306920478",
     "address": "Elektrėnų sav., Gilučių sen., Gilučių k., Liepų g. 8, LT-26131"
@@ -9206,6 +9304,11 @@
     "name": "Mažoji bendrija Viskas didis be normos",
     "code": "306363171",
     "address": "Neringa, Vilų g. 7-6, LT-93102"
+  },
+  {
+    "name": "Mažoji bendrija Visual crafts",
+    "code": "307005405",
+    "address": "Kauno r. sav., Akademija, Povilo Matulionio g. 10, LT-53348"
   },
   {
     "name": "Mažoji bendrija Visualcomm",
@@ -9295,8 +9398,12 @@
   {
     "name": "Mažoji bendrija Wooden oaken",
     "code": "305694300",
-    "address": "Vilnius, Žirmūnų g. 70, LT-09124",
-    "vatcode": "LT100013769712"
+    "address": "Vilnius, Žirmūnų g. 70, LT-09124"
+  },
+  {
+    "name": "Mažoji bendrija Worker nu",
+    "code": "307019052",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
   },
   {
     "name": "Mažoji bendrija X color",
@@ -9345,6 +9452,11 @@
     "code": "305900661",
     "address": "Klaipėda, Didžioji Vandens g. 22-1, LT-91249",
     "vatcode": "LT100015498516"
+  },
+  {
+    "name": "Mažoji bendrija reklamų centras, MB",
+    "code": "307006350",
+    "address": "Vilnius, A. Smetonos g. 3-32, LT-01115"
   },
   {
     "name": "Mažoji bendrija solid spalvos",
@@ -9417,6 +9529,11 @@
     "name": "Mažoji bendrija Šokliukas",
     "code": "305757882",
     "address": "Pasvalio r. sav., Saločių sen., Raubonių k., Taikos g. 5A, LT-39447"
+  },
+  {
+    "name": "Mažoji bendrija Švaros magija",
+    "code": "307016686",
+    "address": "Vilniaus r. sav., Maišiagalos sen., Dūkštelių k., Dūkštelių g. 40-2, LT-14247"
   },
   {
     "name": "Mažoji bendrija Švok inžineriniai projektai",
@@ -9651,11 +9768,6 @@
     "vatcode": "LT100002898712"
   },
   {
-    "name": "UAB \"REL Mažoji Ragainė\"",
-    "code": "302417287",
-    "address": "Vilnius, Įsruties g. 22, LT-06221"
-  },
-  {
     "name": "UAB \"Sodo ir miško mažoji technika\"",
     "code": "169982441",
     "address": "Plungės r. sav., Nausodžio sen., Varkalių k., Beržų g. 52, LT-90105",
@@ -9675,8 +9787,7 @@
   {
     "name": "Unspoiled, Mažoji bendrija",
     "code": "306211427",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
-    "vatcode": "LT100016166011"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "Urbonų mažoji bendrija",

@@ -101,11 +101,6 @@
     "address": "Ignalina, Ažušilės g. 1, LT-30125"
   },
   {
-    "name": "Daliaus Juozelskio individuali įmonė",
-    "code": "135448263",
-    "address": "Kaunas, Savanorių pr. 265-1, LT-50132"
-  },
-  {
     "name": "Daliaus Karklio prekybos įmonė",
     "code": "274358380",
     "address": "Alytaus r. sav., Daugų sen., Karliškių k., Vytauto g. 13, LT-64145"
@@ -152,11 +147,6 @@
     "address": "Neringa, L. Rėzos g. 46-6, LT-93101"
   },
   {
-    "name": "Daliaus Sprindžio įmonė",
-    "code": "160441819",
-    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Šlaito g. 12, LT-54361"
-  },
-  {
     "name": "Daliaus Variakojo įmonė",
     "code": "135800070",
     "address": "Kaunas, Laisvės al. 102A-10, LT-44252"
@@ -176,6 +166,11 @@
     "name": "IĮ \"Daliaus Kopicos įmonė\"",
     "code": "135224991",
     "address": "Kaunas, T. Masiulio g. 14-7, LT-52372"
+  },
+  {
+    "name": "IĮ Daliaus Sprindžio įmonė",
+    "code": "160441819",
+    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Šlaito g. 12, LT-54361"
   },
   {
     "name": "UAB \"Daliaus auto\"",
@@ -297,13 +292,13 @@
   {
     "name": "MB \"Dalimatis\"",
     "code": "304034280",
-    "address": "Prienai, Vytauto g. 32-3, LT-59126"
+    "address": "Prienai, Vytauto g. 32-3, LT-59126",
+    "vatcode": "LT100017235112"
   },
   {
     "name": "IĮ \"Dalimeda\"",
     "code": "159555811",
-    "address": "Kaunas, Lieponynės g. 5A, LT-46407",
-    "vatcode": "LT595558113"
+    "address": "Kaunas, Lieponynės g. 5A, LT-46407"
   },
   {
     "name": "MB \"Dalimina\"",
@@ -821,7 +816,7 @@
   {
     "name": "UAB \"Dalisona\"",
     "code": "303549854",
-    "address": "Utena, Smėlio g. 19-233, LT-28225",
+    "address": "Anykščių r. sav., Debeikiai, Sindrių g. 14A, LT-29371",
     "vatcode": "LT100009117215"
   },
   {

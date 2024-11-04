@@ -356,12 +356,6 @@
     "address": "Šiauliai, Kviečių g. 40-21, LT-78386"
   },
   {
-    "name": "Arvydo Tamučio įmonė",
-    "code": "144221898",
-    "address": "Šiauliai, Grafo Zubovo g. 4C, LT-76177",
-    "vatcode": "LT442218917"
-  },
-  {
     "name": "Arvydo Urbelio įmonė",
     "code": "160422128",
     "address": "Kauno r. sav., Garliavos apylinkių sen., Teleičių k., Klonio g. 4, LT-53274"
@@ -405,7 +399,7 @@
     "vatcode": "LT254079811"
   },
   {
-    "name": "Arvydo Čepo įmonė",
+    "name": "Arvydo Čepo individuali įmonė",
     "code": "171212953",
     "address": "Radviliškio r. sav., Grinkiškis, Tilto g. 41-1, LT-82388",
     "vatcode": "LT712129515"
@@ -444,6 +438,12 @@
     "name": "IĮ Arvydo Packevičiaus psichoterapijos kabinetas",
     "code": "300554935",
     "address": "Druskininkai, V. Kudirkos g. 37, LT-66120"
+  },
+  {
+    "name": "IĮ Arvydo Tamučio įmonė",
+    "code": "144221898",
+    "address": "Šiauliai, Grafo Zubovo g. 4C, LT-76177",
+    "vatcode": "LT442218917"
   },
   {
     "name": "IĮ Arvydo Tauperio firma",
@@ -510,11 +510,6 @@
     "address": "Vilniaus r. sav., Bezdonių sen., Arvydų k., Liepų g."
   },
   {
-    "name": "Lietuvos Arvydų klubas",
-    "code": "195768061",
-    "address": "Kaunas, D. Poškos g. 6-1, LT-44293"
-  },
-  {
     "name": "UAB \"Arvydų Dvaras\"",
     "code": "302775626",
     "address": "Vilniaus r. sav., Bezdonys, Pakalnės g. 26, LT-15201"
@@ -534,7 +529,8 @@
   {
     "name": "UAB \"Arvyrika\"",
     "code": "153661081",
-    "address": "Alytaus r. sav., Nemunaičio sen., Užupių k."
+    "address": "Alytaus r. sav., Nemunaičio sen., Užupių k.",
+    "vatcode": "LT536610811"
   },
   {
     "name": "Arvysto Gečiausko personalinė įmonė",

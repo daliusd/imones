@@ -62,7 +62,8 @@
   {
     "name": "MB \"ECO valymas\"",
     "code": "305559142",
-    "address": "Šakių r. sav., Šakių sen., Valiulių k., Valiulių g. 1, LT-71107"
+    "address": "Šakių r. sav., Šakių sen., Valiulių k., Valiulių g. 1, LT-71107",
+    "vatcode": "LT100017249819"
   },
   {
     "name": "MB \"Kilimų valymas\"",
@@ -130,8 +131,7 @@
   {
     "name": "UAB \"Drabužių valymas\"",
     "code": "304456698",
-    "address": "Vilnius, Kedrų g. 7-101, LT-03116",
-    "vatcode": "LT100011538618"
+    "address": "Vilnius, Kedrų g. 7-101, LT-03116"
   },
   {
     "name": "UAB \"Ekologiškas valymas\"",
@@ -225,6 +225,11 @@
     "name": "MB \"Valymo akademija\"",
     "code": "306084271",
     "address": "Panevėžys, Baltijos g. 41, LT-36252"
+  },
+  {
+    "name": "MB \"Valymo diena\"",
+    "code": "307006044",
+    "address": "Šiaulių r. sav., Kairiai, Plento g. 25, LT-80111"
   },
   {
     "name": "MB \"Valymo paslaugos \"Artikas\"",
@@ -334,12 +339,6 @@
     "vatcode": "LT100013395918"
   },
   {
-    "name": "UAB \"Valymo projektai Šiauliai\"",
-    "code": "305620606",
-    "address": "Šiauliai, Išradėjų g. 3A, LT-81347",
-    "vatcode": "LT100013410814"
-  },
-  {
     "name": "UAB \"Valymo skalbimo vizija\"",
     "code": "302508833",
     "address": "Vilnius, S. Žukausko g. 31-28, LT-09129",
@@ -354,6 +353,12 @@
     "name": "UAB \"Visos valymo paslaugos\"",
     "code": "302249188",
     "address": "Vilnius, Birbynių g. 4, LT-02121"
+  },
+  {
+    "name": "UAB Valymo projektai",
+    "code": "305620606",
+    "address": "Šiauliai, Nuklono g. 13, LT-78349",
+    "vatcode": "LT100013410814"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Antano Rinkevičiaus valymo įrenginiai\"",

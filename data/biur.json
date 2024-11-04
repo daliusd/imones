@@ -586,19 +586,9 @@
     "address": "Birštonas, Pušyno g. 33-2, LT-59203"
   },
   {
-    "name": "MB Monstrų biuras",
-    "code": "304542859",
-    "address": "Vilnius, Pylimo g. 38C-28, LT-01136"
-  },
-  {
     "name": "MB Nemokumo biuras",
     "code": "304416180",
     "address": "Kaunas, Gedimino g. 47-R1, LT-44242"
-  },
-  {
-    "name": "MB Nuomonių biuras",
-    "code": "304716256",
-    "address": "Vilnius, Verkių g. 5A-20, LT-08218"
   },
   {
     "name": "MB Projektavimo biuras",
@@ -1080,7 +1070,8 @@
   {
     "name": "UAB \"Vilniaus biuras\"",
     "code": "306984769",
-    "address": "Vilnius, Dangeručio g. 33-5, LT-14332"
+    "address": "Vilnius, Lvivo g. 105A-101, LT-08104",
+    "vatcode": "LT100017257810"
   },
   {
     "name": "UAB \"Virtualus biuras\"",
@@ -1871,6 +1862,11 @@
     "address": "Vilnius, M. K. Čiurlionio g. 100, LT-03100"
   },
   {
+    "name": "Vilniaus rajono savivaldybės visuomenės sveikatos biuras",
+    "code": "307019718",
+    "address": "Vilnius, Rinktinės g. 50, LT-09318"
+  },
+  {
     "name": "Vytauto Marcinkaus projektavimo biuras",
     "code": "144496474",
     "address": "Šiauliai, K. Korsako g. 111-15, LT-78367"
@@ -2297,5 +2293,10 @@
     "code": "304169207",
     "address": "Klaipėdos miesto savivaldybės teritorija",
     "vatcode": "LT100009947611"
+  },
+  {
+    "name": "Visuomenės sveikatos biurų direktorių profesinė sąjunga",
+    "code": "307011340",
+    "address": "Vilnius, J. Jasinskio g. 9-101, LT-01112"
   }
 ]

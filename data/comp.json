@@ -391,9 +391,20 @@
     "address": "Vilnius, A. Gustaičio g. 23-255A, LT-02189"
   },
   {
+    "name": "MB \"ATT Company\"",
+    "code": "307007395",
+    "address": "Pasvalio r. sav., Daujėnų sen., Porijų k., Daujėnų g. 1A, LT-39210"
+  },
+  {
     "name": "MB \"BALTIC FRESH-CUT MEAT SUPPLY COMPANY\"",
     "code": "306950375",
     "address": "Vilnius, A. Gustaičio g. 23-255A, LT-02189"
+  },
+  {
+    "name": "MB \"Brendan Company\"",
+    "code": "300517424",
+    "address": "Klaipėda, Taikos pr. 24-13, LT-91222",
+    "vatcode": "LT100010921714"
   },
   {
     "name": "MB \"D&Dr Company\"",
@@ -586,11 +597,6 @@
     "name": "MB SS Company",
     "code": "306330972",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "Mažoji bendrija \"Curonian Media Company\"",
-    "code": "302889067",
-    "address": "Mažeikiai, Raselės 6-oji g. 11, LT-89244"
   },
   {
     "name": "Modiran Ideh Pardazane Karin Company Ltd. filialas",
@@ -833,12 +839,6 @@
     "code": "305773616",
     "address": "Vilnius, Pakonių g. 24B, LT-12151",
     "vatcode": "LT100016418917"
-  },
-  {
-    "name": "UAB \"Brendan Company\"",
-    "code": "300517424",
-    "address": "Klaipėda, Taikos pr. 24-13, LT-91222",
-    "vatcode": "LT100010921714"
   },
   {
     "name": "UAB \"Business Tour Company\"",
@@ -1246,8 +1246,7 @@
   {
     "name": "UAB \"West Energy Company\"",
     "code": "302428885",
-    "address": "Vilniaus miesto savivaldybės teritorija",
-    "vatcode": "LT100007652817"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "UAB \"Wheels trading company\"",
@@ -1278,10 +1277,6 @@
     "vatcode": "LT100009181812"
   },
   {
-    "name": "UAB ALP COMPANY",
-    "code": "305628161"
-  },
-  {
     "name": "UAB BALTIC MARKETING COMPANY",
     "code": "304151579",
     "address": "Radviliškio r. sav., Šeduva, Naujoji g. 2, LT-82228",
@@ -1309,10 +1304,6 @@
     "code": "306205431",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
     "vatcode": "LT100015607717"
-  },
-  {
-    "name": "UAB Bottling Company",
-    "code": "305568764"
   },
   {
     "name": "UAB Business Excellence Company",
@@ -1386,6 +1377,11 @@
     "address": "Prienų r. sav., Balbieriškis, Klevų g. 25-22, LT-59243"
   },
   {
+    "name": "UAB New company in Lithuania",
+    "code": "307007858",
+    "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Jonušų k., Anso Lymanto g. 25, LT-96173"
+  },
+  {
     "name": "UAB Olar design company",
     "code": "306126635",
     "address": "Vilnius, Laisvės pr. 77-304, LT-06122",
@@ -1410,7 +1406,7 @@
   {
     "name": "UAB The Invisible Loudspeaker Company",
     "code": "305232219",
-    "address": "Kaunas, Kovo 11-osios g. 30-58, LT-51323",
+    "address": "Kaunas, Lakūnų pl. 67, LT-46294",
     "vatcode": "LT100013505219"
   },
   {
@@ -1744,8 +1740,7 @@
   {
     "name": "UAB \"Baltic Furniture Components\"",
     "code": "300524828",
-    "address": "Kaunas, H. ir O. Minkovskių g. 98, LT-46248",
-    "vatcode": "LT100002120419"
+    "address": "Kaunas, H. ir O. Minkovskių g. 98, LT-46248"
   },
   {
     "name": "UAB Baltic Components",
@@ -1805,6 +1800,11 @@
     "name": "MB \"AB composites\"",
     "code": "305879110",
     "address": "Šiauliai, Vytauto g. 147-18, LT-76341"
+  },
+  {
+    "name": "MB Emix Composites",
+    "code": "307009866",
+    "address": "Švenčionių r. sav., Magūnų sen., Prienų k., Sodų g. 54-1, LT-18159"
   },
   {
     "name": "UAB D Composites",
