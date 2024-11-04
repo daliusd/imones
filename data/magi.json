@@ -51,11 +51,6 @@
     "address": "Vilnius, Birutės g. 6-1, LT-08117"
   },
   {
-    "name": "MB Magic food",
-    "code": "305638668",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
     "name": "MB Magic moments LT",
     "code": "306381867",
     "address": "Vilnius, Justino Staugaičio g. 23-2, LT-11324"
@@ -336,12 +331,18 @@
   {
     "name": "MB Riešutų magija",
     "code": "306988917",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100017249011"
   },
   {
     "name": "MB Sabros magija",
     "code": "306988408",
     "address": "Palanga, Mokyklos g. 13-1, LT-00303"
+  },
+  {
+    "name": "Mažoji bendrija Švaros magija",
+    "code": "307016686",
+    "address": "Vilniaus r. sav., Maišiagalos sen., Dūkštelių k., Dūkštelių g. 40-2, LT-14247"
   },
   {
     "name": "Skonio magija UAB",
@@ -786,7 +787,8 @@
   {
     "name": "UAB \"Magiškas žiedas\"",
     "code": "306999073",
-    "address": "Šiauliai, Gegužių g. 51A-46, LT-78327"
+    "address": "Šiauliai, Gegužių g. 51A-46, LT-78327",
+    "vatcode": "LT100017222817"
   },
   {
     "name": "MB \"Magiški kiaušiniai\"",
@@ -803,6 +805,11 @@
     "code": "306272946",
     "address": "Kaunas, V. Krėvės pr. 16-55, LT-50414",
     "vatcode": "LT100016048318"
+  },
+  {
+    "name": "MB \"Magiški žiedai\"",
+    "code": "307008611",
+    "address": "Kaunas, Sukilėlių pr. 77-41, LT-49322"
   },
   {
     "name": "\"Magiškos šventės\", MB",

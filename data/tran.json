@@ -279,6 +279,11 @@
     "vatcode": "LT100013284411"
   },
   {
+    "name": "MB \"KS-Inter Trans\"",
+    "code": "306678651",
+    "address": "Vilnius, Labdarių g. 6A-18, LT-01120"
+  },
+  {
     "name": "MB \"Ramūno Trans\"",
     "code": "305548861",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
@@ -383,6 +388,11 @@
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
+    "name": "MB Linc Trans",
+    "code": "307004965",
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+  },
+  {
     "name": "MB Om trans",
     "code": "306019665",
     "address": "Vilnius, A. Vivulskio g. 41-115, LT-03114"
@@ -434,6 +444,11 @@
     "vatcode": "LT100012316317"
   },
   {
+    "name": "Pakko Trans-spedition MB",
+    "code": "307012392",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+  },
+  {
     "name": "RAB \"VELANT TRANS UKRAINA\" filialas",
     "code": "304271062",
     "address": "Klaipėda, Šilutės pl. 21, LT-91107"
@@ -453,7 +468,8 @@
   {
     "name": "S Trans group UAB",
     "code": "307000917",
-    "address": "Vilnius, Liepkalnio g. 200F, LT-13242"
+    "address": "Vilnius, Liepkalnio g. 200F, LT-13242",
+    "vatcode": "LT100017262019"
   },
   {
     "name": "S&S Trans Cargo UAB",
@@ -598,7 +614,7 @@
   {
     "name": "UAB \"Alex-Trans LT\"",
     "code": "302988873",
-    "address": "Alytaus r. sav., Alovės sen., Jurkionių k., Tiesioji g. 11, LT-64106"
+    "address": "Alytus, Vilniaus g. 27-3, LT-62112"
   },
   {
     "name": "UAB \"Amicus Trans\"",
@@ -833,6 +849,11 @@
     "code": "165127231",
     "address": "Lazdijai, Pievų g. 14, LT-67134",
     "vatcode": "LT651272314"
+  },
+  {
+    "name": "UAB \"MRK Trans\"",
+    "code": "307003468",
+    "address": "Vilnius, Vėtrungių g. 93-27, LT-06333"
   },
   {
     "name": "UAB \"MT trans\"",
@@ -1214,6 +1235,12 @@
     "address": "Vilnius, Girulių g. 20, LT-12123"
   },
   {
+    "name": "UAB Dev trans",
+    "code": "306755012",
+    "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Čigonų k. 7-8, LT-81106",
+    "vatcode": "LT100017263915"
+  },
+  {
     "name": "UAB EDEM TRANS",
     "code": "304794109",
     "address": "Vilnius, Girulių g. 5, LT-12124",
@@ -1277,11 +1304,6 @@
     "code": "306224894",
     "address": "Vilnius, Smolensko g. 10, LT-03201",
     "vatcode": "LT100016015110"
-  },
-  {
-    "name": "UAB M Trans",
-    "code": "304922808",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "UAB MARS TRANS",
@@ -1618,7 +1640,8 @@
   {
     "name": "UAB \"Transaims\"",
     "code": "306299128",
-    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380",
+    "vatcode": "LT100017268411"
   },
   {
     "name": "UAB \"Transaina\"",
@@ -1725,7 +1748,7 @@
   {
     "name": "UAB \"Transaljansas\"",
     "code": "305076670",
-    "address": "Trakų r. sav., Lentvario sen., Naujojo Lentvario k., Saulės g. 21-5, LT-25110"
+    "address": "Trakų rajono savivaldybės teritorija"
   },
   {
     "name": "UAB \"Transalma\"",
@@ -1803,6 +1826,11 @@
     "vatcode": "LT100015958519"
   },
   {
+    "name": "MB \"Transar\"",
+    "code": "307007178",
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+  },
+  {
     "name": "UAB \"Transara\"",
     "code": "300905850",
     "address": "Alytus, Jaunimo g. 40-11, LT-63308",
@@ -1828,7 +1856,8 @@
   {
     "name": "MB Transarma",
     "code": "306974725",
-    "address": "Šiauliai, Ringuvos g. 22, LT-78415"
+    "address": "Šiauliai, Ringuvos g. 22, LT-78415",
+    "vatcode": "LT100017225317"
   },
   {
     "name": "UAB \"Transarsa\"",
@@ -1918,10 +1947,6 @@
     "vatcode": "LT100013581214"
   },
   {
-    "name": "UAB \"Transauriga\"",
-    "code": "149910025"
-  },
-  {
     "name": "UAB \"Transauris\"",
     "code": "305154628",
     "address": "Šiauliai, Tilžės g. 47A-13, LT-78193",
@@ -1963,8 +1988,7 @@
   {
     "name": "UAB Transautokapitalas",
     "code": "304335853",
-    "address": "Kaunas, Ašigalio g. 22-68, LT-49228",
-    "vatcode": "LT100010341811"
+    "address": "Kaunas, Ašigalio g. 22-68, LT-49228"
   },
   {
     "name": "UAB \"Transautos\"",
@@ -3045,11 +3069,6 @@
     "vatcode": "LT100013642815"
   },
   {
-    "name": "UAB \"LIT Transfers\"",
-    "code": "304974210",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112"
-  },
-  {
     "name": "UAB \"VILNIUS TRANSFERS\"",
     "code": "122034789",
     "address": "Vilnius, Sporto g. 11, LT-09238",
@@ -3081,6 +3100,12 @@
     "code": "302570799",
     "address": "Klaipėda, Eglių g. 6, LT-92353",
     "vatcode": "LT100006195210"
+  },
+  {
+    "name": "UAB Transfit",
+    "code": "305558649",
+    "address": "Klaipėda, Grįžgatvio g. 4, LT-91286",
+    "vatcode": "LT100013542011"
   },
   {
     "name": "UAB \"Transfita\"",
@@ -3221,12 +3246,6 @@
     "code": "300125284",
     "address": "Elektrėnų sav., Vievio sen., Pylimų k., Gėlių g. 10, LT-21385",
     "vatcode": "LT100001761318"
-  },
-  {
-    "name": "UAB \"Transfralita\"",
-    "code": "302548710",
-    "address": "Vilnius, Vilkpėdės g. 22, LT-03151",
-    "vatcode": "LT100005652011"
   },
   {
     "name": "UAB \"Transfriga\"",
@@ -4329,7 +4348,8 @@
   {
     "name": "UAB \"Transleka\"",
     "code": "305574265",
-    "address": "Vilnius, Šiltadaržio g. 4-8, LT-01124"
+    "address": "Vilnius, Šiltadaržio g. 4-8, LT-01124",
+    "vatcode": "LT100017173310"
   },
   {
     "name": "UAB \"Transleksa\"",
@@ -4793,7 +4813,7 @@
   {
     "name": "UAB \"TRANSMARK\"",
     "code": "300970894",
-    "address": "Trakų r. sav., Rūdiškės, Trakų g. 88-5, LT-21176",
+    "address": "Vilnius, Gedvydžių g. 7-3, LT-06311",
     "vatcode": "LT100003451413"
   },
   {
@@ -5030,11 +5050,6 @@
     "address": "Marijampolė, Gamyklų g. 1C, LT-68108"
   },
   {
-    "name": "UAB \"Transmisija\"",
-    "code": "304920173",
-    "address": "Vilnius, Krokuvos g. 13, LT-09314"
-  },
-  {
     "name": "UAB \"Automatinių transmisijų servisas\"",
     "code": "303268323",
     "address": "Vilnius, Verkių g. 50, LT-09109",
@@ -5253,7 +5268,8 @@
   {
     "name": "UAB \"TRANSNEPA\"",
     "code": "305460094",
-    "address": "Klaipėda, Žolynų g. 49-16, LT-92325"
+    "address": "Klaipėda, Žolynų g. 49-16, LT-92325",
+    "vatcode": "LT100013068114"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Transnera\"",
@@ -5789,6 +5805,12 @@
     "address": "Telšių rajono savivaldybės teritorija"
   },
   {
+    "name": "Carmina Transport UAB",
+    "code": "304156448",
+    "address": "Panevėžys, Papušių g. 12, LT-37162",
+    "vatcode": "LT100009917115"
+  },
+  {
     "name": "Destata Transport, UAB",
     "code": "304260009",
     "address": "Vilnius, Metalo g. 4, LT-02190",
@@ -5916,6 +5938,11 @@
     "name": "Jeka transport UAB",
     "code": "305951780",
     "address": "Vilniaus r. sav., Rudaminos sen., Papiškių k., Gegužinės 5-oji g. 8, LT-13253"
+  },
+  {
+    "name": "KPT Transport UAB",
+    "code": "307011618",
+    "address": "Anykščių r. sav., Anykščių sen., Vikonių k., Liepų g. 20-2, LT-29174"
   },
   {
     "name": "LAGA TRANSPORT UAB",
@@ -6110,7 +6137,8 @@
   {
     "name": "MB \"M transport\"",
     "code": "306241744",
-    "address": "Tauragė, Pramonės g. 30-8, LT-72320"
+    "address": "Tauragė, Pramonės g. 30-8, LT-72320",
+    "vatcode": "LT100017250419"
   },
   {
     "name": "MB \"MBA transport\"",
@@ -6352,7 +6380,8 @@
   {
     "name": "MB FL23 Transport",
     "code": "306992100",
-    "address": "Vilnius, Justiniškių g. 146, LT-06153"
+    "address": "Vilnius, Justiniškių g. 146, LT-06153",
+    "vatcode": "LT100017226815"
   },
   {
     "name": "MB GL transport",
@@ -6432,7 +6461,7 @@
   {
     "name": "MB MoKa Transport",
     "code": "305520029",
-    "address": "Vilnius, Bajorų kel. 19-46, LT-08446",
+    "address": "Vilnius, Bajorų kel. 8-30, LT-08466",
     "vatcode": "LT100013075510"
   },
   {
@@ -6457,6 +6486,16 @@
     "code": "305594474",
     "address": "Marijampolė, J. Ambrazevičiaus-Brazaičio g. 1-40, LT-68160",
     "vatcode": "LT100016088216"
+  },
+  {
+    "name": "MB Transport rent for you",
+    "code": "307014678",
+    "address": "Varėnos r. sav., Merkinės sen., Gudakiemio k., Kaštonų g. 19, LT-65347"
+  },
+  {
+    "name": "MB Tri-tonn transport",
+    "code": "307002170",
+    "address": "Trakų r. sav., Lentvario sen., Rykantų k., Paribio g. 9, LT-21401"
   },
   {
     "name": "MB V&N Transport",
@@ -6554,11 +6593,6 @@
     "vatcode": "LT100004980616"
   },
   {
-    "name": "Proxima Transport, UAB",
-    "code": "304255581",
-    "address": "Kaunas, Kuršių g. 38-43, LT-48143"
-  },
-  {
     "name": "SL Transport UAB",
     "code": "306692761",
     "address": "Vilnius, Eišiškių pl. 47-312, LT-02184",
@@ -6644,8 +6678,7 @@
   {
     "name": "UAB \"AL Transport\"",
     "code": "303042502",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
-    "vatcode": "LT100013772712"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "UAB \"AR transport\"",
@@ -6817,7 +6850,7 @@
   {
     "name": "UAB \"City Transport\"",
     "code": "304071389",
-    "address": "Šilutė, Pramonės g. 4A, LT-99116",
+    "address": "Klaipėda, Dubysos g. 58A-2A, LT-94107",
     "vatcode": "LT100010076714"
   },
   {
@@ -6858,7 +6891,7 @@
   {
     "name": "UAB \"Demids transport\"",
     "code": "301522716",
-    "address": "Vilnius, Naugarduko g. 95, LT-03160"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "UAB \"Departus Transport\"",
@@ -6960,12 +6993,6 @@
     "name": "UAB \"FFP Transport Logistik\"",
     "code": "306726847",
     "address": "Vilnius, Lvivo g. 13-12, LT-09313"
-  },
-  {
-    "name": "UAB \"FP-Transport\"",
-    "code": "306139255",
-    "address": "Vilnius, A. Goštauto g. 8-109, LT-01108",
-    "vatcode": "LT100016599415"
   },
   {
     "name": "UAB \"FSC Transport\"",
@@ -7204,6 +7231,12 @@
     "code": "304996192",
     "address": "Kupiškio r. sav., Subačius, Vilniaus g. 12, LT-40405",
     "vatcode": "LT100012139010"
+  },
+  {
+    "name": "UAB \"MLG transport\"",
+    "code": "305994187",
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103",
+    "vatcode": "LT100014789611"
   },
   {
     "name": "UAB \"MP Transport\"",
@@ -7495,6 +7528,11 @@
     "vatcode": "LT100009589611"
   },
   {
+    "name": "UAB \"Slg transport\"",
+    "code": "307007267",
+    "address": "Alytaus r. sav., Simnas, Melioratorių g. 16-1, LT-64307"
+  },
+  {
     "name": "UAB \"Special Transport\"",
     "code": "304068090",
     "address": "Vilniaus miesto savivaldybės teritorija"
@@ -7514,7 +7552,8 @@
   {
     "name": "UAB \"TAS Transport Logistik GmbH\"",
     "code": "306389700",
-    "address": "Vilnius, Lvivo g. 13-12, LT-09313"
+    "address": "Vilnius, Lvivo g. 13-12, LT-09313",
+    "vatcode": "LT100017217713"
   },
   {
     "name": "UAB \"TD transport\"",
@@ -7598,7 +7637,8 @@
   {
     "name": "UAB \"Transport solutions\"",
     "code": "300932801",
-    "address": "Klaipėda, Rimkų g. 31-2A, LT-95345"
+    "address": "Klaipėda, Rimkų g. 31-2A, LT-95345",
+    "vatcode": "LT100004170113"
   },
   {
     "name": "UAB \"Transtira transport\"",
@@ -7822,13 +7862,18 @@
   {
     "name": "UAB Artus transport",
     "code": "304876976",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "address": "Vilnius, Kazio Borutos g. 24-1A, LT-08335",
     "vatcode": "LT100012513517"
   },
   {
     "name": "UAB Audrius transport",
     "code": "306089610",
     "address": "Alytaus r. sav., Alytaus sen., Paplanskų k., Rugių g. 3, LT-64393"
+  },
+  {
+    "name": "UAB Aurus transport",
+    "code": "307018623",
+    "address": "Vilnius, Rinktinės g. 55, LT-09207"
   },
   {
     "name": "UAB BALTIC TRANSPORT SYSTEM",
@@ -8554,11 +8599,6 @@
     "address": "Kaunas, Raudondvario pl. 182-12, LT-47149"
   },
   {
-    "name": "MB \"Antano Venckaus transportas\"",
-    "code": "304879374",
-    "address": "Šiaulių r. sav., Kuršėnai, Pušyno g. 13, LT-81130"
-  },
-  {
     "name": "MB \"Arbo transportas\"",
     "code": "306381835",
     "address": "Kaunas, Ašmenos 2-oji g. 10-2, LT-44453",
@@ -8877,7 +8917,7 @@
   {
     "name": "MB \"RVE transportas\"",
     "code": "305981866",
-    "address": "Kaunas, P. Plechavičiaus g. 4-85, LT-49302",
+    "address": "Kauno r. sav., Neveronių sen., Neveronių k., Šiltnamių g. 15, LT-54477",
     "vatcode": "LT100015769118"
   },
   {
@@ -8918,11 +8958,6 @@
     "name": "MB \"Soc. transportas\"",
     "code": "304298999",
     "address": "Švenčionių r. sav., Švenčionėliai, Beržų g. 2, LT-18219"
-  },
-  {
-    "name": "MB \"Statybinis transportas LT\"",
-    "code": "303396006",
-    "address": "Kalvarija, Vytauto g. 26-2, LT-69218"
   },
   {
     "name": "MB \"Sutkaus transportas\"",
@@ -8986,6 +9021,12 @@
     "vatcode": "LT100015745514"
   },
   {
+    "name": "MB \"Vibriant transportas\"",
+    "code": "306016256",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017245210"
+  },
+  {
     "name": "MB \"Vidramsa transportas\"",
     "code": "306019188",
     "address": "Kaunas, Vaisių g. 20-4, LT-44181"
@@ -9029,11 +9070,6 @@
     "address": "Klaipėda, Žūklės g. 1 K1-24, LT-93264"
   },
   {
-    "name": "MB \"Škirio transportas\"",
-    "code": "304785875",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112"
-  },
-  {
     "name": "MB ARTAG TRANSPORTAS",
     "code": "306647111",
     "address": "Kaunas, Kaimelės g. 8B-1, LT-47222"
@@ -9042,6 +9078,11 @@
     "name": "MB ATAS TRANSPORTAS",
     "code": "306963682",
     "address": "Vilniaus r. sav., Sudervės sen., Grikienių k., Riešės 1-oji g. 52, LT-14303"
+  },
+  {
+    "name": "MB Alexandria Transportas",
+    "code": "307018979",
+    "address": "Lazdijų r. sav., Lazdijų sen., Lazdijų k., Ramybės g. 1, LT-67173"
   },
   {
     "name": "MB Alka transportas",
@@ -9093,6 +9134,11 @@
     "code": "306162916",
     "address": "Vilnius, Ukrainiečių g. 22, LT-13278",
     "vatcode": "LT100015786915"
+  },
+  {
+    "name": "MB Ekokodas transportas",
+    "code": "307007979",
+    "address": "Kaunas, Krėvos g. 8-31, LT-44237"
   },
   {
     "name": "MB Elija transportas",
@@ -9640,6 +9686,11 @@
     "code": "304583966",
     "address": "Varėnos r. sav., Merkinės sen., Pilvingių k., Gandrų g. 27, LT-65382",
     "vatcode": "LT100011312914"
+  },
+  {
+    "name": "UAB \"Dv transportas\"",
+    "code": "307015164",
+    "address": "Ukmergė, Jaunimo g. 11-20, LT-20155"
   },
   {
     "name": "UAB \"Dėdės transportas\"",
@@ -10408,8 +10459,7 @@
   {
     "name": "UAB \"Rytų-vakarų transportas\"",
     "code": "302818134",
-    "address": "Alytus, Naujoji g. 140, LT-62175",
-    "vatcode": "LT100008852818"
+    "address": "Alytus, Naujoji g. 140, LT-62175"
   },
   {
     "name": "UAB \"Ryčio transportas\"",
@@ -11304,7 +11354,8 @@
   {
     "name": "UAB Jusema Special Transporte",
     "code": "306984541",
-    "address": "Ukmergės r. sav., Deltuvos sen., Dainavos k., Pakalnės g. 15, LT-20287"
+    "address": "Ukmergės r. sav., Deltuvos sen., Dainavos k., Pakalnės g. 15, LT-20287",
+    "vatcode": "LT100017218314"
   },
   {
     "name": "UAB Lav transporte",
@@ -11326,6 +11377,11 @@
     "name": "UAB WKR Transporte",
     "code": "306234511",
     "address": "Vilniaus r. sav., Rukainių sen., Savičiūnų k., F. Boguševičiaus g. 37, LT-13180"
+  },
+  {
+    "name": "MB TransportEdo",
+    "code": "307010936",
+    "address": "Kauno r. sav., Ringaudų sen., Poderiškių k., Vėjo g. 13, LT-53370"
   },
   {
     "name": "Mažoji bendrija Mj transporter",
@@ -11387,7 +11443,7 @@
   {
     "name": "UAB \"Transporticus\"",
     "code": "306879444",
-    "address": "Palanga, Kontininkų g. 3B K8, LT-00171",
+    "address": "Vilnius, T. Kosciuškos g. 6, LT-01100",
     "vatcode": "LT100017184619"
   },
   {
@@ -11426,8 +11482,7 @@
   {
     "name": "UAB Transportkeda",
     "code": "161764191",
-    "address": "Kėdainių rajono savivaldybės teritorija",
-    "vatcode": "LT100002702015"
+    "address": "Kėdainių rajono savivaldybės teritorija"
   },
   {
     "name": "MB \"Transportlogistic group\"",
@@ -11720,12 +11775,6 @@
     "address": "Kretinga, Savanorių g. 30-1, LT-97110"
   },
   {
-    "name": "K. Motiejausko transporto paslaugų įmonė",
-    "code": "164225936",
-    "address": "Palanga, Vėjų g. 8, LT-00147",
-    "vatcode": "LT642259314"
-  },
-  {
     "name": "K. Rimkaus transporto įmonė",
     "code": "164195717",
     "address": "Kretingos r. sav., Žalgirio sen., Baublių k.",
@@ -11776,8 +11825,7 @@
   {
     "name": "Leono Adomėlio transporto įmonė",
     "code": "160191059",
-    "address": "Kupiškis, Panevėžio g. 5, LT-40134",
-    "vatcode": "LT601910515"
+    "address": "Kupiškis, Panevėžio g. 5, LT-40134"
   },
   {
     "name": "Lietuvos Respublikos transporto priemonių draudikų biuras",
@@ -11879,11 +11927,6 @@
     "vatcode": "LT100014681317"
   },
   {
-    "name": "MB \"Transporto vystymas\"",
-    "code": "304176276",
-    "address": "Vilnius, M. Mažvydo g. 11-44, LT-06256"
-  },
-  {
     "name": "MB Alytaus transporto paslaugos",
     "code": "306029175",
     "address": "Alytaus r. sav., Miroslavo sen., Laburdiškių k., Miško g. 2A, LT-64234"
@@ -11909,6 +11952,11 @@
     "address": "Šiauliai, Žalgirio Sodų 1-oji g. 53, LT-76394"
   },
   {
+    "name": "MB Transporto tyrimai",
+    "code": "307011899",
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Juodeglynų g. 20, LT-92343"
+  },
+  {
     "name": "MB Šiaulių transporto centras",
     "code": "306756160",
     "address": "Šiauliai, Dainų g. 86-11, LT-78269"
@@ -11917,11 +11965,6 @@
     "name": "Motorinių transporto priemonių asociacija \"Šilutės ASK\"",
     "code": "304183580",
     "address": "Šilutė, Pramonės g. 1, LT-99116"
-  },
-  {
-    "name": "Motorinių transporto priemonių iš JAV importuotojų ir pardavėjų asociacija",
-    "code": "301745904",
-    "address": "Kaunas, Jovarų g. 3, LT-47192"
   },
   {
     "name": "Nacionalinė viešojo transporto keleivių asociacija",
@@ -12353,11 +12396,6 @@
     "vatcode": "LT230976610"
   },
   {
-    "name": "UAB Bendra transporto agentūra",
-    "code": "304581883",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
-  },
-  {
     "name": "UAB Jungtinis transporto ir prekybos verslas",
     "code": "303121330",
     "address": "Vilnius, Bajorų kel. 15-47, LT-08446"
@@ -12411,7 +12449,7 @@
   {
     "name": "UAB Transporto grupė \"Spektras\"",
     "code": "303352465",
-    "address": "Vilnius, Pelesos g. 1, LT-02161",
+    "address": "Vilnius, Pelesos g. 1-410, LT-02161",
     "vatcode": "LT100008740313"
   },
   {
@@ -12642,6 +12680,11 @@
     "name": "MB \"Transportos\"",
     "code": "305822508",
     "address": "Ukmergė, Malkų g. 8, LT-20138"
+  },
+  {
+    "name": "UAB \"GMK Transports\"",
+    "code": "306066985",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "MB Mc transportt",
@@ -13159,11 +13202,6 @@
     "code": "305250911",
     "address": "Vilnius, Eduardo Andrė g. 24, LT-02232",
     "vatcode": "LT100012715415"
-  },
-  {
-    "name": "UAB \"Transtaurus\"",
-    "code": "304502964",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
     "name": "UAB \"Transteca\"",
@@ -14103,8 +14141,7 @@
   {
     "name": "UAB SAT Tranz",
     "code": "305623666",
-    "address": "Vilnius, Eišiškių pl. 47-312, LT-02184",
-    "vatcode": "LT100015421810"
+    "address": "Vilnius, Eišiškių pl. 47-312, LT-02184"
   },
   {
     "name": "UAB \"Tranzcity\"",
@@ -14300,7 +14337,7 @@
   {
     "name": "UAB \"Be tranšėjos\"",
     "code": "305689659",
-    "address": "Molėtų r. sav., Balninkų sen., Pabaldiškio k., Ažuožerių g. 7, LT-33146",
+    "address": "Vilnius, Jaunystės g. 4, LT-02236",
     "vatcode": "LT100013760416"
   }
 ]

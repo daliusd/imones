@@ -25,6 +25,11 @@
     "address": "Vilnius, Tolminkiemio g. 3-5, LT-06210"
   },
   {
+    "name": "MB Mega Stock",
+    "code": "307008515",
+    "address": "Kaunas, Laisvės al. 110, LT-44253"
+  },
+  {
     "name": "MB Mega skaičiai",
     "code": "306997186",
     "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Kantališkių g. 4A, LT-53331"
@@ -213,12 +218,13 @@
   {
     "name": "UAB \"Megada\"",
     "code": "303142157",
-    "address": "Kaunas, Ukmergės g. 5-59, LT-49410"
+    "address": "Kaunas, Ukmergės g. 5-59, LT-49410",
+    "vatcode": "LT100008053310"
   },
   {
     "name": "UAB \"Megadena\"",
     "code": "302765308",
-    "address": "Vilnius, Kalvarijų g. 128-49, LT-08210",
+    "address": "Vilniaus miesto savivaldybės teritorija",
     "vatcode": "LT100006835211"
   },
   {
@@ -482,11 +488,6 @@
     "vatcode": "LT100016718512"
   },
   {
-    "name": "UAB \"Europos megapolis\"",
-    "code": "304084970",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
-  },
-  {
     "name": "UAB \"Angar-Megaprojekt\"",
     "code": "305475000",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
@@ -563,12 +564,6 @@
     "code": "304961049",
     "address": "Vilnius, Gerosios Vilties g. 24-30, LT-03144",
     "vatcode": "LT100012689412"
-  },
-  {
-    "name": "UAB \"Megasolis\"",
-    "code": "305781125",
-    "address": "Šiaulių r. sav., Bubių sen., Bubių k., Klevų g. 3, LT-80203",
-    "vatcode": "LT100014379013"
   },
   {
     "name": "MB \"MEGASONUS\"",

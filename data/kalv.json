@@ -66,7 +66,8 @@
   {
     "name": "UAB \"Kalvaitė\"",
     "code": "306712274",
-    "address": "Kretinga, Pasieniečių g. 18D, LT-97192"
+    "address": "Kretinga, Pasieniečių g. 18D, LT-97192",
+    "vatcode": "LT100017272218"
   },
   {
     "name": "Arūno Kalvaičio individuali įmonė",
@@ -540,7 +541,7 @@
   {
     "name": "UAB Kalvarijų B360",
     "code": "306149438",
-    "address": "Vilniaus r. sav., Bezdonių sen., Aukštuolės k., Vakaro 11-oji g. 11, LT-15251"
+    "address": "Vilniaus rajono savivaldybės teritorija"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kalvarijų prekybos centras\"",
@@ -721,11 +722,6 @@
     "name": "UAB \"Žadeikių kalviai\"",
     "code": "169214541",
     "address": "Pasvalio r. sav., Pasvalio sen., Žadeikių k."
-  },
-  {
-    "name": "UAB Mašinų kalviai",
-    "code": "305644347",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
     "name": "UAB Pasvalio kalviai",
@@ -940,11 +936,6 @@
     "address": "Vilnius, I. Masalskio g. 30, LT-02231"
   },
   {
-    "name": "MB \"Marių kalvos\"",
-    "code": "305559480",
-    "address": "Kupiškio r. sav., Kupiškio sen., Bagdonių k., Kauniškio g. 14C, LT-40101"
-  },
-  {
     "name": "MB \"Sostinės kalvos\"",
     "code": "305207066",
     "address": "Varėnos r. sav., Merkinė, Vilniaus g. 23, LT-65334"
@@ -1008,7 +999,8 @@
   {
     "name": "UAB \"Šaltupio kalvos\"",
     "code": "306689594",
-    "address": "Vilnius, Vytenio g. 48-303, LT-03229"
+    "address": "Vilnius, Vytenio g. 48-303, LT-03229",
+    "vatcode": "LT100017236514"
   },
   {
     "name": "UAB Šatijų kalvos",
@@ -1104,11 +1096,6 @@
     "address": "Kaunas, Pašilės g. 46-39, LT-51359"
   },
   {
-    "name": "MB \"Didvyrių kalvė\"",
-    "code": "305099007",
-    "address": "Vilnius, A. Smetonos g. 3-4, LT-01115"
-  },
-  {
     "name": "MB \"Dizaino kalvė\"",
     "code": "304869540",
     "address": "Telšiai, Birutės g. 40-25, LT-87119",
@@ -1195,6 +1182,11 @@
     "name": "MB Kalvė meistarnė",
     "code": "305881136",
     "address": "Plungės r. sav., Žemaičių Kalvarijos sen., Virkšų k., Ąžuolų g. 2, LT-90423"
+  },
+  {
+    "name": "MB Kodo kalvė",
+    "code": "307017076",
+    "address": "Vilnius, Ašmenėlės g. 72-2, LT-11330"
   },
   {
     "name": "MB Kęsto kalvė",

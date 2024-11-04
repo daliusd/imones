@@ -131,6 +131,11 @@
     "address": "Vilnius, Laisvės pr. 60, LT-05120"
   },
   {
+    "name": "Mažoji bendrija Kraunamviska",
+    "code": "307001823",
+    "address": "Vilnius, Taikos g. 126-7, LT-05225"
+  },
+  {
     "name": "MB \"Kraunas\"",
     "code": "306838091",
     "address": "Kauno r. sav., Domeikavos sen., Kumpių k., Pilėnų g. 2A-1, LT-47425"
@@ -139,11 +144,6 @@
     "name": "MB Kraunu vežu",
     "code": "306757351",
     "address": "Vilnius, Kriaučiūnų g. 27A, LT-06295"
-  },
-  {
-    "name": "Kraupėnų kaimo melioracijos statinių naudotojų asociacija",
-    "code": "303166172",
-    "address": "Ukmergės r. sav., Vidiškių sen., Šaukavos k., Jaunimo g. 12, LT-20102"
   },
   {
     "name": "IĮ \"Kraurenta\"",
@@ -222,6 +222,11 @@
     "name": "MB Kraustymai",
     "code": "305726463",
     "address": "Vilnius, Pagubės Sodų 5-oji g. 34, LT-14284"
+  },
+  {
+    "name": "VšĮ Kraustymas",
+    "code": "307005177",
+    "address": "Klaipėdos r. sav., Kretingalė, Jūros g. 13, LT-96331"
   },
   {
     "name": "MB Kraustymo guru",
@@ -386,7 +391,8 @@
   {
     "name": "MB \"Kanapinė krautuvėlė\"",
     "code": "305807673",
-    "address": "Vilnius, Užupio g. 14-31, LT-01203"
+    "address": "Vilnius, Užupio g. 14-31, LT-01203",
+    "vatcode": "LT100017217316"
   },
   {
     "name": "MB \"Krautuvėlė a\"",

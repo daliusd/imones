@@ -20,11 +20,6 @@
     "address": "Vilnius, Girulių g. 5, LT-12124"
   },
   {
-    "name": "MB \"MD kūryba\"",
-    "code": "305585938",
-    "address": "Ignalinos r. sav., Rimšė, Rimšės g. 46, LT-30268"
-  },
-  {
     "name": "MB \"Perkūno kūryba\"",
     "code": "304426840",
     "address": "Tauragės r. sav., Gaurės sen., Eičių k., Mokyklos g. 8-8, LT-73145",
@@ -45,6 +40,11 @@
     "code": "304480731",
     "address": "Tauragė, Tarailių g. 5-18, LT-72108",
     "vatcode": "LT100010792115"
+  },
+  {
+    "name": "MB AMO kūryba",
+    "code": "307016049",
+    "address": "Tauragė, Dariaus ir Girėno g. 26, LT-72250"
   },
   {
     "name": "MB Kūryba be ribų",
@@ -283,7 +283,7 @@
   {
     "name": "MB Kūrybinis elementas",
     "code": "305968299",
-    "address": "Kaunas, Darbininkų g. 20, LT-50173"
+    "address": "Kaunas, Darbininkų g. 20-2, LT-50173"
   },
   {
     "name": "MB Kūrybinis kelias",
@@ -548,6 +548,11 @@
     "address": "Vilnius, M. K. Čiurlionio g. 1-65, LT-03104"
   },
   {
+    "name": "Asociacija Kūrybinės inspiracijos erdvės",
+    "code": "307018107",
+    "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Šiltnamių g. 18-21, LT-14116"
+  },
+  {
     "name": "Aukštaitijos kūrybinės dirbtuvės \"DREVINĖ PUŠIS\"",
     "code": "302536206",
     "address": "Utena, Vaižganto g. 28-22, LT-28206"
@@ -667,11 +672,6 @@
     "address": "Vilnius, M. K. Paco g. 4, LT-10309"
   },
   {
-    "name": "VšĮ Kūrybinės laboratorijos",
-    "code": "304986892",
-    "address": "Plungės r. sav., Stalgėnų sen., Stalgėnų k., Mokyklos g. 7, LT-90358"
-  },
-  {
     "name": "VšĮ Vaikų kūrybinės iniciatyvos fondo licėjus \"Forumas\"",
     "code": "303370189",
     "address": "Vilnius, J. Jasinskio g. 16G, LT-03163"
@@ -747,11 +747,6 @@
     "name": "Asociacija \"Kūrybos forma\"",
     "code": "300695195",
     "address": "Kupiškio r. sav., Kupiškio sen., Antašavos mstl., Vabalninko g. 28, LT-40422"
-  },
-  {
-    "name": "Asociacija \"Kūrybos sintezė\"",
-    "code": "304054450",
-    "address": "Vilnius, Bistryčios g. 40-21, LT-10321"
   },
   {
     "name": "Asociacija Melkio Moterų Kūrybos Namai",
@@ -933,10 +928,20 @@
     "address": "Telšiai, Muziejaus g. 29, LT-87356"
   },
   {
+    "name": "MB Kūrybos alėja",
+    "code": "307005184",
+    "address": "Šiauliai, Paparčio Sodų 1-oji g. 26, LT-76392"
+  },
+  {
     "name": "MB Kūrybos grupė",
     "code": "304852249",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
     "vatcode": "LT100012183018"
+  },
+  {
+    "name": "MB Kūrybos istorijos",
+    "code": "307017090",
+    "address": "Vilnius, Šeškinės g. 17-11, LT-07153"
   },
   {
     "name": "MB Kūrybos linija",
@@ -953,11 +958,6 @@
     "name": "MB Kūrybos įdėjų kalvė",
     "code": "305809585",
     "address": "Vilnius, Gabijos g. 4-74, LT-12104"
-  },
-  {
-    "name": "MB Mortos kūrybos namai",
-    "code": "304956397",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "Marijampolės moksleivių kūrybos centras",
@@ -1180,6 +1180,11 @@
     "vatcode": "LT100011445816"
   },
   {
+    "name": "VšĮ Kūrybos erdvė",
+    "code": "307014169",
+    "address": "Gargždai, Senojo tak. 18, LT-96190"
+  },
+  {
     "name": "VšĮ Kūrybos ir inovacijų laboratorija",
     "code": "304163357",
     "address": "Vilnius, Vilkpėdės g. 6A-46, LT-03151"
@@ -1188,11 +1193,6 @@
     "name": "VšĮ Kūrybos mokymo centras",
     "code": "306307596",
     "address": "Kaunas, Žemaičių g. 31-202, LT-44175"
-  },
-  {
-    "name": "VšĮ Kūrybos namai \"Memelio technika\"",
-    "code": "305622913",
-    "address": "Klaipėda, Baltijos pr. 47-22, LT-94127"
   },
   {
     "name": "VšĮ Kūrybos spektras",

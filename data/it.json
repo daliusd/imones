@@ -62,11 +62,6 @@
     "vatcode": "LT100008686618"
   },
   {
-    "name": "\"KYO IT\", MB",
-    "code": "305555090",
-    "address": "Vilnius, A. Juozapavičiaus g. 3-68, LT-09310"
-  },
-  {
     "name": "\"Keep it boutique\", MB",
     "code": "306086183",
     "address": "Druskininkai, Raigardo g. 30, LT-66226",
@@ -195,6 +190,12 @@
     "vatcode": "LT100005688214"
   },
   {
+    "name": "It sprendimai, MB",
+    "code": "307006891",
+    "address": "Kaunas, E. Volterio g. 71-1, LT-47211",
+    "vatcode": "LT100017239710"
+  },
+  {
     "name": "It uoga MB",
     "code": "306213734",
     "address": "Kauno r. sav., Linksmakalnio sen., Linksmakalnio k., Žalioji g. 10-4, LT-53291",
@@ -219,7 +220,7 @@
   {
     "name": "IĮ \"IT STANDARTAS\"",
     "code": "302473115",
-    "address": "Vilnius, Salomėjos Nėries g. 107-147, LT-12117",
+    "address": "Vilniaus miesto savivaldybės teritorija",
     "vatcode": "LT100005121312"
   },
   {
@@ -285,6 +286,11 @@
     "name": "MB \"Baltijos IT sprendimai\"",
     "code": "305269897",
     "address": "Vilnius, Bistryčios g. 12-31, LT-10321"
+  },
+  {
+    "name": "MB \"Barausko IT\"",
+    "code": "307003386",
+    "address": "Vilnius, Birželio 23-iosios g. 7-8, LT-03206"
   },
   {
     "name": "MB \"Darjus IT\"",
@@ -360,11 +366,6 @@
     "code": "303354683",
     "address": "Kaunas, I. Kanto g. 2-3, LT-44296",
     "vatcode": "LT100012298618"
-  },
-  {
-    "name": "MB \"IT Industry\"",
-    "code": "306678651",
-    "address": "Vilnius, Klaipėdos g. 4-101, LT-01118"
   },
   {
     "name": "MB \"IT Laikas\"",
@@ -1005,7 +1006,8 @@
   {
     "name": "MB IT Tech",
     "code": "306963885",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100017153911"
   },
   {
     "name": "MB IT business solutions",
@@ -1049,6 +1051,11 @@
     "name": "MB IT žingsnis",
     "code": "305706891",
     "address": "Radviliškis, Gedimino g. 7-45, LT-82173"
+  },
+  {
+    "name": "MB It birds",
+    "code": "307010014",
+    "address": "Vilnius, A. Vivulskio g. 15-6, LT-03162"
   },
   {
     "name": "MB It elitas",
@@ -1116,7 +1123,8 @@
   {
     "name": "MB Made it",
     "code": "306011615",
-    "address": "Telšiai, Birutės g. 22-3, LT-87120"
+    "address": "Telšiai, Birutės g. 22-3, LT-87120",
+    "vatcode": "LT100017240018"
   },
   {
     "name": "MB Make it linen",
@@ -1528,12 +1536,12 @@
   {
     "name": "UAB \"IT SALES\"",
     "code": "303406443",
-    "address": "Vilnius, Laisvės pr. 125A-101, LT-06118"
+    "address": "Vilnius, Paplaujos g. 3-4, LT-11342"
   },
   {
     "name": "UAB \"IT SKILL HOUSE\"",
     "code": "125694366",
-    "address": "Vilnius, M. Katkaus g. 5-32, LT-09217",
+    "address": "Vilnius, Totorių g. 14-15, LT-01121",
     "vatcode": "LT256943610"
   },
   {
@@ -2156,7 +2164,8 @@
   {
     "name": "UAB Nuotolinė IT pagalba",
     "code": "306706079",
-    "address": "Vilnius, Upės g. 23-1, LT-08128"
+    "address": "Vilnius, Upės g. 23-1, LT-08128",
+    "vatcode": "LT100017237613"
   },
   {
     "name": "UAB PROFITO IT",

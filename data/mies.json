@@ -108,6 +108,11 @@
     "vatcode": "LT100014024410"
   },
   {
+    "name": "MB \"Jūsų miestas\"",
+    "code": "307019248",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB \"Kūrybos miestas\"",
     "code": "304434335",
     "address": "Mažeikiai, Šaltinėlio g. 6, LT-89142",
@@ -266,11 +271,6 @@
     "vatcode": "LT100002867117"
   },
   {
-    "name": "UAB \"Paslaugų miestas\"",
-    "code": "304424896",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "UAB \"SMARAGDO MIESTAS\"",
     "code": "300627486",
     "address": "Vilnius, Kalvų Sodų 4-oji g. 7, LT-10244"
@@ -336,7 +336,7 @@
   {
     "name": "Viešoji įstaiga \"Vilnius UNESCO literatūros miestas\"",
     "code": "306058764",
-    "address": "Vilnius, Konstitucijos pr. 3, LT-09308"
+    "address": "Vilnius, Šv. Jono g. 11-16, LT-01123"
   },
   {
     "name": "Viešoji įstaiga Amatų miestas",
@@ -413,11 +413,6 @@
     "name": "Daugiabučio namo Nepriklausomybės al. 27, Naujosios Akmenės mieste, savininkų bendrija",
     "code": "300759438",
     "address": "Naujoji Akmenė, Nepriklausomybės al. 27-15, LT-85129"
-  },
-  {
-    "name": "Daugiabučio namo Nepriklausomybės al. 28, Naujosios Akmenės mieste savininkų bendrija",
-    "code": "300822536",
-    "address": "Naujoji Akmenė, Nepriklausomybės al. 28-2, LT-85129"
   },
   {
     "name": "Daugiabučio namo Nepriklausomybės al. 33, Naujosios Akmenės mieste savininkų bendrija",
@@ -503,7 +498,7 @@
   {
     "name": "Antašavos miestelio bendruomenė",
     "code": "160322341",
-    "address": "Kupiškio r. sav., Kupiškio sen., Antašavos mstl., Pergalės g. 3, LT-40422"
+    "address": "Kupiškio r. sav., Kupiškio sen., Antašavos mstl., Pergalės g. 2, LT-40422"
   },
   {
     "name": "Anykščių rajono Kurklių miestelio bendruomenė",
@@ -1155,6 +1150,11 @@
     "name": "Asociacija \"Saulės miesto atletikos klubas\"",
     "code": "302604792",
     "address": "Šiauliai, Baltupėnų g. 4-5, LT-78131"
+  },
+  {
+    "name": "Asociacija \"Telšių miesto folkloro grupė SULA\"",
+    "code": "307006208",
+    "address": "Telšių r. sav., Tryškiai, Birutės g. 24, LT-88152"
   },
   {
     "name": "Asociacija \"Ukmergės miesto vietos veiklos grupė\"",
@@ -2081,7 +2081,12 @@
   {
     "name": "Kauno miesto Žaliakalnio vietos veiklos grupė",
     "code": "304084109",
-    "address": "Kaunas, Partizanų g. 5, LT-50207"
+    "address": "Kaunas, Kapsų g. 11, LT-50176"
+  },
+  {
+    "name": "Kazlų Rūdos miesto bendruomenė",
+    "code": "307016056",
+    "address": "Kazlų Rūda, S. Daukanto g. 22-34, LT-69433"
   },
   {
     "name": "Kazlų Rūdos miesto daugiabučio gyvenamojo namo Atgimimo 3 savininkų bendrija",
@@ -2527,11 +2532,6 @@
     "name": "Klaipėdos miesto sporto bazių valdymo centras",
     "code": "140706498",
     "address": "Klaipėda, Dariaus ir Girėno g. 10, LT-92255"
-  },
-  {
-    "name": "Klaipėdos miesto sporto draugija \"Žalgiris\"",
-    "code": "193174918",
-    "address": "Klaipėda, Teatro g. 1, LT-91247"
   },
   {
     "name": "Klaipėdos miesto sporto klubas \"Viesulas\"",
@@ -3513,11 +3513,6 @@
     "address": "Panevėžys, Taikos al. 11, LT-35148"
   },
   {
-    "name": "Panevėžio miesto pagyvenusių žmonių bendrija",
-    "code": "300579422",
-    "address": "Panevėžys, Nevėžio g. 38, LT-35107"
-  },
-  {
     "name": "Panevėžio miesto savivaldybės administracija",
     "code": "288724610",
     "address": "Panevėžys, Laisvės a. 20, LT-35200"
@@ -3606,11 +3601,6 @@
     "name": "Prienų miesto vietos veiklos grupė",
     "code": "303328343",
     "address": "Prienai, V. Kudirkos g. 40, LT-59113"
-  },
-  {
-    "name": "Radviliškio miesto krikščionių bažnyčia \"Emanuelis\"",
-    "code": "191874430",
-    "address": "Radviliškio r. sav., Šeduva, Vėriškių g. 27, LT-82234"
   },
   {
     "name": "Radviliškio miesto kultūros centras",
@@ -4413,11 +4403,6 @@
     "address": "Vilnius, Žemynos g. 1, LT-06126"
   },
   {
-    "name": "VILNIAUS MIESTO PLAUKIMO VETERANŲ SPORTO KLUBAS \"POSEIDONAS\"",
-    "code": "126415499",
-    "address": "Vilnius, Gedvydžių g. 4-39, LT-06306"
-  },
-  {
     "name": "VILNIAUS MIESTO POLICIJOS DARBUOTOJŲ PROFESINĖ SĄJUNGA",
     "code": "124467077",
     "address": "Vilnius, J. Jasinskio g. 9, LT-01112"
@@ -4476,11 +4461,6 @@
     "name": "VILNIAUS MIESTO SPORTO KLUBAS \"GINTARAS\"",
     "code": "291891690",
     "address": "Vilnius, Antakalnio g. 94-27, LT-10202"
-  },
-  {
-    "name": "VILNIAUS MIESTO SPORTO SĄJUNGA",
-    "code": "300538646",
-    "address": "Vilnius, Olimpiečių g. 17, LT-09237"
   },
   {
     "name": "VILNIAUS MIESTO SPORTO ŽAIDIMŲ KLUBAS \"JUSTITIA\"",
@@ -4859,6 +4839,11 @@
     "address": "Vilnius, P. Vileišio g. 6F-10, LT-10308"
   },
   {
+    "name": "Vilniaus miesto Daugiabučio gyvenamojo namo Panevėžio g. 23 savininkų bendrija \"Naujystė\"",
+    "code": "307005939",
+    "address": "Vilnius, Panevėžio g. 23-14, LT-02165"
+  },
+  {
     "name": "Vilniaus miesto Daugiabučio gyvenamojo namo Paupio g. 17 savininkų bendrija \"Paupio 17\"",
     "code": "304975789",
     "address": "Vilnius, Paupio g. 17-16, LT-11341"
@@ -5234,11 +5219,6 @@
     "address": "Vilnius, J. Basanavičiaus g. 6-6A, LT-01118"
   },
   {
-    "name": "Vilniaus miesto moksleivių sveikatos centras",
-    "code": "305934902",
-    "address": "Vilnius, Žirmūnų g. 37, LT-09106"
-  },
-  {
     "name": "Vilniaus miesto mėgėjų-profesionalų stalo teniso klubas \"Ping-Pong\"",
     "code": "191193923",
     "address": "Vilnius, Taikos g. 36-46, LT-05238"
@@ -5422,7 +5402,7 @@
   {
     "name": "Vilniaus miesto savivaldybės administracijos Verkių seniūnija",
     "code": "188651143",
-    "address": "Vilnius, Kalvarijų g. 156, LT-08207"
+    "address": "Vilnius, Rugių g. 1A"
   },
   {
     "name": "Vilniaus miesto savivaldybės administracijos Vilkpėdės seniūnija",
@@ -5523,11 +5503,6 @@
     "name": "Vilniaus miesto tinklinio klubas",
     "code": "302719816",
     "address": "Vilnius, Didlaukio g. 37-27, LT-08320"
-  },
-  {
-    "name": "Vilniaus miesto vaikų ir jaunimo teatro susivienijimas \"Žaliasis Žibintas\" (\"Zelionyi Fonar\")",
-    "code": "191896665",
-    "address": "Vilnius, Musninkų g. 14-80, LT-07183"
   },
   {
     "name": "Vilniaus miesto vandensvydžio sporto klubas \"DELFINAS\"",
@@ -6135,7 +6110,12 @@
   {
     "name": "VšĮ \"Strategijos miestui\"",
     "code": "303091620",
-    "address": "Kaunas, Miško g. 30-88, LT-44313"
+    "address": "Anykščių r. sav., Kavarsko sen., Mackeliškių k., Nevėžės g. 26, LT-29282"
+  },
+  {
+    "name": "MB \"Vėjo miestukas\"",
+    "code": "307017197",
+    "address": "Panevėžys, Vėgėlių g. 63, LT-37170"
   },
   {
     "name": "Asociacija \"Miestučiai\"",

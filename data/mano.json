@@ -37,11 +37,6 @@
     "address": "Kaunas, Partizanų g. 29I-31, LT-49450"
   },
   {
-    "name": "Asociacija \"Mano laisvalaikis\"",
-    "code": "304037287",
-    "address": "Vilnius, Fabijoniškių g. 65-8, LT-07110"
-  },
-  {
     "name": "Asociacija \"Mano lemtis\"",
     "code": "302315325",
     "address": "Plungės r. sav., Kuliai, Aušros g. 18-2, LT-90372"
@@ -549,11 +544,6 @@
     "address": "Vilnius, Kedrų g. 6-403, LT-03120"
   },
   {
-    "name": "MB \"Mano siunta\"",
-    "code": "303665353",
-    "address": "Kaunas, Kraigo g. 3-2, LT-47222"
-  },
-  {
     "name": "MB \"Mano sklypelis\"",
     "code": "305757836",
     "address": "Kaišiadorių r. sav., Palomenės sen., Putriškių k., Koplyčios g. 10, LT-56393",
@@ -584,11 +574,6 @@
     "name": "MB \"Mano sveikata\"",
     "code": "303302124",
     "address": "Klaipėda, Dailidžių g. 49, LT-92307"
-  },
-  {
-    "name": "MB \"Mano tikslas\"",
-    "code": "305262116",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
     "name": "MB \"Mano tralas\"",
@@ -750,6 +735,11 @@
     "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Raizgių k., Ežerėlio g. 6, LT-80191"
   },
   {
+    "name": "MB Mano namai",
+    "code": "307011511",
+    "address": "Vilnius, Antakalnio g. 26-8, LT-10305"
+  },
+  {
     "name": "MB Mano namelis",
     "code": "306984737",
     "address": "Kaunas, Butrimonių g. 7, LT-50218"
@@ -758,6 +748,11 @@
     "name": "MB Mano purkštukai",
     "code": "306990238",
     "address": "Kelmė, Žvejų g. 36, LT-86137"
+  },
+  {
+    "name": "MB Mano pėdos",
+    "code": "307008020",
+    "address": "Kaunas, Kęstučio g. 68-12, LT-44298"
   },
   {
     "name": "MB Mano rūmai",
@@ -840,6 +835,11 @@
     "vatcode": "LT100008780211"
   },
   {
+    "name": "Mano aukso amžius",
+    "code": "307005323",
+    "address": "Vilnius, Smėlio g. 23-30, LT-10323"
+  },
+  {
     "name": "Mano baldai UAB",
     "code": "306385673",
     "address": "Kaunas, Chemijos g. 21B-77, LT-51331",
@@ -867,14 +867,14 @@
     "address": "Vilnius, Vandentiekio g. 42-25, LT-03152"
   },
   {
+    "name": "Mano siuvykla IĮ",
+    "code": "306995299",
+    "address": "Kėdainių r. sav., Pelėdnagių sen., Paobelio k., Nevėžio g. 1, LT-58158"
+  },
+  {
     "name": "Mažeikių rajono klubas \"Mano namai\"",
     "code": "167398053",
     "address": "Mažeikiai, Mindaugo g. 4-16, LT-89222"
-  },
-  {
-    "name": "Mažoji bendrija \"Mano mada\"",
-    "code": "303396547",
-    "address": "Vilnius, Telšių g. 9-3, LT-02166"
   },
   {
     "name": "Mažoji bendrija \"Namai mano tvirtovė\"",
@@ -991,8 +991,7 @@
   {
     "name": "UAB \"Mano atributika\"",
     "code": "304553186",
-    "address": "Vilnius, Šv. Stepono g. 32, LT-01312",
-    "vatcode": "LT100010977810"
+    "address": "Vilnius, Šv. Stepono g. 32, LT-01312"
   },
   {
     "name": "UAB \"Mano augintinis\"",
@@ -1513,7 +1512,7 @@
   {
     "name": "UAB Mano krantas",
     "code": "302873472",
-    "address": "Vilniaus rajono savivaldybės teritorija"
+    "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Ežero g. 14-2, LT-14158"
   },
   {
     "name": "UAB Mano krautuvėlė",
@@ -1782,11 +1781,6 @@
     "code": "110343945",
     "address": "Vilnius, V. A. Graičiūno g. 10, LT-02244",
     "vatcode": "LT103439417"
-  },
-  {
-    "name": "Manopay, UAB",
-    "code": "305543686",
-    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "Manor Hotels, UAB",

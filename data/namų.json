@@ -150,11 +150,6 @@
     "address": "Vilnius, Taikos g. 44-75, LT-05237"
   },
   {
-    "name": "226-oji daugiabučių namų savininkų bendrija",
-    "code": "135379194",
-    "address": "Kaunas, Kuršių g. 12-30, LT-48147"
-  },
-  {
     "name": "228-oji gyvenamųjų namų statybos bendrija",
     "code": "124796368",
     "address": "Vilnius, Taikos g. 14-62, LT-05256"
@@ -547,7 +542,7 @@
   {
     "name": "613-oji gyvenamųjų namų statybos bendrija",
     "code": "125119020",
-    "address": "Vilnius, Paukščių Tako g. 21, LT-12189"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "619-oji daugiabučių namų savininkų bendrija",
@@ -2345,6 +2340,11 @@
     "address": "Alytus, Sodžiaus g. 10-3, LT-62446"
   },
   {
+    "name": "Daugiabučių namų savininkų bendrija \"Sodžius-10\"",
+    "code": "301694993",
+    "address": "Kauno r. sav., Akademija, Mokyklos g. 4, LT-53347"
+  },
+  {
     "name": "Daugiabučių namų savininkų bendrija \"Solo city\"",
     "code": "303191300",
     "address": "Vilnius, Juozo Rutkausko g. 27-R25, LT-05132"
@@ -2657,7 +2657,7 @@
   {
     "name": "Daugiabučių namų savininkų bendrija \"Šviesa\"",
     "code": "150003021",
-    "address": "Alytus, Jurgiškių g. 5-15, LT-63158"
+    "address": "Alytus, Jurgiškių g. 1-32, LT-63158"
   },
   {
     "name": "Daugiabučių namų savininkų bendrija \"Švietimas\"",
@@ -2748,6 +2748,11 @@
     "name": "Daugiabučių namų savininkų bendrija \"Žėrutis\"",
     "code": "150050277",
     "address": "Alytus, Aukštakalnio g. 26-12, LT-63102"
+  },
+  {
+    "name": "Daugiabučių namų savininkų bendrija ,,Jurgiškiai\"",
+    "code": "307008376",
+    "address": "Alytus, Jurgiškių g. 7-1, LT-63158"
   },
   {
     "name": "Daugiabučių namų savininkų bendrija 22 kaimynai",
@@ -3083,6 +3088,11 @@
     "name": "Dvibučių gyvenamųjų namų bendrija Paparčių alėja",
     "code": "306322737",
     "address": "Vilniaus r. sav., Nemėžio sen., Pakalniškių k., Paparčių g. 7-1, LT-13287"
+  },
+  {
+    "name": "Dvibučių gyvenamųjų namų savininkų bendrija \"Stirnų giraitė\"",
+    "code": "307010808",
+    "address": "Vilniaus r. sav., Bezdonių sen., Sakiškių k., Medžiotojų g. 18-1, LT-15180"
   },
   {
     "name": "Dzūkų k. daugiabučių namų savininkų bendrija",
@@ -3837,7 +3847,7 @@
   {
     "name": "Gyvenamųjų namų statybos bendrija \"1331\"",
     "code": "300088882",
-    "address": "Vilnius, Vytenio g. 61A, LT-03202",
+    "address": "Palanga, Žibų g. 5, LT-00170",
     "vatcode": "LT100008853210"
   },
   {
@@ -4381,11 +4391,6 @@
     "address": "Klaipėda, Serviso g. 29, LT-92335"
   },
   {
-    "name": "Individualių gyvenamųjų namų savininkų bendrija \"ŠILUMININKAS-3\"",
-    "code": "141900919",
-    "address": "Klaipėda, Miško g. 9-2"
-  },
-  {
     "name": "Individualių gyvenamųjų namų savininkų bendrija \"Šaulio ženklas\"",
     "code": "301132545",
     "address": "Vilniaus r. sav., Avižienių sen., Bajorų k., Šaulio g. 95, LT-14189"
@@ -4864,11 +4869,6 @@
     "address": "Šilutė, Geležinkelio g. 7-41, LT-99148"
   },
   {
-    "name": "MB \"Namų filosofija\"",
-    "code": "305631143",
-    "address": "Klaipėda, Kuosų g. 20-115, LT-91187"
-  },
-  {
     "name": "MB \"Namų idėja\"",
     "code": "306445622",
     "address": "Kauno r. sav., Kačerginė, Prieplaukos g. 4-18, LT-53445",
@@ -4936,7 +4936,8 @@
   {
     "name": "MB \"Namų šildymas\"",
     "code": "306306003",
-    "address": "Palanga, Vėžių g. 4, LT-00186"
+    "address": "Palanga, Vėžių g. 4, LT-00186",
+    "vatcode": "LT100017235819"
   },
   {
     "name": "MB \"Namų šiluma\"",
@@ -5033,6 +5034,11 @@
     "address": "Vilnius, Žaliųjų Ežerų g. 3-42, LT-08408"
   },
   {
+    "name": "MB Namų rangovas",
+    "code": "307005056",
+    "address": "Vilnius, Vasarotojų g. 6A, LT-02245"
+  },
+  {
     "name": "MB Namų renovacija",
     "code": "305987082",
     "address": "Panevėžys, A. Smetonos g. 42A, LT-35197",
@@ -5063,11 +5069,6 @@
     "code": "306272572",
     "address": "Kauno r. sav., Garliavos apylinkių sen., Karkazų k., Energijos 6-oji g. 26, LT-53296",
     "vatcode": "LT100015855810"
-  },
-  {
-    "name": "MB Pilnų namų parduotuvėlė",
-    "code": "305590981",
-    "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Vėjų g. 25-1, LT-14266"
   },
   {
     "name": "Margirio g. 10-ojo ir 12-ojo namų savininkų bendrija",
@@ -5887,7 +5888,8 @@
   {
     "name": "UAB Namų fondas",
     "code": "306997371",
-    "address": "Kauno r. sav., Ringaudų sen., Pyplių k., Miglės g. 15, LT-53456"
+    "address": "Kauno r. sav., Ringaudų sen., Pyplių k., Miglės g. 15, LT-53456",
+    "vatcode": "LT100017221718"
   },
   {
     "name": "UAB Namų investicija",
@@ -6165,6 +6167,11 @@
     "name": "VšĮ \"Namų mama\"",
     "code": "306249869",
     "address": "Gargždai, Kvietinių g. 63, LT-96136"
+  },
+  {
+    "name": "VšĮ Išminties namų fondas",
+    "code": "306838127",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
   },
   {
     "name": "VšĮ Kauno 2-osios klinikinės ligoninės filialo P. Mažylio gimdymo namų profesinė sąjunga",

@@ -20,12 +20,6 @@
     "address": "Vilnius, J. Basanavičiaus g. 16-21, LT-03224"
   },
   {
-    "name": "D. Kačinsko reklamos įmonė \"VAKARŲ REKLAMA\"",
-    "code": "141241917",
-    "address": "Klaipėda, Medžiotojų g. 2-1, LT-92123",
-    "vatcode": "LT412419113"
-  },
-  {
     "name": "D. Lesausko įmonė \"Jauna reklama\"",
     "code": "135633319",
     "address": "Kaunas, S. Žukausko g. 15-9, LT-49309",
@@ -51,6 +45,12 @@
     "name": "IĮ \"EKSTRA REKLAMA\"",
     "code": "300538354",
     "address": "Vilnius, Baltupio g. 173-7, LT-08432"
+  },
+  {
+    "name": "IĮ D. Kačinsko reklamos įmonė \"Vakarų reklama\"",
+    "code": "141241917",
+    "address": "Klaipėda, Sandėlių g. 24, LT-95107",
+    "vatcode": "LT412419113"
   },
   {
     "name": "MB \"360 skaitmeninė reklama\"",
@@ -98,6 +98,11 @@
     "name": "MB \"Odinė reklama\"",
     "code": "304536475",
     "address": "Šiauliai, Plungės g. 14, LT-76150"
+  },
+  {
+    "name": "MB \"Reklama 3000\"",
+    "code": "307009948",
+    "address": "Jurbarkas, V. Kudirkos g. 26-24, LT-74148"
   },
   {
     "name": "MB \"Reklama Kinijoje\"",
@@ -164,11 +169,6 @@
     "code": "305232226",
     "address": "Vilnius, Taikos g. 54-8, LT-05236",
     "vatcode": "LT100012662219"
-  },
-  {
-    "name": "MB \"Čia galėtų būti jūsų reklama\"",
-    "code": "305199000",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB Ateities reklama",
@@ -468,7 +468,8 @@
   {
     "name": "UAB Omb reklama",
     "code": "306662857",
-    "address": "Vilnius, Salomėjos Nėries g. 27-13, LT-06314"
+    "address": "Vilnius, Salomėjos Nėries g. 27-13, LT-06314",
+    "vatcode": "LT100017215319"
   },
   {
     "name": "UAB RED LINE REKLAMA",
@@ -717,12 +718,6 @@
     "address": "Vilnius, Lvivo g. 44-17"
   },
   {
-    "name": "D. Kačinsko reklamos įmonė \"VAKARŲ REKLAMA\"",
-    "code": "141241917",
-    "address": "Klaipėda, Medžiotojų g. 2-1, LT-92123",
-    "vatcode": "LT412419113"
-  },
-  {
     "name": "D. Sutkaičio dizaino reklamos dirbtuvės \"Vedeksas\"",
     "code": "151149634",
     "address": "Marijampolė, Sasnavos g. 76D, LT-68110"
@@ -790,6 +785,12 @@
     "code": "133057020",
     "address": "Kaunas, Pramonės pr. 32-36, LT-50347",
     "vatcode": "LT330570219"
+  },
+  {
+    "name": "IĮ D. Kačinsko reklamos įmonė \"Vakarų reklama\"",
+    "code": "141241917",
+    "address": "Klaipėda, Sandėlių g. 24, LT-95107",
+    "vatcode": "LT412419113"
   },
   {
     "name": "IĮ Edmanto Mališausko reklamos firma",
@@ -1413,8 +1414,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"REKLAMOS GAMA\"",
     "code": "142168176",
-    "address": "Klaipėda, Šilutės pl. 84-33, LT-95198",
-    "vatcode": "LT421681716"
+    "address": "Klaipėda, Šilutės pl. 84-33, LT-95198"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Reklamos etalonas\"",
@@ -1455,11 +1455,6 @@
     "name": "V. Šipelio firma \"REKLAMOS ERDVĖ\"",
     "code": "148222150",
     "address": "Panevėžys, Staniūnų g. 77-71, LT-36153"
-  },
-  {
-    "name": "Violetos Mizevos reklamos firma",
-    "code": "165807932",
-    "address": "Kazlų Rūda, Maironio g. 24-10, LT-69407"
   },
   {
     "name": "VšĮ \"Reklamos namai\"",
@@ -1507,6 +1502,11 @@
     "code": "304585636",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282",
     "vatcode": "LT100011130916"
+  },
+  {
+    "name": "Mažoji bendrija reklamų centras, MB",
+    "code": "307006350",
+    "address": "Vilnius, A. Smetonos g. 3-32, LT-01115"
   },
   {
     "name": "Mažoji bendrija Reklauto",

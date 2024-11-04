@@ -175,13 +175,13 @@
   {
     "name": "UAB Kelmės miškai",
     "code": "306733966",
-    "address": "Kelmės r. sav., Kelmės apylinkių sen., Verpenos k., Kelmės g. 43, LT-86105"
+    "address": "Kelmės r. sav., Kelmės apylinkių sen., Verpenos k., Kelmės g. 43, LT-86105",
+    "vatcode": "LT100017214917"
   },
   {
     "name": "UAB Labanoro miškai",
     "code": "302589657",
-    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263",
-    "vatcode": "LT100005890219"
+    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263"
   },
   {
     "name": "UAB Utenos miškai",
@@ -821,11 +821,6 @@
     "vatcode": "LT100016187719"
   },
   {
-    "name": "MB \"Ežys miške\"",
-    "code": "304412513",
-    "address": "Vilnius, Žirmūnų g. 20-110, LT-09231"
-  },
-  {
     "name": "MB \"Kaip miške\"",
     "code": "304784008",
     "address": "Klaipėdos r. sav., Kretingalės sen., Grabių k., Kukučių g. 70, LT-92381",
@@ -1345,11 +1340,6 @@
     "address": "Lazdijų r. sav., Seirijai, Metelių g. 7, LT-67227"
   },
   {
-    "name": "Joniškio padalinio miško darbuotojų profesinė sąjunga",
-    "code": "157691143",
-    "address": "Joniškio r. sav., Kepalių sen., Beržininkų k., Urėdijos g. 1, LT-84193"
-  },
-  {
     "name": "Jono Tunaičio miško ruošos įmonė",
     "code": "165796119",
     "address": "Kazlų Rūdos sav., Kazlų Rūdos sen., Užbalių k."
@@ -1585,11 +1575,6 @@
     "vatcode": "LT100012154418"
   },
   {
-    "name": "MB \"Miško takas\"",
-    "code": "305585913",
-    "address": "Vilnius, Kalvarijų g. 168-51, LT-08206"
-  },
-  {
     "name": "MB \"Miško takeliais\"",
     "code": "304750803",
     "address": "Visaginas, Vilties g. 5A-1, LT-31118"
@@ -1652,6 +1637,11 @@
     "code": "306000405",
     "address": "Vilniaus r. sav., Nemenčinės sen., Tuščiaulių k., Gėlos g. 1-5A, LT-15166",
     "vatcode": "LT100015288617"
+  },
+  {
+    "name": "MB Miško girios rungai",
+    "code": "307004716",
+    "address": "Utena, Palangos g. 66A, LT-28140"
   },
   {
     "name": "MB Miško idilė",
@@ -2082,11 +2072,6 @@
     "name": "UAB \"Miško saulė\"",
     "code": "302884401",
     "address": "Vilnius, J. Tallat-Kelpšos g. 11, LT-08431"
-  },
-  {
-    "name": "UAB \"Miško sodyba\"",
-    "code": "302504475",
-    "address": "Klaipėda, Ryšininkų g. 8-7, LT-91118"
   },
   {
     "name": "UAB \"Miško specialistai\"",

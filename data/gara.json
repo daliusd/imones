@@ -71,6 +71,11 @@
     "address": "Marijampolės sav., Marijampolės sen., Kumelionių k., Pilies g. 11, LT-68130"
   },
   {
+    "name": "MB Mpower garage",
+    "code": "307015552",
+    "address": "Vilnius, Giedraičių g. 59-77, LT-08212"
+  },
+  {
     "name": "MB Pofka garage",
     "code": "306211128",
     "address": "Kauno r. sav., Vilkija, Putinų g. 3, LT-54225",
@@ -442,11 +447,6 @@
     "code": "302703107",
     "address": "Biržai, Agluonos g. 53, LT-41132",
     "vatcode": "LT100006660210"
-  },
-  {
-    "name": "UAB \"Konto garantas\"",
-    "code": "303382679",
-    "address": "Klaipėda, Debreceno g. 11-52, LT-94173"
   },
   {
     "name": "UAB \"Kredito garantas\"",
@@ -1061,11 +1061,6 @@
     "address": "Kalvarija, Dariaus ir Girėno g. 45A-1, LT-69219"
   },
   {
-    "name": "MB \"Monstrų garažas\"",
-    "code": "305439787",
-    "address": "Utena, Kupiškio g. 13, LT-28135"
-  },
-  {
     "name": "MB \"Poškų garažas\"",
     "code": "306719030",
     "address": "Klaipėdos r. sav., Agluonėnų sen., Poškų k., Poškų g. 5, LT-96255"
@@ -1094,7 +1089,8 @@
   {
     "name": "MB Roko garažas",
     "code": "305907360",
-    "address": "Mažeikiai, Tylioji g. 32-31, LT-89307"
+    "address": "Mažeikiai, Tylioji g. 32-31, LT-89307",
+    "vatcode": "LT100017275616"
   },
   {
     "name": "MB STATYBŲ GARAŽAS",
@@ -1607,7 +1603,7 @@
   {
     "name": "125-oji garažų statybos ir eksploatavimo bendrija",
     "code": "135397630",
-    "address": "Kaunas, V. Krėvės pr. 109A, LT-50374"
+    "address": "Kaunas, V. Krėvės pr. 109C-24, LT-50374"
   },
   {
     "name": "126-oji garažų eksploatavimo bendrija Radviliškiog. 84",
@@ -5215,7 +5211,7 @@
   {
     "name": "Garažų eksploatavimo bendrija \"Kalnelis\"",
     "code": "165381386",
-    "address": "Kupiškis, Slavinčiškio g."
+    "address": "Kupiškis, Slavinčiškio g. 12H, LT-40118"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Kampas\"",
@@ -5655,7 +5651,7 @@
   {
     "name": "Garažų eksploatavimo bendrija \"VAIRAS\"",
     "code": "160317885",
-    "address": "Kupiškis, Šimtmečio g. 4A, LT-40115"
+    "address": "Kupiškis, Šimtmečio g. 4A K2, LT-40115"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"VAKARAS\"",
@@ -5686,11 +5682,6 @@
     "name": "Garažų eksploatavimo bendrija \"Vairas\" S. Šalkauskio 10a",
     "code": "145816774",
     "address": "Šiauliai, S. Šalkauskio g. 10A, LT-76286"
-  },
-  {
-    "name": "Garažų eksploatavimo bendrija \"Vairas\", Grigiškės, Vilnius",
-    "code": "300083522",
-    "address": "Vilniaus m. sav., Grigiškių m., Mokyklos g. 4A-2, LT-27105"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Vairuotojas\"",
@@ -5725,7 +5716,7 @@
   {
     "name": "Garažų eksploatavimo bendrija \"Vėtrungė\"",
     "code": "185480954",
-    "address": "Vilkaviškis, Nepriklausomybės g."
+    "address": "Vilkaviškis, Nepriklausomybės g. 59A-4, LT-70111"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Ąžuolas\"",
@@ -5785,7 +5776,7 @@
   {
     "name": "Garažų eksploatavimo bendrija \"Švyturys\"",
     "code": "173244914",
-    "address": "Rokiškis, Šmuškevičiaus a. 1-6"
+    "address": "Rokiškis, Laisvės g. 10-3, LT-42133"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"ŽALGIRIS\"",
@@ -6600,7 +6591,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"GARGŽDA\"",
     "code": "164582781",
-    "address": "Kretinga, Melioratorių g. 87"
+    "address": "Kretinga, J. Jablonskio g. 69, LT-97172"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"GEDMINAI\"",
@@ -6620,7 +6611,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"GONGAS\"",
     "code": "141902731",
-    "address": "Klaipėda, Statybininkų pr. 24A"
+    "address": "Klaipėda, Liubeko g. 15-17, LT-94283"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Garažai-164\"",
@@ -8680,7 +8671,7 @@
   {
     "name": "Mažeikių garažų statybos ir eksploatavimo bendrija \"Senkelis\"",
     "code": "300603574",
-    "address": "Mažeikiai, Naftininkų g. 78-25, LT-89182"
+    "address": "Mažeikių rajono savivaldybės teritorija"
   },
   {
     "name": "Mažeikių garažų statybos ir eksploatavimo bendrija \"Sodžius\"",

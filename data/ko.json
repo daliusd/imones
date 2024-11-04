@@ -283,6 +283,11 @@
     "address": "Birštonas, Kampiškių g. 1, LT-59107"
   },
   {
+    "name": "MB \"Budrys ir ko\"",
+    "code": "307007057",
+    "address": "Joniškis, J. Basanavičiaus g. 51, LT-84108"
+  },
+  {
     "name": "MB \"Buhalteriai ir ko\"",
     "code": "303335245",
     "address": "Kaunas, Europos pr. 122, LT-46351"
@@ -537,6 +542,11 @@
     "address": "Šilutė, Kovo g. 24, LT-99170"
   },
   {
+    "name": "MB \"Žemaitijos auditas ir Ko\"",
+    "code": "307012969",
+    "address": "Palanga, Klaipėdos pl. 37 K46, LT-00101"
+  },
+  {
     "name": "MB Aleksa ir ko",
     "code": "306151567",
     "address": "Elektrėnų sav., Vievio sen., Vilūniškių k., Trakų g. 38, LT-21386",
@@ -621,7 +631,7 @@
   {
     "name": "Mažoji bendrija \"Žuvys ir ko\"",
     "code": "306275173",
-    "address": "Klaipėdos r. sav., Sendvario sen., Klipščių k., Ąžuolynės g. 31, LT-92339"
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Ežero g. 6D, LT-92338"
   },
   {
     "name": "N. Šuvalovos individuali įmonė \"REGINATA IR Ko\"",
@@ -703,8 +713,7 @@
   },
   {
     "name": "UAB \"AMICUS BONUS\" IR KO",
-    "code": "135679252",
-    "address": "Kaunas, Kęstučio g. 40-4, LT-44308"
+    "code": "135679252"
   },
   {
     "name": "UAB \"ANŽEJ IR KO\"",
@@ -861,7 +870,7 @@
   {
     "name": "UAB \"Autogaras ir Ko\"",
     "code": "300087951",
-    "address": "Vilnius, Loretos Asanavičiūtės g. 1B, LT-04300"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "UAB \"Autominutė\" ir Ko",
@@ -912,8 +921,7 @@
   {
     "name": "UAB \"Baumeda ir Ko\"",
     "code": "304443811",
-    "address": "Kaunas, Europos pr. 122, LT-46351",
-    "vatcode": "LT100011312510"
+    "address": "Kaunas, Europos pr. 122, LT-46351"
   },
   {
     "name": "UAB \"Benas ir ko\"",
@@ -1041,11 +1049,6 @@
     "name": "UAB \"Dramblys ir ko\"",
     "code": "157605952",
     "address": "Joniškis, Upytės g. 7-3, LT-84139"
-  },
-  {
-    "name": "UAB \"Dumesta\" ir ko",
-    "code": "300028305",
-    "address": "Marijampolė, Kauno g. 15, LT-68178"
   },
   {
     "name": "UAB \"Durų sistemos ir Ko\"",
@@ -1363,11 +1366,6 @@
     "code": "126247592",
     "address": "Vilnius, Metalo g. 6A, LT-02190",
     "vatcode": "LT262475917"
-  },
-  {
-    "name": "UAB \"Kaparis ir Ko\"",
-    "code": "303897362",
-    "address": "Kaunas, Baltaragio g. 27-39, LT-46119"
   },
   {
     "name": "UAB \"Katilai ir Ko\"",
@@ -1898,7 +1896,8 @@
   {
     "name": "UAB \"Rukvina ir Ko\"",
     "code": "306969646",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100017209315"
   },
   {
     "name": "UAB \"Rytrama ir ko\"",
@@ -2207,8 +2206,7 @@
   {
     "name": "UAB \"Vilniaus konservai ir ko\"",
     "code": "303376060",
-    "address": "Kėdainiai, Ilgoji g. 192, LT-57155",
-    "vatcode": "LT100015825910"
+    "address": "Kėdainiai, Ilgoji g. 192, LT-57155"
   },
   {
     "name": "UAB \"Viltinga\" ir ko",
@@ -2893,8 +2891,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Likesa ir ko\"",
     "code": "134229989",
-    "address": "Kaunas, Uosio g. 10A, LT-50133",
-    "vatcode": "LT342299811"
+    "address": "Kaunas, Uosio g. 10A, LT-50133"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Litana ir Ko\"",
@@ -3262,8 +3259,7 @@
   {
     "name": "Uždaroji akcinė bendrovė O. K. Romsaas ir ko",
     "code": "211797040",
-    "address": "Jonavos r. sav., Šilų sen., Panoterių mstl., Noteros g. 25, LT-55458",
-    "vatcode": "LT100004628619"
+    "address": "Jonavos r. sav., Šilų sen., Panoterių mstl., Noteros g. 25, LT-55458"
   },
   {
     "name": "Uždaroji akcinė bendrovė PAVLIDI IR KO",
@@ -3354,7 +3350,7 @@
   {
     "name": "VšĮ Donatas ir \"KO\"",
     "code": "302428547",
-    "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Terasų g. 5, LT-14163"
+    "address": "Vilnius, P. Vileišio g. 18H-9, LT-10306"
   },
   {
     "name": "Šiaulių vaikų vokalo studija \"RO-KO-KO\"",

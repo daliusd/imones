@@ -1509,11 +1509,6 @@
     "address": "Vilnius, Girinio g. 8, LT-08401"
   },
   {
-    "name": "UAB \"MASAŽO KLINIKA\"",
-    "code": "302544904",
-    "address": "Vilnius, S. Žukausko g. 21-44, LT-08234"
-  },
-  {
     "name": "UAB \"MC Dent implantologijos klinika\"",
     "code": "306667733",
     "address": "Klaipėdos r. sav., Kretingalės sen., Kalotės k., Tauro g. 19, LT-92275"
@@ -1606,7 +1601,8 @@
   {
     "name": "UAB \"RD klinika\"",
     "code": "306174605",
-    "address": "Klaipėda, Jūros g. 4, LT-92118"
+    "address": "Klaipėda, Jūros g. 4, LT-92118",
+    "vatcode": "LT100017218112"
   },
   {
     "name": "UAB \"RV odontologijos klinika\"",
@@ -1706,11 +1702,6 @@
     "code": "302777470",
     "address": "Kaunas, Vičiūnų g. 24, LT-45325",
     "vatcode": "LT100006920119"
-  },
-  {
-    "name": "UAB \"Terapijos klinika verslui\"",
-    "code": "306175205",
-    "address": "Vilnius, Teatro g. 9A-13, LT-03107"
   },
   {
     "name": "UAB \"Tilto odontologijos klinika\"",
@@ -1941,7 +1932,7 @@
   {
     "name": "UAB Ddent odontologijos klinika",
     "code": "306247124",
-    "address": "Kėdainių r. sav., Gudžiūnų sen., Vikaičių k., Margininkų g. 9, LT-58270"
+    "address": "Vilnius, Visorių g. 27-1024, LT-08300"
   },
   {
     "name": "UAB Dodental odontologijos klinika",
@@ -2466,6 +2457,11 @@
     "address": "Kaunas, Girstupio g. 7-10, LT-44356"
   },
   {
+    "name": "UAB Rožyno šeimos klinika",
+    "code": "300121243",
+    "address": "Panevėžys, Žalgirio g. 48, LT-37460"
+  },
+  {
     "name": "UAB RŪTOS BUKOTIENĖS ODONTOLOGIJOS KLINIKA",
     "code": "300670459",
     "address": "Vilnius, Rygos g. 6, LT-05270"
@@ -2598,12 +2594,6 @@
     "name": "UAB Vaistija klinika",
     "code": "305677774",
     "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Didžioji g. 1A-1, LT-54123"
-  },
-  {
-    "name": "UAB Valakupių plastinės chirurgijos klinika",
-    "code": "300017892",
-    "address": "Vilnius, Svajonių g. 48, LT-10100",
-    "vatcode": "LT100000998415"
   },
   {
     "name": "UAB Viktorijos ir Haroldo Grybų odontologijos klinika",
@@ -2954,11 +2944,6 @@
     "name": "Viešoji įstaiga Respublikos gatvės šeimos klinika",
     "code": "148505789",
     "address": "Panevėžys, Respublikos g. 65-2, LT-35159"
-  },
-  {
-    "name": "Viešoji įstaiga Rožyno šeimos klinika",
-    "code": "300121243",
-    "address": "Panevėžys, Žalgirio g. 48, LT-37460"
   },
   {
     "name": "Viešoji įstaiga VILNIAUS UNIVERSITETO TEISĖS KLINIKA",

@@ -81,6 +81,11 @@
     "address": "Vilnius, Leičių g. 13-91, LT-12109"
   },
   {
+    "name": "MB Transporto tyrimai",
+    "code": "307011899",
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Juodeglynų g. 20, LT-92343"
+  },
+  {
     "name": "Mažoji bendrija \"Meno kūrinių tyrimai\"",
     "code": "304721869",
     "address": "Vilnius, Filaretų g. 85-46, LT-01214",
@@ -360,6 +365,11 @@
     "address": "Kaunas, Savanorių pr. 349, LT-51480"
   },
   {
+    "name": "Viešoji įstaiga \"J. Trinkūno baltų kultūros tyrimo centras\"",
+    "code": "307013918",
+    "address": "Vilnius, Vokiečių g. 4, LT-01130"
+  },
+  {
     "name": "Viešoji įstaiga Verslininkystės problemų tyrimo institutas",
     "code": "135906077",
     "address": "Kaunas, J. Gruodžio g. 15-7, LT-44293"
@@ -405,19 +415,9 @@
     "address": "Vilnius, Apkasų g. 13-1, LT-08224"
   },
   {
-    "name": "Biosistemų inžinerinių tyrimų institutas",
-    "code": "303506504",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
-  },
-  {
     "name": "Demografinių tyrimų ir ekspertizių centras",
     "code": "305562925",
     "address": "Vilnius, Tilto g. 12C-2, LT-01101"
-  },
-  {
-    "name": "Europos tyrimų asociacija \"Oikonomos\"",
-    "code": "303276882",
-    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
     "name": "Gaisrinių tyrimų centras",
@@ -494,7 +494,8 @@
   {
     "name": "MB \"Aplinkos tyrimų grupė\"",
     "code": "306289109",
-    "address": "Jonavos r. sav., Žeimiai, Taikos g. 7, LT-55384"
+    "address": "Jonavos r. sav., Žeimiai, Taikos g. 7, LT-55384",
+    "vatcode": "LT100017265114"
   },
   {
     "name": "MB \"Biotechnologinių tyrimų centras\"",
@@ -622,6 +623,11 @@
     "code": "302576670",
     "address": "Vilnius, Justiniškių g. 55-16, LT-05130",
     "vatcode": "LT100006379514"
+  },
+  {
+    "name": "UAB \"Ilgaamžiškumo tyrimų centras\"",
+    "code": "307014219",
+    "address": "Klaipėda, Liepų g. 83, LT-92195"
   },
   {
     "name": "UAB \"Kamieninių ląstelių tyrimų centras\"",
@@ -831,11 +837,6 @@
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
-    "name": "Viešoji įstaiga Telemedicinos tyrimų centras",
-    "code": "302630698",
-    "address": "Kaunas, Vytauto pr. 27, LT-44352"
-  },
-  {
     "name": "Viešoji įstaiga Tyrimų ir mokymų centras",
     "code": "302481628",
     "address": "Kaunas, S. Banaičio g. 60B, LT-47267"
@@ -898,11 +899,6 @@
     "address": "Vilnius, Šv. Kazimiero g. 7-1, LT-01303"
   },
   {
-    "name": "VšĮ Europos strateginių tyrimų institutas",
-    "code": "303147866",
-    "address": "Palanga, Druskininkų g. 1-5, LT-00151"
-  },
-  {
     "name": "VšĮ Europos švietimo ir tyrimų centras",
     "code": "303332313",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
@@ -955,7 +951,7 @@
   {
     "name": "Šiuolaikinio dvasingumo ir kultūros tyrimų centras",
     "code": "302323304",
-    "address": "Ukmergės r. sav., Šešuolių sen., Mišniūnų k., Mišniūnų g. 70, LT-20229"
+    "address": "Ukmergės rajono savivaldybės teritorija"
   },
   {
     "name": "Švietimo ir tyrimų centras",

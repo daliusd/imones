@@ -138,11 +138,6 @@
     "address": "Panevėžys, Laisvės a. 1-5, LT-35175"
   },
   {
-    "name": "MB \"TAVO MAESTRO\"",
-    "code": "305556527",
-    "address": "Vilniaus r. sav., Riešės sen., Didžiųjų Gulbinų k., Gulbinų g. 27, LT-14335"
-  },
-  {
     "name": "MB \"Tavo akiniai\"",
     "code": "304925117",
     "address": "Klaipėda, Kretingos g. 54-5, LT-92326"
@@ -314,7 +309,7 @@
   {
     "name": "MB \"Tavo sūpynės\"",
     "code": "304097619",
-    "address": "Kaunas, Melsvių g. 21B, LT-47210"
+    "address": "Kaunas, Balbieriškio g. 24, LT-46412"
   },
   {
     "name": "MB \"Tavo tarpininkas\"",
@@ -390,6 +385,11 @@
     "name": "MB Tavo Medija",
     "code": "306216627",
     "address": "Vilnius, J. Jasinskio g. 7-2, LT-01112"
+  },
+  {
+    "name": "MB Tavo alus",
+    "code": "307008675",
+    "address": "Naujoji Akmenė, P. Jodelės g. 15-6, LT-85115"
   },
   {
     "name": "MB Tavo buhalterija",
@@ -484,7 +484,8 @@
   {
     "name": "MB Čia tavo meistrai",
     "code": "305047494",
-    "address": "Kaunas, V. Krėvės pr. 18-115, LT-50415"
+    "address": "Kaunas, V. Krėvės pr. 18-115, LT-50415",
+    "vatcode": "LT100017230010"
   },
   {
     "name": "Mažoji bendrija \"Tavo sandėlis\"",
@@ -1027,10 +1028,5 @@
     "code": "306166245",
     "address": "Kaunas, Užvalkių tak. 12, LT-45451",
     "vatcode": "LT100016051116"
-  },
-  {
-    "name": "MB \"Tavozoo\"",
-    "code": "305416151",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112"
   }
 ]

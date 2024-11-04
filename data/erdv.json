@@ -118,7 +118,7 @@
   {
     "name": "Asociacija \"Savirealizacijos erdvė\"",
     "code": "301425683",
-    "address": "Kėdainiai, S. Dariaus ir S. Girėno g. 52, LT-57153"
+    "address": "Kėdainiai, J. Basanavičiaus g. 148-48, LT-57373"
   },
   {
     "name": "I. Belik konsultacinė firma \"Mokesčių erdvė\"",
@@ -160,12 +160,6 @@
     "name": "MB \"Apdailos erdvė\"",
     "code": "305969255",
     "address": "Raseiniai, Ateities g. 21-33, LT-60154"
-  },
-  {
-    "name": "MB \"Apskaitos erdvė\"",
-    "code": "136030256",
-    "address": "Kaunas, A. Juozapavičiaus pr. 27-11, LT-45258",
-    "vatcode": "LT100001422217"
   },
   {
     "name": "MB \"Buhalterijos erdvė\"",
@@ -283,11 +277,6 @@
     "address": "Kaunas, Savanorių pr. 206, LT-50193"
   },
   {
-    "name": "MB \"Viktorijos erdvė\"",
-    "code": "305471443",
-    "address": "Vilnius, Justiniškių g. 62A-201, LT-05239"
-  },
-  {
     "name": "MB \"Švari erdvė\"",
     "code": "305604413",
     "address": "Panevėžys, Projektuotojų g. 9-24, LT-37102"
@@ -332,6 +321,11 @@
     "name": "MB Meniška erdvė",
     "code": "306968213",
     "address": "Vilnius, Didlaukio g. 65-117, LT-08300"
+  },
+  {
+    "name": "MB Nexus sveikatingumo erdvė",
+    "code": "307017610",
+    "address": "Klaipėdos r. sav., Sendvario sen., Baukštininkų k., Rudens g. 31-1, LT-92402"
   },
   {
     "name": "MB Nuostabi Erdvė",
@@ -396,6 +390,12 @@
     "address": "Panevėžys, Naujamiesčio g. 47, LT-35160"
   },
   {
+    "name": "UAB \"Apskaitos erdvė\"",
+    "code": "136030256",
+    "address": "Kaunas, A. Juozapavičiaus pr. 27-11, LT-45258",
+    "vatcode": "LT100001422217"
+  },
+  {
     "name": "UAB \"Ateities erdvė\"",
     "code": "306685731",
     "address": "Vilnius, I. Simonaitytės g. 2A-9, LT-06244"
@@ -455,7 +455,8 @@
   {
     "name": "UAB \"GSM erdvė\"",
     "code": "304034597",
-    "address": "Šalčininkai, Vilniaus g. 55-4, LT-17116"
+    "address": "Šalčininkai, Vilniaus g. 55-4, LT-17116",
+    "vatcode": "LT100017257012"
   },
   {
     "name": "UAB \"Gera erdvė\"",
@@ -496,6 +497,11 @@
     "address": "Klaipėda, Smilties Pylimo g. 3-33, LT-92250"
   },
   {
+    "name": "UAB \"Langų erdvė\"",
+    "code": "307017279",
+    "address": "Šalčininkų r. sav., Šalčininkų sen., Zavišonių k., Pramonės g. 2, LT-17265"
+  },
+  {
     "name": "UAB \"Mano erdvė\"",
     "code": "300851751",
     "address": "Vilnius, Tilto g. 6-1",
@@ -521,7 +527,7 @@
   {
     "name": "UAB \"Mokymų erdvė\"",
     "code": "304224333",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Teleičių k., Vasario 16-osios g. 19-31, LT-53274",
+    "address": "Kaunas, Dvarų g. 49M-2, LT-46398",
     "vatcode": "LT100010114014"
   },
   {
@@ -661,12 +667,6 @@
     "vatcode": "LT100015877912"
   },
   {
-    "name": "UAB Kelionių erdvė",
-    "code": "306189614",
-    "address": "Klaipėdos r. sav., Priekulės sen., Derceklių k., Paukščių tak. 25, LT-96395",
-    "vatcode": "LT100015624515"
-  },
-  {
     "name": "UAB PATOGI ERDVĖ",
     "code": "302868475",
     "address": "Vilniaus r. sav., Nemėžio sen., Kuprioniškių k., Pupinės g. 11, LT-13279"
@@ -739,11 +739,6 @@
     "address": "Biržai, Vilniaus g. 57, LT-41149"
   },
   {
-    "name": "VĮ \"Renginių erdvė\"",
-    "code": "307001008",
-    "address": "Šiauliai, Radviliškio g. 102-9, LT-77105"
-  },
-  {
     "name": "VŠĮ \"Terapijų erdvė\"",
     "code": "306628011",
     "address": "Kaunas, Kombinato g. 9, LT-52495"
@@ -770,14 +765,14 @@
     "address": "Kauno r. sav., Samylų sen., Šlienavos k., Nemuno g. 50, LT-53147"
   },
   {
-    "name": "VšĮ \"Muzikinė erdvė\"",
-    "code": "304292868",
-    "address": "Vilnius, Bitininkų g. 6B-31, LT-08417"
-  },
-  {
     "name": "VšĮ \"Pojūčių erdvė\"",
     "code": "305103181",
     "address": "Kaunas, Darbo g. 24, LT-52102"
+  },
+  {
+    "name": "VšĮ \"Renginių erdvė\"",
+    "code": "307001008",
+    "address": "Šiauliai, Radviliškio g. 102-9, LT-77105"
   },
   {
     "name": "VšĮ \"Tango kultūros erdvė\"",
@@ -798,6 +793,11 @@
     "name": "VšĮ Erdvė diaLogui",
     "code": "305860672",
     "address": "Kėdainiai, S. Jaugelio Telegos g. 26-53, LT-57252"
+  },
+  {
+    "name": "VšĮ Kūrybos erdvė",
+    "code": "307014169",
+    "address": "Gargždai, Senojo tak. 18, LT-96190"
   },
   {
     "name": "VšĮ Ugdymo erdvė \"Kokonas\"",
@@ -836,9 +836,9 @@
     "vatcode": "LT100012661715"
   },
   {
-    "name": "\"4 erdvės\", MB",
-    "code": "304285763",
-    "address": "Vilnius, Rygos g. 6-64, LT-05270"
+    "name": "Asociacija Kūrybinės inspiracijos erdvės",
+    "code": "307018107",
+    "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Šiltnamių g. 18-21, LT-14116"
   },
   {
     "name": "Erdvės VšĮ",

@@ -96,11 +96,6 @@
     "address": "Vilnius, Ramybės g. 4-70, LT-02103"
   },
   {
-    "name": "Mažoji bendrija \"Veganiška kosmetika\"",
-    "code": "305616497",
-    "address": "Rokiškis, Pušų skg. 10, LT-42100"
-  },
-  {
     "name": "UAB \"A kosmetika\"",
     "code": "302469316",
     "address": "Vilnius, Aukštaičių g. 6, LT-11341"
@@ -247,7 +242,8 @@
   {
     "name": "Holistinė kosmetologija, MB",
     "code": "306668130",
-    "address": "Elektrėnų sav., Beižionių sen., Pajurgiškių k. 1, LT-21320"
+    "address": "Elektrėnų sav., Beižionių sen., Pajurgiškių k. 1, LT-21320",
+    "vatcode": "LT100017265316"
   },
   {
     "name": "MB Estetinė kosmetologija",
@@ -352,6 +348,11 @@
     "vatcode": "LT100014527013"
   },
   {
+    "name": "MB Kosmi shop",
+    "code": "307014436",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB Kosmija",
     "code": "306672965",
     "address": "Visaginas, Vilties g. 14-9, LT-31119"
@@ -382,11 +383,6 @@
     "name": "UAB \"Kosminiai burbulai\"",
     "code": "304216977",
     "address": "Vilnius, Sėlių g. 33-1, LT-08109"
-  },
-  {
-    "name": "VIEŠOJI ĮSTAIGA \"KOSMINIAI KĖGLIAI\"",
-    "code": "125295470",
-    "address": "Vilnius, S. Stanevičiaus g. 36-6, LT-07125"
   },
   {
     "name": "VšĮ \"Kosminiai projektai\"",
@@ -458,6 +454,11 @@
     "name": "UAB \"Kosmo 77\"",
     "code": "306161700",
     "address": "Vilnius, Vindaubos g. 86, LT-08453"
+  },
+  {
+    "name": "Kosmoda, MB",
+    "code": "307002875",
+    "address": "Raseinių r. sav., Ariogalos sen., Butkiškės k., Miško g. 18, LT-60271"
   },
   {
     "name": "UAB \"Kosmodangus\"",
@@ -666,5 +667,10 @@
     "name": "MB \"Kosmosėlis\"",
     "code": "306242102",
     "address": "Vilnius, Musninkų g. 2-20, LT-07185"
+  },
+  {
+    "name": "MB \"Kosmėja\"",
+    "code": "307004958",
+    "address": "Kaunas, Kalendrų tak. 8, LT-52176"
   }
 ]

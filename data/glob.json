@@ -62,6 +62,11 @@
     "address": "Kaunas, Šilainių pl. 23, LT-47100"
   },
   {
+    "name": "MB \"Jūsų globa\"",
+    "code": "307014048",
+    "address": "Kauno r. sav., Kulautuva, V. Augustausko g. 1-1, LT-53483"
+  },
+  {
     "name": "Sava Globa, VšĮ",
     "code": "306718341",
     "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Gaisų g. 1D-8, LT-14158"
@@ -181,6 +186,11 @@
     "name": "Amerikos kompanijos \"GLOBAL EXCHANGE FUNDS, Inc.\" filialas",
     "code": "110187599",
     "address": "Klaipėda, Šilutės pl. 51, LT-94105"
+  },
+  {
+    "name": "Avokado Global, UAB",
+    "code": "307016309",
+    "address": "Vilnius, Rolando Jankausko g. 6, LT-04310"
   },
   {
     "name": "BALTIC GLOBAL SOLUTION UAB",
@@ -477,6 +487,11 @@
     "address": "Vilnius, A. Gustaičio g. 23-255A, LT-02189"
   },
   {
+    "name": "MB \"BM Lyon Global Ventures\"",
+    "code": "307003678",
+    "address": "Vilnius, Girulių g. 5, LT-12124"
+  },
+  {
     "name": "MB \"Broad global trade\"",
     "code": "306241107",
     "address": "Vilnius, Lazdynėlių g. 38C-16, LT-04126"
@@ -531,7 +546,8 @@
   {
     "name": "MB \"Global fabric supply\"",
     "code": "306995616",
-    "address": "Vilnius, Krivių g. 5, LT-01204"
+    "address": "Vilnius, Krivių g. 5, LT-01204",
+    "vatcode": "LT100017243618"
   },
   {
     "name": "MB \"Global fitness\"",
@@ -1329,6 +1345,16 @@
     "vatcode": "LT100011062316"
   },
   {
+    "name": "UAB Global One Stop Lithuania",
+    "code": "307012524",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+  },
+  {
+    "name": "UAB Global Progressive Academy",
+    "code": "307015068",
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+  },
+  {
     "name": "UAB Global Recycling Europe",
     "code": "305024606",
     "address": "Vilnius, Girulių g. 5, LT-12124"
@@ -1551,11 +1577,6 @@
     "address": "Vilnius, Krokuvos g. 53-3, LT-09306"
   },
   {
-    "name": "Pasaulio ekonomikos forumo Jaunimo globalaus tinklo Vilniuje bendruomenė",
-    "code": "303677359",
-    "address": "Vilnius, Gynėjų g. 4-110A, LT-01109"
-  },
-  {
     "name": "GlobalBlock Europe, UAB",
     "code": "306045642",
     "address": "Vilnius, Lvivo g. 25-104, LT-09320"
@@ -1690,11 +1711,6 @@
     "address": "Vilnius, Laisvės pr. 60, LT-05120"
   },
   {
-    "name": "UAB \"Globalmind Center\"",
-    "code": "304779687",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112"
-  },
-  {
     "name": "UAB \"GLOBALMOTO\"",
     "code": "303042687",
     "address": "Vilnius, Latvių g. 19A-7, LT-08113"
@@ -1754,11 +1770,6 @@
     "name": "UAB \"Globaltransa\"",
     "code": "306697331",
     "address": "Vilnius, Eišiškių pl. 47-312, LT-02184"
-  },
-  {
-    "name": "UAB \"GLOBALTUS\"",
-    "code": "301675110",
-    "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k., Terminalo g. 3, LT-54469"
   },
   {
     "name": "MB \"Globalu\"",
@@ -1859,6 +1870,16 @@
     "name": "VšĮ \"Globasta\"",
     "code": "303300917",
     "address": "Kaunas, Baltų pr. 73-43, LT-48228"
+  },
+  {
+    "name": "UAB Globatec industrial solutions",
+    "code": "307018438",
+    "address": "Plungės r. sav., Paukštakių sen., Paežerės k., Ežero g. 11, LT-90489"
+  },
+  {
+    "name": "MB Globatrade",
+    "code": "307001766",
+    "address": "Klaipėda, Rėvos g. 3, LT-92335"
   },
   {
     "name": "MB \"Globavim LT\"",
@@ -2038,11 +2059,6 @@
     "name": "Globmeta, MB",
     "code": "306209013",
     "address": "Vilnius, Aludarių g. 6-5, LT-01113"
-  },
-  {
-    "name": "UAB \"Globo link\"",
-    "code": "303341472",
-    "address": "Vilnius, J. Basanavičiaus g. 26, LT-03224"
   },
   {
     "name": "VšĮ \"Globojančios rankos\"",
@@ -2747,11 +2763,6 @@
     "address": "Joniškis, Vilniaus g. 6, LT-84147"
   },
   {
-    "name": "Sutrikusio intelekto žmonių globos bendrija \"Jurbarko viltis\"",
-    "code": "193109030",
-    "address": "Jurbarkas, Vydūno g. 56, LT-74112"
-  },
-  {
     "name": "Sutrikusio intelekto žmonių globos bendrija \"Kalvarijos Viltis\"",
     "code": "166058140",
     "address": "Kalvarija, Ugniagesių g. 1, LT-69206"
@@ -3311,10 +3322,6 @@
     "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Ievų g. 3A, LT-13267"
   },
   {
-    "name": "UAB \"Globus drive\"",
-    "code": "305598241"
-  },
-  {
     "name": "UAB \"Globus payments\"",
     "code": "306044095",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
@@ -3347,11 +3354,6 @@
     "code": "305956037",
     "address": "Vilnius, Rygos g. 11-61, LT-05257",
     "vatcode": "LT100014647317"
-  },
-  {
-    "name": "VšĮ \"Tradicinių amatų puoselėtojai ir globėjai\"",
-    "code": "304158933",
-    "address": "Panevėžio r. sav., Vadoklių sen., Alančių k., Alančių g. 18, LT-38210"
   },
   {
     "name": "G. Grigaliūnienės labdaros organizacija \"Globėjas\"",
@@ -3395,11 +3397,6 @@
     "address": "Varėnos r. sav., Kaniavos sen., Rudnios k."
   },
   {
-    "name": "Asociacija \"Širvintų rajono vaikų globėjų draugija\"",
-    "code": "302467023",
-    "address": "Širvintų rajono savivaldybės teritorija"
-  },
-  {
     "name": "Gyvūnų globėjų asociacija",
     "code": "135468522",
     "address": "Kaunas, K. Jauniaus g. 58, LT-46316",
@@ -3438,7 +3435,7 @@
   {
     "name": "Neįgaliųjų ir jų tėvų bei globėjų asociacija-MIRABILIA",
     "code": "302761434",
-    "address": "Alytus, Kernavės g. 8-42, LT-63301"
+    "address": "Alytus, Topolių g. 11B-33, LT-63336"
   },
   {
     "name": "Utenos krašto epilepsija sergančiųjų ir jų globėjų draugija",

@@ -71,11 +71,6 @@
     "address": "Kaunas, Rasytės g. 24-23, LT-48118"
   },
   {
-    "name": "MB \"Finaksos projektai\"",
-    "code": "305084724",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
     "name": "Finansinių aktyvų valdytojų klubas \"Finakva\"",
     "code": "303079372",
     "address": "Vilnius, Santariškių g. 55-5, LT-08441"
@@ -762,7 +757,7 @@
   {
     "name": "UAB \"Finance team\"",
     "code": "305986169",
-    "address": "Vilniaus r. sav., Zujūnų sen., Gineitiškių k., Gineitiškių g. 2, LT-14159",
+    "address": "Ignalina, Turistų g. 49-20, LT-30102",
     "vatcode": "LT100014744914"
   },
   {
@@ -808,12 +803,6 @@
     "name": "UAB \"Invity Finance\"",
     "code": "306132766",
     "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194"
-  },
-  {
-    "name": "UAB \"Jt finance\"",
-    "code": "305660853",
-    "address": "Vilnius, Žemaitės g. 21-102, LT-03118",
-    "vatcode": "LT100013575217"
   },
   {
     "name": "UAB \"KSM Finance\"",
@@ -1035,7 +1024,8 @@
   {
     "name": "UAB Euronet 360 Finance Limited",
     "code": "306983311",
-    "address": "Vilnius, J. Jasinskio g. 16B, LT-03163"
+    "address": "Vilnius, J. Jasinskio g. 16B, LT-03163",
+    "vatcode": "LT100017226719"
   },
   {
     "name": "UAB Finance Aero",
@@ -1557,11 +1547,6 @@
     "address": "Vilnius, Žalgirio g. 88-101, LT-09303"
   },
   {
-    "name": "UAB AXIA Financial",
-    "code": "305620200",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
-  },
-  {
     "name": "UAB Alya Financial LT",
     "code": "305882619",
     "address": "Vilnius, L. Giros g. 96-44, LT-06301"
@@ -1633,11 +1618,6 @@
     "name": "UAB Valor Financial Lt",
     "code": "305716775",
     "address": "Vilnius, Vilniaus g. 31, LT-01402"
-  },
-  {
-    "name": "UAB White Financial",
-    "code": "305137397",
-    "address": "Vilnius, Žalgirio g. 90-100, LT-09303"
   },
   {
     "name": "UKTD Financial Services, UAB",
@@ -1768,6 +1748,11 @@
     "address": "Vilnius, Kapsų g. 34-20, LT-02168"
   },
   {
+    "name": "Numerus Finans AS filialas",
+    "code": "307008700",
+    "address": "Vilnius, Paberžės g. 6-29, LT-07154"
+  },
+  {
     "name": "Scania Finans Aktiebolag Lietuvos filialas",
     "code": "302554624",
     "address": "Vilnius, Lentvario g. 14B, LT-02300"
@@ -1789,11 +1774,6 @@
     "code": "305694147",
     "address": "Švenčionys, Taikos g. 15-19, LT-18113",
     "vatcode": "LT100015301818"
-  },
-  {
-    "name": "\"Asmeniniai finansai\", UAB",
-    "code": "140476759",
-    "address": "Klaipėda, Šilutės pl. 23, LT-95107"
   },
   {
     "name": "\"Bo finansai\" UAB",
@@ -1862,6 +1842,11 @@
     "name": "MB \"Mokesčių apskaita ir finansai\"",
     "code": "305934770",
     "address": "Vilniaus r. sav., Zujūnų sen., Medviediškių k., Medviediškių g. 14, LT-14207"
+  },
+  {
+    "name": "MB \"Ms finansai\"",
+    "code": "307015680",
+    "address": "Kaunas, Laisvės al. 110, LT-44253"
   },
   {
     "name": "MB \"N finansai\"",
@@ -1939,6 +1924,11 @@
     "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Paparčių g. 9, LT-53363"
   },
   {
+    "name": "MB Gp finansai",
+    "code": "307007534",
+    "address": "Kaunas, Taikos pr. 43-511, LT-50224"
+  },
+  {
     "name": "MB Milijonierių finansai",
     "code": "306322840",
     "address": "Vilniaus m. sav., Salų k., Sniegenų g. 8, LT-27128",
@@ -2002,6 +1992,11 @@
     "name": "UAB \"Donjus finansai\"",
     "code": "306073524",
     "address": "Anykščiai, J. Biliūno g. 4-8, LT-29114"
+  },
+  {
+    "name": "UAB \"EG verslo finansai\"",
+    "code": "307019006",
+    "address": "Šakių r. sav., Lukšių sen., Akėčių k., Akėčių g. 1, LT-71196"
   },
   {
     "name": "UAB \"ES finansai\"",
@@ -2526,6 +2521,11 @@
     "address": "Panevėžys, Laisvės a. 15-11, LT-35200"
   },
   {
+    "name": "MB Finansinio raštingumo projektai",
+    "code": "307006795",
+    "address": "Vilnius, Trinapolio g. 3-106, LT-08337"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė finansinio maklerio įmonė \"VIVUM\"",
     "code": "223227660",
     "address": "Vilnius, Konstitucijos pr. 23-612"
@@ -2776,8 +2776,7 @@
   {
     "name": "UAB \"Analitinės finansinės konsultacijos\"",
     "code": "304287419",
-    "address": "Vilnius, Ukmergės g. 239-302, LT-07100",
-    "vatcode": "LT100010456614"
+    "address": "Vilnius, Ukmergės g. 239-302, LT-07100"
   },
   {
     "name": "UAB \"Finansinės idėjos\"",
@@ -3117,7 +3116,7 @@
   {
     "name": "MB \"Finansų idėjos\"",
     "code": "304431353",
-    "address": "Vilniaus r. sav., Zujūnų sen., Papiškių k., Adomo Mickevičiaus g. 74C, LT-14171",
+    "address": "Vilnius, Justiniškių g. 76-14, LT-05233",
     "vatcode": "LT100014079317"
   },
   {
@@ -3183,7 +3182,7 @@
   {
     "name": "MB \"Finansų strategas\"",
     "code": "303467859",
-    "address": "Mažeikiai, Kaštonų g. 8, LT-89144",
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Labguvos g. 31, LT-92441",
     "vatcode": "LT100008993115"
   },
   {
@@ -3206,11 +3205,6 @@
     "name": "MB \"Finansų valdymo projektai\"",
     "code": "305624743",
     "address": "Vilnius, Virginijaus Druskio g. 6-59, LT-04305"
-  },
-  {
-    "name": "MB \"Finansų vizija\"",
-    "code": "306433659",
-    "address": "Vilnius, Kalvarijų g. 137E, LT-08248"
   },
   {
     "name": "MB \"Fondų finansų valdymas\"",
@@ -3294,7 +3288,7 @@
   {
     "name": "MB Finansų dirbtuvės",
     "code": "304694468",
-    "address": "Vilnius, Kalvarijų g. 286B-12, LT-08317",
+    "address": "Vilnius, Baltupio g. 65A-43, LT-08322",
     "vatcode": "LT100016520915"
   },
   {
@@ -3587,7 +3581,7 @@
   {
     "name": "UAB \"Finansų liūtai\"",
     "code": "305049374",
-    "address": "Vilniaus r. sav., Zujūnų sen., Gineitiškių k., Gineitiškių g. 2, LT-14159",
+    "address": "Ignalina, Turistų g. 49-20, LT-30102",
     "vatcode": "LT100012749712"
   },
   {

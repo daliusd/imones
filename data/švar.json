@@ -38,11 +38,6 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
-    "name": "MB \"Dviragio Švara\"",
-    "code": "305562213",
-    "address": "Rokiškio r. sav., Kamajų sen., Taraldžių k. 1, LT-42286"
-  },
-  {
     "name": "MB \"Er švara\"",
     "code": "306152039",
     "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Vejuonos g. 28, LT-54117"
@@ -159,11 +154,6 @@
     "vatcode": "LT100017133614"
   },
   {
-    "name": "MB H2O Švara",
-    "code": "305591503",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
-  },
-  {
     "name": "MB Karališka švara",
     "code": "306556626",
     "address": "Biržų r. sav., Širvėnos sen., Varniūnų k., Biržų g. 35, LT-41201"
@@ -234,7 +224,8 @@
   {
     "name": "Mažoji bendrija Era švara",
     "code": "306779935",
-    "address": "Vilnius, Panevėžio g. 40-19, LT-02183"
+    "address": "Vilnius, Panevėžio g. 40-19, LT-02183",
+    "vatcode": "LT100017214715"
   },
   {
     "name": "Nanukas - natūrali švara, MB",
@@ -511,7 +502,7 @@
     "vatcode": "LT100016574712"
   },
   {
-    "name": "\"Švari aplinka\", MB",
+    "name": "\"Švari aplinka\", UAB",
     "code": "304478876",
     "address": "Kaunas, Kovo 11-osios g. 84-40, LT-50446",
     "vatcode": "LT100012292114"
@@ -999,11 +990,6 @@
     "address": "Panevėžys, Ramygalos g. 116-71, LT-36225"
   },
   {
-    "name": "MB Švaros vartai",
-    "code": "305565960",
-    "address": "Kupiškio r. sav., Alizavos sen., Salamiesčio mstl., Rožių g. 2, LT-40438"
-  },
-  {
     "name": "MB Švaros šefas",
     "code": "305727871",
     "address": "Kelmės r. sav., Tytuvėnų apylinkių sen., Pavydų k., Liepų g. 7, LT-86209"
@@ -1012,6 +998,11 @@
     "name": "MB Švaros žiedas",
     "code": "305700276",
     "address": "Šiauliai, Ganyklų g. 36, LT-77121"
+  },
+  {
+    "name": "Mažoji bendrija Švaros magija",
+    "code": "307016686",
+    "address": "Vilniaus r. sav., Maišiagalos sen., Dūkštelių k., Dūkštelių g. 40-2, LT-14247"
   },
   {
     "name": "R. V. Ratkelio įmonė \"Švaros garsas\"",
@@ -1088,7 +1079,7 @@
   {
     "name": "UAB \"Švaros broliai\"",
     "code": "122538045",
-    "address": "Vilnius, Vito Gerulaičio g. 1, LT-08200",
+    "address": "Vilnius, Senosios Pilaitės kel. 7, LT-06229",
     "vatcode": "LT225380417"
   },
   {
@@ -1537,6 +1528,11 @@
     "name": "MB Švarybė",
     "code": "306981036",
     "address": "Telšių r. sav., Varniai, Senojo Malūno g. 5, LT-88320"
+  },
+  {
+    "name": "MB \"Švarys\"",
+    "code": "307009268",
+    "address": "Šilalės r. sav., Laukuva, Pienių g. 5, LT-75407"
   },
   {
     "name": "MB \"VIP švarūnas\"",

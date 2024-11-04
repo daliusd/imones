@@ -54,6 +54,11 @@
     "address": "Klaipėda, Vyturio g. 2-44, LT-95181"
   },
   {
+    "name": "GPAIS apskaita, MB",
+    "code": "302593050",
+    "address": "Kauno r. sav., Čekiškė, Ateities g. 37, LT-54275"
+  },
+  {
     "name": "Ga apskaita, MB",
     "code": "306172102",
     "address": "Marijampolė, Saulės g. 40B, LT-68272"
@@ -403,7 +408,7 @@
   {
     "name": "MB \"Rns apskaita\"",
     "code": "305687334",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Girkalių k., Kriaušių g. 6, LT-92372",
+    "address": "Kretinga, Klaipėdos g. 77, LT-97155",
     "vatcode": "LT100015698216"
   },
   {
@@ -472,6 +477,11 @@
     "vatcode": "LT100012488310"
   },
   {
+    "name": "MB \"VikRi apskaita\"",
+    "code": "307017763",
+    "address": "Kaunas, Baltijos g. 12-40, LT-48245"
+  },
+  {
     "name": "MB \"Vilniaus apskaita\"",
     "code": "303157935",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
@@ -513,6 +523,11 @@
     "code": "306323593",
     "address": "Vilnius, Justiniškių g. 51-14, LT-05130",
     "vatcode": "LT100016372713"
+  },
+  {
+    "name": "MB Apskaita bei sprendimai",
+    "code": "307015730",
+    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Parko g. 2C, LT-53331"
   },
   {
     "name": "MB Apskaita ir analizė",
@@ -1467,7 +1482,8 @@
   {
     "name": "MB Apskaitai",
     "code": "305889300",
-    "address": "Vilniaus r. sav., Pagirių sen., Vairos k., Vyšnelių 2-oji g. 14A, LT-14130"
+    "address": "Vilniaus r. sav., Pagirių sen., Vairos k., Vyšnelių 2-oji g. 14A, LT-14130",
+    "vatcode": "LT100017213818"
   },
   {
     "name": "MB \"Apskaitau\"",
@@ -1761,12 +1777,6 @@
     "name": "MB \"Apskaitos era\"",
     "code": "305077587",
     "address": "Šiaulių r. sav., Gruzdžiai, Taikos g. 23, LT-81419"
-  },
-  {
-    "name": "MB \"Apskaitos erdvė\"",
-    "code": "136030256",
-    "address": "Kaunas, A. Juozapavičiaus pr. 27-11, LT-45258",
-    "vatcode": "LT100001422217"
   },
   {
     "name": "MB \"Apskaitos formulė\"",
@@ -2235,6 +2245,12 @@
     "code": "303081398",
     "address": "Vilnius, Švitrigailos g. 16B-29, LT-03223",
     "vatcode": "LT100007805518"
+  },
+  {
+    "name": "UAB \"Apskaitos erdvė\"",
+    "code": "136030256",
+    "address": "Kaunas, A. Juozapavičiaus pr. 27-11, LT-45258",
+    "vatcode": "LT100001422217"
   },
   {
     "name": "UAB \"Apskaitos etalonas\"",
@@ -3244,11 +3260,6 @@
     "name": "Kauno apskrities moterų sveikatos draugija \"Alma\"",
     "code": "193412419",
     "address": "Kaunas, A. Smetonos al. 57A-18, LT-45314"
-  },
-  {
-    "name": "Kauno apskrities osteoporozės klubas \"Uola\"",
-    "code": "193420476",
-    "address": "Kaunas, Eivenių g. 2, LT-50161"
   },
   {
     "name": "Kauno apskrities plaukimo klubas \"Banginiai\"",
