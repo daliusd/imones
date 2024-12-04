@@ -95,12 +95,6 @@
     "vatcode": "LT100012021415"
   },
   {
-    "name": "A.B.C. Nekilnojamas turtas Vilnius, UAB",
-    "code": "304939348",
-    "address": "Vilniaus r. sav., Rukainių sen., Rukainių k., Kunigo Povilo Ksavero Bžostovskio g. 9, LT-13176",
-    "vatcode": "LT100011987319"
-  },
-  {
     "name": "AB \"Kaubos turtas\"",
     "code": "305486452",
     "address": "Kaunas, Gaižiūnų g. 4, LT-50126",
@@ -149,7 +143,8 @@
   {
     "name": "JUPA Turtas, UAB",
     "code": "307014429",
-    "address": "Vilnius, Konstitucijos pr. 29-1, LT-08105"
+    "address": "Vilnius, Jogailos g. 4, LT-01116",
+    "vatcode": "LT100017291910"
   },
   {
     "name": "Kalvarijų turtas, UAB",
@@ -193,7 +188,8 @@
   {
     "name": "MB \"Miesto turtas\"",
     "code": "304548157",
-    "address": "Vilnius, Olimpiečių g. 3D-10, LT-09235"
+    "address": "Vilnius, Olimpiečių g. 3D-10, LT-09235",
+    "vatcode": "LT100017299916"
   },
   {
     "name": "MB \"NT turtas\"",
@@ -251,7 +247,8 @@
   {
     "name": "MB \"Visas turtas\"",
     "code": "306085786",
-    "address": "Vilnius, Keramikų g. 32-101, LT-10232"
+    "address": "Vilnius, Keramikų g. 32-101, LT-10232",
+    "vatcode": "LT100017326715"
   },
   {
     "name": "MB 666 turtas",
@@ -414,6 +411,11 @@
     "name": "TURTAS IŠSIMOKĖTINAI, VšĮ",
     "code": "302735877",
     "address": "Vilnius, Gurelių g. 95, LT-25124"
+  },
+  {
+    "name": "UAB \"AD turtas\"",
+    "code": "307030611",
+    "address": "Vilnius, Rodūnios kel. 3, LT-02189"
   },
   {
     "name": "UAB \"AG turtas\"",
@@ -663,11 +665,6 @@
     "code": "304626481",
     "address": "Vilnius, Šeimyniškių g. 21D-18, LT-09236",
     "vatcode": "LT100013723714"
-  },
-  {
-    "name": "UAB \"Jūsų nekilnojamasis turtas\"",
-    "code": "304151821",
-    "address": "Kaunas, K. Donelaičio g. 81-1, LT-44249"
   },
   {
     "name": "UAB \"KPC nekilnojamasis turtas\"",
@@ -1358,12 +1355,6 @@
     "vatcode": "LT100009062214"
   },
   {
-    "name": "UAB 4 Turtas",
-    "code": "305924737",
-    "address": "Vilnius, Švitrigailos g. 11A, LT-03228",
-    "vatcode": "LT100014479514"
-  },
-  {
     "name": "UAB APUS TURTAS",
     "code": "302249875",
     "address": "Vilnius, Žalgirio g. 135, LT-08217",
@@ -1503,8 +1494,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"S4 turtas\"",
     "code": "304418384",
-    "address": "Vilnius, Aukštaičių g. 7, LT-11341",
-    "vatcode": "LT100010538612"
+    "address": "Vilnius, Aukštaičių g. 7, LT-11341"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"SL turtas\"",
@@ -1593,11 +1583,6 @@
     "code": "305919583",
     "address": "Rokiškio r. sav., Juodupė, Taikos g. 3A, LT-42465",
     "vatcode": "LT100014927513"
-  },
-  {
-    "name": "UAB \"Turtingas krantas\"",
-    "code": "302099571",
-    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Mažoji g. 14-11, LT-54123"
   },
   {
     "name": "MB \"Ir turtingi taupo\"",
@@ -1697,7 +1682,7 @@
     "address": "Marijampolė, Laisvės g. 7, LT-68299"
   },
   {
-    "name": "LIETUVOS NEKILNOJAMOJO TURTO AGENTŪRŲ ASOCIACIJA",
+    "name": "LIETUVOS NEKILNOJAMOJO TURTO VERSLO ASOCIACIJA",
     "code": "300661620",
     "address": "Vilnius, A. Juozapavičiaus g. 7, LT-09311",
     "vatcode": "LT100007945412"
@@ -1722,11 +1707,6 @@
     "name": "Lietuvos šeimos turto valdytojų asociacija",
     "code": "306720940",
     "address": "Vilnius, Palangos g. 4-101, LT-01402"
-  },
-  {
-    "name": "MB \"AEK Turto Sprendimai\"",
-    "code": "306679486",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
   },
   {
     "name": "MB \"Komercinio turto projektai\"",
@@ -2741,8 +2721,7 @@
   {
     "name": "UAB Turtuvos grupė",
     "code": "303187202",
-    "address": "Kaunas, Laisvės al. 49, LT-44309",
-    "vatcode": "LT100008680215"
+    "address": "Kaunas, Laisvės al. 49, LT-44309"
   },
   {
     "name": "LIETUVOS TURTĄ IR VERSLĄ VERTINANČIŲ ĮMONIŲ ASOCIACIJA",
@@ -2773,5 +2752,10 @@
     "name": "MB \"Turtėk\"",
     "code": "305252481",
     "address": "Kaunas, Plento g. 7-75, LT-45399"
+  },
+  {
+    "name": "MB Turtų asai",
+    "code": "307028560",
+    "address": "Alytus, Kalniškės g. 7-2, LT-62414"
   }
 ]

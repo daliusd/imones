@@ -84,7 +84,8 @@
   {
     "name": "\"Sandarumas LT\", UAB",
     "code": "305257546",
-    "address": "Kaunas, S. Daukanto g. 1-50, LT-44306"
+    "address": "Kaunas, S. Daukanto g. 1-50, LT-44306",
+    "vatcode": "LT100017321512"
   },
   {
     "name": "MB \"Pastatų sandarumas\"",
@@ -317,6 +318,11 @@
     "address": "Kaunas, Partizanų g. 38E-12, LT-49489"
   },
   {
+    "name": "Šiaulių evangelikų liuteronų parapijos diakonija \"Šiaulių sandora\"",
+    "code": "307023015",
+    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Žiedo g. 11, LT-81491"
+  },
+  {
     "name": "Šilutės rajono evangelikų liuteronų labdaros organizacija \"Šilutės sandora\"",
     "code": "177398952",
     "address": "Šilutė, Lietuvininkų g. 19, LT-99134"
@@ -326,6 +332,11 @@
     "code": "110687896",
     "address": "Vilnius, Fizikų g. 35A, LT-08411",
     "vatcode": "LT106878917"
+  },
+  {
+    "name": "MB Nt patikimi sandoriai",
+    "code": "307030547",
+    "address": "Kauno r. sav., Samylų sen., Šlienavos k., Jono Biliūno g. 6, LT-53151"
   },
   {
     "name": "MB Prasmingi sandoriai",
@@ -524,7 +535,8 @@
   {
     "name": "UAB \"Sandrema\"",
     "code": "305831119",
-    "address": "Raseinių r. sav., Betygalos sen., Požečių k., Sodų g. 13, LT-60204"
+    "address": "Raseinių r. sav., Betygalos sen., Požečių k., Sodų g. 13, LT-60204",
+    "vatcode": "LT100017346417"
   },
   {
     "name": "UAB \"Sandreva\"",
@@ -546,7 +558,7 @@
   {
     "name": "MB Sandrina",
     "code": "306792338",
-    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Jazminų g. 12-1, LT-53339",
+    "address": "Anykščiai, Ažupiečių g. 2C-18, LT-29148",
     "vatcode": "LT100016908114"
   },
   {
@@ -565,11 +577,6 @@
     "code": "302584891",
     "address": "Klaipėda, Žolynų g. 45-16, LT-92325",
     "vatcode": "LT100009130919"
-  },
-  {
-    "name": "UAB \"Sandro Nelis\"",
-    "code": "303844388",
-    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "MB \"SANDROPAS\"",
@@ -730,6 +737,11 @@
     "address": "Panevėžys, Klaipėdos g. 19, LT-35211"
   },
   {
+    "name": "MB \"Dobilo sandėliai\"",
+    "code": "307032904",
+    "address": "Kaunas, Lubinų g. 290E-1, LT-47222"
+  },
+  {
     "name": "UAB \"Pamario sandėliai\"",
     "code": "302536747",
     "address": "Klaipėda, Taikos pr. 77-34, LT-94114",
@@ -748,6 +760,12 @@
     "vatcode": "LT359549917"
   },
   {
+    "name": "UAB Sandėliai",
+    "code": "307024067",
+    "address": "Vilnius, Fabijoniškių g. 5C-1031, LT-06335",
+    "vatcode": "LT100017322914"
+  },
+  {
     "name": "IĮ \"Innos Malkenzon sandėliavimo paslaugų įmonė\"",
     "code": "140738535",
     "address": "Klaipėda, Nidos g. 40C, LT-93215"
@@ -757,6 +775,11 @@
     "code": "304089832",
     "address": "Mažeikių r. sav., Židikai, Viliotės g. 4, LT-89442",
     "vatcode": "LT100009666911"
+  },
+  {
+    "name": "MB Sandėlio prekės",
+    "code": "307021904",
+    "address": "Vilnius, Gabijos g. 38-27, LT-06157"
   },
   {
     "name": "Akcinės bendrovės \"Kauno grūdai\" Jurbarko grūdų sandėlis",

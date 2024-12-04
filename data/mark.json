@@ -315,6 +315,11 @@
     "address": "Vilnius, Girulių g. 5, LT-12124"
   },
   {
+    "name": "MB \"Market Makers\"",
+    "code": "307030038",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "MB \"Natural Market Kaunas\"",
     "code": "305998659",
     "address": "Klaipėdos r. sav., Sendvario sen., Mazūriškių k., Rasytės g. 16, LT-92377"
@@ -394,11 +399,6 @@
     "code": "302756405",
     "address": "Šiauliai, Kreivoji g. 37, LT-78109",
     "vatcode": "LT100006781511"
-  },
-  {
-    "name": "UAB \"AD Market Export\"",
-    "code": "302885859",
-    "address": "Vilnius, Jurgio Baltrušaičio g. 11, LT-06145"
   },
   {
     "name": "UAB \"AD Market\"",
@@ -702,6 +702,11 @@
     "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
+    "name": "MB \"Echo Marketing\"",
+    "code": "307033707",
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
     "name": "MB \"Edgaras Digital Marketing\"",
     "code": "305829673",
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
@@ -731,7 +736,8 @@
   {
     "name": "MB \"Visual marketing house\"",
     "code": "305639745",
-    "address": "Plungės r. sav., Paukštakių sen., Nugarių k., Piliakalnio g. 2, LT-90486"
+    "address": "Plungės r. sav., Paukštakių sen., Nugarių k., Piliakalnio g. 2, LT-90486",
+    "vatcode": "LT100017293715"
   },
   {
     "name": "MB \"Vivante marketing hive\"",
@@ -871,19 +877,9 @@
     "address": "Kaunas, Islandijos pl. 95-57, LT-49176"
   },
   {
-    "name": "UAB \"Digital marketing\"",
-    "code": "305584583",
-    "address": "Kauno r. sav., Alšėnų sen., Bijūnų k., Tulpių g. 4, LT-53302"
-  },
-  {
     "name": "UAB \"European marketing\"",
     "code": "211611030",
     "address": "Vilnius, A. Strazdelio g. 1, LT-02102"
-  },
-  {
-    "name": "UAB \"GL Supply & Marketing Services\"",
-    "code": "302605702",
-    "address": "Vilnius, Jonažolių g. 3-125, LT-04134"
   },
   {
     "name": "UAB \"Internet Marketing Solutions\"",
@@ -936,11 +932,6 @@
     "name": "UAB \"Sniper Marketing\"",
     "code": "300602636",
     "address": "Vilnius, Olimpiečių g. 8-5, LT-09237"
-  },
-  {
-    "name": "UAB \"TP Marketing Europe\"",
-    "code": "302827934",
-    "address": "Vilnius, A. Gustaičio g. 23-255A, LT-02189"
   },
   {
     "name": "UAB \"Target Marketing\"",
@@ -1564,7 +1555,8 @@
   {
     "name": "UAB \"Markinga\"",
     "code": "306371136",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112"
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221",
+    "vatcode": "LT100017308111"
   },
   {
     "name": "S. Markino individuali įmonė",
@@ -1586,7 +1578,8 @@
   {
     "name": "UAB Markinvest",
     "code": "306371937",
-    "address": "Vilnius, Dariaus ir Girėno g. 5D-19, LT-02158"
+    "address": "Vilnius, Įsruties g. 30-15, LT-06293",
+    "vatcode": "LT100017329013"
   },
   {
     "name": "UAB \"MARKIPRAS\"",
@@ -1707,11 +1700,6 @@
     "name": "MB \"Marko turas\"",
     "code": "304761461",
     "address": "Vilnius, Architektų g. 4-4, LT-04119"
-  },
-  {
-    "name": "MB Marko dirbtuvės",
-    "code": "305228758",
-    "address": "Vilnius, Užupio g. 26-7, LT-01203"
   },
   {
     "name": "MB Marko investicijos",
@@ -1948,6 +1936,12 @@
     "address": "Biržai, Rotušės g. 13-43, LT-41138"
   },
   {
+    "name": "UAB Markutiškių karjeras",
+    "code": "305252524",
+    "address": "Trakų r. sav., Senųjų Trakų sen., Senųjų Trakų k., Plačioji g. 29, LT-21146",
+    "vatcode": "LT100017258919"
+  },
+  {
     "name": "UAB \"Markuvita\"",
     "code": "303171027",
     "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Riešės g. 14, LT-14260",
@@ -2078,8 +2072,7 @@
   {
     "name": "\"Mūsų markė\", UAB",
     "code": "305830608",
-    "address": "Šiaulių miesto savivaldybės teritorija",
-    "vatcode": "LT100014955418"
+    "address": "Šiaulių miesto savivaldybės teritorija"
   },
   {
     "name": "UAB \"MARKĖ\"",

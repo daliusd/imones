@@ -57,6 +57,11 @@
     "vatcode": "LT100009656712"
   },
   {
+    "name": "Aba baldai, MB",
+    "code": "307037171",
+    "address": "Vilnius, Jono Kairiūkščio g. 11A-140, LT-08411"
+  },
+  {
     "name": "Akcinė bendrovė \"KLAIPĖDOS BALDAI\"",
     "code": "140656052",
     "address": "Klaipėda, Joniškės g. 21, LT-91267",
@@ -389,6 +394,11 @@
     "code": "305946801",
     "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Liepų g. 14-1, LT-91276",
     "vatcode": "LT100014566912"
+  },
+  {
+    "name": "MB \"Jurio baldai\"",
+    "code": "307020485",
+    "address": "Druskininkų sav., Leipalingio sen., Vileikių k., Seirijų kel. 45H, LT-67277"
   },
   {
     "name": "MB \"Karmėlavos baldai\"",
@@ -746,6 +756,11 @@
     "vatcode": "LT100016752714"
   },
   {
+    "name": "MB EDK baldai",
+    "code": "307027907",
+    "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Šlapšilės k., Gobergiškės g. 18, LT-96173"
+  },
+  {
     "name": "MB ER baldai",
     "code": "305925006",
     "address": "Šiaulių r. sav., Bubių sen., Linartų k., Ramunių g. 2, LT-80230"
@@ -828,8 +843,7 @@
   {
     "name": "MB Muf baldai",
     "code": "306365375",
-    "address": "Vilnius, Mykolo Velykio g. 9D, LT-11239",
-    "vatcode": "LT100016410114"
+    "address": "Vilnius, Mykolo Velykio g. 9D, LT-11239"
   },
   {
     "name": "MB Naurio baldai",
@@ -854,6 +868,11 @@
     "vatcode": "LT100016197514"
   },
   {
+    "name": "MB Pūko baldai",
+    "code": "307028090",
+    "address": "Kauno r. sav., Lapės, Eglyno g. 32, LT-54434"
+  },
+  {
     "name": "MB ROKIŠKIO BALDAI",
     "code": "305560949",
     "address": "Rokiškis, Jaunystės g. 11A-18, LT-42149",
@@ -874,6 +893,11 @@
     "code": "306879647",
     "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., K. Bielinio g. 6, LT-54465",
     "vatcode": "LT100017085610"
+  },
+  {
+    "name": "MB Viva Baldai",
+    "code": "307029395",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "MB Vynuogyno baldai",
@@ -1244,11 +1268,6 @@
     "code": "305659025",
     "address": "Šiauliai, Tilžės g. 36-36A, LT-78205",
     "vatcode": "LT100013843816"
-  },
-  {
-    "name": "UAB \"Eibučių baldai\"",
-    "code": "153086232",
-    "address": "Naujoji Akmenė, Saulės skg. 8, LT-85114"
   },
   {
     "name": "UAB \"Emlitos baldai\"",
@@ -1629,11 +1648,6 @@
     "vatcode": "LT100006129414"
   },
   {
-    "name": "UAB \"Rolo baldai\"",
-    "code": "304928978",
-    "address": "Vilnius, Salomėjos Nėries g. 109-18, LT-12141"
-  },
-  {
     "name": "UAB \"Rustavos baldai\"",
     "code": "302420550",
     "address": "Marijampolė, Kauno g. 15-101, LT-68178"
@@ -1940,14 +1954,13 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Plungės baldai\"",
     "code": "171694243",
-    "address": "Plungė, Dariaus ir Girėno g. 38C",
+    "address": "Plungė, Skyplaičių g. 15, LT-90169",
     "vatcode": "LT716942413"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Redos baldai\"",
     "code": "300600699",
-    "address": "Klaipėda, Šilutės pl. 2, LT-91111",
-    "vatcode": "LT100002653417"
+    "address": "Klaipėda, Šilutės pl. 2, LT-91111"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"VMG Akmenės baldai\"",
@@ -1976,11 +1989,6 @@
     "name": "Uždarosios akcinės bendrovės \"Kriūkų baldai\" profesinė sąjunga",
     "code": "193288252",
     "address": "Šakių r. sav., Kriūkai, Darbininkų g. 14, LT-71212"
-  },
-  {
-    "name": "Ūko baldai, UAB",
-    "code": "302335947",
-    "address": "Vilnius, J. Basanavičiaus g. 14, LT-03224"
   },
   {
     "name": "MB Baldaiidea",
@@ -2039,11 +2047,6 @@
     "address": "Vilnius, Taikos g. 139-15, LT-05206"
   },
   {
-    "name": "UAB \"Baldara\"",
-    "code": "300029389",
-    "address": "Marijampolė, Kęstučio g. 9-1, LT-68308"
-  },
-  {
     "name": "UAB \"Baldartas\"",
     "code": "304765972",
     "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
@@ -2085,7 +2088,8 @@
   {
     "name": "Zigmo Baldausko įmonė",
     "code": "175869918",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Sutkūnų k., Joniškio g. 7-5, LT-76116"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Sutkūnų k., Joniškio g. 7-5, LT-76116",
+    "vatcode": "LT100017314015"
   },
   {
     "name": "UAB BALDCARGUS",
@@ -2575,6 +2579,11 @@
     "address": "Vilniaus r. sav., Maišiagalos sen., Gudelių k., Vilniaus g. 8, LT-14247"
   },
   {
+    "name": "Mažoji bendrija Baldukai",
+    "code": "307021377",
+    "address": "Klaipėdos r. sav., Sendvario sen., Jakų k., Pašto g. 15, LT-96324"
+  },
+  {
     "name": "MB Baldukas",
     "code": "306069344",
     "address": "Alytaus r. sav., Alovės sen., Kaniūkų k., Apynių g. 10, LT-64104",
@@ -2651,11 +2660,6 @@
     "vatcode": "LT100003965112"
   },
   {
-    "name": "UAB \"BALDVISTA\"",
-    "code": "300659473",
-    "address": "Vilnius, Vydūno g. 18-60, LT-06205"
-  },
-  {
     "name": "UAB \"Baldvita\"",
     "code": "300077697",
     "address": "Vilnius, Kirtimų g. 57A, LT-02244"
@@ -2665,6 +2669,11 @@
     "code": "306072714",
     "address": "Vilnius, Laisvės pr. 78B-214, LT-05263",
     "vatcode": "LT100014978417"
+  },
+  {
+    "name": "UAB BaldWind",
+    "code": "307023563",
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "UAB \"Baldė\"",
@@ -2954,11 +2963,6 @@
     "code": "153653939",
     "address": "Alytaus r. sav., Nemunaičio sen., Užupių k., Pušų g. 7, LT-64201",
     "vatcode": "LT536539314"
-  },
-  {
-    "name": "R. Butkaus firma \"Baldų akcentai\"",
-    "code": "145845473",
-    "address": "Šiauliai, Rasos g. 9-71, LT-78182"
   },
   {
     "name": "Ružės individuali baldų gamybos įmonė",
@@ -3283,8 +3287,7 @@
   {
     "name": "UAB Baldų agentūra",
     "code": "304825437",
-    "address": "Vilnius, Sporto g. 10-21, LT-09238",
-    "vatcode": "LT100011620319"
+    "address": "Vilnius, Sporto g. 10-21, LT-09238"
   },
   {
     "name": "UAB Baldų amžius",
