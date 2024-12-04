@@ -288,12 +288,6 @@
     "address": "Klaipėda, Šilutės pl. 74-14, LT-95117"
   },
   {
-    "name": "MB ST Inžinerija",
-    "code": "306237703",
-    "address": "Jurbarko r. sav., Seredžius, S. Šimkaus g. 43, LT-74425",
-    "vatcode": "LT100016587512"
-  },
-  {
     "name": "MB Smart inžinerija",
     "code": "306394124",
     "address": "Vilniaus r. sav., Zujūnų sen., Platiniškių k., Palvininkų g. 13A-1, LT-14167"
@@ -535,7 +529,7 @@
   {
     "name": "UAB \"Sostinės inžinerija\"",
     "code": "305102930",
-    "address": "Vilniaus r. sav., Šatrininkų sen., Vėliučionių k., Liepų al. 45-10, LT-13130",
+    "address": "Vilnius, Rinktinės g. 55, LT-09207",
     "vatcode": "LT100013297615"
   },
   {
@@ -596,6 +590,12 @@
     "code": "305708846",
     "address": "Klaipėda, Universiteto al. 19, LT-92294",
     "vatcode": "LT100013865312"
+  },
+  {
+    "name": "UAB ST Inžinerija",
+    "code": "306237703",
+    "address": "Jurbarko r. sav., Seredžius, S. Šimkaus g. 43, LT-74425",
+    "vatcode": "LT100016587512"
   },
   {
     "name": "UAB Saugos inžinerija",
@@ -1068,8 +1068,7 @@
   {
     "name": "UAB \"PASTATŲ INŽINERINIAI PROJEKTAI\"",
     "code": "300092845",
-    "address": "Vilnius, Gabijos g. 23-70, LT-06109",
-    "vatcode": "LT100001634718"
+    "address": "Vilnius, Gabijos g. 23-70, LT-06109"
   },
   {
     "name": "UAB \"Pastatų inžineriniai tinklai\"",
@@ -1378,6 +1377,11 @@
     "address": "Kaunas, Kęstučio g. 27-408, LT-44312"
   },
   {
+    "name": "MB \"Inžinerinės paslaugos\"",
+    "code": "307026709",
+    "address": "Vilnius, Fizikų g. 4-26, LT-08455"
+  },
+  {
     "name": "MB \"Pastatų inžinerinės sistemos\"",
     "code": "305252499",
     "address": "Kaunas, Baltijos g. 102-53, LT-48216",
@@ -1402,7 +1406,7 @@
   {
     "name": "MB M3 inžinerinės sistemos",
     "code": "306441093",
-    "address": "Telšiai, Luokės g. 75-19, LT-87142",
+    "address": "Telšių r. sav., Viešvėnų sen., Rainių k., Telšių g. 17-5, LT-88402",
     "vatcode": "LT100017052715"
   },
   {
@@ -1460,6 +1464,11 @@
     "code": "111678149",
     "address": "Vilnius, Pamėnkalnio g. 5-3, LT-01116",
     "vatcode": "LT116781414"
+  },
+  {
+    "name": "UAB Eko inžinerinės sistemos",
+    "code": "307030458",
+    "address": "Klaipėda, Tauralaukio g. 14B, LT-92347"
   },
   {
     "name": "UAB Inžinerinės statybos bendrovė",
@@ -1739,6 +1748,7 @@
   {
     "name": "MB \"Inžitechas\"",
     "code": "303829856",
-    "address": "Kaunas, Archyvo g. 19-2, LT-50178"
+    "address": "Kaunas, Archyvo g. 19-2, LT-50178",
+    "vatcode": "LT100009218512"
   }
 ]

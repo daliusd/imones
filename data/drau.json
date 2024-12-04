@@ -97,14 +97,14 @@
     "address": "Vilnius, Gynėjų g. 14, LT-01109"
   },
   {
+    "name": "MB Asmens draudimas",
+    "code": "307026189",
+    "address": "Vilnius, Viršuliškių g. 28-38, LT-05110"
+  },
+  {
     "name": "UAB \"Būsto paskolų draudimas\"",
     "code": "110076079",
     "address": "Vilnius, Ulonų g. 5, LT-08240"
-  },
-  {
-    "name": "UAB \"LT draudimas\"",
-    "code": "302483732",
-    "address": "Kaunas, Pramonės pr. 15, LT-51327"
   },
   {
     "name": "UAB \"PZU Lietuva gyvybės draudimas\"",
@@ -377,8 +377,7 @@
   {
     "name": "UAB \"Mūsų draugai\"",
     "code": "303111400",
-    "address": "Kauno r. sav., Karmėlava, Vilniaus g. 35, LT-54448",
-    "vatcode": "LT100010602113"
+    "address": "Kauno r. sav., Karmėlava, Vilniaus g. 35, LT-54448"
   },
   {
     "name": "UAB \"Reksas ir draugai\"",
@@ -2904,6 +2903,11 @@
     "vatcode": "LT100017065717"
   },
   {
+    "name": "MOLĖTŲ MEDŽIOTOJŲ IR ŽVEJŲ DRAUGIJA",
+    "code": "167616438",
+    "address": "Molėtai, Amatų g. 3, LT-33102"
+  },
+  {
     "name": "Marcinkonių krašto ugniagesių savanorių draugija",
     "code": "304058267",
     "address": "Varėnos r. sav., Marcinkonių sen., Marcinkonių k., Šilų g. 11, LT-65302"
@@ -2911,7 +2915,7 @@
   {
     "name": "Mardasavo kaimo draugija",
     "code": "184636350",
-    "address": "Varėnos r. sav., Merkinės sen., Mardasavo k."
+    "address": "Varėnos r. sav., Marcinkonių sen., Mardasavo k., Dzūkų g. 5, LT-65344"
   },
   {
     "name": "Marijampolės Kristijono Donelaičio draugija",
@@ -3514,6 +3518,11 @@
     "address": "Skuodo r. sav., Skuodo sen., Luknių k., Mokyklos g. 2, LT-98294"
   },
   {
+    "name": "Slaugytojų diabetologų draugija",
+    "code": "307023595",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
     "name": "Stasio Šalkauskio filosofinės minties draugija",
     "code": "305052281",
     "address": "Šiauliai, V. Grinkevičiaus g. 4-8, LT-78243"
@@ -3910,14 +3919,14 @@
     "address": "Vilkaviškis, Algirdo g. 7, LT-70135"
   },
   {
+    "name": "Vilkaviškio rajono asmenų su negalia draugija",
+    "code": "185603570",
+    "address": "Vilkaviškis, Vytauto g. 95-1, LT-70124"
+  },
+  {
     "name": "Vilkaviškio rajono nefrologinių ligonių draugija",
     "code": "300089991",
     "address": "Vilkaviškio r. sav., Šeimenos sen., Alvito k., Ežero g. 5, LT-70369"
-  },
-  {
-    "name": "Vilkaviškio rajono neįgaliųjų draugija",
-    "code": "185603570",
-    "address": "Vilkaviškis, Vytauto g. 95-1, LT-70124"
   },
   {
     "name": "Vilniaus Hipertenzijos Draugija",
@@ -4171,6 +4180,11 @@
     "name": "Zarasų rajono neįgaliųjų draugija",
     "code": "193038672",
     "address": "Zarasų r. sav., Dusetos, Vytauto g. 29, LT-32309"
+  },
+  {
+    "name": "ČIŽIKŲ MAČIAUS DRAUGIJA",
+    "code": "307025436",
+    "address": "Alytus, Statybininkų g. 67-46, LT-63401"
   },
   {
     "name": "Čiurlionio draugija",
@@ -4937,7 +4951,7 @@
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Lazdijų skyriaus A. Kirsnos medžiotojų būrelis",
     "code": "191544233",
-    "address": "Lazdijų r. sav., Būdviečio sen., Aštriosios Kirsnos k."
+    "address": "Lazdijų r. sav., Būdviečio sen., Bielėnų k. 9, LT-67392"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Lazdijų skyriaus Krikštonių medžiotojų būrelis",
@@ -4968,11 +4982,6 @@
     "name": "Lietuvos medžiotojų ir žvejų draugijos Marijampolės skyrius",
     "code": "191211645",
     "address": "Marijampolė, J. Jablonskio g. 4, LT-68290"
-  },
-  {
-    "name": "Lietuvos medžiotojų ir žvejų draugijos Molėtų skyrius",
-    "code": "167616438",
-    "address": "Molėtai, Amatų g. 3, LT-33102"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Pakruojo skyrius",
@@ -5390,14 +5399,14 @@
     "address": "Vilnius, Vilniaus g. 35, LT-01119"
   },
   {
-    "name": "Žiemgalos Aukštaičių kultūros draugijos Joniškio skyrius",
-    "code": "157659843",
-    "address": "Joniškis, Žemaičių g. 14A, LT-84143"
-  },
-  {
     "name": "Žiemgalos draugijos Pasvalio skyrius",
     "code": "304119777",
     "address": "Pasvalys, P. Avižonio g. 6, LT-39149"
+  },
+  {
+    "name": "Žiemgalos kultūros draugijos Joniškio skyrius",
+    "code": "157659843",
+    "address": "Joniškis, Žemaičių g. 14A, LT-84143"
   },
   {
     "name": "UAB \"Draugista\"",

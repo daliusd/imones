@@ -311,11 +311,6 @@
     "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
-    "name": "UAB \"Sainita\"",
-    "code": "302521396",
-    "address": "Vilnius, Taikos g. 7-35, LT-05262"
-  },
-  {
     "name": "\"Saint-Gobain Glass Estonia SE filialas\"",
     "code": "302553718",
     "address": "Kaunas, Elektrėnų g. 1, LT-51190"
@@ -331,6 +326,11 @@
     "code": "111570853",
     "address": "Vilnius, Mėnulio g. 7, LT-04326",
     "vatcode": "LT115708515"
+  },
+  {
+    "name": "Sainvest MB",
+    "code": "307023442",
+    "address": "Lazdijų r. sav., Lazdijų sen., Lazdijų k., Ramybės g. 1, LT-67173"
   },
   {
     "name": "MB \"Saipro\"",
@@ -410,7 +410,8 @@
   {
     "name": "MB Statybų saitas",
     "code": "306970253",
-    "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Šlapšilės k., Obelų g. 2, LT-96171"
+    "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Šlapšilės k., Obelų g. 2, LT-96171",
+    "vatcode": "LT100017324416"
   },
   {
     "name": "Tarptautinė verslo asociacija \"VERSLO SAITAS\"",
@@ -464,7 +465,12 @@
   {
     "name": "UAB Saitis",
     "code": "306250152",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kauno miesto savivaldybės teritorija"
+  },
+  {
+    "name": "UAB \"Saitora\"",
+    "code": "307035590",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "UAB \"Saitus\"",

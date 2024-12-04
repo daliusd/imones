@@ -53,11 +53,6 @@
     "address": "Vilnius, Subačiaus g. 15-41, LT-01300"
   },
   {
-    "name": "MB \"Ratke gaming\"",
-    "code": "305860708",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
     "name": "UAB \"Amber Gaming\"",
     "code": "305600386",
     "address": "Vilnius, Olimpiečių g. 15-1, LT-09237"
@@ -186,13 +181,19 @@
   {
     "name": "MB RP METALO GAMINIAI",
     "code": "307009161",
-    "address": "Šiauliai, Tilžės g. 55-7, LT-78186"
+    "address": "Šiauliai, Tilžės g. 55-7, LT-78186",
+    "vatcode": "LT100017328812"
   },
   {
     "name": "MB Streikų gaminiai",
     "code": "305663867",
     "address": "Panevėžys, Šilauogių g. 25, LT-36280",
     "vatcode": "LT100014703917"
+  },
+  {
+    "name": "MB Sūduvos mėsos gaminiai",
+    "code": "307021808",
+    "address": "Marijampolės sav., Liudvinavo sen., Narto k., Parko g. 3, LT-68124"
   },
   {
     "name": "MB Vitalijaus metalo gaminiai",
@@ -676,7 +677,7 @@
   {
     "name": "Lietuvos žuvininkystės produktų gamintojų asociacija",
     "code": "141045128",
-    "address": "Klaipėda, Senoji Smiltelės g. 7-15"
+    "address": "Klaipėda, Nemuno g. 40B, LT-93277"
   },
   {
     "name": "Lietuvos žuvininkystės produktų gamintojų asociacijos Klaipėdos filialas",
