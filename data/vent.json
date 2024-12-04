@@ -175,11 +175,6 @@
     "address": "Vilnius, Baltupio g. 119-5, LT-08334"
   },
   {
-    "name": "AS \"VentEko\" filialas",
-    "code": "302576898",
-    "address": "Vilnius, Geležinkelio g. 3-14A, LT-02100"
-  },
-  {
     "name": "UAB VentEko Lietuva",
     "code": "304521701",
     "address": "Vilnius, Girulių g. 10-201, LT-12112",
@@ -317,8 +312,7 @@
   {
     "name": "\"Ventiliavimo sistemos\", UAB",
     "code": "304438789",
-    "address": "Kaunas, V. Krėvės pr. 114B-14, LT-50315",
-    "vatcode": "LT100010630613"
+    "address": "Kaunas, V. Krėvės pr. 114B-14, LT-50315"
   },
   {
     "name": "IĮ \"Ventilita\"",
@@ -384,7 +378,8 @@
   {
     "name": "Ventitech, MB",
     "code": "306681245",
-    "address": "Alytaus r. sav., Miroslavo sen., Miroslavo k., Mokyklos g. 5, LT-64235"
+    "address": "Alytaus r. sav., Miroslavo sen., Miroslavo k., Mokyklos g. 5, LT-64235",
+    "vatcode": "LT100017325313"
   },
   {
     "name": "Ventiva UAB",
@@ -948,6 +943,11 @@
     "address": "Vilnius, Gynėjų g. 4-333, LT-01109"
   },
   {
+    "name": "70 Ventures Enterprise GP, UAB",
+    "code": "307032224",
+    "address": "Vilnius, Lvivo g. 81-65, LT-09306"
+  },
+  {
     "name": "70 Ventures Seed GP, UAB",
     "code": "304980220",
     "address": "Vilnius, Gynėjų g. 4-333, LT-01109"
@@ -1083,6 +1083,11 @@
     "name": "MB \"Cerebra Digital Ventures Private Limited\"",
     "code": "306111590",
     "address": "Vilnius, Girulių g. 5, LT-12124"
+  },
+  {
+    "name": "MB \"NORD28 Ventures\"",
+    "code": "307032338",
+    "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
     "name": "MB \"Rehti mats ventures\"",
@@ -1369,11 +1374,6 @@
     "address": "Vilnius, Igno Šimulionio g. 3-87, LT-04330"
   },
   {
-    "name": "UAB \"ZIP Ventures\"",
-    "code": "306334807",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
-  },
-  {
     "name": "UAB \"Žalgiris ventures\"",
     "code": "306011889",
     "address": "Vilnius, Švitrigailos g. 32, LT-03230",
@@ -1455,8 +1455,7 @@
   {
     "name": "UAB Ren ventures",
     "code": "306254421",
-    "address": "Vilnius, J. Basanavičiaus g. 18C-45, LT-03224",
-    "vatcode": "LT100015769915"
+    "address": "Vilnius, J. Basanavičiaus g. 18C-45, LT-03224"
   },
   {
     "name": "UAB Sigmaris Ventures",
@@ -1555,7 +1554,8 @@
   {
     "name": "Novus Ventus Group, UAB",
     "code": "306642609",
-    "address": "Neringa, Gintaro Įlankos g. 6-8, LT-93102"
+    "address": "Neringa, Gintaro Įlankos g. 6-8, LT-93102",
+    "vatcode": "LT100017357311"
   },
   {
     "name": "UAB \"CITMA ventus\"",

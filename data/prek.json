@@ -172,13 +172,14 @@
   {
     "name": "MB \"Prekių sistema\"",
     "code": "304973813",
-    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., Antano Šidiškio g. 9, LT-53304",
+    "address": "Kaunas, Taikos pr. 98, LT-51176",
     "vatcode": "LT100017186918"
   },
   {
     "name": "Mažoji bendrija Prekių srautas",
     "code": "306964453",
-    "address": "Panevėžys, Statybininkų g. 56-102, LT-37348"
+    "address": "Panevėžys, Statybininkų g. 56-102, LT-37348",
+    "vatcode": "LT100017349214"
   },
   {
     "name": "R. Valiaus prekių gamybos firma",
@@ -726,12 +727,6 @@
     "address": "Šilutė, Vydūno g. 12A, LT-99169"
   },
   {
-    "name": "MB \"Maisto tiekimas ir prekyba\"",
-    "code": "304990588",
-    "address": "Kėdainių r. sav., Pelėdnagių sen., Gelnų k., Vandžiogalos g. 47, LT-58151",
-    "vatcode": "LT100012418915"
-  },
-  {
     "name": "MB \"Majaus prekyba\"",
     "code": "305345398",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -1214,6 +1209,11 @@
     "address": "Raseiniai, Birutės g. 6A, LT-60115"
   },
   {
+    "name": "MB Net Prekyba",
+    "code": "307022098",
+    "address": "Kaunas, Gailutės g. 7A, LT-45325"
+  },
+  {
     "name": "MB Nio prekyba",
     "code": "306733838",
     "address": "Vilnius, Karklų g. 27, LT-11117"
@@ -1297,7 +1297,8 @@
   {
     "name": "MB Virtuali prekyba",
     "code": "305976171",
-    "address": "Vilnius, Medeinos g. 25-10, LT-06135"
+    "address": "Vilnius, Medeinos g. 25-10, LT-06135",
+    "vatcode": "LT100017287710"
   },
   {
     "name": "MB Volto prekyba",
@@ -1722,11 +1723,6 @@
     "vatcode": "LT100008724816"
   },
   {
-    "name": "UAB \"Du Medu prekyba\"",
-    "code": "304433639",
-    "address": "Prienų r. sav., Pakuonio sen., Purvininkų k., Vytauto g. 10, LT-59307"
-  },
-  {
     "name": "UAB \"Dumpių prekyba\"",
     "code": "241435150",
     "address": "Klaipėda, Bandužių g. 3-20, LT-95260",
@@ -2112,12 +2108,6 @@
     "address": "Vilnius, Antakalnio g. 37-40, LT-10312"
   },
   {
-    "name": "UAB \"Litradės prekyba\"",
-    "code": "306100619",
-    "address": "Vilnius, Šaltinių g. 5-12, LT-03214",
-    "vatcode": "LT100015137414"
-  },
-  {
     "name": "UAB \"Liustavos prekyba\"",
     "code": "304040696",
     "address": "Vilniaus r. sav., Šatrininkų sen., Grigaičių k., Pergalės g. 48, LT-11236"
@@ -2165,8 +2155,7 @@
   {
     "name": "UAB \"Maksimali prekyba\"",
     "code": "303353841",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
-    "vatcode": "LT100013599116"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB \"Marijampolės prekyba\"",
@@ -2918,11 +2907,6 @@
     "vatcode": "LT351059412"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Aleksoto prekyba\"",
-    "code": "135059290",
-    "address": "Kaunas, Veiverių g. 51, LT-46336"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Baltijos pieno prekyba\"",
     "code": "124268463",
     "address": "Vilnius, Tverečiaus g. 20-7, LT-10217"
@@ -3069,7 +3053,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"VILDIKOS PREKYBA\"",
     "code": "124042998",
-    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221",
+    "vatcode": "LT240429917"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"VILJANDI PREKYBA\"",
@@ -3186,11 +3171,6 @@
     "code": "302469056",
     "address": "Vilnius, Vilkpėdės g. 2A, LT-03151",
     "vatcode": "LT100005091115"
-  },
-  {
-    "name": "UAB \"Sėkmingas prekybininkas\"",
-    "code": "304957976",
-    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
   },
   {
     "name": "Lietuvos grūdų perdirbėjų ir prekybininkų asociacija",
@@ -3737,11 +3717,6 @@
     "vatcode": "LT100003198318"
   },
   {
-    "name": "A. Paškevičienės prekybos įmonė",
-    "code": "153084181",
-    "address": "Naujoji Akmenė, Žalgirio g. 1-4, LT-85131"
-  },
-  {
     "name": "A. Petronio prekybos įmonė",
     "code": "133625971",
     "address": "Kaunas, L. Ivinskio g. 86-3"
@@ -3789,9 +3764,9 @@
     "address": "Kretingos r. sav., Kretingos sen., Kurmaičių k., Tvenkinio g. 4, LT-97240"
   },
   {
-    "name": "A. Stuopelio prekybos įmonė",
+    "name": "A. Stuopelio prekybos įmonė IĮ",
     "code": "164129261",
-    "address": "Kretingos r. sav., Žalgirio sen., Budrių k.",
+    "address": "Kretingos r. sav., Žalgirio sen., Budrių k., Liepų g. 2, LT-97360",
     "vatcode": "LT641292610"
   },
   {
@@ -3865,8 +3840,7 @@
   {
     "name": "Alfonso Barasos prekybos įmonė",
     "code": "167232640",
-    "address": "Mažeikiai, Sodų g. 3, LT-89138",
-    "vatcode": "LT672326418"
+    "address": "Mažeikiai, Sodų g. 3, LT-89138"
   },
   {
     "name": "Alfonso Mejero prekybos įmonė",
@@ -3913,11 +3887,6 @@
     "name": "Aliaus Riškevičiaus prekybos įmonė",
     "code": "151307760",
     "address": "Marijampolė, Gen. A. Gustaičio g. 4-2, LT-68276"
-  },
-  {
-    "name": "Alinos Gabalienės prekybos įmonė",
-    "code": "166553091",
-    "address": "Mažeikiai, Taikos g. 5-27, LT-89174"
   },
   {
     "name": "Alinos Puodžiūnienės prekybos įmonė",
@@ -4084,10 +4053,6 @@
     "address": "Vilnius, Liepkalnio g. 22-7, LT-02105"
   },
   {
-    "name": "Birutės Kybartienės prekybos įmonė \"JALBA\"",
-    "code": "171355225"
-  },
-  {
     "name": "Birutės Šležienės prekybos įmonė",
     "code": "151469919",
     "address": "Marijampolės sav., Igliaukos sen., Varnupių k."
@@ -4162,11 +4127,6 @@
     "address": "Marijampolė, J. Basanavičiaus a. 1, LT-68307"
   },
   {
-    "name": "D. Sungailienės prekybos įmonė",
-    "code": "164172914",
-    "address": "Kretingos r. sav., Salantai, Turgaus a. 2, LT-97314"
-  },
-  {
     "name": "DALIOS MAČIULIENĖS PREKYBOS NAMAI \"JOVARAS\"",
     "code": "175638690",
     "address": "Šiaulių r. sav., Kuršėnai, J. Basanavičiaus g. 2, LT-81156",
@@ -4218,12 +4178,6 @@
     "name": "Danguolės Albrechtienės prekybos įmonė",
     "code": "179330665",
     "address": "Tauragė, Dariaus ir Girėno g. 3, LT-72212"
-  },
-  {
-    "name": "Danguolės Bertašienės prekybos įmonė",
-    "code": "161744018",
-    "address": "Kretingos r. sav., Salantai, M. Valančiaus g. 36, LT-97313",
-    "vatcode": "LT100007822215"
   },
   {
     "name": "Danguolės Elenos Daugirdienės prekybos įmonė",
@@ -4487,8 +4441,7 @@
   {
     "name": "I. Kriščiūnienės prekybos įmonė",
     "code": "151252698",
-    "address": "Marijampolė, Mokolų g. 39-14, LT-68166",
-    "vatcode": "LT512526917"
+    "address": "Marijampolė, Mokolų g. 39-14, LT-68166"
   },
   {
     "name": "I. Kupšienės prekybos įmonė \"RASA\"",
@@ -5363,11 +5316,6 @@
     "address": "Palanga, Sodų g. 61-46, LT-00122"
   },
   {
-    "name": "Mauliaus prekybos įmonė",
-    "code": "121855199",
-    "address": "Vilnius, Pilies g. 32-4, LT-01123"
-  },
-  {
     "name": "Medienos prekybos asociacija",
     "code": "301525819",
     "address": "Panevėžys, Algirdo g. 14, LT-35245"
@@ -5623,11 +5571,6 @@
     "vatcode": "LT633562515"
   },
   {
-    "name": "R. Kalninienės prekybos firma",
-    "code": "158199586",
-    "address": "Jurbarko r. sav., Smalininkai, Nemuno g. 58, LT-74221"
-  },
-  {
     "name": "R. Kaltenienės išvežiojamosios prekybos centras",
     "code": "225046840",
     "address": "Vilnius, Architektų g. 138-36, LT-04201"
@@ -5673,8 +5616,7 @@
   {
     "name": "R. Mankausko prekybos firma \"eRMa\"",
     "code": "144360862",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
-    "vatcode": "LT443608610"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
     "name": "R. Mauruko prekybos įmonė",
@@ -5891,11 +5833,6 @@
     "code": "166772345",
     "address": "Mažeikiai, Respublikos g. 20A, LT-89225",
     "vatcode": "LT667723417"
-  },
-  {
-    "name": "Romualdo Janužio prekybos įmonė",
-    "code": "271355030",
-    "address": "Radviliškis, Maironio g. 6-31, LT-82133"
   },
   {
     "name": "Romualdo Vaitkevičiaus prekybos įmonė",
@@ -6261,8 +6198,7 @@
   {
     "name": "UAB \"Prekybos namai BMZ-Baltija\"",
     "code": "301510639",
-    "address": "Šiauliai, Metalistų g. 10, LT-78151",
-    "vatcode": "LT100003744510"
+    "address": "Šiauliai, Metalistų g. 10, LT-78151"
   },
   {
     "name": "UAB \"Prekybos parko projektai\"",
@@ -6505,8 +6441,7 @@
   {
     "name": "UAB Rumunijos ir Baltijos prekybos namai",
     "code": "304163695",
-    "address": "Klaipėda, Liepų g. 30, LT-92113",
-    "vatcode": "LT100009910410"
+    "address": "Klaipėda, Liepų g. 30, LT-92113"
   },
   {
     "name": "UAB Ukrainos ir Lietuvos prekybos rūmai",
@@ -6919,9 +6854,9 @@
     "address": "Marijampolė, Žiedo g. 2, LT-68301"
   },
   {
-    "name": "V. Prišmont prekybos-autotransporto firma",
+    "name": "V. Prišmonto prekybos ir autotransporto firma, IĮ",
     "code": "174958659",
-    "address": "Šalčininkų r. sav., Šalčininkų sen., Šalčininkėlių k.",
+    "address": "Šalčininkų r. sav., Šalčininkų sen., Ragožiškių k., Gėlių g. 12, LT-17267",
     "vatcode": "LT749586515"
   },
   {
@@ -7352,6 +7287,11 @@
     "name": "MB Prekės visai šeimai",
     "code": "306723712",
     "address": "Alytus, Naujoji g. 58-3, LT-62383"
+  },
+  {
+    "name": "MB Sandėlio prekės",
+    "code": "307021904",
+    "address": "Vilnius, Gabijos g. 38-27, LT-06157"
   },
   {
     "name": "MB Sveikos prekės",

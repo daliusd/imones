@@ -466,6 +466,11 @@
     "vatcode": "LT100016309619"
   },
   {
+    "name": "MB Marsas mieste",
+    "code": "307023218",
+    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., Antano Sereikos g. 26-1, LT-53304"
+  },
+  {
     "name": "RIBOTOS ATSAKOMYBĖS BENDROVĖS \"EAT\" ATSTOVYBĖ VILNIAUS MIESTE (LIETUVOJE)",
     "code": "302550177",
     "address": "Vilnius, Jurgio Dobkevičiaus g. 7, LT-02187"
@@ -970,6 +975,11 @@
     "name": "Alytaus miesto daugiabučio gyvenamojo namo Aerodromo g. 7 savininkų bendrija",
     "code": "303506397",
     "address": "Alytus, Aerodromo g. 7-8, LT-62272"
+  },
+  {
+    "name": "Alytaus miesto daugiabučio gyvenamojo namo savininkų bendrija A. Jonyno g. 29",
+    "code": "150131462",
+    "address": "Alytus, A. Jonyno g. 29, LT-62367"
   },
   {
     "name": "Alytaus miesto daugiabučio namo savininkų bendrija \"Kanklės\"",
@@ -3050,17 +3060,24 @@
   {
     "name": "MB \"Miesto turtas\"",
     "code": "304548157",
-    "address": "Vilnius, Olimpiečių g. 3D-10, LT-09235"
+    "address": "Vilnius, Olimpiečių g. 3D-10, LT-09235",
+    "vatcode": "LT100017299916"
   },
   {
     "name": "MB \"Miesto įvaizdis\"",
     "code": "304777907",
-    "address": "Vilnius, Verkių g. 80, LT-12201"
+    "address": "Vilnius, Verkių g. 80, LT-12201",
+    "vatcode": "LT100011808918"
   },
   {
     "name": "MB Alytaus miesto ritmas",
     "code": "305553869",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "MB Beribio miesto pakraštys",
+    "code": "307026246",
+    "address": "Klaipėda, Debreceno g. 13-36B, LT-94174"
   },
   {
     "name": "MB Klaipėdos miesto konstrukcijų projektai",
@@ -4054,14 +4071,9 @@
     "vatcode": "LT100010221215"
   },
   {
-    "name": "UAB \"Miesto skalbykla\"",
-    "code": "141537282",
-    "address": "Klaipėda, Tilžės g. 52B, LT-91112"
-  },
-  {
     "name": "UAB \"Miesto spauda\"",
     "code": "303531030",
-    "address": "Klaipėda, Klevų g. 5-35, LT-92207",
+    "address": "Klaipėda, Kretingos g. 69-33, LT-92304",
     "vatcode": "LT100009126910"
   },
   {
@@ -4552,7 +4564,7 @@
   {
     "name": "Viešoji įstaiga \"Vilniaus Miesto Opera\"",
     "code": "302817107",
-    "address": "Vilnius, Jogailos g. 9, LT-01116"
+    "address": "Vilnius, Ašmenos g. 8, LT-01135"
   },
   {
     "name": "Viešoji įstaiga \"Vilniaus miesto parkai\"",
@@ -5041,7 +5053,7 @@
   {
     "name": "Vilniaus miesto Vyresniojo Amžiaus Žmonių Asociacija",
     "code": "300573946",
-    "address": "Vilnius, J. Basanavičiaus g. 16A-124, LT-03224"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "Vilniaus miesto administracinės paskirties pastato Šeimyniškių g. 21 savininkų bendrija",
@@ -5534,7 +5546,7 @@
   {
     "name": "Vilniaus saugaus miesto centras",
     "code": "191844444",
-    "address": "Vilnius, Architektų g. 166, LT-04203"
+    "address": "Vilnius, A. Juozapavičiaus g. 7, LT-09311"
   },
   {
     "name": "Virbalio miesto Vydūno gatvės bendruomenė",
@@ -5886,7 +5898,7 @@
   {
     "name": "Šiaulių miesto rankinio sporto klubas \"Šiauliai\"",
     "code": "145431547",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Vijolių k., Gintaro g. 1E, LT-76310"
+    "address": "Šiauliai, Žiemgalių g. 343, LT-78307"
   },
   {
     "name": "Šiaulių miesto savivaldybės administracija",

@@ -133,6 +133,11 @@
     "address": "Vilnius, Algirdo g. 10-14, LT-03220"
   },
   {
+    "name": "Draudimo žalų ir techninio asistavimo biuras",
+    "code": "307037068",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "Druskininkų savivaldybės visuomenės sveikatos biuras",
     "code": "303259363",
     "address": "Druskininkai, M. K. Čiurlionio g. 80, LT-66144"
@@ -480,11 +485,6 @@
     "name": "MB \"Virtualių asistentų biuras\"",
     "code": "305670840",
     "address": "Kaunas, Baltų pr. 27-41, LT-48237"
-  },
-  {
-    "name": "MB \"Vizijų biuras\"",
-    "code": "305249389",
-    "address": "Vilnius, Jonažolių g. 10-13, LT-04134"
   },
   {
     "name": "MB Administratorių biuras",
@@ -967,8 +967,7 @@
   {
     "name": "UAB \"NT valdymo biuras\"",
     "code": "304290066",
-    "address": "Kaunas, Taikos pr. 141, LT-51132",
-    "vatcode": "LT100010270516"
+    "address": "Kaunas, Taikos pr. 141, LT-51132"
   },
   {
     "name": "UAB \"Nemokumo administratorių biuras\"",
@@ -1015,11 +1014,6 @@
     "code": "300023429",
     "address": "Vilnius, Švitrigailos g. 11M, LT-03228",
     "vatcode": "LT100001115619"
-  },
-  {
-    "name": "UAB \"Sprendimų biuras\"",
-    "code": "302341003",
-    "address": "Vilnius, Šumsko g. 27, LT-02193"
   },
   {
     "name": "UAB \"Statybos inžinierių konsultantų biuras\"",
@@ -2281,7 +2275,8 @@
   {
     "name": "MB Biurų įrengimas",
     "code": "306166715",
-    "address": "Vilnius, Justiniškių g. 62A-201, LT-05239"
+    "address": "Vilnius, Justiniškių g. 62A-201, LT-05239",
+    "vatcode": "LT100017312513"
   },
   {
     "name": "Savivaldybių visuomenės sveikatos biurų asociacija",

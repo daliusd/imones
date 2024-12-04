@@ -54,11 +54,6 @@
     "address": "Vilnius, Antakalnio g. 24, LT-10305"
   },
   {
-    "name": "IĮ \"Heraklio maistas\"",
-    "code": "300128519",
-    "address": "Vilnius, Didlaukio g. 92-9, LT-08332"
-  },
-  {
     "name": "IĮ \"LINKSMAS MAISTAS\"",
     "code": "301128867",
     "address": "Vilnius, Medeinos g. 25-44, LT-06135"
@@ -119,7 +114,8 @@
   {
     "name": "MB \"Dievų maistas enzimai\"",
     "code": "306442149",
-    "address": "Vilnius, Liubčios g. 15, LT-14310"
+    "address": "Vilnius, Liubčios g. 15, LT-14310",
+    "vatcode": "LT100017302011"
   },
   {
     "name": "MB \"Drakonų maistas\"",
@@ -219,7 +215,8 @@
   {
     "name": "MB \"Vingio maistas\"",
     "code": "306727123",
-    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Akacijų g. 79-1, LT-13268"
+    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Akacijų g. 79-1, LT-13268",
+    "vatcode": "LT100017333718"
   },
   {
     "name": "MB \"Ypatingas maistas\"",
@@ -381,11 +378,6 @@
     "address": "Vilnius, Gedimino pr. 45-4, LT-01109"
   },
   {
-    "name": "UAB \"Liuks maistas\"",
-    "code": "304573961",
-    "address": "Alytus, S. Dariaus ir S. Girėno g. 2-12, LT-62137"
-  },
-  {
     "name": "UAB \"Maistas ant lentelės\"",
     "code": "305690227",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
@@ -527,6 +519,12 @@
     "name": "UAB Funkcinis maistas",
     "code": "306109657",
     "address": "Vilnius, Ozo g. 41-50, LT-07171"
+  },
+  {
+    "name": "UAB Maistas ant ugnies",
+    "code": "306620228",
+    "address": "Vilnius, Totorių g. 12-18, LT-01121",
+    "vatcode": "LT100016512813"
   },
   {
     "name": "UAB Palangos maistas",
@@ -859,12 +857,6 @@
     "code": "305654238",
     "address": "Telšių r. sav., Viešvėnų sen., Rainių k., Mastupio g. 1F, LT-88402",
     "vatcode": "LT100014347318"
-  },
-  {
-    "name": "MB \"Maisto tiekimas ir prekyba\"",
-    "code": "304990588",
-    "address": "Kėdainių r. sav., Pelėdnagių sen., Gelnų k., Vandžiogalos g. 47, LT-58151",
-    "vatcode": "LT100012418915"
   },
   {
     "name": "MB \"Maisto vagonėlis\"",
@@ -1324,7 +1316,7 @@
   {
     "name": "Valstybinės maisto ir veterinarijos tarnybos valstybės tarnautojų ir darbuotojų profesinė sąjunga",
     "code": "305440533",
-    "address": "Plungės r. sav., Nausodžio sen., Varkalių k., Žemaičių g. 7-3, LT-90105"
+    "address": "Anykščiai, Žiburio g. 13-9, LT-29120"
   },
   {
     "name": "Valstybinės ne maisto produktų inspekcijos darbuotojų profesinė sąjunga",
@@ -1364,11 +1356,6 @@
     "vatcode": "LT100014622311"
   },
   {
-    "name": "UAB \"Maistoranas\"",
-    "code": "305257425",
-    "address": "Vilnius, Loretos Asanavičiūtės g. 38-69, LT-04313"
-  },
-  {
     "name": "M. Maistrovo įmonė",
     "code": "155917070",
     "address": "Visaginas, Statybininkų g. 5-21, LT-31137",
@@ -1382,7 +1369,8 @@
   {
     "name": "UAB \"Aistra maistui\"",
     "code": "305217473",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017333415"
   },
   {
     "name": "UAB \"Meilė maistui\"",

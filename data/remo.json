@@ -172,7 +172,8 @@
   {
     "name": "MB \"Statyba remontas\"",
     "code": "306720602",
-    "address": "Radviliškio r. sav., Šeduva, Geležinkelio Stoties g. 2-1, LT-82238"
+    "address": "Radviliškio r. sav., Šeduva, Geležinkelio Stoties g. 2-1, LT-82238",
+    "vatcode": "LT100017356313"
   },
   {
     "name": "MB \"Stiklo pluošto remontas / Fiberglass service\"",
@@ -221,6 +222,11 @@
     "name": "MB Vilio auto remontas",
     "code": "307011269",
     "address": "Marijampolės sav., Šunskų sen., Mokolų k., Kaštonų g. 14B, LT-68460"
+  },
+  {
+    "name": "Mažoji bendrija \"GSG įrenginių priežiūra ir remontas\"",
+    "code": "307022803",
+    "address": "Alytus, Statybininkų g. 37-68, LT-63406"
   },
   {
     "name": "Mažoji bendrija \"Smulkintuvų remontas\"",
@@ -312,11 +318,6 @@
     "code": "303067060",
     "address": "Vilnius, Ozo g. 41, LT-07171",
     "vatcode": "LT100008877813"
-  },
-  {
-    "name": "UAB \"Variklių remontas\"",
-    "code": "304420816",
-    "address": "Kaunas, J. Basanavičiaus al. 58-7, LT-50195"
   },
   {
     "name": "UAB \"Versirma\" KŪB \"Versirmos remontas\"",
@@ -643,7 +644,8 @@
   {
     "name": "IĮ \"Statybos ir remonto sprendimai\"",
     "code": "305273461",
-    "address": "Kaunas, K. Baršausko g. 79-48, LT-51385"
+    "address": "Kaunas, K. Baršausko g. 79-48, LT-51385",
+    "vatcode": "LT100014097012"
   },
   {
     "name": "IĮ \"V. Pranausko automobilių remonto dirbtuvės\"",
@@ -709,11 +711,6 @@
     "address": "Vilnius, Sausio 13-osios g. 11-47, LT-04345"
   },
   {
-    "name": "Kisėliaus buitinių prietaisų remonto įmonė",
-    "code": "121090952",
-    "address": "Vilnius, T. Kosciuškos g. 19-2, LT-01100"
-  },
-  {
     "name": "Kutučio automobilių remonto dirbtuvės",
     "code": "178623551",
     "address": "Švenčionių r. sav., Švenčionėliai, Klevų g. 9A"
@@ -768,6 +765,11 @@
     "name": "MB Remonto oazė",
     "code": "306019213",
     "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105"
+  },
+  {
+    "name": "MB Statybos ir Remonto darbai",
+    "code": "307026506",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "P. Skersio automobilių remonto įmonė",
@@ -1108,8 +1110,7 @@
   },
   {
     "name": "UAB \"Remontuok\"",
-    "code": "305662046",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "code": "305662046"
   },
   {
     "name": "UAB \"Remontus\"",

@@ -28,11 +28,6 @@
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
-    "name": "UAB \"Inova plius\"",
-    "code": "303439525",
-    "address": "Vilnius, Pamėnkalnio g. 18-13, LT-01114"
-  },
-  {
     "name": "UAB \"Tauro inova\"",
     "code": "305713035",
     "address": "Kėdainių r. sav., Pernaravos sen., Jakšių k., Aušros g. 16-2, LT-58229"
@@ -323,6 +318,11 @@
     "name": "Mažoji bendrija Sveikatos inovacijos",
     "code": "305656050",
     "address": "Plungės r. sav., Platelių sen., Visvainių k., Miškų g. 17, LT-90423"
+  },
+  {
+    "name": "Mažoji bendrija Verslumas ir inovacijos",
+    "code": "307021014",
+    "address": "Vilnius, Jurgio Šlapelio g. 24-1, LT-11321"
   },
   {
     "name": "Media inovacijos plius, MB",
@@ -669,7 +669,8 @@
   {
     "name": "MB \"Inovacijų plėtros sprendimai\"",
     "code": "306042984",
-    "address": "Vilnius, Sausio 13-osios g. 37-235, LT-04349"
+    "address": "Vilnius, Sausio 13-osios g. 37-235, LT-04349",
+    "vatcode": "LT100017332911"
   },
   {
     "name": "MB \"Inovacijų projektai\"",
@@ -707,11 +708,6 @@
     "name": "MB Inovacijų artelė",
     "code": "303462869",
     "address": "Vilnius, Minties g. 8A-21, LT-09225"
-  },
-  {
-    "name": "MB Inovacijų centro produktai",
-    "code": "306152199",
-    "address": "Vilnius, Naugarduko g. 49-3, LT-03205"
   },
   {
     "name": "MB Inovacijų dialogas",
@@ -768,7 +764,7 @@
   {
     "name": "Mokslo ir inovacijų sklaidos centras",
     "code": "304935481",
-    "address": "Vilnius, Gedimino pr. 3, LT-01103"
+    "address": "Kaunas, Karaliaus Mindaugo pr. 50, ŽALGIRIO arena, LT-44334"
   },
   {
     "name": "Mokslo tyrimų ir inovacijų klinika, UAB",
@@ -1312,11 +1308,6 @@
     "vatcode": "LT100005793711"
   },
   {
-    "name": "VšĮ Inovacinių sprendimų centras",
-    "code": "304694571",
-    "address": "Jonavos r. sav., Žeimiai, Taikos g. 7, LT-55384"
-  },
-  {
     "name": "Karolio Galinio individuali konsultacinė-inovacinė įmonė",
     "code": "134913663",
     "address": "Kaunas, Europos pr. 122, LT-46351"
@@ -1631,6 +1622,11 @@
     "name": "INOVATYVIOS FARMACIJOS PRAMONĖS ASOCIACIJA",
     "code": "124186557",
     "address": "Vilnius, Olimpiečių g. 1A-16, LT-09235"
+  },
+  {
+    "name": "Inovatyvios klinikos, MB",
+    "code": "307025977",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "Lietuvos inovatyvios energetikos ir prekybos asociacija",
@@ -2018,11 +2014,6 @@
     "address": "Varėnos r. sav., Kaniavos sen., Mikalčiūnų k., Pušyno g. 19, LT-65248"
   },
   {
-    "name": "UAB \"Inoverta\"",
-    "code": "305400001",
-    "address": "Varėnos r. sav., Merkinės sen., Dubaklonio k., Panemunės g. 32, LT-65340"
-  },
-  {
     "name": "UAB \"Inovest\"",
     "code": "171419838",
     "address": "Šiauliai, Jono Adomaičio g. 5, LT-77189",
@@ -2088,7 +2079,8 @@
   {
     "name": "MB \"Inovita LT\"",
     "code": "306958151",
-    "address": "Alytaus r. sav., Nemunaičio sen., Balninkų k., Centrinė g. 7, LT-64202"
+    "address": "Alytaus r. sav., Nemunaičio sen., Balninkų k., Centrinė g. 7, LT-64202",
+    "vatcode": "LT100017292616"
   },
   {
     "name": "MB Inovizija",

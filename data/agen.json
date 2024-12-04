@@ -154,7 +154,8 @@
   {
     "name": "MB \"A 19 agency\"",
     "code": "306315696",
-    "address": "Vilnius, Manufaktūrų g. 20-21, LT-11342"
+    "address": "Vilnius, Manufaktūrų g. 20-21, LT-11342",
+    "vatcode": "LT100017346810"
   },
   {
     "name": "MB \"A cool agency\"",
@@ -217,14 +218,8 @@
   {
     "name": "MB \"Shy agency\"",
     "code": "306022330",
-    "address": "Vilniaus r. sav., Nemėžio sen., Didžiasalio k., Šv. Antano g. 14, LT-13264",
+    "address": "Vilnius, Smolensko g. 10D-32, LT-03201",
     "vatcode": "LT100014991717"
-  },
-  {
-    "name": "MB \"Sposter Agency\"",
-    "code": "306227634",
-    "address": "Vilnius, Eišiškių pl. 47-312, LT-02184",
-    "vatcode": "LT100016645111"
   },
   {
     "name": "MB \"Versify agency\"",
@@ -240,6 +235,11 @@
     "name": "MB 888 Agency",
     "code": "307015762",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
+    "name": "MB AJ Optimize Agency",
+    "code": "307027711",
+    "address": "Gargždai, Liepų g. 18, LT-96121"
   },
   {
     "name": "MB Agency NORI",
@@ -377,7 +377,7 @@
   {
     "name": "MB Pepper agency",
     "code": "305836301",
-    "address": "Vilnius, Vytenio g. 54-304, LT-03229"
+    "address": "Vilnius, Ulonų g. 3, LT-08240"
   },
   {
     "name": "MB Portray agency",
@@ -414,6 +414,11 @@
     "name": "MB The Click agency",
     "code": "306338556",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
+    "name": "MB Vytis Agency",
+    "code": "307034620",
+    "address": "Vilnius, Kryžiokų g. 33, LT-14270"
   },
   {
     "name": "MB Yoof agency",
@@ -502,6 +507,11 @@
     "code": "302605990",
     "address": "Vilnius, Ulonų g. 3-19, LT-08240",
     "vatcode": "LT100006017313"
+  },
+  {
+    "name": "UAB \"Baltic digital agency\"",
+    "code": "307036525",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "UAB \"Box Agency\"",
@@ -675,6 +685,11 @@
     "address": "Vilnius, J. Basanavičiaus g. 26, LT-03224"
   },
   {
+    "name": "UAB Baltic Investment Agency",
+    "code": "307022664",
+    "address": "Kaunas, Islandijos pl. 95-57, LT-49176"
+  },
+  {
     "name": "UAB Carma agency",
     "code": "306689498",
     "address": "Šilutė, Nemuno g. 26A, LT-99150"
@@ -683,6 +698,11 @@
     "name": "UAB Content me agency",
     "code": "305974206",
     "address": "Biržų r. sav., Širvėnos sen., Kirkilų k., Mokyklos g. 8A, LT-41183"
+  },
+  {
+    "name": "UAB Demo agency",
+    "code": "307025169",
+    "address": "Vilnius, Švitrigailos g. 16B-63, LT-03223"
   },
   {
     "name": "UAB Enter Agency",
@@ -732,7 +752,8 @@
   {
     "name": "UAB TOP AGENCY",
     "code": "307019038",
-    "address": "Kauno r. sav., Batniavos sen., Kriemalos k., Ulyčios g. 2, LT-54182"
+    "address": "Kauno r. sav., Batniavos sen., Kriemalos k., Ulyčios g. 2, LT-54182",
+    "vatcode": "LT100017331116"
   },
   {
     "name": "UAB VIP Models & Dancers Agency",
@@ -1422,11 +1443,6 @@
     "vatcode": "LT100013761919"
   },
   {
-    "name": "UAB \"Tipo Agentūra\"",
-    "code": "302622687",
-    "address": "Vilnius, Filaretų g. 42A-27, LT-01210"
-  },
-  {
     "name": "UAB \"Turinio patirties agentūra\"",
     "code": "307018598",
     "address": "Vilnius, Antano Tumėno g. 4, LT-01110"
@@ -1472,8 +1488,7 @@
   {
     "name": "UAB Baldų agentūra",
     "code": "304825437",
-    "address": "Vilnius, Sporto g. 10-21, LT-09238",
-    "vatcode": "LT100011620319"
+    "address": "Vilnius, Sporto g. 10-21, LT-09238"
   },
   {
     "name": "UAB Baltijos paslaugų agentūra",
@@ -1517,11 +1532,6 @@
     "name": "UAB Finansinių sprendimų agentūra",
     "code": "304225150",
     "address": "Kaunas, Baltų pr. 193A-35, LT-47120"
-  },
-  {
-    "name": "UAB Informacijos ir sociologijos agentūra",
-    "code": "121386556",
-    "address": "Vilnius, Laisvės pr. 77A-69, LT-06144"
   },
   {
     "name": "UAB Informacijos vadybos agentūra",
@@ -1708,11 +1718,6 @@
     "code": "126153940",
     "address": "Vilnius, K. Kalinausko g. 2B-201, LT-03107",
     "vatcode": "LT100000932816"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė JOGAILOS MORKŪNO REKLAMOS AGENTŪRA",
-    "code": "123626936",
-    "address": "Vilnius, Vytauto g. 6-26, LT-08118"
   },
   {
     "name": "Uždaroji akcinė bendrovė Kauno logistikos agentūra",
@@ -1974,6 +1979,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "VšĮ Kovotojų agentūra",
+    "code": "307027679",
+    "address": "Palanga, Aguonų tak. 15, LT-00144"
+  },
+  {
     "name": "VšĮ MENŲ AGENTŪRA \"ARTSCAPE\"",
     "code": "302706893",
     "address": "Vilnius, Maumedžių g. 11-9, LT-08307"
@@ -2069,12 +2079,6 @@
     "name": "Žemės ūkio agentūros prie Žemės ūkio ministerijos profesinė sąjunga",
     "code": "306737886",
     "address": "Vilnius, Gedimino pr. 19, LT-01103"
-  },
-  {
-    "name": "LIETUVOS NEKILNOJAMOJO TURTO AGENTŪRŲ ASOCIACIJA",
-    "code": "300661620",
-    "address": "Vilnius, A. Juozapavičiaus g. 7, LT-09311",
-    "vatcode": "LT100007945412"
   },
   {
     "name": "Pietų Lietuvos nekilnojamojo turto agentūrų asociacija",
