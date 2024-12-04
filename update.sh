@@ -16,6 +16,6 @@ if [ "$RUN_FROM_GITHUB_ACTION" = "true" ]; then
       git commit -m "data update"
       git push --set-upstream origin update-${NOW}
       gh pr create -f -b "Data update ${NOW}"
-      gh pr merge --auto --squash --admin
+      gh pr merge --squash --admin
   fi
 fi
