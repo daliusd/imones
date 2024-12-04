@@ -216,6 +216,11 @@
     "vatcode": "LT100016514416"
   },
   {
+    "name": "MB \"Statybos linija\"",
+    "code": "307031065",
+    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Arkos g. 12-9, LT-14180"
+  },
+  {
     "name": "MB \"Tauro linija\"",
     "code": "304166353",
     "address": "Jurbarko r. sav., Smalininkai, Parko g. 17-7, LT-74224",
@@ -291,6 +296,11 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Mažojo Londono g. 44-14, LT-92359"
   },
   {
+    "name": "MB Meno linija",
+    "code": "307025226",
+    "address": "Panevėžys, Girelės g. 7A, LT-37450"
+  },
+  {
     "name": "MB Plento linija",
     "code": "306045585",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -328,7 +338,7 @@
   {
     "name": "MB Teisinių paslaugų linija",
     "code": "307012264",
-    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Girios g. 7-5, LT-54307"
+    "address": "Kauno r. sav., Raudondvario sen., Didvyrių k., Laumžirgių g. 7, LT-54113"
   },
   {
     "name": "MB Versli linija",
@@ -341,9 +351,19 @@
     "address": "Vilnius, Zofijos Gulevič g. 46B, LT-11322"
   },
   {
+    "name": "MB Vilnos linija",
+    "code": "307034008",
+    "address": "Vilnius, Taikos g. 263A-16, LT-05265"
+  },
+  {
     "name": "MB Vrk linija",
     "code": "306962922",
     "address": "Jonavos r. sav., Rukla, Ruklio g. 5-13, LT-55286"
+  },
+  {
+    "name": "MB Žodis ir linija",
+    "code": "307021473",
+    "address": "Vilnius, Ozo g. 30-66, LT-07197"
   },
   {
     "name": "Mažoji bendrija \"Vartų linija\"",
@@ -678,11 +698,6 @@
     "address": "Šiaulių r. sav., Kairiai, Agrastų g. 11, LT-80118"
   },
   {
-    "name": "UAB \"Nauja linija\"",
-    "code": "304066463",
-    "address": "Vilnius, Vilniaus g. 31, LT-01402"
-  },
-  {
     "name": "UAB \"Nt linija\"",
     "code": "305712620",
     "address": "Vilnius, Gervėčių g. 4, LT-11350",
@@ -942,8 +957,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Amžių linija\"",
     "code": "135553410",
-    "address": "Kaunas, Taikos pr. 44A, LT-50234",
-    "vatcode": "LT355534113"
+    "address": "Kaunas, Taikos pr. 44A, LT-50234"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"ERDVINĖ LINIJA\"",
@@ -1255,10 +1269,5 @@
     "name": "UAB \"Liniux\"",
     "code": "305901756",
     "address": "Vilnius, Santariškių g. 75-34, LT-08457"
-  },
-  {
-    "name": "UAB \"LINIVA\"",
-    "code": "302868411",
-    "address": "Vilnius, Adutiškio g. 3-3, LT-02112"
   }
 ]

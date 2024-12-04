@@ -137,11 +137,6 @@
     "address": "Vilnius, Verkių g. 25B-61, LT-08223"
   },
   {
-    "name": "Virtual Wallet Europe UAB",
-    "code": "306972090",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
-  },
-  {
     "name": "MB VirtualBooth",
     "code": "306350964",
     "address": "Kauno r. sav., Akademija, Povilo Matulionio g. 17, LT-53348"
@@ -213,7 +208,8 @@
   {
     "name": "MB Virtuali prekyba",
     "code": "305976171",
-    "address": "Vilnius, Medeinos g. 25-10, LT-06135"
+    "address": "Vilnius, Medeinos g. 25-10, LT-06135",
+    "vatcode": "LT100017287710"
   },
   {
     "name": "MB Virtuali studija",
@@ -449,7 +445,7 @@
   {
     "name": "UAB \"Virtualus horizontas\"",
     "code": "248453140",
-    "address": "Panevėžys, Ramygalos g. 112-51, LT-36226",
+    "address": "Panevėžio r. sav., Panevėžio sen., Šilagalio k., Stadiono g. 1, LT-36220",
     "vatcode": "LT484531416"
   },
   {
@@ -594,8 +590,7 @@
   {
     "name": "UAB \"Virtus Mediae\"",
     "code": "304771480",
-    "address": "Vilnius, Gedimino pr. 21-101, LT-01103",
-    "vatcode": "LT100011473418"
+    "address": "Vilnius, Gedimino pr. 21-101, LT-01103"
   },
   {
     "name": "UAB Virtus Group",
@@ -1021,7 +1016,8 @@
   {
     "name": "UAB Rafaelio virtuvė",
     "code": "306389764",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Tvarkiškių k., Šilo g. 1, LT-53285"
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Tvarkiškių k., Šilo g. 1, LT-53285",
+    "vatcode": "LT100017313511"
   },
   {
     "name": "UAB Simonos virtuvė",

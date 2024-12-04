@@ -142,6 +142,11 @@
     "address": "Klaipėda, Darželio g. 6-24, LT-93196"
   },
   {
+    "name": "Invertas engineering, MB",
+    "code": "307024081",
+    "address": "Vilnius, Girulių g. 10, LT-12112"
+  },
+  {
     "name": "MASTER ENGINEERING SERVICE filialas",
     "code": "304558354",
     "address": "Vilniaus miesto savivaldybės teritorija"
@@ -241,7 +246,8 @@
   {
     "name": "MB Amber Core Engineering",
     "code": "306684348",
-    "address": "Panevėžys, A. Mackevičiaus g. 59B, LT-35147"
+    "address": "Panevėžys, A. Mackevičiaus g. 59B, LT-35147",
+    "vatcode": "LT100017328015"
   },
   {
     "name": "MB Dc engineering solutions",
@@ -284,7 +290,8 @@
   {
     "name": "MB Pipes Engineering",
     "code": "306999899",
-    "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Obelyno g. 10-1, LT-14182"
+    "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Obelyno g. 10-1, LT-14182",
+    "vatcode": "LT100017287418"
   },
   {
     "name": "MB Ratautas engineering",
@@ -622,7 +629,7 @@
   {
     "name": "UAB \"Smart engineering\"",
     "code": "305708586",
-    "address": "Vilnius, A. Goštauto g. 8-248, LT-01108",
+    "address": "Klaipėdos r. sav., Sendvario sen., Sudmantų k., Sendvario g. 18, LT-96327",
     "vatcode": "LT100014139011"
   },
   {
@@ -689,11 +696,6 @@
     "vatcode": "LT100004668817"
   },
   {
-    "name": "UAB Baltic Engineering Systems",
-    "code": "302565777",
-    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
-  },
-  {
     "name": "UAB CIVINITY FUTURE ENGINEERING",
     "code": "306852290",
     "address": "Vilnius, Naugarduko g. 98, LT-03160"
@@ -721,6 +723,11 @@
     "code": "302829134",
     "address": "Vilnius, Pylimo g. 41-12, LT-01308",
     "vatcode": "LT100007075712"
+  },
+  {
+    "name": "UAB Eco metallurgical engineering projects",
+    "code": "306819358",
+    "address": "Klaipėda, Tauralaukio g. 14B, LT-92347"
   },
   {
     "name": "UAB Elenet engineering",
@@ -829,7 +836,7 @@
   {
     "name": "UAB Vilnius Engineering",
     "code": "306385082",
-    "address": "Vilnius, Kareivių g. 11-514, LT-09133",
+    "address": "Vilnius, Žirmūnų g. 139, LT-09120",
     "vatcode": "LT100016567911"
   },
   {
@@ -929,14 +936,14 @@
     "vatcode": "LT100011638412"
   },
   {
-    "name": "UAB Engineers LT",
-    "code": "302637123",
-    "address": "Panevėžys, Klaipėdos g. 99 K2-46, LT-37103"
-  },
-  {
     "name": "UAB \"Engineringa\"",
     "code": "304883223",
     "address": "Šiaulių miesto savivaldybės teritorija"
+  },
+  {
+    "name": "MB Enginesparts",
+    "code": "307033931",
+    "address": "Šilalės r. sav., Traksėdžio sen., Traksėdžio k., Trako g. 3, LT-75117"
   },
   {
     "name": "MB \"Engiris\"",

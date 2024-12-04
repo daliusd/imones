@@ -465,11 +465,6 @@
     "vatcode": "LT100015956310"
   },
   {
-    "name": "\"BE studija\", MB",
-    "code": "304781909",
-    "address": "Panevėžys, Vakario g. 5, LT-37451"
-  },
-  {
     "name": "\"Mandro gandro studija\", MB",
     "code": "306100156",
     "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
@@ -599,6 +594,11 @@
     "address": "Klaipėda, Dragūnų g. 7-26, LT-92331"
   },
   {
+    "name": "Anemo studija, MB",
+    "code": "307033995",
+    "address": "Kaunas, Savanorių pr. 376-44, LT-49362"
+  },
+  {
     "name": "Architekto A. Barzdos studija, UAB",
     "code": "304538978",
     "address": "Zarasų r. sav., Dusetų sen., Užtiltės k., Žirgų g. 5, LT-32302"
@@ -613,11 +613,6 @@
     "code": "300570708",
     "address": "Kaunas, S. Žukausko g. 24-40, LT-49255",
     "vatcode": "LT100004556416"
-  },
-  {
-    "name": "Architekto R.Toleikio studija",
-    "code": "223083530",
-    "address": "Vilnius, Prūsų g. 8-7, LT-02154"
   },
   {
     "name": "Architektūros ir dizaino studija \"Impromptus\", MB",
@@ -746,6 +741,11 @@
     "name": "Dainiaus Sadausko architektūros studija, MB",
     "code": "305929780",
     "address": "Kaunas, Ryšių g. 3-7, LT-51305"
+  },
+  {
+    "name": "Deja Vu studija, IĮ",
+    "code": "307022689",
+    "address": "Vilnius, Laisvės pr. 60-601, LT-05120"
   },
   {
     "name": "Did studija, MB",
@@ -1050,11 +1050,6 @@
     "address": "Vilnius, Buivydiškių g. 22, LT-07195"
   },
   {
-    "name": "IĮ R. S. Garuckų projektavimo studija S.",
-    "code": "121242082",
-    "address": "Vilnius, Dysnos g. 4-7, LT-01135"
-  },
-  {
     "name": "IĮ S. Sakalio projektavimo studija \"SAULIUS\"",
     "code": "182806918",
     "address": "Ukmergė, Vasario 16-osios g. 4, LT-20106"
@@ -1340,6 +1335,11 @@
     "address": "Vilnius, Salomėjos Nėries g. 89-23, LT-06304"
   },
   {
+    "name": "MB \"BodySkin estetikos studija\"",
+    "code": "307023652",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB \"Burnos sveikatos studija\"",
     "code": "306636588",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -1513,6 +1513,11 @@
     "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
   },
   {
+    "name": "MB \"Kremų Studija\"",
+    "code": "307036009",
+    "address": "Vilnius, T. Ševčenkos g. 16K-601, LT-03111"
+  },
+  {
     "name": "MB \"Kūrybos studija\"",
     "code": "305733447",
     "address": "Vilnius, Girulių g. 10, LT-12112"
@@ -1548,6 +1553,11 @@
     "code": "304398355",
     "address": "Vilnius, Jurgio Baltrušaičio g. 9-146, LT-06145",
     "vatcode": "LT100010584919"
+  },
+  {
+    "name": "MB \"Lumino studija\"",
+    "code": "307023983",
+    "address": "Jurbarkas, Barkūnų g. 28, LT-74111"
   },
   {
     "name": "MB \"Lumos studija\"",
@@ -1808,6 +1818,11 @@
     "address": "Vilniaus r. sav., Riešės sen., Pikeliškių k., Žalesėlio g. 18, LT-15145"
   },
   {
+    "name": "MB \"Treniruočių studija\"",
+    "code": "307025475",
+    "address": "Vilniaus r. sav., Zujūnų sen., Dvarykščių k., Dvarykščių g. 7, LT-14168"
+  },
+  {
     "name": "MB \"Tylos muzikos studija\"",
     "code": "305621843",
     "address": "Kaunas, Sąjungos a. 6, LT-48358"
@@ -1849,6 +1864,11 @@
     "name": "MB \"ZV grožio studija\"",
     "code": "305717208",
     "address": "Kaunas, Kovo 11-osios g. 73-105, LT-49431"
+  },
+  {
+    "name": "MB \"Ąžuolo studija\"",
+    "code": "307029527",
+    "address": "Kaunas, Ašmenos 1-oji g. 10A-6, LT-44499"
   },
   {
     "name": "MB \"Čiurlionio studija\"",
@@ -1939,7 +1959,8 @@
   {
     "name": "MB Architekto E. Žurkaus studija",
     "code": "306970584",
-    "address": "Kaunas, Bitininkų g. 78-1, LT-46373"
+    "address": "Kaunas, Bitininkų g. 78-1, LT-46373",
+    "vatcode": "LT100017337014"
   },
   {
     "name": "MB Architektūros studija \"Eglė\"",
@@ -2201,6 +2222,11 @@
     "address": "Vilnius, Pavilnionių g. 31-24, LT-12135"
   },
   {
+    "name": "MB Freeflow kūrybingumo studija",
+    "code": "307023830",
+    "address": "Vilnius, Šiaulių g. 10-37, LT-01134"
+  },
+  {
     "name": "MB Funkcionali studija",
     "code": "305612940",
     "address": "Kaunas, Pramonės pr. 69-91, LT-50396"
@@ -2281,6 +2307,11 @@
     "address": "Vilnius, Žemaitės g. 15, LT-03118"
   },
   {
+    "name": "MB Goya studija",
+    "code": "307027120",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
+  },
+  {
     "name": "MB Gretos studija",
     "code": "304466105",
     "address": "Kaunas, T. Masiulio g. 3-10, LT-52359"
@@ -2346,6 +2377,11 @@
     "code": "305222972",
     "address": "Vilnius, Santariškių g. 75-34, LT-08457",
     "vatcode": "LT100013923717"
+  },
+  {
+    "name": "MB Gėrimų studija",
+    "code": "307030376",
+    "address": "Panevėžys, Beržų g. 38, LT-36202"
   },
   {
     "name": "MB Harmoningos asmenybės studija",
@@ -2684,11 +2720,6 @@
     "address": "Vilnius, A. Domaševičiaus g. 3-8, LT-01400"
   },
   {
-    "name": "MB Mano dizaino studija",
-    "code": "304055709",
-    "address": "Vilnius, L. Sapiegos g. 4-76, LT-10312"
-  },
-  {
     "name": "MB Mariaus baldų studija",
     "code": "306016701",
     "address": "Anykščių r. sav., Kavarsko sen., Mariniškių k. 2, LT-29252"
@@ -2800,7 +2831,8 @@
   {
     "name": "MB Ok dizaino studija",
     "code": "306662259",
-    "address": "Telšių r. sav., Degaičių sen., Eigirdžių mstl., Šviesos g. 7, LT-88127"
+    "address": "Telšių r. sav., Degaičių sen., Eigirdžių mstl., Šviesos g. 7, LT-88127",
+    "vatcode": "LT100017291315"
   },
   {
     "name": "MB Oksanos Laucevičienės kineziterapijos studija",
@@ -2832,6 +2864,11 @@
     "name": "MB Panevėžio Pilateso studija",
     "code": "305976342",
     "address": "Panevėžys, Parko g. 51-73, LT-37304"
+  },
+  {
+    "name": "MB Panina nagų rojus studija",
+    "code": "307024665",
+    "address": "Vilnius, Liongino Baliukevičiaus-Dzūko g. 96-44, LT-06301"
   },
   {
     "name": "MB Pervežimo studija",
@@ -3125,8 +3162,7 @@
   {
     "name": "MB Tekstilės studija",
     "code": "303186075",
-    "address": "Klaipėda, H. Manto g. 8-81, LT-92132",
-    "vatcode": "LT100014155013"
+    "address": "Klaipėda, H. Manto g. 8-81, LT-92132"
   },
   {
     "name": "MB Tiesiog studija",
@@ -3490,7 +3526,8 @@
   {
     "name": "Mažoji bendrija SA studija",
     "code": "306724351",
-    "address": "Kaunas, Karaliaus Mindaugo pr. 33-57, LT-44301"
+    "address": "Kaunas, Karaliaus Mindaugo pr. 33-57, LT-44301",
+    "vatcode": "LT100017345913"
   },
   {
     "name": "Mažoji bendrija Sigutės kūrybos studija",
@@ -3551,7 +3588,8 @@
   {
     "name": "Miego studija, MB",
     "code": "305644265",
-    "address": "Panevėžys, Ukmergės g. 26, LT-35181"
+    "address": "Panevėžys, Ukmergės g. 26, LT-35181",
+    "vatcode": "LT100017304512"
   },
   {
     "name": "Mikos šokių studija",
@@ -3654,7 +3692,8 @@
   {
     "name": "Programavimo menų studija, UAB",
     "code": "304012355",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100017310113"
   },
   {
     "name": "Projektavimo studija \"Archera\", UAB",
@@ -3820,6 +3859,11 @@
     "code": "305954627",
     "address": "Kelmė, Nepriklausomybės g. 18A-8, LT-86177",
     "vatcode": "LT100015138311"
+  },
+  {
+    "name": "Studija happy, UAB",
+    "code": "307032014",
+    "address": "Klaipėda, Kretingos g. 25-3, LT-92301"
   },
   {
     "name": "Studija ketvirta versija, MB",
@@ -4181,7 +4225,7 @@
   {
     "name": "UAB \"Klik\" studija",
     "code": "304538896",
-    "address": "Vilnius, Filaretų g. 77G, LT-01214"
+    "address": "Vilnius, Antakalnio g. 48A-201, LT-10304"
   },
   {
     "name": "UAB \"Kontraformos\" architektūros ir dizaino studija",
@@ -4649,8 +4693,7 @@
   {
     "name": "UAB Fasadų gamybos studija",
     "code": "303351801",
-    "address": "Vilniaus r. sav., Rukainių sen., Savičiūnų k., F. Boguševičiaus g. 33, LT-13180",
-    "vatcode": "LT100008831210"
+    "address": "Vilniaus r. sav., Rukainių sen., Savičiūnų k., F. Boguševičiaus g. 33, LT-13180"
   },
   {
     "name": "UAB Flow studija",
@@ -4707,8 +4750,7 @@
   {
     "name": "UAB Interjero projektų studija",
     "code": "303195398",
-    "address": "Kaunas, Ateities pl. 34B, LT-52165",
-    "vatcode": "LT100008188511"
+    "address": "Kaunas, Ateities pl. 34B, LT-52165"
   },
   {
     "name": "UAB Interneto studija",
@@ -4792,11 +4834,6 @@
     "code": "305185488",
     "address": "Kaunas, Karaliaus Mindaugo pr. 38, LT-44307",
     "vatcode": "LT100012811318"
-  },
-  {
-    "name": "UAB Metalo dizaino studija",
-    "code": "303329388",
-    "address": "Telšiai, Pramonės g. 7, LT-87101"
   },
   {
     "name": "UAB Metalo studija",
@@ -5115,11 +5152,6 @@
     "name": "Uždaroji akcinė bendrovė \"Rūtos grožio studija\"",
     "code": "300009251",
     "address": "Vilnius, Šilo g. 62-5, LT-10317"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"SENAMIESČIO REKLAMOS STUDIJA\"",
-    "code": "124606274",
-    "address": "Vilnius, Odminių g. 3A-19, LT-01122"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"STUDIJA 2000\"",
@@ -5466,11 +5498,6 @@
     "address": "Kaunas, Mažoji g. 7A-9, LT-45309"
   },
   {
-    "name": "Violetos Žickienės architektūros studija",
-    "code": "125320233",
-    "address": "Vilnius, Čiobiškio g. 45-15, LT-07188"
-  },
-  {
     "name": "Visagino grožio kūrėjų studija",
     "code": "303572543",
     "address": "Visaginas, Kosmoso g. 40-34, LT-31100"
@@ -5591,6 +5618,11 @@
     "name": "VšĮ \"Savęs pažinimo studija\"",
     "code": "303014887",
     "address": "Šakių r. sav., Sintautai, P. Vaičaičio g. 13, LT-71336"
+  },
+  {
+    "name": "VšĮ \"Sporto studija\"",
+    "code": "307028222",
+    "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Samanynės g. 22, LT-14180"
   },
   {
     "name": "VšĮ \"Studija Eiva\"",
@@ -6297,11 +6329,6 @@
     "vatcode": "LT758630811"
   },
   {
-    "name": "UAB Privačių studijų centras",
-    "code": "303342414",
-    "address": "Vilnius, Lukiškių g. 5, LT-01108"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"ŽMOGAUS STUDIJŲ CENTRAS\"",
     "code": "120282818",
     "address": "Vilnius, Trakų g. 8, LT-01132",
@@ -6611,6 +6638,11 @@
     "vatcode": "LT100016091710"
   },
   {
+    "name": "MB \"GLOWING SKIN STUDIO\"",
+    "code": "307024206",
+    "address": "Vilnius, Daugėliškio g. 11-5, LT-09302"
+  },
+  {
     "name": "MB \"Global Studio\"",
     "code": "305097433",
     "address": "Vilnius, Vito Gerulaičio g. 1-111, LT-08200",
@@ -6803,6 +6835,11 @@
     "vatcode": "LT100016023211"
   },
   {
+    "name": "MB Agne Studio",
+    "code": "307025308",
+    "address": "Kaunas, Kukučių g. 39, LT-51338"
+  },
+  {
     "name": "MB Aldo studio",
     "code": "306655930",
     "address": "Palanga, Tylos tak. 2-10, LT-00134"
@@ -6811,6 +6848,11 @@
     "name": "MB Amber ceramics studio",
     "code": "305844294",
     "address": "Anykščių r. sav., Anykščių sen., Šeimyniškėlių k., Elmos 6-oji g. 9, LT-29108"
+  },
+  {
+    "name": "MB Amite studio",
+    "code": "307024882",
+    "address": "Vilnius, Mykolo Marcinkevičiaus g. 29-11, LT-08433"
   },
   {
     "name": "MB Andcut studio",
@@ -7037,6 +7079,11 @@
     "address": "Vilnius, Vytauto g. 39-2, LT-08122"
   },
   {
+    "name": "MB Muse studio",
+    "code": "307027622",
+    "address": "Vilnius, Kalvarijų g. 276-31, LT-08316"
+  },
+  {
     "name": "MB Negaila Studio",
     "code": "306641336",
     "address": "Gargždai, Vyšnių g. 3, LT-96139"
@@ -7165,7 +7212,8 @@
   {
     "name": "MB Studio Wine",
     "code": "306995947",
-    "address": "Vilnius, Rodūnios kel. 9, LT-02195"
+    "address": "Vilnius, Rodūnios kel. 9, LT-02195",
+    "vatcode": "LT100017309210"
   },
   {
     "name": "MB Studio by rd",
@@ -7182,6 +7230,11 @@
     "name": "MB Studio kudaba",
     "code": "306311210",
     "address": "Vilnius, Gabijos g. 59-25, LT-06102"
+  },
+  {
+    "name": "MB Studio lar",
+    "code": "307021758",
+    "address": "Vilnius, Valdemaro Čarneckio g. 158-2, LT-11317"
   },
   {
     "name": "MB Studio prime",
@@ -7227,8 +7280,7 @@
   {
     "name": "Mažoji bendrija BLUE WHALE STUDIO",
     "code": "305684174",
-    "address": "Kaunas, Gedimino g. 22A-14, LT-44319",
-    "vatcode": "LT100015654910"
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
   },
   {
     "name": "Mažoji bendrija Hait studio",
@@ -7239,6 +7291,11 @@
     "name": "Mažoji bendrija Hungry eyes studio",
     "code": "306745445",
     "address": "Vilnius, Aušros Vartų g. 15-8, LT-01304"
+  },
+  {
+    "name": "Mažoji bendrija In Arch studio",
+    "code": "307025500",
+    "address": "Vilnius, Paplaujos g. 3-64, LT-11342"
   },
   {
     "name": "Mažoji bendrija Mad plotter studio",
@@ -7438,11 +7495,6 @@
     "address": "Vilnius, Eglių g. 38-3, LT-03138"
   },
   {
-    "name": "UAB \"Innter studio\"",
-    "code": "305643149",
-    "address": "Klaipėda, Šilutės pl. 12-75, LT-91174"
-  },
-  {
     "name": "UAB \"Inside Design Studio\"",
     "code": "304220908",
     "address": "Vilnius, Kazio Bizausko g. 109-1, LT-11317",
@@ -7515,11 +7567,6 @@
     "name": "UAB \"OMG studio\"",
     "code": "302415845",
     "address": "Vilnius, Antakalnio g. 61-19, LT-10207"
-  },
-  {
-    "name": "UAB \"RADAR STUDIO\"",
-    "code": "302975993",
-    "address": "Vilnius, Mindaugo g. 27-46, LT-03210"
   },
   {
     "name": "UAB \"SO studio\"",
@@ -7608,15 +7655,15 @@
     "vatcode": "LT100006690817"
   },
   {
+    "name": "UAB Aline studio",
+    "code": "307026196",
+    "address": "Alytus, Aušros g. 6, LT-62153"
+  },
+  {
     "name": "UAB Av studio",
     "code": "305922704",
     "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Žaros g. 1, LT-92342",
     "vatcode": "LT100014465817"
-  },
-  {
-    "name": "UAB Bamboo Forest Studio",
-    "code": "305671903",
-    "address": "Vilnius, Žygio g. 97-R2, LT-08236"
   },
   {
     "name": "UAB CRAFT STUDIO 313",
@@ -7867,6 +7914,11 @@
     "address": "Vilnius, Šv. Dvasios g. 6-49, LT-02102"
   },
   {
+    "name": "MB Psyche studios",
+    "code": "307024576",
+    "address": "Vilnius, Ašmenėlės g. 106-23, LT-11330"
+  },
+  {
     "name": "REKT Studios UAB",
     "code": "306051225",
     "address": "Vilnius, Žalgirio g. 90-100, LT-09303"
@@ -7895,8 +7947,7 @@
   {
     "name": "UAB \"STUDIOS\"",
     "code": "300565020",
-    "address": "Klaipėda, Vingio g. 43-34, LT-95218",
-    "vatcode": "LT100004694819"
+    "address": "Klaipėda, Vingio g. 43-34, LT-95218"
   },
   {
     "name": "UAB Hautecore Studios",

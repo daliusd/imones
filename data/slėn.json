@@ -101,11 +101,6 @@
     "address": "Kaunas, I. Kanto g. 18, LT-44296"
   },
   {
-    "name": "UAB \"Slėnio vaišės\"",
-    "code": "302442664",
-    "address": "Trakai, Slėnio g. 1, LT-21121"
-  },
-  {
     "name": "Viešoji įstaiga Uogų slėnio mokymosykla",
     "code": "305600863",
     "address": "Vilniaus r. sav., Nemėžio sen., Paliepių k., Lyglaukių g. 38, LT-13280",
@@ -197,6 +192,11 @@
     "name": "Asociacija \"Kūrybiškumo slėnis\"",
     "code": "304420093",
     "address": "Vilniaus r. sav., Nemenčinė, M. K. Oginskio g. 7, LT-15172"
+  },
+  {
+    "name": "Asociacija \"Naujasis Akmenos slėnis\"",
+    "code": "307034894",
+    "address": "Kretinga, Geležinkelio g. 17G-10, LT-97121"
   },
   {
     "name": "Asociacija \"Santaros slėnis\"",
@@ -327,7 +327,7 @@
   {
     "name": "Gyvenamųjų namų savininkų bendrija \"Žaliasis slėnis\"",
     "code": "163701446",
-    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k."
+    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Architektų a. 11, LT-92359"
   },
   {
     "name": "Gyvenamųjų namų savininkų bendrija \"Žvejonės slėnis\"",
@@ -619,6 +619,11 @@
     "address": "Kaunas, Taikos pr. 107-46, LT-50457"
   },
   {
+    "name": "UAB \"Elijos slėnis\"",
+    "code": "307023061",
+    "address": "Vilnius, Lvivo g. 105A-101, LT-08104"
+  },
+  {
     "name": "UAB \"Elnių slėnis\"",
     "code": "306726523",
     "address": "Joniškio r. sav., Skaistgirio sen., Normantėlių k. 1, LT-84379"
@@ -643,11 +648,6 @@
     "name": "UAB \"Girios slėnis\"",
     "code": "300566535",
     "address": "Vilnius, Žolyno g. 57, LT-10254"
-  },
-  {
-    "name": "UAB \"Girstupio slėnis\"",
-    "code": "135896074",
-    "address": "Kaunas, Tunelio g. 31, LT-44386"
   },
   {
     "name": "UAB \"Helijos slėnis\"",
@@ -719,8 +719,7 @@
   {
     "name": "UAB \"Mėsainių slėnis\"",
     "code": "303132234",
-    "address": "Vilnius, Ukmergės g. 238, LT-07160",
-    "vatcode": "LT100010907719"
+    "address": "Vilnius, Ukmergės g. 238, LT-07160"
   },
   {
     "name": "UAB \"Mūšos slėnis\"",
@@ -993,7 +992,7 @@
   {
     "name": "UAB Sinergijos Slėnis",
     "code": "305722358",
-    "address": "Kaunas, Raudondvario pl. 131B-9, LT-47191",
+    "address": "Kaunas, Vytauto pr. 32, LT-44328",
     "vatcode": "LT100013917319"
   },
   {
@@ -1151,6 +1150,11 @@
     "name": "VšĮ \"Viešintos slėnis\"",
     "code": "306414096",
     "address": "Kupiškio r. sav., Subačiaus sen., Skverbų k., Gastomo g. 2, LT-40402"
+  },
+  {
+    "name": "VšĮ \"Vilties slėnis\"",
+    "code": "302488170",
+    "address": "Panevėžio r. sav., Miežiškiai, Nevėžio g. 15, LT-38116"
   },
   {
     "name": "VšĮ \"Zuikių slėnis\"",

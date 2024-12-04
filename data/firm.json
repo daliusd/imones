@@ -962,11 +962,6 @@
     "vatcode": "LT837013811"
   },
   {
-    "name": "A. Muchinienės firma \"Sensa bonum\"",
-    "code": "126322949",
-    "address": "Vilnius, Lentupio g. 8-7, LT-10218"
-  },
-  {
     "name": "A. Muchino firma \"ANDLINA\"",
     "code": "124521639",
     "address": "Vilnius, Ukmergės g. 198-76, LT-07169"
@@ -1158,11 +1153,6 @@
     "name": "A. Rancevo firma \"VILEGRA\"",
     "code": "141754670",
     "address": "Klaipėda, Danės g. 31-35, LT-92108"
-  },
-  {
-    "name": "A. Rasiko firma \"Tylius\"",
-    "code": "121029091",
-    "address": "Vilnius, M. K. Čiurlionio g. 86-18, LT-03100"
   },
   {
     "name": "A. Raškausko personali firma \"SPORTO REKLAMA\"",
@@ -1451,6 +1441,11 @@
     "code": "142019136",
     "address": "Klaipėda, Turgaus g. 10, LT-91247",
     "vatcode": "LT420191314"
+  },
+  {
+    "name": "A. Zapasnyko firma \"TIESA\"",
+    "code": "121652416",
+    "address": "Vilnius, Rolando Jankausko g. 15-80, LT-04315"
   },
   {
     "name": "A. Zavadzko firma",
@@ -2008,7 +2003,7 @@
     "address": "Kaunas, Kęstučio g. 3-1, LT-44320"
   },
   {
-    "name": "Arnoldo Ramanausko konsultacinė firma",
+    "name": "Arnoldo Ramanausko konsultacinė firma IĮ",
     "code": "122552422",
     "address": "Vilnius, A. Vivulskio g. 16-11, LT-03115"
   },
@@ -2504,11 +2499,6 @@
     "name": "Butylovo firma \"SIKIS\"",
     "code": "121621470",
     "address": "Vilnius, Kalvarijų g. 38-16, LT-09304"
-  },
-  {
-    "name": "Bučelio projektavimo firma",
-    "code": "120960368",
-    "address": "Vilnius, I. Kanto al. 20-10, LT-06215"
   },
   {
     "name": "C. Boimo firma \"Šeimos sveikata\"",
@@ -3240,11 +3230,6 @@
     "code": "159423464",
     "address": "Kaišiadorių r. sav., Žiežmarių apylinkės sen., Stasiūnų k.",
     "vatcode": "LT100005653615"
-  },
-  {
-    "name": "Dariaus Linkevičiaus reklamos firma \"Galinė stotis\"",
-    "code": "145301055",
-    "address": "Šiauliai, Gardino g. 31-25, LT-78237"
   },
   {
     "name": "Dariaus Liutkaus firma",
@@ -4149,7 +4134,7 @@
   {
     "name": "G. Israjelian firma \"ADEKTA\"",
     "code": "124958368",
-    "address": "Vilnius, Architektų g. 107-67, LT-04210"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "G. Jagelavičienės firma \"GĖLIŲ LAUKAS\"",
@@ -4165,12 +4150,6 @@
     "name": "G. Janavičienės personalinė firma \"Genė\"",
     "code": "186048926",
     "address": "Vilniaus r. sav., Nemenčinė, Pievų g. 1-9, LT-15172"
-  },
-  {
-    "name": "G. Jankausko firma",
-    "code": "180256895",
-    "address": "Telšių r. sav., Ryškėnų sen., Purplių k. 5C, LT-87150",
-    "vatcode": "LT802568917"
   },
   {
     "name": "G. Jasiukaitienės firma \"Egzotikos pasaulis\"",
@@ -4413,12 +4392,6 @@
     "code": "121487815",
     "address": "Vilnius, Vilniaus g. 16, LT-01402",
     "vatcode": "LT214878113"
-  },
-  {
-    "name": "G. Račkausko firma \"Sena artelė\"",
-    "code": "133906349",
-    "address": "Kaunas, Marvelės g. 97-1",
-    "vatcode": "LT339063414"
   },
   {
     "name": "G. Račkausko komercinė firma",
@@ -5628,9 +5601,21 @@
     "address": "Vilnius, Viršuliškių g. 61-44, LT-05124"
   },
   {
+    "name": "IĮ G. Jankausko firma",
+    "code": "180256895",
+    "address": "Telšių r. sav., Ryškėnų sen., Purplių k. 5C, LT-87150",
+    "vatcode": "LT802568917"
+  },
+  {
     "name": "IĮ G. Kuncės veterinarinė firma",
     "code": "264775870",
     "address": "Kupiškio r. sav., Šimonių sen., Adomynės k."
+  },
+  {
+    "name": "IĮ G. Račkausko firma \"Sena artelė\"",
+    "code": "133906349",
+    "address": "Kaunas, Marvelės g. 97, LT-46208",
+    "vatcode": "LT339063414"
   },
   {
     "name": "IĮ G. Rukšėno firma \"Senoji galera\"",
@@ -6299,9 +6284,9 @@
     "vatcode": "LT484114113"
   },
   {
-    "name": "J. Mackevičiaus firma \"Marta\"",
+    "name": "J. Mackevičiaus firma \"Marta\" IĮ",
     "code": "120666224",
-    "address": "Vilnius, Taikos g. 33-13, LT-05261",
+    "address": "Vilnius, Mindaugo g. 30-71, LT-03214",
     "vatcode": "LT206662219"
   },
   {
@@ -6704,11 +6689,6 @@
     "name": "Jono Jakilaičio firma",
     "code": "134829724",
     "address": "Kaunas, Universiteto g. 20, LT-46265"
-  },
-  {
-    "name": "Jono Kernagio firma",
-    "code": "124058269",
-    "address": "Vilnius, Ozo g. 15-91"
   },
   {
     "name": "Jono Plycnerio prekybinė firma",
@@ -7251,12 +7231,6 @@
     "address": "Vilnius, Architektų g. 34-21, LT-04121"
   },
   {
-    "name": "L. Antonovos firma \"ELKOMPA\"",
-    "code": "124176787",
-    "address": "Vilnius, Šeškinės g. 43-14, LT-07158",
-    "vatcode": "LT241767811"
-  },
-  {
     "name": "L. Armalienės firma",
     "code": "134989789",
     "address": "Kaunas, Žemoji g. 6, LT-46355"
@@ -7717,12 +7691,6 @@
     "vatcode": "LT652433610"
   },
   {
-    "name": "Laimučio Židonio firma",
-    "code": "235492780",
-    "address": "Kaunas, Statybininkų g. 9, LT-50118",
-    "vatcode": "LT100001053211"
-  },
-  {
     "name": "Lendronės Karagienės firma \"Lendronė\"",
     "code": "154210334",
     "address": "Anykščių r. sav., Debeikiai, Ąžuolų g. 3, LT-29371",
@@ -8005,11 +7973,6 @@
     "name": "M. Misiūno firma \"Vicilė\"",
     "code": "154235526",
     "address": "Anykščiai, Ramybės g. 5-10, LT-29125"
-  },
-  {
-    "name": "M. Mizgirio firma \"INMA\"",
-    "code": "124419787",
-    "address": "Vilnius, Medeinos g. 25-21, LT-06135"
   },
   {
     "name": "M. Mykolaičio firma \"Vinista\"",
@@ -8328,12 +8291,6 @@
     "address": "Kauno r. sav., Kulautuva, Akacijų al. 14, LT-53483"
   },
   {
-    "name": "N. Didžgalvio firma",
-    "code": "180725428",
-    "address": "Telšiai, Kepyklos g. 11, LT-87105",
-    "vatcode": "LT100003531314"
-  },
-  {
     "name": "N. Gruodienės firma \"Aunida\"",
     "code": "134810581",
     "address": "Kaunas, A. Juozapavičiaus pr. 48A-21, LT-45222",
@@ -8465,7 +8422,7 @@
   {
     "name": "Nijolės Gervienės firma",
     "code": "159864462",
-    "address": "Kauno r. sav., Neveronių sen., Neveronių k., Dobilų g. 5, LT-54478"
+    "address": "Kauno rajono savivaldybės teritorija"
   },
   {
     "name": "Nijolės Jagelavičienės firma",
@@ -8868,11 +8825,6 @@
     "address": "Kaunas, V. Krėvės pr. 3-66, LT-49497"
   },
   {
-    "name": "R. Butkaus firma \"Baldų akcentai\"",
-    "code": "145845473",
-    "address": "Šiauliai, Rasos g. 9-71, LT-78182"
-  },
-  {
     "name": "R. Chorūno firma",
     "code": "180249744",
     "address": "Telšiai, Kalno g. 18, LT-87133",
@@ -8989,9 +8941,9 @@
     "address": "Kaunas, Vėtrungės g. 2-40, LT-48125"
   },
   {
-    "name": "R. Grimalio gamybinė - komercinė firma",
+    "name": "R. Grimalio gamybinė - komercinė firma IĮ",
     "code": "163323726",
-    "address": "Klaipėdos r. sav., Priekulės sen., Nibrų k.",
+    "address": "Klaipėdos r. sav., Priekulės sen., Nibrų k., Džiaugsmo g. 5, LT-96365",
     "vatcode": "LT633237219"
   },
   {
@@ -9122,11 +9074,6 @@
     "name": "R. Kacėnienės firma",
     "code": "123678961",
     "address": "Vilnius, Ozo g. 17-9"
-  },
-  {
-    "name": "R. Kalninienės prekybos firma",
-    "code": "158199586",
-    "address": "Jurbarko r. sav., Smalininkai, Nemuno g. 58, LT-74221"
   },
   {
     "name": "R. Kamsiuko firma",
@@ -9292,8 +9239,7 @@
   {
     "name": "R. Mankausko prekybos firma \"eRMa\"",
     "code": "144360862",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
-    "vatcode": "LT443608610"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
     "name": "R. Margevičienės firma \"Rasvalda\"",
@@ -10408,11 +10354,6 @@
     "address": "Telšių r. sav., Varniai, Vytauto g. 34, LT-88320"
   },
   {
-    "name": "S. Gasparavičienės firma \"ARCHEONAS\"",
-    "code": "122462373",
-    "address": "Vilnius, Kauno g. 10-5, LT-01310"
-  },
-  {
     "name": "S. Gestautienės firma \"Ingesta\"",
     "code": "134055677",
     "address": "Kaunas, Kalniečių g. 235-3, LT-50108"
@@ -10442,11 +10383,6 @@
     "name": "S. Jeljaševič firma \"KALINDA\"",
     "code": "123902295",
     "address": "Vilnius, Vėluvos g. 13, LT-06248"
-  },
-  {
-    "name": "S. Kaminsko firma",
-    "code": "121662677",
-    "address": "Vilnius, Smolensko g. 29-63, LT-03201"
   },
   {
     "name": "S. Kaminsko projektavimo statybinė firma \"Profi Baltic\"",
@@ -10589,8 +10525,7 @@
   {
     "name": "S. Paškausko firma \"Amir\"",
     "code": "151118546",
-    "address": "Marijampolės sav., Marijampolės sen., Baraginės k., Juozo Montvilos g. 14, LT-69491",
-    "vatcode": "LT511185419"
+    "address": "Marijampolės sav., Marijampolės sen., Baraginės k., Juozo Montvilos g. 14, LT-69491"
   },
   {
     "name": "S. Petrauskienės firma",
@@ -11856,11 +11791,6 @@
     "address": "Kaunas, P. Lukšio g. 30-1"
   },
   {
-    "name": "V. Kaminskio firma",
-    "code": "152756085",
-    "address": "Neringa, Pamario g. 3, LT-93124"
-  },
-  {
     "name": "V. Kaminsko firma \"MEZOZOJUS\"",
     "code": "123569983",
     "address": "Vilnius, Sausio 13-osios g. 37-106, LT-04349"
@@ -12095,11 +12025,6 @@
     "name": "V. Lukšo firma \"Gintaras\"",
     "code": "152408050",
     "address": "Kretinga, Plungės g. 2, LT-97135"
-  },
-  {
-    "name": "V. Lysenko firma \"IGRETA\"",
-    "code": "122988583",
-    "address": "Vilnius, Čiobiškio g. 15-22, LT-07180"
   },
   {
     "name": "V. M. Janulio firma \"ERVITA\"",
@@ -12403,9 +12328,9 @@
     "address": "Kaunas, Maironio g. 26A-10, LT-44249"
   },
   {
-    "name": "V. Prišmont prekybos-autotransporto firma",
+    "name": "V. Prišmonto prekybos ir autotransporto firma, IĮ",
     "code": "174958659",
-    "address": "Šalčininkų r. sav., Šalčininkų sen., Šalčininkėlių k.",
+    "address": "Šalčininkų r. sav., Šalčininkų sen., Ragožiškių k., Gėlių g. 12, LT-17267",
     "vatcode": "LT749586515"
   },
   {
@@ -12603,11 +12528,6 @@
     "name": "V. Subatavičiaus firma \"ELKORSTA\"",
     "code": "124840398",
     "address": "Vilnius, Peteliškių g. 11-13, LT-01213"
-  },
-  {
-    "name": "V. Sutkaus firma \"Vaiguva\"",
-    "code": "147632278",
-    "address": "Panevėžys, Algirdo g. 7-7"
   },
   {
     "name": "V. Svitojaus firma",
@@ -12875,7 +12795,8 @@
   {
     "name": "Vaido Misiūno firma \"Ankasta\"",
     "code": "154267520",
-    "address": "Anykščiai, Ramybės g. 5-10, LT-29125"
+    "address": "Anykščiai, Ramybės g. 5-10, LT-29125",
+    "vatcode": "LT100017312715"
   },
   {
     "name": "Vaidos Sipavičienės firma",
@@ -12958,7 +12879,7 @@
   {
     "name": "Valentino Kazlausko firma",
     "code": "134361784",
-    "address": "Kaunas, Guobų g. 43, LT-52316"
+    "address": "Kauno miesto savivaldybės teritorija"
   },
   {
     "name": "Valentino Pūro firma",
@@ -13355,11 +13276,6 @@
     "address": "Kaunas, Draugystės g. 7B-7, LT-51280"
   },
   {
-    "name": "Z. Narbutienės komercinė firma",
-    "code": "140600534",
-    "address": "Klaipėda, Statybininkų pr. 13-18, LT-94237"
-  },
-  {
     "name": "Z. Novickio firma \"GRIEBTUVAS\"",
     "code": "225531530",
     "address": "Vilnius, Viršuliškių g. 59-62, LT-05124",
@@ -13412,11 +13328,6 @@
     "name": "Z. Žukovskio firma \"IVANTA\"",
     "code": "186469665",
     "address": "Vilniaus r. sav., Bezdonių sen., Arvydų k. 249-1"
-  },
-  {
-    "name": "Zegerio personali firma",
-    "code": "121067416",
-    "address": "Vilnius, Labdarių g. 4-21A"
   },
   {
     "name": "Zenon Stupenko firma",

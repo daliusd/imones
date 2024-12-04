@@ -48,11 +48,6 @@
     "vatcode": "LT100015171616"
   },
   {
-    "name": "MB \"Prijaukinti vėjai\"",
-    "code": "305663529",
-    "address": "Vilnius, Aukštaičių g. 10-42, LT-11341"
-  },
-  {
     "name": "MB \"Rytų vėjai\"",
     "code": "305493660",
     "address": "Klaipėda, Liepų g. 36A-10, LT-92107",
@@ -448,7 +443,8 @@
   {
     "name": "MB Pūkuotas vėjas",
     "code": "306324802",
-    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Žaibo g. 35, LT-53365"
+    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Žaibo g. 35, LT-53365",
+    "vatcode": "LT100017319510"
   },
   {
     "name": "MB Sodo vėjas",
@@ -464,6 +460,11 @@
     "name": "MB Verslo vėjas",
     "code": "306838294",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "MB Vėjas laukuose",
+    "code": "307030910",
+    "address": "Vilnius, Girulių g. 10, LT-12112"
   },
   {
     "name": "Mažoji bendrija \"Vėjas gluosniuose\"",
@@ -978,7 +979,7 @@
   {
     "name": "VšĮ \"Pokyčių vėjas\"",
     "code": "305276087",
-    "address": "Pakruojis, Saulėtekio g. 11, LT-83140"
+    "address": "Radviliškis, Maironio g. 9A-42, LT-82134"
   },
   {
     "name": "VšĮ \"Sidabro vėjas\"",

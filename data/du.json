@@ -57,6 +57,11 @@
     "address": "Kauno r. sav., Raudondvario sen., Didvyrių k., Lomankos g. 20-2, LT-54113"
   },
   {
+    "name": "Du penki, MB",
+    "code": "307028489",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "Du vilkai, MB",
     "code": "305808597",
     "address": "Vilnius, Linkmenų g. 58-278, LT-08217"
@@ -167,11 +172,6 @@
     "code": "305037991",
     "address": "Kaunas, Užnerio g. 52, LT-47492",
     "vatcode": "LT100012350115"
-  },
-  {
-    "name": "MB \"Du elementai\"",
-    "code": "304975839",
-    "address": "Vilniaus r. sav., Sudervės sen., Mikališkių k., Pluošto 1-oji g. 9, LT-14205"
   },
   {
     "name": "MB \"Du gurmanai\"",
@@ -409,6 +409,11 @@
     "address": "Kaunas, Partizanų g. 216-77, LT-50319"
   },
   {
+    "name": "MB Du valetai",
+    "code": "307026125",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB Du veidai",
     "code": "305921584",
     "address": "Kaunas, Maironio g. 26B, LT-44249"
@@ -494,11 +499,6 @@
     "code": "302681269",
     "address": "Kaunas, Dovinės g. 10A, LT-47197",
     "vatcode": "LT100006577712"
-  },
-  {
-    "name": "UAB \"Du Medu prekyba\"",
-    "code": "304433639",
-    "address": "Prienų r. sav., Pakuonio sen., Purvininkų k., Vytauto g. 10, LT-59307"
   },
   {
     "name": "UAB \"Du Medu\"",
@@ -614,7 +614,8 @@
   {
     "name": "UAB \"Du viename\"",
     "code": "302295285",
-    "address": "Kaunas, Baltų pr. 3-43, LT-48261"
+    "address": "Kaunas, Baltų pr. 3-43, LT-48261",
+    "vatcode": "LT100017307012"
   },
   {
     "name": "UAB \"Du vėjai\"",

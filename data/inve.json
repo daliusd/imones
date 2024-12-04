@@ -309,6 +309,11 @@
     "vatcode": "LT100015353913"
   },
   {
+    "name": "Invertas engineering, MB",
+    "code": "307024081",
+    "address": "Vilnius, Girulių g. 10, LT-12112"
+  },
+  {
     "name": "UAB \"Invertas\"",
     "code": "305610989",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
@@ -439,7 +444,7 @@
   {
     "name": "314 Invest UAB",
     "code": "306186415",
-    "address": "Vilnius, Konstitucijos pr. 15-92, LT-09319"
+    "address": "Vilnius, Rinktinės g. 5-101, LT-09234"
   },
   {
     "name": "3K Invest, UAB",
@@ -510,7 +515,8 @@
   {
     "name": "Amber INVEST UAB",
     "code": "305570509",
-    "address": "Vilniaus rajono savivaldybės teritorija"
+    "address": "Vilniaus rajono savivaldybės teritorija",
+    "vatcode": "LT100017326019"
   },
   {
     "name": "Avermont Invest filialas",
@@ -561,6 +567,11 @@
     "name": "CMF Invest, UAB",
     "code": "305802085",
     "address": "Vilnius, Vilkpėdės g. 22, LT-03151"
+  },
+  {
+    "name": "Carbon forest invest, UAB",
+    "code": "307035380",
+    "address": "Vilnius, Šaltinių g. 22-2, LT-03233"
   },
   {
     "name": "Core Invest UAB",
@@ -675,11 +686,6 @@
     "vatcode": "LT100016331514"
   },
   {
-    "name": "JusDai invest, UAB",
-    "code": "306195300",
-    "address": "Vilnius, Konstitucijos pr. 15-92, LT-09319"
-  },
-  {
     "name": "KIKA INVEST LT, UAB",
     "code": "300108819",
     "address": "Kaunas, Maironio g. 11, LT-44298",
@@ -699,11 +705,6 @@
     "name": "KŪB \"Granorama Invest\"",
     "code": "305095457",
     "address": "Širvintų r. sav., Musninkų sen., Vileikiškių k., Svietlikių g. 39, LT-19182"
-  },
-  {
-    "name": "L. Kasperiūnienės personalinė įmonė \"ART-INVEST\"",
-    "code": "121411276",
-    "address": "Vilnius, Fabijoniškių g. 3-17, LT-07130"
   },
   {
     "name": "LI INVEST, UAB",
@@ -979,6 +980,11 @@
     "address": "Kaunas, J. Grušo g. 2-18, LT-48261"
   },
   {
+    "name": "MB Andre invest",
+    "code": "307032402",
+    "address": "Kaunas, I. Kanto g. 18-6C, LT-44296"
+  },
+  {
     "name": "MB Artur Invest",
     "code": "306502692",
     "address": "Vilnius, Kalvarijų g. 125, LT-08221"
@@ -1059,6 +1065,11 @@
     "vatcode": "LT100016666819"
   },
   {
+    "name": "MB ML Invest",
+    "code": "307025048",
+    "address": "Gargždai, Užmiesčio g. 50, LT-96101"
+  },
+  {
     "name": "MB Mm invest",
     "code": "306616895",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -1071,7 +1082,12 @@
   {
     "name": "MB NT invest LT",
     "code": "306706944",
-    "address": "Vilnius, Smalinės g. 13-8, LT-06226"
+    "address": "Vilnius, Viršuliškių g. 75A-4, LT-05112"
+  },
+  {
+    "name": "MB Nt invest art",
+    "code": "307024590",
+    "address": "Jonava, Darbininkų g. 4G, LT-55101"
   },
   {
     "name": "MB Nt invest ssg",
@@ -1150,8 +1166,7 @@
   {
     "name": "Macte Invest FM AB",
     "code": "122601232",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
-    "vatcode": "LT226012314"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "Max Invest, UAB",
@@ -1403,11 +1418,6 @@
     "vatcode": "LT100012820115"
   },
   {
-    "name": "UAB \"AXD Invest\"",
-    "code": "300629505",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
-  },
-  {
     "name": "UAB \"Agrar Invest\"",
     "code": "302849973",
     "address": "Vilnius, Ulonų g. 3-114, LT-08240"
@@ -1532,11 +1542,6 @@
     "name": "UAB \"Baltex invest\"",
     "code": "305858130",
     "address": "Vilnius, Kalvarijų g. 125, LT-08221"
-  },
-  {
-    "name": "UAB \"Baltic Invest Group\"",
-    "code": "301272860",
-    "address": "Vilnius, Olimpiečių g. 3B-8, LT-09235"
   },
   {
     "name": "UAB \"Baltic invest company\"",
@@ -2176,11 +2181,6 @@
     "vatcode": "LT100008521718"
   },
   {
-    "name": "UAB \"M2 Invest\"",
-    "code": "300135047",
-    "address": "Vilnius, Subačiaus g. 8-8, LT-01302"
-  },
-  {
     "name": "UAB \"MANTO INVEST\"",
     "code": "306071046",
     "address": "Vilnius, Kalvų Sodų 2-oji g. 16, LT-10244",
@@ -2272,7 +2272,8 @@
   {
     "name": "UAB \"NT invest group\"",
     "code": "306993978",
-    "address": "Kauno r. sav., Garliava, J. Godliausko g. 2, LT-53246"
+    "address": "Kauno r. sav., Garliava, J. Godliausko g. 2, LT-53246",
+    "vatcode": "LT100017326210"
   },
   {
     "name": "UAB \"NTK Invest\"",
@@ -2445,11 +2446,6 @@
     "code": "305643761",
     "address": "Vilnius, A. Rotundo g. 5-102, LT-01400",
     "vatcode": "LT100015680819"
-  },
-  {
-    "name": "UAB \"Real estate invest Lithuania\"",
-    "code": "304055488",
-    "address": "Šiauliai, Dvaro g. 41, LT-76345"
   },
   {
     "name": "UAB \"Reasonable Invest\"",
@@ -2888,11 +2884,6 @@
     "address": "Vilnius, Žygio g. 90-142, LT-08242"
   },
   {
-    "name": "UAB BROLD INVEST",
-    "code": "302641253",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "UAB Baltix invest",
     "code": "305689328",
     "address": "Vilnius, Kalvarijų g. 125, LT-08221",
@@ -2981,8 +2972,7 @@
   {
     "name": "UAB EDS INVEST 3",
     "code": "304990969",
-    "address": "Vilnius, Antano Tumėno g. 4, LT-01109",
-    "vatcode": "LT100012493418"
+    "address": "Vilnius, Antano Tumėno g. 4, LT-01109"
   },
   {
     "name": "UAB EDS INVEST 5",
@@ -3031,11 +3021,6 @@
     "name": "UAB FUTURA INVEST",
     "code": "306158177",
     "address": "Jonavos r. sav., Bukonių sen., Bukonių k., Draugystės g. 8, LT-55416"
-  },
-  {
-    "name": "UAB Fotona Invest",
-    "code": "303204712",
-    "address": "Vilnius, Nadruvos g. 26, LT-06228"
   },
   {
     "name": "UAB G4 Invest",
@@ -3474,7 +3459,8 @@
   {
     "name": "UAB WS Invest Consulting",
     "code": "306105000",
-    "address": "Vilnius, Mūrinės Vokės g. 7-3, LT-25140"
+    "address": "Vilnius, Mūrinės Vokės g. 7-3, LT-25140",
+    "vatcode": "LT100017350918"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"SVL INVEST\"",
@@ -3636,7 +3622,7 @@
   {
     "name": "Investa Europe, UAB",
     "code": "305659534",
-    "address": "Vilniaus r. sav., Avižienių sen., Užubalių k., Senasis Ukmergės kel. 4, LT-14302",
+    "address": "Vilniaus rajono savivaldybės teritorija",
     "vatcode": "LT100013885519"
   },
   {
@@ -4083,11 +4069,6 @@
     "address": "Rokiškio r. sav., Jūžintų sen., Tomakaimio k., Žiukeliškių g. 2, LT-42262"
   },
   {
-    "name": "MB \"Laukų vėjo investicija\"",
-    "code": "305335404",
-    "address": "Rokiškio r. sav., Jūžintų sen., Tomakaimio k., Žiukeliškių g. 2, LT-42262"
-  },
-  {
     "name": "MB \"MA investicija\"",
     "code": "305610601",
     "address": "Vilnius, Tolminkiemio g. 14-25, LT-06286",
@@ -4312,7 +4293,7 @@
   {
     "name": "UAB \"Benotas Investicija\"",
     "code": "302998643",
-    "address": "Vilnius, Kęstučio g. 50-4, LT-08112"
+    "address": "Molėtų r. sav., Alantos sen., Antakščių k., Varnakalio g. 9, LT-33311"
   },
   {
     "name": "UAB \"Būsto investicija LT\"",
@@ -4351,7 +4332,8 @@
   {
     "name": "UAB \"EVGV Investicija\"",
     "code": "306999358",
-    "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Kvietinių k., Kretingos Plento g. 61A, LT-96176"
+    "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Kvietinių k., Kretingos Plento g. 61A, LT-96176",
+    "vatcode": "LT100017298817"
   },
   {
     "name": "UAB \"Elka investicija\"",
@@ -5079,10 +5061,14 @@
     "vatcode": "LT100016841311"
   },
   {
+    "name": "UAB Dvim investicija",
+    "code": "307034015",
+    "address": "Vilnius, Naujakiemio g. 24C, LT-08314"
+  },
+  {
     "name": "UAB Fotonikos investicija",
     "code": "305820603",
-    "address": "Vilnius, Upės g. 23-1, LT-08128",
-    "vatcode": "LT100014305716"
+    "address": "Vilnius, Upės g. 23-1, LT-08128"
   },
   {
     "name": "UAB GG Investicija",
@@ -5136,7 +5122,7 @@
   {
     "name": "UAB Ms investicija",
     "code": "306812851",
-    "address": "Vilnius, Laisvės pr. 125, LT-06118"
+    "address": "Vilnius, Olimpiečių g. 3B-15, LT-09235"
   },
   {
     "name": "UAB Namų investicija",
@@ -5599,7 +5585,7 @@
   {
     "name": "MB \"Šeimos investicijos\"",
     "code": "304993011",
-    "address": "Vilnius, Polocko g. 2-37, LT-01204"
+    "address": "Vilnius, Šeškinės Sodų g. 33, LT-08343"
   },
   {
     "name": "MB \"Šk investicijos\"",
@@ -5635,17 +5621,12 @@
   {
     "name": "MB Horeca Investicijos",
     "code": "305741903",
-    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Žvejų g. 80-1, LT-53337"
+    "address": "Lazdijų r. sav., Veisiejų sen., Laibagalių k., Lazdijų pl. 53, LT-67332"
   },
   {
     "name": "MB LP investicijos",
     "code": "306989691",
-    "address": "Vilnius, Pylimo g. 53, LT-01137"
-  },
-  {
-    "name": "MB LT inn investicijos",
-    "code": "305608828",
-    "address": "Vilnius, Žygio g. 97-R2, LT-08236"
+    "address": "Vilnius, Pylimo g. 53-107, LT-01137"
   },
   {
     "name": "MB Lvovo investicijos",
@@ -5662,6 +5643,11 @@
     "code": "306643166",
     "address": "Kaunas, Šarkuvos g. 22-5, LT-48171",
     "vatcode": "LT100016776419"
+  },
+  {
+    "name": "MB Pandos investicijos",
+    "code": "307028585",
+    "address": "Alytaus r. sav., Alovės sen., Alytaus k., Miško 1-oji g. 13, LT-64105"
   },
   {
     "name": "MB RLTA investicijos",
@@ -5688,7 +5674,7 @@
   {
     "name": "MM Investicijos, UAB",
     "code": "302499074",
-    "address": "Vilnius, Konstitucijos pr. 15-92, LT-09319"
+    "address": "Vilnius, Rinktinės g. 5-101, LT-09234"
   },
   {
     "name": "Maisto investicijos, UAB",
@@ -5777,6 +5763,12 @@
     "code": "306008081",
     "address": "Vilnius, Konstitucijos pr. 15-199, LT-09319",
     "vatcode": "LT100015121710"
+  },
+  {
+    "name": "UAB \"AM Investicijos\"",
+    "code": "303218427",
+    "address": "Kauno r. sav., Ringaudų sen., Virbališkių k., Nemuno g. 4, LT-53458",
+    "vatcode": "LT100008346912"
   },
   {
     "name": "UAB \"AP investicijos\"",
@@ -5976,10 +5968,6 @@
     "address": "Vilnius, Naujininkų g. 5, LT-02109"
   },
   {
-    "name": "UAB \"Dainavos investicijos\"",
-    "code": "304842842"
-  },
-  {
     "name": "UAB \"Dainiaus investicijos\"",
     "code": "303177756",
     "address": "Vilnius, Justiniškių g. 66-39, LT-05239",
@@ -6076,11 +6064,6 @@
     "address": "Vilnius, Savanorių pr. 11E-11, LT-03116"
   },
   {
-    "name": "UAB \"Finansai ir investicijos\"",
-    "code": "303179383",
-    "address": "Vilnius, Veiverių g. 9B-62, LT-11346"
-  },
-  {
     "name": "UAB \"Formica group investicijos\"",
     "code": "304516768",
     "address": "Palanga, Klaipėdos pl. 37 K55, LT-00101",
@@ -6152,6 +6135,11 @@
     "code": "304228417",
     "address": "Šiauliai, Statybininkų g. 13-82, LT-78216",
     "vatcode": "LT100011056311"
+  },
+  {
+    "name": "UAB \"Globus investicijos\"",
+    "code": "307026335",
+    "address": "Vilnius, Fabijoniškių g. 90-10, LT-07100"
   },
   {
     "name": "UAB \"Glp investicijos\"",
@@ -6725,8 +6713,7 @@
   {
     "name": "UAB \"PST investicijos\"",
     "code": "124665689",
-    "address": "Vilnius, Ukmergės g. 219, LT-07152",
-    "vatcode": "LT246656811"
+    "address": "Vilnius, Ukmergės g. 219, LT-07152"
   },
   {
     "name": "UAB \"PT Investicijos\"",
@@ -6753,7 +6740,8 @@
   {
     "name": "UAB \"Pamario investicijos\"",
     "code": "306725236",
-    "address": "Palanga, Žiogų g. 8-14, LT-00205"
+    "address": "Palanga, Žiogų g. 8-14, LT-00205",
+    "vatcode": "LT100017302516"
   },
   {
     "name": "UAB \"Panerių investicijos\"",
@@ -6808,10 +6796,6 @@
     "name": "UAB \"RAAV investicijos\"",
     "code": "305542890",
     "address": "Vilnius, Keramikų g. 2B, LT-10233"
-  },
-  {
-    "name": "UAB \"RN investicijos\"",
-    "code": "302493833"
   },
   {
     "name": "UAB \"RV investicijos\"",
@@ -7014,11 +6998,6 @@
     "address": "Vilnius, Vilkų g. 5-41, LT-08101"
   },
   {
-    "name": "UAB \"TP investicijos\"",
-    "code": "306291081",
-    "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Ateities g. 34C, LT-14180"
-  },
-  {
     "name": "UAB \"Tarptautinės investicijos\"",
     "code": "304929980",
     "address": "Vilnius, Eišiškių pl. 25A, LT-02184",
@@ -7218,11 +7197,6 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
-    "name": "UAB \"Vystymo investicijos\"",
-    "code": "300660632",
-    "address": "Vilnius, Pušyno kel. 20, LT-08315"
-  },
-  {
     "name": "UAB \"Vytauto investicijos\"",
     "code": "304025064",
     "address": "Alytus, Kranto g. 15, LT-62147"
@@ -7295,7 +7269,7 @@
   {
     "name": "UAB \"Žvėryno investicijos\"",
     "code": "304324586",
-    "address": "Vilniaus miesto savivaldybės teritorija",
+    "address": "Vilniaus r. sav., Bezdonių sen., Šeškučių k. 4, LT-15206",
     "vatcode": "LT100010427318"
   },
   {
@@ -7328,8 +7302,7 @@
   {
     "name": "UAB Dkst investicijos",
     "code": "305927288",
-    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Arkos g. 3-6, LT-14180",
-    "vatcode": "LT100015815519"
+    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Arkos g. 3-6, LT-14180"
   },
   {
     "name": "UAB Energetikos investicijos",
@@ -7449,6 +7422,11 @@
     "code": "305634506",
     "address": "Vilnius, Žemoji g. 92B-1, LT-11301",
     "vatcode": "LT100013450611"
+  },
+  {
+    "name": "UAB Ntc investicijos",
+    "code": "307032480",
+    "address": "Vilnius, M. K. Čiurlionio g. 84B-17, LT-03170"
   },
   {
     "name": "UAB ORME INVESTICIJOS",
@@ -7675,7 +7653,7 @@
   {
     "name": "\"Tikslinių investicijų grupė\", UAB",
     "code": "304413946",
-    "address": "Vilnius, Dūmų g. 3B, LT-11119",
+    "address": "Vilnius, Dūmų g. 3B-108, LT-11119",
     "vatcode": "LT100011058116"
   },
   {
@@ -7960,7 +7938,7 @@
   {
     "name": "UAB \"Investicijų srautas\"",
     "code": "303266991",
-    "address": "Vilnius, Žalgirio g. 94, LT-09300",
+    "address": "Vilnius, Žalgirio g. 92-410, LT-09303",
     "vatcode": "LT100008636016"
   },
   {
@@ -8224,6 +8202,11 @@
     "vatcode": "LT100017196713"
   },
   {
+    "name": "UAB Progresyvių investicijų ir technologinių sprendimų spektras",
+    "code": "303144763",
+    "address": "Kaunas, K. Donelaičio g. 62-1, LT-44248"
+  },
+  {
     "name": "UAB Rizikos kapitalo investicijų kompanija",
     "code": "303497941",
     "address": "Klaipėda, H. Manto g. 40-4, LT-92233"
@@ -8253,11 +8236,6 @@
     "code": "144717392",
     "address": "Panevėžys, Ukmergės g. 23, LT-35177",
     "vatcode": "LT447173917"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Baltijos investicijų ir verslo projektų realizavimo sąjunga\"",
-    "code": "300860939",
-    "address": "Vilnius, Birbynių g. 4, LT-02121"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Investicijų ir inovacijų fondas\"",
@@ -8460,7 +8438,7 @@
   {
     "name": "UAB STARTUOLIŲ INVESTICINIS FONDAS",
     "code": "306706232",
-    "address": "Alytus, Naujoji g. 12-525, LT-63250",
+    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144",
     "vatcode": "LT100016909718"
   },
   {
@@ -8510,12 +8488,6 @@
     "name": "Atvirojo tipo informuotiesiems investuotojams skirta investicinė bendrovė KŪB \"ZeroSum Debt Fund I\"",
     "code": "306096957",
     "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
-  },
-  {
-    "name": "Atvirojo tipo informuotiesiems investuotojams skirta investicinė uždaroji akcinė bendrovė \"NT plėtros grupė\"",
-    "code": "304685914",
-    "address": "Vilnius, P. Lukšio g. 32, LT-09132",
-    "vatcode": "LT100011703012"
   },
   {
     "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė UAB \"Baltic Retail Properties\"",
@@ -8737,6 +8709,12 @@
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė AB \"Baltic Opportunity\"",
     "code": "306484707",
     "address": "Vilnius, Konstitucijos pr. 29-1, LT-08105"
+  },
+  {
+    "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė Alpha RE I, UAB",
+    "code": "305924737",
+    "address": "Vilnius, Švitrigailos g. 11A, LT-03228",
+    "vatcode": "LT100014479514"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė KŪB \"Releven Prime Properties\"",
@@ -9362,7 +9340,7 @@
   {
     "name": "Mėlyna Investment UAB",
     "code": "306966422",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
+    "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Paringuvio k., Ringuvos g. 7A-3, LT-81107"
   },
   {
     "name": "Nava Investment, UAB",
@@ -9446,11 +9424,6 @@
     "name": "UAB \"ALL INVESTMENT GROUP\"",
     "code": "302869805",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
-  },
-  {
-    "name": "UAB \"AMBER INVESTMENT GROUP\"",
-    "code": "300906062",
-    "address": "Vilnius, Italų g. 6, LT-11329"
   },
   {
     "name": "UAB \"ARG Investment\"",
@@ -9558,7 +9531,7 @@
   {
     "name": "UAB \"Deora Investment\"",
     "code": "305521921",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Elnio g. 18, LT-53277",
+    "address": "Kaunas, Mosėdžio g. 7-95, LT-48177",
     "vatcode": "LT100013073514"
   },
   {
@@ -9664,6 +9637,11 @@
     "name": "UAB \"GriMax Investment\"",
     "code": "302572152",
     "address": "Vilnius, P. Žadeikos g. 10-2, LT-06318"
+  },
+  {
+    "name": "UAB \"HH Investment\"",
+    "code": "307023855",
+    "address": "Vilnius, Konstitucijos pr. 15, LT-09319"
   },
   {
     "name": "UAB \"Hortus Investment Banking\"",
@@ -9849,8 +9827,7 @@
   {
     "name": "UAB \"ROSK Investment\"",
     "code": "302647690",
-    "address": "Vilnius, Santariškių g. 65-19, LT-08457",
-    "vatcode": "LT100016666213"
+    "address": "Vilnius, Santariškių g. 65-19, LT-08457"
   },
   {
     "name": "UAB \"RT Investment\"",
@@ -9891,7 +9868,8 @@
   {
     "name": "UAB \"T&M Investment Company\"",
     "code": "300590237",
-    "address": "Vilnius, T. Kosciuškos g. 24-18, LT-01100"
+    "address": "Vilnius, T. Kosciuškos g. 24-18, LT-01100",
+    "vatcode": "LT100002580519"
   },
   {
     "name": "UAB \"Toys investment\"",
@@ -10062,6 +10040,11 @@
     "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Aukštelkės k., Pamiškės g. 5, LT-80179"
   },
   {
+    "name": "UAB Baltic Investment Agency",
+    "code": "307022664",
+    "address": "Kaunas, Islandijos pl. 95-57, LT-49176"
+  },
+  {
     "name": "UAB Confluence Investment",
     "code": "305954253",
     "address": "Kaunas, Kęstučio g. 38, LT-44310",
@@ -10090,7 +10073,7 @@
   {
     "name": "UAB G&R investment group",
     "code": "305631816",
-    "address": "Mažeikiai, Laisvės g. 14, LT-89223",
+    "address": "Mažeikiai, M. Daukšos g. 39, LT-89126",
     "vatcode": "LT100013451115"
   },
   {
@@ -10124,6 +10107,11 @@
     "name": "UAB Harvest Investment Management",
     "code": "306105776",
     "address": "Vilnius, Lvivo g. 25-702, LT-09320"
+  },
+  {
+    "name": "UAB Hermes investment holding",
+    "code": "307023862",
+    "address": "Utena, Aukštaičių g. 4, LT-28216"
   },
   {
     "name": "UAB Investment Development Agency",
@@ -10353,11 +10341,6 @@
     "address": "Vilnius, Jogailos g. 3-101, LT-01116"
   },
   {
-    "name": "Focus Investments, UAB",
-    "code": "302001577",
-    "address": "Vilnius, Vilniaus g. 31, LT-01402"
-  },
-  {
     "name": "GAME7 Investments, UAB",
     "code": "306359116",
     "address": "Vilnius, Gynėjų g. 4-333, LT-01109"
@@ -10530,7 +10513,8 @@
   {
     "name": "NJ investments UAB",
     "code": "306678263",
-    "address": "Vilnius, Elektrinės g. 8, LT-03150"
+    "address": "Vilnius, Elektrinės g. 8, LT-03150",
+    "vatcode": "LT100017317514"
   },
   {
     "name": "Nord Investments UAB",
@@ -10788,11 +10772,6 @@
     "name": "UAB \"Invalda INVL Investments\"",
     "code": "303252237",
     "address": "Vilnius, Gynėjų g. 14, LT-01109"
-  },
-  {
-    "name": "UAB \"JS INVESTMENTS\"",
-    "code": "304835883",
-    "address": "Marijampolė, Statybininkų g. 4, LT-68108"
   },
   {
     "name": "UAB \"KAELA Investments\"",
@@ -11146,6 +11125,11 @@
     "address": "Vilnius, Kazio Ulvydo g. 7-150, LT-08354"
   },
   {
+    "name": "VR Investments, UAB",
+    "code": "307024252",
+    "address": "Vilnius, Taikos g. 77-45, LT-05217"
+  },
+  {
     "name": "VTK Global Investments and Trading, UAB",
     "code": "305403481",
     "address": "Vilnius, Konstitucijos pr. 21A, LT-08105"
@@ -11430,12 +11414,6 @@
     "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
   },
   {
-    "name": "Atvirojo tipo informuotiesiems investuotojams skirta investicinė uždaroji akcinė bendrovė \"NT plėtros grupė\"",
-    "code": "304685914",
-    "address": "Vilnius, P. Lukšio g. 32, LT-09132",
-    "vatcode": "LT100011703012"
-  },
-  {
     "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė UAB \"Baltic Retail Properties\"",
     "code": "300580111",
     "address": "Vilnius, Jogailos g. 4, LT-01116",
@@ -11561,6 +11539,12 @@
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė AB \"Baltic Opportunity\"",
     "code": "306484707",
     "address": "Vilnius, Konstitucijos pr. 29-1, LT-08105"
+  },
+  {
+    "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė Alpha RE I, UAB",
+    "code": "305924737",
+    "address": "Vilnius, Švitrigailos g. 11A, LT-03228",
+    "vatcode": "LT100014479514"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė KŪB \"Releven Prime Properties\"",

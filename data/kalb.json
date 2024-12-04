@@ -61,6 +61,11 @@
     "address": "Mažeikiai, Naftininkų g. 62-25, LT-89177"
   },
   {
+    "name": "MB Grožio kalba",
+    "code": "307024925",
+    "address": "Skuodo r. sav., Ylakių sen., Luobos k., Alyvų g. 2, LT-98203"
+  },
+  {
     "name": "MB Gėlių kalba",
     "code": "306806154",
     "address": "Kauno r. sav., Lapių sen., Šatijų k., Šermukšnių g. 21, LT-54432"
@@ -78,7 +83,8 @@
   {
     "name": "MB Kavos kalba",
     "code": "305828094",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100014232212"
   },
   {
     "name": "MB Simbolinė kalba",
@@ -134,7 +140,7 @@
   {
     "name": "VšĮ \"Kalba muzika\"",
     "code": "304925010",
-    "address": "Vilnius, Viršuliškių g. 37-69, LT-05104"
+    "address": "Kaunas, Piliakalnio g. 11-91, LT-46225"
   },
   {
     "name": "VšĮ \"Lietuvių kalba 365\"",
@@ -378,11 +384,6 @@
     "vatcode": "LT100010090710"
   },
   {
-    "name": "V. Laurinavičienės privati anglų kalbos mokykla",
-    "code": "122944124",
-    "address": "Vilnius, D. Poškos g. 3-1, LT-08123"
-  },
-  {
     "name": "Valstybinė kalbos inspekcija",
     "code": "188779755",
     "address": "Vilnius, M. K. Paco g. 4, LT-10309"
@@ -569,11 +570,6 @@
     "name": "MB Kalbų akademija",
     "code": "304054906",
     "address": "Mažeikiai, Ventos g. 21, LT-89112"
-  },
-  {
-    "name": "MB Kalbų mokykla",
-    "code": "303929415",
-    "address": "Kaišiadorių r. sav., Žiežmariai, Sodų g. 15-10, LT-56232"
   },
   {
     "name": "MB Kalbų studija",
