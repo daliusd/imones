@@ -118,6 +118,11 @@
     "vatcode": "LT100016194812"
   },
   {
+    "name": "MB \"Apskaita 360\"",
+    "code": "307045990",
+    "address": "Raseinių r. sav., Raseinių sen., Trupinėlių k. 4, LT-60163"
+  },
+  {
     "name": "MB \"Apskaita ir balansas verslui\"",
     "code": "306978111",
     "address": "Anykščių r. sav., Anykščių sen., Burbiškio k., Parko g. 8, LT-29211"
@@ -199,7 +204,8 @@
   {
     "name": "MB \"Bio apskaita\"",
     "code": "306264419",
-    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
+    "vatcode": "LT100017338618"
   },
   {
     "name": "MB \"Budri apskaita\"",
@@ -397,7 +403,7 @@
   {
     "name": "MB \"Protinga apskaita\"",
     "code": "303347863",
-    "address": "Mažeikių r. sav., Reivyčių sen., Reivyčių k., Pienių g. 3, LT-89301"
+    "address": "Mažeikiai, M. Daukšos g. 36-19, LT-89160"
   },
   {
     "name": "MB \"RG apskaita\"",
@@ -872,7 +878,7 @@
   {
     "name": "UAB \"Apskaita jūsų verslui\"",
     "code": "304241350",
-    "address": "Mažeikiai, Žemaitijos g. 12-38, LT-89149"
+    "address": "Klaipėda, Dovo Zauniaus g. 53-2, LT-92349"
   },
   {
     "name": "UAB \"Apskaita laiku\"",
@@ -1095,6 +1101,11 @@
     "name": "UAB \"Kokybiška apskaita\"",
     "code": "305668323",
     "address": "Klaipėda, Statybininkų pr. 28-5, LT-94228"
+  },
+  {
+    "name": "UAB \"LD apskaita\"",
+    "code": "307043936",
+    "address": "Klaipėda, Rumpiškės g. 31-6, LT-91120"
   },
   {
     "name": "UAB \"Lapės apskaita\"",
@@ -1513,7 +1524,7 @@
     "address": "Rokiškis, Taikos g. 23-314, LT-42140"
   },
   {
-    "name": "MB \"Apskaitesa\"",
+    "name": "UAB \"Apskaitesa\"",
     "code": "306098602",
     "address": "Šiauliai, Gardino g. 33-6, LT-78237"
   },
@@ -1571,7 +1582,7 @@
   {
     "name": "APSKAITOS PASLAUGŲ BIRŽA, UAB",
     "code": "302766634",
-    "address": "Kaunas, V. Krėvės pr. 71-30, LT-50359"
+    "address": "Kaunas, Raudondvario pl. 94, LT-47180"
   },
   {
     "name": "Ap apskaitos paslaugos, MB",
@@ -1591,7 +1602,7 @@
   {
     "name": "Apskaitos ir kontrolės uždaroji akcinė bendrovė \"AUDITAS\"",
     "code": "120612714",
-    "address": "Vilnius, Gedimino pr. 24-11, LT-01103",
+    "address": "Vilnius, Ukmergės g. 222, LT-07157",
     "vatcode": "LT206127113"
   },
   {
@@ -2380,8 +2391,7 @@
   {
     "name": "UAB \"Apskaitos linija\"",
     "code": "300882533",
-    "address": "Kaunas, Seinų g. 20-2, LT-44144",
-    "vatcode": "LT100011508515"
+    "address": "Kaunas, Seinų g. 20-2, LT-44144"
   },
   {
     "name": "UAB \"Apskaitos lyga\"",
@@ -2937,6 +2947,11 @@
     "address": "Kėdainių r. sav., Gudžiūnai, Gėlių g. 5, LT-58276"
   },
   {
+    "name": "MB Tvarkau apskaitą",
+    "code": "306020219",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "UAB \"Apskaitėja\"",
     "code": "304858031",
     "address": "Šiauliai, Vairo g. 6-4, LT-78140",
@@ -3353,7 +3368,7 @@
     "address": "Kaunas, Laisvės al. 30A, LT-44240"
   },
   {
-    "name": "Kauno apskrities viešoji biblioteka",
+    "name": "Kauno apskrities viešoji Ąžuolyno biblioteka",
     "code": "190758138",
     "address": "Kaunas, Radastų g. 2, LT-44164"
   },
@@ -4025,11 +4040,6 @@
     "name": "Vilniaus apskrities bronchinės astmos ligonių klubas \"Kvėpuok laisvai\"",
     "code": "193535293",
     "address": "Vilnius, Santariškių g. 2, LT-08406"
-  },
-  {
-    "name": "Vilniaus apskrities centrinio pašto darbuotojų profesinė sąjunga",
-    "code": "125086182",
-    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "Vilniaus apskrities futbolo federacija",

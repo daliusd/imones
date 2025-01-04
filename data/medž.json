@@ -428,7 +428,8 @@
   {
     "name": "MB Medžio struktūrų profesionalai",
     "code": "306802711",
-    "address": "Kretingos r. sav., Vydmantų sen., Vydmantų k., Laukų aklg. 3, LT-97221"
+    "address": "Kretingos r. sav., Vydmantų sen., Vydmantų k., Laukų aklg. 3, LT-97221",
+    "vatcode": "LT100017393217"
   },
   {
     "name": "MB Medžio studija",
@@ -683,8 +684,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"AUDRIAUS MEDŽIO STUDIJA\"",
     "code": "124262439",
-    "address": "Vilnius, Latvių g. 19A-7, LT-08113",
-    "vatcode": "LT242624314"
+    "address": "Vilnius, Latvių g. 19A-7, LT-08113"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Apvalūs medžio gaminiai\"",
@@ -1157,6 +1157,11 @@
     "address": "Širvintų r. sav., Gelvonų sen., Pyplių k. 8, LT-19215"
   },
   {
+    "name": "Baisogalos medžiotojų būrelis",
+    "code": "171649725",
+    "address": "Radviliškio r. sav., Baisogala, Maironio g. 14, LT-82322"
+  },
+  {
     "name": "Balbiergirio medžiotojų būrelis",
     "code": "191569382",
     "address": "Prienų r. sav., Balbieriškis, Vilniaus g. 107, LT-59239"
@@ -1534,7 +1539,7 @@
   {
     "name": "Kauno medžiotojų būrelis \"Ringovė\"",
     "code": "191610726",
-    "address": "Kaunas, L. Sapiegos g. 10, LT-44251"
+    "address": "Kauno r. sav., Vilkijos apylinkių sen., Palazduonio k., Lazduonos g. 31A, LT-54204"
   },
   {
     "name": "Kauno medžiotojų klubas \"Alsa\"",
@@ -1695,7 +1700,7 @@
   {
     "name": "Kelmės rajono Kiaunorių medžiotojų būrelis",
     "code": "193370183",
-    "address": "Šiauliai, Aerouosto g. 35, LT-77103"
+    "address": "Kelmės r. sav., Tytuvėnų apylinkių sen., Padurupių k. 2, LT-86457"
   },
   {
     "name": "Kelmės rajono Kražių medžiotojų būrelis",
@@ -2326,11 +2331,6 @@
     "name": "Lietuvos medžiotojų ir žvejų draugijos Radviliškio skyriaus \"Ąžuolo\" medžiotojų būrelis",
     "code": "171649159",
     "address": "Radviliškio r. sav., Tyrulių sen., Dvarninkų k. 1, LT-82467"
-  },
-  {
-    "name": "Lietuvos medžiotojų ir žvejų draugijos Radviliškio skyriaus Baisogalos medžiotojų būrelis",
-    "code": "171649725",
-    "address": "Radviliškio r. sav., Baisogala, Maironio g. 14, LT-82322"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Radviliškio skyriaus Pociūnėlių medžiotojų būrelis",
@@ -3755,7 +3755,7 @@
   {
     "name": "Medžiotojų klubas \"Pirčiupiai\"",
     "code": "193000839",
-    "address": "Varėnos r. sav., Valkininkų sen., Pirčiupių k."
+    "address": "Varėnos r. sav., Valkininkų sen., Užuperkasio k., P. Buckaus g. 31, LT-65443"
   },
   {
     "name": "Medžiotojų klubas \"Pjaunis\"",
@@ -4826,7 +4826,7 @@
   {
     "name": "Ukmergės rajono Pašilės medžiotojų būrelis",
     "code": "191723720",
-    "address": "Ukmergė, Gruodžio 17-osios g. 34, LT-20139"
+    "address": "Ukmergės r. sav., Pabaisko sen., Vaitkūnų k., Sodžiaus g. 1, LT-20195"
   },
   {
     "name": "Ukmergės rajono Veprių medžiotojų būrelis",

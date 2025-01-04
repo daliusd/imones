@@ -777,11 +777,6 @@
     "vatcode": "LT100012538310"
   },
   {
-    "name": "UAB \"LANGŲ KONSTRUKCIJOS\"",
-    "code": "145765575",
-    "address": "Šiauliai, Vilniaus g. 54-6, LT-76251"
-  },
-  {
     "name": "UAB \"LD konstrukcijos\"",
     "code": "305681395",
     "address": "Radviliškis, Vyturėlio g. 11, LT-82187"
@@ -1474,8 +1469,7 @@
   {
     "name": "IĮ Sandros konsultacijos",
     "code": "306278543",
-    "address": "Kaunas, Pasimatymo aklg. 5-15, LT-50380",
-    "vatcode": "LT100015846317"
+    "address": "Kaunas, Pasimatymo aklg. 5-15, LT-50380"
   },
   {
     "name": "Jūratės Jokimaitienės individuali įmonė \"SVEIKATOS KONSULTACIJOS\"",
@@ -1491,6 +1485,11 @@
     "name": "K. Gotberg individuali įmonė \"PRIMUM ESSE\" KONSULTACIJOS",
     "code": "124515351",
     "address": "Vilnius, Architektų g. 60-14, LT-04110"
+  },
+  {
+    "name": "Konsultacijos vertei, MB",
+    "code": "307051580",
+    "address": "Klaipėda, Tauralaukio g. 26B K1-31, LT-92347"
   },
   {
     "name": "Kristinos konsultacijos MB",
@@ -1742,7 +1741,7 @@
   {
     "name": "MB \"Lgv konsultacijos\"",
     "code": "305675136",
-    "address": "Vilniaus r. sav., Riešės sen., Asiūklės vs., Asiūklės g. 14, LT-14256"
+    "address": "Vilniaus r. sav., Riešės sen., Raudondvario k., Žirgų g. 18-6, LT-14257"
   },
   {
     "name": "MB \"M. Murausko konsultacijos\"",
@@ -1758,11 +1757,6 @@
     "name": "MB \"Maitinimo verslo konsultacijos\"",
     "code": "303102433",
     "address": "Vilnius, Justiniškių g. 115-61, LT-05245"
-  },
-  {
-    "name": "MB \"Mindaugo konsultacijos\"",
-    "code": "304697208",
-    "address": "Kaunas, Partizanų g. 216-77, LT-50319"
   },
   {
     "name": "MB \"Mokesčių konsultacijos\"",
@@ -2868,7 +2862,8 @@
   {
     "name": "MB Baltijos mokymų ir konsultacijų centras",
     "code": "304973610",
-    "address": "Raseinių r. sav., Ariogala, Žemaičių g. 22-1, LT-60256"
+    "address": "Raseinių r. sav., Ariogala, Žemaičių g. 22-1, LT-60256",
+    "vatcode": "LT100017393419"
   },
   {
     "name": "MB Europos mokymų ir konsultacijų centras",
@@ -2880,6 +2875,11 @@
     "name": "MB Konsultacijų biuras",
     "code": "305439805",
     "address": "Vilnius, Jogailos g. 7-31, LT-01116"
+  },
+  {
+    "name": "MB Konsultacijų ir mokymų centras \"Esu\"",
+    "code": "304480820",
+    "address": "Vilnius, Kruopų g. 7-9, LT-01140"
   },
   {
     "name": "MB Konsultacijų klinika",
@@ -3138,11 +3138,6 @@
     "address": "Vilnius, Justiniškių g. 95-32, LT-05253"
   },
   {
-    "name": "VšĮ Konsultacijų ir mokymo centras \"Esu\"",
-    "code": "304480820",
-    "address": "Ignalinos r. sav., Kazitiškio sen., Ligūnų k., Dvaro g. 8, LT-30263"
-  },
-  {
     "name": "VšĮ TEISINIŲ IR FINANSINIŲ KONSULTACIJŲ CENTRAS",
     "code": "302461312",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
@@ -3150,7 +3145,8 @@
   {
     "name": "MB Konsultaciniai mokymai",
     "code": "305954470",
-    "address": "Vilnius, Maironio g. 25-17, LT-01125"
+    "address": "Vilnius, Maironio g. 25-17, LT-01125",
+    "vatcode": "LT100017385418"
   },
   {
     "name": "Alytaus verslo konsultacinis centras",
@@ -3289,11 +3285,6 @@
     "address": "Vilnius, Rolando Jankausko g. 13-201, LT-04314"
   },
   {
-    "name": "I. Belik konsultacinė firma \"Mokesčių erdvė\"",
-    "code": "125865372",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "Individuali Tijušo konsultacinė įmonė",
     "code": "301539605",
     "address": "Vilnius, V. Grybo g. 34-68, LT-10318"
@@ -3419,7 +3410,7 @@
   {
     "name": "UAB \"Europos konsultacinė kompanija\"",
     "code": "303306140",
-    "address": "Rokiškio r. sav., Jūžintų sen., Pilkėnų k. 12, LT-42265"
+    "address": "Vilnius, Algirdo g. 19-507, LT-03219"
   },
   {
     "name": "UAB \"Person to person konsultacinė grupė\"",
