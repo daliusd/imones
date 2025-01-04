@@ -491,6 +491,11 @@
     "address": "Vilnius, Karių Kapų g. 12-5, LT-10313"
   },
   {
+    "name": "NAVA Holding, UAB",
+    "code": "307050158",
+    "address": "Marijampolė, V. Kudirkos g. 24, LT-68306"
+  },
+  {
     "name": "NC Holding UAB",
     "code": "305574817",
     "address": "Vilnius, Konstitucijos pr. 15-97, LT-09319"
@@ -786,8 +791,7 @@
   },
   {
     "name": "UAB \"GG HOLDING\"",
-    "code": "304973959",
-    "address": "Kaunas, Karaliaus Mindaugo pr. 38, LT-44307"
+    "code": "304973959"
   },
   {
     "name": "UAB \"Global Baltik Holding\"",
@@ -919,12 +923,6 @@
     "address": "Plungė, Stoties g. 9, LT-90115"
   },
   {
-    "name": "UAB \"Maori Holding\"",
-    "code": "305660038",
-    "address": "Vilnius, Savanorių pr. 129, LT-03150",
-    "vatcode": "LT100013735112"
-  },
-  {
     "name": "UAB \"Mapa Holding\"",
     "code": "302721308",
     "address": "Vilnius, K. Kalinausko g. 2B, LT-03107",
@@ -1003,7 +1001,8 @@
   {
     "name": "UAB \"PVVG Holding\"",
     "code": "306909834",
-    "address": "Vilnius, Šaltinių g. 24-8, LT-03233"
+    "address": "Vilnius, Šaltinių g. 24-8, LT-03233",
+    "vatcode": "LT100017420319"
   },
   {
     "name": "UAB \"Precise holding\"",
@@ -1074,6 +1073,12 @@
     "name": "UAB \"Shark company holding\"",
     "code": "306211498",
     "address": "Vilnius, Žirmūnų g. 57-50, LT-09110"
+  },
+  {
+    "name": "UAB \"Stars Holding\"",
+    "code": "305660038",
+    "address": "Vilnius, Savanorių pr. 129, LT-03150",
+    "vatcode": "LT100013735112"
   },
   {
     "name": "UAB \"Stelita Holding\"",
@@ -1596,11 +1601,6 @@
     "vatcode": "LT100001280918"
   },
   {
-    "name": "UAB \"GMV holdingas\"",
-    "code": "305550862",
-    "address": "Vilnius, Girulių g. 10, LT-12112"
-  },
-  {
     "name": "UAB \"GNG Holdingas\"",
     "code": "301846636",
     "address": "Marijampolės sav., Liudvinavo sen., Liepynų k., Marių skg. 9, LT-68126"
@@ -1757,11 +1757,6 @@
     "address": "Vilnius, A. Domaševičiaus g. 9, LT-01400"
   },
   {
-    "name": "\"Rittal Holdings Baltic\", UAB",
-    "code": "300148557",
-    "address": "Vilniaus r. sav., Avižienių sen., Galinės k., Galinės g. 1, LT-14247"
-  },
-  {
     "name": "10pm holdings UAB",
     "code": "306351009",
     "address": "Vilnius, Girulių g. 5, LT-12124"
@@ -1775,6 +1770,11 @@
     "name": "Ahrar Holdings UAB",
     "code": "306692170",
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
+  },
+  {
+    "name": "Axis holdings, UAB",
+    "code": "307050279",
+    "address": "Vilnius, Vilniaus g. 31, LT-01402"
   },
   {
     "name": "Bendrovės \"SERNAS EUROPEAN HOLDINGS LTD\" atstovybė",
@@ -1907,9 +1907,15 @@
     "address": "Vilnius, Žirmūnų g. 57-50, LT-09110"
   },
   {
+    "name": "MB \"Vastlink Holdings\"",
+    "code": "307048463",
+    "address": "Vilnius, Girulių g. 5, LT-12124"
+  },
+  {
     "name": "MB Andorama holdings",
     "code": "305904866",
-    "address": "Kaunas, K. Petrausko g. 13A-31, LT-44155"
+    "address": "Kaunas, K. Petrausko g. 13A-31, LT-44155",
+    "vatcode": "LT100017408310"
   },
   {
     "name": "Mudrex TR Holdings UAB",
@@ -2071,7 +2077,7 @@
   {
     "name": "UAB \"Preftek Holdings\"",
     "code": "305585525",
-    "address": "Kaunas, Kuršių g. 7, LT-48107",
+    "address": "Kaunas, Betygalos g. 4A, LT-47183",
     "vatcode": "LT100013273113"
   },
   {
@@ -2182,7 +2188,8 @@
   {
     "name": "UAB Inspiration holdings",
     "code": "306685585",
-    "address": "Kaunas, Draugystės g. 15A, LT-51227"
+    "address": "Kaunas, Draugystės g. 15A, LT-51227",
+    "vatcode": "LT100017405012"
   },
   {
     "name": "UAB KATALISTA HOLDINGS",

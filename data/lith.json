@@ -213,7 +213,8 @@
   {
     "name": "Allego Lithuania UAB",
     "code": "306313581",
-    "address": "Vilnius, Gedimino pr. 20, LT-01103"
+    "address": "Vilnius, Gedimino pr. 20, LT-01103",
+    "vatcode": "LT100017392814"
   },
   {
     "name": "Alma Career Lithuania UAB",
@@ -280,7 +281,7 @@
   {
     "name": "Asociacija \"Taiwanese Chamber of Commerce in Lithuania\"",
     "code": "306761353",
-    "address": "Vilnius, J. Jasinskio g. 12, LT-01112"
+    "address": "Vilnius, A. Smetonos g. 2, LT-01115"
   },
   {
     "name": "Asociacija \"Volt Lithuania\"",
@@ -512,7 +513,8 @@
   {
     "name": "Cogent Lithuania UAB",
     "code": "302547003",
-    "address": "Vilnius, Žalgirio g. 90-100, LT-09303"
+    "address": "Vilnius, Žalgirio g. 90-100, LT-09303",
+    "vatcode": "LT100005676210"
   },
   {
     "name": "Cognizant Technology Solutions Lithuania, UAB",
@@ -568,7 +570,7 @@
   {
     "name": "DATAGROUP Operations Lithuania UAB",
     "code": "306873338",
-    "address": "Kauno r. sav., Ringaudų sen., Mitkūnų k., Vakaro g. 7, LT-53457",
+    "address": "Kaunas, Europos pr. 5, LT-46329",
     "vatcode": "LT100017189317"
   },
   {
@@ -709,7 +711,8 @@
   {
     "name": "Egis Lithuania UAB",
     "code": "306965523",
-    "address": "Vilnius, Ukmergės g. 369A, LT-12142"
+    "address": "Vilnius, Ukmergės g. 369A, LT-12142",
+    "vatcode": "LT100017368519"
   },
   {
     "name": "Ekornes Lithuania UAB",
@@ -832,7 +835,7 @@
   {
     "name": "GM Manufacturing Lithuania UAB",
     "code": "306619311",
-    "address": "Vilnius, Didžioji g. 14-1, LT-01128",
+    "address": "Ukmergė, Vilniaus g. 100C, LT-20166",
     "vatcode": "LT100016623018"
   },
   {
@@ -1329,9 +1332,20 @@
     "vatcode": "LT100010603919"
   },
   {
+    "name": "Nala Lithuania S8 UAB",
+    "code": "302848490",
+    "address": "Vilnius, Konstitucijos pr. 21A, LT-08105",
+    "vatcode": "LT100015654812"
+  },
+  {
     "name": "Nala Renewables Lithuania UAB",
     "code": "306628036",
     "address": "Vilnius, Konstitucijos pr. 21A, LT-08105"
+  },
+  {
+    "name": "Natus Lithuania, UAB",
+    "code": "306138203",
+    "address": "Plungės r. sav., Nausodžio sen., Stonaičių k., Pievų g. 5, LT-90101"
   },
   {
     "name": "NetNordic Lithuania, UAB",
@@ -2238,8 +2252,7 @@
   {
     "name": "UAB \"Pyrros Lithuania\"",
     "code": "304600426",
-    "address": "Vilnius, A. Goštauto g. 8-112, LT-01108",
-    "vatcode": "LT100012918311"
+    "address": "Vilnius, A. Goštauto g. 8-112, LT-01108"
   },
   {
     "name": "UAB \"RETAL Lithuania\"",
@@ -2361,6 +2374,11 @@
     "code": "304871705",
     "address": "Vilnius, Palangos g. 4, LT-01402",
     "vatcode": "LT100013491717"
+  },
+  {
+    "name": "UAB \"Transport Partners Lithuania\"",
+    "code": "307044543",
+    "address": "Vilnius, J. Basanavičiaus g. 26, LT-03224"
   },
   {
     "name": "UAB \"Transtar Lithuania\"",
@@ -2485,8 +2503,7 @@
   {
     "name": "UAB BCG Lithuania",
     "code": "305239498",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
-    "vatcode": "LT100013040911"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
   },
   {
     "name": "UAB BLENDER LITHUANIA",
@@ -3091,6 +3108,11 @@
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
   },
   {
+    "name": "UAB Tokenz Lithuania",
+    "code": "307048538",
+    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
+  },
+  {
     "name": "UAB UNIRAD Lithuania",
     "code": "306619304",
     "address": "Vilnius, Kaukysos g. 4-52, LT-11342",
@@ -3294,7 +3316,7 @@
   {
     "name": "VšĮ G FORCE Lithuania",
     "code": "307010427",
-    "address": "Vilnius, Justiniškių g. 146, LT-06153"
+    "address": "Vilnius, Neskučių g. 7A, LT-02300"
   },
   {
     "name": "VšĮ Ješivo Talmudo Aukštoji Mokykla - Yeshivas Telz Lithuania",
@@ -3508,6 +3530,16 @@
     "vatcode": "LT100012797510"
   },
   {
+    "name": "Lithuanian wheelchair tennis club",
+    "code": "304234822",
+    "address": "Vilnius, Versmių g. 76A-1, LT-11311"
+  },
+  {
+    "name": "Lithuanian wheelchair tennis club sportininkų paramos fondas",
+    "code": "307046989",
+    "address": "Vilnius, Versmių g. 76A-1, LT-11311"
+  },
+  {
     "name": "Lithuanian&Ukrainian Business Association",
     "code": "306687732",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -3659,6 +3691,11 @@
     "name": "VšĮ \"Lithuanian Alpagut sporto ir mišrių kovos menų federacija\"",
     "code": "306988924",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "VšĮ Lithuanian Roma History and Memory Archive and Library \"Džinas I Ripiras\"",
+    "code": "307038572",
+    "address": "Vilnius, Tuskulėnų g. 37-1, LT-09219"
   },
   {
     "name": "VšĮ Lithuanian film",

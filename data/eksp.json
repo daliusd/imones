@@ -112,8 +112,7 @@
   {
     "name": "UAB \"Alekso ekspedicija\"",
     "code": "304637517",
-    "address": "Vilnius, Geležinio Vilko g. 27-4, LT-03133",
-    "vatcode": "LT100012228415"
+    "address": "Vilnius, Geležinio Vilko g. 27-4, LT-03133"
   },
   {
     "name": "UAB \"BK Ekspedicija\"",
@@ -625,7 +624,8 @@
   {
     "name": "MB Pajūrio statybų ekspertai",
     "code": "306973687",
-    "address": "Telšių r. sav., Tryškiai, Klaipėdos g. 10, LT-88152"
+    "address": "Telšių r. sav., Tryškiai, Klaipėdos g. 10, LT-88152",
+    "vatcode": "LT100017429918"
   },
   {
     "name": "MB Planavimo ekspertai",
@@ -636,6 +636,11 @@
     "name": "MB Restoranų ekspertai",
     "code": "306450637",
     "address": "Vilnius, J. Tiškevičiaus g. 101-1, LT-02236"
+  },
+  {
+    "name": "MB Sklypų ekspertai",
+    "code": "304083434",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB Vertės ekspertai",
@@ -983,11 +988,6 @@
     "vatcode": "LT100016335719"
   },
   {
-    "name": "UAB Kėbulų ekspertai",
-    "code": "305690540",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
-  },
-  {
     "name": "UAB SAUGOS EKSPERTAI",
     "code": "302460139",
     "address": "Vilnius, Didlaukio g. 80-96, LT-08326"
@@ -1095,7 +1095,8 @@
   {
     "name": "MB \"Pakuotės ekspertas\"",
     "code": "307021911",
-    "address": "Vilnius, Maumedžių g. 13-20, LT-08307"
+    "address": "Vilnius, Maumedžių g. 13-20, LT-08307",
+    "vatcode": "LT100017398117"
   },
   {
     "name": "MB \"Plokščių stogų ekspertas\"",
@@ -1106,7 +1107,7 @@
   {
     "name": "MB \"Renginių ekspertas\"",
     "code": "305306185",
-    "address": "Vilnius, Dariaus ir Girėno g. 5D-19, LT-02158"
+    "address": "Vilnius, Audronės g. 2-3, LT-11105"
   },
   {
     "name": "MB Ekspertas",
@@ -8520,7 +8521,7 @@
   {
     "name": "Tauragės miesto garažų eksploatavimo bendrija \"Viltis\"",
     "code": "179718664",
-    "address": "Tauragė, T. Ivanausko g. 100, LT-72202"
+    "address": "Tauragė, Pušyno g. 1-7, LT-72201"
   },
   {
     "name": "UAB \"Vyroko eksploatavimo centras\"",

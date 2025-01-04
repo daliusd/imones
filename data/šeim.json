@@ -1,10 +1,5 @@
 [
   {
-    "name": "Asociacija \"Mes šeima\"",
-    "code": "302981074",
-    "address": "Telšiai, V. Montvilos g. 17A, LT-87108"
-  },
-  {
     "name": "Asociacija \"Šeima ir biblija\"",
     "code": "303654353",
     "address": "Visaginas, Jaunystės g. 11-28, LT-31232"
@@ -52,7 +47,8 @@
   {
     "name": "MB \"POS Šeima\"",
     "code": "306718149",
-    "address": "Vilniaus r. sav., Riešės sen., Pikeliškių k., Žalesėlio g. 51, LT-15145"
+    "address": "Vilniaus r. sav., Riešės sen., Pikeliškių k., Žalesėlio g. 51, LT-15145",
+    "vatcode": "LT100017391210"
   },
   {
     "name": "MB \"Šeima - jėga\"",
@@ -366,6 +362,11 @@
     "name": "Uždaroji akcinė bendrovė \"Širvėnos šeimininkai\"",
     "code": "154855598",
     "address": "Biržai, Malūno g. 9, LT-41168"
+  },
+  {
+    "name": "UAB Šeimininkėlė",
+    "code": "307049693",
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
   },
   {
     "name": "Lietuvos ir Švedijos uždaroji akcinė bendrovė \"PAGALBA ŠEIMININKĖMS\"",
@@ -1002,11 +1003,6 @@
     "address": "Vilnius, Taikos g. 44-45, LT-05237"
   },
   {
-    "name": "UAB \"Trinapolio šeimos klinika\"",
-    "code": "306021342",
-    "address": "Vilnius, Trinapolio g. 9C-40, LT-08337"
-  },
-  {
     "name": "UAB \"Užvenčio šeimos sveikatos centras\"",
     "code": "162772312",
     "address": "Kelmės r. sav., Užventis, Vilties g. 2, LT-86346"
@@ -1218,7 +1214,7 @@
   {
     "name": "UAB Šeimos alėja",
     "code": "305713156",
-    "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Aušrinės g. 3, LT-91289",
+    "address": "Klaipėdos rajono savivaldybės teritorija",
     "vatcode": "LT100015722212"
   },
   {
@@ -1572,6 +1568,11 @@
     "address": "Panevėžys, Smėlynės g. 2A, LT-35143"
   },
   {
+    "name": "VšĮ \"Šeimos harmonija\"",
+    "code": "307049526",
+    "address": "Druskininkai, M. K. Čiurlionio g. 55, LT-66164"
+  },
+  {
     "name": "VšĮ \"Šeimos laikas\"",
     "code": "305047925",
     "address": "Kaunas, A. Juozapavičiaus pr. 27-33, LT-45258"
@@ -1600,6 +1601,11 @@
     "name": "VšĮ Šeimos dirbtuvės",
     "code": "304502487",
     "address": "Vilnius, Totorių g. 30-13, LT-01144"
+  },
+  {
+    "name": "VšĮ Šeimos dviračių servisas",
+    "code": "307048577",
+    "address": "Klaipėdos r. sav., Sendvario sen., Lelių k., Gumbinės g. 35, LT-91277"
   },
   {
     "name": "VšĮ Šeimos erdvė \"Versmė\"",

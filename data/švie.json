@@ -712,6 +712,11 @@
     "address": "Šakių r. sav., Lekėčių sen., Šėtijų k., Piliakalnio g. 11A, LT-71223"
   },
   {
+    "name": "MB \"Šviesos peilis\"",
+    "code": "307041547",
+    "address": "Klaipėda, Šaulių g. 7-3, LT-92137"
+  },
+  {
     "name": "MB \"Šviesos spektro\" studija",
     "code": "304035222",
     "address": "Vilnius, Savanorių pr. 226-76, LT-02301"
@@ -1354,7 +1359,8 @@
   {
     "name": "Ignalinos rajono švietimo ir sporto paslaugų centras",
     "code": "305616903",
-    "address": "Ignalina, Mokyklos g. 4, LT-30119"
+    "address": "Ignalina, Mokyklos g. 4, LT-30119",
+    "vatcode": "LT100017384414"
   },
   {
     "name": "Ignalinos rajono švietimo pagalbos tarnyba",
@@ -1492,11 +1498,6 @@
     "address": "Šiaulių r. sav., Kuršėnai, Daugėlių g. 17, LT-81125"
   },
   {
-    "name": "Kėdainių švietimo darbuotojų profesinių sąjungų susivienijimas",
-    "code": "302332303",
-    "address": "Kėdainiai, Vilniaus g. 11, LT-57209"
-  },
-  {
     "name": "Kėdainių švietimo pagalbos tarnyba",
     "code": "191721865",
     "address": "Kėdainiai, Josvainių g. 40, LT-57275"
@@ -1576,6 +1577,11 @@
     "name": "Lietuvos suaugusiųjų švietimo asociacija",
     "code": "124386262",
     "address": "Vilnius, Geležinio Vilko g. 12, LT-03163"
+  },
+  {
+    "name": "Lietuvos Švietimo ir mokslo profesinės sąjungos Švenčionių r. susivienijimas",
+    "code": "302431301",
+    "address": "Švenčionių r. sav., Pabradė, Vilniaus g. 43, LT-18177"
   },
   {
     "name": "Lietuvos švietimo centrų darbuotojų asociacija",
@@ -1964,11 +1970,6 @@
     "address": "Vilnius, Eišiškių pl. 47-312, LT-02184"
   },
   {
-    "name": "Tauragės rajono savivaldybės administracijos Švietimo skyrius",
-    "code": "188720899",
-    "address": "Tauragė, Respublikos g. 2, LT-72255"
-  },
-  {
     "name": "Tauragės švietimo centras",
     "code": "195450233",
     "address": "Tauragė, Aerodromo g. 6, LT-72186"
@@ -2099,8 +2100,7 @@
   {
     "name": "Viešoji įstaiga kultūros ir švietimo centras Vilniaus mokytojų namai",
     "code": "191590768",
-    "address": "Vilnius, Vilniaus g. 39, LT-01119",
-    "vatcode": "LT915907610"
+    "address": "Vilnius, Vilniaus g. 39, LT-01119"
   },
   {
     "name": "Viešoji įstaiga ŠVIETIMO IR KULTŪROS CENTRAS \"JAUNIMAS VAIKAMS\"",
@@ -2301,7 +2301,7 @@
   {
     "name": "ŠAKIŲ RAJONO ŠVIETIMO DARBUOTOJŲ PROFESINĖ SĄJUNGA",
     "code": "174828167",
-    "address": "Šakių r. sav., Kudirkos Naumiestis, Vytauto g. 44, LT-71316"
+    "address": "Vilnius, Vingrių g. 6A-17, LT-01141"
   },
   {
     "name": "Šakių rajono Švietimo pagalbos tarnyba",
@@ -2349,11 +2349,6 @@
     "address": "Šilutė, K. Kalinausko g. 10, LT-99130"
   },
   {
-    "name": "Švenčionių rajono švietimo darbuotojų profesinių sąjungų susivienijimas",
-    "code": "302431301",
-    "address": "Švenčionių r. sav., Pabradė, Vilniaus g. 43, LT-18177"
-  },
-  {
     "name": "Švenčionių rajono švietimo pagalbos tarnyba",
     "code": "300044836",
     "address": "Švenčionys, Sodų g. 30, LT-18126"
@@ -2397,6 +2392,11 @@
     "name": "Švietimo mainų paramos fondas",
     "code": "300629875",
     "address": "Vilnius, Rožių al. 2, LT-03106"
+  },
+  {
+    "name": "Švietimo psichologų asociacija",
+    "code": "307040018",
+    "address": "Vilnius, Lvivo g. 89-32, LT-08104"
   },
   {
     "name": "Švietimo psichologų centras VšĮ",

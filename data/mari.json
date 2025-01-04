@@ -54,6 +54,11 @@
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
+    "name": "VšĮ Kauno maria",
+    "code": "307043548",
+    "address": "Kauno r. sav., Alšėnų sen., Jonučių k., Sodų g. 130, LT-53319"
+  },
+  {
     "name": "Mariakas, MB",
     "code": "305212387",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -447,11 +452,6 @@
     "name": "MB \"Marienas\"",
     "code": "305214961",
     "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Vėjo g. 12-2, LT-91276"
-  },
-  {
-    "name": "Visuomeninis fondas \"Pakruojis-Mariestadas\"",
-    "code": "193374395",
-    "address": "Pakruojis, Vienybės a. 2A, LT-83154"
   },
   {
     "name": "IĮ \"Marieva\"",
@@ -1758,6 +1758,10 @@
     "code": "251168030",
     "address": "Marijampolė, Vasaros g. 6B, LT-68108",
     "vatcode": "LT511680314"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Marijampolės butų ūkis\"",
+    "code": "151005356"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Marijampolės komprojektas\"",
@@ -3973,11 +3977,6 @@
     "vatcode": "LT100013056010"
   },
   {
-    "name": "IĮ \"Marinus visus\"",
-    "code": "164116424",
-    "address": "Kretingos r. sav., Darbėnai, Palangos g. 17, LT-97269"
-  },
-  {
     "name": "UAB \"NORD MARINUS\"",
     "code": "301681907",
     "address": "Vilnius, Miglos g. 19, LT-08101",
@@ -4430,7 +4429,8 @@
   {
     "name": "UAB \"MARIYE LT\"",
     "code": "306897556",
-    "address": "Vilnius, Šv. Stepono g. 29-64, LT-01312"
+    "address": "Vilnius, Šv. Stepono g. 29-64, LT-01312",
+    "vatcode": "LT100017379413"
   },
   {
     "name": "\"Kauno marių\" metalinių garažų eksploatavimo bendrija",

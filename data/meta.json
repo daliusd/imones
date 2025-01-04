@@ -89,11 +89,6 @@
     "vatcode": "LT100007506910"
   },
   {
-    "name": "UAB \"Meta Europa\"",
-    "code": "304077901",
-    "address": "Vilnius, Arimų Sodų 2-oji g. 34, LT-11113"
-  },
-  {
     "name": "UAB \"Meta Group\"",
     "code": "301745555",
     "address": "Vilnius, Santariškių g. 35-23, LT-08439",
@@ -471,7 +466,8 @@
   {
     "name": "SV Metal, MB",
     "code": "306998078",
-    "address": "Klaipėda, Pušyno g. 29-1, LT-92266"
+    "address": "Klaipėda, Pušyno g. 29-1, LT-92266",
+    "vatcode": "LT100017401019"
   },
   {
     "name": "Shbiba Al'alam Co. Aluminum & Metal Work Lietuvos filialas",
@@ -772,7 +768,7 @@
   {
     "name": "UAB \"Vilniaus metalai\"",
     "code": "304025267",
-    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "UAB \"Visi metalai\"",
@@ -1697,11 +1693,6 @@
     "vatcode": "LT100013161910"
   },
   {
-    "name": "MB \"Metalo guru\"",
-    "code": "305416436",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
-  },
-  {
     "name": "MB \"Metalo idėjos\"",
     "code": "305094615",
     "address": "Vilkaviškis, Gedimino g. 12-6, LT-70143",
@@ -1915,6 +1906,11 @@
     "vatcode": "LT100013669817"
   },
   {
+    "name": "UAB \"Metalo LT\"",
+    "code": "307048310",
+    "address": "Kaunas, Kiškių g. 24-24, LT-45375"
+  },
+  {
     "name": "UAB \"Metalo amžius\"",
     "code": "135886151",
     "address": "Kaunas, Kęstučio g. 61, LT-44302",
@@ -1959,11 +1955,6 @@
     "code": "303408533",
     "address": "Šilutės r. sav., Šilutės sen., Pagrynių k., Šilutės g. 54A, LT-99195",
     "vatcode": "LT100009849914"
-  },
-  {
-    "name": "UAB \"Metalo gaminiai\"",
-    "code": "150117128",
-    "address": "Alytus, Kepyklos g. 17, LT-62117"
   },
   {
     "name": "UAB \"Metalo grupė\"",
@@ -2243,6 +2234,12 @@
     "address": "Vilnius, Gedimino pr. 37, LT-01109"
   },
   {
+    "name": "MB \"Bgl metals\"",
+    "code": "306815413",
+    "address": "Klaipėda, Kretingos g. 25-15, LT-92301",
+    "vatcode": "LT100017417319"
+  },
+  {
     "name": "MB \"Wide range metals\"",
     "code": "305666564",
     "address": "Kaišiadorių r. sav., Rumšiškės, A. Baranausko g. 11, LT-56338",
@@ -2347,11 +2344,6 @@
     "code": "305547916",
     "address": "Kaunas, Europos pr. 122, LT-46351",
     "vatcode": "LT100016364914"
-  },
-  {
-    "name": "UAB \"Metalvita\"",
-    "code": "304457939",
-    "address": "Klaipėda, Taikos pr. 141B-40, LT-94284"
   },
   {
     "name": "UAB METALWIN",

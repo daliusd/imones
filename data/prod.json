@@ -19,7 +19,8 @@
   {
     "name": "MB Prodalys",
     "code": "306897606",
-    "address": "Jurbarko r. sav., Smalininkai, Darželio g. 6, LT-74221"
+    "address": "Jurbarko r. sav., Smalininkai, Darželio g. 6, LT-74221",
+    "vatcode": "LT100017357917"
   },
   {
     "name": "\"ProDar\", UAB",
@@ -191,7 +192,7 @@
   {
     "name": "Lietuvos reklamos prodiuserių asociacija \"LAPA\"",
     "code": "302819745",
-    "address": "Vilnius, Polocko g. 1-23, LT-01204"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "Nepriklausomų prodiuserių asociacija",
@@ -283,7 +284,8 @@
   {
     "name": "UAB \"Prodrill\"",
     "code": "306995331",
-    "address": "Vilnius, Manufaktūrų g. 20-197, LT-11342"
+    "address": "Vilnius, Manufaktūrų g. 20-197, LT-11342",
+    "vatcode": "LT100017388614"
   },
   {
     "name": "MB \"Prodtech engineering\"",
@@ -328,7 +330,8 @@
   {
     "name": "MB CNC Product",
     "code": "306661221",
-    "address": "Kaunas, Baltų pr. 5-43, LT-48260"
+    "address": "Kaunas, Baltų pr. 5-43, LT-48260",
+    "vatcode": "LT100017409812"
   },
   {
     "name": "Open Product, UAB",
@@ -428,12 +431,19 @@
   {
     "name": "MB Backstage production",
     "code": "307025094",
-    "address": "Druskininkų sav., Leipalingis, Avirio g. 14, LT-67278"
+    "address": "Druskininkų sav., Leipalingis, Avirio g. 14, LT-67278",
+    "vatcode": "LT100017420016"
+  },
+  {
+    "name": "MB Close up production",
+    "code": "307040712",
+    "address": "Vilnius, Žirmūnų g. 62-36, LT-09100"
   },
   {
     "name": "MB Era production",
     "code": "307033543",
-    "address": "Panevėžys, Gumbės g. 33, LT-36159"
+    "address": "Panevėžys, Gumbės g. 33, LT-36159",
+    "vatcode": "LT100017365413"
   },
   {
     "name": "MB FAT PRODUCTION",
@@ -673,8 +683,7 @@
   {
     "name": "UAB \"Things Production\"",
     "code": "306315290",
-    "address": "Vilnius, Viršuliškių g. 87-137, LT-05114",
-    "vatcode": "LT100015989519"
+    "address": "Vilnius, Viršuliškių g. 87-137, LT-05114"
   },
   {
     "name": "UAB \"VRS Production\"",
@@ -924,6 +933,11 @@
     "vatcode": "LT100012882912"
   },
   {
+    "name": "VšĮ Centre for Productivity and Sustainability Analysis",
+    "code": "307043060",
+    "address": "Vilnius, Savanorių pr. 6A-81, LT-03116"
+  },
+  {
     "name": "MB \"Productivus\"",
     "code": "305243201",
     "address": "Vilnius, Vykinto g. 2-2, LT-08118",
@@ -979,7 +993,8 @@
   {
     "name": "MB Green Street Products",
     "code": "307019077",
-    "address": "Kaunas, Kudrėnų g. 20-1, LT-47262"
+    "address": "Kaunas, Kudrėnų g. 20-1, LT-47262",
+    "vatcode": "LT100017323216"
   },
   {
     "name": "MB Pharma Products",
@@ -1094,7 +1109,8 @@
   {
     "name": "MB Auri video produkcija",
     "code": "306373233",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017388019"
   },
   {
     "name": "UAB \"MONAKO PRODUKCIJA\"",
@@ -1594,10 +1610,5 @@
     "name": "MB Produsela",
     "code": "306237429",
     "address": "Kaunas, Vytauto pr. 43A-67, LT-44352"
-  },
-  {
-    "name": "UAB \"Prodviratis\"",
-    "code": "304287209",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
   }
 ]

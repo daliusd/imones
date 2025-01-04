@@ -247,7 +247,8 @@
   {
     "name": "\"Tankus miškas\", UAB",
     "code": "304068489",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100017415615"
   },
   {
     "name": "Automobilių garažų bendrija \"Miškas\"",
@@ -500,7 +501,7 @@
   {
     "name": "UAB \"Ievos miškas\"",
     "code": "302645134",
-    "address": "Varėnos r. sav., Jakėnų sen., Puodžių k.",
+    "address": "Varėnos r. sav., Jakėnų sen., Puodžių k., Sodų g. 3B, LT-65429",
     "vatcode": "LT100006241510"
   },
   {
@@ -1289,11 +1290,6 @@
     "address": "Kauno r. sav., Samylų sen., Girionių k."
   },
   {
-    "name": "Edmanto Petručio miško ruošos įmonė",
-    "code": "173934580",
-    "address": "Skuodo r. sav., Ylakių sen., Vižančių k., Žalioji g. 4, LT-98322"
-  },
-  {
     "name": "Gyvenamųjų namų bendrija \"GALINĖS MIŠKO NAMAI\"",
     "code": "305606916",
     "address": "Vilniaus r. sav., Avižienių sen., Mažosios Riešės vs., Kalno g. 17, LT-14330"
@@ -1322,8 +1318,7 @@
   {
     "name": "IĮ \"Miško lokys\"",
     "code": "303242442",
-    "address": "Kupiškio r. sav., Skapiškio sen., Vengriškio vs. 2, LT-40468",
-    "vatcode": "LT100008493315"
+    "address": "Kupiškio r. sav., Skapiškio sen., Vengriškio vs. 2, LT-40468"
   },
   {
     "name": "IĮ \"Miško putinas\"",
@@ -1464,7 +1459,8 @@
   {
     "name": "MB \"Miško kavinė\"",
     "code": "306684444",
-    "address": "Vilnius, Birelių Sodų 15-oji g. 34, LT-14268"
+    "address": "Vilnius, Birelių Sodų 15-oji g. 34, LT-14268",
+    "vatcode": "LT100017408915"
   },
   {
     "name": "MB \"Miško kepyklėlė\"",
@@ -1494,6 +1490,11 @@
     "name": "MB \"Miško magija\"",
     "code": "304867888",
     "address": "Šilutė, H. Šojaus g. 10-43, LT-99127"
+  },
+  {
+    "name": "MB \"Miško paslaptys\"",
+    "code": "307047678",
+    "address": "Alytaus r. sav., Nemunaičio sen., Kalnėnų k., Kalnėnų g. 7, LT-64206"
   },
   {
     "name": "MB \"Miško pirklys\"",
@@ -1626,7 +1627,7 @@
   {
     "name": "MB Miško dirbtuvės",
     "code": "305918143",
-    "address": "Vilniaus r. sav., Bezdonių sen., Miškonių k., Miškonių g. 32, LT-15165"
+    "address": "Vilnius, Rato g. 5-1, LT-10103"
   },
   {
     "name": "MB Miško feniksas",
@@ -1912,7 +1913,7 @@
   {
     "name": "Telšių miško darbuotojų profesinė sąjunga",
     "code": "180782258",
-    "address": "Telšių r. sav., Ryškėnų sen., Berkinėnų k."
+    "address": "Telšiai, Miškininkų g. 4, LT-87151"
   },
   {
     "name": "Trakų miško darbuotojų profesinė sąjunga",
@@ -2755,11 +2756,6 @@
     "code": "305165884",
     "address": "Mažeikių r. sav., Tirkšlių sen., Plėnakių k., Išlaužos g. 1, LT-89347",
     "vatcode": "LT100012415812"
-  },
-  {
-    "name": "UAB Aukštaitijos miškų ūkis",
-    "code": "304697165",
-    "address": "Panevėžys, Paliūniškio g. 5, LT-35114"
   },
   {
     "name": "UAB Baltijos miškų fondas",

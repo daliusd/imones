@@ -330,7 +330,8 @@
   {
     "name": "UAB \"A1 Klaipėda\"",
     "code": "307018993",
-    "address": "Klaipėda, Sūkurio g. 14, LT-92281"
+    "address": "Klaipėda, Sūkurio g. 14, LT-92281",
+    "vatcode": "LT100017388311"
   },
   {
     "name": "UAB \"Ahlers Klaipėda\"",
@@ -472,6 +473,12 @@
     "name": "UAB \"MT Klaipėda\"",
     "code": "305736233",
     "address": "Klaipėda, Baltijos pr. 103, LT-93222"
+  },
+  {
+    "name": "UAB \"NN Klaipėda\"",
+    "code": "307043516",
+    "address": "Kaunas, A. Juozapavičiaus pr. 84, LT-45212",
+    "vatcode": "LT100017422416"
   },
   {
     "name": "UAB \"PACK KLAIPĖDA\"",
@@ -2060,11 +2067,6 @@
     "address": "Klaipėdos miesto savivaldybės teritorija"
   },
   {
-    "name": "Klaipėdos klientų aptarnavimo departamento Klaipėdos skyriaus darbuotojų profesinė sąjunga",
-    "code": "305717432",
-    "address": "Klaipėda, Naikupės g. 27A, LT-93202"
-  },
-  {
     "name": "Klaipėdos konteinerių terminalas, UAB",
     "code": "240854850",
     "address": "Klaipėda, Minijos g. 180, LT-93269",
@@ -3357,7 +3359,7 @@
   {
     "name": "Klaipėdos rajono savivaldybės priešgaisrinė tarnyba",
     "code": "302519630",
-    "address": "Gargždai, Kvietinių g. 30, LT-96112"
+    "address": "Gargždai, Klaipėdos g. 2, LT-96130"
   },
   {
     "name": "Klaipėdos rajono savivaldybės visuomenės sveikatos biuras",
@@ -3606,6 +3608,11 @@
     "code": "190974424",
     "address": "Klaipėda, Puodžių g. 10, LT-92127",
     "vatcode": "LT909744219"
+  },
+  {
+    "name": "Klaipėdos televizija",
+    "code": "306097450",
+    "address": "Klaipėda, Sportininkų g. 34, LT-92271"
   },
   {
     "name": "Klaipėdos teniso trenerių federacija",
@@ -4048,11 +4055,6 @@
     "address": "Klaipėda, Vilhelmo Berbomo g. 10, LT-92221"
   },
   {
-    "name": "Lietuvos sutrikusio intelekto žmonių globos bendrija \"Klaipėdos viltis\"",
-    "code": "141635812",
-    "address": "Klaipėda, Smiltelės g. 22, LT-93146"
-  },
-  {
     "name": "Lietuvos tremtinių sąjungos Klaipėdos skyriaus sodininkų bendrija \"Viltis\"",
     "code": "163672329",
     "address": "Klaipėdos r. sav., Dovilų sen., Kiškėnų k."
@@ -4310,6 +4312,11 @@
     "name": "Sporto klubas \"Klaipėdos lankininkai\"",
     "code": "303461354",
     "address": "Klaipėda, Obelų g. 13A, LT-91274"
+  },
+  {
+    "name": "Sutrikusio intelekto žmonių globos bendrija \"Klaipėdos Viltis\"",
+    "code": "141635812",
+    "address": "Klaipėda, Debreceno g. 48, LT-94149"
   },
   {
     "name": "TEO LT, AB Klaipėdos regiono darbuotojų profesinė sąjunga",
@@ -4749,11 +4756,6 @@
     "name": "UAB \"Konica Minolta Baltia\" Klaipėdos filialas",
     "code": "111696738",
     "address": "Klaipėda, Žvejų g. 9, LT-91248"
-  },
-  {
-    "name": "UAB \"SB lizingas\" Klaipėdos atstovybė",
-    "code": "141840518",
-    "address": "Klaipėda, Liepų g. 8-3, LT-92114"
   },
   {
     "name": "UAB \"Signeda\" Klaipėdos filialas",

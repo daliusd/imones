@@ -75,11 +75,6 @@
     "address": "Marijampolė, Kauno g. 115-219"
   },
   {
-    "name": "G. Pucilausko taksi paslaugų įmonė",
-    "code": "151123689",
-    "address": "Marijampolė, Suvalkiečių g. 5-6, LT-68227"
-  },
-  {
     "name": "Giedriaus Rapoporto individuali įmonė \"Aukštakalnio taksi\"",
     "code": "301738703",
     "address": "Utena, Žilvičių g. 9, LT-28244"
@@ -363,6 +358,11 @@
     "address": "Marijampolės sav., Šunskų sen., Kidoliškių k."
   },
   {
+    "name": "Pucilausko taksi paslaugos MB",
+    "code": "151123689",
+    "address": "Marijampolė, Suvalkiečių g. 5-6, LT-68227"
+  },
+  {
     "name": "R. Simėno taksi paslaugų įmonė",
     "code": "154728782",
     "address": "Biržai, Stoties g. 1-4, LT-41176"
@@ -593,7 +593,8 @@
   {
     "name": "UAB Top taksi",
     "code": "307020599",
-    "address": "Plungės r. sav., Plateliai, Žemaitės g. 15, LT-90420"
+    "address": "Plungės r. sav., Plateliai, Žemaitės g. 15, LT-90420",
+    "vatcode": "LT100017433310"
   },
   {
     "name": "UAB VIP TAKSI",
@@ -725,12 +726,6 @@
     "name": "L. Rožės individuali įmonė \"Taksita\"",
     "code": "183862243",
     "address": "Utena, V. Kudirkos g. 28-32, LT-28233"
-  },
-  {
-    "name": "UAB \"Takska projects\"",
-    "code": "305390863",
-    "address": "Klaipėdos r. sav., Sendvario sen., Budrikų k., Lypkių g. 5, LT-96326",
-    "vatcode": "LT100014913513"
   },
   {
     "name": "UAB \"Takska\"",
