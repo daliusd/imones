@@ -20,11 +20,6 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
-    "name": "Finasta Private Equity Fund I, KŪB",
-    "code": "302650665",
-    "address": "Vilnius, Maironio g. 11, LT-01124"
-  },
-  {
     "name": "GRANIT PARTS TRADING KŪB",
     "code": "305271396",
     "address": "Rokiškis, Jaunystės g. 5-2, LT-42149"
@@ -89,6 +84,16 @@
     "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB Geležinio Vilko Kapitalo Fondas",
     "code": "304974744",
     "address": "Vilnius, Polocko g. 2-37, LT-01204"
+  },
+  {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB ScaleWolf Accelerator",
+    "code": "306263096",
+    "address": "Vilnius, Mokslininkų g. 2A, LT-08412"
+  },
+  {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB ScaleWolf VC",
+    "code": "306263107",
+    "address": "Vilnius, Mokslininkų g. 2A, LT-08412"
   },
   {
     "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB Wise Guys Pre-Seed Fund I",
@@ -200,8 +205,7 @@
   {
     "name": "KŪB \"Senamiesčio tilto investicijos\"",
     "code": "304720678",
-    "address": "Kaunas, Laisvės al. 42-2, LT-44246",
-    "vatcode": "LT100011953819"
+    "address": "Kaunas, Laisvės al. 42-2, LT-44246"
   },
   {
     "name": "KŪB \"Smilgos\"",
@@ -337,171 +341,6 @@
     "address": "Vilnius, Lvivo g. 25, LT-09320"
   },
   {
-    "name": "UAB \"TECHNOLITAS BALDAI\" KŪB \"BALDŲ KOMPONENTAI\"",
-    "code": "125643585",
-    "address": "Vilnius, Arimų g. 35, LT-11114"
-  },
-  {
-    "name": "UAB \"TECHNOLITAS BALDAI\" KŪB \"DROŽLIŲ PLOKŠTĖ\"",
-    "code": "225643390",
-    "address": "Vilnius, Arimų g. 35, LT-11114"
-  },
-  {
-    "name": "UAB \"TECHNOLITAS BALDAI\" KŪB \"METALO DROŽLĖ\"",
-    "code": "125643432",
-    "address": "Vilnius, Žirnių g. 10, LT-02120"
-  },
-  {
-    "name": "UAB \"TECHNOLITAS BALDAI\" KŪB \"METALO LAKŠTAS\"",
-    "code": "125643247",
-    "address": "Vilnius, Žirnių g. 10, LT-02120"
-  },
-  {
-    "name": "UAB \"TECHNOLITAS BALDAI\" KŪB \"METANOMAS\"",
-    "code": "125660734",
-    "address": "Vilnius, Žirnių g. 10, LT-02120"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos adata\"",
-    "code": "125976892",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos brigada\"",
-    "code": "125950260",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos būstas\"",
-    "code": "125773358",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos drenažas\"",
-    "code": "125944364",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos grupė\"",
-    "code": "225947660",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos investicija\"",
-    "code": "125895216",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos komanda\"",
-    "code": "225944550",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos kranas\"",
-    "code": "126232028",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos kryptis\"",
-    "code": "125951177",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos mūras\"",
-    "code": "225773010",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos namas\"",
-    "code": "126235661",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos paslaugos\"",
-    "code": "225951210",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos pjūklas\"",
-    "code": "125845537",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos projektas\"",
-    "code": "125804526",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos raktas\"",
-    "code": "126232170",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos ranga\"",
-    "code": "225904260",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos rekonstrukcija\"",
-    "code": "125806153",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos remontas\"",
-    "code": "125773162",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos renovacija\"",
-    "code": "125843148",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos rąstas\"",
-    "code": "125845494",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos statyba\"",
-    "code": "125883395",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos stogas\"",
-    "code": "126217791",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos strategija\"",
-    "code": "125895369",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos verslas\"",
-    "code": "125836292",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos įrengimai\"",
-    "code": "125973444",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"Versirma\" ir partnerių KŪB \"Versirmos vyrai\"",
-    "code": "125833225",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
-  },
-  {
-    "name": "UAB \"ŠVAROS UPĖ\" KŪB \"ŠALTAKĖ\"",
-    "code": "125751123",
-    "address": "Vilnius, Kirtimų g. 61, LT-02244"
-  },
-  {
-    "name": "UAB \"ŠVAROS UPĖ\" KŪB \"ŠVARUOKLĖ\"",
-    "code": "125751276",
-    "address": "Vilnius, Kirtimų g. 61, LT-02244"
-  },
-  {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė KŪB \"Releven Prime Properties\"",
     "code": "305417449",
     "address": "Vilnius, Jogailos g. 4, LT-01116",
@@ -533,11 +372,29 @@
   {
     "name": "Yias Club, KŪB",
     "code": "307014030",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017438715"
   },
   {
     "name": "Z. STRUMILO KŪB \"SALININKŲ PREKYBA\"",
     "code": "125900624",
     "address": "Vilnius, Vaikų g. 15-12, LT-02208"
+  },
+  {
+    "name": "Individuali įmonė \"Vienas kūbas\"",
+    "code": "300078055",
+    "address": "Mažeikių r. sav., Viekšnių sen., Pakalupio k., Padvarėlių g. 15, LT-89486",
+    "vatcode": "LT100001409018"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Kūbas\"",
+    "code": "166414736",
+    "address": "Mažeikiai, Kalnėnų g. 34, LT-89144",
+    "vatcode": "LT664147314"
+  },
+  {
+    "name": "VAIRUOTOJŲ PROFESINĖS SĄJUNGOS FILIALAS UAB KŪBAS PROFESINĖ SĄJUNGA",
+    "code": "302951451",
+    "address": "Mažeikiai, Ventos g. 8A, LT-89103"
   }
 ]

@@ -5,11 +5,6 @@
     "address": "Vilnius, Trimitų g. 6-34, LT-09318"
   },
   {
-    "name": "A. E. Numgaudžio firma \"Sena gryčia\"",
-    "code": "134293664",
-    "address": "Kauno miesto savivaldybės teritorija"
-  },
-  {
     "name": "IĮ G. Račkausko firma \"Sena artelė\"",
     "code": "133906349",
     "address": "Kaunas, Marvelės g. 97, LT-46208",
@@ -246,8 +241,7 @@
   {
     "name": "KŪB \"Senamiesčio tilto investicijos\"",
     "code": "304720678",
-    "address": "Kaunas, Laisvės al. 42-2, LT-44246",
-    "vatcode": "LT100011953819"
+    "address": "Kaunas, Laisvės al. 42-2, LT-44246"
   },
   {
     "name": "MB \"Senamiesčio Apdaila\"",
@@ -278,12 +272,18 @@
   {
     "name": "MB \"Senamiesčio skoniai\"",
     "code": "306665764",
-    "address": "Kėdainiai, Didžioji g. 52, LT-57257"
+    "address": "Kėdainiai, Didžioji g. 52, LT-57257",
+    "vatcode": "LT100017447310"
   },
   {
     "name": "MB \"Senamiesčio teatras\"",
     "code": "306658410",
     "address": "Kaunas, Birštono g. 12, LT-44288"
+  },
+  {
+    "name": "MB Senamiesčio pokalbiai",
+    "code": "307056638",
+    "address": "Vilnius, Trakų g. 13-12, LT-01132"
   },
   {
     "name": "MB Senamiesčio psichoterapijos studija",
@@ -357,11 +357,6 @@
     "name": "UAB \"Senamiesčio aikštelė\"",
     "code": "235769640",
     "address": "Kaunas, D. Poškos g. 12A, LT-44293"
-  },
-  {
-    "name": "UAB \"Senamiesčio fėjos\"",
-    "code": "303117766",
-    "address": "Telšiai, Respublikos g. 8-1, LT-87130"
   },
   {
     "name": "UAB \"Senamiesčio gidas\"",
@@ -499,11 +494,6 @@
     "address": "Ukmergė, Sodų g. 7, LT-20129"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"SENAMIESČIO DIZAINO SALONAS\"",
-    "code": "122049862",
-    "address": "Vilnius, Mėsinių g. 4, LT-01130"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"SENAMIESČIO MAGIJA\"",
     "code": "141325831",
     "address": "Klaipėda, Tomo g. 16-15",
@@ -604,7 +594,7 @@
   {
     "name": "M. Kudžio individuali įmonė \"Senas bebras\"",
     "code": "156533980",
-    "address": "Jonavos r. sav., Užusalių sen., Turžėnų k.",
+    "address": "Jonavos r. sav., Užusalių sen., Turžėnų k., Kauno pl. 4, LT-55327",
     "vatcode": "LT565339811"
   },
   {
@@ -741,11 +731,6 @@
     "name": "Garažų bendrija \"Senasis kooperatyvas XV\"",
     "code": "305729057",
     "address": "Šilutė, Aukštumalės g. 39-13, LT-99132"
-  },
-  {
-    "name": "J. JAKUBONIO ĮMONĖ \"SENASIS AUKURAS\"",
-    "code": "168449764",
-    "address": "Panevėžio r. sav., Velžio sen., Pažagienių k."
   },
   {
     "name": "L. Repečkos įmonė \"SENASIS KIEMAS\"",
@@ -956,11 +941,6 @@
     "address": "Vilnius, J. Basanavičiaus g. 13, LT-03108"
   },
   {
-    "name": "Vito Dambrausko įmonė \"Senasis rūsys\"",
-    "code": "144984274",
-    "address": "Šiauliai, Vilniaus g. 189-20, LT-76350"
-  },
-  {
     "name": "Vytauto Bario įmonė \"Senasis žibintas\"",
     "code": "145423447",
     "address": "Šiauliai, Dainų g. 46A-77, LT-78284"
@@ -1012,6 +992,11 @@
     "code": "306143862",
     "address": "Vilnius, J. Basanavičiaus g. 26, LT-03224",
     "vatcode": "LT100015490611"
+  },
+  {
+    "name": "UAB \"Rami senatvė\"",
+    "code": "307073541",
+    "address": "Vilnius, Elnių g. 23-12, LT-08101"
   },
   {
     "name": "VšĮ \"Ori senatvė\"",

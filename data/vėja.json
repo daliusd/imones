@@ -69,6 +69,12 @@
     "address": "Ukmergė, Jurginų g. 14, LT-20172"
   },
   {
+    "name": "MB Trys vėjai",
+    "code": "307063604",
+    "address": "Vilnius, Baluosių g. 1B, LT-14187",
+    "vatcode": "LT100017490814"
+  },
+  {
     "name": "MB Žali vėjai",
     "code": "306687262",
     "address": "Alytaus r. sav., Punios sen., Karvelninkų k. 11, LT-64467"
@@ -189,11 +195,6 @@
     "address": "Kretinga, J. Basanavičiaus g. 62, LT-97125"
   },
   {
-    "name": "J. Pacholčišino personalinė įmonė \"VĖJARIS\"",
-    "code": "124955062",
-    "address": "Vilnius, Fabijoniškių g. 94-24, LT-07100"
-  },
-  {
     "name": "Daugiabučio namo savininkų bendrija \"VĖJARODĖ\"",
     "code": "141900538",
     "address": "Klaipėda, Liepojos g. 7, LT-92289"
@@ -228,7 +229,8 @@
   {
     "name": "\"Vėjas trys\", UAB",
     "code": "306311370",
-    "address": "Vilnius, Ozo g. 41-101, LT-07171"
+    "address": "Vilnius, Ozo g. 41-101, LT-07171",
+    "vatcode": "LT100017472110"
   },
   {
     "name": "\"Vėjas vienas\", UAB",
@@ -338,7 +340,7 @@
   {
     "name": "Gyvenamųjų namų savininkų bendrija \"Gvildžių vėjas\"",
     "code": "303833858",
-    "address": "Klaipėdos r. sav., Sendvario sen., Gvildžių k., Aušrinio g. 17, LT-92336"
+    "address": "Klaipėdos r. sav., Sendvario sen., Gvildžių k., Jūrinio g. 13, LT-92336"
   },
   {
     "name": "Gyvenamųjų namų statybos bendrija \"Jaunystės vėjas\"",
@@ -395,7 +397,8 @@
   {
     "name": "MB \"Agro vėjas\"",
     "code": "306748053",
-    "address": "Kupiškio r. sav., Kupiškio sen., Paketurių k., Ežerėlio g. 5, LT-40103"
+    "address": "Kupiškio r. sav., Kupiškio sen., Paketurių k., Ežerėlio g. 5, LT-40103",
+    "vatcode": "LT100017459819"
   },
   {
     "name": "MB \"Dizaino vėjas\"",
@@ -613,6 +616,16 @@
     "vatcode": "LT100013280217"
   },
   {
+    "name": "UAB \"Kretingos vėjas\"",
+    "code": "305999259",
+    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308"
+  },
+  {
+    "name": "UAB \"Kupiškio vėjas\"",
+    "code": "307078264",
+    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308"
+  },
+  {
     "name": "UAB \"Kėdainių vėjas\"",
     "code": "302462040",
     "address": "Vilnius, Gabijos g. 91-22, LT-06105"
@@ -645,6 +658,11 @@
     "name": "UAB \"Lygumų vėjas\"",
     "code": "302837202",
     "address": "Vilnius, Salomėjos Nėries g. 89-70, LT-06304"
+  },
+  {
+    "name": "UAB \"Mažeikių vėjas\"",
+    "code": "305998812",
+    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308"
   },
   {
     "name": "UAB \"Miesto vėjas\"",
@@ -713,9 +731,9 @@
     "address": "Mažeikių r. sav., Reivyčių sen., Reivyčių k., Draustinio g. 22, LT-89301"
   },
   {
-    "name": "UAB \"Spalvų vėjas\"",
-    "code": "134249529",
-    "address": "Kaunas, Sodų g. 9, LT-45262"
+    "name": "UAB \"Skuodo vėjas\"",
+    "code": "307078232",
+    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308"
   },
   {
     "name": "UAB \"Sparnuotas vėjas\"",
@@ -755,6 +773,11 @@
     "code": "304961519",
     "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308",
     "vatcode": "LT100016755910"
+  },
+  {
+    "name": "UAB \"Ukmergės vėjas\"",
+    "code": "307076936",
+    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308"
   },
   {
     "name": "UAB \"Uliūnų vėjas\"",
@@ -925,11 +948,6 @@
     "vatcode": "LT454479113"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Palankus vėjas\"",
-    "code": "140899734",
-    "address": "Klaipėda, Pietinė g. 11-21, LT-93148"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"ŠILO VĖJAS\"",
     "code": "124206853",
     "address": "Vilnius, J. Basanavičiaus g. 42-5, LT-03109",
@@ -995,8 +1013,7 @@
   {
     "name": "VšĮ Vėjas Banga Burė",
     "code": "306226361",
-    "address": "Vilnius, Sėlių g. 13A-13A, LT-08125",
-    "vatcode": "LT100016050915"
+    "address": "Vilnius, Sėlių g. 13A-13A, LT-08125"
   },
   {
     "name": "Žirginio sporto klubas \"Bėras vėjas\"",

@@ -126,7 +126,8 @@
   {
     "name": "A. S. Holding UAB",
     "code": "307029694",
-    "address": "Kauno r. sav., Domeikavos sen., Žemaitkiemio k., Pirklių g. 5, LT-54310"
+    "address": "Kauno r. sav., Domeikavos sen., Žemaitkiemio k., Pirklių g. 5, LT-54310",
+    "vatcode": "LT100017506814"
   },
   {
     "name": "AB \"Basketball Holding Company\"",
@@ -190,7 +191,7 @@
   {
     "name": "Baltic Commercial Holding UAB",
     "code": "305154425",
-    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Žalioji g. 1J, LT-14261"
+    "address": "Vilnius, M. K. Čiurlionio g. 82A-20, LT-03100"
   },
   {
     "name": "Berkeley Holding UAB",
@@ -268,6 +269,11 @@
     "vatcode": "LT100016589519"
   },
   {
+    "name": "Estilita Holding, UAB",
+    "code": "307076270",
+    "address": "Vilnius, Šaltupio g. 9C, LT-02300"
+  },
+  {
     "name": "Eurofins Food Testing Baltics Holding UAB",
     "code": "306465183",
     "address": "Vilnius, Kauno g. 1A, LT-01314"
@@ -321,7 +327,7 @@
   {
     "name": "Getvat holding, UAB",
     "code": "305646227",
-    "address": "Vilnius, Algirdo g. 31, LT-03219"
+    "address": "Vilnius, Algirdo g. 31-400, LT-03219"
   },
   {
     "name": "Global Airways Holding UAB",
@@ -449,6 +455,11 @@
     "vatcode": "LT100016739414"
   },
   {
+    "name": "MB \"Personnel Solutions Holding\"",
+    "code": "307081004",
+    "address": "Vilnius, Latvių g. 38-17, LT-08113"
+  },
+  {
     "name": "MB \"Pro holding\"",
     "code": "305789143",
     "address": "Vilnius, Sporto g. 10-14, LT-09238"
@@ -528,6 +539,11 @@
     "code": "306210332",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
     "vatcode": "LT100016144715"
+  },
+  {
+    "name": "OSL Lithuania Holding, UAB",
+    "code": "307070958",
+    "address": "Vilnius, J. Jasinskio g. 12, LT-01112"
   },
   {
     "name": "PC Holding UAB",
@@ -694,11 +710,6 @@
     "address": "Vilnius, J. Jasinskio g. 16A, LT-03163"
   },
   {
-    "name": "UAB \"B&L MEDIA HOLDING\"",
-    "code": "300051332",
-    "address": "Vilnius, Šermukšnių g. 1A-30, LT-01106"
-  },
-  {
     "name": "UAB \"BA holding\"",
     "code": "305405888",
     "address": "Vilnius, Mokslininkų g. 2A, LT-08412"
@@ -783,15 +794,6 @@
     "code": "304429509",
     "address": "Vilnius, Nidos g. 9-35, LT-06258",
     "vatcode": "LT100015186119"
-  },
-  {
-    "name": "UAB \"Fincub8 Holding\"",
-    "code": "304716911",
-    "address": "Vilnius, Mėsinių g. 5, LT-01133"
-  },
-  {
-    "name": "UAB \"GG HOLDING\"",
-    "code": "304973959"
   },
   {
     "name": "UAB \"Global Baltik Holding\"",
@@ -1126,7 +1128,7 @@
   {
     "name": "UAB \"Trust Project Services Holding\"",
     "code": "304835997",
-    "address": "Klaipėda, Baltijos pr. 123-4, LT-93224"
+    "address": "Klaipėda, Dubysos g. 58C-6, LT-94107"
   },
   {
     "name": "UAB \"Urban Investment Holding\"",
@@ -1408,6 +1410,11 @@
     "vatcode": "LT100017161912"
   },
   {
+    "name": "UAB RJ holding",
+    "code": "307076605",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
     "name": "UAB RNDV Holding",
     "code": "304559417",
     "address": "Klaipėda, Taikos pr. 52C, LT-91184",
@@ -1491,6 +1498,11 @@
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
+    "name": "UAB Vilijura Holding 2",
+    "code": "307083222",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "UAB Vilnius Finest Holding",
     "code": "306716664",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
@@ -1518,6 +1530,16 @@
     "name": "Uždarosios akcinės bendrovės \"EMI HOLDING\" atstovybė",
     "code": "111921544",
     "address": "Kaunas, Kuršėnų g. 32-28, LT-48483"
+  },
+  {
+    "name": "VIAN-Holding, MB",
+    "code": "307054861",
+    "address": "Vilnius, Treniotos g. 2-12, LT-08121"
+  },
+  {
+    "name": "VM Holding, UAB",
+    "code": "307062751",
+    "address": "Vilnius, Perkūnkiemio g. 7, LT-12131"
   },
   {
     "name": "Verfa holding UAB",
@@ -1719,6 +1741,11 @@
     "name": "UAB SVC Holdingas",
     "code": "303412873",
     "address": "Vilnius, Šeimyniškių g. 21B, LT-09236"
+  },
+  {
+    "name": "UAB Skyriaus Holdingas",
+    "code": "307068149",
+    "address": "Vilnius, Universiteto g. 4, LT-01131"
   },
   {
     "name": "UAB Verslo centro Arka holdingas",
@@ -2213,6 +2240,11 @@
     "address": "Vilnius, Girulių g. 20, LT-12123"
   },
   {
+    "name": "UAB SwirlAI Holdings",
+    "code": "307076975",
+    "address": "Vilnius, Romuvos g. 46, LT-08400"
+  },
+  {
     "name": "UAB V Capital Holdings",
     "code": "305666571",
     "address": "Vilnius, Vingrių g. 19A-401, LT-01309",
@@ -2237,6 +2269,11 @@
     "name": "Volungė Holdings UAB",
     "code": "306330214",
     "address": "Vilnius, Savanorių pr. 61, LT-03149"
+  },
+  {
+    "name": "UAB \"Holdingus\"",
+    "code": "307053859",
+    "address": "Vilnius, Gilužio g. 43-12, LT-06239"
   },
   {
     "name": "UAB Holdix",

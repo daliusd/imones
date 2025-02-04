@@ -43,11 +43,6 @@
     "address": "Vilnius, Vido Maciulevičiaus g. 20-77, LT-04308"
   },
   {
-    "name": "Individuali įmonė \"Idėja 21\"",
-    "code": "301004531",
-    "address": "Visaginas, Taikos pr. 7, LT-31107"
-  },
-  {
     "name": "Individuali įmonė \"Sveika idėja\"",
     "code": "304562527",
     "address": "Vilnius, Upės g. 5, LT-09308"
@@ -189,11 +184,6 @@
     "address": "Kaunas, Jotvingių g. 1-81, LT-48141"
   },
   {
-    "name": "MB \"Teisės idėja\"",
-    "code": "303066282",
-    "address": "Vilnius, Gedvydžių g. 20-50, LT-06302"
-  },
-  {
     "name": "MB \"Unikali idėja\"",
     "code": "305438799",
     "address": "Vilnius, Kaukų g. 50A-1, LT-08400",
@@ -283,6 +273,12 @@
     "name": "Mažoji bendrija \"Jauki idėja\"",
     "code": "306414299",
     "address": "Kelmės r. sav., Liolių sen., Baldegių k., Baldegių g. 36, LT-86228"
+  },
+  {
+    "name": "Mažoji bendrija Dovanos idėja",
+    "code": "307060960",
+    "address": "Vilnius, Jovariškių g. 4, LT-25132",
+    "vatcode": "LT100017496914"
   },
   {
     "name": "UAB \"Ak, idėja\"",
@@ -510,11 +506,6 @@
     "address": "Druskininkai, M. K. Čiurlionio g. 103, LT-66161"
   },
   {
-    "name": "UAB \"Vija idėja\"",
-    "code": "300539196",
-    "address": "Šiauliai, Trakų g. 22-21, LT-76288"
-  },
-  {
     "name": "UAB \"Švaros idėja\"",
     "code": "300644368",
     "address": "Vilnius, Naujanerių Sodų 4-oji g. 17, LT-14283"
@@ -732,11 +723,6 @@
     "address": "Vilnius, Konstitucijos pr. 15-222, LT-09319"
   },
   {
-    "name": "Labdaros ir paramos fondas \"Šviesios idėjos\"",
-    "code": "301654536",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "MB \"1337 idėjos\"",
     "code": "303144820",
     "address": "Vilnius, Pušų g. 36-6, LT-08116"
@@ -795,11 +781,6 @@
     "address": "Vilnius, Kryžiokų Sodų 9-oji g. 27, LT-08445"
   },
   {
-    "name": "MB \"Elektroninio verslo idėjos\"",
-    "code": "303100749",
-    "address": "Šiauliai, Gegužių g. 67-21, LT-78333"
-  },
-  {
     "name": "MB \"Elijaus idėjos\"",
     "code": "304433518",
     "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Unguros g. 16-2, LT-92337"
@@ -809,12 +790,6 @@
     "code": "304431353",
     "address": "Vilnius, Justiniškių g. 76-14, LT-05233",
     "vatcode": "LT100014079317"
-  },
-  {
-    "name": "MB \"Gyvos idėjos\"",
-    "code": "303549904",
-    "address": "Vilnius, Minties g. 8A-20, LT-09225",
-    "vatcode": "LT100010620010"
   },
   {
     "name": "MB \"Gėlių idėjos\"",
@@ -885,12 +860,6 @@
     "code": "304765926",
     "address": "Klaipėdos r. sav., Sendvario sen., Klipščių k., Ąžuolynės g. 17A, LT-92339",
     "vatcode": "LT100011456418"
-  },
-  {
-    "name": "MB \"Magiškos idėjos\"",
-    "code": "304846513",
-    "address": "Utena, Kovo 11-osios g. 30, LT-28138",
-    "vatcode": "LT100013978613"
   },
   {
     "name": "MB \"Mano idėjos\"",
@@ -994,11 +963,6 @@
     "address": "Kauno r. sav., Babtų sen., Muniškių k., Saulėtekio g. 17, LT-54337"
   },
   {
-    "name": "MB Būsto idėjos",
-    "code": "306291633",
-    "address": "Klaipėda, Budelkiemio g. 21-56, LT-95242"
-  },
-  {
     "name": "MB Devynios idėjos",
     "code": "305950080",
     "address": "Klaipėdos r. sav., Sendvario sen., Lelių k., Vėjo g. 26, LT-91300",
@@ -1077,6 +1041,11 @@
     "address": "Kėdainių r. sav., Surviliškio sen., Sirutiškio k., Kruosto g. 2-7, LT-57116"
   },
   {
+    "name": "MB Leikų idėjos",
+    "code": "307062573",
+    "address": "Utena, Maironio g. 17-300, LT-28144"
+  },
+  {
     "name": "MB Neoninės idėjos",
     "code": "306621248",
     "address": "Vilnius, Pelesos g. 39-18, LT-02111"
@@ -1127,6 +1096,12 @@
     "name": "MB Žemaitis ir idėjos",
     "code": "306042895",
     "address": "Klaipėda, Sportininkų g. 12-17, LT-92257"
+  },
+  {
+    "name": "Magiškos idėjos decors, MB",
+    "code": "304846513",
+    "address": "Utena, Kovo 11-osios g. 30, LT-28138",
+    "vatcode": "LT100013978613"
   },
   {
     "name": "Moterų klubas \"Nuo idėjos iki rezultato\"",
@@ -1191,11 +1166,6 @@
     "vatcode": "LT100011468219"
   },
   {
-    "name": "UAB \"Draudimo idėjos\"",
-    "code": "304408600",
-    "address": "Vilnius, Gedimino pr. 20-35, LT-01103"
-  },
-  {
     "name": "UAB \"Elektros idėjos\"",
     "code": "302470820",
     "address": "Vilnius, Medeinos g. 7-81, LT-06141",
@@ -1209,7 +1179,7 @@
   {
     "name": "UAB \"Finansinės idėjos\"",
     "code": "302713980",
-    "address": "Vilnius, Perkūnkiemio g. 16-63, LT-12118",
+    "address": "Vilnius, Žaibo g. 3-21, LT-04126",
     "vatcode": "LT100006652511"
   },
   {
@@ -1247,6 +1217,12 @@
     "address": "Šiauliai, Gytarių g. 43-42, LT-78413"
   },
   {
+    "name": "UAB \"Gyvos idėjos\"",
+    "code": "303549904",
+    "address": "Vilnius, Minties g. 8A-20, LT-09225",
+    "vatcode": "LT100010620010"
+  },
+  {
     "name": "UAB \"IDĖJOS GRAFIKA\"",
     "code": "302329296",
     "address": "Vilnius, Lakūnų g. 12",
@@ -1257,11 +1233,6 @@
     "code": "300120159",
     "address": "Vilnius, S. Konarskio g. 28A-11, LT-03127",
     "vatcode": "LT100004928910"
-  },
-  {
-    "name": "UAB \"IT idėjos\"",
-    "code": "302870896",
-    "address": "Vilnius, Jonažolių g. 7-84, LT-04138"
   },
   {
     "name": "UAB \"Idėjos galia\"",
@@ -1419,7 +1390,7 @@
   {
     "name": "UAB \"NAUJOSIOS STATYBŲ IDĖJOS\"",
     "code": "242150930",
-    "address": "Klaipėda, Paryžiaus Komunos g. 25A, LT-91111",
+    "address": "Klaipėda, Liepų g. 48-1, LT-92107",
     "vatcode": "LT421509314"
   },
   {
@@ -1456,11 +1427,6 @@
     "code": "302678611",
     "address": "Kretinga, Mėguvos g. 26J K2, LT-97140",
     "vatcode": "LT100014973416"
-  },
-  {
-    "name": "UAB \"Pažangios idėjos\"",
-    "code": "302597433",
-    "address": "Kaunas, Tvirtovės al. 72-1, LT-50184"
   },
   {
     "name": "UAB \"Pramogų idėjos\"",
@@ -1632,6 +1598,11 @@
     "code": "302882514",
     "address": "Kauno r. sav., Domeikavos sen., Radikių k., Rytų g. 14, LT-54372",
     "vatcode": "LT100010441717"
+  },
+  {
+    "name": "UAB Naujamiesčio idėjos",
+    "code": "307079067",
+    "address": "Vilnius, Konstitucijos pr. 15-222, LT-09319"
   },
   {
     "name": "UAB Reaktyvinės idėjos",
@@ -1902,7 +1873,8 @@
   {
     "name": "MB \"1000 idėjų\"",
     "code": "305973691",
-    "address": "Kaunas, Raudondvario pl. 182, LT-47149"
+    "address": "Kaunas, Raudondvario pl. 182, LT-47149",
+    "vatcode": "LT100017495815"
   },
   {
     "name": "MB \"Baldų idėjų fabrikas\"",
@@ -2089,11 +2061,6 @@
     "address": "Klaipėda, Panevėžio g. 5-51, LT-92317"
   },
   {
-    "name": "UAB \"Gerų idėjų garderobas\"",
-    "code": "304742831",
-    "address": "Vilnius, Tverečiaus g. 8-20, LT-10216"
-  },
-  {
     "name": "UAB \"IDĖJŲ REALIZAVIMO GRUPĖ\"",
     "code": "300539431",
     "address": "Vilnius, Algirdo g. 7-1, LT-03161"
@@ -2173,11 +2140,6 @@
     "address": "Vilnius, A. Rotundo g. 4A-32, LT-01400"
   },
   {
-    "name": "UAB \"Idėjų prospektas\"",
-    "code": "303423880",
-    "address": "Vilniaus r. sav., Mickūnų sen., Paliuliškių k., Paliuliškių g. 42, LT-13100"
-  },
-  {
     "name": "UAB \"Idėjų pulsas\"",
     "code": "303200913",
     "address": "Klaipėda, Taikos pr. 24-13, LT-91222",
@@ -2197,8 +2159,7 @@
   {
     "name": "UAB \"Idėjų sauja\"",
     "code": "304920294",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103",
-    "vatcode": "LT100016893213"
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
   },
   {
     "name": "UAB \"Idėjų sodas\"",

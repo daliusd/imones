@@ -37,6 +37,11 @@
     "address": "Vilnius, Žygio g. 97-R2, LT-08236"
   },
   {
+    "name": "MB Donacap",
+    "code": "307056257",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
     "name": "MB Donadenta",
     "code": "306951356",
     "address": "Druskininkų sav., Viečiūnų sen., Neravų k., Jotvingių g. 4, LT-66401"
@@ -187,7 +192,8 @@
   {
     "name": "UAB Donate4.Fun",
     "code": "306172814",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100017452418"
   },
   {
     "name": "MB \"Donatechnika\"",
@@ -249,34 +255,9 @@
     "address": "Vilnius, Lvivo g. 89-11, LT-08104"
   },
   {
-    "name": "Donato Brikio įmonė",
-    "code": "145826163",
-    "address": "Šiauliai, Gegužių g. 45-517, LT-78326"
-  },
-  {
-    "name": "Donato Bubnio firma",
-    "code": "159991082",
-    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Kauno g. 61, LT-54467"
-  },
-  {
-    "name": "Donato Dubausko IĮ",
-    "code": "300006593",
-    "address": "Kelmės r. sav., Kelmės apylinkių sen., Kakoniškės k., Statybininkų g. 16, LT-86152"
-  },
-  {
-    "name": "Donato Janulaičio įmonė",
-    "code": "144946373",
-    "address": "Šiauliai, Putinų g. 10-58, LT-76209"
-  },
-  {
     "name": "Donato Katilausko individuali įmonė",
     "code": "134932069",
     "address": "Kaunas, J. Grušo g. 2-44, LT-48261"
-  },
-  {
-    "name": "Donato Kirkučio individuali įmonė",
-    "code": "156574315",
-    "address": "Jonava, Vilniaus g. 31-27, LT-55180"
   },
   {
     "name": "Donato MB",
@@ -292,11 +273,6 @@
     "name": "Donato Miliaus individuali įmonė",
     "code": "300150273",
     "address": "Vilnius, Gelvonų g. 59-17, LT-07135"
-  },
-  {
-    "name": "Donato Naigerio individuali įmonė",
-    "code": "302312076",
-    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "Donato Paipolo IĮ",
@@ -327,16 +303,6 @@
     "name": "Donato Skulskio įmonė",
     "code": "145629372",
     "address": "Šiauliai, J. Basanavičiaus g. 16A, LT-76234"
-  },
-  {
-    "name": "Donato Sliosoro IĮ",
-    "code": "300045482",
-    "address": "Radviliškio r. sav., Skėmių sen., Girvalakių k. 5, LT-82349"
-  },
-  {
-    "name": "Donato Stankevičiaus komercijos firma",
-    "code": "151393670",
-    "address": "Marijampolė, R. Juknevičiaus g. 100-23, LT-68193"
   },
   {
     "name": "Donato Suchorukovo individuali įmonė",
@@ -477,11 +443,6 @@
     "name": "UAB \"Pas Donatą\"",
     "code": "300502739",
     "address": "Šilutė, Vydūno g. 9, LT-99169"
-  },
-  {
-    "name": "IĮ \"Donatėlis\"",
-    "code": "300010759",
-    "address": "Kauno r. sav., Domeikavos sen., Šakių k., Vandžiogalos pl. 51, LT-47413"
   },
   {
     "name": "UAB \"Donauto\"",

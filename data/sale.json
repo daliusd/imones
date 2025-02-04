@@ -17,7 +17,8 @@
   {
     "name": "MB Smart sale",
     "code": "306359671",
-    "address": "Vilnius, Žirmūnų g. 33-61, LT-09105"
+    "address": "Vilnius, Žirmūnų g. 33-61, LT-09105",
+    "vatcode": "LT100017483519"
   },
   {
     "name": "MB Trading sale",
@@ -42,11 +43,6 @@
     "address": "Kretingos rajono savivaldybės teritorija"
   },
   {
-    "name": "UAB \"Truck Sale LT\"",
-    "code": "302487570",
-    "address": "Vilnius, Žirmūnų g. 32B, LT-09228"
-  },
-  {
     "name": "UAB \"WIN sale\"",
     "code": "305672599",
     "address": "Kaunas, Aušros g. 20-34, LT-44172",
@@ -57,11 +53,6 @@
     "code": "306377609",
     "address": "Vilnius, Laisvės pr. 115A-50, LT-06119",
     "vatcode": "LT100016202716"
-  },
-  {
-    "name": "UAB \"SALEDA\"",
-    "code": "300657180",
-    "address": "Palanga, Bangų g. 10-22, LT-00148"
   },
   {
     "name": "Gyvenamųjų namų statybos ir eksploatacijos bendrija \"Saleks\"",
@@ -149,6 +140,11 @@
     "name": "UAB \"Salerma\"",
     "code": "304521402",
     "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+  },
+  {
+    "name": "\"Nm sales and coding solutions\" MB",
+    "code": "307078392",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "\"VENTMANN SALES\" UAB",
@@ -321,6 +317,11 @@
     "address": "Vilnius, Žaibo g. 1-2, LT-04126"
   },
   {
+    "name": "MB Sales Advice",
+    "code": "307080443",
+    "address": "Panevėžys, A. Mackevičiaus g. 23-9, LT-35159"
+  },
+  {
     "name": "MB Sales Performance International",
     "code": "306047860",
     "address": "Prienų r. sav., Balbieriškis, Klevų g. 25-22, LT-59243"
@@ -455,21 +456,20 @@
     "vatcode": "LT100014913715"
   },
   {
-    "name": "UAB \"Sales Management\"",
-    "code": "302423265",
-    "address": "Šiauliai, Pramonės g. 21-3, LT-78136"
-  },
-  {
     "name": "UAB \"Sales Results\"",
     "code": "302787297",
-    "address": "Vilnius, J. Galvydžio g. 5, LT-08236",
-    "vatcode": "LT100007121919"
+    "address": "Vilnius, J. Galvydžio g. 5, LT-08236"
   },
   {
     "name": "UAB \"Sales partners\"",
     "code": "300994614",
     "address": "Vilnius, Gedvydžių g. 3-32, LT-06312",
     "vatcode": "LT100003416112"
+  },
+  {
+    "name": "UAB \"Socratus sales\"",
+    "code": "307067474",
+    "address": "Vilnius, Lvivo g. 13-12, LT-09313"
   },
   {
     "name": "UAB \"Sparta sales\"",
@@ -481,11 +481,6 @@
     "name": "UAB \"Tiny Sales\"",
     "code": "304209897",
     "address": "Kaunas, Raudondvario pl. 91, LT-47184"
-  },
-  {
-    "name": "UAB Augmented Robotics Sales LT",
-    "code": "306083109",
-    "address": "Vilnius, Lvivo g. 81-65, LT-09306"
   },
   {
     "name": "UAB EK Sales",
@@ -507,7 +502,7 @@
   {
     "name": "UAB SameSystem Baltic Sales",
     "code": "304175982",
-    "address": "Vilnius, Didžioji g. 25, LT-01128"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "UAB Sustainable sales decisions",

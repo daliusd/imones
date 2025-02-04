@@ -1,5 +1,10 @@
 [
   {
+    "name": "MB Sveidė",
+    "code": "307081082",
+    "address": "Kaunas, Jotvingių g. 7-13, LT-48136"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Sveigos investicija\"",
     "code": "300121752",
     "address": "Kaunas, Islandijos pl. 131K, LT-49169"
@@ -38,7 +43,8 @@
   {
     "name": "MB \"Greita sveika\"",
     "code": "305195895",
-    "address": "Kaunas, Chemijos g. 9A-32, LT-51326"
+    "address": "Kaunas, Chemijos g. 9A-32, LT-51326",
+    "vatcode": "LT100017499010"
   },
   {
     "name": "MB \"Nesveikai sveika\"",
@@ -255,6 +261,11 @@
     "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Bendorėlių 1-oji al. 34, LT-14196"
   },
   {
+    "name": "MB Skaniai sveikai",
+    "code": "307057786",
+    "address": "Vilniaus r. sav., Zujūnų sen., Papiškių k., Jaunystės g. 12, LT-06292"
+  },
+  {
     "name": "UAB \"Gyvenu sveikai\"",
     "code": "300882622",
     "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Bendorėlių 1-oji al. 34, LT-14196",
@@ -385,8 +396,7 @@
   {
     "name": "UAB \"SVEIKAS\"",
     "code": "305049196",
-    "address": "Vilnius, Titnago g. 12, LT-02300",
-    "vatcode": "LT100012250119"
+    "address": "Vilnius, Titnago g. 12, LT-02300"
   },
   {
     "name": "UAB \"Sveikas augintinis\"",
@@ -609,11 +619,6 @@
     "address": "Vilniaus r. sav., Maišiagalos sen., Masionių vs., Gardenijų g. 1 K27-1, LT-14200"
   },
   {
-    "name": "UAB \"Harmonija ir Sveikata\"",
-    "code": "135674472",
-    "address": "Kaunas, Jonavos g. 162-517, LT-44135"
-  },
-  {
     "name": "UAB \"Jūsų sveikata\"",
     "code": "165839360",
     "address": "Kazlų Rūda, Maironio g. 20-1, LT-69404"
@@ -643,11 +648,6 @@
     "name": "UAB \"Pabiručių sveikata\"",
     "code": "304177047",
     "address": "Vilnius, Ramybės g. 4-70, LT-02103"
-  },
-  {
-    "name": "UAB \"Psichikos sveikata\"",
-    "code": "302840166",
-    "address": "Jonava, Chemikų g. 25-33, LT-55238"
   },
   {
     "name": "UAB \"Rytų sveikata\"",
@@ -707,11 +707,6 @@
     "name": "Vaistinė \"sveikata\", UAB",
     "code": "307029064",
     "address": "Vilnius, Bajorų Kelio 2-oji g. 5, LT-08427"
-  },
-  {
-    "name": "Viešoji įstaiga \"Mobilumas ir sveikata\"",
-    "code": "124242550",
-    "address": "Vilniaus m. sav., Grigiškių m., Vilniaus g. 61-18, LT-27113"
   },
   {
     "name": "Viešoji įstaiga \"Veiveriečių sveikata\"",
@@ -779,11 +774,6 @@
     "name": "UAB \"Moterų sveikatai\"",
     "code": "306372761",
     "address": "Kaunas, E. Ožeškienės g. 16-1, LT-44254"
-  },
-  {
-    "name": "UAB \"Viskas sveikatai\"",
-    "code": "133780765",
-    "address": "Kaunas, Medvėgalio g. 23-72, LT-44451"
   },
   {
     "name": "VšĮ \"Psichologija sveikatai ir verslui\"",
@@ -1086,6 +1076,11 @@
     "address": "Marijampolė, Kęstučio g. 9-1, LT-68308"
   },
   {
+    "name": "Sporto ir sveikatingumo klubas \"Sporto banga\"",
+    "code": "307081050",
+    "address": "Šiauliai, Dobilo g. 6A, LT-76208"
+  },
+  {
     "name": "Sporto ir sveikatingumo klubas \"Veiva\"",
     "code": "305072355",
     "address": "Prienų r. sav., Veiveriai, Kaštonų g. 35, LT-59290"
@@ -1098,7 +1093,7 @@
   {
     "name": "Sveikatingumo ir sporto klubas \"DRAUGYSTĖ\"",
     "code": "193093918",
-    "address": "Elektrėnai, Trakų g. 4-2, LT-26118"
+    "address": "Elektrėnai, Slėnio g. 3, LT-26128"
   },
   {
     "name": "Sveikatingumo ir sporto klubas \"Švenčionėliai\"",
@@ -1139,16 +1134,6 @@
     "name": "UAB \"Grožio ir sveikatingumo grupė\"",
     "code": "304744280",
     "address": "Vilnius, Veiverių g. 9B-62, LT-11346"
-  },
-  {
-    "name": "UAB \"SVEIKATINGUMO KRYPTIS\"",
-    "code": "125952126",
-    "address": "Vilnius, Karklėnų g. 5, LT-11223"
-  },
-  {
-    "name": "UAB \"Sveikatingumo ir sporto inovacijos\"",
-    "code": "304867938",
-    "address": "Kaunas, Partizanų g. 44-15, LT-49471"
   },
   {
     "name": "UAB \"Sveikatingumo turizmas\"",
@@ -1324,6 +1309,11 @@
     "address": "Šiauliai, Architektų g. 52-8, LT-78234"
   },
   {
+    "name": "VšĮ Sveikatingumo studija Vikmeka",
+    "code": "307083521",
+    "address": "Marijampolė, R. Juknevičiaus g. 108-26, LT-68194"
+  },
+  {
     "name": "VšĮ Visuomenės sveikatingumo, grožio ir harmonijos centras",
     "code": "304057838",
     "address": "Kaunas, Birštono g. 12-4, LT-44288"
@@ -1363,11 +1353,6 @@
     "code": "305645367",
     "address": "Plungės r. sav., Babrungo sen., Babrungo k., Vienkiemio g. 1, LT-90108",
     "vatcode": "LT100014056217"
-  },
-  {
-    "name": "Druskininkų kurorto sveikatinimo įstaigų asociacija",
-    "code": "152173531",
-    "address": "Druskininkai, Gardino g. 3, LT-66204"
   },
   {
     "name": "Gabrieliaus sveikatinimo labdaros ir paramos fondas",
@@ -2030,11 +2015,6 @@
     "address": "Vilnius, Smolensko g. 37-63, LT-03201"
   },
   {
-    "name": "MB \"Sveikatos dialogas\"",
-    "code": "304638245",
-    "address": "Šiauliai, Dainų g. 27-23, LT-78278"
-  },
-  {
     "name": "MB \"Sveikatos gama\"",
     "code": "303365103",
     "address": "Kauno r. sav., Garliava, Stasio Lozoraičio g. 4-33, LT-53237"
@@ -2160,7 +2140,7 @@
   {
     "name": "MB Sveikatos priežiūros akademija",
     "code": "307012086",
-    "address": "Vilnius, Aguonų g. 6, LT-03213"
+    "address": "Vilnius, Aguonų g. 6-10, LT-03213"
   },
   {
     "name": "MB Sveikatos produktai",
@@ -2209,11 +2189,6 @@
     "name": "Mažoji bendrija Sveikatos deimantas",
     "code": "305919626",
     "address": "Klaipėda, Girulių pl. 15B-1, LT-92282"
-  },
-  {
-    "name": "Mažoji bendrija Sveikatos inovacijos",
-    "code": "305656050",
-    "address": "Plungės r. sav., Platelių sen., Visvainių k., Miškų g. 17, LT-90423"
   },
   {
     "name": "Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos darbuotojų profesinė sąjunga",
@@ -2401,11 +2376,6 @@
     "address": "Vilnius, Santariškių g. 7, LT-08406"
   },
   {
-    "name": "Savivaldybių bendruomenių sveikatos tarybų asociacija",
-    "code": "300650385",
-    "address": "Šiauliai, Pakalnės g. 6A, LT-76293"
-  },
-  {
     "name": "Savivaldybių visuomenės sveikatos biurų asociacija",
     "code": "302444448",
     "address": "Gargždai, Klaipėdos g. 11, LT-96135"
@@ -2414,11 +2384,6 @@
     "name": "Savivaldybės bendruomenės sveikatos taryba",
     "code": "193196957",
     "address": "Naujoji Akmenė, L. Petravičiaus a. 2, LT-85132"
-  },
-  {
-    "name": "Senjorų socialinės globos namų sveikatos apsaugos darbuotojų profesinė sąjunga",
-    "code": "304581292",
-    "address": "Vilnius, Kalvarijų g. 323, LT-08315"
   },
   {
     "name": "Skuodo pirminės sveikatos priežiūros centras",
@@ -2775,11 +2740,6 @@
     "address": "Visaginas, Tarybų g. 6-32, LT-31136"
   },
   {
-    "name": "UAB Skuodo psichikos sveikatos ir psichoterapijos centras",
-    "code": "300890640",
-    "address": "Skuodas, Vytauto g. 8-35, LT-98123"
-  },
-  {
     "name": "UAB Sveikatos bankas",
     "code": "306999625",
     "address": "Raseinių r. sav., Ariogala, Plento g. 25, LT-60249"
@@ -2795,11 +2755,6 @@
     "code": "300525595",
     "address": "Plungė, Telšių g. 13, LT-90162",
     "vatcode": "LT100002245319"
-  },
-  {
-    "name": "UAB Sveikatos ir grožio turizmo centras",
-    "code": "304153174",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
   },
   {
     "name": "UAB Sveikatos srautas",
@@ -3064,11 +3019,6 @@
     "address": "Kaunas, Užliedžių g. 3, LT-47262"
   },
   {
-    "name": "Viešoji įstaiga \"SVEIKATOS KELIAS\"",
-    "code": "300657287",
-    "address": "Alytus, Jazminų g. 50-6, LT-63189"
-  },
-  {
     "name": "Viešoji įstaiga \"SVEIKATOS OAZĖ\"",
     "code": "254319060",
     "address": "Anykščiai, Ažupiečių g. 1A, LT-29148",
@@ -3167,11 +3117,6 @@
     "name": "Viešoji įstaiga Elektrėnų savivaldybės sveikatos centras",
     "code": "181527132",
     "address": "Elektrėnai, Taikos g. 6, LT-26115"
-  },
-  {
-    "name": "Viešoji įstaiga Eržvilko pirminės sveikatos priežiūros centras",
-    "code": "158326471",
-    "address": "Jurbarko r. sav., Eržvilkas, Piliakalnio g. 2, LT-74285"
   },
   {
     "name": "Viešoji įstaiga Garliavos pirminės sveikatos priežiūros centras",
@@ -3447,11 +3392,6 @@
     "address": "Vilkaviškis, P. Jašinsko g. 5, LT-70103"
   },
   {
-    "name": "Viešoji įstaiga Vilniaus apskrities sveikatos projekto koordinavimo biuras",
-    "code": "125603480",
-    "address": "Vilnius, Gedimino pr. 14, LT-01103"
-  },
-  {
     "name": "Viešoji įstaiga Vilniaus miesto psichikos sveikatos centras",
     "code": "224244940",
     "address": "Vilnius, Vasaros g. 5, LT-10309",
@@ -3713,11 +3653,6 @@
     "address": "Kaunas, Šiaurės pr. 38-42, LT-49224"
   },
   {
-    "name": "VšĮ \"SVEIKATOS ŠAUKLYS\"",
-    "code": "300589982",
-    "address": "Vilnius, Vokiečių g. 10-18, LT-01130"
-  },
-  {
     "name": "VšĮ \"Sveikatos balansas\"",
     "code": "304430739",
     "address": "Vilnius, Kęstučio g. 7-12, LT-08118"
@@ -3823,11 +3758,6 @@
     "address": "Vilnius, Antakalnio g. 51-29, LT-10325"
   },
   {
-    "name": "VšĮ Sedos pirminės sveikatos priežiūros centro darbuotojų profesinė sąjunga",
-    "code": "167336977",
-    "address": "Mažeikių r. sav., Seda, J. Basanavičiaus g. 8, LT-89380"
-  },
-  {
     "name": "VšĮ Sveikatos centras \"Amžinoji sandora\"",
     "code": "302326186",
     "address": "Kaunas, Partizanų g. 38E-12, LT-49489"
@@ -3846,6 +3776,11 @@
     "name": "VšĮ Sveikatos puoselėjimo akademija",
     "code": "304855512",
     "address": "Vilnius, Taikos g. 93-58, LT-05200"
+  },
+  {
+    "name": "VšĮ Sveikatos rekreacija",
+    "code": "307055251",
+    "address": "Panevėžio r. sav., Miežiškių sen., Biliūnų k., Kurganavos g. 18, LT-38103"
   },
   {
     "name": "VšĮ Ukmergės ligoninės sveikatos apsaugos darbuotojų profesinė sąjunga",
@@ -4042,11 +3977,6 @@
     "vatcode": "LT100013032113"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"SVEIKI\"",
-    "code": "122759079",
-    "address": "Vilnius, Šiltnamių g. 29, LT-04130"
-  },
-  {
     "name": "VšĮ \"Sveiki ir laimingi\"",
     "code": "304718360",
     "address": "Kaunas, A. Janulaičio g. 7, LT-47240"
@@ -4124,6 +4054,11 @@
     "address": "Alytus, Užuolankos g. 24A-9, LT-62111"
   },
   {
+    "name": "MB Sveiko grožio pasaulis",
+    "code": "307066283",
+    "address": "Panevėžys, Smėlynės g. 17-1, LT-35144"
+  },
+  {
     "name": "MB Sveiko gyvenimo papildai",
     "code": "306650082",
     "address": "Šiauliai, J. Šliūpo g. 30D, LT-76192"
@@ -4140,6 +4075,11 @@
     "vatcode": "LT100015573416"
   },
   {
+    "name": "Sveiko judesio klinika \"Motus\" MB",
+    "code": "307083140",
+    "address": "Kaunas, Vaišvydo g. 36-2, LT-45486"
+  },
+  {
     "name": "Sveiko judesio studija \"Motus\", VšĮ",
     "code": "305015913",
     "address": "Kauno miesto savivaldybės teritorija"
@@ -4149,11 +4089,6 @@
     "code": "302485007",
     "address": "Kaunas, Savanorių pr. 166, LT-44149",
     "vatcode": "LT100016115913"
-  },
-  {
-    "name": "Viešoji įstaiga Sveiko miesto institutas",
-    "code": "234959640",
-    "address": "Kaunas, A. Purėno g. 15, LT-51370"
   },
   {
     "name": "MB \"Sveikoda\"",
@@ -4221,6 +4156,11 @@
     "code": "306782486",
     "address": "Kėdainių r. sav., Kėdainių miesto sen., Daumantų k., Rapsų g. 35, LT-57118",
     "vatcode": "LT100017007417"
+  },
+  {
+    "name": "MB \"Sveikos odos ABC\"",
+    "code": "307081164",
+    "address": "Kaunas, Dovinės g. 12, LT-47197"
   },
   {
     "name": "MB \"Sveikos odos formulė\"",
@@ -4311,6 +4251,11 @@
     "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Šiltnamių g. 8-66, LT-14113"
   },
   {
+    "name": "UAB Sveikos moterys",
+    "code": "307055290",
+    "address": "Kaunas, E. Ožeškienės g. 16-1, LT-44254"
+  },
+  {
     "name": "VšĮ Sveikos gyvensenos akademija",
     "code": "302841688",
     "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Forto g. 42-2, LT-53363",
@@ -4355,11 +4300,6 @@
     "name": "Elektrėnų sveikuolių klubas",
     "code": "181369725",
     "address": "Elektrėnai, Taikos g. 9-2, LT-26105"
-  },
-  {
-    "name": "IĮ Neringos sveikuolių vaistinė",
-    "code": "152774717",
-    "address": "Neringa, L. Rėzos g. 54, LT-93101"
   },
   {
     "name": "Kazlų Rūdos sveikuolių klubas ATGAJA",

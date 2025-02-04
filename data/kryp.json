@@ -53,6 +53,16 @@
     "address": "Palanga, Jūros g. 9A, LT-00333"
   },
   {
+    "name": "Logistikos kryptis, MB",
+    "code": "307062598",
+    "address": "Panevėžio r. sav., Panevėžio sen., Vaivadų k., Ajerų skg. 8, LT-38446"
+  },
+  {
+    "name": "MB \"Augimo kryptis\"",
+    "code": "307066027",
+    "address": "Vilnius, Aukštaičių g. 8A-18, LT-11341"
+  },
+  {
     "name": "MB \"Derama kryptis\"",
     "code": "305864852",
     "address": "Kaunas, Laisvės al. 110, LT-44253"
@@ -61,11 +71,6 @@
     "name": "MB \"Inovacijų kryptis\"",
     "code": "305164049",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "MB \"Patikima kryptis\"",
-    "code": "303352668",
-    "address": "Klaipėdos r. sav., Priekulės sen., Žiaukų k., Gebenių tak. 2, LT-96353"
   },
   {
     "name": "MB \"Stiliaus kryptis\"",
@@ -184,11 +189,6 @@
     "vatcode": "LT240513219"
   },
   {
-    "name": "UAB \"SVEIKATINGUMO KRYPTIS\"",
-    "code": "125952126",
-    "address": "Vilnius, Karklėnų g. 5, LT-11223"
-  },
-  {
     "name": "UAB \"Sava kryptis\"",
     "code": "135979082",
     "address": "Kaunas, A. Smetonos al. 73-2",
@@ -214,11 +214,6 @@
     "name": "UAB \"Tikslinga kryptis\"",
     "code": "136034849",
     "address": "Kaunas, S. Dariaus ir S. Girėno g. 39-1"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos kryptis\"",
-    "code": "125951177",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
   },
   {
     "name": "UAB \"Vėjo kryptis\"",
@@ -314,6 +309,11 @@
     "vatcode": "LT100009024615"
   },
   {
+    "name": "MB \"Visos kryptys\"",
+    "code": "307074344",
+    "address": "Radviliškis, Gedimino g. 7A-30, LT-82174"
+  },
+  {
     "name": "MB \"Vėjo kryptys sbs\"",
     "code": "306250768",
     "address": "Vilnius, Medeinos g. 1-64, LT-06142"
@@ -340,16 +340,6 @@
     "code": "300095204",
     "address": "Vilnius, Vaduvos g. 38-4, LT-02309",
     "vatcode": "LT100001810410"
-  },
-  {
-    "name": "UAB \"Kelio kryptys\"",
-    "code": "304222033",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
-  },
-  {
-    "name": "UAB \"PASLAUGŲ KRYPTYS\"",
-    "code": "300660803",
-    "address": "Vilnius, Šv. Stepono g. 14-1, LT-01138"
   },
   {
     "name": "UAB Gerbūvio kryptys",

@@ -110,6 +110,11 @@
     "vatcode": "LT100013184516"
   },
   {
+    "name": "MB \"Jack Shipping Line\"",
+    "code": "307077739",
+    "address": "Vilnius, Girulių g. 5, LT-12124"
+  },
+  {
     "name": "MB \"Media line\"",
     "code": "305783681",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -152,7 +157,7 @@
   {
     "name": "MB \"X&Y line\"",
     "code": "305567623",
-    "address": "Klaipėdos r. sav., Dovilų sen., Kulių k., Gėlių 1-oji g. 2, LT-95406"
+    "address": "Klaipėdos rajono savivaldybės teritorija"
   },
   {
     "name": "MB Anvari family line",
@@ -199,6 +204,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB OD Line",
+    "code": "307070584",
+    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Lazdynų g. 27, LT-13268"
+  },
+  {
     "name": "MB Outlet Line",
     "code": "305598120",
     "address": "Visaginas, Taikos pr. 34-21, LT-31113"
@@ -217,11 +227,6 @@
     "name": "OU \"Great Line\" filialas",
     "code": "302764544",
     "address": "Vilnius, A. Gustaičio g. 23-60, LT-02189"
-  },
-  {
-    "name": "Rest Line, UAB",
-    "code": "302922108",
-    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "Ro Line LT, MB",
@@ -418,11 +423,6 @@
     "code": "304811583",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
     "vatcode": "LT100011566512"
-  },
-  {
-    "name": "UAB \"MMG Line\"",
-    "code": "302814837",
-    "address": "Kauno miesto savivaldybės teritorija"
   },
   {
     "name": "UAB \"Maersk Line Lithuania\"",
@@ -853,11 +853,6 @@
     "vatcode": "LT100009116217"
   },
   {
-    "name": "Agroserviso kooperatyvas \"Tabariškių linelis\"",
-    "code": "259957960",
-    "address": "Kauno r. sav., Ringaudų sen., Tabariškių k."
-  },
-  {
     "name": "Antano Ramono privati įmonė \"Linelis\"",
     "code": "166401322",
     "address": "Mažeikiai, Jautakių g. 30, LT-89142"
@@ -1062,6 +1057,11 @@
     "vatcode": "LT100011424117"
   },
   {
+    "name": "MB \"Lineris\"",
+    "code": "307071992",
+    "address": "Biržai, Žalioji g. 4A, LT-41132"
+  },
+  {
     "name": "MB Linerli",
     "code": "306992125",
     "address": "Šilutės r. sav., Šilutės sen., Laučių k., Ąžuolų g. 12, LT-99154",
@@ -1137,11 +1137,6 @@
     "name": "UAB \"North Lines\"",
     "code": "306621846",
     "address": "Vilnius, J. Basanavičiaus g. 26, LT-03224"
-  },
-  {
-    "name": "UAB \"PP LINES\"",
-    "code": "302645700",
-    "address": "Vilnius, Kalvarijų g. 98, LT-08211"
   },
   {
     "name": "UAB \"Royal Lines\"",

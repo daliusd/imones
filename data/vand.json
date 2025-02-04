@@ -27,11 +27,6 @@
     "address": "Kaunas, Europos pr. 122, LT-46351"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"VANDEINA\"",
-    "code": "148078497",
-    "address": "Panevėžys, M. Daukšos g. 2-1"
-  },
-  {
     "name": "MB \"Vandekas\"",
     "code": "302876874",
     "address": "Klaipėda, Svajonės g. 21, LT-94101",
@@ -399,7 +394,8 @@
   {
     "name": "MB \"Vandens žvalgyba\"",
     "code": "305634424",
-    "address": "Šilutės r. sav., Šilutės sen., Mažių k., Vytauto Kamanto g. 42, LT-99155"
+    "address": "Šilutės r. sav., Šilutės sen., Mažių k., Vytauto Kamanto g. 42, LT-99155",
+    "vatcode": "LT100017440010"
   },
   {
     "name": "MB \"Virš vandens\"",
@@ -657,16 +653,6 @@
     "code": "165741464",
     "address": "Marijampolės sav., Sasnavos sen., Gavaltuvos k.",
     "vatcode": "LT657414610"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Vandens vartai\"",
-    "code": "151481483",
-    "address": "Marijampolė, Draugystės g. 25-35, LT-68239"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Vandens ženklai\"",
-    "code": "173110363",
-    "address": "Rokiškis, Nepriklausomybės a. 13-2, LT-42115"
   },
   {
     "name": "Uždaroji akcinė bendrovė KF VANDENS TECHNOLOGIJŲ CENTRAS",
@@ -966,8 +952,7 @@
   {
     "name": "UAB \"Vandentiekio projektai\"",
     "code": "304137056",
-    "address": "Kaišiadorių r. sav., Kruonio sen., Morkūnų k., Trumpoji g. 19, LT-56313",
-    "vatcode": "LT100010722810"
+    "address": "Kaišiadorių r. sav., Kruonio sen., Morkūnų k., Trumpoji g. 19, LT-56313"
   },
   {
     "name": "Vandentiekio tinklų savininkų bendrija \"Maleckažemis\"",
@@ -1210,11 +1195,6 @@
     "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Švyturio g. 2A, LT-97179"
   },
   {
-    "name": "UAB \"Kristalo vandenys\"",
-    "code": "302695518",
-    "address": "Raseinių r. sav., Betygalos sen., Darbutų k. 2, LT-60205"
-  },
-  {
     "name": "UAB \"Krištoliniai vandenys\"",
     "code": "300020002",
     "address": "Kaunas, Žeimenos g. 81, LT-50111",
@@ -1413,11 +1393,6 @@
     "vatcode": "LT664861113"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Natūralūs vandenys\"",
-    "code": "135224087",
-    "address": "Kaunas, T. Masiulio g. 18, LT-52459"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"PALANGOS VANDENYS\"",
     "code": "152447391",
     "address": "Palanga, Austėjos g. 36, LT-00163",
@@ -1553,11 +1528,6 @@
     "address": "Marijampolė, Vasaros g. 7, LT-68114"
   },
   {
-    "name": "Viešoji įstaiga \"Matlaukio vandenys\"",
-    "code": "185609267",
-    "address": "Vilkaviškio r. sav., Kybartų sen., Matlaukio k."
-  },
-  {
     "name": "UAB \"Vandenė\"",
     "code": "302558430",
     "address": "Jonavos r. sav., Dumsių sen., Meškonių k., Pramonės g. 24, LT-55196",
@@ -1635,11 +1605,6 @@
     "name": "MB \"Vandis\"",
     "code": "304897664",
     "address": "Molėtų r. sav., Balninkų sen., Girsteitiškio k., Molėtų g. 31, LT-33148"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Vandlita\"",
-    "code": "164603122",
-    "address": "Kretingos r. sav., Kretingos sen., Vydmantų k., Verslininkų g."
   },
   {
     "name": "Uždaroji akcinė bendrovė \"VANDORA\"",
@@ -1732,11 +1697,6 @@
     "vatcode": "LT100016570518"
   },
   {
-    "name": "\"Muilas vanduo burbulai\", MB",
-    "code": "306270646",
-    "address": "Klaipėda, Taikos pr. 34-90, LT-91219"
-  },
-  {
     "name": "AB \"KLAIPĖDOS VANDUO\" PROFESINĖ SĄJUNGA",
     "code": "141763872",
     "address": "Klaipėda, Ryšininkų g. 11, LT-91116"
@@ -1756,11 +1716,6 @@
     "name": "IĮ \"Gręžinio vanduo\"",
     "code": "304282016",
     "address": "Gargždai, Pušų g. 11, LT-96139"
-  },
-  {
-    "name": "IĮ \"Juodas Vanduo\"",
-    "code": "302528818",
-    "address": "Marijampolės sav., Liudvinavo sen., Armoniškių k., Srovės g. 12, LT-69194"
   },
   {
     "name": "Lietuvos žemės ūkio darbuotojų profesinių sąjungų federacijos Radviliškio rajono komiteto SP UAB \"Radviliškio vanduo\" profesinės sąjungos komitetas",
@@ -1794,6 +1749,11 @@
     "name": "MB \"Vanduo clothing\"",
     "code": "305732441",
     "address": "Vilniaus miesto savivaldybės teritorija"
+  },
+  {
+    "name": "MB \"aquaSpin vanduo\"",
+    "code": "307070449",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
   },
   {
     "name": "MB Liuks vanduo",
@@ -1962,11 +1922,6 @@
     "address": "Rietavas, Plungės g. 49, LT-90313"
   },
   {
-    "name": "VšĮ \"Gyvasis vanduo\"",
-    "code": "300570512",
-    "address": "Kaunas, Šarkuvos g. 14-4, LT-48173"
-  },
-  {
     "name": "VšĮ \"Krištolinis vanduo\"",
     "code": "301694235",
     "address": "Vilnius, Gvazdikų Sodų 2-oji g. 9, LT-10106"
@@ -1996,6 +1951,11 @@
     "code": "302635026",
     "address": "Kauno r. sav., Ringaudų sen., Mitkūnų k., Vakaro g. 12, LT-53457",
     "vatcode": "LT100006224712"
+  },
+  {
+    "name": "MB \"Vandveda\"",
+    "code": "307075492",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "Asociacija Vandžiogalos bendruomenė",

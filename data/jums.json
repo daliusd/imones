@@ -87,11 +87,6 @@
     "address": "Kaunas, Įkalnės aklg. 4-6, LT-47163"
   },
   {
-    "name": "MB \"Automobilis Jums\"",
-    "code": "303328005",
-    "address": "Kaunas, Plento g. 26-47, LT-45400"
-  },
-  {
     "name": "MB \"Automobilių nuoma Jums\"",
     "code": "304830142",
     "address": "Kaunas, Rotušės a. 3A-1, LT-44280"
@@ -149,11 +144,6 @@
     "address": "Kaunas, Seniavos pl. 78-5, LT-46315"
   },
   {
-    "name": "MB \"Nuoma Jums\"",
-    "code": "305135318",
-    "address": "Vilnius, A. Juozapavičiaus g. 28-22, LT-09311"
-  },
-  {
     "name": "MB \"Oras jums\"",
     "code": "304980334",
     "address": "Klaipėdos r. sav., Priekulės sen., Derceklių k., Avietyno g. 1, LT-96377",
@@ -175,11 +165,6 @@
     "name": "MB \"Profesionalai jums\"",
     "code": "305932100",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
-  },
-  {
-    "name": "MB \"Servisas jums\"",
-    "code": "304268447",
-    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "MB \"Spalvos Jums\"",
@@ -251,7 +236,8 @@
   {
     "name": "MB \"Ūkininkai Jums\"",
     "code": "307047984",
-    "address": "Raseinių r. sav., Viduklės sen., Šienlaukio k., Raseinių g. 2, LT-60405"
+    "address": "Raseinių r. sav., Viduklės sen., Šienlaukio k., Raseinių g. 2, LT-60405",
+    "vatcode": "LT100017492215"
   },
   {
     "name": "MB A&G Nauda Jums",
@@ -343,11 +329,6 @@
     "name": "Mažoji bendrija \"Svetainė Jums\"",
     "code": "304310711",
     "address": "Šiauliai, Trakų g. 8-205, LT-76284"
-  },
-  {
-    "name": "R. Šinkūno įmonė \"Jums\"",
-    "code": "187848846",
-    "address": "Zarasų r. sav., Dusetos, Vytauto g. 17, LT-32309"
   },
   {
     "name": "Stalai jums, MB",
@@ -578,11 +559,6 @@
     "vatcode": "LT100012458510"
   },
   {
-    "name": "UAB \"ŠVARA JUMS\"",
-    "code": "121784873",
-    "address": "Vilnius, Pušų g. 19-6, LT-08120"
-  },
-  {
     "name": "UAB \"Šildymas jums\"",
     "code": "303297677",
     "address": "Klaipėda, Žolynų g. 41-22, LT-92325",
@@ -616,11 +592,6 @@
     "name": "UAB Geodezija jums",
     "code": "305777212",
     "address": "Kaunas, Ašigalio g. 31-17, LT-49150"
-  },
-  {
-    "name": "UAB Grožio salonas \"JUMS\"",
-    "code": "145304731",
-    "address": "Šiauliai, Vytauto g. 261-2A, LT-77181"
   },
   {
     "name": "UAB Jums leidus",
@@ -675,19 +646,9 @@
     "vatcode": "LT100011422312"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"TIK JUMS\"",
-    "code": "220775160",
-    "address": "Vilnius, Pamėnkalnio g. 21-28, LT-01114"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"UŽUOVĖJA JUMS\"",
     "code": "220754180",
     "address": "Vilnius, Bernardinų g. 8, LT-01124"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Vien tik jums\"",
-    "code": "133657638",
-    "address": "Kaunas, Ašigalio g. 49A-5, LT-49145"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Šventė jums\"",
@@ -705,11 +666,6 @@
     "name": "Valentinos Krochmal firma \"Įrankiai Jums\"",
     "code": "123358534",
     "address": "Vilnius, Sausio 13-osios g. 33-106, LT-04348"
-  },
-  {
-    "name": "Viešoji įstaiga \"Rūbai Jums\"",
-    "code": "302702592",
-    "address": "Zarasai, Palaukės g. 32, LT-32114"
   },
   {
     "name": "Viešoji įstaiga \"Tenisas Jums\"",

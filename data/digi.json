@@ -40,7 +40,7 @@
   {
     "name": "UAB \"Digibitas\"",
     "code": "304529915",
-    "address": "Vilnius, Polocko g. 46-19, LT-01205"
+    "address": "Vilnius, Kęstučio g. 25-1, LT-08121"
   },
   {
     "name": "DigiBlaze UAB",
@@ -202,11 +202,6 @@
     "name": "Mažoji bendrija Digingas",
     "code": "306993661",
     "address": "Kelmės r. sav., Kražiai, Ežero g. 14, LT-86284"
-  },
-  {
-    "name": "UAB \"N&D Digings\"",
-    "code": "305916053",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
   },
   {
     "name": "UAB Diginord",
@@ -394,6 +389,11 @@
     "address": "Šilutės r. sav., Švėkšna, Vilkėno g. 25, LT-99384"
   },
   {
+    "name": "Darius Digital, MB",
+    "code": "307078289",
+    "address": "Kauno r. sav., Babtai, Šiltnamių g. 6, LT-54334"
+  },
+  {
     "name": "Darna Digital, MB",
     "code": "306638710",
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
@@ -428,11 +428,6 @@
     "name": "Digital Ledger Technologies UAB",
     "code": "305812268",
     "address": "Vilnius, Upės g. 21-1, LT-08128"
-  },
-  {
-    "name": "Digital Ledger UAB",
-    "code": "306064856",
-    "address": "Vilnius, Konstitucijos pr. 21B, LT-08105"
   },
   {
     "name": "Digital Loyalty Cards MB",
@@ -495,7 +490,8 @@
   {
     "name": "Dm digital solutions, MB",
     "code": "306968028",
-    "address": "Vilnius, Virginijaus Druskio g. 10-203, LT-04304"
+    "address": "Vilnius, Virginijaus Druskio g. 10-203, LT-04304",
+    "vatcode": "LT100017437515"
   },
   {
     "name": "FCG Digital Asset UAB",
@@ -741,6 +737,11 @@
     "address": "Kaunas, Laisvės al. 110, LT-44253"
   },
   {
+    "name": "MB Dexon Digital",
+    "code": "307061717",
+    "address": "Vilnius, Spaudos g. 9-22, LT-05132"
+  },
+  {
     "name": "MB Digital Alchemy",
     "code": "305532412",
     "address": "Vilnius, S. Stanevičiaus g. 42A, LT-07125",
@@ -874,6 +875,11 @@
     "address": "Marijampolė, Vasaros g. 48A-6, LT-68111"
   },
   {
+    "name": "MB Digital trade",
+    "code": "307071914",
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
+  },
+  {
     "name": "MB Doughty digital",
     "code": "306659957",
     "address": "Vilnius, Parko g. 7-11, LT-11203",
@@ -904,11 +910,6 @@
     "name": "MB Mochi Digital",
     "code": "305475203",
     "address": "Klaipėda, Medelyno g. 30-1, LT-92335"
-  },
-  {
-    "name": "MB Oaki digital",
-    "code": "305094444",
-    "address": "Kaišiadorių r. sav., Rumšiškės, Marių g. 52, LT-56337"
   },
   {
     "name": "MB Omi digital",
@@ -959,6 +960,11 @@
     "vatcode": "LT100016242614"
   },
   {
+    "name": "Omex Digital UAB",
+    "code": "307071120",
+    "address": "Vilnius, Jurgio Baltrušaičio g. 11-124, LT-06145"
+  },
+  {
     "name": "PAYAPP DIGITAL, UAB",
     "code": "305397637",
     "address": "Vilnius, Upės g. 23, LT-08128",
@@ -993,7 +999,8 @@
   {
     "name": "Sooo Digital, MB",
     "code": "307004260",
-    "address": "Vilnius, Vidiškių g. 1, LT-14259"
+    "address": "Vilnius, Vidiškių g. 1, LT-14259",
+    "vatcode": "LT100017442410"
   },
   {
     "name": "TVS DiGiTAL MEDIA, UAB",
@@ -1005,6 +1012,12 @@
     "name": "The Shepherd Digital Asset Management, UAB",
     "code": "306946850",
     "address": "Vilnius, A. Goštauto g. 8-224, LT-01108"
+  },
+  {
+    "name": "UAB \" Epc go digital \"",
+    "code": "305674618",
+    "address": "Vilnius, Girulių g. 10, LT-12112",
+    "vatcode": "LT100013818119"
   },
   {
     "name": "UAB \"B3 Digital\"",
@@ -1445,6 +1458,11 @@
     "vatcode": "LT100017408814"
   },
   {
+    "name": "UAB \"DigitalEssence\"",
+    "code": "307066269",
+    "address": "Trakų r. sav., Lentvaris, Geležinkelio g. 32-18, LT-25116"
+  },
+  {
     "name": "VšĮ DigitalHub",
     "code": "306163313",
     "address": "Vilnius, Vytenio g. 10-75, LT-03112"
@@ -1455,9 +1473,20 @@
     "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
+    "name": "Ars digitalis, MB",
+    "code": "307075026",
+    "address": "Vilnius, Aludarių g. 11-12, LT-01113"
+  },
+  {
     "name": "MB \"Digitalistai\"",
     "code": "304934746",
     "address": "Vilnius, Ceikinių g. 9-6, LT-09322"
+  },
+  {
+    "name": "Digitally, MB",
+    "code": "307053916",
+    "address": "Vilnius, Verkių g. 39-532, LT-09109",
+    "vatcode": "LT100017457913"
   },
   {
     "name": "MB \"Digitalmark\"",
@@ -1556,6 +1585,11 @@
     "name": "Digitgrow, MB",
     "code": "306337276",
     "address": "Vilnius, S. Žukausko g. 27-1, LT-09129"
+  },
+  {
+    "name": "UAB \"DigitHive\"",
+    "code": "307058589",
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "MB \"Impressio digiti\"",

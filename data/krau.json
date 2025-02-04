@@ -116,19 +116,9 @@
     "address": "Kauno r. sav., Domeikavos sen., Kumpių k., Pilėnų g. 4-1, LT-47425"
   },
   {
-    "name": "Individuali įmonė \"Krauna\"",
-    "code": "163745186",
-    "address": "Klaipėdos r. sav., Priekulės sen., Derceklių k."
-  },
-  {
     "name": "UAB \"Krauna veža\"",
     "code": "305562722",
     "address": "Šiauliai, S. Daukanto g. 42, LT-76333"
-  },
-  {
-    "name": "UAB \"Krauname viską\"",
-    "code": "306287599",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
   },
   {
     "name": "Mažoji bendrija Kraunamviska",
@@ -143,7 +133,8 @@
   {
     "name": "MB Kraunu vežu",
     "code": "306757351",
-    "address": "Vilnius, Kriaučiūnų g. 27A, LT-06295"
+    "address": "Vilnius, Kriaučiūnų g. 27A, LT-06295",
+    "vatcode": "LT100017512011"
   },
   {
     "name": "IĮ \"Kraurenta\"",
@@ -206,11 +197,6 @@
     "name": "MB \"Kraustyk mane\"",
     "code": "304690701",
     "address": "Jonavos r. sav., Kulvos sen., Marviliaus k., Dvaro g. 3, LT-55105"
-  },
-  {
-    "name": "UAB \"Kraustyk\"",
-    "code": "302795372",
-    "address": "Kaunas, Šarkuvos g. 32-73, LT-48167"
   },
   {
     "name": "\"Kraustykis lengvai\", UAB",
@@ -366,6 +352,12 @@
     "code": "303096681",
     "address": "Elektrėnų sav., Vievis, Mokyklos g. 20-6, LT-21378",
     "vatcode": "LT100007879713"
+  },
+  {
+    "name": "MB \"Astosrūtos gėlių krautuvėlė\"",
+    "code": "307058532",
+    "address": "Kaunas, Ašigalio g. 51A-44, LT-49140",
+    "vatcode": "LT100017459415"
   },
   {
     "name": "MB \"Batukų krautuvėlė\"",
@@ -530,11 +522,6 @@
     "code": "302474402",
     "address": "Vilnius, Perkūnkiemio g. 9-51, LT-12114",
     "vatcode": "LT100005145915"
-  },
-  {
-    "name": "UAB Editos krautuvėlė",
-    "code": "303157650",
-    "address": "Kaunas, Baltų pr. 29-23, LT-48244"
   },
   {
     "name": "UAB KAIMO KRAUTUVĖLĖ",

@@ -78,11 +78,6 @@
     "vatcode": "LT100013742710"
   },
   {
-    "name": "Nasdaq Spot AB Vilniaus filialas",
-    "code": "305810662",
-    "address": "Vilnius, Konstitucijos pr. 29-1, LT-08105"
-  },
-  {
     "name": "PANAMA SPOT, UAB",
     "code": "305847098",
     "address": "Vilnius, Savanorių pr. 1-2, LT-03116",
@@ -130,7 +125,8 @@
   {
     "name": "MB NT Spotas",
     "code": "306271011",
-    "address": "Vilnius, Šaltkalvių g. 15-11, LT-02152"
+    "address": "Vilnius, Šaltkalvių g. 15-11, LT-02152",
+    "vatcode": "LT100017470012"
   },
   {
     "name": "UAB \"Spotas hq\"",
@@ -146,7 +142,7 @@
   {
     "name": "Viešoji Įstaiga \"Spotas\"",
     "code": "302677826",
-    "address": "Klaipėda, Molo g. 27-10, LT-92277",
+    "address": "Klaipėda, Liepų g. 83, LT-92195",
     "vatcode": "LT100007957416"
   },
   {
@@ -220,10 +216,5 @@
     "code": "302343004",
     "address": "Vilnius, Laisvės pr. 10A, LT-04215",
     "vatcode": "LT100006412511"
-  },
-  {
-    "name": "MB \"Spotplotus\"",
-    "code": "303178018",
-    "address": "Vilniaus miesto savivaldybės teritorija"
   }
 ]

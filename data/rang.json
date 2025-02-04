@@ -133,11 +133,6 @@
     "address": "Molėtų r. sav., Luokesos sen., Žiūrų k., Klevų g. 4, LT-33150"
   },
   {
-    "name": "MB \"Pagalbinė ranga\"",
-    "code": "304990392",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
     "name": "MB \"Polių ranga\"",
     "code": "305951289",
     "address": "Kaunas, K. Petrausko g. 13-62, LT-44155",
@@ -219,6 +214,11 @@
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
+    "name": "MB Kauno statybų ranga",
+    "code": "305621836",
+    "address": "Kaunas, J. Borutos g. 11-8, LT-46115"
+  },
+  {
     "name": "MB Klemiškės ranga",
     "code": "306173784",
     "address": "Klaipėda, Tomo g. 5-1, LT-91247",
@@ -292,6 +292,16 @@
     "name": "MB Tikri namai Ranga",
     "code": "305748730",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+  },
+  {
+    "name": "MB Užupio ranga",
+    "code": "307078944",
+    "address": "Kaunas, Marvelės g. 25A, LT-46209"
+  },
+  {
+    "name": "MB Valymo ranga",
+    "code": "307075097",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "MB Vk ranga",
@@ -421,7 +431,7 @@
   {
     "name": "UAB \"Kelmės ranga\"",
     "code": "304412762",
-    "address": "Kretingos r. sav., Kūlupėnų sen., Asteikių k., Vargučio g. 4, LT-97333"
+    "address": "Palanga, Vėjų g. 10, LT-00147"
   },
   {
     "name": "UAB \"Klaipėdos ranga\"",
@@ -638,20 +648,10 @@
     "vatcode": "LT100014802118"
   },
   {
-    "name": "UAB \"Vakarų ranga\"",
-    "code": "300634235",
-    "address": "Klaipėda, Statybininkų pr. 4-44, LT-94224"
-  },
-  {
     "name": "UAB \"Ventos ranga\"",
     "code": "305598501",
     "address": "Naujoji Akmenė, Eibučių g. 24, LT-85192",
     "vatcode": "LT100013400413"
-  },
-  {
-    "name": "UAB \"Versirma\" KŪB \"Versirmos ranga\"",
-    "code": "225904260",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
   },
   {
     "name": "UAB \"Vilšanstos ranga\"",
@@ -687,6 +687,11 @@
     "code": "306308627",
     "address": "Panevėžys, Kosmonautų g. 1-34, LT-37382",
     "vatcode": "LT100015918116"
+  },
+  {
+    "name": "UAB Inovatyvi statybų ranga",
+    "code": "307081171",
+    "address": "Kaunas, Kalniečių g. 219-108, LT-50139"
   },
   {
     "name": "UAB KONAS RANGA",
@@ -814,11 +819,6 @@
     "name": "\"Rangos\", UAB",
     "code": "303480479",
     "address": "Alytus, Naujoji g. 12-525, LT-63250"
-  },
-  {
-    "name": "IĮ \"AMF Rangos Sprendimai\"",
-    "code": "300660792",
-    "address": "Šiaulių r. sav., Kuršėnai, M. K. Čiurlionio g. 51-1, LT-81168"
   },
   {
     "name": "IĮ \"Rangos sutarčių valdymas\"",

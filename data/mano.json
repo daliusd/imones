@@ -93,19 +93,9 @@
     "address": "Vilnius, S. Stanevičiaus g. 48-29, LT-07125"
   },
   {
-    "name": "Individuali įmonė \"Mano transportas\"",
-    "code": "301770569",
-    "address": "Klaipėda, Šilutės pl. 64-89, LT-94217"
-  },
-  {
     "name": "IĮ \"MANO PROJEKTAI\"",
     "code": "300529953",
     "address": "Vilnius, Ukmergės g. 210-12, LT-07166"
-  },
-  {
-    "name": "IĮ \"Mano Venecija\"",
-    "code": "153016522",
-    "address": "Kelmės r. sav., Vaiguvos sen., Jucių k. 14, LT-86413"
   },
   {
     "name": "IĮ \"Mano akmuo\"",
@@ -128,11 +118,6 @@
     "name": "IĮ \"Mano pastogė\"",
     "code": "303205725",
     "address": "Raseinių r. sav., Ariogala, Ateities g. 2, LT-60265"
-  },
-  {
-    "name": "IĮ \"Mano pica\"",
-    "code": "301917542",
-    "address": "Šiauliai, Dubijos g. 31-14, LT-77137"
   },
   {
     "name": "IĮ \"Mano vizija\"",
@@ -445,11 +430,6 @@
     "vatcode": "LT100012727913"
   },
   {
-    "name": "MB \"Mano mintys\"",
-    "code": "303107900",
-    "address": "Vilnius, Santariškių g. 24C, LT-08406"
-  },
-  {
     "name": "MB \"Mano namas\"",
     "code": "305805327",
     "address": "Klaipėdos r. sav., Kretingalės sen., Stančių k., Šv. Kotrynos g. 31, LT-96338"
@@ -654,7 +634,8 @@
   {
     "name": "MB Mano Nida",
     "code": "307033504",
-    "address": "Vilnius, Kalvarijų g. 143-106, LT-08352"
+    "address": "Vilnius, Kalvarijų g. 143-106, LT-08352",
+    "vatcode": "LT100017450119"
   },
   {
     "name": "MB Mano Spinta",
@@ -678,9 +659,9 @@
     "address": "Alytus, Sudvajų g. 18-19, LT-63282"
   },
   {
-    "name": "MB Mano bendrija",
-    "code": "303100368",
-    "address": "Vilnius, Pramonės g. 97, LT-11115"
+    "name": "MB Mano bitai buvo du",
+    "code": "307066447",
+    "address": "Vilnius, Manufaktūrų g. 20-63, LT-11342"
   },
   {
     "name": "MB Mano biuras",
@@ -780,11 +761,6 @@
     "name": "MB Mano studios",
     "code": "306637245",
     "address": "Vilnius, Šv. Dvasios g. 6-49, LT-02102"
-  },
-  {
-    "name": "MB Mano sulčių baras",
-    "code": "304058178",
-    "address": "Druskininkai, Šv. Jokūbo g. 12, LT-66118"
   },
   {
     "name": "MB Mano uoga",
@@ -1164,11 +1140,6 @@
     "vatcode": "LT100010837815"
   },
   {
-    "name": "UAB \"Mano mamutas\"",
-    "code": "303223883",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "UAB \"Mano mantra\"",
     "code": "305742396",
     "address": "Vilnius, Treniotos g. 29-2, LT-08115",
@@ -1285,11 +1256,6 @@
     "vatcode": "LT100009016715"
   },
   {
-    "name": "UAB \"Mano segtuvas\"",
-    "code": "304398679",
-    "address": "Vilnius, Odminių g. 15-5A, LT-01121"
-  },
-  {
     "name": "UAB \"Mano sodas ir kiemas\"",
     "code": "305176126",
     "address": "Lazdijų r. sav., Noragėlių sen., Noragėlių k., Lankavos g. 13, LT-67226"
@@ -1393,6 +1359,11 @@
     "name": "UAB MANO NARDYMO CENTRAS",
     "code": "125522295",
     "address": "Vilnius, Rygos g. 16-13, LT-05240"
+  },
+  {
+    "name": "UAB Mano Aurora",
+    "code": "307057971",
+    "address": "Kauno r. sav., Karmėlavos sen., Karmėlavos II k., Kankorėžių g. 10, LT-54453"
   },
   {
     "name": "UAB Mano Būstas Alytus",
@@ -1611,11 +1582,6 @@
     "code": "302639996",
     "address": "Klaipėda, Tilžės g. 44-1, LT-91112",
     "vatcode": "LT100008801319"
-  },
-  {
-    "name": "VšĮ \"Mano Akmenė\"",
-    "code": "302524588",
-    "address": "Akmenės r. sav., Venta, Akmenės g. 10, LT-85329"
   },
   {
     "name": "VšĮ \"Mano Alytus\"",

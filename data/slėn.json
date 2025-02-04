@@ -96,6 +96,11 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Jungtinė g. 1, LT-92359"
   },
   {
+    "name": "Slėnio pramogos, MB",
+    "code": "307056823",
+    "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Pušyno g. 2-5, LT-92404"
+  },
+  {
     "name": "UAB \"Slėnio projektai\"",
     "code": "302837992",
     "address": "Kaunas, I. Kanto g. 18, LT-44296"
@@ -152,11 +157,6 @@
     "code": "305195009",
     "address": "Vilnius, Rokantiškių g. 177, LT-10252",
     "vatcode": "LT100014388517"
-  },
-  {
-    "name": "\"Enetos slėnis\", UAB",
-    "code": "303240441",
-    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "\"Gojaus slėnis\"",
@@ -377,11 +377,6 @@
     "vatcode": "LT100015530614"
   },
   {
-    "name": "Klaipėdos apskrities sporto klubas \"Slėnis\"",
-    "code": "193425975",
-    "address": "Klaipėda, S. Šimkaus g. 14-1, LT-92129"
-  },
-  {
     "name": "MB \"Dinozaurų slėnis\"",
     "code": "304863021",
     "address": "Pasvalio r. sav., Krinčino sen., Pajiešmenių k., Sodo g. 2B, LT-39449"
@@ -439,7 +434,8 @@
   {
     "name": "MB \"Sausmedžių slėnis\"",
     "code": "306860846",
-    "address": "Varėnos r. sav., Jakėnų sen., Kaniūkų k., Liepų g. 12, LT-65418"
+    "address": "Varėnos r. sav., Jakėnų sen., Kaniūkų k., Liepų g. 12, LT-65418",
+    "vatcode": "LT100017470618"
   },
   {
     "name": "MB \"Skaičių slėnis\"",
@@ -477,11 +473,6 @@
     "name": "MB \"Šilėngirės slėnis\"",
     "code": "305572741",
     "address": "Joniškis, Livonijos g. 31, LT-84115"
-  },
-  {
-    "name": "MB \"Švaros slėnis\"",
-    "code": "303184409",
-    "address": "Panevėžys, Molainių g. 80-42, LT-37151"
   },
   {
     "name": "MB Azagrio slėnis",
@@ -707,11 +698,6 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
-    "name": "UAB \"Laukinis slėnis\"",
-    "code": "303819374",
-    "address": "Tauragės r. sav., Mažonų sen., Matiškių k. 10, LT-72497"
-  },
-  {
     "name": "UAB \"Laukžemės slėnis\"",
     "code": "304222916",
     "address": "Kretingos r. sav., Darbėnų sen., Laukžemės k."
@@ -882,8 +868,7 @@
   {
     "name": "UAB \"Statybų slėnis\"",
     "code": "302791203",
-    "address": "Šiauliai, Dubijos g. 5-2, LT-77152",
-    "vatcode": "LT100006903916"
+    "address": "Šiauliai, Dubijos g. 5-2, LT-77152"
   },
   {
     "name": "UAB \"Taurų slėnis\"",

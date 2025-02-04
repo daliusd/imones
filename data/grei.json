@@ -126,11 +126,6 @@
     "address": "Vilnius, Darbo g. 6-42, LT-01206"
   },
   {
-    "name": "GREITA PREKYBA, UAB",
-    "code": "302661722",
-    "address": "Vilnius, Panerių g. 11, LT-03209"
-  },
-  {
     "name": "MB \"Greita Lapė\"",
     "code": "306094696",
     "address": "Šalčininkų r. sav., Jašiūnų sen., Pamarazių k., Žemutinė g. 2G, LT-17244",
@@ -150,7 +145,8 @@
   {
     "name": "MB \"Greita sveika\"",
     "code": "305195895",
-    "address": "Kaunas, Chemijos g. 9A-32, LT-51326"
+    "address": "Kaunas, Chemijos g. 9A-32, LT-51326",
+    "vatcode": "LT100017499010"
   },
   {
     "name": "MB Greita kokybė",
@@ -427,7 +423,8 @@
   {
     "name": "VšĮ \"Greitas startas\"",
     "code": "302942922",
-    "address": "Kretinga, Žalioji g. 13-7, LT-97145"
+    "address": "Kretinga, Žalioji g. 13-7, LT-97145",
+    "vatcode": "LT100017499818"
   },
   {
     "name": "VšĮ \"Greitas tikslas\"",
@@ -536,11 +533,6 @@
   {
     "name": "MB \"Greiti darbai\"",
     "code": "305148479",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "MB \"Greiti mokėjimai\"",
-    "code": "305131095",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
@@ -770,9 +762,19 @@
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
   },
   {
+    "name": "Individuali įmonė Greitkrova",
+    "code": "307062139",
+    "address": "Panevėžio r. sav., Karsakiškio sen., Startų k., Lelijų g. 4, LT-38463"
+  },
+  {
     "name": "A. Mikulskio firma \"GREITMA\"",
     "code": "172404928",
     "address": "Raseiniai, Partizanų g. 29, LT-60179"
+  },
+  {
+    "name": "UAB Greitmedis",
+    "code": "307056734",
+    "address": "Kalvarijos sav., Liubavo sen., Asavos k., Kalno g. 3, LT-69285"
   },
   {
     "name": "MB Greito gyvenimo lėti dalykai",
@@ -821,11 +823,6 @@
     "name": "UAB Greitoji logistika",
     "code": "306970399",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
-  },
-  {
-    "name": "Greitojo mokymo centras",
-    "code": "304213461",
-    "address": "Vilnius, Ozo g. 30-76, LT-07197"
   },
   {
     "name": "Lietuvos greitojo čiuožimo asociacija",
@@ -981,7 +978,7 @@
   {
     "name": "UAB \"Greituolis\"",
     "code": "305054987",
-    "address": "Vilniaus r. sav., Avižienių sen., Aukštųjų Rusokų vs., Kalno g. 26, LT-14330",
+    "address": "Vilnius, Lvivo g. 37-101, LT-09307",
     "vatcode": "LT100012351618"
   },
   {

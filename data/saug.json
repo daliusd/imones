@@ -11,11 +11,6 @@
     "vatcode": "LT100017360311"
   },
   {
-    "name": "D. Gužo firma \"TYLA IR SAUGA\"",
-    "code": "123524422",
-    "address": "Vilnius, Krivių g. 15-2"
-  },
-  {
     "name": "Dainiaus Paškevičiaus individuali įmonė \"ARD sauga\"",
     "code": "300592245",
     "address": "Panevėžys, Respublikos g. 38, LT-35173"
@@ -53,7 +48,8 @@
   {
     "name": "MB \"Dss sauga\"",
     "code": "305802231",
-    "address": "Kaunas, Santarvės g. 4, LT-46397"
+    "address": "Kaunas, Santarvės g. 4, LT-46397",
+    "vatcode": "LT100017447119"
   },
   {
     "name": "MB \"Duomenų sauga\"",
@@ -706,11 +702,6 @@
     "address": "Kaunas, Draugystės g. 17-1, LT-51229"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Saugita\"",
-    "code": "134678215",
-    "address": "Kaunas, Raudondvario pl. 113, LT-47186"
-  },
-  {
     "name": "UAB \"Saugių namų laboratorija\"",
     "code": "305607427",
     "address": "Druskininkų sav., Viečiūnų sen., Neravų k., Neravų g. 2A-6, LT-66412",
@@ -758,11 +749,6 @@
     "code": "304784517",
     "address": "Kaunas, Jonavos g. 262, LT-44131",
     "vatcode": "LT100012060214"
-  },
-  {
-    "name": "R. Zubio automobilių saugojimo aikštelė",
-    "code": "153073733",
-    "address": "Naujoji Akmenė, V. Kudirkos g. 9, LT-85165"
   },
   {
     "name": "UAB \"Saugojus\"",
@@ -891,7 +877,7 @@
   {
     "name": "MB \"Darbų saugos koordinavimas\"",
     "code": "305586965",
-    "address": "Vilnius, Raudonės g. 74, LT-12205",
+    "address": "Vilnius, Tilžės g. 60-5, LT-06247",
     "vatcode": "LT100013918519"
   },
   {
@@ -1329,11 +1315,6 @@
     "vatcode": "LT252998716"
   },
   {
-    "name": "Viešosios įstaigos \"Raseinių priešgaisrinės saugos tarnyba\" darbuotojų profesinė sąjunga",
-    "code": "300040147",
-    "address": "Raseiniai, Žemaičių g. 10, LT-60119"
-  },
-  {
     "name": "Vilniaus miesto savivaldybės administracijos Civilinės saugos tarnyba",
     "code": "190963552",
     "address": "Vilnius, Gedimino pr. 34, LT-01104"
@@ -1395,11 +1376,6 @@
     "code": "300090285",
     "address": "Kėdainiai, Miško g. 2, LT-57155",
     "vatcode": "LT100001777819"
-  },
-  {
-    "name": "\"Saugta\" UAB",
-    "code": "135222645",
-    "address": "Kaunas, Savanorių pr. 339A, LT-50119"
   },
   {
     "name": "\"Saugu LT\", UAB",
@@ -1513,7 +1489,8 @@
   {
     "name": "Lietuvos gynybos ir saugumo pramonės asociacija",
     "code": "303252536",
-    "address": "Vilnius, L. Stuokos-Gucevičiaus g. 9, LT-01122"
+    "address": "Vilnius, L. Stuokos-Gucevičiaus g. 9, LT-01122",
+    "vatcode": "LT100017471111"
   },
   {
     "name": "MB \"Baltijos saugumo sprendimai\"",
@@ -1535,7 +1512,7 @@
   {
     "name": "MB \"Saugumo zona\"",
     "code": "305665804",
-    "address": "Vilnius, Algirdo g. 31, LT-03219",
+    "address": "Vilnius, Algirdo g. 31-400, LT-03219",
     "vatcode": "LT100016637217"
   },
   {
@@ -1591,6 +1568,11 @@
     "name": "UAB Transporto saugumo centras",
     "code": "303296276",
     "address": "Tauragė, Vytauto g. 71-3, LT-72252"
+  },
+  {
+    "name": "Viešoji įstaiga Geopolitikos ir saugumo studijų centras",
+    "code": "300590785",
+    "address": "Vilnius, D. Poškos g. 59, LT-08114"
   },
   {
     "name": "Viešojo saugumo pareigūnų profesinė sąjunga",
@@ -1759,12 +1741,8 @@
   {
     "name": "MB Saugus ūkis",
     "code": "306713426",
-    "address": "Vilniaus r. sav., Bezdonių sen., Vilkiškių k., Septintoji g. 12, LT-15206"
-  },
-  {
-    "name": "UAB \"Saugus dviratis\"",
-    "code": "302696075",
-    "address": "Vilnius, M. K. Čiurlionio g. 5-8, LT-03104"
+    "address": "Vilniaus r. sav., Bezdonių sen., Vilkiškių k., Septintoji g. 12, LT-15206",
+    "vatcode": "LT100017454212"
   },
   {
     "name": "UAB \"Saugus eismas\"",
@@ -1884,6 +1862,11 @@
     "address": "Ukmergė, Gedimino g. 9-6"
   },
   {
+    "name": "MB Saugūs ir išmanūs",
+    "code": "307061553",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Saugūs duomenys\"",
     "code": "134366411",
     "address": "Kaunas, K. Baršausko g. 51-1, LT-51422",
@@ -1893,11 +1876,6 @@
     "name": "VšĮ \"Saugūs kartu\"",
     "code": "306688706",
     "address": "Šiauliai, Vytauto g. 110-20, LT-76345"
-  },
-  {
-    "name": "VšĮ \"Saugūs namai\"",
-    "code": "302521930",
-    "address": "Vilnius, Jonažolių g. 15-2, LT-04136"
   },
   {
     "name": "Asociacija \"Už saugų automobilį Lietuvoje\"",

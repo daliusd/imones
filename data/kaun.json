@@ -524,11 +524,6 @@
     "vatcode": "LT100016303710"
   },
   {
-    "name": "UAB \"Truck Kaunas\"",
-    "code": "302712184",
-    "address": "Kauno r. sav., Ringaudų sen., Virbališkių k., Žiedo g. 5, LT-53460"
-  },
-  {
     "name": "UAB \"Tylos namai NT Kaunas\"",
     "code": "304771772",
     "address": "Kaunas, Perlojos g. 42, LT-45305",
@@ -554,7 +549,8 @@
   {
     "name": "UAB Centina Servis Kaunas",
     "code": "307043135",
-    "address": "Kaunas, Kuršių g. 51, LT-48112"
+    "address": "Kaunas, Kuršių g. 51, LT-48112",
+    "vatcode": "LT100017475215"
   },
   {
     "name": "UAB E. Gėlės Kaunas",
@@ -589,11 +585,6 @@
     "name": "Uždaroji akcinė bendrovė \"FASHION PRODUCTION KAUNAS\"",
     "code": "111600887",
     "address": "Kaunas, Žemaičių g. 31, LT-44175"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Kaunas WSB\"",
-    "code": "300137518",
-    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Laukų g. 14, LT-54122"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kaunas ir Hamburg\"",
@@ -798,11 +789,6 @@
     "address": "Kaunas, Rytų g. 6-49, LT-51365"
   },
   {
-    "name": "Daugiabučio namo T. Masiulio g. Nr. 11, Kaune savininkų bendrija",
-    "code": "301085704",
-    "address": "Kaunas, T. Masiulio g. 11-27, LT-52356"
-  },
-  {
     "name": "Daugiabučio namo Totorių g. 10, Kaune, savininkų bendrija",
     "code": "300935562",
     "address": "Kaunas, Totorių g. 10-4, LT-44236"
@@ -950,16 +936,6 @@
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
   },
   {
-    "name": "Eglės Kauneckienės individuali įmonė",
-    "code": "152581586",
-    "address": "Palanga, Druskininkų g. 8-15, LT-00149"
-  },
-  {
-    "name": "LAIMOS KAUNECKIENĖS įmonė",
-    "code": "245865690",
-    "address": "Šiauliai, Vilniaus g. 183-7, LT-76350"
-  },
-  {
     "name": "Kauneckių UAB",
     "code": "152759619",
     "address": "Neringa, L. Rėzos g. 1-2, LT-93101",
@@ -969,16 +945,6 @@
     "name": "Dariaus Kaunecko individuali įmonė",
     "code": "302814794",
     "address": "Palanga, Ganyklų g. 6-3, LT-00127"
-  },
-  {
-    "name": "Pranciškaus Kaunecko įmonė",
-    "code": "244874380",
-    "address": "Šiauliai, Z. Gėlės g. 4, LT-76330"
-  },
-  {
-    "name": "Sauliaus Kaunecko įmonė \"Saulininkas\"",
-    "code": "144953186",
-    "address": "Šiauliai, S. Lukauskio g. 5A, LT-76236"
   },
   {
     "name": "VšĮ \"Republica Kaunensis\"",
@@ -1031,6 +997,11 @@
     "vatcode": "LT100009934912"
   },
   {
+    "name": "UAB \"Kauniečiams\"",
+    "code": "307072731",
+    "address": "Kaunas, Betygalos g. 4A, LT-47183"
+  },
+  {
     "name": "IĮ Kauniečio baldai",
     "code": "148153996",
     "address": "Panevėžys, Darbininkų g. 16, LT-35155"
@@ -1075,11 +1046,6 @@
     "name": "AB \"Lietuvos geležinkeliai\" filialo \"Kauno geležinkelių infrastruktūra\" darbuotojų profesinė sąjunga",
     "code": "191994052",
     "address": "Kaunas, M. K. Čiurlionio g. 14B, LT-44360"
-  },
-  {
-    "name": "AB Lietuvos pašto filialo Kauno centrinio pašto darbuotojų profesinė sąjunga",
-    "code": "135572688",
-    "address": "Kaunas, Laisvės al. 102, LT-44252"
   },
   {
     "name": "AB Verax Kauno atstovybė",
@@ -1132,11 +1098,6 @@
     "vatcode": "LT337295811"
   },
   {
-    "name": "Akcinės bendrovės \"Gimtasis sodžius\" Kauno filialas",
-    "code": "134733989",
-    "address": "Kaunas, Birželio 23-iosios g. 27A, LT-50202"
-  },
-  {
     "name": "Akcinės bendrovės \"Kauno Baltija\" Lazdijų siuvimo baras",
     "code": "165103718",
     "address": "Lazdijai, Dzūkų g. 10, LT-67126"
@@ -1180,11 +1141,6 @@
     "name": "Akcinės bendrovės \"Lotas\" Kauno statybos ir remonto filialas",
     "code": "134070394",
     "address": "Kaunas, Jonavos g. 74, LT-44191"
-  },
-  {
-    "name": "Akcinės bendrovės \"Morena\" Kauno filialas \"Morena\"",
-    "code": "234115730",
-    "address": "Kaunas, Vaidoto g. 159, LT-45392"
   },
   {
     "name": "Akcinės bendrovės \"Pieno žvaigždės\" filialas \"Kauno pienas\"",
@@ -1601,11 +1557,6 @@
     "address": "Kaunas, V. Krėvės pr. 95A"
   },
   {
-    "name": "Kauno Gerojo ganytojo parapijos individuali įmonė",
-    "code": "135638775",
-    "address": "Kaunas, V. Krėvės pr. 97A, LT-50369"
-  },
-  {
     "name": "Kauno IX forto muziejus",
     "code": "190756991",
     "address": "Kaunas, Žemaičių pl. 73, LT-47435"
@@ -1779,7 +1730,7 @@
   {
     "name": "Kauno PC investicija, UAB",
     "code": "303069990",
-    "address": "Vilnius, Dominikonų g. 9, LT-01131",
+    "address": "Vilnius, Dominikonų g. 9-5, LT-01131",
     "vatcode": "LT100008972314"
   },
   {
@@ -2029,14 +1980,9 @@
     "address": "Kaunas, Aušros g. 32, LT-44158"
   },
   {
-    "name": "Kauno apsaugos policijos skyriaus prie VPK AGS elektromonterių profesinės sąjungos įmonė \"Aliarmo kodas\"",
-    "code": "135203292",
-    "address": "Kaunas, Ašigalio g. 49A-50, LT-49145"
-  },
-  {
     "name": "Kauno apskaitos mokykla, UAB",
     "code": "305154852",
-    "address": "Klaipėdos r. sav., Sendvario sen., Budrikų k., Jubiliejaus g. 7A, LT-96320"
+    "address": "Kaunas, Žemaičių g. 31-210, LT-44175"
   },
   {
     "name": "Kauno apskrities Afganistano karo dalyvių, neįgaliųjų ir karinių pajėgų veteranų asociacija",
@@ -2047,11 +1993,6 @@
     "name": "Kauno apskrities Bajorų draugija",
     "code": "193412561",
     "address": "Kaunas, A. Mickevičiaus g. 19-420"
-  },
-  {
-    "name": "Kauno apskrities Gaisrininkų draugijos personalinė įmonė",
-    "code": "159597881",
-    "address": "Kaunas, E. Ožeškienės g. 39, LT-44254"
   },
   {
     "name": "Kauno apskrities Parkinsono draugija",
@@ -2094,21 +2035,6 @@
     "name": "Kauno apskrities futbolo federacija",
     "code": "193279246",
     "address": "Kaunas, Aukštaičių g. 51, LT-44158"
-  },
-  {
-    "name": "Kauno apskrities gaisrininkų draugija",
-    "code": "193160174",
-    "address": "Kaunas, E. Ožeškienės g. 39, LT-44254"
-  },
-  {
-    "name": "Kauno apskrities kelių ir autotransporto darbuotojų profesinių sąjungų susivienijimas",
-    "code": "193588082",
-    "address": "Kaunas, A. Juozapavičiaus pr. 84, LT-45212"
-  },
-  {
-    "name": "Kauno apskrities liberalaus jaunimo organizacija",
-    "code": "193419698",
-    "address": "Kaunas, Laisvės al. 65B-1, LT-44304"
   },
   {
     "name": "Kauno apskrities medžioklės ir žūklės klubas \"Tauras\"",
@@ -2231,11 +2157,6 @@
     "address": "Kaunas, Europos pr. 105, LT-46338"
   },
   {
-    "name": "Kauno apskrities verslininkų darbdavių konfederacija",
-    "code": "193413510",
-    "address": "Kaunas, Laisvės al. 30A, LT-44240"
-  },
-  {
     "name": "Kauno apskrities viešoji Ąžuolyno biblioteka",
     "code": "190758138",
     "address": "Kaunas, Radastų g. 2, LT-44164"
@@ -2249,11 +2170,6 @@
     "name": "Kauno apskrities vyrų krizių centras",
     "code": "302297546",
     "address": "Kaunas, E. Ožeškienės g. 11-7, LT-44253"
-  },
-  {
-    "name": "Kauno apskrities šeimos dvasinio ugdymo centras \"Šeimyna\"",
-    "code": "193416969",
-    "address": "Kaunas, Baltaragio g. 2"
   },
   {
     "name": "Kauno apygardos prokuratūra",
@@ -2279,11 +2195,6 @@
     "name": "Kauno arkivyskupijos Caritas",
     "code": "192068157",
     "address": "Kaunas, Papilio g. 5, LT-44275"
-  },
-  {
-    "name": "Kauno arkivyskupijos Caritas skyriaus įmonė \"Germė\"",
-    "code": "133369924",
-    "address": "Kaunas, Vilniaus g. 29, LT-44286"
   },
   {
     "name": "Kauno arkivyskupijos jaunimo centras",
@@ -2411,11 +2322,6 @@
     "address": "Kaunas, J. Basanavičiaus al. 5, LT-50282"
   },
   {
-    "name": "Kauno buriavimo mėgėjų klubas \"Kauno burės\"",
-    "code": "193198246",
-    "address": "Kaunas, Rūtų g. 1, LT-44168"
-  },
-  {
     "name": "Kauno buriavimo veteranų klubas",
     "code": "193156090",
     "address": "Kaunas, M. Gimbutienės g. 35"
@@ -2481,11 +2387,6 @@
     "address": "Kaunas, Vytauto pr. 79, LT-44321"
   },
   {
-    "name": "Kauno diabetikų klubas \"Insula\"",
-    "code": "135876958",
-    "address": "Kaunas, Verkių g. 11-8"
-  },
-  {
     "name": "Kauno dziudo federacija",
     "code": "193423433",
     "address": "Kaunas, Griunvaldo g. 3, LT-44333"
@@ -2548,7 +2449,7 @@
   {
     "name": "Kauno evangelijos tikėjimo krikščionių bendruomenė \"Išgelbėjimo uola\"",
     "code": "192105189",
-    "address": "Kaunas, Baltijos g. 20-47"
+    "address": "Kaunas, Salantų g. 20, LT-47482"
   },
   {
     "name": "Kauno evangelikų krikščionių baptistų religinė bendruomenė",
@@ -2609,11 +2510,6 @@
     "name": "Kauno fotoklubas",
     "code": "302508071",
     "address": "Kaunas, J. Semaškos g. 46, LT-47336"
-  },
-  {
-    "name": "Kauno futbolo centras",
-    "code": "135859460",
-    "address": "Kaunas, Savanorių pr. 151, LT-50174"
   },
   {
     "name": "Kauno g. 27-ojo daugiabučio namo savininkų bendrija",
@@ -2791,11 +2687,6 @@
     "address": "Kaunas, Eivenių g. 2, LT-50161"
   },
   {
-    "name": "Kauno kikbokso klubas \"Šančių kovas\"",
-    "code": "193141964",
-    "address": "Kaunas, V. Krėvės pr. 59-49, LT-50357"
-  },
-  {
     "name": "Kauno kino centras \"Romuva\"",
     "code": "132082597",
     "address": "Kaunas, Laisvės al. 54, LT-44246"
@@ -2866,11 +2757,6 @@
     "name": "Kauno komercijos ir kooperacijos darbuotojų profesinė sąjunga",
     "code": "135643231",
     "address": "Kaunas, Gedimino g. 33, LT-44311"
-  },
-  {
-    "name": "Kauno kovinės savigynos ir karatė klubas \"Ąžuolas\"",
-    "code": "193116562",
-    "address": "Kaunas, A. Stulginskio g. 62, LT-48378"
   },
   {
     "name": "Kauno krašto anatomų draugija",
@@ -2983,11 +2869,6 @@
     "address": "Kaunas, S. Žukausko g. 9-18, LT-49344"
   },
   {
-    "name": "Kauno krepšinio klubas \"Merkurijus\"",
-    "code": "193116943",
-    "address": "Kaunas, Laisvės al. 60, LT-44246"
-  },
-  {
     "name": "Kauno krepšinio klubas \"Žalgiriečiai veteranai\"",
     "code": "193118613",
     "address": "Kaunas, Pramonės pr. 20, LT-50468"
@@ -3006,16 +2887,6 @@
     "name": "Kauno krikščionių bažnyčia",
     "code": "193021395",
     "address": "Kaunas, K. Donelaičio g. 33-1, LT-44240"
-  },
-  {
-    "name": "Kauno kultūrizmo klubas \"Eladas\"",
-    "code": "302658733",
-    "address": "Kėdainių r. sav., Pelėdnagių sen., Gelnų k., Liepų g. 9, LT-58151"
-  },
-  {
-    "name": "Kauno kultūrizmo klubas \"Jėga\"",
-    "code": "193260712",
-    "address": "Kaunas, Savanorių pr. 243, LT-50154"
   },
   {
     "name": "Kauno kultūros centras",
@@ -3051,11 +2922,6 @@
     "name": "Kauno kūno kultūros mokytojų asociacija",
     "code": "193259215",
     "address": "Kaunas, Miško g. 1A"
-  },
-  {
-    "name": "Kauno laisvalaikio klubas \"Gama\"",
-    "code": "193072895",
-    "address": "Kaunas, V. Krėvės pr. 84, LT-50385"
   },
   {
     "name": "Kauno laisvųjų krikščionių bažnyčia",
@@ -3474,11 +3340,6 @@
     "vatcode": "LT100015452316"
   },
   {
-    "name": "Kauno maršrutinių taksi įmonių asociacija",
-    "code": "234794530",
-    "address": "Kaunas, Ūmėdžių g. 8, LT-50140"
-  },
-  {
     "name": "Kauno mažoji beisbolo lyga",
     "code": "135681285",
     "address": "Kaunas, Raudondvario pl. 93, LT-47184"
@@ -3496,7 +3357,7 @@
   {
     "name": "Kauno medžiotojų klubas \"Alšia\"",
     "code": "193130754",
-    "address": "Kaunas, Vaidoto g. 4, LT-45318"
+    "address": "Prienų r. sav., Stakliškių sen., Sudvariškių k., Tuopų g. 5, LT-59354"
   },
   {
     "name": "Kauno medžiotojų klubas \"Alšėngiris\"",
@@ -3876,11 +3737,6 @@
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
   },
   {
-    "name": "Kauno onkologų klubas",
-    "code": "193587895",
-    "address": "Kaunas, Volungių g. 16, LT-45433"
-  },
-  {
     "name": "Kauno oreivių asociacija",
     "code": "301238541",
     "address": "Kaunas, Apuolės g. 88, LT-48305",
@@ -3923,14 +3779,14 @@
     "address": "Kaunas, A. Mickevičiaus g. 54-1, LT-44244"
   },
   {
-    "name": "Kauno pensininkų sąjunga",
-    "code": "193250180",
-    "address": "Kaunas, Laisvės al. 21, LT-44311"
-  },
-  {
     "name": "Kauno petankės klubas",
     "code": "304933772",
     "address": "Kaunas, Z. Tiškos g. 13-2, LT-46479"
+  },
+  {
+    "name": "Kauno piklbolo klubas",
+    "code": "307083400",
+    "address": "Kaunas, Karaliaus Mindaugo pr. 7-10, LT-44280"
   },
   {
     "name": "Kauno pilietinės bendruomenės centras \"Dainava\"",
@@ -4102,11 +3958,6 @@
     "name": "Kauno r. Garliavos Adomo Mitkaus pagrindinė mokykla",
     "code": "191074641",
     "address": "Kauno r. sav., Garliava, Vytauto g. 4, LT-53270"
-  },
-  {
-    "name": "Kauno r. Garliavos Jonučių gimnazija",
-    "code": "303383044",
-    "address": "Kauno r. sav., Garliava, Vasario 16-osios g. 8, LT-53216"
   },
   {
     "name": "Kauno r. Garliavos Jonučių progimnazija",
@@ -4339,11 +4190,6 @@
     "address": "Kauno r. sav., Samylų sen., Šlienavos k., Mokyklos g. 13, LT-53147"
   },
   {
-    "name": "Kauno r. žemės ūkio bendrovė \"Uosis\"",
-    "code": "159724581",
-    "address": "Kauno r. sav., Domeikavos sen., Eigirgalos k."
-  },
-  {
     "name": "Kauno raj. Karatė klubas \"Asahi karate do\"",
     "code": "306250939",
     "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Lūšių g. 10, LT-53277"
@@ -4428,11 +4274,6 @@
     "name": "Kauno rajono Vilkijos vidurinės mokyklos sporto klubas \"Vilkynė\"",
     "code": "160430032",
     "address": "Kauno r. sav., Vilkija, Čekiškės g. 73, LT-54225"
-  },
-  {
-    "name": "Kauno rajono automobilininkų klubo įmonė",
-    "code": "159978569",
-    "address": "Kauno r. sav., Karmėlavos sen., Narėpų k."
   },
   {
     "name": "Kauno rajono bendruomeninių organizacijų sąjunga",
@@ -4739,16 +4580,6 @@
     "vatcode": "LT597303314"
   },
   {
-    "name": "Kauno rajono žemės ūkio bendrovė \"Urniežiai\"",
-    "code": "159796538",
-    "address": "Kauno r. sav., Babtų sen., Urnėžių k."
-  },
-  {
-    "name": "Kauno rajono žemės ūkio bendrovė \"Vežimas\"",
-    "code": "159721329",
-    "address": "Kauno r. sav., Alšėnų sen., Jonučių k."
-  },
-  {
     "name": "Kauno rankinio klubas \"Granitas\"",
     "code": "193117511",
     "address": "Kaunas, Lazdynėlių g. 3-1, LT-48179"
@@ -4810,6 +4641,11 @@
     "address": "Kauno r. sav., Vilkija, Čekiškės g. 98, LT-54221"
   },
   {
+    "name": "Kauno regiono paštų darbuotojų profesinė sąjunga",
+    "code": "135572688",
+    "address": "Vilnius, Kalvarijų g. 98, LT-08211"
+  },
+  {
     "name": "Kauno regiono plėtros taryba",
     "code": "305708020",
     "address": "Kaunas, L. Sapiegos g. 10, LT-44251"
@@ -4823,6 +4659,11 @@
     "name": "Kauno regiono smulkių ir vidutinių verslininkų asociacija",
     "code": "134862998",
     "address": "Kaunas, Muitinės g. 13A, LT-44280"
+  },
+  {
+    "name": "Kauno regiono telekomunikacijų darbuotojų profesinė sąjunga",
+    "code": "135695267",
+    "address": "Vilnius, Kalvarijų g. 98, LT-08211"
   },
   {
     "name": "Kauno rusų bendrija",
@@ -5263,11 +5104,6 @@
     "name": "Kauno tinklinio klubas \"Svaja\"",
     "code": "303216390",
     "address": "Kaunas, Sporto g. 6, LT-44221"
-  },
-  {
-    "name": "Kauno transporto vystymo grupė, UAB",
-    "code": "303197004",
-    "address": "Kaunas, Gedimino g. 33-11, LT-44311"
   },
   {
     "name": "Kauno transporto įmonių darbuotojų profesinė sąjunga",
@@ -5736,11 +5572,6 @@
     "address": "Kaunas, Raudondvario pl. 150-2, LT-47174"
   },
   {
-    "name": "Lietuvos architektų sąjungos Kauno skyriaus įmonė",
-    "code": "134321875",
-    "address": "Kaunas, Vilniaus g. 22, LT-44280"
-  },
-  {
     "name": "Lietuvos architektų sąjungos Kauno skyrius",
     "code": "193418639",
     "address": "Kaunas, Vilniaus g. 22, LT-44280",
@@ -5768,11 +5599,6 @@
     "vatcode": "LT355884811"
   },
   {
-    "name": "Lietuvos dailininkų sąjungos personalinė įmonė \"Dailininkų sąjungos Kauno galerija\"",
-    "code": "134589987",
-    "address": "Kaunas, Rotušės a. 27, LT-44279"
-  },
-  {
     "name": "Lietuvos darbo federacijos Kauno apskrities skyrius",
     "code": "300525702",
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
@@ -5782,11 +5608,6 @@
     "code": "135510925",
     "address": "Kaunas, Rotušės a. 1, LT-44280",
     "vatcode": "LT355109219"
-  },
-  {
-    "name": "Lietuvos geležinkelių Kauno regiono stočių skyriaus profesinė sąjunga",
-    "code": "303473933",
-    "address": "Kaunas, Palemono g. 78, LT-52109"
   },
   {
     "name": "Lietuvos gydytojų sąjungos Kauno filialas",
@@ -5878,11 +5699,6 @@
     "name": "Lietuvos socialdemokratinio jaunimo sąjungos filialas \"Kauno rajono skyrius\"",
     "code": "304151045",
     "address": "Kaunas, Raudondvario pl. 208, LT-47154"
-  },
-  {
-    "name": "Lietuvos sodininkų draugijos Kauno susivienijimo \"Sodai\" individuali prekybos įmonė",
-    "code": "132678063",
-    "address": "Kaunas, Savanorių pr. 304-2, LT-49453"
   },
   {
     "name": "Lietuvos sporto draugijos \"Žalgiris\" Kauno taryba",
@@ -6017,11 +5833,6 @@
     "vatcode": "LT100007827014"
   },
   {
-    "name": "MB \"Kauno hidraulika\"",
-    "code": "303259954",
-    "address": "Kaunas, Islandijos pl. 131G, LT-49169"
-  },
-  {
     "name": "MB \"Kauno inžinerija\"",
     "code": "305397509",
     "address": "Kaunas, Suvalkėlių g. 4A, LT-46138",
@@ -6137,9 +5948,19 @@
     "address": "Vilnius, Jurgio Lebedžio g. 9-66, LT-08353"
   },
   {
+    "name": "MB Kauno gatvės",
+    "code": "307069653",
+    "address": "Prienai, Kęstučio g. 91D, LT-59142"
+  },
+  {
     "name": "MB Kauno laboratorija",
     "code": "306342298",
     "address": "Kaunas, Raudondvario pl. 204A-30, LT-47153"
+  },
+  {
+    "name": "MB Kauno langai",
+    "code": "307057989",
+    "address": "Kaunas, E. Ožeškienės g. 21-4, LT-44254"
   },
   {
     "name": "MB Kauno nt ekspertas",
@@ -6152,6 +5973,11 @@
     "code": "304112882",
     "address": "Kaunas, Drobės g. 26, LT-45223",
     "vatcode": "LT100017093016"
+  },
+  {
+    "name": "MB Kauno statybų ranga",
+    "code": "305621836",
+    "address": "Kaunas, J. Borutos g. 11-8, LT-46115"
   },
   {
     "name": "MB Kauno studija",
@@ -6302,11 +6128,6 @@
     "address": "Kaunas, Kuršių g. 32-37, LT-48144"
   },
   {
-    "name": "St. Bros Automotive, Inc. Kauno filialas",
-    "code": "300594036",
-    "address": "Kaunas, Raudondvario pl. 101A-2, LT-47184"
-  },
-  {
     "name": "Sutrikusio intelekto žmonių globos bendrija \"Kauno viltis\"",
     "code": "135556716",
     "address": "Kaunas, P. Lukšio g. 58, LT-49349"
@@ -6316,11 +6137,6 @@
     "code": "169821776",
     "address": "Plungė, A. Jucio g. 24-1",
     "vatcode": "LT698217716"
-  },
-  {
-    "name": "TEO LT, AB Kauno regiono darbuotojų profesinė sąjunga",
-    "code": "135695267",
-    "address": "Kaunas, Taikos pr. 54, LT-51305"
   },
   {
     "name": "TIKROSIOS ŪKINĖS BENDRIJOS \"JAVENA\" GRYGIENC ATSTOVYBĖ KAUNO MIESTE (LIETUVOJE)",
@@ -6623,7 +6439,7 @@
   {
     "name": "UAB \"Kauno loftas\"",
     "code": "303165914",
-    "address": "Kaunas, Vilniaus g. 10-1, LT-44280",
+    "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k., Inovacijų g. 1, LT-54469",
     "vatcode": "LT100008360817"
   },
   {
@@ -6801,11 +6617,6 @@
     "vatcode": "LT100001109917"
   },
   {
-    "name": "UAB \"Kauno stogai\"",
-    "code": "301498553",
-    "address": "Kaunas, Sukilėlių pr. 88-78, LT-49335"
-  },
-  {
     "name": "UAB \"Kauno tekstilė\"",
     "code": "300136117",
     "address": "Kaunas, Gaižiūnų g. 4, LT-50126",
@@ -6874,6 +6685,11 @@
     "address": "Kaunas, V. Krėvės pr. 131-108, LT-51100"
   },
   {
+    "name": "UAB \"StormGeo\" Kauno filialas",
+    "code": "307067061",
+    "address": "Kaunas, Laisvės al. 82, LT-44250"
+  },
+  {
     "name": "UAB \"VERMOSA\" Kauno filialas",
     "code": "303005450",
     "address": "Kaunas, Julijanavos g. 6E, LT-46351"
@@ -6916,11 +6732,6 @@
     "vatcode": "LT100011354718"
   },
   {
-    "name": "UAB KAUNO TEKSTILĖS DAŽYKLA",
-    "code": "135810036",
-    "address": "Kauno r. sav., Garliava, Stasio Lozoraičio g. 19, LT-53228"
-  },
-  {
     "name": "UAB Kauno \"Žalgirio\" jachtklubas",
     "code": "110643241",
     "address": "Kaunas, R. Kalantos g. 124, LT-52336",
@@ -6941,7 +6752,7 @@
   {
     "name": "UAB Kauno Raudondvario PC",
     "code": "303203585",
-    "address": "Vilnius, Dominikonų g. 9, LT-01131",
+    "address": "Vilnius, Dominikonų g. 9-5, LT-01131",
     "vatcode": "LT100008336017"
   },
   {
@@ -7040,7 +6851,7 @@
   {
     "name": "UAB Kauno plėtros projektai",
     "code": "305996665",
-    "address": "Vilnius, Lvivo g. 25-702, LT-09320"
+    "address": "Vilnius, Konstitucijos pr. 26, LT-08131"
   },
   {
     "name": "UAB Kauno projektavimo ir konsultavimo biuras",
@@ -7128,11 +6939,6 @@
     "vatcode": "LT344415314"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Kauno atikas\"",
-    "code": "233107990",
-    "address": "Kaunas, Gedimino g. 47, LT-44242"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Kauno autobusai\"",
     "code": "133154754",
     "address": "Kaunas, Raudondvario pl. 105, LT-47185",
@@ -7150,11 +6956,6 @@
     "address": "Kaunas, M. Valančiaus g. 5, LT-44279"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Kauno gama\"",
-    "code": "133545354",
-    "address": "Kaunas, Statybininkų g. 6, LT-50120"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Kauno gatvių apšvietimas\"",
     "code": "132684155",
     "address": "Kaunas, Ringuvos g. 59, LT-45243",
@@ -7165,11 +6966,6 @@
     "code": "133667027",
     "address": "Kaunas, Pramonės pr. 8, LT-51223",
     "vatcode": "LT336670219"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Kauno indai\"",
-    "code": "133899075",
-    "address": "Kaunas, M. Daukšos g. 26, LT-44282"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kauno jaunimo kirpykla\"",
@@ -7347,11 +7143,6 @@
     "code": "133254530",
     "address": "Kaunas, Rietavo g. 11, LT-48263",
     "vatcode": "LT332545314"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Kauno žuvelė\"",
-    "code": "159592044",
-    "address": "Kaunas, M. Riomerio g. 7-3, LT-51445"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kauno žuvis\"",
@@ -7563,11 +7354,6 @@
     "address": "Kaišiadorys, Gedimino g. 141, LT-56173"
   },
   {
-    "name": "Uždarosios akcinės bendrovės Urbo banko Kauno filialas",
-    "code": "112056342",
-    "address": "Kaunas, K. Donelaičio g. 76, LT-44248"
-  },
-  {
     "name": "VIDURIO LIETUVOS ASOCIACIJA \"KAUNO GYVASTIS\"",
     "code": "301767719",
     "address": "Kaunas, Kulvos g. 6-31, LT-48491"
@@ -7576,6 +7362,11 @@
     "name": "VIEŠOJI ĮSTAIGA KAUNO FUTBOLO AKADEMIJA",
     "code": "135899750",
     "address": "Kaunas, Aukštaičių g. 51, LT-44158"
+  },
+  {
+    "name": "VU Kauno fakulteto darbuotojų atstovybė-profesinė sąjunga",
+    "code": "302466373",
+    "address": "Kaunas, Muitinės g. 8, LT-44280"
   },
   {
     "name": "Valstybinio socialinio draudimo fondo valdybos Kauno skyrius",
@@ -7629,11 +7420,6 @@
     "address": "Kaunas, Panerių g. 187, LT-48437"
   },
   {
-    "name": "Viešoji įstaiga Kauno apskrities futbolo rėmimo fondas",
-    "code": "234864320",
-    "address": "Kaunas, K. Donelaičio g. 60, LT-44248"
-  },
-  {
     "name": "Viešoji įstaiga Kauno arkivyskupijos Ekonomo tarnyba",
     "code": "234935550",
     "address": "Kaunas, Rotušės a. 14, LT-44279",
@@ -7649,16 +7435,6 @@
     "code": "134942896",
     "address": "Kaunas, Islandijos pl. 15, LT-49179",
     "vatcode": "LT349428917"
-  },
-  {
-    "name": "Viešoji įstaiga Kauno gitaros mokykla",
-    "code": "135796330",
-    "address": "Kaunas, Lietuvių g. 26-4, LT-44169"
-  },
-  {
-    "name": "Viešoji įstaiga Kauno intelekto vystymo centras",
-    "code": "235774630",
-    "address": "Kaunas, Virvių g. 13, LT-45232"
   },
   {
     "name": "Viešoji įstaiga Kauno ir Marijampolės apskričių aklųjų ir silpnaregių tarybos filialas Vilkaviškio aklųjų ir silpnaregių dienos centras",
@@ -7724,19 +7500,9 @@
     "address": "Kaunas, A. Strazdo g. 83-8, LT-48458"
   },
   {
-    "name": "Viešoji įstaiga Kauno turistų sporto klubas",
-    "code": "135273383",
-    "address": "Kaunas, Trakų g. 25, LT-44326"
-  },
-  {
     "name": "Viešoji įstaiga Kauno tvirtovės parkas",
     "code": "302573681",
     "address": "Kaunas, M. Daukšos g. 34, LT-44283"
-  },
-  {
-    "name": "Viešoji įstaiga Kauno vaikų krepšinio mokykla",
-    "code": "135986657",
-    "address": "Kaunas, Rasytės g. 40-12, LT-48115"
   },
   {
     "name": "Viešoji įstaiga Kauno įvairių tautų kultūrų centras",
@@ -7799,11 +7565,6 @@
     "address": "Vilnius, Kauno g. 2-1, LT-01310"
   },
   {
-    "name": "Vilniaus universiteto Kauno humanitarinio fakulteto darbuotojų atstovybė-profesinė sąjunga",
-    "code": "302466373",
-    "address": "Kaunas, Muitinės g. 8, LT-44280"
-  },
-  {
     "name": "Visuomeninė organizacija Kauno moterų klubas \"Už laisvą demokratinę visuomenę\"",
     "code": "160451165",
     "address": "Kauno r. sav., Lapės, Upelio g. 1, LT-54433"
@@ -7833,11 +7594,6 @@
     "code": "303390512",
     "address": "Kaunas, Muravos g. 19-7, LT-49393",
     "vatcode": "LT100009626519"
-  },
-  {
-    "name": "VšĮ \"KAUNO TĖVŲ CENTRAS\"",
-    "code": "302640888",
-    "address": "Kaunas, Žiemių g. 9-34, LT-51306"
   },
   {
     "name": "VšĮ \"Kauno Jawos\"",
@@ -7971,11 +7727,6 @@
     "address": "Kaunas, Vytenio g. 14-20, LT-48418"
   },
   {
-    "name": "VšĮ Kauno 2-osios klinikinės ligoninės filialo P. Mažylio gimdymo namų profesinė sąjunga",
-    "code": "300639079",
-    "address": "Kaunas, V. Putvinskio g. 3, LT-44242"
-  },
-  {
     "name": "VšĮ Kauno Krepšinio Klubas",
     "code": "306825934",
     "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Giedros g. 8, LT-54136"
@@ -8018,7 +7769,7 @@
   {
     "name": "VšĮ Kauno diskgolfo klubas",
     "code": "304184390",
-    "address": "Kaunas, Telšių g. 3-2, LT-44203"
+    "address": "Kauno r. sav., Domeikavos sen., Smiltynų I k., Volungės g. 12A-2, LT-54440"
   },
   {
     "name": "VšĮ Kauno jogos centras",
@@ -8071,11 +7822,6 @@
     "name": "VšĮ Kauno miesto šaudymo klubas",
     "code": "304947494",
     "address": "Kaunas, Didžioji g. 77, LT-45472"
-  },
-  {
-    "name": "VšĮ Kauno parapsichologijos institutas",
-    "code": "300536798",
-    "address": "Kaunas, Savanorių pr. 449, LT-49184"
   },
   {
     "name": "VšĮ Kauno rajono darbo rinkos mokymo centras",

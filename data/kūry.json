@@ -131,6 +131,12 @@
     "address": "Vilnius, V. Grybo g. 17-16, LT-10318"
   },
   {
+    "name": "MB Kūrybingai",
+    "code": "307072247",
+    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Kadagių g. 14, LT-53363",
+    "vatcode": "LT100017503416"
+  },
+  {
     "name": "MB \"Kūrybingas protas\"",
     "code": "303307210",
     "address": "Vilnius, A. Goštauto g. 8-326, LT-01108",
@@ -264,11 +270,6 @@
     "name": "UAB \"Eksperimentinė kūrybinio mąstymo laboratorija\"",
     "code": "304919623",
     "address": "Klaipėda, Tiltų g. 20-1, LT-91246"
-  },
-  {
-    "name": "Viešoji įstaiga \"KŪRYBINIO VEIKSMO BENDRUOMENĖ\"",
-    "code": "300613650",
-    "address": "Vilnius, A. Vienuolio g. 14-23, LT-01104"
   },
   {
     "name": "LIETUVOS VAIKŲ KŪRYBINIS SUSIVIENIJIMAS \"MŪZA\"",
@@ -420,16 +421,6 @@
     "address": "Vilnius, Giedraičių g. 85-501, LT-08214"
   },
   {
-    "name": "VšĮ Kūrybinių industrijų ir inovacijų centras",
-    "code": "303634856",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
-  },
-  {
-    "name": "VšĮ Kūrybinių industrijų ir inovacijų institutas",
-    "code": "302330640",
-    "address": "Vilnius, Savanorių pr. 178, LT-03154"
-  },
-  {
     "name": "VšĮ Kūrybinių iniciatyvų centras",
     "code": "300597986",
     "address": "Kaunas, Taikos pr. 67-55, LT-50436"
@@ -453,16 +444,6 @@
     "name": "Asociacija Kūrybinė sintezė",
     "code": "307053097",
     "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105"
-  },
-  {
-    "name": "GINTARO KEKIO kūrybinė studija \"ARANEIDA\"",
-    "code": "145222825",
-    "address": "Šiauliai, Draugystės pr. 8-49, LT-77150"
-  },
-  {
-    "name": "Kūrybinė asociacija \"Polifonijos koncertai\"",
-    "code": "301800553",
-    "address": "Šiauliai, Aušros al. 66A, LT-76233"
   },
   {
     "name": "Kūrybinė grupė \"Lekuči\"",
@@ -566,11 +547,6 @@
     "name": "Asociacija Kūrybinės inspiracijos erdvės",
     "code": "307018107",
     "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Šiltnamių g. 18-21, LT-14116"
-  },
-  {
-    "name": "Aukštaitijos kūrybinės dirbtuvės \"DREVINĖ PUŠIS\"",
-    "code": "302536206",
-    "address": "Utena, Vaižganto g. 28-22, LT-28206"
   },
   {
     "name": "Kūrybinės dirbtuvės \"Beepart\"",
@@ -725,11 +701,6 @@
     "vatcode": "LT100011193716"
   },
   {
-    "name": "UAB \"Kūrybiškumas\"",
-    "code": "303504528",
-    "address": "Vilnius, Aukštaičių g. 6, LT-11341"
-  },
-  {
     "name": "Asociacija \"Kūrybiškumo slėnis\"",
     "code": "304420093",
     "address": "Vilniaus r. sav., Nemenčinė, M. K. Oginskio g. 7, LT-15172"
@@ -849,11 +820,6 @@
     "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Klaipėdos krašto atstovybė",
     "code": "304120587",
     "address": "Klaipėdos r. sav., Priekulės sen., Mickų k., Vaškių g. 19-3, LT-96361"
-  },
-  {
-    "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Kupiškio skyrius",
-    "code": "165386166",
-    "address": "Kupiškio r. sav., Noriūnų sen., Noriūnų k., Parko g. 2, LT-40395"
   },
   {
     "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Marijampolės krašto atstovybė",
@@ -1002,11 +968,6 @@
     "address": "Molėtai, Mechanizatorių g. 4A-14, LT-33115"
   },
   {
-    "name": "Respublikinių moksleivių techninės kūrybos rūmų individuali įmonė \"Jaunasis technikas\"",
-    "code": "121107558",
-    "address": "Vilnius, Žirmūnų g. 1B, LT-09101"
-  },
-  {
     "name": "Saviveiklinės techninės kūrybos bazinio klubo įmonė",
     "code": "147454110",
     "address": "Panevėžys, Respublikos g. 45A, LT-35170"
@@ -1050,11 +1011,6 @@
     "address": "Kaunas, Vilniaus g. 50A-4, LT-44287"
   },
   {
-    "name": "Viešoji įstaiga \"Kūrybos elementas\"",
-    "code": "302549043",
-    "address": "Vilnius, Elnių g. 23-15, LT-08101"
-  },
-  {
     "name": "Viešoji įstaiga \"Kūrybos vertikalės\"",
     "code": "305153476",
     "address": "Vilnius, Sėlių g. 43-10, LT-08109"
@@ -1080,11 +1036,6 @@
     "address": "Vilnius, J. Kupalos g. 8, LT-11106"
   },
   {
-    "name": "Vilniaus m. rusų mokyklų vaikų ir jaunimo kūrybos visuomeninis Centras Lazdynų vidurinėje mokykloje",
-    "code": "193527421",
-    "address": "Vilnius, Žėručio g. 4, LT-04113"
-  },
-  {
     "name": "Vilniaus moksleivių kūrybos ir mokymo centras",
     "code": "190011232",
     "address": "Vilnius, Švitrigailos g. 6, LT-03222"
@@ -1095,7 +1046,7 @@
     "address": "Visaginas, Vilties g. 16, LT-31121"
   },
   {
-    "name": "Visagino vaikų kūrybos namų darbininkų sąjunga",
+    "name": "Visagino kūrybos ir menų akademijos profesinė sąjunga",
     "code": "300023596",
     "address": "Visaginas, Vilties g. 16, LT-31121"
   },
@@ -1188,11 +1139,6 @@
     "name": "VšĮ Gamtos ir kūrybos namai",
     "code": "305072280",
     "address": "Molėtų r. sav., Luokesos sen., Alksniškių k., Luokesos g. 22, LT-33158"
-  },
-  {
-    "name": "VšĮ Inovacijų ir kūrybos centras",
-    "code": "303479402",
-    "address": "Kaunas, Mokolų g. 66, LT-46408"
   },
   {
     "name": "VšĮ KŪRYBOS NAMAI",

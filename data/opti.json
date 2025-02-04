@@ -27,11 +27,6 @@
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
   },
   {
-    "name": "UAB \"Optic City\"",
-    "code": "300631278",
-    "address": "Vilnius, Gedimino pr. 32A, LT-01104"
-  },
-  {
     "name": "\"Optical matrix\", UAB",
     "code": "301739869",
     "address": "Panevėžys, V. Kudirkos g. 4-4, LT-35201",
@@ -225,7 +220,7 @@
   {
     "name": "MB \"Mūsų optika\"",
     "code": "304912486",
-    "address": "Vilnius, Žirmūnų g. 75-70, LT-09114"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "MB \"NG Optika\"",
@@ -455,11 +450,6 @@
     "address": "Kaunas, P. Plechavičiaus g. 17-21, LT-49303"
   },
   {
-    "name": "MB \"Specializuoti optikos ir elektronikos sprendimai\"",
-    "code": "304504449",
-    "address": "Tauragė, Pramonės g. 24, LT-72321"
-  },
-  {
     "name": "S. Staponienės optikos salonas",
     "code": "141943742",
     "address": "Klaipėda, Kuncų g. 10-3, LT-95206"
@@ -599,11 +589,6 @@
     "name": "UAB \"Vera optima\"",
     "code": "304815012",
     "address": "Palangos miesto savivaldybės teritorija"
-  },
-  {
-    "name": "UAB \"Vita optima\"",
-    "code": "134372841",
-    "address": "Kaunas, S. Žukausko g. 19-16, LT-49312"
   },
   {
     "name": "UAB Persona Optima group",
@@ -985,7 +970,8 @@
   {
     "name": "MB \"Optimauto\"",
     "code": "305703817",
-    "address": "Kaunas, Partizanų g. 18A-25, LT-50214"
+    "address": "Kaunas, Partizanų g. 18A-25, LT-50214",
+    "vatcode": "LT100017512415"
   },
   {
     "name": "IĮ Optimeda",
@@ -1102,8 +1088,7 @@
   {
     "name": "UAB Services Optimization Stobbe",
     "code": "306345508",
-    "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194",
-    "vatcode": "LT100017278711"
+    "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194"
   },
   {
     "name": "MB \"Matomumas, vystymas ir optimizavimas\"",
@@ -1366,11 +1351,6 @@
     "address": "Šiauliai, Aušros al. 66A, LT-76233"
   },
   {
-    "name": "UAB \"Optimus Systems\"",
-    "code": "304040714",
-    "address": "Vilnius, Mokslininkų g. 2A, LT-08412"
-  },
-  {
     "name": "UAB \"Optimus auditus\"",
     "code": "164253348",
     "address": "Klaipėda, Birutės g. 8, LT-91203",
@@ -1473,6 +1453,11 @@
     "vatcode": "LT352040515"
   },
   {
+    "name": "UAB \"Optinetra\"",
+    "code": "307082693",
+    "address": "Šakių r. sav., Gelgaudiškis, Taikos g. 49, LT-71430"
+  },
+  {
     "name": "MB \"Optiniai Instrumentai\"",
     "code": "306277726",
     "address": "Klaipėda, Liubeko g. 13-36, LT-94282"
@@ -1570,6 +1555,11 @@
     "name": "MB \"Optirola\"",
     "code": "306307703",
     "address": "Vilnius, Girulių g. 10, LT-12112"
+  },
+  {
+    "name": "MB Optirole",
+    "code": "307072546",
+    "address": "Plungė, A. Jucio g. 40-58, LT-90151"
   },
   {
     "name": "Optis LT, UAB",

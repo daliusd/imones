@@ -32,6 +32,11 @@
     "address": "Kaunas, Brastos g. 15, LT-47183"
   },
   {
+    "name": "MB \"Alfa Park\"",
+    "code": "307067531",
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
     "name": "MB \"Plane view park\"",
     "code": "305739368",
     "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Vilniaus g. 12A-1, LT-13246"
@@ -355,11 +360,6 @@
     "vatcode": "LT100014975412"
   },
   {
-    "name": "Asociacija \"Žalias parkas\"",
-    "code": "303100044",
-    "address": "Joniškio r. sav., Žagarė, Lauko g. 34, LT-84312"
-  },
-  {
     "name": "Asociacija \"Žemaitiškas parkas\"",
     "code": "301545572",
     "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Gribžinių k., Žemaičių g. 7, LT-96174"
@@ -464,7 +464,8 @@
   {
     "name": "MB \"Danielių parkas\"",
     "code": "307029541",
-    "address": "Kaišiadorių r. sav., Pravieniškių sen., Aleksandruvkos k., Pušyno g. 19, LT-56366"
+    "address": "Kaišiadorių r. sav., Pravieniškių sen., Aleksandruvkos k., Pušyno g. 19, LT-56366",
+    "vatcode": "LT100017446918"
   },
   {
     "name": "MB \"Družų parkas\"",
@@ -682,11 +683,6 @@
     "address": "Visaginas, Taikos pr. 7, LT-31107"
   },
   {
-    "name": "UAB \"Druskininkų autobusų parkas\" profesinė sąjunga \"Solidarumas\"",
-    "code": "302488366",
-    "address": "Druskininkai, Gardino g. 1, LT-66204"
-  },
-  {
     "name": "UAB \"Energijos parkas\"",
     "code": "300531616",
     "address": "Vilnius, Savanorių pr. 159A, LT-03150",
@@ -896,16 +892,6 @@
     "address": "Vilnius, Jogailos g. 4, LT-01116"
   },
   {
-    "name": "UAB \"Saulės Elektrinių parkas\"",
-    "code": "302802735",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
-    "name": "UAB \"Saulės Energijos Centro parkas\"",
-    "code": "302802799",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "UAB \"Sausių logistikos parkas\"",
     "code": "305725048",
     "address": "Vilniaus m. sav., Grigiškių m., Vilniaus g. 4B, LT-27101",
@@ -989,7 +975,8 @@
   {
     "name": "UAB \"Veisiejų logistikos parkas\"",
     "code": "306122448",
-    "address": "Vilnius, Kibirkšties g. 8, LT-02242"
+    "address": "Vilnius, Kibirkšties g. 8, LT-02242",
+    "vatcode": "LT100017486917"
   },
   {
     "name": "UAB \"Vikingų verslo parkas\"",
@@ -1097,11 +1084,6 @@
     "code": "306084093",
     "address": "Kaunas, Šėtos g. 11-1, LT-47114",
     "vatcode": "LT100015045711"
-  },
-  {
-    "name": "UAB Klaipėdos taksi parkas",
-    "code": "301532265",
-    "address": "Klaipėda, Žuvėdrų Tako g. 20, LT-91190"
   },
   {
     "name": "UAB Liuteronų parkas",
@@ -1393,11 +1375,6 @@
     "vatcode": "LT228967515"
   },
   {
-    "name": "Viešoji įstaiga \"Liepiškių technologijų parkas\"",
-    "code": "301075553",
-    "address": "Vilniaus r. sav., Nemėžio sen., Liepiškių k."
-  },
-  {
     "name": "Viešoji įstaiga \"Meno parkas\"",
     "code": "135932570",
     "address": "Kaunas, Rotušės a. 27, LT-44279",
@@ -1475,11 +1452,6 @@
     "name": "VšĮ \"Raubonių parkas\"",
     "code": "304172178",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
-  },
-  {
-    "name": "VšĮ \"Sporto parkas\"",
-    "code": "300629131",
-    "address": "Šiauliai, Gytarių g. 31-6, LT-78414"
   },
   {
     "name": "VšĮ \"Visuomenės harmonizavimo parkas\"",
@@ -1597,11 +1569,6 @@
     "vatcode": "LT100008617110"
   },
   {
-    "name": "R. Sakalausko įmonė \"Parketas\"",
-    "code": "132721949",
-    "address": "Kaunas, Č. Sasnausko g. 22-1"
-  },
-  {
     "name": "Sporto klubas \"KRUOJOS PARKETAS\"",
     "code": "300010798",
     "address": "Pakruojo r. sav., Klovainių sen., Petrašiūnų k., Stoties g. 21, LT-83477"
@@ -1629,9 +1596,9 @@
     "vatcode": "LT680482917"
   },
   {
-    "name": "VšĮ \"Parkina\"",
-    "code": "304960196",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "name": "Mažoji bendrija Parketpartneris",
+    "code": "307062018",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB Premium parking",
@@ -2139,11 +2106,6 @@
     "address": "Palanga, Vytauto g. 6, LT-00101"
   },
   {
-    "name": "UAB \"Industrijos parko turto valdymas\"",
-    "code": "304130325",
-    "address": "Lazdijų r. sav., Šlavantų sen., Buteliūnų k., Ežero g. 12, LT-67256"
-  },
-  {
     "name": "UAB \"Kalno parko namai\"",
     "code": "304952096",
     "address": "Vilnius, Švitrigailos g. 11A, LT-03228"
@@ -2151,8 +2113,7 @@
   {
     "name": "UAB \"Kalnų parko vilos\"",
     "code": "305662701",
-    "address": "Vilnius, Totorių g. 13, LT-01121",
-    "vatcode": "LT100014125718"
+    "address": "Vilnius, Totorių g. 13, LT-01121"
   },
   {
     "name": "UAB \"Liepų parko alėja\"",
@@ -2164,11 +2125,6 @@
     "name": "UAB \"PARKO BILDUKAS\"",
     "code": "125837818",
     "address": "Vilnius, Tilto g. 3-4, LT-01101"
-  },
-  {
-    "name": "UAB \"Parko dalys\"",
-    "code": "304956543",
-    "address": "Pakruojo r. sav., Lygumų sen., Degučių k., Parko g. 8, LT-83291"
   },
   {
     "name": "UAB \"Parko ežero apartamentai\"",
@@ -2262,11 +2218,6 @@
     "address": "Vilnius, Gedimino pr. 10-13, LT-01103"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Parko aidas\"",
-    "code": "252649910",
-    "address": "Palanga, Sodų g. 36-19, LT-00105"
-  },
-  {
     "name": "Uždarosios akcinės bendrovės Biržų autobusų parko profesinė sąjunga \"Solidarumas\"",
     "code": "255285860",
     "address": "Biržai, J. Basanavičiaus g. 56, LT-41164"
@@ -2324,11 +2275,6 @@
     "vatcode": "LT100017172817"
   },
   {
-    "name": "Judėjimo Meno \"Le Parkour\" entuziastų klubas \"Vilnius Tracers\"",
-    "code": "300561335",
-    "address": "Vilnius, Šilo g. 5-8, LT-10322"
-  },
-  {
     "name": "UAB \"UNO Parks\"",
     "code": "302331646",
     "address": "Alytaus r. sav., Simno sen., Kolonistų k., Vanagėlio g. 57, LT-64302",
@@ -2355,6 +2301,12 @@
     "code": "305547204",
     "address": "Kaunas, Baltų pr. 145, LT-47125",
     "vatcode": "LT100013134711"
+  },
+  {
+    "name": "UAB Parksta",
+    "code": "307066575",
+    "address": "Kaunas, Josvainių g. 27B-1, LT-47133",
+    "vatcode": "LT100017501117"
   },
   {
     "name": "Parkuok, UAB",

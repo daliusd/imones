@@ -141,7 +141,8 @@
   {
     "name": "MB \"Akmenytės ūkis\"",
     "code": "306766539",
-    "address": "Kupiškis, S. Nėries g. 18, LT-40131"
+    "address": "Kupiškis, S. Nėries g. 18, LT-40131",
+    "vatcode": "LT100017469917"
   },
   {
     "name": "MB \"Alkos ūkis\"",
@@ -213,11 +214,6 @@
     "name": "MB \"Mato ūkis\"",
     "code": "306850186",
     "address": "Ukmergė, Klaipėdos g. 9-24, LT-20130"
-  },
-  {
-    "name": "MB \"Protingas ūkis\"",
-    "code": "303222482",
-    "address": "Kauno miesto savivaldybės teritorija"
   },
   {
     "name": "MB \"Sartų ūkis\"",
@@ -302,11 +298,6 @@
     "address": "Plungė, Vytauto g. 10, LT-90123"
   },
   {
-    "name": "MB Kilkų ūkis",
-    "code": "304423716",
-    "address": "Kauno r. sav., Karmėlavos sen., Pelenių k., Vėjo g. 8, LT-54445"
-  },
-  {
     "name": "MB Klimų ūkis",
     "code": "306405631",
     "address": "Palanga, Virbališkės tak. 3-15, LT-00127",
@@ -336,7 +327,7 @@
   {
     "name": "MB Lėlytės ūkis",
     "code": "305548473",
-    "address": "Vilnius, Vytenio g. 50-56, LT-03229"
+    "address": "Klaipėda, Paribio g. 8, LT-92283"
   },
   {
     "name": "MB Marcinkevičių ūkis",
@@ -378,7 +369,8 @@
   {
     "name": "MB Saugus ūkis",
     "code": "306713426",
-    "address": "Vilniaus r. sav., Bezdonių sen., Vilkiškių k., Septintoji g. 12, LT-15206"
+    "address": "Vilniaus r. sav., Bezdonių sen., Vilkiškių k., Septintoji g. 12, LT-15206",
+    "vatcode": "LT100017454212"
   },
   {
     "name": "MB Smilgių šeimos ūkis",
@@ -479,8 +471,7 @@
   {
     "name": "UAB \"3D ūkis\"",
     "code": "304104615",
-    "address": "Šiauliai, Medvėgalio g. 17, LT-76191",
-    "vatcode": "LT100009739315"
+    "address": "Šiauliai, Medvėgalio g. 17, LT-76191"
   },
   {
     "name": "UAB \"Alsių ūkis\"",
@@ -723,11 +714,6 @@
     "vatcode": "LT100003389212"
   },
   {
-    "name": "UAB \"Savas ūkis\"",
-    "code": "304813381",
-    "address": "Vilnius, A. Juozapavičiaus g. 3, LT-09310"
-  },
-  {
     "name": "UAB \"Saviečių ūkis\"",
     "code": "302779578",
     "address": "Kėdainių r. sav., Pelėdnagių sen., Saviečių k., Žiogaičių g. 20, LT-58151",
@@ -839,6 +825,11 @@
     "code": "161298135",
     "address": "Kėdainių r. sav., Vilainių sen., Aristavos k., Liepų al. 7, LT-58111",
     "vatcode": "LT612981314"
+  },
+  {
+    "name": "UAB Arūno ūkis",
+    "code": "307057875",
+    "address": "Vilkaviškio r. sav., Gižų sen., Senkiškių k., Marijampolės g. 21, LT-70317"
   },
   {
     "name": "UAB Baušų ūkis",
@@ -1290,11 +1281,6 @@
     "name": "ŽŪB \"NAISIŲ ŪKIS\"",
     "code": "303308675",
     "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Kaštonų g. 4, LT-14117"
-  },
-  {
-    "name": "ŽŪB \"Noteros ūkis\"",
-    "code": "303444419",
-    "address": "Jonava, Jonalaukio g. 3, LT-55198"
   },
   {
     "name": "ŽŪB \"Pajieslio žemės ūkis\"",
