@@ -86,11 +86,6 @@
     "address": "Kėdainiai, Janušavos g. 43, LT-57312"
   },
   {
-    "name": "J. Narbutienės ritualinių paslaugų dirbtuvės",
-    "code": "162522732",
-    "address": "Kelmė, Dariaus ir Girėno g. 16, LT-86136"
-  },
-  {
     "name": "Janinos Labutienės ritualinių paslaugų įmonė",
     "code": "170733686",
     "address": "Prienų r. sav., Balbieriškis, Jaunimo g. 42, LT-59242"
@@ -103,7 +98,8 @@
   {
     "name": "MB Varėnos ritualinių paslaugų centras",
     "code": "306747841",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
+    "vatcode": "LT100017458417"
   },
   {
     "name": "Rimos Lingienės ritualinių paslaugų įmonė \"Vainikas\"",
@@ -125,8 +121,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Varėnos ritualinės paslaugos\"",
     "code": "184627910",
-    "address": "Varėna, Savanorių g. 36, LT-65192",
-    "vatcode": "LT846279113"
+    "address": "Varėna, Savanorių g. 36, LT-65192"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Ritualis\"",
@@ -143,6 +138,11 @@
     "name": "MB \"Eden rituals\"",
     "code": "307005191",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "MB \"Gg rituals\"",
+    "code": "307063084",
+    "address": "Panevėžio r. sav., Velžio sen., Vyčių k., Onos g. 7, LT-38122"
   },
   {
     "name": "Silver Rituals, MB",
@@ -222,11 +222,6 @@
     "address": "Plungės r. sav., Babrungo sen., Truikių k., Nugarių g. 39, LT-90110"
   },
   {
-    "name": "Ledo ritulio labdaros ir paramos fondas",
-    "code": "301293573",
-    "address": "Vilnius, Konstitucijos pr. 7, LT-09308"
-  },
-  {
     "name": "Ledo ritulio mokykla \"Klaipėdos Baltija\"",
     "code": "302471979",
     "address": "Klaipėda, Strėvos g. 8-23, LT-93240"
@@ -249,7 +244,7 @@
   {
     "name": "Nacionalinė ledo ritulio tėvų asociacija",
     "code": "307011290",
-    "address": "Vilnius, Terasų g. 40, LT-03153"
+    "address": "Vilnius, Antakalnio g. 30-18, LT-10305"
   },
   {
     "name": "Rokiškio rajono ledo ritulio sporto klubas",

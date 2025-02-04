@@ -79,6 +79,11 @@
     "address": "Kaunas, Partizanų g. 166-60, LT-50337"
   },
   {
+    "name": "Lumexpo vizija UAB",
+    "code": "307084687",
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+  },
+  {
     "name": "MB \"AD Vizija\"",
     "code": "306142671",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
@@ -140,7 +145,8 @@
   {
     "name": "MB \"El vizija\"",
     "code": "307024284",
-    "address": "Kaunas, Pramonės pr. 73A-1, LT-50390"
+    "address": "Kaunas, Pramonės pr. 73A-1, LT-50390",
+    "vatcode": "LT100017446110"
   },
   {
     "name": "MB \"Fasado vizija\"",
@@ -229,11 +235,6 @@
     "vatcode": "LT100013477212"
   },
   {
-    "name": "MB \"Pramogų vizija\"",
-    "code": "305665373",
-    "address": "Kaunas, Kukučių g. 39, LT-51338"
-  },
-  {
     "name": "MB \"Rinkos vizija\"",
     "code": "303290565",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
@@ -290,11 +291,6 @@
     "address": "Vilniaus r. sav., Riešės sen., Raudondvario k., Liepų al. 15-14, LT-14257"
   },
   {
-    "name": "MB \"Vestuvių vizija\"",
-    "code": "305426099",
-    "address": "Vilnius, Loretos Asanavičiūtės g. 38-21, LT-04313"
-  },
-  {
     "name": "MB \"Virtuali vizija\"",
     "code": "306374118",
     "address": "Klaipėdos r. sav., Sendvario sen., Baukštininkų k., Žiemos g. 21, LT-92402",
@@ -340,6 +336,12 @@
     "code": "302885325",
     "address": "Alytus, Statybininkų g. 67-4, LT-63401",
     "vatcode": "LT100012185216"
+  },
+  {
+    "name": "MB Erdvės vizija",
+    "code": "307067620",
+    "address": "Kauno r. sav., Ringaudų sen., Bajorų k., Prezidento g. 18, LT-53368",
+    "vatcode": "LT100017510510"
   },
   {
     "name": "MB Geoduomenų vizija",
@@ -813,11 +815,6 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Smalupės g. 10, LT-91290"
   },
   {
-    "name": "VšĮ \"Meno vizija\"",
-    "code": "302581646",
-    "address": "Vilnius, Geležinkelio g. 3-14A, LT-02100"
-  },
-  {
     "name": "VšĮ \"Projektų Vizija\"",
     "code": "302912516",
     "address": "Molėtų r. sav., Inturkės sen., Mikalojiškio k. 5, LT-33215"
@@ -860,6 +857,11 @@
     "code": "302930891",
     "address": "Telšiai, J. Biliūno g. 35-2, LT-87320",
     "vatcode": "LT100012504114"
+  },
+  {
+    "name": "MB Vizijos VČ",
+    "code": "307074771",
+    "address": "Jurbarkas, Kęstučio g. 39-47, LT-74157"
   },
   {
     "name": "UAB \"Euro vizijos\" korporacija",
@@ -916,11 +918,6 @@
     "code": "305069277",
     "address": "Kaunas, Gedimino g. 47-R1, LT-44242",
     "vatcode": "LT100012276314"
-  },
-  {
-    "name": "UAB \"Viziris carpets\"",
-    "code": "301695796",
-    "address": "Šiauliai, Gumbinės g. 33C, LT-77171"
   },
   {
     "name": "UAB \"Vizirė\"",

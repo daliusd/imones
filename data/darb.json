@@ -335,8 +335,7 @@
   {
     "name": "MB \"Medienos darbai\"",
     "code": "304600038",
-    "address": "Panevėžys, Rožių g. 79, LT-37464",
-    "vatcode": "LT100011260615"
+    "address": "Panevėžys, Rožių g. 79, LT-37464"
   },
   {
     "name": "MB \"Medinuko darbai\"",
@@ -474,11 +473,6 @@
     "vatcode": "LT100014991515"
   },
   {
-    "name": "MB \"Specializuoti valymo darbai\"",
-    "code": "303171575",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
-  },
-  {
     "name": "MB \"Stalių darbai\"",
     "code": "304825889",
     "address": "Kaišiadorių r. sav., Žiežmariai, Žaslių g. 15, LT-56235"
@@ -575,7 +569,8 @@
   {
     "name": "MB Apdailos darbai LT",
     "code": "306696037",
-    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Gėlių g. 5-8, LT-53335"
+    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Gėlių g. 5-8, LT-53335",
+    "vatcode": "LT100017473219"
   },
   {
     "name": "MB Arono darbai",
@@ -651,6 +646,11 @@
     "address": "Kauno r. sav., Kulautuva, Tulpių g. 10A, LT-53480"
   },
   {
+    "name": "MB Karolio Darbai",
+    "code": "307055867",
+    "address": "Prienų r. sav., Šilavoto sen., Prienlaukio k., Meškapievės g. 1, LT-59159"
+  },
+  {
     "name": "MB Konstrukcijų ir apdailos darbai",
     "code": "305673498",
     "address": "Kaišiadorių r. sav., Palomenės sen., Neprėkštos k., Liepų g. 8, LT-56382"
@@ -683,11 +683,6 @@
     "vatcode": "LT100017207914"
   },
   {
-    "name": "MB Montavimo darbai",
-    "code": "305757359",
-    "address": "Švenčionių r. sav., Švenčionėliai, Žemutinė g. 45E-1, LT-18212"
-  },
-  {
     "name": "MB Mūsų darbai",
     "code": "306407372",
     "address": "Utena, Taikos g. 66-23, LT-28160"
@@ -696,6 +691,11 @@
     "name": "MB Namų darbai",
     "code": "306699866",
     "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Skalvių g. 3-7, LT-14166"
+  },
+  {
+    "name": "MB Pato darbai",
+    "code": "307072699",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "MB Plieno darbai",
@@ -737,6 +737,11 @@
     "name": "MB T metalo darbai",
     "code": "306354126",
     "address": "Kretingos r. sav., Kretingos sen., Kretingsodžio k., Mokyklos g. 13, LT-97100"
+  },
+  {
+    "name": "MB Techniniai darbai",
+    "code": "307069219",
+    "address": "Kelmės r. sav., Kukečių sen., Kukečių k., Liepų g. 40, LT-86429"
   },
   {
     "name": "MB Tekinimo darbai",
@@ -884,7 +889,7 @@
   {
     "name": "UAB \"Geotechniniai darbai\"",
     "code": "302328881",
-    "address": "Vilnius, Bistryčios g. 9-5, LT-10320",
+    "address": "Vilniaus r. sav., Rukainių sen., Rukainių k., Vilniaus g. 49, LT-13177",
     "vatcode": "LT100004658419"
   },
   {
@@ -1014,8 +1019,7 @@
   {
     "name": "UAB \"Smulkūs statybos darbai\"",
     "code": "305328267",
-    "address": "Vilniaus rajono savivaldybės teritorija",
-    "vatcode": "LT100013407915"
+    "address": "Vilniaus rajono savivaldybės teritorija"
   },
   {
     "name": "UAB \"Sodo darbai\"",
@@ -1315,11 +1319,6 @@
     "address": "Šilutės r. sav., Rusnė, Šilutės g. 12A, LT-99348"
   },
   {
-    "name": "UAB \"DARBAS TAU\"",
-    "code": "300500581",
-    "address": "Kelmės rajono savivaldybės teritorija"
-  },
-  {
     "name": "UAB \"Darbas LT\"",
     "code": "304071325",
     "address": "Klaipėda, Jaunystės g. 5H-15, LT-91274"
@@ -1329,11 +1328,6 @@
     "code": "304694913",
     "address": "Vilnius, Gedimino pr. 50, LT-01110",
     "vatcode": "LT100011232710"
-  },
-  {
-    "name": "UAB \"Globalus darbas\"",
-    "code": "303367200",
-    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "UAB \"Komandinis darbas\"",
@@ -1395,11 +1389,6 @@
     "vatcode": "LT234364219"
   },
   {
-    "name": "MB \"Darbastis\"",
-    "code": "305624031",
-    "address": "Vilnius, Lvivo g. 13-12, LT-09313"
-  },
-  {
     "name": "MB Darbasvisiems",
     "code": "306076716",
     "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Vėjo g. 12-2, LT-91276"
@@ -1435,11 +1424,6 @@
     "name": "Darbo saugos specialistų darbdavių asociacija",
     "code": "302493616",
     "address": "Klaipėda, J. Janonio g. 12-2, LT-92252"
-  },
-  {
-    "name": "Kauno apskrities verslininkų darbdavių konfederacija",
-    "code": "193413510",
-    "address": "Kaunas, Laisvės al. 30A, LT-44240"
   },
   {
     "name": "Kauno krašto pramonininkų ir darbdavių asociacija",
@@ -1530,9 +1514,9 @@
     "address": "Vilnius, A. Kojelavičiaus g. 200-2, LT-11106"
   },
   {
-    "name": "UAB Darbelita",
-    "code": "302452637",
-    "address": "Tauragė, Kęstučio g. 34, LT-72112"
+    "name": "Darben MB",
+    "code": "307072514",
+    "address": "Šiauliai, Vasario 16-osios g. 40, LT-76351"
   },
   {
     "name": "MB \"Darbera\"",
@@ -1546,11 +1530,6 @@
     "address": "Panevėžys, Tulpių g. 16-7, LT-35153"
   },
   {
-    "name": "MB \"Darbeta\"",
-    "code": "304427376",
-    "address": "Šakių r. sav., Griškabūdis, Sodybų g. 7, LT-71293"
-  },
-  {
     "name": "UAB \"Darbietis\"",
     "code": "306128216",
     "address": "Palanga, Vidurdienio g. 39, LT-00104"
@@ -1560,11 +1539,6 @@
     "code": "305964678",
     "address": "Kauno r. sav., Alšėnų sen., Mastaičių k., Garliavos g. 33, LT-53309",
     "vatcode": "LT100016534118"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Darbika\"",
-    "code": "164207913",
-    "address": "Kretingos r. sav., Darbėnų sen., Pasertupio k."
   },
   {
     "name": "UAB \"Darbineta\"",
@@ -1790,7 +1764,8 @@
   {
     "name": "MB Darbininkų keturi",
     "code": "306746853",
-    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Nemuno g. 13, LT-53363"
+    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Nemuno g. 13, LT-53363",
+    "vatcode": "LT100017444215"
   },
   {
     "name": "Marijampolės darbininkų sąjunga",
@@ -1851,11 +1826,6 @@
     "name": "Specialios paskirties uždarosios akcinės bendrovės \"Rokiškio autobusų parkas\" darbininkų sąjunga",
     "code": "173253354",
     "address": "Rokiškis, Panevėžio g. 7, LT-42163"
-  },
-  {
-    "name": "UAB \"Ariogalos gelžbetonis\" darbininkų sąjunga",
-    "code": "193039240",
-    "address": "Raseinių r. sav., Ariogala, Žemaičių g. 30, LT-60255"
   },
   {
     "name": "UAB \"Aukštaitijos vandenys\" darbininkų ir tarnautojų profsąjunga",
@@ -1964,11 +1934,6 @@
     "address": "Kaunas, Statybininkų g. 3, LT-50124"
   },
   {
-    "name": "Uždarosios akcinės bendrovės \"Vilkaviškio duona\" darbininkų sąjunga",
-    "code": "193254816",
-    "address": "Vilkaviškis, Pramonės g. 10, LT-70172"
-  },
-  {
     "name": "Uždarosios akcinės bendrovės \"Šakių autobusų parkas\" darbininkų sąjunga",
     "code": "174404841",
     "address": "Šakiai, Aušros g. 3, LT-71121"
@@ -2042,11 +2007,6 @@
     "name": "Visagino sporto komplekso darbininkų sąjunga",
     "code": "300817507",
     "address": "Visaginas, Vilties g. 5A, LT-31118"
-  },
-  {
-    "name": "Visagino vaikų kūrybos namų darbininkų sąjunga",
-    "code": "300023596",
-    "address": "Visaginas, Vilties g. 16, LT-31121"
   },
   {
     "name": "Žemaitijos baldininkų darbininkų sąjunga",
@@ -2130,11 +2090,6 @@
     "address": "Vilnius, Kauno g. 34, LT-03202"
   },
   {
-    "name": "Darbo g. 15-ojo daugiabučio namo savininkų bendrija",
-    "code": "301145681",
-    "address": "Vilnius, Darbo g. 15-5, LT-01206"
-  },
-  {
     "name": "Darbo laiko registravimo sistema, UAB",
     "code": "306736599",
     "address": "Klaipėda, Taikos pr. 18-116, LT-91224"
@@ -2168,11 +2123,6 @@
     "name": "IĮ \"Darbo medicina\"",
     "code": "303199247",
     "address": "Mažeikių rajono savivaldybės teritorija"
-  },
-  {
-    "name": "IĮ \"Darbo medicinos konsultacinis centras\"",
-    "code": "220252060",
-    "address": "Vilnius, Rinktinės g. 49-28, LT-09207"
   },
   {
     "name": "Kalvarijos savivaldybės administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, profesinė sąjunga",
@@ -2355,6 +2305,11 @@
     "code": "306732978",
     "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Rūko g. 5B, LT-91289",
     "vatcode": "LT100016874812"
+  },
+  {
+    "name": "MB Duok darbo",
+    "code": "307056684",
+    "address": "Trakų r. sav., Rūdiškių sen., Ismonių k., Ežerų g. 3, LT-21109"
   },
   {
     "name": "MB Saugi darbo vieta",
@@ -2629,7 +2584,7 @@
   {
     "name": "Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos",
     "code": "190766619",
-    "address": "Vilnius, Geležinio Vilko g. 3A, LT-03131"
+    "address": "Vilnius, A. Vivulskio g. 13, LT-03162"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA LIETUVOS DARBO FEDERACIJOS ŠVIETIMO CENTRAS",
@@ -2658,25 +2613,20 @@
     "address": "Vilnius, Labdarių g. 8, LT-01120"
   },
   {
-    "name": "Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos darbuotojų profesinė sąjunga",
-    "code": "303500960",
-    "address": "Vilnius, Perkūnkiemio g. 33-71, LT-12138"
-  },
-  {
     "name": "Viešoji įstaiga \"DARBO TEISĖS AKADEMIJA\"",
     "code": "302333871",
     "address": "Vilnius, Latvių g. 64A-1, LT-08113"
+  },
+  {
+    "name": "VšĮ \"Darbo fėja LT\"",
+    "code": "307076612",
+    "address": "Klaipėda, Taikos pr. 141A-96, LT-94284"
   },
   {
     "name": "VšĮ \"Darbo fėja\"",
     "code": "305361356",
     "address": "Gargždai, Vasario 16-osios g. 28, LT-96124",
     "vatcode": "LT100012814211"
-  },
-  {
-    "name": "VšĮ \"Darbo organizavimas\"",
-    "code": "304745521",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "VšĮ \"Ukrainiečių darbo teisių gynimo centras\"",
@@ -2866,11 +2816,6 @@
     "address": "Druskininkai, Eglės g. 1, LT-66251"
   },
   {
-    "name": "AB \"Ekranas\" darbuotojų laisvoji profesinė sąjunga",
-    "code": "190864878",
-    "address": "Panevėžys, Elektronikos g. 1, LT-35116"
-  },
-  {
     "name": "AB \"KLAIPĖDOS JŪRŲ KROVINIŲ KOMPANIJA\" darbuotojų profesinė sąjunga",
     "code": "141755587",
     "address": "Klaipėda, J. Zauerveino g. 18, LT-92122"
@@ -2921,19 +2866,9 @@
     "address": "Kaunas, M. K. Čiurlionio g. 14B, LT-44360"
   },
   {
-    "name": "AB \"Lietuvos geležinkeliai\" filialo \"Vilniaus geležinkelių infrastruktūra\" Automatikos ir ryšių ūkio darbuotojų profesinė sąjunga",
-    "code": "195753892",
-    "address": "Vilnius, Pelesos g. 24-402"
-  },
-  {
     "name": "AB \"Lietuvos geležinkeliai\" filialo \"Vilniaus geležinkelių infrastruktūra\" Kontaktinių tinklų ir Elektros tiekimo ūkių darbuotojų profesinė sąjunga",
     "code": "295757190",
     "address": "Vilnius, Geležinkelio g. 14, LT-02100"
-  },
-  {
-    "name": "AB \"Lietuvos geležinkeliai\" filialo \"Vilniaus geležinkelių infrastruktūra\" darbuotojų profesinė sąjunga",
-    "code": "191993331",
-    "address": "Vilnius, Pelesos g. 24, LT-02109"
   },
   {
     "name": "AB \"Lietuvos paštas\" darbuotojų profesinė sąjunga",
@@ -3096,11 +3031,6 @@
     "address": "Mažeikiai, Skuodo g. 4, LT-89100"
   },
   {
-    "name": "AB \"SANITAS\" darbuotojų profesinė sąjunga",
-    "code": "302268555",
-    "address": "Kaunas, Veiverių g. 134B, LT-46353"
-  },
-  {
     "name": "AB \"Smiltynės perkėla\" darbuotojų profesinė sąjunga",
     "code": "300748438",
     "address": "Klaipėda, Nemuno g. 8, LT-91191"
@@ -3139,11 +3069,6 @@
     "name": "AB \"Žeimena\" darbuotojų profesinė sąjunga",
     "code": "191994629",
     "address": "Švenčionys, Lentupio g. 49, LT-18126"
-  },
-  {
-    "name": "AB Lietuvos pašto filialo Kauno centrinio pašto darbuotojų profesinė sąjunga",
-    "code": "135572688",
-    "address": "Kaunas, Laisvės al. 102, LT-44252"
   },
   {
     "name": "AB Lietuvos žemės ūkio banko Radviliškio skyriaus darbuotojų profesinė sąjunga",
@@ -3316,11 +3241,6 @@
     "address": "Vilnius, J. Jasinskio g. 9, LT-01112"
   },
   {
-    "name": "Ariogalos pašto darbuotojų profesinė sąjunga",
-    "code": "172442590",
-    "address": "Raseinių r. sav., Ariogala, Vytauto g. 102, LT-60260"
-  },
-  {
     "name": "Asmenų su negalia teisių užtikrinimo darbuotojų profesinė sąjunga \"AGENTŪRA\"",
     "code": "306668792",
     "address": "Vilnius, Švitrigailos g. 10, LT-03223"
@@ -3371,11 +3291,6 @@
     "address": "Prienai, Paparčio g. 16, LT-59116"
   },
   {
-    "name": "Darbuotojų Profesinė Sąjunga \"Vienybietis\"",
-    "code": "301595550",
-    "address": "Ukmergė, Kauno g. 120, LT-20115"
-  },
-  {
     "name": "Darbuotojų ir valstybės tarnautojų profesinė sąjunga",
     "code": "302701501",
     "address": "Vilnius, Geležinkelio g. 3-14A, LT-02100"
@@ -3416,11 +3331,6 @@
     "address": "Druskininkai, Klonio g. 2, LT-66102"
   },
   {
-    "name": "Druskininkų M. K. Čiurlionio meno mokyklos darbuotojų profesinė sąjunga \"Solidarumas\"",
-    "code": "303479861",
-    "address": "Vilnius, K. Kalinausko g. 2B, LT-03107"
-  },
-  {
     "name": "Druskininkų miško darbuotojų profesinė sąjunga",
     "code": "165235075",
     "address": "Druskininkai, M. K. Čiurlionio g. 96, LT-66151"
@@ -3438,7 +3348,7 @@
   {
     "name": "Elektros energetikos darbuotojų profesinė sąjunga",
     "code": "193081410",
-    "address": "Vilnius, P. Lukšio g. 1-215"
+    "address": "Vilnius, V. Grybo g. 33-93, LT-10318"
   },
   {
     "name": "Elektros gamybos darbuotojų profesinė sąjunga",
@@ -3721,11 +3631,6 @@
     "address": "Kaunas, Laisvės al. 46, LT-44246"
   },
   {
-    "name": "Kauno apskrities kelių ir autotransporto darbuotojų profesinių sąjungų susivienijimas",
-    "code": "193588082",
-    "address": "Kaunas, A. Juozapavičiaus pr. 84, LT-45212"
-  },
-  {
     "name": "Kauno apskrities policijos ir kitų teisėsaugos darbuotojų profesinė sąjunga",
     "code": "193590343",
     "address": "Kaunas, Chemijos g. 4B, LT-51344"
@@ -3781,9 +3686,19 @@
     "address": "Kauno r. sav., Garliava, Stasio Lozoraičio g. 8-23, LT-53236"
   },
   {
+    "name": "Kauno regiono paštų darbuotojų profesinė sąjunga",
+    "code": "135572688",
+    "address": "Vilnius, Kalvarijų g. 98, LT-08211"
+  },
+  {
     "name": "Kauno regiono samdomų darbuotojų asociacija",
     "code": "306108466",
     "address": "Kaunas, Laisvės al. 31-12, LT-44311"
+  },
+  {
+    "name": "Kauno regiono telekomunikacijų darbuotojų profesinė sąjunga",
+    "code": "135695267",
+    "address": "Vilnius, Kalvarijų g. 98, LT-08211"
   },
   {
     "name": "Kauno sveikatos apsaugos darbuotojų profesinė sąjunga",
@@ -4856,11 +4771,6 @@
     "address": "Prienai, J. Brundzos g. 1, LT-59127"
   },
   {
-    "name": "Probacijos tarnybų darbuotojų profesinė sąjunga",
-    "code": "301891542",
-    "address": "Kaunas, Kęstučio g. 37, LT-44307"
-  },
-  {
     "name": "RESPUBLIKINĖ IKIMOKYKLINIŲ ĮSTAIGŲ DARBUOTOJŲ ASOCIACIJA \"SVEIKATOS ŽELMENĖLIAI\"",
     "code": "125511128",
     "address": "Vilnius, Savanorių pr. 54-60, LT-03135"
@@ -4874,11 +4784,6 @@
     "name": "RVUL darbuotojų profesinė sąjunga \"Solidarumas\"",
     "code": "300100142",
     "address": "Vilnius, Šiltnamių g. 29, LT-04130"
-  },
-  {
-    "name": "Radviliškio Lizdeikos gimnazijos švietimo darbuotojų profesinė sąjunga",
-    "code": "171656342",
-    "address": "Radviliškis, Lizdeikos g. 6C, LT-82180"
   },
   {
     "name": "Radviliškio miško darbuotojų profesinė sąjunga",
@@ -5026,11 +4931,6 @@
     "address": "Mažeikių r. sav., Seda, Dariaus ir Girėno g. 16, LT-89383"
   },
   {
-    "name": "Senjorų socialinės globos namų sveikatos apsaugos darbuotojų profesinė sąjunga",
-    "code": "304581292",
-    "address": "Vilnius, Kalvarijų g. 323, LT-08315"
-  },
-  {
     "name": "Skandinaviska Enskilda Banken AB, Vilnius filialo darbuotojų profesinė sąjunga",
     "code": "305475388",
     "address": "Vilnius, Vito Gerulaičio g. 10, LT-08200"
@@ -5074,16 +4974,6 @@
     "name": "Strūnos socialinės globos namų darbuotojų profesinė sąjunga",
     "code": "178998633",
     "address": "Švenčionių r. sav., Strūnaičio sen., Strūnos k."
-  },
-  {
-    "name": "TEO LT, AB Kauno regiono darbuotojų profesinė sąjunga",
-    "code": "135695267",
-    "address": "Kaunas, Taikos pr. 54, LT-51305"
-  },
-  {
-    "name": "TEO LT, AB Klaipėdos regiono darbuotojų profesinė sąjunga",
-    "code": "141620881",
-    "address": "Klaipėda, Liepų g. 16A, LT-92114"
   },
   {
     "name": "Tauragės rajono kultūros darbuotojų profesinė sąjunga",
@@ -5496,11 +5386,6 @@
     "address": "Vilnius, Verkių g. 52, LT-09109"
   },
   {
-    "name": "UAB \"Vengriško maisto ir gėrimų ambasados\" darbuotojų profesinė sąjunga \"Csarda\"",
-    "code": "301171085",
-    "address": "Vilnius, Šv. Mykolo g. 4-1, LT-01124"
-  },
-  {
     "name": "UAB \"Viking Malt\" darbuotojų profesinė sąjunga",
     "code": "304823475",
     "address": "Panevėžys, Pramonės g. 2, LT-35289"
@@ -5658,7 +5543,7 @@
   {
     "name": "Utenos socialinės globos namų darbuotojų profesinė sąjunga",
     "code": "284080260",
-    "address": "Utenos r. sav., Vyžuonų sen., Atkočiškių k."
+    "address": "Utena, Kupiškio g. 66, LT-28175"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"AGROCHEMA\" darbuotojų profesinė sąjunga",
@@ -5806,6 +5691,11 @@
     "address": "Panevėžys, Vasario 16-osios g. 60, LT-35167"
   },
   {
+    "name": "VU Kauno fakulteto darbuotojų atstovybė-profesinė sąjunga",
+    "code": "302466373",
+    "address": "Kaunas, Muitinės g. 8, LT-44280"
+  },
+  {
     "name": "Vaistinių darbuotojų profesinė sąjunga",
     "code": "302346438",
     "address": "Klaipėda, Varpų g. 23-5, LT-94279"
@@ -5856,11 +5746,6 @@
     "address": "Vilnius, Gedimino pr. 29, LT-01104"
   },
   {
-    "name": "Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos darbuotojų profesinė sąjunga",
-    "code": "303500960",
-    "address": "Vilnius, Perkūnkiemio g. 33-71, LT-12138"
-  },
-  {
     "name": "Valstybės įmonės Valstybinio žemėtvarkos instituto Panevėžio filialo darbuotojų profesinė sąjunga",
     "code": "148329825",
     "address": "Panevėžys, Respublikos g. 63, LT-35159"
@@ -5881,6 +5766,11 @@
     "address": "Akmenės r. sav., Ventos sen., Paeglesių k., Sodų g. 1, LT-85335"
   },
   {
+    "name": "Viešoji įstaiga \"Darbuotojų mokymo centras\"",
+    "code": "307076391",
+    "address": "Vilnius, Gedvydžių g. 5-35, LT-06312"
+  },
+  {
     "name": "Viešoji įstaiga Plungės rajono greitosios medicinos pagalbos Lietuvos sveikatos apsaugos darbuotojų profesinė sąjunga",
     "code": "300552806",
     "address": "Plungė, A. Jucio g. 55-46, LT-90149"
@@ -5899,11 +5789,6 @@
     "name": "Viešosios įstaigos \"Nauja kvalifikacija\" darbuotojų profesinė sąjunga",
     "code": "302648714",
     "address": "Kaunas, Miško g. 30-78, LT-44313"
-  },
-  {
-    "name": "Viešosios įstaigos \"Raseinių priešgaisrinės saugos tarnyba\" darbuotojų profesinė sąjunga",
-    "code": "300040147",
-    "address": "Raseiniai, Žemaičių g. 10, LT-60119"
   },
   {
     "name": "Viešosios įstaigos \"Šilutės ligoninė\" sveikatos apsaugos darbuotojų profesinė sąjunga",
@@ -6016,11 +5901,6 @@
     "address": "Vilnius, Paupio g. 33A-27, LT-11341"
   },
   {
-    "name": "Vilniaus Emilijos Pliaterytės progimnazijos darbuotojų profesinė sąjunga \"Solidarumas\"",
-    "code": "303681368",
-    "address": "Vilnius, J. Jasinskio g. 9, LT-01112"
-  },
-  {
     "name": "Vilniaus Gedimino technikos universiteto (VGTU) darbuotojų profesinė sąjunga",
     "code": "300513194",
     "address": "Vilnius, Saulėtekio al. 11, LT-10223"
@@ -6094,11 +5974,6 @@
     "name": "Vilniaus technologijų ir dizaino kolegijos darbuotojų profesinė sąjunga",
     "code": "306681793",
     "address": "Vilnius, Antakalnio g. 54, LT-10303"
-  },
-  {
-    "name": "Vilniaus universiteto Kauno humanitarinio fakulteto darbuotojų atstovybė-profesinė sąjunga",
-    "code": "302466373",
-    "address": "Kaunas, Muitinės g. 8, LT-44280"
   },
   {
     "name": "Vilniaus Žemynos gimnazijos Krikščioniškoji švietimo darbuotojų profesinė sąjunga",
@@ -6261,19 +6136,9 @@
     "address": "Panevėžio r. sav., Velžio sen., Staniūnų k., Dvaro g. 3, LT-38121"
   },
   {
-    "name": "VšĮ Respublikinės Vilniaus psichiatrijos ligoninės darbuotojų profesinė sąjunga",
-    "code": "304502697",
-    "address": "Vilnius, Mėtų g. 4, LT-10238"
-  },
-  {
     "name": "VšĮ Respublikinės Šiaulių ligoninės Psichiatrijos klinikos darbuotojų profesinė sąjunga",
     "code": "302470681",
     "address": "Šiauliai, M. K. Čiurlionio g. 12, LT-76304"
-  },
-  {
-    "name": "VšĮ Sedos pirminės sveikatos priežiūros centro darbuotojų profesinė sąjunga",
-    "code": "167336977",
-    "address": "Mažeikių r. sav., Seda, J. Basanavičiaus g. 8, LT-89380"
   },
   {
     "name": "VšĮ Skuodo greitosios medicinos pagalbos darbuotojų profesinė sąjunga \"Solidarumas\"",
@@ -6361,11 +6226,6 @@
     "address": "Šiauliai, Aušros al. 42, LT-76240"
   },
   {
-    "name": "Šiaulių m. socialinės apsaugos sistemos darbuotojų profesinė sąjunga",
-    "code": "302453283",
-    "address": "Šiauliai, Aušros al. 48, LT-76236"
-  },
-  {
     "name": "Šiaulių policijos darbuotojų profesinė sąjunga",
     "code": "193458886",
     "address": "Šiauliai, Aušros al. 19, LT-76300"
@@ -6406,7 +6266,7 @@
     "address": "Šilalė, Kovo 11-osios g. 17, LT-75135"
   },
   {
-    "name": "Šilutės miškų urėdijos darbuotojų profesinė sąjunga",
+    "name": "Šilutės miškų darbuotojų profesinė sąjunga",
     "code": "177349318",
     "address": "Šilutė, Nemuno g. 15, LT-99149"
   },
@@ -6597,16 +6457,6 @@
     "address": "Plungės r. sav., Babrungo sen., Babrungo k., Kaštonų g. 4, LT-90108"
   },
   {
-    "name": "A. Adomaičio statybos darbų įmonė",
-    "code": "166672569",
-    "address": "Mažeikių r. sav., Mažeikių apylinkės sen., Naikių k."
-  },
-  {
-    "name": "A. P. Baranausko statybos darbų įmonė",
-    "code": "167372336",
-    "address": "Mažeikiai, Sodų g. 1-50, LT-89138"
-  },
-  {
     "name": "A. Rudzevičiaus individuali apdailos darbų įmonė \"ALVA\"",
     "code": "220002480",
     "address": "Vilnius, Adutiškio g. 5A-26, LT-02112"
@@ -6680,11 +6530,6 @@
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
   },
   {
-    "name": "J. Pauliko miško darbų įmonė",
-    "code": "164254069",
-    "address": "Kretingos r. sav., Darbėnai, Kašučių g. 34, LT-97263"
-  },
-  {
     "name": "Konsultacinė darbų saugos IĮ \"Zigmantera\"",
     "code": "300012863",
     "address": "Kelmė, Vilbėno g. 9, LT-86124",
@@ -6720,7 +6565,7 @@
   {
     "name": "MB \"Darbų saugos koordinavimas\"",
     "code": "305586965",
-    "address": "Vilnius, Raudonės g. 74, LT-12205",
+    "address": "Vilnius, Tilžės g. 60-5, LT-06247",
     "vatcode": "LT100013918519"
   },
   {
@@ -6794,11 +6639,6 @@
     "vatcode": "LT100004304316"
   },
   {
-    "name": "P. Vaičekausko miško ruošos darbų individuali įmonė",
-    "code": "163391385",
-    "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Šakinių k."
-  },
-  {
     "name": "Paramos fondas \"Gerų darbų dirbtuvės\"",
     "code": "303379747",
     "address": "Vilnius, J. Jasinskio g. 16G, LT-03163"
@@ -6812,11 +6652,6 @@
     "name": "Priešgaisrinių darbų ir paslaugų asociacija",
     "code": "300068673",
     "address": "Vilnius, Panerių g. 51-106, LT-03160"
-  },
-  {
-    "name": "R. Arlauskio statybos ir remonto darbų baras",
-    "code": "180189158",
-    "address": "Telšiai, Kalnėnų g. 1, LT-87160"
   },
   {
     "name": "R. Barono žemėtvarkos darbų įmonė",
@@ -6951,11 +6786,6 @@
     "name": "UAB STATYBOS DARBŲ SFERA",
     "code": "304294876",
     "address": "Anykščių r. sav., Anykščių sen., Šlavėnų k., Dvaro g. 2, LT-29168"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Bendrieji darbų projektai\"",
-    "code": "160421930",
-    "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k."
   },
   {
     "name": "V. Baltrėnienės projektavimo darbų studija",

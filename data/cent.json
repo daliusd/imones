@@ -269,16 +269,6 @@
     "vatcode": "LT100001979010"
   },
   {
-    "name": "UAB \"EURO-CENTER BALTIJA\"",
-    "code": "111780339",
-    "address": "Kauno miesto savivaldybės teritorija"
-  },
-  {
-    "name": "UAB \"Fin Center\"",
-    "code": "305693401",
-    "address": "Vilnius, Panerių g. 35-1, LT-03202"
-  },
-  {
     "name": "UAB \"KOBA Center Operations\"",
     "code": "300072910",
     "address": "Vilnius, Žalgirio g. 93, LT-08218",
@@ -548,7 +538,8 @@
   {
     "name": "MB Centina LT",
     "code": "307043231",
-    "address": "Kaunas, Kuršių g. 51, LT-48112"
+    "address": "Kaunas, Kuršių g. 51, LT-48112",
+    "vatcode": "LT100017497216"
   },
   {
     "name": "UAB \"Centina\"",
@@ -559,7 +550,8 @@
   {
     "name": "UAB Centina Servis Kaunas",
     "code": "307043135",
-    "address": "Kaunas, Kuršių g. 51, LT-48112"
+    "address": "Kaunas, Kuršių g. 51, LT-48112",
+    "vatcode": "LT100017475215"
   },
   {
     "name": "Cento co-op UAB",
@@ -606,6 +598,11 @@
     "vatcode": "LT100006367510"
   },
   {
+    "name": "MB \"Suncity central apartments\"",
+    "code": "307059381",
+    "address": "Šiauliai, P. Višinskio g. 32-37, LT-77154"
+  },
+  {
     "name": "ORACLE EAST CENTRAL EUROPE LIMITED FILIALAS",
     "code": "111881740",
     "address": "Vilnius, A. Goštauto g. 40, LT-03163"
@@ -641,13 +638,17 @@
   {
     "name": "VšĮ \"Art Central\"",
     "code": "305708771",
-    "address": "Vilnius, Paupio g. 50-136, LT-11341",
-    "vatcode": "LT100014075213"
+    "address": "Vilnius, Paupio g. 50-136, LT-11341"
   },
   {
     "name": "VšĮ World Jewish Congress - Eastern and Central Europe",
     "code": "303376982",
     "address": "Vilnius, Lvivo g. 25-702, LT-09320"
+  },
+  {
+    "name": "MB Ignis centralis",
+    "code": "307066486",
+    "address": "Vilnius, Vilniaus g. 20-14, LT-01402"
   },
   {
     "name": "Centralizuota finansų ir turto tarnyba prie Krašto apsaugos ministerijos",
@@ -670,11 +671,6 @@
     "code": "300127584",
     "address": "Vilnius, J. Savickio g. 4-1, LT-01108",
     "vatcode": "LT100001892415"
-  },
-  {
-    "name": "UAB \"Centrana\"",
-    "code": "304759407",
-    "address": "Radviliškio r. sav., Baisogalos sen., Pakiršinio k., Draugystės g. 1, LT-82297"
   },
   {
     "name": "AviaAM Leasing Service Centre, AB",
@@ -844,21 +840,6 @@
     "code": "303425486",
     "address": "Vilnius, Kalvarijų g. 137E, LT-08248",
     "vatcode": "LT100008968718"
-  },
-  {
-    "name": "UAB \"Centriniai sparnai\"",
-    "code": "304373373",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
-    "name": "Viešoji įstaiga \"Centriniai interneto vartai\"",
-    "code": "300053333",
-    "address": "Kaunas, Pilviškių g. 1, LT-46412"
-  },
-  {
-    "name": "AB Lietuvos pašto filialo Kauno centrinio pašto darbuotojų profesinė sąjunga",
-    "code": "135572688",
-    "address": "Kaunas, Laisvės al. 102, LT-44252"
   },
   {
     "name": "Alytaus centrinio pašto profsąjungos organizacija",
@@ -1139,6 +1120,11 @@
     "address": "Jurbarkas, K. Donelaičio g. 64, LT-74184"
   },
   {
+    "name": "Bendrija \"Centro duetas\"",
+    "code": "307079291",
+    "address": "Vilnius, Lvivo g. 81-73, LT-09306"
+  },
+  {
     "name": "Centro judėjimas už Šilalės kraštą",
     "code": "305982886",
     "address": "Šilalė, Aušros g. 43, LT-75132"
@@ -1198,11 +1184,6 @@
     "name": "Ignalinos rajono socialinių paslaugų centro darbuotojų profesinė sąjunga \"Solidarumas\"",
     "code": "304943880",
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
-  },
-  {
-    "name": "Investicinės akcinės bendrovės \"Centro investicija\" Panevėžio filialas",
-    "code": "247881280",
-    "address": "Panevėžys, Klaipėdos g. 25, LT-35213"
   },
   {
     "name": "IĮ \"Centro kompiuteriai\"",
@@ -1321,11 +1302,6 @@
     "address": "Vilnius, A. Goštauto g. 9-101, LT-01108"
   },
   {
-    "name": "MB \"Centro prekyba\"",
-    "code": "303105689",
-    "address": "Vilnius, Tilto g. 12-11, LT-01101"
-  },
-  {
     "name": "Marijampolės kultūros centro profesinė sąjunga",
     "code": "306946779",
     "address": "Vilnius, J. Jasinskio g. 9-101, LT-01112"
@@ -1429,16 +1405,6 @@
     "name": "Rokiškio socialinės paramos centro darbuotojų profesinė sąjunga \"Solidarumas\"",
     "code": "304947416",
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
-  },
-  {
-    "name": "Rusų kultūros centro personalinė įmonė \"MECENAT\"",
-    "code": "121320549",
-    "address": "Vilnius, Išganytojo g. 2, LT-01125"
-  },
-  {
-    "name": "SPAB \"Lietuvos geležinkeliai\" Ekspedicinio centro profesinė sąjunga",
-    "code": "191993865",
-    "address": "Vilnius, Panerių g. 56, LT-03160"
   },
   {
     "name": "Sostinės vaikų ir jaunimo centro Užupio filialas",
@@ -1619,11 +1585,6 @@
     "address": "Vilnius, Jogailos g. 4, LT-01116"
   },
   {
-    "name": "UAB \"Saulės Energijos Centro parkas\"",
-    "code": "302802799",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "UAB \"Technikos centro paslaugos\"",
     "code": "304832015",
     "address": "Panevėžys, Vilniaus g. 55-2, LT-36101",
@@ -1637,7 +1598,7 @@
   {
     "name": "UAB \"Višinskio centro panorama\"",
     "code": "307023360",
-    "address": "Kaunas, Rytų g. 6-14, LT-51365"
+    "address": "Vilnius, Dysnos g. 7-12, LT-01135"
   },
   {
     "name": "UAB Centro Holiganas",
@@ -1891,11 +1852,6 @@
     "address": "Panevėžys, Vasario 16-osios g. 8, LT-35174"
   },
   {
-    "name": "Viešosios įstaigos jaunimo centro \"BABILONAS\" Ukmergės filialas",
-    "code": "182938656",
-    "address": "Ukmergė, Linų g. 27C, LT-20175"
-  },
-  {
     "name": "Viešosios įstaigos jaunimo centro \"Babilonas\" Kauno filialas",
     "code": "135078796",
     "address": "Kaunas, Parodos g. 26, LT-44221"
@@ -1974,11 +1930,6 @@
     "name": "VšĮ Pakruojo raj. Pirminės sveikatos priežiūros centro darbuotojų profesinė sąjunga \"Solidarumas\"",
     "code": "305088562",
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
-  },
-  {
-    "name": "VšĮ Sedos pirminės sveikatos priežiūros centro darbuotojų profesinė sąjunga",
-    "code": "167336977",
-    "address": "Mažeikių r. sav., Seda, J. Basanavičiaus g. 8, LT-89380"
   },
   {
     "name": "VšĮ Vaikų užimtumo centro \"Diena kitaip\" filialas",

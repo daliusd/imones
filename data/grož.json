@@ -25,24 +25,9 @@
     "address": "Vilnius, Justiniškių g. 109-46, LT-05251"
   },
   {
-    "name": "A. Balčiūno firma \"GROŽIO KALVĖ\"",
-    "code": "147875426",
-    "address": "Panevėžys, Bijūnų g. 64, LT-37457"
-  },
-  {
-    "name": "BALTIJOS GROŽIO SPECIALISTŲ ASOCIACIJA",
-    "code": "300078614",
-    "address": "Vilnius, Aguonų g. 17, LT-03213"
-  },
-  {
     "name": "D. Lukošiūnienės grožio salonas \"MONRIDA\"",
     "code": "241904740",
     "address": "Klaipėda, Bangų g. 9-1, LT-91250"
-  },
-  {
-    "name": "E. Borneikienės grožio studija \"Primadona\"",
-    "code": "135742635",
-    "address": "Kaunas, S. Daukanto g. 17-13"
   },
   {
     "name": "Erich grožio namai, MB",
@@ -152,9 +137,9 @@
     "address": "Kelmė, Vytauto Didžiojo g. 45-3, LT-86135"
   },
   {
-    "name": "Jurgitos Jaskienės grožio studija \"Pažvelk kitaip\"",
-    "code": "135524145",
-    "address": "Kaunas, Sąjungos a. 6-10, LT-48358"
+    "name": "Jolantos grožio studija, MB",
+    "code": "307061158",
+    "address": "Vilkaviškio r. sav., Kybartai, Vištyčio g. 11, LT-70428"
   },
   {
     "name": "Kirpėjų ir grožio specialistų asociacija",
@@ -293,7 +278,8 @@
   {
     "name": "MB \"Grožio filosofija\"",
     "code": "307025564",
-    "address": "Jurbarkas, V. Kudirkos g. 26-46, LT-74148"
+    "address": "Jurbarkas, V. Kudirkos g. 26-46, LT-74148",
+    "vatcode": "LT100017466418"
   },
   {
     "name": "MB \"Grožio giesmė\"",
@@ -408,7 +394,7 @@
   {
     "name": "MB \"Grožio pieva\"",
     "code": "305156426",
-    "address": "Vilnius, Kalno g. 26-2, LT-11103",
+    "address": "Palanga, Sakalo g. 11A-2, LT-00169",
     "vatcode": "LT100016476117"
   },
   {
@@ -441,6 +427,11 @@
     "name": "MB \"Grožio rojus\"",
     "code": "304502829",
     "address": "Šiauliai, Pabalių g. 41A, LT-77121"
+  },
+  {
+    "name": "MB \"Grožio rytai\"",
+    "code": "307064446",
+    "address": "Palanga, Kontininkų g. 3B K8, LT-00171"
   },
   {
     "name": "MB \"Grožio salelė\"",
@@ -737,11 +728,6 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Purienų g. 7, LT-91284"
   },
   {
-    "name": "MB Grožio centras",
-    "code": "304172961",
-    "address": "Vilnius, S. Fino g. 6-3, LT-09305"
-  },
-  {
     "name": "MB Grožio dirbtuvės",
     "code": "304954072",
     "address": "Telšiai, Žemaitės g. 29-6, LT-87133"
@@ -803,7 +789,8 @@
   {
     "name": "MB Grožio kuratoriai",
     "code": "306723662",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100017468111"
   },
   {
     "name": "MB Grožio mokykla \"Čilivanila\"",
@@ -974,6 +961,11 @@
     "address": "Vilnius, Šilo g. 3-32, LT-10322"
   },
   {
+    "name": "MB Nero grožio salonas",
+    "code": "307052508",
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Elnio g. 4, LT-53277"
+  },
+  {
     "name": "MB Oksanos Pikul grožio namai",
     "code": "305376664",
     "address": "Vilnius, Aguonų g. 9-102, LT-03213",
@@ -993,6 +985,11 @@
     "name": "MB Sveikatos ir grožio produktai",
     "code": "306155754",
     "address": "Vilnius, Fabijoniškių g. 55-32, LT-07118"
+  },
+  {
+    "name": "MB Sveiko grožio pasaulis",
+    "code": "307066283",
+    "address": "Panevėžys, Smėlynės g. 17-1, LT-35144"
   },
   {
     "name": "MB Vilniaus masažo ir grožio klinika",
@@ -1143,11 +1140,6 @@
     "vatcode": "LT100010559817"
   },
   {
-    "name": "UAB \"GLAMOUR grožio namai\"",
-    "code": "302864352",
-    "address": "Vilnius, Sėlių g. 62-1, LT-08109"
-  },
-  {
     "name": "UAB \"GROŽIO ALĖJA\"",
     "code": "302657115",
     "address": "Vilnius, Igno Šimulionio g. 5-11, LT-04330"
@@ -1278,11 +1270,6 @@
     "name": "UAB \"Grožio idėjos\"",
     "code": "302608488",
     "address": "Šiauliai, Gytarių g. 43-42, LT-78413"
-  },
-  {
-    "name": "UAB \"Grožio imperija\"",
-    "code": "160288615",
-    "address": "Kauno r. sav., Lapės, Upelio g. 31-1"
   },
   {
     "name": "UAB \"Grožio industrijos\"",
@@ -1442,8 +1429,7 @@
   {
     "name": "UAB \"Grožio spektras\"",
     "code": "303372770",
-    "address": "Kaunas, Laisvės al. 82, LT-44250",
-    "vatcode": "LT100008828815"
+    "address": "Kaunas, Laisvės al. 82, LT-44250"
   },
   {
     "name": "UAB \"Grožio sprendimai\"",
@@ -1484,8 +1470,7 @@
   {
     "name": "UAB \"Grožio visata\"",
     "code": "306298033",
-    "address": "Vilnius, Tuskulėnų g. 8-3, LT-09212",
-    "vatcode": "LT100015942815"
+    "address": "Vilnius, Tuskulėnų g. 8-3, LT-09212"
   },
   {
     "name": "UAB \"Grožio įkaitė\"",
@@ -1567,11 +1552,6 @@
     "address": "Kėdainiai, Žemaitės g. 32-58, LT-57194"
   },
   {
-    "name": "UAB Grožio salonas \"JUMS\"",
-    "code": "145304731",
-    "address": "Šiauliai, Vytauto g. 261-2A, LT-77181"
-  },
-  {
     "name": "UAB Grožio studija \"Divalta\"",
     "code": "304127083",
     "address": "Vilnius, A. Juozapavičiaus g. 6A, LT-09310",
@@ -1605,11 +1585,6 @@
     "code": "300525595",
     "address": "Plungė, Telšių g. 13, LT-90162",
     "vatcode": "LT100002245319"
-  },
-  {
-    "name": "UAB Sveikatos ir grožio turizmo centras",
-    "code": "304153174",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
   },
   {
     "name": "UAB Užupio grožio namai",
@@ -1721,11 +1696,6 @@
     "name": "VšĮ \"Otonas\", sporto, grožio, sveikatingumo centras",
     "code": "303530900",
     "address": "Kaunas, Vyšniavos g. 7-7, LT-44428"
-  },
-  {
-    "name": "VšĮ \"Rasos grožio terapija\"",
-    "code": "305327891",
-    "address": "Jurbarkas, Vytauto Didžiojo g. 33, LT-74128"
   },
   {
     "name": "VšĮ Grožio intriga",
@@ -1887,7 +1857,7 @@
   {
     "name": "MB \"Plaukų grožis\"",
     "code": "304443430",
-    "address": "Klaipėda, I. Simonaitytės g. 17-156, LT-95121"
+    "address": "Klaipėdos miesto savivaldybės teritorija"
   },
   {
     "name": "MB \"Retas grožis\"",
@@ -1905,11 +1875,6 @@
     "address": "Vilnius, Linkmenų g. 34-81, LT-08217"
   },
   {
-    "name": "MB \"Tvarus grožis\"",
-    "code": "305924662",
-    "address": "Kaunas, Rasytės g. 12-14, LT-48122"
-  },
-  {
     "name": "MB \"Vidinis grožis\"",
     "code": "306720748",
     "address": "Vilnius, Kalvarijų g. 3-402, LT-09310"
@@ -1917,7 +1882,7 @@
   {
     "name": "MB \"Vyriškas grožis\"",
     "code": "304828846",
-    "address": "Kaunas, Baltų pr. 129-73, LT-48201"
+    "address": "Utenos r. sav., Leliūnų sen., Degulių k., Degulių g. 4, LT-28430"
   },
   {
     "name": "MB Estetikos studija \"Tikslas Grožis\"",

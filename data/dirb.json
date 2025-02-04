@@ -132,11 +132,6 @@
     "address": "Šiaulių r. sav., Kuršėnai, Sodo g. 18, LT-81178"
   },
   {
-    "name": "Kuršėnų miškų urėdijos dirbančiųjų profesinė sąjunga",
-    "code": "145778455",
-    "address": "Šiaulių r. sav., Kuršėnai, Gedimino g. 4, LT-81181"
-  },
-  {
     "name": "LIETUVOS AKLŲJŲ IR SILPNAREGIŲ SĄJUNGOS VILNIAUS ĮMONĖS DIRBANČIŲJŲ VIETINĖ PROFESINĖ ORGANIZACIJA",
     "code": "193356372",
     "address": "Vilnius, Skroblų g. 19, LT-03141"
@@ -149,7 +144,7 @@
   {
     "name": "Molėtų krašto dirbančiųjų profesinė sąjunga",
     "code": "302568702",
-    "address": "Molėtų r. sav., Giedraičių sen., Kraujaleidžių k., Senoji g. 6, LT-33276"
+    "address": "Molėtų rajono savivaldybės teritorija"
   },
   {
     "name": "Panevėžio dirbančiųjų profesinė sąjunga \"Solidarumas\"",
@@ -165,11 +160,6 @@
     "name": "UAB \"Druskininkų vandenys\" dirbančiųjų sąjunga",
     "code": "152116092",
     "address": "Druskininkai, M. K. Čiurlionio g. 115, LT-66161"
-  },
-  {
-    "name": "UAB \"MEVILSTA\" dirbančiųjų profesinė sąjunga",
-    "code": "185600122",
-    "address": "Vilkaviškio r. sav., Šeimenos sen., Paežerių k."
   },
   {
     "name": "UAB \"PALINK\" dirbančiųjų profesinė sąjunga",
@@ -254,11 +244,6 @@
     "code": "133057020",
     "address": "Kaunas, Pramonės pr. 32-36, LT-50347",
     "vatcode": "LT330570219"
-  },
-  {
-    "name": "M. Liutkevičiaus meno dirbinių įmonė",
-    "code": "147468811",
-    "address": "Panevėžys, Klaipėdos g. 94A-11, LT-37359"
   },
   {
     "name": "O. Savickienės keramikos dirbinių įmonė",
@@ -414,7 +399,8 @@
   {
     "name": "MB \"Dirbtinis robotas\"",
     "code": "305925173",
-    "address": "Vilnius, Sūduvos g. 14-1, LT-14259"
+    "address": "Vilnius, Sūduvos g. 14-1, LT-14259",
+    "vatcode": "LT100017457518"
   },
   {
     "name": "MB AI Dirbtinis Intelektas",
@@ -510,11 +496,6 @@
     "address": "Kaunas, Plieno g. 1-7, LT-44410"
   },
   {
-    "name": "Arvydo Valčiuko autoremonto dirbtuvė \"Ramstis\"",
-    "code": "175666145",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Vinkšnėnų k., Žemdirbių g. 22, LT-76132"
-  },
-  {
     "name": "Balsevičiaus medžio drožinių dirbtuvė",
     "code": "152432012",
     "address": "Palanga, Sodų g. 6-205, LT-00109"
@@ -533,11 +514,6 @@
     "name": "G. Kavaliausko automobilių remonto dirbtuvė",
     "code": "133420190",
     "address": "Kaunas, S. Raštikio g. 53-1"
-  },
-  {
-    "name": "G. Stašio autoremonto dirbtuvė",
-    "code": "154714996",
-    "address": "Biržų r. sav., Vabalninkas, Bartkūnų g. 19, LT-41348"
   },
   {
     "name": "G. Valiuko automobilių remonto dirbtuvė",
@@ -686,11 +662,6 @@
     "address": "Tauragės r. sav., Tauragės sen., Dacijonų k., Kaimynų g. 2, LT-72365"
   },
   {
-    "name": "R. Balšaičio gintaro dirbtuvė",
-    "code": "152490325",
-    "address": "Palanga, Medvalakio g. 13-37, LT-00140"
-  },
-  {
     "name": "R. Braždžiaus plastmasinių gaminių dirbtuvė \"Era\"",
     "code": "154737112",
     "address": "Biržai, P. Kalpoko g. 31"
@@ -700,11 +671,6 @@
     "code": "123900134",
     "address": "Vilnius, S. Konarskio g. 20-14, LT-03124",
     "vatcode": "LT100001182817"
-  },
-  {
-    "name": "S. Lideikos buitinių elektros prietaisų remonto dirbtuvė",
-    "code": "122942116",
-    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "Tikroji ūkinė bendrija \"Sūduvos vargonų dirbtuvė\"",
@@ -839,20 +805,10 @@
     "vatcode": "LT100016566217"
   },
   {
-    "name": "Aukštaitijos kūrybinės dirbtuvės \"DREVINĖ PUŠIS\"",
-    "code": "302536206",
-    "address": "Utena, Vaižganto g. 28-22, LT-28206"
-  },
-  {
     "name": "Butauskienės stiklo dirbtuvės \"Staigmena\"",
     "code": "133480020",
     "address": "Kauno r. sav., Neveronių sen., Neveronių k., Tvenkinio g. 12",
     "vatcode": "LT334800219"
-  },
-  {
-    "name": "D. Sutkaičio dizaino reklamos dirbtuvės \"Vedeksas\"",
-    "code": "151149634",
-    "address": "Marijampolė, Sasnavos g. 76D, LT-68110"
   },
   {
     "name": "D. Valiaus padangų restauravimo dirbtuvės",
@@ -860,24 +816,9 @@
     "address": "Telšiai, Kepyklos g. 9, LT-87105"
   },
   {
-    "name": "Ežiukų dirbtuvės, MB",
-    "code": "306001432",
-    "address": "Vilniaus r. sav., Šatrininkų sen., Grigaičių k., Geležinkelio g. 12, LT-11237"
-  },
-  {
     "name": "G. Mikulevičiaus paminklų dirbtuvės",
     "code": "153685933",
     "address": "Alytus, Snaigių g. 5, LT-62443"
-  },
-  {
-    "name": "G. Rusecko dirbtuvės",
-    "code": "162505964",
-    "address": "Kelmės r. sav., Tytuvėnai, Maironio g. 11C, LT-86486"
-  },
-  {
-    "name": "Galinos Traškienės projektavimo dirbtuvės",
-    "code": "134921578",
-    "address": "Kaunas, S. Žukausko g. 24-40, LT-49255"
   },
   {
     "name": "Gintaro Kazakausko dirbtuvės",
@@ -931,11 +872,6 @@
     "name": "J. Juknelio automobilių remonto dirbtuvės",
     "code": "165627877",
     "address": "Kalvarija, Ramybės g. 20, LT-69208"
-  },
-  {
-    "name": "J. Narbutienės ritualinių paslaugų dirbtuvės",
-    "code": "162522732",
-    "address": "Kelmė, Dariaus ir Girėno g. 16, LT-86136"
   },
   {
     "name": "Justino Paliulio automobilių kėbulų remonto dirbtuvės",
@@ -1050,6 +986,12 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Šilojų g. 12, LT-92408"
   },
   {
+    "name": "MB \"Norų dirbtuvės\"",
+    "code": "307054740",
+    "address": "Vilniaus r. sav., Nemenčinės sen., Raudondvario k., Pušyno g. 5, LT-15166",
+    "vatcode": "LT100017456410"
+  },
+  {
     "name": "MB \"RL Dirbtuvės\"",
     "code": "305634965",
     "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Ežero g. 75, LT-14158"
@@ -1075,8 +1017,7 @@
   {
     "name": "MB \"SVS dirbtuvės\"",
     "code": "305543469",
-    "address": "Panevėžys, J. Žemgulio g. 46, LT-35239",
-    "vatcode": "LT100016614816"
+    "address": "Panevėžys, J. Žemgulio g. 46, LT-35239"
   },
   {
     "name": "MB \"Spalvų dirbtuvės\"",
@@ -1159,6 +1100,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB Jėgos dirbtuvės",
+    "code": "307075713",
+    "address": "Vilnius, A. Vivulskio g. 23-3, LT-03114"
+  },
+  {
     "name": "MB Kavos dirbtuvės",
     "code": "304154130",
     "address": "Kaunas, Rasytės g. 3-7, LT-48127",
@@ -1208,6 +1154,11 @@
     "code": "305184386",
     "address": "Anykščių r. sav., Anykščių sen., Juškonių k., Juškonių g. 24, LT-29221",
     "vatcode": "LT100012427914"
+  },
+  {
+    "name": "MB Obenių dirbtuvės",
+    "code": "307075204",
+    "address": "Elektrėnai, Saulės g. 24-8, LT-26122"
   },
   {
     "name": "MB Pajūrio dirbtuvės",
@@ -1309,14 +1260,14 @@
     "address": "Klaipėdos r. sav., Priekulės sen., Stragnų II k., Pylimo g. 30, LT-96351"
   },
   {
-    "name": "UAB \"Kietųjų detalių dirbtuvės\"",
-    "code": "301530556",
-    "address": "Kaunas, R. Kalantos g. 88A-312, LT-52362"
-  },
-  {
     "name": "UAB \"Kūrybinės dizaino dirbtuvės\"",
     "code": "302821970",
     "address": "Šiauliai, J. Janonio g. 11A, LT-76206"
+  },
+  {
+    "name": "UAB \"Maisto dirbtuvės\"",
+    "code": "307070876",
+    "address": "Klaipėda, Bandužių g. 15-148, LT-95233"
   },
   {
     "name": "UAB \"Reklamos dirbtuvės\"",
@@ -1369,11 +1320,6 @@
     "vatcode": "LT214255917"
   },
   {
-    "name": "UAB Redo metalo dirbtuvės",
-    "code": "303150990",
-    "address": "Jonavos r. sav., Rukla, Ruklio g. 6, LT-55293"
-  },
-  {
     "name": "UAB Remonto dirbtuvės",
     "code": "303094883",
     "address": "Kaunas, V. Krėvės pr. 94-106, LT-50384"
@@ -1424,11 +1370,6 @@
     "name": "Viešoji įstaiga Skaitmeninės dirbtuvės",
     "code": "304626499",
     "address": "Vilnius, Briedžių g. 20, LT-11105"
-  },
-  {
-    "name": "Virginijaus Kimbirausko paminklų dirbtuvės",
-    "code": "170726873",
-    "address": "Prienai, J. Brundzos g. 7-2, LT-59127"
   },
   {
     "name": "VŠĮ Menų dirbtuvės",
@@ -1532,9 +1473,15 @@
     "address": "Palanga, Druskininkų g. 17A, LT-00149"
   },
   {
+    "name": "Dirbu sau, MB",
+    "code": "307059926",
+    "address": "Kauno r. sav., Užliedžių sen., Vijūkų k., Šilelio g. 15-2, LT-54306"
+  },
+  {
     "name": "MB \"Dirbu garsiai\"",
     "code": "306670551",
-    "address": "Panevėžys, Ramygalos g. 66-2, LT-36229"
+    "address": "Panevėžys, Ramygalos g. 66-2, LT-36229",
+    "vatcode": "LT100017439612"
   },
   {
     "name": "MB \"Dirbu saugiai\"",

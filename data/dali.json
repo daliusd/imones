@@ -86,6 +86,11 @@
     "address": "Vilnius, Architektų g. 106-13, LT-04222"
   },
   {
+    "name": "MB Daliara LT",
+    "code": "307074860",
+    "address": "Vilnius, Girulių g. 10, LT-12112"
+  },
+  {
     "name": "Daliaus Brazinsko veterinarinė firma",
     "code": "161433992",
     "address": "Kėdainių r. sav., Josvainių sen., Juodkaimių k."
@@ -94,11 +99,6 @@
     "name": "Daliaus Bučinsko individuali įmonė",
     "code": "157586943",
     "address": "Joniškio r. sav., Kepalių sen., Beržininkų k."
-  },
-  {
-    "name": "Daliaus Gasparavičiaus įmonė",
-    "code": "155620941",
-    "address": "Ignalina, Ažušilės g. 1, LT-30125"
   },
   {
     "name": "Daliaus Karklio prekybos įmonė",
@@ -160,7 +160,8 @@
   {
     "name": "Daliaus stogai MB",
     "code": "306988365",
-    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Sniego g. 15, LT-54311"
+    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Sniego g. 15, LT-54311",
+    "vatcode": "LT100017463716"
   },
   {
     "name": "IĮ \"Daliaus Kopicos įmonė\"",
@@ -199,11 +200,6 @@
     "name": "V. Dalibago techninio aptarnavimo įmonė",
     "code": "140447864",
     "address": "Klaipėda, Antrosios Melnragės g. 4, LT-92280"
-  },
-  {
-    "name": "UAB \"Dalida\"",
-    "code": "302325636",
-    "address": "Vilnius, Geležinkelio g. 3-14A, LT-02100"
   },
   {
     "name": "UAB \"Dalidenta\"",
@@ -263,19 +259,9 @@
     "address": "Kaunas, J. Mateikos g. 26, LT-50277"
   },
   {
-    "name": "Dalijos Sirvydienės įmonė",
-    "code": "135060079",
-    "address": "Kaunas, Taikos pr. 69-3, LT-50437"
-  },
-  {
     "name": "MB Dalikker barbering",
     "code": "306352730",
     "address": "Akmenės r. sav., Akmenės sen., Akmenės I k., Smėlio g. 2, LT-85380"
-  },
-  {
-    "name": "UAB \"Daliktos mediena\"",
-    "code": "136061344",
-    "address": "Kaunas, Raudondvario pl. 105A, LT-47185"
   },
   {
     "name": "UAB \"Dalikė\"",
@@ -413,11 +399,6 @@
     "vatcode": "LT878924515"
   },
   {
-    "name": "Dalios Bakšytės individuali įmonė \"JURSEDA\"",
-    "code": "301732209",
-    "address": "Vilnius, A. Vivulskio g. 15-6, LT-03162"
-  },
-  {
     "name": "Dalios Baliukevičienės stomatologijos kabinetas",
     "code": "151282912",
     "address": "Marijampolė, R. Juknevičiaus g. 7-3"
@@ -432,16 +413,6 @@
     "code": "156723588",
     "address": "Jonavos r. sav., Šilų sen., Ilgabradų k., Plento g. 13, LT-55109",
     "vatcode": "LT100003961917"
-  },
-  {
-    "name": "Dalios Bilikevičienės prekybos įmonė",
-    "code": "170731482",
-    "address": "Prienų r. sav., Jiezno sen., Vėžionių k."
-  },
-  {
-    "name": "Dalios Brazaitienės įmonė",
-    "code": "145021441",
-    "address": "Šiauliai, V. Bielskio g. 51C-4"
   },
   {
     "name": "Dalios Burneikienės individuali įmonė",
@@ -476,11 +447,6 @@
     "address": "Kaunas, Vievio g. 31, LT-44431"
   },
   {
-    "name": "Dalios Karaliūnienės firma",
-    "code": "134391432",
-    "address": "Kaunas, Kovo 11-osios g. 110-112, LT-49368"
-  },
-  {
     "name": "Dalios Kepežinskienės firma",
     "code": "133379847",
     "address": "Kaunas, Prancūzų g. 117-1"
@@ -502,19 +468,9 @@
     "address": "Kėdainiai, Mindaugo g. 16-1, LT-57458"
   },
   {
-    "name": "Dalios Labutienės įmonė",
-    "code": "134529666",
-    "address": "Kaunas, M. Gimbutienės g. 7-102, LT-52350"
-  },
-  {
     "name": "Dalios Lamauskienės įmonė",
     "code": "145418119",
     "address": "Šiauliai, Vilniaus g. 215-13, LT-76348"
-  },
-  {
-    "name": "Dalios Laskauskienės parduotuvė",
-    "code": "154260547",
-    "address": "Anykščių r. sav., Anykščių sen., Elmininkų II k."
   },
   {
     "name": "Dalios Matutytės individuali įmonė",
@@ -538,16 +494,6 @@
     "vatcode": "LT625813811"
   },
   {
-    "name": "Dalios Narbutienės įmonė",
-    "code": "162729389",
-    "address": "Kelmė, L. Giros g. 31, LT-86169"
-  },
-  {
-    "name": "Dalios Onutės Bušejevos paslaugų įmonė",
-    "code": "151424991",
-    "address": "Marijampolė, R. Juknevičiaus g. 3-30, LT-68183"
-  },
-  {
     "name": "Dalios Paškevičienės įmonė",
     "code": "122486082",
     "address": "Vilnius, Antakalnio g. 57, LT-10207"
@@ -561,16 +507,6 @@
     "name": "Dalios Povilaitytės įmonė",
     "code": "134887656",
     "address": "Kaunas, Kalvarijos g. 48-1"
-  },
-  {
-    "name": "Dalios Ralienės įmonė",
-    "code": "162775618",
-    "address": "Kelmė, Pievų g. 15, LT-86134"
-  },
-  {
-    "name": "Dalios Reginos Rūtelionienės parduotuvė \"Roda\"",
-    "code": "185101112",
-    "address": "Vilkaviškis, Kapų g. 3, LT-70124"
   },
   {
     "name": "Dalios Rudienės įmonė",
@@ -609,19 +545,9 @@
     "address": "Kaunas, V. Krėvės pr. 48-20, LT-50405"
   },
   {
-    "name": "Dalios Ulinskienės firma",
-    "code": "234332890",
-    "address": "Kaunas, R. Kalantos g. 127-7, LT-52312"
-  },
-  {
     "name": "Dalios Urbonienės individuali įmonė",
     "code": "149726790",
     "address": "Alytus, Kranto g. 18, LT-62147"
-  },
-  {
-    "name": "Dalios Užkuraitienės individuali įmonė",
-    "code": "157644236",
-    "address": "Joniškis, Melioratorių a. 8-4, LT-84172"
   },
   {
     "name": "Dalios Vaičiukynienės neurologinis kabinetas",
@@ -639,11 +565,6 @@
     "code": "121852840",
     "address": "Vilnius, Kalvarijų g. 201K, LT-08311",
     "vatcode": "LT218528418"
-  },
-  {
-    "name": "Dalios Visminienės individuali įmonė \"ŠUOLIS\"",
-    "code": "221285330",
-    "address": "Vilnius, S. Stanevičiaus g. 38-5, LT-07125"
   },
   {
     "name": "Dalios Vorienės prekybos įmonė",
@@ -675,11 +596,6 @@
     "name": "Dalios Čenkuvienės individuali įmonė",
     "code": "161737696",
     "address": "Kretinga, Žemaitės al. 6C-2, LT-97106"
-  },
-  {
-    "name": "Dalios Šarkienės IĮ",
-    "code": "300024342",
-    "address": "Kėdainių r. sav., Vilainių sen., Tiskūnų k., Tiskūnų g. 9, LT-58417"
   },
   {
     "name": "Dalios Šidlauskienės įmonė",
@@ -878,6 +794,11 @@
     "code": "306639310",
     "address": "Kaunas, Bajorų g. 5-29, LT-48376",
     "vatcode": "LT100016770016"
+  },
+  {
+    "name": "MB Imk dalių",
+    "code": "307076295",
+    "address": "Šilutė, Aukštumalės g. 5B-12, LT-99132"
   },
   {
     "name": "UAB \"Dalių angaras\"",

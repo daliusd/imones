@@ -53,15 +53,15 @@
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
+    "name": "MB \"Geri svečiai\"",
+    "code": "307079786",
+    "address": "Kaunas, Šeštokų g. 45B-9, LT-46426"
+  },
+  {
     "name": "MB \"Geri tekstai\"",
     "code": "306016612",
     "address": "Gargždai, Klaipėdos g. 24-10, LT-96135",
     "vatcode": "LT100015674814"
-  },
-  {
-    "name": "MB \"Geri vaikai\"",
-    "code": "304065742",
-    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Aušros g. 13, LT-54114"
   },
   {
     "name": "MB \"Geri įpročiai\"",
@@ -283,9 +283,19 @@
     "vatcode": "LT100010926917"
   },
   {
+    "name": "MB Dvi galvos geriau",
+    "code": "306445686",
+    "address": "Vilnius, Fabijoniškių g. 3-22, LT-07130"
+  },
+  {
     "name": "MB Galėčiau geriau",
     "code": "306306829",
     "address": "Klaipėda, Baltijos pr. 123-25, LT-93224"
+  },
+  {
+    "name": "MB Geriau nei nieko",
+    "code": "307053866",
+    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Žalioji g. 16-1, LT-91276"
   },
   {
     "name": "Mažoji bendrija \"Geriau\"",
@@ -323,11 +333,6 @@
     "name": "MB \"Geriausi batutai\"",
     "code": "305393012",
     "address": "Lazdijų r. sav., Šlavantų sen., Šlavantų k., Šlavantų g. 22, LT-67256"
-  },
-  {
-    "name": "MB \"Geriausi daktarai\"",
-    "code": "302915302",
-    "address": "Kauno r. sav., Karmėlavos sen., Narėpų k., Raudonikių g. 10, LT-54470"
   },
   {
     "name": "MB \"Geriausi darbai\"",
@@ -370,6 +375,11 @@
     "name": "MB \"Kas geriausia\"",
     "code": "305586591",
     "address": "Šiauliai, Dainų g. 4-24, LT-78292"
+  },
+  {
+    "name": "MB \"Rinkis geriausia apskaita\"",
+    "code": "307063650",
+    "address": "Kretingos r. sav., Darbėnų sen., Laukelių k. 2, LT-97291"
   },
   {
     "name": "MB \"Rinkitės geriausia\"",
@@ -530,11 +540,6 @@
     "name": "MB \"Gerindas\"",
     "code": "303134413",
     "address": "Klaipėda, Taikos pr. 24-13, LT-91222"
-  },
-  {
-    "name": "UAB \"Geringa\"",
-    "code": "304605875",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
     "name": "MB \"Verslo procesų gerinimas\"",

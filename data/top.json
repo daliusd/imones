@@ -140,11 +140,6 @@
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
-    "name": "MB Top Trade Limited",
-    "code": "303018323",
-    "address": "Kaunas, Europos pr. 122, LT-46351"
-  },
-  {
     "name": "MB Top apskaita",
     "code": "305701264",
     "address": "Vilnius, S. Žukausko g. 16-20, LT-08234",
@@ -186,7 +181,8 @@
   {
     "name": "Mažoji bendrija TOP PRO",
     "code": "306659658",
-    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Ilgoji g. 58-11, LT-54304"
+    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Ilgoji g. 58-11, LT-54304",
+    "vatcode": "LT100017503012"
   },
   {
     "name": "RG top, UAB",
@@ -353,15 +349,9 @@
     "address": "Vilniaus r. sav., Zujūnų sen., Gineitiškių k., Upelio g. 2, LT-14159"
   },
   {
-    "name": "UAB \"Top displėjai\"",
-    "code": "300153718",
-    "address": "Kauno miesto savivaldybės teritorija"
-  },
-  {
     "name": "UAB \"Top drivers\"",
     "code": "306340653",
-    "address": "Vilnius, Elbingo g. 25-5, LT-06285",
-    "vatcode": "LT100016636413"
+    "address": "Vilnius, Elbingo g. 25-5, LT-06285"
   },
   {
     "name": "UAB \"Top geo\"",
@@ -454,6 +444,11 @@
     "name": "UAB Top Ekspresas",
     "code": "305657088",
     "address": "Vilnius, Talino g. 67-5, LT-05200"
+  },
+  {
+    "name": "UAB Top Industries",
+    "code": "307067111",
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
   },
   {
     "name": "UAB Top Truck Klaipėda",

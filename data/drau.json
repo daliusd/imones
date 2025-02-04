@@ -5,11 +5,6 @@
     "address": "Ukmergė, Gedimino g. 55, LT-20105"
   },
   {
-    "name": "UAB draudimo brokeris \"Draudeksa\"",
-    "code": "135868324",
-    "address": "Kaunas, Savanorių pr. 278-44, LT-50201"
-  },
-  {
     "name": "Draudelių kaimo bendruomenė",
     "code": "302332260",
     "address": "Pakruojo r. sav., Pašvitinio sen., Draudelių k., Vaiškonių g. 2, LT-83346"
@@ -95,6 +90,11 @@
     "name": "Gyvybės draudimo UAB \"SB draudimas\"",
     "code": "110081788",
     "address": "Vilnius, Gynėjų g. 14, LT-01109"
+  },
+  {
+    "name": "MB AM draudimas",
+    "code": "307082825",
+    "address": "Alytus, Pulko g. 46, LT-62133"
   },
   {
     "name": "MB Asmens draudimas",
@@ -237,11 +237,6 @@
     "address": "Kaunas, M. Jankaus g. 2, LT-50275"
   },
   {
-    "name": "D. Adomaičio firma \"DARIUS IR DRAUGAI\"",
-    "code": "125289193",
-    "address": "Vilnius, Šeškinės g. 19-41, LT-07153"
-  },
-  {
     "name": "Daugiabučio namo savininkų bendrija \"Draugai\"",
     "code": "235413530",
     "address": "Kaunas, Baltų pr. 3, LT-48261"
@@ -293,11 +288,6 @@
     "address": "Kauno r. sav., Garliava, Gedimino g. 32-13, LT-53254"
   },
   {
-    "name": "MB \"Kalbos draugai\"",
-    "code": "303461009",
-    "address": "Vilnius, K. Vanagėlio g. 14-1, LT-02102"
-  },
-  {
     "name": "MB \"Linksmasis batutas ir draugai\"",
     "code": "304849630",
     "address": "Klaipėda, Naujakiemio g. 22-60, LT-94191"
@@ -313,12 +303,6 @@
     "code": "306279129",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
     "vatcode": "LT100015819219"
-  },
-  {
-    "name": "MB \"VYNAS IR DRAUGAI\"",
-    "code": "302918654",
-    "address": "Vilnius, S. Konarskio g. 6-74, LT-03122",
-    "vatcode": "LT100012363813"
   },
   {
     "name": "MB ADI ir draugai",
@@ -385,11 +369,6 @@
     "address": "Kauno r. sav., Karmėlava, Vilniaus g. 35, LT-54448"
   },
   {
-    "name": "UAB \"Reksas ir draugai\"",
-    "code": "302862426",
-    "address": "Vilkaviškio r. sav., Pilviškių sen., Parausių k."
-  },
-  {
     "name": "UAB \"Verslo draugai\"",
     "code": "135764674",
     "address": "Kaunas, Tulpių g. 10-1, LT-44163",
@@ -417,11 +396,6 @@
     "address": "Vilnius, Ligoninės g. 3-9, LT-01134"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Saulius ir draugai\"",
-    "code": "173196825",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
-  },
-  {
     "name": "Viešoji įstaiga \"RAČAITĖS IR DRAUGAI\"",
     "code": "300625599",
     "address": "Vilnius, Tujų g. 9-30, LT-05116"
@@ -435,6 +409,12 @@
     "name": "Viešoji įstaiga FK \"Draugai\"",
     "code": "304597325",
     "address": "Vilnius, Geležinkelio g. 6-1, LT-02100"
+  },
+  {
+    "name": "Vynas ir draugai, UAB",
+    "code": "302918654",
+    "address": "Vilnius, S. Konarskio g. 6-74, LT-03122",
+    "vatcode": "LT100012363813"
   },
   {
     "name": "VŠĮ Padelio draugai",
@@ -957,7 +937,7 @@
   {
     "name": "Alytaus krašto asmenų su negalia draugija",
     "code": "153728651",
-    "address": "Alytaus r. sav., Nemunaitis, Vytauto g. 44, LT-64205"
+    "address": "Alytaus r. sav., Alovės sen., Kaniūkų k., Vilniaus g. 14A, LT-64104"
   },
   {
     "name": "Alytaus krašto mokslininkų draugija \"Vizija\"",
@@ -1195,11 +1175,6 @@
     "address": "Jurbarkas, Dariaus ir Girėno g. 94, LT-74187"
   },
   {
-    "name": "Draugija \"Jungės\"",
-    "code": "300656299",
-    "address": "Vilnius, Gaidžiabūdės g. 7, LT-02233"
-  },
-  {
     "name": "Draugija \"Kuparas\"",
     "code": "306065805",
     "address": "Rokiškio r. sav., Jūžintai, Žvejų g. 10, LT-42263"
@@ -1230,19 +1205,9 @@
     "address": "Plungė, Laisvės al. 19, LT-90122"
   },
   {
-    "name": "Draugija \"Sniego gniūžtė\"",
-    "code": "168688853",
-    "address": "Panevėžys, Vasario 16-osios g. 27, LT-35185"
-  },
-  {
     "name": "Draugija \"Veikiam.Lt\"",
     "code": "302764850",
     "address": "Rietavas, Daržų g. 5-1, LT-90314"
-  },
-  {
-    "name": "Draugija \"Šalpa\"",
-    "code": "191927790",
-    "address": "Vilnius, Gerosios Vilties g. 3, LT-03147"
   },
   {
     "name": "Draugija \"Žaliuojanti Vilnija\"",
@@ -1575,11 +1540,6 @@
     "address": "Kaunas, Savanorių pr. 137A, LT-44146"
   },
   {
-    "name": "Kauno apskrities gaisrininkų draugija",
-    "code": "193160174",
-    "address": "Kaunas, E. Ožeškienės g. 39, LT-44254"
-  },
-  {
     "name": "Kauno apskrities moterų sveikatos draugija \"Alma\"",
     "code": "193412419",
     "address": "Kaunas, A. Smetonos al. 57A-18, LT-45314"
@@ -1803,11 +1763,6 @@
     "name": "Klaipėdos regiono azerbaidžaniečių draugija \"Azeris\"",
     "code": "302549164",
     "address": "Klaipėda, Rambyno g. 3, LT-93173"
-  },
-  {
-    "name": "Klaipėdos sporto draugija",
-    "code": "305649091",
-    "address": "Klaipėda, J. Janonio g. 18-29, LT-92251"
   },
   {
     "name": "Klaipėdos teosofinė draugija \"ŽMONIJOS BROLIJA\"",
@@ -2323,11 +2278,6 @@
     "address": "Kaunas, Eivenių g. 2, LT-50161"
   },
   {
-    "name": "Lietuvos energetikų mokslo ir technikos draugija",
-    "code": "190771751",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "Lietuvos entomologų draugija",
     "code": "190722640",
     "address": "Vilnius, Akademijos g. 2, LT-08412"
@@ -2373,11 +2323,6 @@
     "address": "Kaunas, A. Mickevičiaus g. 9, LT-44307"
   },
   {
-    "name": "Lietuvos gaisrininkų draugija",
-    "code": "190648439",
-    "address": "Vilnius, Dariaus ir Girėno g. 42-101, LT-02188"
-  },
-  {
     "name": "Lietuvos gaisrininkų draugijos Šiaulių apskrities gaisrininkų draugija",
     "code": "193320013",
     "address": "Šiauliai, Tilžės g. 93, LT-78102",
@@ -2407,11 +2352,6 @@
     "name": "Lietuvos glaukomos draugija",
     "code": "195700231",
     "address": "Kaunas, Eivenių g. 2, LT-50161"
-  },
-  {
-    "name": "Lietuvos graikų stačiatikių švietimo draugija \"Konstantinopolis\"",
-    "code": "195702435",
-    "address": "Vilnius, Raugyklos g. 25, LT-01140"
   },
   {
     "name": "Lietuvos grupinės analizės draugija",
@@ -2503,11 +2443,6 @@
     "name": "Lietuvos klinikinės toksikologijos draugija",
     "code": "191764165",
     "address": "Vilnius, Šiltnamių g. 29, LT-04130"
-  },
-  {
-    "name": "Lietuvos knygos draugija",
-    "code": "190671441",
-    "address": "Vilnius, M. K. Čiurlionio g. 18, LT-03104"
   },
   {
     "name": "Lietuvos koloproktologų draugija",
@@ -2882,11 +2817,6 @@
     "address": "Kaunas, K. Donelaičio g. 2, LT-44213"
   },
   {
-    "name": "Lietuvos ūkininkių draugija Linksmakalnio skyrius",
-    "code": "160299259",
-    "address": "Kauno r. sav., Linksmakalnio sen., Linksmakalnio k., Žalioji g. 10-2, LT-53291"
-  },
-  {
     "name": "Lietuvos žmogaus genetikos draugija",
     "code": "190774719",
     "address": "Vilnius, Santariškių g. 2, LT-08406"
@@ -2905,11 +2835,6 @@
     "name": "Lietuvos žvyneline sergančiųjų draugija",
     "code": "191616946",
     "address": "Kaunas, Eivenių g. 2, LT-50161"
-  },
-  {
-    "name": "Linkaičių moterų draugija",
-    "code": "157698846",
-    "address": "Joniškio r. sav., Joniškio sen., Linkaičių k."
   },
   {
     "name": "MB DAŽYTOJŲ DRAUGIJA",
@@ -3073,11 +2998,6 @@
     "address": "Kaunas, A. Mickevičiaus g. 9, LT-44307"
   },
   {
-    "name": "Nacionalinė celiakijos ir maisto netoleravimo draugija",
-    "code": "302305886",
-    "address": "Vilnius, Vilkpėdės g. 9-42, LT-03157"
-  },
-  {
     "name": "Nacionalinė inžinierių geologų draugija",
     "code": "306949152",
     "address": "Vilnius, M. K. Čiurlionio g. 21, LT-03101"
@@ -3131,11 +3051,6 @@
     "name": "PANEVĖŽIO VYSKUPIJOS ŠV. CECILIJOS DRAUGIJA",
     "code": "300075785",
     "address": "Panevėžys, Upytės g. 3, LT-35248"
-  },
-  {
-    "name": "PRIENŲ LIETUVIŲ IR ŠVEDŲ DRAUGIJA",
-    "code": "302561992",
-    "address": "Prienai, Paupio g. 5A, LT-59143"
   },
   {
     "name": "Pabiržės tautinės kultūros draugija",
@@ -3385,7 +3300,7 @@
   {
     "name": "Radviliškio rajono bitininkų draugija",
     "code": "193366338",
-    "address": "Radviliškis, Maironio g. 9A-7, LT-82134"
+    "address": "Radviliškis, Draugystės g. 12, LT-82128"
   },
   {
     "name": "Radviliškio rajono neįgaliųjų draugija",
@@ -3603,11 +3518,6 @@
     "address": "Vilnius, A. Juozapavičiaus g. 2-4, LT-09310"
   },
   {
-    "name": "Tarptautinės teisės ir verslo aukštosios mokyklos Alumni draugija",
-    "code": "301707896",
-    "address": "Vilnius, Laisvės pr. 58, LT-05120"
-  },
-  {
     "name": "Tauragės apskrities bajorų draugija",
     "code": "305156892",
     "address": "Tauragė, Švyturio g. 4, LT-72361"
@@ -3626,11 +3536,6 @@
     "name": "Tauragės medžiotojų ir žvejų draugija",
     "code": "179723088",
     "address": "Tauragė, Kranto g. 10, LT-72212"
-  },
-  {
-    "name": "Tauragės rajono knygos draugija",
-    "code": "179723273",
-    "address": "Tauragė, Vytauto g. 88, LT-72216"
   },
   {
     "name": "Tauragės rajono moksleivių draugija \"Asorti\"",
@@ -3789,11 +3694,6 @@
     "address": "Utenos r. sav., Leliūnų sen., Avižienių k., Dvaro g. 21, LT-28102"
   },
   {
-    "name": "Utenos krašto epilepsija sergančiųjų ir jų globėjų draugija",
-    "code": "300143873",
-    "address": "Utena, Aukštakalnio g. 3, LT-28151"
-  },
-  {
     "name": "Utenos lietuvių ir švedų draugija",
     "code": "184256394",
     "address": "Utena, Maironio g. 12, LT-28143"
@@ -3889,14 +3789,14 @@
     "address": "Šiauliai, Aušros al. 59, LT-76303"
   },
   {
+    "name": "Varėnos rajono asmenų su negalia draugija",
+    "code": "193285861",
+    "address": "Varėna, M. K. Čiurlionio g. 61A, LT-65219"
+  },
+  {
     "name": "Varėnos rajono bitininkų draugija \"Dzūkija\"",
     "code": "184643697",
     "address": "Varėnos r. sav., Merkinės sen., Gudakiemio k."
-  },
-  {
-    "name": "Varėnos rajono neįgaliųjų draugija",
-    "code": "193285861",
-    "address": "Varėna, Laisvės g. 16, LT-65185"
   },
   {
     "name": "Varėnos rajono ugniagesių savanorių draugija",
@@ -4095,11 +3995,6 @@
     "address": "Alytus, Naujoji g. 64, LT-62384"
   },
   {
-    "name": "Visuomeninė organizacija Kartenos kovų už nepriklausomybę įamžinimo draugija",
-    "code": "300040987",
-    "address": "Kretingos r. sav., Kartena, Plungės g. 23, LT-97353"
-  },
-  {
     "name": "Visuomeninė organizacija Utenos rajono gyvūnų mylėtojų draugija",
     "code": "184211367",
     "address": "Utena, Taikos g. 77-18, LT-28164",
@@ -4175,11 +4070,6 @@
     "name": "VšĮ Rožinio kaspino draugija",
     "code": "300734449",
     "address": "Vilnius, A. Šabaniausko g. 18, LT-08431"
-  },
-  {
-    "name": "VšĮ Sostinės sporto draugija",
-    "code": "303396508",
-    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Kooperatyvo g. 1, LT-14260"
   },
   {
     "name": "XXVII knygos mėgėjų draugija",
@@ -4397,11 +4287,6 @@
     "address": "Šilutė, Tilžės g. 32A, LT-99168"
   },
   {
-    "name": "Šilutės rajono sodininkų draugija",
-    "code": "177323362",
-    "address": "Šilutė, Lietuvininkų g. 10, LT-99185"
-  },
-  {
     "name": "Šilutės savanorių gaisrininkų draugija",
     "code": "303504414",
     "address": "Šilutė, Aukštumalės g. 33, LT-99132"
@@ -4520,11 +4405,6 @@
     "name": "Jonavos rajono bitininkų draugijos įmonė",
     "code": "156662128",
     "address": "Jonava, Birutės g. 22, LT-55156"
-  },
-  {
-    "name": "Kauno apskrities Gaisrininkų draugijos personalinė įmonė",
-    "code": "159597881",
-    "address": "Kaunas, E. Ožeškienės g. 39, LT-44254"
   },
   {
     "name": "Klaipėdos rajono medžiotojų ir žvejų draugijos medžiotojų būrelis \"Minija\"",
@@ -4726,11 +4606,6 @@
     "name": "Lietuvos gyvūnų globos draugijos Joniškio skyrius",
     "code": "157679536",
     "address": "Joniškis, Miesto a. 5A-28, LT-84144"
-  },
-  {
-    "name": "Lietuvos gyvūnų globos draugijos Raseinių skyrius",
-    "code": "272786770",
-    "address": "Raseiniai, Kęstučio g. 13"
   },
   {
     "name": "Lietuvos gyvūnų globos draugijos Tauragės skyrius",
@@ -5224,11 +5099,6 @@
     "address": "Šilalė, Sporto g. 16, LT-75133"
   },
   {
-    "name": "Lietuvos sodininkų draugijos Kauno susivienijimo \"Sodai\" individuali prekybos įmonė",
-    "code": "132678063",
-    "address": "Kaunas, Savanorių pr. 304-2, LT-49453"
-  },
-  {
     "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Alytaus krašto atstovybė",
     "code": "304120555",
     "address": "Alytus, Statybininkų g. 42-4, LT-63417"
@@ -5242,11 +5112,6 @@
     "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Klaipėdos krašto atstovybė",
     "code": "304120587",
     "address": "Klaipėdos r. sav., Priekulės sen., Mickų k., Vaškių g. 19-3, LT-96361"
-  },
-  {
-    "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Kupiškio skyrius",
-    "code": "165386166",
-    "address": "Kupiškio r. sav., Noriūnų sen., Noriūnų k., Parko g. 2, LT-40395"
   },
   {
     "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Marijampolės krašto atstovybė",
@@ -5272,11 +5137,6 @@
     "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Šiaulių krašto atstovybė",
     "code": "304120594",
     "address": "Joniškis, Statybininkų g. 2A-46, LT-84138"
-  },
-  {
-    "name": "Lietuvos sporto draugijos \"Žalgiris\" Alytaus miesto taryba",
-    "code": "191711038",
-    "address": "Alytus, Tilto g. 2, LT-62105"
   },
   {
     "name": "Lietuvos sporto draugijos \"Žalgiris\" Jurbarko rajono taryba",
@@ -5362,6 +5222,11 @@
     "name": "Tarpregioninės gamybinės - komercinės draugijos \"Turar\" filialas \"Dyvas\"",
     "code": "110157645",
     "address": "Kaunas, Savanorių pr. 371, LT-49386"
+  },
+  {
+    "name": "Tauragės medžiotojų ir žvejų draugijos praktinio šaudymo sporto klubas",
+    "code": "307062413",
+    "address": "Tauragė, Kranto g. 10, LT-72212"
   },
   {
     "name": "Varėnos medžiotojų ir žvejų draugijos medžiotojų klubas Musteika",
@@ -5644,7 +5509,7 @@
   {
     "name": "Garažų bendrija \"DRAUGYSTĖ-2\"",
     "code": "160316445",
-    "address": "Kupiškis, Taikos g."
+    "address": "Kupiškis, Krantinės g. 26A, LT-40117"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Draugystė\"",
@@ -5739,7 +5604,7 @@
   {
     "name": "Sveikatingumo ir sporto klubas \"DRAUGYSTĖ\"",
     "code": "193093918",
-    "address": "Elektrėnai, Trakų g. 4-2, LT-26118"
+    "address": "Elektrėnai, Slėnio g. 3, LT-26128"
   },
   {
     "name": "Tauragės miesto 146 boksų garažų eksploatavimo bendrija \"Draugystė\"",
@@ -5892,6 +5757,11 @@
     "name": "MB \"Draugystės projektas\"",
     "code": "305817639",
     "address": "Palanga, Draugystės tak. 3-1, LT-00132"
+  },
+  {
+    "name": "MB Draugystės sodas",
+    "code": "307069564",
+    "address": "Alytaus r. sav., Miroslavo sen., Kumečių k., Lauko g. 1, LT-64263"
   },
   {
     "name": "UAB \"Draugystės investiciniai projektai\"",
@@ -6104,16 +5974,6 @@
     "name": "Uždaroji akcinė bendrovė \"DRAUGŲ STUDIJA\"",
     "code": "124380957",
     "address": "Vilnius, S. Moniuškos g. 21-10, LT-08121"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Draugų ratas\"",
-    "code": "169242291",
-    "address": "Pasvalys, Stoties g. 16, LT-39118"
-  },
-  {
-    "name": "Viešoji įstaiga \"Sporto draugų klubas\"",
-    "code": "302501963",
-    "address": "Vilnius, Architektų g. 105-40, LT-04210"
   },
   {
     "name": "Vilniaus universiteto Botanikos sodo draugų klubas",

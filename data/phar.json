@@ -98,11 +98,6 @@
     "address": "Kaunas, Baltų pr. 29-57, LT-48244"
   },
   {
-    "name": "MB Pharma Products",
-    "code": "302890062",
-    "address": "Vilnius, Santariškių g. 65-1, LT-08457"
-  },
-  {
     "name": "MONTIS PHARMA, UAB",
     "code": "303178363",
     "address": "Kėdainiai, Mindaugo g. 19-33, LT-57448"
@@ -220,8 +215,7 @@
   {
     "name": "UAB \"Layer Pharma\"",
     "code": "305435027",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370",
-    "vatcode": "LT100013931918"
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
   },
   {
     "name": "UAB \"Lotos pharma\"",
@@ -261,6 +255,11 @@
     "name": "UAB \"RP PHARMA\"",
     "code": "304445207",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+  },
+  {
+    "name": "UAB \"SAISEI PHARMA EUROPE\"",
+    "code": "307058991",
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
     "name": "UAB \"SERVIER PHARMA\"",
@@ -312,7 +311,8 @@
   {
     "name": "UAB Aston Pharma",
     "code": "306985458",
-    "address": "Vilnius, Girulių g. 20, LT-12123"
+    "address": "Vilnius, Girulių g. 20, LT-12123",
+    "vatcode": "LT100017509112"
   },
   {
     "name": "UAB Avelit Pharma",
@@ -336,6 +336,11 @@
     "code": "304096442",
     "address": "Vilnius, Eišiškių pl. 36, LT-02184",
     "vatcode": "LT100009785510"
+  },
+  {
+    "name": "UAB Pharma Quality Laboratories",
+    "code": "307070965",
+    "address": "Vilnius, Kazimiero Ladygos g. 3-79, LT-08235"
   },
   {
     "name": "UAB Ritamum pharma",
@@ -374,11 +379,6 @@
     "name": "JAV firmos \"PHARMACEUTICA BALTICA\" atstovybė",
     "code": "110218190",
     "address": "Šiauliai, M. Valančiaus g. 2-16, LT-76334"
-  },
-  {
-    "name": "Komanditinė ūkinė bendrija \"Pharmaceutica Lituanica ex Noreika\"",
-    "code": "132659091",
-    "address": "Kauno r. sav., Karmėlavos sen., Naujasodžio k., Vytauto g. 162, LT-44101"
   },
   {
     "name": "UAB \"Terra pharmaceutica\"",
@@ -434,11 +434,6 @@
     "address": "Vilnius, Krokuvos g. 53-3, LT-09306"
   },
   {
-    "name": "UAB \"Limosa Pharmaceuticals\"",
-    "code": "300655368",
-    "address": "Kauno r. sav., Domeikavos sen., Kumpių k., Ajerų g. 8, LT-47407"
-  },
-  {
     "name": "UAB \"Natural Pharmaceuticals\"",
     "code": "303095490",
     "address": "Kaunas, V. Krėvės pr. 57B, LT-50358",
@@ -462,6 +457,11 @@
     "address": "Kaunas, E. Levino g. 14-1, LT-47222"
   },
   {
+    "name": "MB Wise pharmacy",
+    "code": "307055365",
+    "address": "Klaipėdos r. sav., Kretingalės sen., Zeigių k., Liudviko Stulpino g. 10, LT-92380"
+  },
+  {
     "name": "UAB \"PharmaDIA\"",
     "code": "304052894",
     "address": "Kaunas, Vijoklių g. 23, LT-50143",
@@ -481,7 +481,8 @@
   {
     "name": "UAB Pharmalab",
     "code": "306425107",
-    "address": "Vilniaus r. sav., Nemėžio sen., Kuprioniškių k., Vilties g. 11, LT-13279"
+    "address": "Vilniaus r. sav., Nemėžio sen., Kuprioniškių k., Vilties g. 11, LT-13279",
+    "vatcode": "LT100017437010"
   },
   {
     "name": "Pharmalinks UAB",

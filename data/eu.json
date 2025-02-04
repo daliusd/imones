@@ -82,8 +82,7 @@
   {
     "name": "Carriers EU, MB",
     "code": "306013121",
-    "address": "Kaunas, Gedimino g. 22A-14, LT-44319",
-    "vatcode": "LT100014776317"
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
   },
   {
     "name": "Celsius EU UAB",
@@ -230,6 +229,11 @@
     "address": "Vilnius, Eišiškių pl. 47-312, LT-02184"
   },
   {
+    "name": "MB \"FXL GROUP EU\"",
+    "code": "307073573",
+    "address": "Vilnius, Krivių g. 5, LT-01204"
+  },
+  {
     "name": "MB \"Finset EU\"",
     "code": "305779416",
     "address": "Kaunas, K. Petrausko g. 26, LT-44156",
@@ -286,7 +290,8 @@
   {
     "name": "MB APEX CARGO EU",
     "code": "306713853",
-    "address": "Kretingos r. sav., Žalgirio sen., Jokūbavo k., Klaipėdos g. 4A, LT-97210"
+    "address": "Kretingos r. sav., Žalgirio sen., Jokūbavo k., Klaipėdos g. 4A, LT-97210",
+    "vatcode": "LT100017505917"
   },
   {
     "name": "MB Avangar eu",
@@ -396,7 +401,8 @@
   {
     "name": "MONTO EU, UAB",
     "code": "306976516",
-    "address": "Vilnius, Ozo g. 12A-1, LT-08200"
+    "address": "Vilnius, Ozo g. 12A-1, LT-08200",
+    "vatcode": "LT100017439314"
   },
   {
     "name": "Mažoji bendrija \"Eu funds\"",
@@ -430,11 +436,6 @@
     "name": "Rational Foreign Exchange EU, UAB",
     "code": "305649675",
     "address": "Vilnius, Gedimino pr. 20, LT-01103"
-  },
-  {
-    "name": "RiskSave EU, UAB",
-    "code": "306002648",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
   },
   {
     "name": "Sales EU MB",
@@ -530,7 +531,7 @@
   {
     "name": "UAB \"DANPLEET EU\"",
     "code": "303098401",
-    "address": "Vilnius, Vasario 16-osios g. 8-2, LT-01107"
+    "address": "Trakų r. sav., Trakų sen., Varatniškių k. 1, LT-21101"
   },
   {
     "name": "UAB \"EU BROKER\"",
@@ -603,11 +604,6 @@
     "code": "302975986",
     "address": "Vilnius, J. Galvydžio g. 4, LT-08222",
     "vatcode": "LT100007450619"
-  },
-  {
-    "name": "UAB \"Eurotransport EU\"",
-    "code": "303020153",
-    "address": "Alytaus r. sav., Alovės sen., Poteronių k., Vilniaus g. 42, LT-64118"
   },
   {
     "name": "UAB \"Expedition Commerce EU\"",
@@ -782,11 +778,6 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
-    "name": "UAB \"SCB-EU\"",
-    "code": "302548233",
-    "address": "Vilnius, Justiniškių g. 109-80, LT-05251"
-  },
-  {
     "name": "UAB \"SIB EU\"",
     "code": "302946582",
     "address": "Vilnius, Taikos g. 253-36, LT-05214"
@@ -950,14 +941,18 @@
   {
     "name": "UAB Data Express EU",
     "code": "306115489",
-    "address": "Vilnius, Vilkpėdės g. 22, LT-03151",
-    "vatcode": "LT100017193113"
+    "address": "Vilnius, Vilkpėdės g. 22, LT-03151"
   },
   {
     "name": "UAB Deklarantas EU",
     "code": "306969653",
     "address": "Vilnius, Perkūnkiemio g. 49-289, LT-12144",
     "vatcode": "LT100017117713"
+  },
+  {
+    "name": "UAB Divergent EU Operations",
+    "code": "307046252",
+    "address": "Vilnius, Tilto g. 35A-19, LT-01101"
   },
   {
     "name": "UAB Diverso.eu",

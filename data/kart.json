@@ -16,6 +16,11 @@
     "address": "Klaipėda, Audros g. 3, LT-92278"
   },
   {
+    "name": "MB \"3 kart\"",
+    "code": "307062484",
+    "address": "Klaipėda, Liubeko g. 9-14, LT-94282"
+  },
+  {
     "name": "MB \"Kart LT\"",
     "code": "111819888",
     "address": "Klaipėda, Pievų Tako g. 31-2, LT-92236"
@@ -36,11 +41,6 @@
     "code": "302885058",
     "address": "Vilnius, Žygimanto Liauksmino g. 3-12, LT-01101",
     "vatcode": "LT100008101819"
-  },
-  {
-    "name": "R. Kart individuali įmonė",
-    "code": "142084066",
-    "address": "Klaipėda, Baltijos pr. 95-15, LT-94115"
   },
   {
     "name": "UAB \"Du kart du\"",
@@ -119,11 +119,6 @@
     "address": "Vilnius, Kazio Bizausko g. 15C, LT-11311"
   },
   {
-    "name": "Lenktynių karta, MB",
-    "code": "306308748",
-    "address": "Vilnius, Didlaukio g. 21C-30, LT-08348"
-  },
-  {
     "name": "MB \"5G karta\"",
     "code": "305500731",
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Bažnyčios g. 8, LT-54362"
@@ -190,7 +185,8 @@
   {
     "name": "UAB Auto karta",
     "code": "307006090",
-    "address": "Vilnius, Kanuto Rusecko g. 43-1, LT-25125"
+    "address": "Vilnius, Kanuto Rusecko g. 43-1, LT-25125",
+    "vatcode": "LT100017505715"
   },
   {
     "name": "UAB Trečia karta",
@@ -225,6 +221,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "VšĮ \"Baltijos Karta\"",
+    "code": "307067481",
+    "address": "Alytaus r. sav., Krokialaukio sen., Maštalierių k., Dainavos g. 15, LT-64356"
+  },
+  {
     "name": "VšĮ \"Inovatyvi karta\"",
     "code": "303512852",
     "address": "Trakų r. sav., Trakų sen., Markutiškių k., Markutiškių kel. 28, LT-21103"
@@ -248,11 +249,6 @@
     "name": "VšĮ \"Protinga karta\"",
     "code": "305012358",
     "address": "Vilnius, Čiobiškio g. 8-22, LT-07181"
-  },
-  {
-    "name": "VšĮ \"Skuodo versli karta\"",
-    "code": "302573090",
-    "address": "Skuodas, Vytauto g. 20F, LT-98123"
   },
   {
     "name": "VšĮ \"Žalioji karta\"",
@@ -376,11 +372,6 @@
     "vatcode": "LT100015569519"
   },
   {
-    "name": "MB \"Kartelis\"",
-    "code": "305328178",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
-  },
-  {
     "name": "Kartenos bendruomenės centras \"Kartena\"",
     "code": "161746026",
     "address": "Kretingos r. sav., Kartena, Laukų g. 4, LT-97351"
@@ -448,11 +439,6 @@
     "code": "164146410",
     "address": "Kretingos r. sav., Kartena, Laukų g. 4, LT-97351",
     "vatcode": "LT641464113"
-  },
-  {
-    "name": "Visuomeninė organizacija Kartenos kovų už nepriklausomybę įamžinimo draugija",
-    "code": "300040987",
-    "address": "Kretingos r. sav., Kartena, Plungės g. 23, LT-97353"
   },
   {
     "name": "UAB \"Kartera\"",
@@ -735,6 +721,11 @@
     "address": "Vilnius, Erfurto g. 16-46, LT-04116"
   },
   {
+    "name": "Asociacija \"Iniciatyva kartu\"",
+    "code": "307057131",
+    "address": "Raseiniai, Gedimino g. 11, LT-60168"
+  },
+  {
     "name": "Asociacija \"Judėkim kartu\"",
     "code": "305633653",
     "address": "Vilkaviškio r. sav., Šeimenos sen., Paežerių k., Žvejų g. 38, LT-70205"
@@ -871,6 +862,11 @@
     "address": "Vilnius, Duburio g. 11-25, LT-13105"
   },
   {
+    "name": "MB \"Kylam kartu\"",
+    "code": "307083336",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB \"Laimė kartu\"",
     "code": "305804143",
     "address": "Panevėžio r. sav., Krekenava, Bažnyčios g. 1, LT-38306",
@@ -1003,8 +999,7 @@
   {
     "name": "UAB \"Augam kartu\"",
     "code": "303914370",
-    "address": "Vilnius, Klaipėdos g. 1-1, LT-01118",
-    "vatcode": "LT100009286719"
+    "address": "Vilnius, Klaipėdos g. 1-1, LT-01118"
   },
   {
     "name": "UAB \"Aukim kartu\"",
@@ -1078,6 +1073,11 @@
     "name": "Vladislovo Stankaus įmonė \"Statykime kartu\"",
     "code": "144787526",
     "address": "Šiauliai, V. Bielskio g. 51C-2"
+  },
+  {
+    "name": "VšĮ \"Atrask kartu\"",
+    "code": "307070253",
+    "address": "Rietavo sav., Rietavo sen., Žadvainų k., Miško g. 8-2, LT-90305"
   },
   {
     "name": "VšĮ \"Augu kartu\"",
@@ -1204,6 +1204,11 @@
     "name": "VšĮ Padėkime kartu",
     "code": "307040623",
     "address": "Vilnius, Rodūnios kel. 28-101, LT-02195"
+  },
+  {
+    "name": "VšĮ Paprastai kartu",
+    "code": "307065060",
+    "address": "Jurbarko r. sav., Jurbarkų sen., Žindaičių k., Tilto g. 32, LT-74265"
   },
   {
     "name": "VšĮ Rūpinkimės kartu",

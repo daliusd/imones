@@ -15,6 +15,11 @@
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
+    "name": "\"Nm sales and coding solutions\" MB",
+    "code": "307078392",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "\"Parts and car\", UAB",
     "code": "304241044",
     "address": "Panevėžys, Bijūnų g. 121, LT-37458"
@@ -124,7 +129,8 @@
   {
     "name": "Bread and buns, UAB",
     "code": "307017496",
-    "address": "Vilnius, Manufaktūrų g. 20-238, LT-11342"
+    "address": "Vilnius, Manufaktūrų g. 20-238, LT-11342",
+    "vatcode": "LT100017486816"
   },
   {
     "name": "Build and heat solutions, MB",
@@ -282,11 +288,6 @@
     "name": "Labdaros ir paramos fondas \"LIFE AND PEACE\"",
     "code": "306275091",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
-  },
-  {
-    "name": "Labdaros ir paramos fondas \"Office for Regional Development and Assistance\"",
-    "code": "304783924",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "Land and seas, UAB",
@@ -587,6 +588,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB \"UGLY AND USELESS\"",
+    "code": "307074159",
+    "address": "Vilnius, Jurgio Matulaičio a. 11, LT-05111"
+  },
+  {
     "name": "MB \"VP Sales and Consulting\"",
     "code": "306146036",
     "address": "Vilnius, Albanų g. 30-1, LT-11332"
@@ -692,7 +698,8 @@
   {
     "name": "MB Domus Material and Solutions",
     "code": "306995114",
-    "address": "Vilnius, Girulių g. 10, LT-12112"
+    "address": "Vilnius, Girulių g. 10, LT-12112",
+    "vatcode": "LT100017491510"
   },
   {
     "name": "MB EVE AND SAILOR",
@@ -703,6 +710,11 @@
     "name": "MB European Health and Medical Consultants EHMC",
     "code": "306087278",
     "address": "Vilnius, Girulių g. 20, LT-12123"
+  },
+  {
+    "name": "MB Fast and food",
+    "code": "307073527",
+    "address": "Alytus, Sudvajų g. 26-36, LT-63281"
   },
   {
     "name": "MB Feed and service",
@@ -894,11 +906,6 @@
     "address": "Vilnius, Didžioji g. 39-28, LT-01128"
   },
   {
-    "name": "Property and Partners, UAB",
-    "code": "302646880",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "R and R Technology UAB",
     "code": "305214947",
     "address": "Vilnius, Saulėtekio al. 15-1, LT-10224"
@@ -1022,11 +1029,6 @@
     "code": "300613091",
     "address": "Vilnius, Traidenio g. 6-1, LT-08119",
     "vatcode": "LT100002986019"
-  },
-  {
-    "name": "UAB \"Blockchain Operational Systems and Solutions\"",
-    "code": "304407014",
-    "address": "Kaunas, Europos pr. 122, LT-46351"
   },
   {
     "name": "UAB \"Blue Rock Capital and Advisory\"",
@@ -1167,7 +1169,7 @@
   {
     "name": "UAB \"P and P\"",
     "code": "302591804",
-    "address": "Vilnius, Didžioji g. 25, LT-01128",
+    "address": "Vilniaus miesto savivaldybės teritorija",
     "vatcode": "LT100005927716"
   },
   {
@@ -1261,11 +1263,6 @@
     "vatcode": "LT100001212913"
   },
   {
-    "name": "UAB A and A logistics",
-    "code": "300044284",
-    "address": "Vilnius, Panerių g. 51, LT-03160"
-  },
-  {
     "name": "UAB A and s",
     "code": "306219840",
     "address": "Klaipėda, Dragūnų g. 12-86, LT-92331",
@@ -1275,11 +1272,6 @@
     "name": "UAB AND service center",
     "code": "302706473",
     "address": "Vilnius, Žirmūnų g. 107, LT-09116"
-  },
-  {
-    "name": "UAB Active Innovation and Consulting Services",
-    "code": "300107628",
-    "address": "Vilnius, Aukų g. 3-10, LT-01113"
   },
   {
     "name": "UAB Amber and co",
@@ -1487,17 +1479,13 @@
   {
     "name": "UAB Trucks and buses",
     "code": "306125241",
-    "address": "Vilniaus r. sav., Nemenčinė, Švenčionių g. 116, LT-15168"
+    "address": "Vilniaus r. sav., Nemenčinė, Švenčionių g. 116, LT-15168",
+    "vatcode": "LT100017452216"
   },
   {
     "name": "UAB Work in Lithuania and Europe",
     "code": "306624461",
     "address": "Vilnius, Rolando Jankausko g. 6, LT-04310"
-  },
-  {
-    "name": "Uber Lithuania Software and Development UAB",
-    "code": "303246070",
-    "address": "Vilnius, Gedimino pr. 21-101, LT-01103"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"HORS and KO\"",

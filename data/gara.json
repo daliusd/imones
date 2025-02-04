@@ -5,11 +5,6 @@
     "address": "Vilnius, Santariškių g. 75-34, LT-08457"
   },
   {
-    "name": "Garado UAB",
-    "code": "305570498",
-    "address": "Vilniaus rajono savivaldybės teritorija"
-  },
-  {
     "name": "Createch Garage Baltics, UAB",
     "code": "305708472",
     "address": "Radviliškio r. sav., Grinkiškio sen., Pašušvio mstl., Dvaro g. 9, LT-82401",
@@ -56,6 +51,11 @@
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
   },
   {
+    "name": "MB Custom garage",
+    "code": "307064318",
+    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Šiltnamių g. 60, LT-53371"
+  },
+  {
     "name": "MB De dust 2 garage",
     "code": "306966408",
     "address": "Kaunas, Demokratų g. 3-65, LT-48427"
@@ -64,6 +64,17 @@
     "name": "MB Dg detailing garage",
     "code": "305990502",
     "address": "Marijampolės sav., Marijampolės sen., Kumelionių k., Pilies g. 11, LT-68130"
+  },
+  {
+    "name": "MB GARAGE AUTO",
+    "code": "306053151",
+    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144",
+    "vatcode": "LT100014902810"
+  },
+  {
+    "name": "MB MS Garage",
+    "code": "306373991",
+    "address": "Klaipėda, Laukininkų g. 25-31, LT-95178"
   },
   {
     "name": "MB Mpower garage",
@@ -87,6 +98,12 @@
     "code": "305446657",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
     "vatcode": "LT100013190611"
+  },
+  {
+    "name": "UAB \"ID Custom Garage\"",
+    "code": "307057996",
+    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., Juozo Mieldažio g. 10, LT-53304",
+    "vatcode": "LT100017480514"
   },
   {
     "name": "UAB \"SPA garage\"",
@@ -260,6 +277,11 @@
     "code": "305818278",
     "address": "Vilnius, Bajorų kel. 11A-58, LT-08466",
     "vatcode": "LT100015049119"
+  },
+  {
+    "name": "MB \"Langų garantas\"",
+    "code": "307068373",
+    "address": "Kauno r. sav., Lapių sen., Lepšiškių k., Lazdynų g. 24, LT-54425"
   },
   {
     "name": "MB \"MT Garantas\"",
@@ -656,11 +678,6 @@
     "address": "Klaipėda, Darželio g. 4-28, LT-93193"
   },
   {
-    "name": "MB \"Šviesos garantija\"",
-    "code": "304986198",
-    "address": "Vilnius, Girulių g. 10, LT-12112"
-  },
-  {
     "name": "MB Komforto Garantija",
     "code": "306648829",
     "address": "Vilnius, Genių g. 9-11, LT-11213"
@@ -717,11 +734,6 @@
     "vatcode": "LT828274716"
   },
   {
-    "name": "UAB \"Apskaitos garantijos\"",
-    "code": "133080033",
-    "address": "Kaunas, Baltų pr. 63-40, LT-48240"
-  },
-  {
     "name": "UAB \"Patikimos garantijos\"",
     "code": "304981009",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
@@ -759,11 +771,6 @@
     "code": "302520796",
     "address": "Šilutės r. sav., Kintai, Kuršių g. 30A-15, LT-99358",
     "vatcode": "LT100006364213"
-  },
-  {
-    "name": "UAB \"Garanto servisas\"",
-    "code": "304718766",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
   },
   {
     "name": "MB \"Garants\"",
@@ -843,11 +850,6 @@
     "name": "Asociacija \"Šilutės garažai\"",
     "code": "302427388",
     "address": "Šilutė, Jaunimo al. 6-11, LT-99119"
-  },
-  {
-    "name": "Automobilių garažų savininkų bendrija \"Skuodo garažai\"",
-    "code": "300857786",
-    "address": "Skuodas, Mokyklos g. 4-18, LT-98123"
   },
   {
     "name": "Bendrija \"Keturi garažai\"",
@@ -1063,11 +1065,6 @@
     "code": "305569948",
     "address": "Šilutės r. sav., Žemaičių Naumiestis, Ramybės g. 3-304, LT-99204",
     "vatcode": "LT100013501811"
-  },
-  {
-    "name": "MB Kostės garažas",
-    "code": "306373991",
-    "address": "Klaipėda, Laukininkų g. 25-31, LT-95178"
   },
   {
     "name": "MB Kęsto garažas",
@@ -1506,7 +1503,7 @@
   {
     "name": "117-oji garažų eksploatavimo bendrija Radviliškio g.",
     "code": "245511250",
-    "address": "Šiauliai, Radviliškio g."
+    "address": "Šiauliai, Užmiesčio g. 37, LT-76273"
   },
   {
     "name": "118-oji garažų eksploatavimo bendrija Radviliškio g.",
@@ -1704,11 +1701,6 @@
     "address": "Kaunas, Ašigalio g. 22, LT-49228"
   },
   {
-    "name": "143-oji garažų savininkų bendrija",
-    "code": "302412571",
-    "address": "Vilnius, S. Konarskio g. 21-48, LT-03109"
-  },
-  {
     "name": "145-oji garažų eksploatavimo bendrija S. Dariaus ir S. Girėno g. 1a",
     "code": "145481226",
     "address": "Šiauliai, S. Dariaus ir S. Girėno g. 1A, LT-78250"
@@ -1801,7 +1793,7 @@
   {
     "name": "155-oji garažų eksploatavimo bendrija Radviliškio g.",
     "code": "245489640",
-    "address": "Šiauliai, Radviliškio g."
+    "address": "Šiauliai, Radviliškio g. 84, LT-76370"
   },
   {
     "name": "155-oji garažų statybos ir eksploatavimo bendrija",
@@ -1906,7 +1898,7 @@
   {
     "name": "166-oji garažų statybos ir eksploatavimo bendrija",
     "code": "145468474",
-    "address": "Šiauliai, Architektų g. 3"
+    "address": "Šiauliai, Nuklono g. 3, LT-78349"
   },
   {
     "name": "166-toji garažų bendrija",
@@ -2332,11 +2324,6 @@
     "name": "28-oji garažų statybos ir eksploatavimo bendrija",
     "code": "148377268",
     "address": "Panevėžys, Tulpių g. 53, LT-35188"
-  },
-  {
-    "name": "28-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija",
-    "code": "124760347",
-    "address": "Vilnius, Skersinės g. 38A, LT-08409"
   },
   {
     "name": "280-oji garažų statybos ir eksploatavimo bendrija",
@@ -4652,11 +4639,6 @@
     "address": "Kėdainiai, S. Jaugelio Telegos g. 21-36, LT-57253"
   },
   {
-    "name": "Automobilių garažų savininkų bendrija \"Skuodo garažai\"",
-    "code": "300857786",
-    "address": "Skuodas, Mokyklos g. 4-18, LT-98123"
-  },
-  {
     "name": "Ekraninių garažų, esančių Sietyno g. 8, Vilnius, bendrija",
     "code": "302416694",
     "address": "Vilnius, Architektų g. 138-58, LT-04201"
@@ -4759,7 +4741,7 @@
   {
     "name": "Garažų bendrija \"DRAUGYSTĖ-2\"",
     "code": "160316445",
-    "address": "Kupiškis, Taikos g."
+    "address": "Kupiškis, Krantinės g. 26A, LT-40117"
   },
   {
     "name": "Garažų bendrija \"DRENA Prienai\"",
@@ -5044,7 +5026,7 @@
   {
     "name": "Garažų eksploatavimo bendrija \"Audi\"",
     "code": "170545563",
-    "address": "Plungė, Birutės g."
+    "address": "Plungė, Birutės g. 40B, LT-90112"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Automėgėjas\"",
@@ -5323,8 +5305,8 @@
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Melioratorius\"",
-    "code": "173721080",
-    "address": "Rokiškio r. sav., Rokiškio kaimiškoji sen., Kavoliškio k., Melioratorių g. 7-4, LT-42347"
+    "code": "160187922",
+    "address": "Kupiškio r. sav., Noriūnų sen., Noriūnų k."
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Melioratorius-1\"",
@@ -5749,7 +5731,7 @@
   {
     "name": "Garažų eksploatavimo bendrija \"Šona\" Klevų g. 22a",
     "code": "145496071",
-    "address": "Šiauliai, Klevų g. 22, LT-76335"
+    "address": "Šiauliai, Klevų g. 22A, LT-76335"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Šviesa\"",
@@ -6172,11 +6154,6 @@
     "address": "Kėdainių r. sav., Vilainių sen., Vilainių k., Melioratorių g. 13-3, LT-58101"
   },
   {
-    "name": "Garažų savininkų bendrija \"Vilainių melioratorius\"",
-    "code": "304522479",
-    "address": "Kėdainių r. sav., Vilainių sen., Vilainių k., Parko g. 2-20, LT-58102"
-  },
-  {
     "name": "Garažų savininkų bendrija \"Vilija\"",
     "code": "235319440",
     "address": "Kaunas, Baltų pr. 63-14, LT-48240"
@@ -6210,6 +6187,11 @@
     "name": "Garažų savininkų bendrija \"Žemaitės slėnis\"",
     "code": "125069457",
     "address": "Vilnius, Žemaitės g. 7A, LT-03119"
+  },
+  {
+    "name": "Garažų savininkų bendrija ''Melioratorius - 2A''",
+    "code": "173721080",
+    "address": "Rokiškio r. sav., Rokiškio kaimiškoji sen., Kavoliškio k., Melioratorių g. 7-4, LT-42347"
   },
   {
     "name": "Garažų savininkų bendrija Naujo Ryto takas 1",
@@ -6699,7 +6681,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Kamša\"",
     "code": "160197998",
-    "address": "Kauno r. sav., Akademija"
+    "address": "Kauno r. sav., Akademija, Garažų g. 11-98, LT-53349"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Kaniūkai\"",
@@ -7284,7 +7266,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Ruduo\"",
     "code": "163680233",
-    "address": "Gargždai, Dariaus ir Girėno g."
+    "address": "Gargždai, Dariaus ir Girėno g. 52, LT-96181"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Rytas\"",
@@ -7869,7 +7851,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šilainiai-5\"",
     "code": "135374261",
-    "address": "Kaunas, Baltų pr. 109-16, LT-48206"
+    "address": "Kaunas, Baltijos g. 72A-239, LT-48220"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šilas\"",
@@ -8064,7 +8046,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Žvakė\"",
     "code": "180744019",
-    "address": "Telšiai, Palangos g."
+    "address": "Telšiai, Palangos g. 47B, LT-87127"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Žvangutis\"",

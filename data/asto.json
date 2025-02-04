@@ -65,7 +65,8 @@
   {
     "name": "UAB Aston Pharma",
     "code": "306985458",
-    "address": "Vilnius, Girulių g. 20, LT-12123"
+    "address": "Vilnius, Girulių g. 20, LT-12123",
+    "vatcode": "LT100017509112"
   },
   {
     "name": "UAB \"Astonas\"",
@@ -137,25 +138,10 @@
     "vatcode": "LT100015289615"
   },
   {
-    "name": "Astos Bagdonavičienės įmonė",
-    "code": "145550971",
-    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Žeimių g. 8A-11, LT-81487"
-  },
-  {
     "name": "Astos Baltrėnienės įmonė",
     "code": "168928896",
     "address": "Panevėžio r. sav., Velžio sen., Liūdynės k., Ramioji g. 10-46, LT-38130",
     "vatcode": "LT689288917"
-  },
-  {
-    "name": "Astos Beliauskienės įmonė",
-    "code": "134890257",
-    "address": "Kaunas, Rasytės g. 7-18, LT-48130"
-  },
-  {
-    "name": "Astos Bendžiūnaitės įmonė",
-    "code": "132877439",
-    "address": "Kaunas, Akacijų g. 8A-1"
   },
   {
     "name": "Astos Dambrauskienės stomatologijos klinika",
@@ -189,25 +175,10 @@
     "address": "Kaunas, Romuvos g. 71A, LT-47199"
   },
   {
-    "name": "Astos Karlienės individuali įmonė",
-    "code": "135808722",
-    "address": "Kaunas, Tako g. 4, LT-46140"
-  },
-  {
-    "name": "Astos Kavaliauskienės individuali įmonė",
-    "code": "181707689",
-    "address": "Elektrėnų sav., Semeliškės, Užupio g. 19, LT-21301"
-  },
-  {
     "name": "Astos Kazlauskienės individuali įmonė",
     "code": "300575267",
     "address": "Rokiškio r. sav., Juodupės sen., Aleknų k., Čeičių g. 4, LT-42450",
     "vatcode": "LT100003155518"
-  },
-  {
-    "name": "Astos Kiaunienės projektavimo įmonė",
-    "code": "135225036",
-    "address": "Kaunas, K. Baršausko g. 78-29, LT-51440"
   },
   {
     "name": "Astos Korsakienės individuali įmonė",
@@ -220,11 +191,6 @@
     "address": "Vilnius, Gabijos g. 71-38, LT-06103"
   },
   {
-    "name": "Astos Lisinskienės įmonė",
-    "code": "135532398",
-    "address": "Kaunas, Laisvės al. 78B-1, LT-44249"
-  },
-  {
     "name": "Astos Petraitytės įmonė",
     "code": "167365480",
     "address": "Mažeikiai, M. Daukšos g. 36-7, LT-89160"
@@ -233,11 +199,6 @@
     "name": "Astos Pilipuitienės MB",
     "code": "303025531",
     "address": "Gargždai, Laugalių g. 2, LT-96178"
-  },
-  {
-    "name": "Astos Prusevičienės įmonė",
-    "code": "156739610",
-    "address": "Jonava, Sodų g. 89-23, LT-55147"
   },
   {
     "name": "Astos Skaudickienės stomatologijos kabinetas",
@@ -254,11 +215,6 @@
     "code": "171428463",
     "address": "Radviliškio r. sav., Tyruliai, Liepų g. 10, LT-82466",
     "vatcode": "LT714284610"
-  },
-  {
-    "name": "Astos Svirskienės įmonė",
-    "code": "168953383",
-    "address": "Panevėžio r. sav., Krekenavos sen., Ąžuolytės k."
   },
   {
     "name": "Astos Turčinienės individuali įmonė",
@@ -290,11 +246,6 @@
     "name": "Astos Šaliūnienės stomatologinė klinika",
     "code": "125227583",
     "address": "Vilnius, Krokuvos g. 8A, LT-09314"
-  },
-  {
-    "name": "Astos Šimonienės įmonė",
-    "code": "185609833",
-    "address": "Vilkaviškis, Vytauto g. 87-1, LT-70139"
   },
   {
     "name": "Astos Šėvelienės veterinarijos įmonė",
@@ -363,5 +314,11 @@
     "code": "123932858",
     "address": "Vilnius, Maironio g. 11, LT-01124",
     "vatcode": "LT239328515"
+  },
+  {
+    "name": "MB \"Astosrūtos gėlių krautuvėlė\"",
+    "code": "307058532",
+    "address": "Kaunas, Ašigalio g. 51A-44, LT-49140",
+    "vatcode": "LT100017459415"
   }
 ]

@@ -212,7 +212,8 @@
   {
     "name": "MB Varėnos ritualinių paslaugų centras",
     "code": "306747841",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
+    "vatcode": "LT100017458417"
   },
   {
     "name": "Senosios Varėnos kaimo bendruomenė",
@@ -301,8 +302,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Varėnos ritualinės paslaugos\"",
     "code": "184627910",
-    "address": "Varėna, Savanorių g. 36, LT-65192",
-    "vatcode": "LT846279113"
+    "address": "Varėna, Savanorių g. 36, LT-65192"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Varėnos sporto ir technikos klubas\"",
@@ -514,6 +514,11 @@
     "address": "Varėnos r. sav., Jakėnų sen., Zakorių k. 4, LT-65430"
   },
   {
+    "name": "Varėnos rajono asmenų su negalia draugija",
+    "code": "193285861",
+    "address": "Varėna, M. K. Čiurlionio g. 61A, LT-65219"
+  },
+  {
     "name": "Varėnos rajono bitininkų draugija \"Dzūkija\"",
     "code": "184643697",
     "address": "Varėnos r. sav., Merkinės sen., Gudakiemio k."
@@ -537,11 +542,6 @@
     "name": "Varėnos rajono medžiotojų būrelis \"Briedis\"",
     "code": "191086768",
     "address": "Varėnos r. sav., Vydenių sen., Vydenių k., Vydenių g. 12, LT-65230"
-  },
-  {
-    "name": "Varėnos rajono neįgaliųjų draugija",
-    "code": "193285861",
-    "address": "Varėna, Laisvės g. 16, LT-65185"
   },
   {
     "name": "Varėnos rajono savivaldybės administracija",
@@ -662,11 +662,6 @@
     "vatcode": "LT845531515"
   },
   {
-    "name": "Varėnos rajono žemės ūkio bendrovė \"Krūminių lentpjūvė\"",
-    "code": "184547065",
-    "address": "Varėnos r. sav., Matuizų sen., Krūminių k."
-  },
-  {
     "name": "Varėnos rajono žemės ūkio bendrovė \"Tėviškė\"",
     "code": "184542666",
     "address": "Varėnos r. sav., Jakėnų sen., Puodžių k.",
@@ -718,11 +713,6 @@
     "address": "Varėnos r. sav., Varėnos sen., Senosios Varėnos k., Rūtų g. 9, LT-65488"
   },
   {
-    "name": "Varėnos turizmo ir verslo informacijos centras",
-    "code": "300058775",
-    "address": "Varėna, J. Basanavičiaus g. 9, LT-65183"
-  },
-  {
     "name": "Varėnos verslo ir amatų asociacija",
     "code": "184625521",
     "address": "Varėna, Laisvės g. 2, LT-65185"
@@ -736,6 +726,11 @@
     "name": "Varėnos švietimo centras",
     "code": "195328546",
     "address": "Varėna, J. Basanavičiaus g. 9, LT-65183"
+  },
+  {
+    "name": "Viešoji įstaiga Varėnos moterų rankinio lyga",
+    "code": "307074077",
+    "address": "Vilnius, Kauno g. 16-R19, LT-03212"
   },
   {
     "name": "Viešoji įstaiga Varėnos psichikos sveikatos centras",

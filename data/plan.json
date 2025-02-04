@@ -36,11 +36,6 @@
     "address": "Vilnius, Savanorių pr. 1-90, LT-03116"
   },
   {
-    "name": "UAB \"Work plan\"",
-    "code": "303171867",
-    "address": "Šilutė, Pramonės g. 4A, LT-99116"
-  },
-  {
     "name": "UAB \"on-PLAN Studija\"",
     "code": "305438564",
     "address": "Vilnius, Bajorų kel. 25-110, LT-08467"
@@ -79,7 +74,8 @@
   {
     "name": "MB Smart planai",
     "code": "306680759",
-    "address": "Kretinga, P. Bizausko g. 4, LT-97146"
+    "address": "Kretinga, P. Bizausko g. 4, LT-97146",
+    "vatcode": "LT100017496016"
   },
   {
     "name": "Trans planai, UAB",
@@ -497,11 +493,6 @@
     "address": "Vilnius, Saltoniškių g. 58-1, LT-08106"
   },
   {
-    "name": "MB \"Planbis\"",
-    "code": "305273422",
-    "address": "Vilniaus r. sav., Riešės sen., Žalesos k., Šilo g. 27, LT-15143"
-  },
-  {
     "name": "PLANCARS, IĮ",
     "code": "305728891",
     "address": "Klaipėda, Baltijos 10-oji g. 26, LT-92341"
@@ -591,11 +582,6 @@
     "name": "260-oji daugiabučio gyvenamojo namo Žirmūnų g. 79 savininkų bendrija \"Planeta\"",
     "code": "124798942",
     "address": "Vilnius, Žirmūnų g. 79-29, LT-09112"
-  },
-  {
-    "name": "A. Karablikovo įmonė \"Naujoji planeta\"",
-    "code": "126354943",
-    "address": "Vilnius, Baltupio g. 175-18, LT-08432"
   },
   {
     "name": "Asociacija \"Gyvoji planeta\"",
@@ -695,11 +681,6 @@
     "vatcode": "LT100001222818"
   },
   {
-    "name": "UAB \"Žaislų planeta\"",
-    "code": "302417878",
-    "address": "Kaunas, Vievio g. 45-32, LT-44430"
-  },
-  {
     "name": "UAB Gintaro planeta",
     "code": "303109584",
     "address": "Panevėžys, Darbo a. 4, LT-35217",
@@ -720,11 +701,6 @@
     "name": "VšĮ \"Sporto planeta\"",
     "code": "303744377",
     "address": "Kaunas, Baltų pr. 59-49, LT-48232"
-  },
-  {
-    "name": "VšĮ \"Vaikystės planeta\"",
-    "code": "302624122",
-    "address": "Visaginas, Sedulinos al. 5-26, LT-31125"
   },
   {
     "name": "MB Gyvasis planetariumas",
@@ -756,7 +732,8 @@
   {
     "name": "UAB Nėra planetos B",
     "code": "306314509",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
+    "vatcode": "LT100017446716"
   },
   {
     "name": "VšĮ \"Žemės planetos miškai\"",
@@ -783,11 +760,6 @@
     "name": "MB Planingas",
     "code": "306377580",
     "address": "Klaipėda, Nidos g. 72-3, LT-93179"
-  },
-  {
-    "name": "\"Planinis pervežimas\", MB",
-    "code": "306321603",
-    "address": "Vilnius, Žirmūnų g. 30A-37, LT-09229"
   },
   {
     "name": "MB \"Šaro planiravimas\"",
@@ -890,11 +862,6 @@
     "code": "141616089",
     "address": "Klaipėda, Nemuno g. 51, LT-91190",
     "vatcode": "LT416160811"
-  },
-  {
-    "name": "UAB \"SILVA PLANT\"",
-    "code": "300605244",
-    "address": "Vilnius, Linksmoji g. 36-19, LT-11222"
   },
   {
     "name": "UAB Plant chef",
@@ -1306,10 +1273,5 @@
     "name": "Irenos Plančiūnienės prekybos įmonė",
     "code": "152825720",
     "address": "Birštono savivaldybės teritorija"
-  },
-  {
-    "name": "T. Plančiūno automobilių remonto įmonė",
-    "code": "174979781",
-    "address": "Šalčininkų r. sav., Šalčininkų sen., Šalčininkų k."
   }
 ]
