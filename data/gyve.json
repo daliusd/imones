@@ -1172,6 +1172,11 @@
     "address": "Šiauliai, Saulės tak. 6, LT-78315"
   },
   {
+    "name": "Daugiabučio gyvenamojo namo savininkų bendrija \"Akimirka\"",
+    "code": "141898425",
+    "address": "Klaipėda, Gegužės g. 1, LT-92125"
+  },
+  {
     "name": "Daugiabučio gyvenamojo namo savininkų bendrija \"Aukštaičių 10\"",
     "code": "305503994",
     "address": "Vilnius, Aukštaičių g. 10-R1, LT-11341"
@@ -1695,11 +1700,6 @@
     "name": "Gyvenamojo namo statybos bendrija \"A1a-747\"",
     "code": "300026197",
     "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
-    "name": "Gyvenamojo namo statybos bendrija \"AKIMIRKA\"",
-    "code": "141898425",
-    "address": "Klaipėda, Gegužės g. 1, LT-92125"
   },
   {
     "name": "Gyvenamojo namo statybos bendrija \"Aguona\"",
@@ -3427,7 +3427,7 @@
   {
     "name": "Gyvenamųjų namų savininkų bendrija \"Pavilnio Aura\"",
     "code": "305825319",
-    "address": "Vilnius, Alfonso Lipniūno g. 13A, LT-11302"
+    "address": "Vilnius, Alfonso Lipniūno g. 13B, LT-11302"
   },
   {
     "name": "Gyvenamųjų namų savininkų bendrija \"Pavilnio penkiolika\"",
@@ -3558,6 +3558,11 @@
     "name": "Gyvenamųjų namų savininkų bendrija \"Smeltalės\"",
     "code": "306686032",
     "address": "Klaipėdos r. sav., Sendvario sen., Lelių k., Smeltalės g. 15, LT-91300"
+  },
+  {
+    "name": "Gyvenamųjų namų savininkų bendrija \"Smilgų akligatvis\"",
+    "code": "307102555",
+    "address": "Jonavos r. sav., Užusalių sen., Krėslynų k., Smilgų aklg. 7, LT-55326"
   },
   {
     "name": "Gyvenamųjų namų savininkų bendrija \"Smiltaitė\"",
@@ -5041,6 +5046,11 @@
     "address": "Vilnius, S. Stanevičiaus g. 14-96, LT-07127"
   },
   {
+    "name": "Mažoji bendrija Gyvenimo akademija",
+    "code": "307085892",
+    "address": "Vilnius, Kaukysos g. 4-38, LT-11342"
+  },
+  {
     "name": "Protestantų bažnyčia \"Gyvenimo šviesa\"",
     "code": "303334232",
     "address": "Marijampolė, Uosupio g. 20-41, LT-68156"
@@ -5049,11 +5059,6 @@
     "name": "UAB \"GYVENIMO VEIDRODIS\"",
     "code": "142020252",
     "address": "Klaipėda, Taikos pr. 78, LT-93199"
-  },
-  {
-    "name": "UAB \"Gyvenimo meistras\"",
-    "code": "307064503",
-    "address": "Vilnius, Kaukysos g. 18-10, LT-11342"
   },
   {
     "name": "UAB \"Gyvenimo šaltinis\"",
@@ -5366,6 +5371,11 @@
     "address": "Klaipėda, Baltijos pr. 11-52, LT-94134"
   },
   {
+    "name": "MB \"Gyvensena\"",
+    "code": "305125498",
+    "address": "Plungė, V. Mačernio g. 43-1, LT-90133"
+  },
+  {
     "name": "Asociacija \"Sveikos gyvensenos skatinimas\"",
     "code": "304935093",
     "address": "Vilnius, Jogailos g. 11A, LT-01116"
@@ -5428,7 +5438,8 @@
   {
     "name": "MB \"Sveikos gyvensenos guru\"",
     "code": "304709856",
-    "address": "Vilnius, J. Basanavičiaus g. 16-42, LT-03224"
+    "address": "Vilnius, J. Basanavičiaus g. 16-42, LT-03224",
+    "vatcode": "LT100011270311"
   },
   {
     "name": "MB \"Sveikos gyvensenos specialistai\"",
@@ -5545,7 +5556,7 @@
   {
     "name": "MB \"Nebijok gyventi\"",
     "code": "305584291",
-    "address": "Vilnius, Raudonės g. 74, LT-12205",
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
     "vatcode": "LT100013643510"
   },
   {
@@ -5557,7 +5568,7 @@
   {
     "name": "MB \"Neskubėk gyventi\"",
     "code": "305822643",
-    "address": "Vilnius, Raudonės g. 74, LT-12205"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "MB Gyventi dizainu",
@@ -5916,6 +5927,11 @@
     "name": "VšĮ \"Vėl gyvenu\"",
     "code": "305897496",
     "address": "Vilnius, Kalvarijų g. 286-26, LT-08317"
+  },
+  {
+    "name": "VšĮ Gyvenu sveikiau",
+    "code": "307107591",
+    "address": "Kretinga, Klevų g. 11, LT-97132"
   },
   {
     "name": "Asociacija \"Draugų gyvenvietė\"",

@@ -68,6 +68,11 @@
     "vatcode": "LT100009909619"
   },
   {
+    "name": "AG NT Valda UAB",
+    "code": "307094197",
+    "address": "Marijampolė, V. Kudirkos g. 24, LT-68306"
+  },
+  {
     "name": "Armil NT, UAB",
     "code": "306224887",
     "address": "Vilnius, Naugarduko g. 62-5, LT-03203",
@@ -360,11 +365,6 @@
     "address": "Mažeikiai, Naftininkų g. 18-22, LT-89122"
   },
   {
-    "name": "MB \"NT Aukštaitijoje\"",
-    "code": "305987869",
-    "address": "Ukmergės r. sav., Deltuvos sen., Kalibato vs. 1, LT-20277"
-  },
-  {
     "name": "MB \"NT Birutė\"",
     "code": "305919067",
     "address": "Kaunas, Vilniaus g. 36-9, LT-44287"
@@ -533,7 +533,8 @@
   {
     "name": "MB \"NT sprendimai Jums\"",
     "code": "306951915",
-    "address": "Kaunas, Seniavos pl. 78-5, LT-46315"
+    "address": "Kaunas, Seniavos pl. 78-5, LT-46315",
+    "vatcode": "LT100017595418"
   },
   {
     "name": "MB \"NT sprendimai verslui\"",
@@ -736,6 +737,11 @@
     "address": "Panevėžys, Pušaloto g. 108A, LT-35101"
   },
   {
+    "name": "MB Altus nt",
+    "code": "307091105",
+    "address": "Kaunas, A. Voldemaro g. 19D, LT-47492"
+  },
+  {
     "name": "MB Amberti NT",
     "code": "306361494",
     "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Vinkšnėnų k., V. Bielskio g. 111C, LT-76151",
@@ -781,6 +787,12 @@
     "name": "MB GEMINI NT",
     "code": "307030077",
     "address": "Klaipėda, Tiltų g. 19, LT-91249"
+  },
+  {
+    "name": "MB GP NT statyba",
+    "code": "307086492",
+    "address": "Kretingos r. sav., Žalgirio sen., Jokūbavo k., Klaipėdos g. 4A, LT-97210",
+    "vatcode": "LT100017592918"
   },
   {
     "name": "MB Girtas NT",
@@ -846,6 +858,11 @@
     "code": "306231383",
     "address": "Vilnius, Jurgio Lebedžio g. 1-281, LT-08353",
     "vatcode": "LT100016127311"
+  },
+  {
+    "name": "MB Moon NT",
+    "code": "307090619",
+    "address": "Kėdainių r. sav., Kėdainių miesto sen., Janušavos k., Senojo Kelio g. 8, LT-57330"
   },
   {
     "name": "MB NT Akademija",
@@ -938,6 +955,11 @@
     "name": "MB NT asistentas",
     "code": "306227100",
     "address": "Birštonas, Kęstučio g. 1B-20, LT-59210"
+  },
+  {
+    "name": "MB NT elektros darbai",
+    "code": "307107246",
+    "address": "Kaunas, V. Landsbergio-Žemkalnio g. 32-23, LT-49295"
   },
   {
     "name": "MB NT faktorius",
@@ -1038,6 +1060,11 @@
     "address": "Kauno r. sav., Samylų sen., Šlienavos k., Jono Biliūno g. 6, LT-53151"
   },
   {
+    "name": "MB Nt properties",
+    "code": "307091938",
+    "address": "Kaunas, K. Donelaičio g. 43-2, LT-44245"
+  },
+  {
     "name": "MB Nt remontai lt",
     "code": "306989467",
     "address": "Kaunas, Taikos pr. 95-1, LT-50449"
@@ -1063,6 +1090,11 @@
     "code": "305723442",
     "address": "Vilnius, Kalvarijų g. 137E, LT-08248",
     "vatcode": "LT100016461613"
+  },
+  {
+    "name": "MB Patikimas NT",
+    "code": "307087651",
+    "address": "Kaunas, Birželio 23-iosios g. 6-36, LT-50424"
   },
   {
     "name": "MB Rinkis geriausią NT",
@@ -1414,7 +1446,7 @@
   {
     "name": "UAB \"Dekorvila NT\"",
     "code": "306717638",
-    "address": "Vilnius, Ateities g. 33, LT-06325"
+    "address": "Vilnius, Naujakiemio g. 18, LT-08314"
   },
   {
     "name": "UAB \"Deltos NT\"",
@@ -1896,8 +1928,7 @@
   {
     "name": "UAB \"NT IDĖJOS\"",
     "code": "302641787",
-    "address": "Vilnius, Žalgirio g. 93, LT-08218",
-    "vatcode": "LT100006230010"
+    "address": "Vilnius, Žalgirio g. 93, LT-08218"
   },
   {
     "name": "UAB \"NT INVEST 1\"",
@@ -2277,11 +2308,6 @@
     "vatcode": "LT100015746119"
   },
   {
-    "name": "UAB \"NT plėtra\"",
-    "code": "300095663",
-    "address": "Raseinių r. sav., Ariogala, Dubysos g. 10, LT-60264"
-  },
-  {
     "name": "UAB \"NT profesionalų grupė\"",
     "code": "304972526",
     "address": "Mažeikiai, Laisvės g. 25, LT-89222",
@@ -2389,7 +2415,7 @@
   {
     "name": "UAB \"NT statybos\"",
     "code": "305069074",
-    "address": "Kaunas, Savanorių pr. 47-7, LT-44255",
+    "address": "Kauno r. sav., Garliava, Kanų g. 9A, LT-53251",
     "vatcode": "LT100012247613"
   },
   {
@@ -2883,8 +2909,7 @@
   {
     "name": "UAB \"Šalčio NT\"",
     "code": "304224881",
-    "address": "Kaunas, Raudondvario pl. 231, LT-47166",
-    "vatcode": "LT100010107213"
+    "address": "Kaunas, Raudondvario pl. 231, LT-47166"
   },
   {
     "name": "UAB \"Šiaulių NT valdymas\"",
@@ -2924,6 +2949,11 @@
     "code": "304929090",
     "address": "Kaunas, Romainių g. 47B, LT-47261",
     "vatcode": "LT100011944113"
+  },
+  {
+    "name": "UAB B1 NT",
+    "code": "307091653",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
   },
   {
     "name": "UAB Bajorų NT",
@@ -3021,6 +3051,11 @@
     "name": "UAB Jara NT",
     "code": "307008230",
     "address": "Palanga, Rūtų tak. 5, LT-00143"
+  },
+  {
+    "name": "UAB K15 NT",
+    "code": "307097318",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
   },
   {
     "name": "UAB Kamida NT",
@@ -3175,6 +3210,11 @@
     "code": "306136818",
     "address": "Vilnius, Oršos g. 5-99, LT-09300",
     "vatcode": "LT100015380214"
+  },
+  {
+    "name": "UAB PLIUS NT",
+    "code": "307100344",
+    "address": "Palanga, Užkanavės g. 37C-1, LT-00169"
   },
   {
     "name": "UAB Palva NT",

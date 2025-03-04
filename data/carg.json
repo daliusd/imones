@@ -139,13 +139,19 @@
   {
     "name": "MB \"Cargo transport\"",
     "code": "307060800",
-    "address": "Šiaulių r. sav., Kuršėnai, Daugėlių g. 63-34, LT-81118"
+    "address": "Šiaulių r. sav., Kuršėnai, Daugėlių g. 63-34, LT-81118",
+    "vatcode": "LT100017515510"
   },
   {
     "name": "MB \"Donatus cargo\"",
     "code": "306219420",
     "address": "Vilnius, Taikos g. 132-31, LT-05226",
     "vatcode": "LT100016328211"
+  },
+  {
+    "name": "MB \"Flash Cargo Solutions\"",
+    "code": "307088970",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Gusto cargo\"",
@@ -223,7 +229,7 @@
   {
     "name": "MB Cargo service",
     "code": "305691133",
-    "address": "Palanga, Vėžių g. 12-3, LT-00186",
+    "address": "Kaunas, Radvilėnų pl. 14-2, LT-50270",
     "vatcode": "LT100015291617"
   },
   {
@@ -455,6 +461,11 @@
     "vatcode": "LT100015066916"
   },
   {
+    "name": "UAB \"Cargo mix\"",
+    "code": "307103721",
+    "address": "Panevėžys, Įmonių g. 5D-3, LT-35101"
+  },
+  {
     "name": "UAB \"Cargo spektras\"",
     "code": "303273950",
     "address": "Vilnius, Ateities g. 10A, LT-08345",
@@ -629,7 +640,7 @@
   {
     "name": "UAB \"RS CARGO\"",
     "code": "301672897",
-    "address": "Vilnius, I. Simonaitytės g. 9-22, LT-06294",
+    "address": "Vilnius, I. Simonaitytės g. 7-31, LT-06294",
     "vatcode": "LT100003971510"
   },
   {
@@ -963,11 +974,6 @@
     "vatcode": "LT100003140711"
   },
   {
-    "name": "UAB \"East Cargoline\"",
-    "code": "300050554",
-    "address": "Klaipėda, Kareivinių g. 2, LT-92251"
-  },
-  {
     "name": "UAB M-N CargoLine",
     "code": "306666713",
     "address": "Vilnius, Ramybės g. 4-70, LT-02103"
@@ -1036,8 +1042,7 @@
   {
     "name": "MB \"Cargopulsas\"",
     "code": "306785429",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
-    "vatcode": "LT100016908911"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB \"Cargorest\"",
@@ -1075,7 +1080,7 @@
   {
     "name": "UAB \"Cargotrans\"",
     "code": "300558435",
-    "address": "Vilnius, Konstitucijos pr. 23, LT-08105",
+    "address": "Vilnius, Ulonų g. 3-114, LT-08240",
     "vatcode": "LT100002369111"
   },
   {
@@ -1099,7 +1104,7 @@
   {
     "name": "UAB \"Cargovanas\"",
     "code": "302870138",
-    "address": "Kretingos r. sav., Kretingos sen., Kretingsodžio k., Beržų g. 12, LT-97100"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Pakamorių k., Plikių g. 11, LT-92409"
   },
   {
     "name": "UAB \"Cargovesta\"",

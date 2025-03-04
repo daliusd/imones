@@ -11,6 +11,11 @@
     "address": "Šiauliai, Gvazdikų tak. 2-34, LT-78253"
   },
   {
+    "name": "AUTO1 LT, UAB",
+    "code": "307092755",
+    "address": "Vilnius, K. Kalinausko g. 24-401, LT-03107"
+  },
+  {
     "name": "MB \"Auto2nd\"",
     "code": "306313663",
     "address": "Klaipėda, S. Šimkaus g. 16-4, LT-92129"
@@ -218,7 +223,8 @@
   {
     "name": "Delca Auto UAB",
     "code": "307084064",
-    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Erdvės g. 7, LT-52114"
+    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Erdvės g. 7, LT-52114",
+    "vatcode": "LT100017561413"
   },
   {
     "name": "E-auto kurjeris MB",
@@ -247,11 +253,6 @@
     "code": "305907481",
     "address": "Vilnius, Metalo g. 13A, LT-02190",
     "vatcode": "LT100014537717"
-  },
-  {
-    "name": "G-MAN AUTO PARTS EUROPE, UAB",
-    "code": "305996658",
-    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
   },
   {
     "name": "Individuali įmonė \"Auto žilvasta\"",
@@ -386,6 +387,11 @@
     "name": "MB \"Aa auto\"",
     "code": "306125939",
     "address": "Panevėžys, J. Basanavičiaus g. 66-72, LT-36206"
+  },
+  {
+    "name": "MB \"Abra auto\"",
+    "code": "307106226",
+    "address": "Marijampolė, Mokolų g. 6, LT-68174"
   },
   {
     "name": "MB \"Ad auto\"",
@@ -766,7 +772,8 @@
   {
     "name": "MB \"EGS Auto\"",
     "code": "306808753",
-    "address": "Utena, Šilinės g. 7-182, LT-28135"
+    "address": "Utena, Šilinės g. 7-182, LT-28135",
+    "vatcode": "LT100017580914"
   },
   {
     "name": "MB \"ES auto-moto\"",
@@ -881,11 +888,6 @@
     "code": "306211402",
     "address": "Tauragė, Liepų tak. 1B, LT-72109",
     "vatcode": "LT100015595013"
-  },
-  {
-    "name": "MB \"Karkar auto\"",
-    "code": "306358231",
-    "address": "Panevėžys, Projektuotojų g. 9-24, LT-37102"
   },
   {
     "name": "MB \"Keisk auto\"",
@@ -1139,6 +1141,11 @@
     "name": "MB \"SGP AUTO\"",
     "code": "305609079",
     "address": "Panevėžys, Aukštaičių g. 78-51, LT-36116"
+  },
+  {
+    "name": "MB \"SP Auto\"",
+    "code": "307103625",
+    "address": "Mažeikiai, Gamyklos g. 31-8, LT-89103"
   },
   {
     "name": "MB \"SR AUTO DETAILING\"",
@@ -1463,8 +1470,7 @@
   {
     "name": "MB Auto RPM",
     "code": "306712317",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
-    "vatcode": "LT100017494514"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "MB Auto Spotlight",
@@ -1501,6 +1507,11 @@
     "name": "MB Auto estetika ir reklamos paslaugos",
     "code": "305655831",
     "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+  },
+  {
+    "name": "MB Auto išeitis",
+    "code": "307109521",
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
   },
   {
     "name": "MB Auto iššūkis",
@@ -1549,6 +1560,11 @@
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
   },
   {
+    "name": "MB Auto sostinė",
+    "code": "307094852",
+    "address": "Vilnius, Eišiškių Sodų 4-oji g. 26, LT-02194"
+  },
+  {
     "name": "MB Auto spurtas",
     "code": "306767858",
     "address": "Kaunas, Kukučių g. 39, LT-51338"
@@ -1573,7 +1589,8 @@
   {
     "name": "MB Azula Auto",
     "code": "306951228",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
+    "vatcode": "LT100017583010"
   },
   {
     "name": "MB BSB Auto",
@@ -1940,6 +1957,11 @@
     "vatcode": "LT100017136715"
   },
   {
+    "name": "MB Proline auto",
+    "code": "307093113",
+    "address": "Vilnius, Paupio g. 29A-40, LT-11341"
+  },
+  {
     "name": "MB Rda auto",
     "code": "306680588",
     "address": "Kaunas, Laisvės al. 110, LT-44253",
@@ -2023,9 +2045,19 @@
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
+    "name": "MB Spektra Auto",
+    "code": "307106653",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+  },
+  {
     "name": "MB St-auto",
     "code": "306996860",
     "address": "Kaišiadorių r. sav., Kruonio sen., Girgždų k. 4, LT-56281"
+  },
+  {
+    "name": "MB Std auto",
+    "code": "307094311",
+    "address": "Marijampolė, Kazimieraičio g. 24, LT-68270"
   },
   {
     "name": "MB TM auto",
@@ -2043,6 +2075,11 @@
     "code": "305716540",
     "address": "Marijampolė, Mokolų g. 9-37, LT-68172",
     "vatcode": "LT100013879716"
+  },
+  {
+    "name": "MB US Auto Global",
+    "code": "307091443",
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
   },
   {
     "name": "MB Usa Auto",
@@ -2070,6 +2107,11 @@
     "name": "MB Va auto",
     "code": "307073630",
     "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Jaunimo g. 23, LT-53336"
+  },
+  {
+    "name": "MB Vdn auto",
+    "code": "307093330",
+    "address": "Kelmės r. sav., Kražių sen., Dargiškės k. 8, LT-86315"
   },
   {
     "name": "MB Venz auto",
@@ -2228,7 +2270,7 @@
   {
     "name": "Mažoji bendrija Sos auto",
     "code": "306364394",
-    "address": "Šiauliai, Energetikų g. 8-5, LT-79235"
+    "address": "Radviliškio r. sav., Radviliškio sen., Daugėlaičių k., Dvaro g. 11, LT-82106"
   },
   {
     "name": "Mažoji bendrija Vairo auto",
@@ -3071,6 +3113,11 @@
     "vatcode": "LT100011772812"
   },
   {
+    "name": "UAB \"Miesto auto\"",
+    "code": "307090996",
+    "address": "Tauragė, Gedimino g. 6-22, LT-72241"
+  },
+  {
     "name": "UAB \"Moller Auto Keturi žiedai\"",
     "code": "224234070",
     "address": "Vilnius, Ukmergės g. 252, LT-06120",
@@ -3174,6 +3221,11 @@
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
+    "name": "UAB \"Retro auto\"",
+    "code": "307104061",
+    "address": "Klaipėdos r. sav., Veiviržėnų sen., Pakalniškių k. 5A, LT-96280"
+  },
+  {
     "name": "UAB \"SG dujos Auto\"",
     "code": "302573731",
     "address": "Švenčionių r. sav., Pabradė, Vilniaus g. 94, LT-18177",
@@ -3234,6 +3286,12 @@
     "name": "UAB \"URBAN AUTO\"",
     "code": "305592950",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "UAB \"Uniform auto\"",
+    "code": "305774458",
+    "address": "Vilnius, Savanorių pr. 219, LT-02300",
+    "vatcode": "LT100016175917"
   },
   {
     "name": "UAB \"VA auto dalys\"",
@@ -3355,7 +3413,8 @@
   {
     "name": "UAB Auto 777",
     "code": "306996134",
-    "address": "Vilniaus m. sav., Grigiškių m., Projektavimo g. 14-1, LT-27103"
+    "address": "Vilniaus m. sav., Grigiškių m., Projektavimo g. 14-1, LT-27103",
+    "vatcode": "LT100017569711"
   },
   {
     "name": "UAB Auto 8",
@@ -3846,8 +3905,7 @@
   {
     "name": "MB Autoacer",
     "code": "306376891",
-    "address": "Šiauliai, Tilžės g. 40-31, LT-78194",
-    "vatcode": "LT100017073314"
+    "address": "Šiauliai, Tilžės g. 40-31, LT-78194"
   },
   {
     "name": "UAB \"Autoada\"",
@@ -4009,6 +4067,11 @@
     "name": "UAB \"Autoalta\"",
     "code": "304912080",
     "address": "Vilnius, Vytauto Žalakevičiaus g. 4C-26, LT-10111"
+  },
+  {
+    "name": "MB \"AutoAltara\"",
+    "code": "307102982",
+    "address": "Telšių r. sav., Viešvėnų sen., Rainių k., Telšių g. 19A, LT-88402"
   },
   {
     "name": "UAB \"Autoalva\"",
@@ -4205,8 +4268,7 @@
   {
     "name": "UAB \"AUTOARVITA\"",
     "code": "301150600",
-    "address": "Joniškio r. sav., Joniškio sen., Kalnelio k., Ramybės g. 3, LT-84120",
-    "vatcode": "LT100003508915"
+    "address": "Joniškio r. sav., Joniškio sen., Kalnelio k., Ramybės g. 3, LT-84120"
   },
   {
     "name": "UAB \"AutoAS\"",
@@ -4392,11 +4454,6 @@
     "code": "126230739",
     "address": "Vilnius, Arklių g. 24, LT-01305",
     "vatcode": "LT262307314"
-  },
-  {
-    "name": "UAB \"Autobanginis\"",
-    "code": "304715649",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "UAB \"Autobara\"",
@@ -5308,6 +5365,11 @@
     "vatcode": "LT344760716"
   },
   {
+    "name": "MB \"Saulės Vėjo\" autocentras",
+    "code": "307088792",
+    "address": "Kauno r. sav., Karmėlavos sen., Karmėlavos II k., Vilniaus g. 1-8, LT-54458"
+  },
+  {
     "name": "MB \"Vt autocentras\"",
     "code": "305736183",
     "address": "Vilnius, Kareivių g. 2F-1, LT-08248"
@@ -5392,12 +5454,6 @@
     "code": "151007930",
     "address": "Marijampolė, Kauno g. 140, LT-68108",
     "vatcode": "LT510079314"
-  },
-  {
-    "name": "UAB \"Saulės vėjo\" autocentras",
-    "code": "304934415",
-    "address": "Birštono sav., Birštono sen., Puzonių k. 13, LT-59223",
-    "vatcode": "LT100011976919"
   },
   {
     "name": "UAB \"Vijūra\" autocentras",
@@ -5565,6 +5621,11 @@
     "address": "Kauno r. sav., Domeikavos sen., Šakių k., Tvenkinių g. 8A-54, LT-47413"
   },
   {
+    "name": "MB Autocitus",
+    "code": "307104232",
+    "address": "Vilniaus r. sav., Dūkštų sen., Brinkiškių k., Žaros 10-oji g. 16, LT-14228"
+  },
+  {
     "name": "UAB Autocivi",
     "code": "162576776",
     "address": "Vilnius, J. Kubiliaus g. 16, LT-08236"
@@ -5605,6 +5666,11 @@
     "name": "MB Autocraft",
     "code": "306676579",
     "address": "Alytus, J. Basanavičiaus g. 13A, LT-62145"
+  },
+  {
+    "name": "VšĮ SIGIS AUTOCROS",
+    "code": "307104392",
+    "address": "Molėtų r. sav., Čiulėnų sen., Aigėlų k. 1, LT-33352"
   },
   {
     "name": "VšĮ \"HONDA AUTOCROSS\"",
@@ -5714,6 +5780,11 @@
     "name": "MB \"Artiomo autodalys\"",
     "code": "305148148",
     "address": "Vilnius, Gabijos g. 5-34, LT-06111"
+  },
+  {
+    "name": "MB \"Autodalys LT\"",
+    "code": "307098530",
+    "address": "Vilnius, Santariškių g. 75-34, LT-08457"
   },
   {
     "name": "MB \"Dmr autodalys\"",
@@ -6142,8 +6213,7 @@
   {
     "name": "MB \"Autodepas\"",
     "code": "305094469",
-    "address": "Vilnius, Lvivo g. 13-12, LT-09313",
-    "vatcode": "LT100012332813"
+    "address": "Vilnius, Lvivo g. 13-12, LT-09313"
   },
   {
     "name": "UAB \"AUTODERA\"",
@@ -6447,7 +6517,8 @@
   {
     "name": "UAB \"AUTODOMA\"",
     "code": "302874745",
-    "address": "Tauragės r. sav., Skaudvilė, Mechanizatorių g. 8, LT-73426"
+    "address": "Tauragės r. sav., Skaudvilė, Mechanizatorių g. 8, LT-73426",
+    "vatcode": "LT100007389315"
   },
   {
     "name": "MB \"Autodomas\"",
@@ -6912,11 +6983,6 @@
     "vatcode": "LT100005218712"
   },
   {
-    "name": "UAB \"Autoeurologica\"",
-    "code": "304830758",
-    "address": "Trakų r. sav., Lentvaris, Geležinkelio g. 32-18, LT-25116"
-  },
-  {
     "name": "UAB \"AUTOEVA\"",
     "code": "302551514",
     "address": "Utena, Stoties g. 28, LT-28134"
@@ -7177,6 +7243,11 @@
     "name": "MB Autofokus",
     "code": "306625168",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
+    "name": "MB Autofokusas",
+    "code": "307099618",
+    "address": "Vilnius, Krokuvos g. 53-3, LT-09306"
   },
   {
     "name": "UAB \"Autofoma\"",
@@ -7748,8 +7819,7 @@
   {
     "name": "UAB \"Autogranta\"",
     "code": "304909757",
-    "address": "Vilnius, Veiverių g. 9B-41, LT-11346",
-    "vatcode": "LT100012393815"
+    "address": "Vilnius, Veiverių g. 9B-41, LT-11346"
   },
   {
     "name": "UAB \"Autograsa\"",
@@ -8033,11 +8103,6 @@
     "code": "306369199",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
     "vatcode": "LT100016693019"
-  },
-  {
-    "name": "UAB \"Autoida\"",
-    "code": "304226494",
-    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"AUTOIDĖJA\"",
@@ -8374,14 +8439,14 @@
     "vatcode": "LT415215219"
   },
   {
+    "name": "MB Autoka",
+    "code": "307091991",
+    "address": "Jonavos r. sav., Kulvos sen., Batėgalos k., Buivydų g. 20, LT-55343"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"AUTOKADIS\"",
     "code": "124873341",
     "address": "Vilnius, Dzūkų g. 101, LT-02119"
-  },
-  {
-    "name": "UAB \"AUTOKADRAS\"",
-    "code": "300095154",
-    "address": "Vilnius, Filaretų g. 42A-10, LT-01210"
   },
   {
     "name": "UAB \"Autokairys\"",
@@ -8554,7 +8619,8 @@
   {
     "name": "MB \"Autokatinas\"",
     "code": "305290101",
-    "address": "Vilnius, Durpių g. 11-3, LT-08217"
+    "address": "Radviliškio r. sav., Grinkiškio sen., Čerkosų k. 7, LT-82403",
+    "vatcode": "LT100017568118"
   },
   {
     "name": "MB AUTOKATIS",
@@ -8655,11 +8721,6 @@
     "name": "MB \"Autokiemas\"",
     "code": "304581260",
     "address": "Pasvalio r. sav., Pasvalio apylinkių sen., Ustukių k., Naujoji g. 57, LT-39101"
-  },
-  {
-    "name": "MB \"Autokilovatas\"",
-    "code": "305232906",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB Autoking Norge",
@@ -9632,6 +9693,11 @@
     "vatcode": "LT241434917"
   },
   {
+    "name": "UAB \"Autolota\"",
+    "code": "307091799",
+    "address": "Vilnius, Eišiškių pl. 47-312, LT-02184"
+  },
+  {
     "name": "MB \"Autolotas\"",
     "code": "302958047",
     "address": "Prienų r. sav., Balbieriškis, Kovo 8-osios g. 6, LT-59241",
@@ -9702,11 +9768,6 @@
     "name": "UAB \"Autoluxe LT\"",
     "code": "306966358",
     "address": "Panevėžio r. sav., Karsakiškio sen., Naujikų k., Vingio g. 22, LT-38443"
-  },
-  {
-    "name": "UAB \"Autolyderiai\"",
-    "code": "303159199",
-    "address": "Rokiškio r. sav., Kamajų sen., Vaštakų k. 9, LT-42283"
   },
   {
     "name": "UAB \"AUTOLYGA\"",
@@ -10104,9 +10165,15 @@
     "vatcode": "LT100010275618"
   },
   {
+    "name": "MB T-Automatika",
+    "code": "307089378",
+    "address": "Utena, Vaižganto g. 44-11, LT-28184"
+  },
+  {
     "name": "MB Įrengimų automatika",
     "code": "307038259",
-    "address": "Kauno r. sav., Domeikavos sen., Varluvos k., Gebenės g. 4, LT-54341"
+    "address": "Kauno r. sav., Domeikavos sen., Varluvos k., Gebenės g. 4, LT-54341",
+    "vatcode": "LT100017542114"
   },
   {
     "name": "UAB \"Automatika Rokiškyje\"",
@@ -10703,11 +10770,6 @@
     "address": "Vilnius, Žirgo g. 2-63, LT-10221"
   },
   {
-    "name": "UAB \"Automiras\"",
-    "code": "304707385",
-    "address": "Prienų r. sav., Šilavoto sen., Stuomenų k., Tilto g. 5, LT-59267"
-  },
-  {
     "name": "IĮ \"Automis\"",
     "code": "304858558",
     "address": "Kauno r. sav., Alšėnų sen., Kampiškių k., Vakario g. 6, LT-53303",
@@ -10889,6 +10951,11 @@
     "vatcode": "LT100014209712"
   },
   {
+    "name": "MB Automobiliai tau",
+    "code": "307099333",
+    "address": "Kaunas, Laisvės al. 110, LT-44253"
+  },
+  {
     "name": "MB Lp Automobiliai",
     "code": "306619197",
     "address": "Vilnius, Antakalnio g. 38-13, LT-10305"
@@ -10954,14 +11021,9 @@
     "address": "Šiauliai, Išradėjų g. 16, LT-78148"
   },
   {
-    "name": "UAB \"Mano automobiliai\"",
-    "code": "304946809",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
-  },
-  {
     "name": "UAB \"Manro automobiliai\"",
     "code": "305049239",
-    "address": "Klaipėda, Ryšininkų g. 8-7, LT-91118",
+    "address": "Klaipėda, Vėjo g. 147, LT-92348",
     "vatcode": "LT100012227619"
   },
   {
@@ -11006,7 +11068,8 @@
   {
     "name": "MB \"Stiklų keitimas automobiliams\"",
     "code": "305232614",
-    "address": "Trakų r. sav., Senųjų Trakų sen., Rubežiaus k., Giraitės g. 60A-2, LT-21143"
+    "address": "Trakų r. sav., Senųjų Trakų sen., Rubežiaus k., Giraitės g. 60A-2, LT-21143",
+    "vatcode": "LT100017540118"
   },
   {
     "name": "MB Lemputės automobiliams Autoledai",
@@ -11067,6 +11130,11 @@
     "code": "304290486",
     "address": "Kaunas, Draugystės g. 17-1, LT-51229",
     "vatcode": "LT100010252417"
+  },
+  {
+    "name": "MB Nemarinuok automobilio",
+    "code": "307107997",
+    "address": "Šilutė, Pievų g. 62-14, LT-99188"
   },
   {
     "name": "UAB \"Automobilio mėgėjas\"",
@@ -11515,6 +11583,11 @@
     "address": "Kaunas, Medvėgalio g. 12-11, LT-44447"
   },
   {
+    "name": "Automobilių vairuotojų sąjunga",
+    "code": "307096981",
+    "address": "Vilnius, Dangeručio g. 33-5, LT-14332"
+  },
+  {
     "name": "Automobilių vežėjų geležinkeliu asociacija \"Autogela\"",
     "code": "301757550",
     "address": "Kaunas, Savanorių pr. 349, LT-51480"
@@ -11942,6 +12015,11 @@
     "address": "Alytus, Žygimanto Augusto g. 6, LT-62231"
   },
   {
+    "name": "MB Automobilių remonto ekspertai",
+    "code": "307100554",
+    "address": "Kaunas, Kukučių g. 41, LT-51338"
+  },
+  {
     "name": "MB Automobilių servisas",
     "code": "304065105",
     "address": "Vilkaviškis, Nepriklausomybės g. 62-13, LT-70183",
@@ -12145,11 +12223,6 @@
     "vatcode": "LT100004501015"
   },
   {
-    "name": "UAB \"Automobilių energija\"",
-    "code": "304215829",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
-  },
-  {
     "name": "UAB \"Automobilių grupė\"",
     "code": "302541160",
     "address": "Kaunas, H. ir O. Minkovskių g. 134, LT-46245",
@@ -12165,11 +12238,6 @@
     "code": "305466097",
     "address": "Kaunas, Europos pr. 34-47, LT-46370",
     "vatcode": "LT100012983019"
-  },
-  {
-    "name": "UAB \"Automobilių nuoma\"",
-    "code": "303107868",
-    "address": "Vilnius, Medžiotojų g. 27C, LT-10220"
   },
   {
     "name": "UAB \"Automobilių parkavimo sistemos\"",
@@ -12642,7 +12710,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Automota\"",
     "code": "232339950",
-    "address": "Kaunas, Veiverių g. 114, LT-46271"
+    "address": "Kaunas, Veiverių g. 114, LT-46271",
+    "vatcode": "LT323399515"
   },
   {
     "name": "Association of Automotive Intelligence",
@@ -13047,7 +13116,7 @@
   {
     "name": "UAB \"Autonaras\"",
     "code": "304712126",
-    "address": "Alytus, Volungės g. 24-8, LT-63182",
+    "address": "Alytus, Likiškėlių g. 6-35, LT-63161",
     "vatcode": "LT100011471310"
   },
   {
@@ -13061,11 +13130,6 @@
     "code": "306745331",
     "address": "Vilnius, Šeškinės g. 19-20, LT-07153",
     "vatcode": "LT100016878714"
-  },
-  {
-    "name": "UAB \"Autoneka\"",
-    "code": "304447165",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
   },
   {
     "name": "MB \"Autoneksta\"",
@@ -13177,7 +13241,7 @@
   {
     "name": "Autonomeco, UAB",
     "code": "306143905",
-    "address": "Vilnius, Antakalnio g. 21A-2, LT-10312",
+    "address": "Vilnius, Sėlių g. 8, LT-08124",
     "vatcode": "LT100015280914"
   },
   {
@@ -13267,6 +13331,11 @@
     "code": "304933509",
     "address": "Klaipėda, Birutės g. 22-158, LT-91187",
     "vatcode": "LT100012051713"
+  },
+  {
+    "name": "MB Autonorth",
+    "code": "307090551",
+    "address": "Panevėžys, Parko g. 51-67, LT-37304"
   },
   {
     "name": "MB Autonorvis",
@@ -13905,11 +13974,6 @@
     "vatcode": "LT100005467410"
   },
   {
-    "name": "UAB \"Autoplėtra\"",
-    "code": "304787602",
-    "address": "Kauno r. sav., Lapių sen., Drąseikių k., Vakarinė g. 23, LT-54428"
-  },
-  {
     "name": "UAB \"Autopodiumas\"",
     "code": "304185784",
     "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228",
@@ -14024,6 +14088,11 @@
     "name": "MB \"Lux autopride\"",
     "code": "307010982",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "MB Autoprigonas company",
+    "code": "307105505",
+    "address": "Marijampolė, Beržų g. 19-2A, LT-68233"
   },
   {
     "name": "UAB \"AUTOPRIMA\"",
@@ -14143,11 +14212,6 @@
     "name": "MB \"Autoprotect PPF\"",
     "code": "306227399",
     "address": "Vilnius, Girulių g. 5, LT-12124"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Autoprut\"",
-    "code": "302867213",
-    "address": "Kaunas, Kranto 2-oji g. 17-7, LT-45273"
   },
   {
     "name": "UAB \"AUTOPSA\"",
@@ -14927,6 +14991,12 @@
     "address": "Klaipėda, Kalnupės g. 2H-38, LT-93262"
   },
   {
+    "name": "MB \"Autorimtas\"",
+    "code": "307094934",
+    "address": "Prienai, Pilies g. 14, LT-59114",
+    "vatcode": "LT100017596113"
+  },
+  {
     "name": "UAB Autorinas",
     "code": "305946477",
     "address": "Kretingos r. sav., Darbėnai, Kašučių g. 11, LT-97263"
@@ -15157,9 +15227,9 @@
     "vatcode": "LT555916314"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Autorosa\"",
-    "code": "155597325",
-    "address": "Visaginas, Sedulinos al. 14-3, LT-31128"
+    "name": "UAB \"Autorosis\"",
+    "code": "307100209",
+    "address": "Kaunas, Europos pr. 122, LT-46351"
   },
   {
     "name": "MB \"Autoroslis\"",
@@ -15176,7 +15246,8 @@
   {
     "name": "MB Autorotacija",
     "code": "307064147",
-    "address": "Jonava, Klaipėdos g. 3-36, LT-55169"
+    "address": "Jonava, Klaipėdos g. 3-36, LT-55169",
+    "vatcode": "LT100017522210"
   },
   {
     "name": "UAB \"Autorovika\"",
@@ -15262,6 +15333,11 @@
     "vatcode": "LT100016804317"
   },
   {
+    "name": "MB \"22 autos\"",
+    "code": "307108191",
+    "address": "Mažeikiai, Kalnėnų g. 9-1, LT-89145"
+  },
+  {
     "name": "MB \"Autos mb\"",
     "code": "306477157",
     "address": "Vilnius, Krivių g. 5, LT-01204"
@@ -15276,6 +15352,11 @@
     "code": "305744867",
     "address": "Alytus, Kernavės g. 8-7, LT-63301",
     "vatcode": "LT100014213710"
+  },
+  {
+    "name": "MB \"Mt autos\"",
+    "code": "307093857",
+    "address": "Utena, J. Basanavičiaus g. 49A, LT-28133"
   },
   {
     "name": "MB \"Ringo autos\"",
@@ -15307,6 +15388,11 @@
     "vatcode": "LT100014383011"
   },
   {
+    "name": "MB Gs autos",
+    "code": "307088116",
+    "address": "Anykščių r. sav., Viešintos, Ažubalių g. 8, LT-29322"
+  },
+  {
     "name": "MB NL Autos",
     "code": "306141295",
     "address": "Alytaus r. sav., Krokialaukis, Tarybų g. 29, LT-64355"
@@ -15334,6 +15420,12 @@
     "address": "Kaunas, Savanorių pr. 226-316A, LT-50198"
   },
   {
+    "name": "UAB \"TIN AUTOS\"",
+    "code": "148371571",
+    "address": "Panevėžys, Gėlainių g. 67, LT-36252",
+    "vatcode": "LT483715716"
+  },
+  {
     "name": "UAB BTZ autos",
     "code": "306430339",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -15341,7 +15433,7 @@
   {
     "name": "UAB Luxury autos",
     "code": "305992859",
-    "address": "Klaipėda, Ryšininkų g. 8-7, LT-91118",
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Spindulio g. 7, LT-92342",
     "vatcode": "LT100014911315"
   },
   {
@@ -15649,11 +15741,6 @@
     "code": "303141735",
     "address": "Klaipėda, Svajonės g. 24, LT-94101",
     "vatcode": "LT100008019613"
-  },
-  {
-    "name": "Kęstučio Randakevičiaus personalinė įmonė \"Kęstučio autoservisas\"",
-    "code": "134803583",
-    "address": "Kaunas, Ateities pl. 61-1"
   },
   {
     "name": "MARIO AUTOSERVISAS MB",
@@ -16489,6 +16576,11 @@
     "vatcode": "LT100013260010"
   },
   {
+    "name": "UAB \"AUTOSODA\"",
+    "code": "307101581",
+    "address": "Telšių r. sav., Lauko Soda, Lendrupio g. 4, LT-88269"
+  },
+  {
     "name": "MB \"Šalčininkų autospa\"",
     "code": "306313631",
     "address": "Šalčininkai, Statybininkų g. 15, LT-17126"
@@ -16699,6 +16791,11 @@
     "code": "304028135",
     "address": "Vilnius, M. K. Paco g. 19-33, LT-10309",
     "vatcode": "LT100010756714"
+  },
+  {
+    "name": "VšĮ \"Bukavičių autosporto projektai\"",
+    "code": "307085682",
+    "address": "Kaunas, K. Griniaus g. 9-5, LT-48390"
   },
   {
     "name": "VšĮ Autosporto klubas \"Vilnius\"",
@@ -17083,13 +17180,14 @@
   {
     "name": "UAB \"Autotaktika\"",
     "code": "303189897",
-    "address": "Vilnius, Ragės g. 16, LT-08400",
+    "address": "Vilnius, Bajorų kel. 23-33, LT-08467",
     "vatcode": "LT100008235910"
   },
   {
     "name": "MB Autotarpininkas",
     "code": "306207934",
-    "address": "Vilnius, Ozo g. 30B-3, LT-07171"
+    "address": "Vilnius, Ozo g. 30B-3, LT-07171",
+    "vatcode": "LT100017604713"
   },
   {
     "name": "MB \"Autotartus Plus\"",
@@ -17240,11 +17338,6 @@
     "vatcode": "LT100010541017"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"AUTOTENTAS\"",
-    "code": "141721617",
-    "address": "Vilnius, Dzūkų g. 107, LT-02119"
-  },
-  {
     "name": "MB \"Autotenvita\"",
     "code": "305282389",
     "address": "Šilalės r. sav., Pajūris, Dariaus ir Girėno g. 31A, LT-75289",
@@ -17296,6 +17389,11 @@
     "code": "304407078",
     "address": "Vilniaus miesto savivaldybės teritorija",
     "vatcode": "LT100010500413"
+  },
+  {
+    "name": "MB Autotieksta",
+    "code": "307085294",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "UAB \"Autotiesinimas\"",
@@ -18054,6 +18152,11 @@
     "vatcode": "LT100008952915"
   },
   {
+    "name": "MB Autovairas",
+    "code": "307096604",
+    "address": "Šiauliai, Spindulio g. 5-27B, LT-76163"
+  },
+  {
     "name": "\"Autovaistinė\", UAB",
     "code": "304234434",
     "address": "Vilnius, Erfurto g. 37-15, LT-04226"
@@ -18080,11 +18183,6 @@
     "code": "303655359",
     "address": "Marijampolė, Naručio g. 7, LT-68310",
     "vatcode": "LT100009165619"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Autovaldema\"",
-    "code": "183247257",
-    "address": "Ukmergė, Ąžuolų g. 74, LT-20147"
   },
   {
     "name": "UAB \"Autovaldika\"",

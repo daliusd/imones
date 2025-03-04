@@ -301,6 +301,11 @@
     "address": "Panevėžys, Girelės g. 7A, LT-37450"
   },
   {
+    "name": "MB Mikro linija",
+    "code": "307100216",
+    "address": "Radviliškis, Ąžuolyno g. 21, LT-82190"
+  },
+  {
     "name": "MB Plento linija",
     "code": "306045585",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -343,7 +348,8 @@
   {
     "name": "MB Versli linija",
     "code": "305743669",
-    "address": "Klaipėdos r. sav., Priekulė, Turgaus g. 24, LT-96356"
+    "address": "Klaipėdos r. sav., Priekulė, Turgaus g. 24, LT-96356",
+    "vatcode": "LT100017566111"
   },
   {
     "name": "MB Vidurio linija",
@@ -459,8 +465,7 @@
   {
     "name": "UAB \"D LINIJA\"",
     "code": "303038016",
-    "address": "Panevėžys, Beržų g. 44, LT-36144",
-    "vatcode": "LT100008184614"
+    "address": "Panevėžys, Beržų g. 44, LT-36144"
   },
   {
     "name": "UAB \"Danties linija plius\"",
@@ -1062,11 +1067,6 @@
     "address": "Šiauliai, Dainų g. 100-72, LT-78270"
   },
   {
-    "name": "MB Dailios linijos",
-    "code": "307053122",
-    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Vyturių g. 2-32, LT-54124"
-  },
-  {
     "name": "MB Linijos studija",
     "code": "306799336",
     "address": "Vilnius, Justiniškių g. 146, LT-06153"
@@ -1229,6 +1229,11 @@
     "name": "Uždaroji akcinė bendrovė \"Linita\" vaistinė",
     "code": "133743247",
     "address": "Kaunas, K. Baršausko g. 65-26, LT-51433"
+  },
+  {
+    "name": "MB \"Linius LT\"",
+    "code": "307093298",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB \"Liniux\"",

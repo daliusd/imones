@@ -10,6 +10,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "Laiko turtai MB",
+    "code": "307088237",
+    "address": "Vilnius, Žemaitės g. 5-27, LT-03119"
+  },
+  {
     "name": "MB \"Mūsų turtai\"",
     "code": "306963547",
     "address": "Vilnius, Loretos Asanavičiūtės g. 13-34, LT-04300"
@@ -68,7 +73,7 @@
   {
     "name": "\"Juodkrantės turtas\", UAB",
     "code": "305591446",
-    "address": "Vilnius, Konstitucijos pr. 15-90, LT-09319"
+    "address": "Vilnius, Konstitucijos pr. 15-98, LT-09319"
   },
   {
     "name": "\"PMP Turtas\", UAB",
@@ -115,7 +120,8 @@
   {
     "name": "Amber turtas UAB",
     "code": "307084139",
-    "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Karpavos g. 15, LT-91289"
+    "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Karpavos g. 15, LT-91289",
+    "vatcode": "LT100017537017"
   },
   {
     "name": "Amika turtas UAB",
@@ -767,12 +773,6 @@
     "vatcode": "LT100005079318"
   },
   {
-    "name": "UAB \"MC turtas 2\"",
-    "code": "302466882",
-    "address": "Vilnius, Verkių g. 42, LT-09117",
-    "vatcode": "LT100005079217"
-  },
-  {
     "name": "UAB \"MC turtas 3\"",
     "code": "303324875",
     "address": "Vilnius, Verkių g. 42, LT-09117",
@@ -809,8 +809,7 @@
   {
     "name": "UAB \"Martyno ir Gitanos turtas\"",
     "code": "304756382",
-    "address": "Vilnius, Kryžiokų Sodų 6-oji g. 47, LT-08444",
-    "vatcode": "LT100012176015"
+    "address": "Vilnius, Kryžiokų Sodų 6-oji g. 47, LT-08444"
   },
   {
     "name": "UAB \"Metelių turtas\"",
@@ -1084,11 +1083,6 @@
     "code": "304229661",
     "address": "Vilnius, Žirmūnų g. 68A-4, LT-09124",
     "vatcode": "LT100010171619"
-  },
-  {
-    "name": "UAB \"TRAKŲ TURTAS\"",
-    "code": "302567881",
-    "address": "Vilnius, Šeimyniškių g. 42-51, LT-09213"
   },
   {
     "name": "UAB \"Tauralaukio turtas\"",
@@ -1425,6 +1419,11 @@
     "vatcode": "LT100017366512"
   },
   {
+    "name": "UAB Teatro turtas",
+    "code": "307093782",
+    "address": "Vilnius, Teatro g. 9B-19, LT-03107"
+  },
+  {
     "name": "UAB Vaistija turtas",
     "code": "306663215",
     "address": "Kaunas, P. Kalpoko g. 52-7, LT-44183"
@@ -1679,6 +1678,11 @@
     "address": "Vilnius, K. Sirvydo g. 6, LT-01101"
   },
   {
+    "name": "Lietuvos Respublikos turto ir verslo vertintojų rūmai",
+    "code": "307108985",
+    "address": "Vilnius, Konstitucijos pr. 23, LT-08105"
+  },
+  {
     "name": "Lietuvos nekilnojamojo turto brokerių asociacija",
     "code": "305103904",
     "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
@@ -1697,7 +1701,8 @@
   {
     "name": "MB \"Komercinio turto projektai\"",
     "code": "304179308",
-    "address": "Klaipėda, Didžioji Vandens g. 12-1, LT-91246"
+    "address": "Klaipėda, Didžioji Vandens g. 12-1, LT-91246",
+    "vatcode": "LT100017537319"
   },
   {
     "name": "MB \"Nekilnojamo turto paslauga\"",
@@ -1793,6 +1798,11 @@
     "address": "Radviliškis, Jaunystės g. 2-17, LT-82164"
   },
   {
+    "name": "MB \"Turto valdymo ir konsultavimo centras\"",
+    "code": "307092602",
+    "address": "Kaunas, V. Šiugždinio g. 17-3, LT-47239"
+  },
+  {
     "name": "MB \"Turto vystymo sprendimai\"",
     "code": "303040565",
     "address": "Palanga, Žiogų g. 14D, LT-00205",
@@ -1870,6 +1880,11 @@
     "name": "Nacionalinė nekilnojamojo turto vartotojų asociacija",
     "code": "304168016",
     "address": "Vilnius, Laisvės pr. 125, LT-06118"
+  },
+  {
+    "name": "Nekilnojamojo turto draudėjų asociacija",
+    "code": "307106824",
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "Nekilnojamojo turto prekybos tarpininkų asociacija",

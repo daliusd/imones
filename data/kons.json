@@ -183,6 +183,11 @@
     "address": "Vilnius, Perkūnkiemio g. 12-59, LT-12113"
   },
   {
+    "name": "UAB \"Konsion\"",
+    "code": "307087046",
+    "address": "Kelmės r. sav., Liolių sen., Jogeliškės k. 2, LT-86202"
+  },
+  {
     "name": "Lietuvos evangelikų liuteronų bažnyčios konsistorija",
     "code": "192069444",
     "address": "Tauragė, J. Tumo-Vaižganto g. 50, LT-72263"
@@ -356,11 +361,6 @@
     "name": "UAB \"KONSTELA\"",
     "code": "302482192",
     "address": "Vilnius, Kaminkelio g. 28, LT-02182"
-  },
-  {
-    "name": "UAB \"Sisteminės konsteliacijos\"",
-    "code": "303402377",
-    "address": "Zarasų r. sav., Dusetų sen., Padustėlio k., Upės g. 1, LT-32312"
   },
   {
     "name": "UAB \"Konstena\"",
@@ -1720,11 +1720,6 @@
     "address": "Vilnius, Kalvarijų g. 57B-30, LT-09317"
   },
   {
-    "name": "MB \"Lgv konsultacijos\"",
-    "code": "305675136",
-    "address": "Vilniaus r. sav., Riešės sen., Raudondvario k., Žirgų g. 18-6, LT-14257"
-  },
-  {
     "name": "MB \"M. Murausko konsultacijos\"",
     "code": "304473306",
     "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Piliuonos g. 5, LT-53363"
@@ -2005,6 +2000,11 @@
     "address": "Elektrėnai, Trakų g. 20-9, LT-26118"
   },
   {
+    "name": "MB IPAG konsultacijos",
+    "code": "307108177",
+    "address": "Kaišiadorys, Gedimino g. 26-8, LT-56129"
+  },
+  {
     "name": "MB Imago konsultacijos",
     "code": "304087571",
     "address": "Vilnius, V. Grybo g. 17-135, LT-10318"
@@ -2035,6 +2035,11 @@
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
+    "name": "MB Laimono konsultacijos",
+    "code": "307086503",
+    "address": "Vilnius, Lvivo g. 38A-38, LT-09307"
+  },
+  {
     "name": "MB Linutės konsultacijos",
     "code": "306290905",
     "address": "Kaunas, Vaivorykštės al. 19, LT-46422",
@@ -2043,7 +2048,8 @@
   {
     "name": "MB Lobiai ir konsultacijos",
     "code": "306745438",
-    "address": "Vilnius, Krivių g. 5, LT-01204"
+    "address": "Vilnius, Krivių g. 5, LT-01204",
+    "vatcode": "LT100017538116"
   },
   {
     "name": "MB Lv konsultacijos",
@@ -2069,7 +2075,7 @@
   {
     "name": "MB PSFO konsultacijos",
     "code": "305622429",
-    "address": "Vilnius, Eglių g. 35-65, LT-03138"
+    "address": "Kaunas, J. Vienožinskio g. 56-422, LT-48464"
   },
   {
     "name": "MB Progresyvios verslo konsultacijos",
@@ -2461,7 +2467,7 @@
   {
     "name": "UAB \"MARCIJAUS KONSULTACIJOS\"",
     "code": "304554427",
-    "address": "Vilnius, Totorių g. 5-3, LT-01121"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "UAB \"Medžio verslas ir konsultacijos\"",
@@ -2495,11 +2501,6 @@
     "code": "302750904",
     "address": "Vilnius, Žirgo g. 2-65, LT-10221",
     "vatcode": "LT100016369915"
-  },
-  {
-    "name": "UAB \"Prekybos konsultacijos\"",
-    "code": "304723927",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
   },
   {
     "name": "UAB \"Projektų konsultacijos ir tyrimai\"",
@@ -3422,7 +3423,7 @@
   {
     "name": "MB \"Miško konsultantai\"",
     "code": "304938381",
-    "address": "Alytus, Vingio g. 21-75, LT-63216",
+    "address": "Alytus, Rotušės a. 15, LT-62141",
     "vatcode": "LT100012512811"
   },
   {
@@ -3606,7 +3607,7 @@
   {
     "name": "UAB \"Verslo konsultantų biuras\"",
     "code": "301535770",
-    "address": "Utena, J. Basanavičiaus g. 49A, LT-28133",
+    "address": "Utena, K. Ladygos g. 106A, LT-28238",
     "vatcode": "LT100017115717"
   },
   {
@@ -3754,6 +3755,11 @@
     "name": "MB \"Mokymo ir konsultavimo erdvė\"",
     "code": "306067400",
     "address": "Vilnius, Pavilnionių g. 41-9, LT-12100"
+  },
+  {
+    "name": "MB \"Turto valdymo ir konsultavimo centras\"",
+    "code": "307092602",
+    "address": "Kaunas, V. Šiugždinio g. 17-3, LT-47239"
   },
   {
     "name": "MB \"Verslo konsultavimo partneris\"",

@@ -550,7 +550,8 @@
   {
     "name": "MB Geriausi elektrikai",
     "code": "306983635",
-    "address": "Kaunas, K. Donelaičio g. 70B, LT-44248"
+    "address": "Kaunas, K. Donelaičio g. 70B, LT-44248",
+    "vatcode": "LT100017559613"
   },
   {
     "name": "UAB \"Elektrikai\"",
@@ -678,12 +679,6 @@
     "vatcode": "LT100011377414"
   },
   {
-    "name": "MB \"Elektrinis paspirtukas\"",
-    "code": "304961184",
-    "address": "Alytaus r. sav., Alytaus sen., Talokių k., Paplentės g. 68, LT-62194",
-    "vatcode": "LT100013240416"
-  },
-  {
     "name": "MB Elektrinis judėjimas",
     "code": "306809360",
     "address": "Ukmergė, A. Vienuolio-Žukausko g. 53, LT-20143"
@@ -693,6 +688,12 @@
     "code": "124961492",
     "address": "Vilnius, Varnionių g. 4, LT-11235",
     "vatcode": "LT100011003613"
+  },
+  {
+    "name": "UAB \"Elektrinis paspirtukas\"",
+    "code": "304961184",
+    "address": "Alytaus r. sav., Alytaus sen., Talokių k., Paplentės g. 68, LT-62194",
+    "vatcode": "LT100013240416"
   },
   {
     "name": "VšĮ \"Elektrinis dviratis\"",
@@ -1189,7 +1190,7 @@
     "address": "Kaunas, Pavasario g. 5, LT-46301"
   },
   {
-    "name": "MB \"Elektrolaukas\"",
+    "name": "UAB \"Elektrolaukas\"",
     "code": "306161013",
     "address": "Vilniaus r. sav., Avižienių sen., Bajorų k., Šaulio g. 62, LT-14189",
     "vatcode": "LT100015439117"
@@ -2273,6 +2274,11 @@
     "vatcode": "LT100013423917"
   },
   {
+    "name": "MB \"Elektros tinklo sprendimai\"",
+    "code": "307087669",
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
+  },
+  {
     "name": "MB ELEKTROS MONTUOTOJAS",
     "code": "306718277",
     "address": "Širvintų r. sav., Zibalų sen., Naidų k. 13, LT-19224"
@@ -2375,6 +2381,11 @@
     "name": "MB Elektros žara",
     "code": "306621928",
     "address": "Prienų r. sav., Veiverių sen., Papilvio k., Braškių g. 9, LT-59283"
+  },
+  {
+    "name": "MB NT elektros darbai",
+    "code": "307107246",
+    "address": "Kaunas, V. Landsbergio-Žemkalnio g. 32-23, LT-49295"
   },
   {
     "name": "Mažoji bendrija \"Elektros guru\"",
@@ -2995,6 +3006,11 @@
     "name": "Asociacija \"Elektrėnų ASK\"",
     "code": "303230251",
     "address": "Elektrėnai, Prano Noreikos g. 2, LT-26115"
+  },
+  {
+    "name": "Asociacija \"Elektrėnų dziudo klubas\"",
+    "code": "307093387",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
   },
   {
     "name": "Asociacija \"Elektrėnų slėnis\"",

@@ -41,14 +41,14 @@
     "address": "Kretinga, Vilniaus g. 2A, LT-97125"
   },
   {
+    "name": "Asociacija \"Kėdainių lietaus vaikai\"",
+    "code": "305186394",
+    "address": "Kėdainiai, J. Basanavičiaus g. 99, LT-57351"
+  },
+  {
     "name": "Asociacija \"Laimingi vaikai\"",
     "code": "304029454",
     "address": "Visagino sav., Karlų k., Sandėlių g. 1, LT-31147"
-  },
-  {
-    "name": "Asociacija \"Mes kitokie vaikai\"",
-    "code": "305186394",
-    "address": "Kėdainiai, J. Basanavičiaus g. 99, LT-57351"
   },
   {
     "name": "Asociacija \"Oranžinio kamuolio vaikai\"",
@@ -543,6 +543,16 @@
     "vatcode": "LT100015085710"
   },
   {
+    "name": "MOKYKLA VAIKAMS, UAB filialas \"GABIŲ VAIKŲ AKADEMIJA\"",
+    "code": "302660104",
+    "address": "Vilnius, Žygio g. 97A-101"
+  },
+  {
+    "name": "MOKYKLA VAIKAMS, UAB filialas \"MOKYTOJŲ AKADEMIJA\"",
+    "code": "304083473",
+    "address": "Vilnius, Žygio g. 97A-101"
+  },
+  {
     "name": "Mstislavo Rostropovičiaus labdaros ir paramos fondas \"Pagalba Lietuvos vaikams\"",
     "code": "195761120",
     "address": "Vilnius, Mildos g. 31-15, LT-10311"
@@ -639,16 +649,6 @@
     "address": "Vilnius, M. Valančiaus g. 1A-6, LT-03155"
   },
   {
-    "name": "VšĮ \"Mokykla vaikams\" filialas \"GABIŲ VAIKŲ AKADEMIJA\"",
-    "code": "302660104",
-    "address": "Vilnius, Žygio g. 97A-101"
-  },
-  {
-    "name": "VšĮ \"Mokykla vaikams\" filialas \"MOKYTOJŲ AKADEMIJA\"",
-    "code": "304083473",
-    "address": "Vilnius, Žygio g. 97A-101"
-  },
-  {
     "name": "VšĮ \"STEAM vaikams\"",
     "code": "305484145",
     "address": "Jonava, Lietavos g. 13-5, LT-55139"
@@ -698,6 +698,11 @@
     "name": "MB \"Mama ir vaikas\"",
     "code": "303009438",
     "address": "Vilnius, Kazio Ulvydo g. 5-12, LT-08354"
+  },
+  {
+    "name": "MB \"Nepatogus vaikas\"",
+    "code": "307097994",
+    "address": "Jonava, Suvalkiečių g. 22, LT-55200"
   },
   {
     "name": "MB \"Turtingas vaikas\"",
@@ -856,6 +861,11 @@
     "name": "Respublikinės Šiaulių ligoninės Moters ir Vaiko Klinikos profesinė sąjunga",
     "code": "302833531",
     "address": "Šiauliai, Architektų g. 77, LT-78170"
+  },
+  {
+    "name": "SUPER VAIKO LABDAROS IR PARAMOS FONDAS",
+    "code": "307106571",
+    "address": "Vilniaus m. sav., Grigiškės, Kauno Vokės g. 17, LT-27100"
   },
   {
     "name": "Telšių rajono vaiko ir šeimos gerovės centras",
@@ -1182,7 +1192,7 @@
     "vatcode": "LT100015522916"
   },
   {
-    "name": "Broniaus Vaikučio gamybinė-komercinė įmonė",
+    "name": "IĮ Broniaus Vaikučio gamybinė-komercinė įmonė",
     "code": "169708223",
     "address": "Plungė, A. Jucio g. 4-38, LT-90145",
     "vatcode": "LT697082219"
@@ -1722,11 +1732,6 @@
     "address": "Klaipėda, Ryšininkų g. 8-7, LT-91118"
   },
   {
-    "name": "Klaipėdos apskrities sutrikusios klausos vaikų ir jaunimo tėvų bendrija \"Aidas\"",
-    "code": "193431686",
-    "address": "Klaipėda, Strėvos g. 7, LT-93240"
-  },
-  {
     "name": "Klaipėdos miesto vaikų ir jaunimo teniso klubas \"PERSPEKTYVA\"",
     "code": "141847459",
     "address": "Klaipėda, Kretingos g. 23, LT-92216"
@@ -2090,7 +2095,7 @@
   {
     "name": "MB \"Vaikų salelė\"",
     "code": "306217152",
-    "address": "Šiauliai, Sodo g. 17, LT-76177"
+    "address": "Šiauliai, Lyros g. 21-32, LT-78262"
   },
   {
     "name": "MB \"Vaikų studija\"",
@@ -2130,6 +2135,11 @@
     "code": "306341075",
     "address": "Telšių r. sav., Viešvėnų sen., Rainių k., Liepų g. 7-15, LT-88401",
     "vatcode": "LT100016776116"
+  },
+  {
+    "name": "MOKYKLA VAIKAMS, UAB filialas \"GABIŲ VAIKŲ AKADEMIJA\"",
+    "code": "302660104",
+    "address": "Vilnius, Žygio g. 97A-101"
   },
   {
     "name": "Marijampolės vaikų ir jaunimo choro studija",
@@ -2185,11 +2195,6 @@
     "name": "Molėtų vaikų ir jaunimo pilietinio ir tautinio ugdymo klubas \"Mes-gimnazistai\"",
     "code": "302466658",
     "address": "Molėtai, Jaunimo g. 5, LT-33127"
-  },
-  {
-    "name": "Naujosios Akmenės miesto vaikų lopšelio-darželio \"Žvaigždutė\" labdaros ir paramos fondas",
-    "code": "300105627",
-    "address": "Naujoji Akmenė, Respublikos g. 22, LT-85164"
   },
   {
     "name": "Nevalstybinis vaikų darželis \"Nendrė\"",
@@ -2984,14 +2989,14 @@
     "address": "Vilniaus r. sav., Mickūnai, Jaunimo g. 14, LT-13113"
   },
   {
-    "name": "Vilniaus r. Nemenčinės vaikų darželis",
-    "code": "303381239",
-    "address": "Vilniaus r. sav., Nemenčinė, Kranto g. 21, LT-15177"
-  },
-  {
     "name": "Vilniaus r. Nemenčinės vaikų lopšelis-darželis",
     "code": "303381207",
     "address": "Vilniaus r. sav., Nemenčinė, Piliakalnio g. 36A, LT-15175"
+  },
+  {
+    "name": "Vilniaus r. Nemenčinės vaikų lopšelis-darželis \"100 spalvų\"",
+    "code": "303381239",
+    "address": "Vilniaus r. sav., Nemenčinė, Kranto g. 21, LT-15177"
   },
   {
     "name": "Vilniaus r. Nemėžio vaikų lopšelis-darželis",
@@ -3112,11 +3117,6 @@
     "name": "VšĮ \"Laimingų vaikų pilis\"",
     "code": "303454395",
     "address": "Klaipėda, H. Manto g. 6A-30, LT-92133"
-  },
-  {
-    "name": "VšĮ \"Mokykla vaikams\" filialas \"GABIŲ VAIKŲ AKADEMIJA\"",
-    "code": "302660104",
-    "address": "Vilnius, Žygio g. 97A-101"
   },
   {
     "name": "VšĮ \"Pėdutės\" vaikų lopšelis - darželis",

@@ -175,6 +175,12 @@
     "vatcode": "LT100001851612"
   },
   {
+    "name": "UAB Persona Grata LT",
+    "code": "305590650",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100013316211"
+  },
+  {
     "name": "UAB Persona Optima group",
     "code": "306121638",
     "address": "Kaunas, Draugystės g. 17-1, LT-51229",
@@ -209,6 +215,11 @@
     "name": "MB T personal",
     "code": "305653257",
     "address": "Ukmergė, Maironio g. 2A-103, LT-20108"
+  },
+  {
+    "name": "MB Workhub personal",
+    "code": "307087733",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
   },
   {
     "name": "OOO \"Personal Nalogi Pravo\" filialas",
@@ -284,11 +295,6 @@
     "code": "305609054",
     "address": "Kaunas, Geležinio Vilko g. 8-40, LT-49187",
     "vatcode": "LT100014216917"
-  },
-  {
-    "name": "UAB \"Personalas 24\"",
-    "code": "304999904",
-    "address": "Kaunas, Jaunimo a. 24, LT-50116"
   },
   {
     "name": "UAB \"Personalas Europai\"",
@@ -1728,8 +1734,7 @@
   {
     "name": "G. LUKAŠEVIČ PERSONALINĖ ĮMONĖ",
     "code": "125678351",
-    "address": "Vilnius, Didlaukio g. 8-16, LT-08331",
-    "vatcode": "LT256783515"
+    "address": "Vilnius, Didlaukio g. 8-16, LT-08331"
   },
   {
     "name": "G. Latkovskio personalinė įmonė \"ELEPHAS\"",
@@ -2700,11 +2705,6 @@
     "code": "178305666",
     "address": "Širvintų r. sav., Širvintų sen., Akmenių k.",
     "vatcode": "LT783056610"
-  },
-  {
-    "name": "Kęstučio Randakevičiaus personalinė įmonė \"Kęstučio autoservisas\"",
-    "code": "134803583",
-    "address": "Kaunas, Ateities pl. 61-1"
   },
   {
     "name": "L. Arechvo personalinė įmonė \"LINOS ELEKTRONIKA\"",
@@ -4923,7 +4923,8 @@
   {
     "name": "MB \"Personnel Solutions Holding\"",
     "code": "307081004",
-    "address": "Vilnius, Latvių g. 38-17, LT-08113"
+    "address": "Vilnius, Latvių g. 38-17, LT-08113",
+    "vatcode": "LT100017584816"
   },
   {
     "name": "Seacontractors Maritime Personnel B.V. Lietuvos filialas",

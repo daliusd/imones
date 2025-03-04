@@ -51,6 +51,11 @@
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
   },
   {
+    "name": "MB Corvette garage",
+    "code": "307104467",
+    "address": "Jonavos r. sav., Užusalių sen., Užusalių k., Apylankos g. 4, LT-55333"
+  },
+  {
     "name": "MB Custom garage",
     "code": "307064318",
     "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Šiltnamių g. 60, LT-53371"
@@ -344,7 +349,8 @@
   {
     "name": "MB Lubų garantas",
     "code": "306750595",
-    "address": "Vilniaus r. sav., Juodšilių sen., Valčiūnų k., Lapų g. 1, LT-13227"
+    "address": "Vilniaus r. sav., Juodšilių sen., Valčiūnų k., Lapų g. 1, LT-13227",
+    "vatcode": "LT100017532218"
   },
   {
     "name": "MB Teisinių paslaugų garantas",
@@ -393,7 +399,7 @@
   {
     "name": "UAB \"Baldų garantas\"",
     "code": "305231957",
-    "address": "Kauno r. sav., Karmėlavos sen., Karmėlavos II k., Kankorėžių g. 10, LT-54453",
+    "address": "Kauno r. sav., Karmėlava, Baldininkų g. 23-2, LT-54448",
     "vatcode": "LT100012725019"
   },
   {
@@ -1098,11 +1104,6 @@
     "code": "303127408",
     "address": "Kaunas, Žemynos g. 36, LT-47102",
     "vatcode": "LT100008738816"
-  },
-  {
-    "name": "UAB \"Laimio ir Lino garažas\"",
-    "code": "304781784",
-    "address": "Trakų r. sav., Lentvaris, Geležinkelio g. 32-18, LT-25116"
   },
   {
     "name": "UAB \"Retro garažas\"",
@@ -2899,7 +2900,7 @@
   {
     "name": "391-oji garažų statybos ir eksploatavimo bendrija",
     "code": "124878089",
-    "address": "Vilnius, Laisvės pr. 51A, LT-07191"
+    "address": "Vilnius, Laisvės pr. 51A-18, LT-07191"
   },
   {
     "name": "392-oji garažų statybos ir eksploatavimo bendrija",
@@ -3199,7 +3200,7 @@
   {
     "name": "442-oji garažų statybos ir eksploatavimo bendrija",
     "code": "125070954",
-    "address": "Vilnius, Volungės g. 9, LT-10316"
+    "address": "Vilnius, Volungės g. 9A, LT-10316"
   },
   {
     "name": "443-oji garažų eksploatavimo bendrija",
@@ -3269,7 +3270,7 @@
   {
     "name": "453-oji garažų statybos ir eksploatavimo bendrija",
     "code": "300108687",
-    "address": "Vilnius, L. Giros g. 106A, LT-06300"
+    "address": "Vilnius, Liongino Baliukevičiaus-Dzūko g. 106A-27, LT-06300"
   },
   {
     "name": "454-oji garažų statybos ir eksploatavimo bendrija",
@@ -3955,7 +3956,7 @@
   {
     "name": "6-oji metalinių garažų eksploatavimo bendrija Gegužių g.",
     "code": "145498122",
-    "address": "Šiauliai, Gegužių g."
+    "address": "Šiauliai, Lieporių g. 3-17, LT-78251"
   },
   {
     "name": "6-oji metalinių garažų statybos ir eksploatavimo bendrija",
@@ -4046,7 +4047,7 @@
   {
     "name": "617-oji garažų statybos ir eksploatavimo bendrija",
     "code": "125060127",
-    "address": "Vilnius, Tauro g. 12B, LT-01114"
+    "address": "Vilnius, Tauro g. 12B-7, LT-01114"
   },
   {
     "name": "62-oji II-os grupės garažų eksploatavimo bendrija Radviliškio g. 48",
@@ -4106,7 +4107,7 @@
   {
     "name": "63-osios garažų eksploatavimo bendrijos 3-čia grupė Radviliškio g. 18b",
     "code": "245598390",
-    "address": "Šiauliai, Radviliškio g."
+    "address": "Šiauliai, Vilniaus g. 296, LT-76308"
   },
   {
     "name": "630-oji garažų statybos ir eksploatavimo bendrija",
@@ -4341,7 +4342,7 @@
   {
     "name": "7-oji metalinių garažų eksploatavimo bendrija Gegužių g.",
     "code": "145511826",
-    "address": "Šiauliai, Gegužių g."
+    "address": "Šiauliai, Vytauto g. 63-14, LT-77148"
   },
   {
     "name": "70-oji garažų eksploatavimo bendrija Tilžės g. 221",
@@ -4471,7 +4472,7 @@
   {
     "name": "84-oji garažų eksploatavimo bendrija Garažų g.",
     "code": "245592170",
-    "address": "Šiauliai"
+    "address": "Šiauliai, Garažų g. 40-36, LT-78303"
   },
   {
     "name": "84-oji garažų statybos ir eksploatavimo bendrija",
@@ -4521,7 +4522,7 @@
   {
     "name": "89-oji garažų statybos ir eksploatavimo bendrija",
     "code": "148288549",
-    "address": "Panevėžys, Pušaloto g."
+    "address": "Panevėžys, Pušaloto g. 201, LT-35291"
   },
   {
     "name": "9-oji garažų statybos ir eksploatavimo bendrija",
@@ -4931,7 +4932,7 @@
   {
     "name": "Garažų bendrija \"Užmiestis-10\"",
     "code": "303167025",
-    "address": "Pasvalys, Taikos g. 13-4, LT-39138"
+    "address": "Pasvalys, Žemaitės g. 45A, LT-39177"
   },
   {
     "name": "Garažų bendrija \"VIKIS\"",
@@ -5261,12 +5262,12 @@
   {
     "name": "Garažų eksploatavimo bendrija \"Lėvuo 2\"",
     "code": "169261459",
-    "address": "Pasvalys, Biržų g. 98A"
+    "address": "Pasvalys, Biržų g. 89A, LT-39128"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Lėvuo\"",
     "code": "160316598",
-    "address": "Kupiškis, Slavinčiškio g."
+    "address": "Kupiškis, Slavinčiškio g. 12G, LT-40118"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Lėvuo-4\"",
@@ -5431,7 +5432,7 @@
   {
     "name": "Garažų eksploatavimo bendrija \"Ratas-2\"",
     "code": "169273760",
-    "address": "Pasvalys, Biržų g."
+    "address": "Pasvalys, Biržų g. 120C, LT-39125"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Ratas-3\"",
@@ -6046,7 +6047,7 @@
   {
     "name": "Garažų savininkų bendrija \"Melioratorius-3\"",
     "code": "300654355",
-    "address": "Kupiškio r. sav., Noriūnų sen., Noriūnų k., Melioratorių g. 11-20, LT-40390"
+    "address": "Kupiškio r. sav., Noriūnų sen., Noriūnų k., Lėvens g. 4A, LT-40386"
   },
   {
     "name": "Garažų savininkų bendrija \"Nendrė\"",
@@ -6066,7 +6067,7 @@
   {
     "name": "Garažų savininkų bendrija \"Piniava-2\"",
     "code": "302316078",
-    "address": "Panevėžio r. sav., Panevėžio sen., Piniavos k., Miškininkų g. 8-12, LT-38415"
+    "address": "Panevėžio r. sav., Panevėžio sen., Piniavos k., Sodžiaus g. 1A-12, LT-38415"
   },
   {
     "name": "Garažų savininkų bendrija \"Prie Savitiškio\"",
@@ -7821,7 +7822,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šančiai\"",
     "code": "135390276",
-    "address": "Kaunas, Kranto al. 54, LT-45280"
+    "address": "Kaunas, Kranto al. 54C-22, LT-45280"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šarkuva\"",
@@ -7841,7 +7842,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šatrija-I\"",
     "code": "280746170",
-    "address": "Telšiai, Plungės g."
+    "address": "Telšiai, Plungės g. 39A, LT-87328"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šiaurys\"",
@@ -8174,6 +8175,11 @@
     "address": "Alytus, Statybininkų g. 25-54, LT-63408"
   },
   {
+    "name": "Garažų statybos ir eksploatavimo bendrija Nr. 38",
+    "code": "150143240",
+    "address": "Alytus, Merkinės g. 14, LT-62252"
+  },
+  {
     "name": "Garažų statybos ir eksploatavimo bendrija Nr. 39",
     "code": "150080797",
     "address": "Alytus, Likiškėlių g. 20-32, LT-63166"
@@ -8246,7 +8252,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija Nr. 7",
     "code": "250080830",
-    "address": "Alytus, A. Jonyno g. 31-55, LT-62367"
+    "address": "Alytus, Naujoji g. 116-74, LT-62175"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija Nr. 7a",
@@ -8257,11 +8263,6 @@
     "name": "Garažų statybos ir eksploatavimo bendrija Nr. 8",
     "code": "150060570",
     "address": "Alytus, Naujoji g. 86-28, LT-62387"
-  },
-  {
-    "name": "Garažų statybos ir eksploatavimo bendrija Nr.38",
-    "code": "150143240",
-    "address": "Alytus, Jaunimo g. 44-15, LT-63308"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija Nr.44",
@@ -8546,7 +8547,7 @@
   {
     "name": "Mažeikių garažų savininkų bendrija \"Pusmėnulis\"",
     "code": "302640151",
-    "address": "Mažeikiai, Ventos g. 22-10, LT-89188"
+    "address": "Mažeikiai, Pavenčių g. 2C, LT-89189"
   },
   {
     "name": "Mažeikių garažų savininkų bendrija \"Saulės ratu\"",
@@ -8811,7 +8812,7 @@
   {
     "name": "Plungės garažų statybos ir eksploatavimo bendrija \"Raktelis\"",
     "code": "170546327",
-    "address": "Plungė, Turgaus g."
+    "address": "Plungė, Turgaus g. 1, LT-90164"
   },
   {
     "name": "Pušaloto g. 128B garažų statybos bendrija",

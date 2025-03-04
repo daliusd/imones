@@ -300,11 +300,6 @@
     "address": "Vilnius, Žirmūnų g. 38A-38, LT-09229"
   },
   {
-    "name": "UAB \"Sisteminės konsteliacijos\"",
-    "code": "303402377",
-    "address": "Zarasų r. sav., Dusetų sen., Padustėlio k., Upės g. 1, LT-32312"
-  },
-  {
     "name": "UAB \"Sistemis\"",
     "code": "303003620",
     "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Dainavos g. 1-8, LT-54123",
@@ -478,7 +473,7 @@
   {
     "name": "Lietuvos socialinės apsaugos sistemos darbuotojų profesinė sąjunga",
     "code": "302640258",
-    "address": "Vilnius, J. Jasinskio g. 9, LT-01112"
+    "address": "Vilnius, J. Jasinskio g. 9-101, LT-01112"
   },
   {
     "name": "MB \"Aliuminio sistemos\"",
@@ -562,6 +557,11 @@
     "address": "Šiauliai, Gardino g. 5-22, LT-78241"
   },
   {
+    "name": "MB \"G sistemos\"",
+    "code": "307100006",
+    "address": "Kelmė, Taikos g. 48, LT-86158"
+  },
+  {
     "name": "MB \"Hibridinės sistemos\"",
     "code": "305135065",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
@@ -574,8 +574,7 @@
   {
     "name": "MB \"Inovatyvios sistemos\"",
     "code": "304793950",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
-    "vatcode": "LT100015781016"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "MB \"Intuityvios sistemos\"",
@@ -834,7 +833,8 @@
   {
     "name": "MB Namų sistemos",
     "code": "306727098",
-    "address": "Kaunas, V. Krėvės pr. 72-18, LT-50395"
+    "address": "Kaunas, V. Krėvės pr. 72-18, LT-50395",
+    "vatcode": "LT100017533418"
   },
   {
     "name": "MB Nemuno sistemos",
@@ -1426,8 +1426,7 @@
   {
     "name": "UAB \"Kompleksinės apsaugos sistemos\"",
     "code": "300006006",
-    "address": "Kaunas, V. Krėvės pr. 98-101, LT-50384",
-    "vatcode": "LT100000825413"
+    "address": "Kaunas, V. Krėvės pr. 98-101, LT-50384"
   },
   {
     "name": "UAB \"Konstrukcijų sistemos\"",
@@ -1938,7 +1937,8 @@
   {
     "name": "UAB Analitikos sistemos",
     "code": "307063643",
-    "address": "Kaunas, J. Vienožinskio g. 70E, LT-48462"
+    "address": "Kaunas, J. Vienožinskio g. 70E, LT-48462",
+    "vatcode": "LT100017515914"
   },
   {
     "name": "UAB Darbo sistemos",
@@ -2356,6 +2356,11 @@
     "name": "Augzelių melioracijos sistemų naudotojų asociacija",
     "code": "305179535",
     "address": "Skuodo r. sav., Aleksandrijos sen., Gėsalų k., Mokyklos g. 17, LT-98327"
+  },
+  {
+    "name": "Bepiločių orlaivių sistemų asociacija",
+    "code": "307097407",
+    "address": "Klaipėda, Pramonės g. 10, LT-94102"
   },
   {
     "name": "Besčių kaimo melioracijos sistemų naudotojų asociacija",
@@ -3492,7 +3497,7 @@
   {
     "name": "Ąžuolijos melioracijos sistemų naudotojų asociacija",
     "code": "304215099",
-    "address": "Kelmės r. sav., Kelmės apylinkių sen., Šaltenių k., Ąžuolijos g. 1, LT-86104"
+    "address": "Kelmės r. sav., Šaukėnų sen., Laikšių k., Pievų g. 4, LT-86422"
   },
   {
     "name": "ŠILUMOS SIURBLIŲ IR VĖDINIMO SISTEMŲ ASOCIACIJA",
