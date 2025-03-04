@@ -144,11 +144,6 @@
     "address": "Alytus, Vingio g. 11-42, LT-63220"
   },
   {
-    "name": "MB \"Baldų planas\"",
-    "code": "305141399",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
     "name": "MB \"E. planas\"",
     "code": "305338891",
     "address": "Kaunas, Archyvo g. 50-7, LT-50156"
@@ -524,6 +519,12 @@
     "address": "Vilnius, Krivių g. 5-24, LT-01204"
   },
   {
+    "name": "MB \"Planeris\"",
+    "code": "307093063",
+    "address": "Kaunas, Mosėdžio g. 7, LT-48177",
+    "vatcode": "LT100017597616"
+  },
+  {
     "name": "UAB Baltic planes",
     "code": "302946689",
     "address": "Trakų r. sav., Paluknio sen., Paežerėlių k., Nuokalnės g. 9, LT-21169",
@@ -721,7 +722,8 @@
   {
     "name": "MB \"Susikalbančios planetos\"",
     "code": "306971412",
-    "address": "Vilnius, Mindaugo g. 30-116, LT-03214"
+    "address": "Vilnius, Mindaugo g. 30-116, LT-03214",
+    "vatcode": "LT100017595115"
   },
   {
     "name": "MB Sukasi planetos",
@@ -1123,8 +1125,7 @@
   {
     "name": "MB \"Plantanis\"",
     "code": "305690711",
-    "address": "Vilnius, Justiniškių g. 107-11, LT-05251",
-    "vatcode": "LT100016472316"
+    "address": "Vilnius, Justiniškių g. 107-11, LT-05251"
   },
   {
     "name": "MB \"Plantare\"",

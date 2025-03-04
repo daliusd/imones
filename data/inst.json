@@ -121,7 +121,8 @@
   {
     "name": "MB ER-Instaliacija",
     "code": "307008166",
-    "address": "Klaipėda, Tiltų g. 19, LT-91249"
+    "address": "Klaipėda, Tiltų g. 19, LT-91249",
+    "vatcode": "LT100017573716"
   },
   {
     "name": "MB Profesionali e instaliacija",
@@ -406,6 +407,11 @@
     "address": "Kaunas, Miško g. 30-62, LT-44313"
   },
   {
+    "name": "MB InStilo",
+    "code": "307090633",
+    "address": "Kaunas, Kalniečių g. 166-30, LT-50142"
+  },
+  {
     "name": "MB Sb instinct group",
     "code": "306043495",
     "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Mokyklos g. 4-517, LT-14182",
@@ -665,6 +671,12 @@
     "name": "Lietuvos nepriklausomų auditorių institutas",
     "code": "124368620",
     "address": "Vilnius, J. Jasinskio g. 4-17, LT-01112"
+  },
+  {
+    "name": "Lietuvos priklausomybės ligų institutas",
+    "code": "300509299",
+    "address": "Vilnius, Saltoniškių g. 31-302, LT-08106",
+    "vatcode": "LT100002032214"
   },
   {
     "name": "Lietuvos vartotojų institutas",
@@ -974,7 +986,8 @@
   {
     "name": "UAB Eksperimentinės fizikos institutas",
     "code": "307057747",
-    "address": "Vilnius, Savanorių pr. 235, LT-02300"
+    "address": "Vilnius, Savanorių pr. 235, LT-02300",
+    "vatcode": "LT100017520315"
   },
   {
     "name": "UAB Ekspertų institutas",
@@ -1111,6 +1124,12 @@
     "vatcode": "LT100005300110"
   },
   {
+    "name": "Valstybinis mokslinių tyrimų institutas Gamtos tyrimų centras",
+    "code": "302470603",
+    "address": "Vilnius, Akademijos g. 2, LT-08412",
+    "vatcode": "LT100005107912"
+  },
+  {
     "name": "Valstybinis mokslinių tyrimų institutas Inovatyvios medicinos centras",
     "code": "302877556",
     "address": "Vilnius, Santariškių g. 5, LT-08406",
@@ -1196,7 +1215,8 @@
   {
     "name": "Viešoji įstaiga \"Nacionalinis socialinės integracijos institutas\"",
     "code": "302326599",
-    "address": "Zarasai, Malūno g. 19A, LT-32118"
+    "address": "Zarasai, Malūno g. 19A, LT-32118",
+    "vatcode": "LT100017599713"
   },
   {
     "name": "Viešoji įstaiga \"Psichikos sveikatos institutas\"",
@@ -1748,7 +1768,7 @@
   {
     "name": "VšĮ Sveikatingumo institutas",
     "code": "303098102",
-    "address": "Biržų r. sav., Širvėnos sen., Obelaukių k., Ramioji g. 10, LT-41206"
+    "address": "Klaipėda, Taikos pr. 7-41, LT-91134"
   },
   {
     "name": "VšĮ Sveikatos mokymų institutas",
@@ -1854,14 +1874,14 @@
     "address": "Vilnius, A. Smetonos g. 5, LT-01115"
   },
   {
-    "name": "HEART INSTITUTE",
-    "code": "306686559",
-    "address": "Vilnius, Žygio g. 97-R2, LT-08236"
-  },
-  {
     "name": "IECD TIMBER A/S (INSTITUTE FOR ECONOMIC COOPERATION AND DEVELOPMENT A/S) atstovybė",
     "code": "111895722",
     "address": "Vilnius, Ūmėdžių g. 74-1A, LT-02302"
+  },
+  {
+    "name": "Institute of technology",
+    "code": "307092634",
+    "address": "Klaipėda, Senoji Smiltelės g. 8 K1-8, LT-93263"
   },
   {
     "name": "International Institute of Political Sciences, VšĮ",
@@ -2062,7 +2082,7 @@
     "address": "Visaginas, Energetikų g. 16"
   },
   {
-    "name": "Nacionalinio vėžio instituto darbuotojų profesinė sąjunga",
+    "name": "Nacionalinio vėžio centro ir Nacionalinio vėžio instituto darbuotojų profesinė sąjunga",
     "code": "304738968",
     "address": "Vilnius, Santariškių g. 1, LT-08406"
   },
@@ -2261,6 +2281,11 @@
     "vatcode": "LT100008742017"
   },
   {
+    "name": "UAB \"Toromega Nuclear Instruments\"",
+    "code": "305236833",
+    "address": "Klaipėda, Danės g. 6-502, LT-92109"
+  },
+  {
     "name": "UAB Amber Instruments",
     "code": "302307645",
     "address": "Vilnius, Džiaugsmo g. 93G, LT-11324"
@@ -2304,11 +2329,6 @@
     "name": "VILNIAUS MIESTO PUČIAMŲJŲ INSTRUMENTŲ ORKESTRO KLUBAS \"SEPTIMA\"",
     "code": "124711236",
     "address": "Vilnius, Žirmūnų g. 37, LT-09106"
-  },
-  {
-    "name": "Viešoji įstaiga Liaudies instrumentų ansamblis \"VAIVORA\"",
-    "code": "300618170",
-    "address": "Vilnius, Tuskulėnų g. 46-1, LT-09209"
   },
   {
     "name": "VšĮ \"Liaudies instrumentų studija\"",

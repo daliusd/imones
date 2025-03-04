@@ -276,6 +276,11 @@
     "address": "Vilnius, Jurgio Matulaičio a. 9-1, LT-05111"
   },
   {
+    "name": "MB Mados eksperimentai",
+    "code": "307098975",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "Asociacija Sporto klubas \"Eksperimentas\"",
     "code": "302591423",
     "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Švedės g. 2A-13, LT-81486"
@@ -331,7 +336,8 @@
   {
     "name": "UAB Eksperimentinės fizikos institutas",
     "code": "307057747",
-    "address": "Vilnius, Savanorių pr. 235, LT-02300"
+    "address": "Vilnius, Savanorių pr. 235, LT-02300",
+    "vatcode": "LT100017520315"
   },
   {
     "name": "VšĮ Eksperimentinės ir klinikinės medicinos institutas",
@@ -588,6 +594,11 @@
     "vatcode": "LT100012776013"
   },
   {
+    "name": "MB Automobilių remonto ekspertai",
+    "code": "307100554",
+    "address": "Kaunas, Kukučių g. 41, LT-51338"
+  },
+  {
     "name": "MB Betono ekspertai",
     "code": "306121129",
     "address": "Vilnius, Girulių g. 10, LT-12112",
@@ -633,6 +644,11 @@
     "address": "Vilnius, Šaltinių g. 5-106, LT-03214"
   },
   {
+    "name": "MB Plovimo ekspertai",
+    "code": "307098498",
+    "address": "Kaunas, Liucernų g. 15, LT-47243"
+  },
+  {
     "name": "MB Restoranų ekspertai",
     "code": "306450637",
     "address": "Vilnius, J. Tiškevičiaus g. 101-1, LT-02236"
@@ -641,6 +657,11 @@
     "name": "MB Sklypų ekspertai",
     "code": "304083434",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "MB Technologinių sprendimų ekspertai",
+    "code": "307099504",
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
   },
   {
     "name": "MB Vertės ekspertai",
@@ -1298,6 +1319,12 @@
     "code": "111812228",
     "address": "Klaipėda, Liepų g. 34-6, LT-92113",
     "vatcode": "LT100003347812"
+  },
+  {
+    "name": "UAB Bendroji ekspertizė",
+    "code": "304285514",
+    "address": "Vilnius, Taikos g. 263B-18, LT-05265",
+    "vatcode": "LT100013625210"
   },
   {
     "name": "UAB Statinio projektas ir ekspertizė",
@@ -3288,7 +3315,7 @@
   {
     "name": "391-oji garažų statybos ir eksploatavimo bendrija",
     "code": "124878089",
-    "address": "Vilnius, Laisvės pr. 51A, LT-07191"
+    "address": "Vilnius, Laisvės pr. 51A-18, LT-07191"
   },
   {
     "name": "392-oji garažų statybos ir eksploatavimo bendrija",
@@ -3588,7 +3615,7 @@
   {
     "name": "442-oji garažų statybos ir eksploatavimo bendrija",
     "code": "125070954",
-    "address": "Vilnius, Volungės g. 9, LT-10316"
+    "address": "Vilnius, Volungės g. 9A, LT-10316"
   },
   {
     "name": "443-oji garažų eksploatavimo bendrija",
@@ -3653,7 +3680,7 @@
   {
     "name": "453-oji garažų statybos ir eksploatavimo bendrija",
     "code": "300108687",
-    "address": "Vilnius, L. Giros g. 106A, LT-06300"
+    "address": "Vilnius, Liongino Baliukevičiaus-Dzūko g. 106A-27, LT-06300"
   },
   {
     "name": "454-oji garažų statybos ir eksploatavimo bendrija",
@@ -4349,7 +4376,7 @@
   {
     "name": "6-oji metalinių garažų eksploatavimo bendrija Gegužių g.",
     "code": "145498122",
-    "address": "Šiauliai, Gegužių g."
+    "address": "Šiauliai, Lieporių g. 3-17, LT-78251"
   },
   {
     "name": "6-oji metalinių garažų statybos ir eksploatavimo bendrija",
@@ -4445,7 +4472,7 @@
   {
     "name": "617-oji garažų statybos ir eksploatavimo bendrija",
     "code": "125060127",
-    "address": "Vilnius, Tauro g. 12B, LT-01114"
+    "address": "Vilnius, Tauro g. 12B-7, LT-01114"
   },
   {
     "name": "62-oji II-os grupės garažų eksploatavimo bendrija Radviliškio g. 48",
@@ -4500,7 +4527,7 @@
   {
     "name": "63-osios garažų eksploatavimo bendrijos 3-čia grupė Radviliškio g. 18b",
     "code": "245598390",
-    "address": "Šiauliai, Radviliškio g."
+    "address": "Šiauliai, Vilniaus g. 296, LT-76308"
   },
   {
     "name": "630-oji garažų statybos ir eksploatavimo bendrija",
@@ -4740,7 +4767,7 @@
   {
     "name": "7-oji metalinių garažų eksploatavimo bendrija Gegužių g.",
     "code": "145511826",
-    "address": "Šiauliai, Gegužių g."
+    "address": "Šiauliai, Vytauto g. 63-14, LT-77148"
   },
   {
     "name": "70-oji garažų eksploatavimo bendrija Tilžės g. 221",
@@ -4890,7 +4917,7 @@
   {
     "name": "84-oji garažų eksploatavimo bendrija Garažų g.",
     "code": "245592170",
-    "address": "Šiauliai"
+    "address": "Šiauliai, Garažų g. 40-36, LT-78303"
   },
   {
     "name": "84-oji garažų statybos ir eksploatavimo bendrija",
@@ -4960,7 +4987,7 @@
   {
     "name": "89-oji garažų statybos ir eksploatavimo bendrija",
     "code": "148288549",
-    "address": "Panevėžys, Pušaloto g."
+    "address": "Panevėžys, Pušaloto g. 201, LT-35291"
   },
   {
     "name": "9-oji garažų statybos ir eksploatavimo bendrija",
@@ -5390,12 +5417,12 @@
   {
     "name": "Garažų eksploatavimo bendrija \"Lėvuo 2\"",
     "code": "169261459",
-    "address": "Pasvalys, Biržų g. 98A"
+    "address": "Pasvalys, Biržų g. 89A, LT-39128"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Lėvuo\"",
     "code": "160316598",
-    "address": "Kupiškis, Slavinčiškio g."
+    "address": "Kupiškis, Slavinčiškio g. 12G, LT-40118"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Lėvuo-4\"",
@@ -5560,7 +5587,7 @@
   {
     "name": "Garažų eksploatavimo bendrija \"Ratas-2\"",
     "code": "169273760",
-    "address": "Pasvalys, Biržų g."
+    "address": "Pasvalys, Biržų g. 120C, LT-39125"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Ratas-3\"",
@@ -7645,7 +7672,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šančiai\"",
     "code": "135390276",
-    "address": "Kaunas, Kranto al. 54, LT-45280"
+    "address": "Kaunas, Kranto al. 54C-22, LT-45280"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šarkuva\"",
@@ -7665,7 +7692,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šatrija-I\"",
     "code": "280746170",
-    "address": "Telšiai, Plungės g."
+    "address": "Telšiai, Plungės g. 39A, LT-87328"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šiaurys\"",
@@ -7998,6 +8025,11 @@
     "address": "Alytus, Statybininkų g. 25-54, LT-63408"
   },
   {
+    "name": "Garažų statybos ir eksploatavimo bendrija Nr. 38",
+    "code": "150143240",
+    "address": "Alytus, Merkinės g. 14, LT-62252"
+  },
+  {
     "name": "Garažų statybos ir eksploatavimo bendrija Nr. 39",
     "code": "150080797",
     "address": "Alytus, Likiškėlių g. 20-32, LT-63166"
@@ -8070,7 +8102,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija Nr. 7",
     "code": "250080830",
-    "address": "Alytus, A. Jonyno g. 31-55, LT-62367"
+    "address": "Alytus, Naujoji g. 116-74, LT-62175"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija Nr. 7a",
@@ -8081,11 +8113,6 @@
     "name": "Garažų statybos ir eksploatavimo bendrija Nr. 8",
     "code": "150060570",
     "address": "Alytus, Naujoji g. 86-28, LT-62387"
-  },
-  {
-    "name": "Garažų statybos ir eksploatavimo bendrija Nr.38",
-    "code": "150143240",
-    "address": "Alytus, Jaunimo g. 44-15, LT-63308"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija Nr.44",
@@ -8431,7 +8458,7 @@
   {
     "name": "Plungės garažų statybos ir eksploatavimo bendrija \"Raktelis\"",
     "code": "170546327",
-    "address": "Plungė, Turgaus g."
+    "address": "Plungė, Turgaus g. 1, LT-90164"
   },
   {
     "name": "Ramygalos miesto Gėlių gatvės garažų statybos ir eksploatavimo bendrija",
@@ -8771,6 +8798,11 @@
     "code": "304177200",
     "address": "Klaipėda, Šilutės pl. 9, LT-91109",
     "vatcode": "LT100009997315"
+  },
+  {
+    "name": "MB Ekspomet",
+    "code": "307104848",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Ekspomūza\"",

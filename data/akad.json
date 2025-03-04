@@ -249,6 +249,11 @@
     "address": "Kaunas, Naglio g. 4E, LT-52367"
   },
   {
+    "name": "Kauno krepšinio teisėjų akademija",
+    "code": "307088721",
+    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Aronijų g. 2-2, LT-54307"
+  },
+  {
     "name": "Klaipėdos meninės gimnastikos akademija \"VRV\"",
     "code": "293176350",
     "address": "Klaipėdos r. sav., Vėžaičiai, Pievų g. 14, LT-96217"
@@ -784,6 +789,16 @@
     "vatcode": "LT100005776610"
   },
   {
+    "name": "MOKYKLA VAIKAMS, UAB filialas \"GABIŲ VAIKŲ AKADEMIJA\"",
+    "code": "302660104",
+    "address": "Vilnius, Žygio g. 97A-101"
+  },
+  {
+    "name": "MOKYKLA VAIKAMS, UAB filialas \"MOKYTOJŲ AKADEMIJA\"",
+    "code": "304083473",
+    "address": "Vilnius, Žygio g. 97A-101"
+  },
+  {
     "name": "Madam akademija, MB",
     "code": "305662594",
     "address": "Vilnius, Kęstučio g. 55-11, LT-08124"
@@ -807,6 +822,11 @@
     "name": "Mažoji bendrija \"Zbignev Koliato grožio akademija\"",
     "code": "306981449",
     "address": "Vilnius, Taikos g. 74-8, LT-05218"
+  },
+  {
+    "name": "Mažoji bendrija Gyvenimo akademija",
+    "code": "307085892",
+    "address": "Vilnius, Kaukysos g. 4-38, LT-11342"
   },
   {
     "name": "Mažoji bendrija Hormonų akademija",
@@ -858,6 +878,11 @@
     "name": "Odos akademija",
     "code": "304754082",
     "address": "Vilnius, Mindaugo g. 15-5, LT-03225"
+  },
+  {
+    "name": "Olimpietės Austros Skujytės daugiakovininkų akademija",
+    "code": "307105398",
+    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Griežlės g. 17-4, LT-54303"
   },
   {
     "name": "Paplūdimio tinklinio akademija, VšĮ",
@@ -1035,7 +1060,8 @@
   {
     "name": "UAB \"Grožio inovacijos akademija\"",
     "code": "305997048",
-    "address": "Vilnius, Konstitucijos pr. 12, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 12, LT-09308",
+    "vatcode": "LT100017530817"
   },
   {
     "name": "UAB \"Ispado\" akademija",
@@ -1206,11 +1232,6 @@
     "code": "304062340",
     "address": "Vilnius, Šiltnamių g. 50-9, LT-04128",
     "vatcode": "LT100014725211"
-  },
-  {
-    "name": "UAB Meistrų akademija",
-    "code": "304155798",
-    "address": "Vilnius, Kauno g. 1A-203, LT-01314"
   },
   {
     "name": "UAB Montessori akademija",
@@ -1592,6 +1613,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "Vilniaus padelio ir piklbolo akademija, VšĮ",
+    "code": "302777965",
+    "address": "Vilnius, Ozo g. 41-101, LT-07171"
+  },
+  {
     "name": "Vilniaus parkūro akademija",
     "code": "306289949",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -1808,14 +1834,9 @@
     "address": "Šiauliai, Aušros al. 66A, LT-76233"
   },
   {
-    "name": "VšĮ \"Mokykla vaikams\" filialas \"GABIŲ VAIKŲ AKADEMIJA\"",
-    "code": "302660104",
-    "address": "Vilnius, Žygio g. 97A-101"
-  },
-  {
-    "name": "VšĮ \"Mokykla vaikams\" filialas \"MOKYTOJŲ AKADEMIJA\"",
-    "code": "304083473",
-    "address": "Vilnius, Žygio g. 97A-101"
+    "name": "VšĮ \"Nacionalinė buriavimo akademija\"",
+    "code": "307079302",
+    "address": "Vilnius, Krivių g. 47-2, LT-01209"
   },
   {
     "name": "VšĮ \"Nerijaus Liubino tinklinio akademija\"",
@@ -2000,6 +2021,11 @@
     "address": "Kaunas, V. Krėvės pr. 78-65, LT-50394"
   },
   {
+    "name": "VšĮ Futbolo akademija \"Įvartis\"",
+    "code": "307102772",
+    "address": "Kaunas, Kęstučio g. 27-220, LT-44312"
+  },
+  {
     "name": "VšĮ Futbolo akademija Ateitis",
     "code": "304231438",
     "address": "Vilnius, Bitininkų g. 1B-12, LT-08310",
@@ -2028,7 +2054,7 @@
   {
     "name": "VšĮ Guliverio akademija",
     "code": "304493294",
-    "address": "Ukmergės r. sav., Deltuvos sen., Dainavos k., Algirdų a. 4, LT-20287"
+    "address": "Vilnius, Gedimino pr. 12, LT-01102"
   },
   {
     "name": "VšĮ Gyvenimo praktikos akademija",
@@ -2415,6 +2441,11 @@
     "address": "Ukmergės r. sav., Vepriai, Pergalės g. 7, LT-20283"
   },
   {
+    "name": "VšĮ Verslo valdymo akademija",
+    "code": "307106258",
+    "address": "Vilnius, Pelėdūnų g. 1, LT-12188"
+  },
+  {
     "name": "VšĮ Vilniaus Sporto Akademija \"FUTURE\"",
     "code": "306495080",
     "address": "Vilnius, Bajorų Sodų 17-oji g. 13, LT-08426"
@@ -2473,6 +2504,11 @@
     "name": "VšĮ Šūvio klubo akademija",
     "code": "305906963",
     "address": "Varėnos r. sav., Matuizų sen., Urkionių k., Samanų g. 59, LT-65475"
+  },
+  {
+    "name": "VšĮ Žirmūnų padelio akademija",
+    "code": "307100312",
+    "address": "Vilnius, Fabijoniškių g. 5C-96, LT-06335"
   },
   {
     "name": "Įtraukties akademija",
@@ -2697,6 +2733,11 @@
     "name": "VšĮ \"Montessori akademijos projektai\"",
     "code": "305444318",
     "address": "Kaunas, Vičiūnų g. 13, LT-45325"
+  },
+  {
+    "name": "VšĮ MŪZŲ akademijos projektai",
+    "code": "307099244",
+    "address": "Kaunas, Laisvės al. 85C, LT-44297"
   },
   {
     "name": "MB \"Akademikai\"",

@@ -175,6 +175,11 @@
     "address": "Šiauliai, Stoties g. 4-1, LT-77157"
   },
   {
+    "name": "UAB \"Vertera Holdings\"",
+    "code": "307094806",
+    "address": "Kaunas, M. Daukšos g. 16-12, LT-44283"
+  },
+  {
     "name": "MB \"Vertesino\"",
     "code": "306181763",
     "address": "Trakai, Vytauto g. 15-1, LT-21105",
@@ -952,6 +957,11 @@
     "address": "Vilnius, K. Sirvydo g. 6, LT-01101"
   },
   {
+    "name": "Lietuvos Respublikos turto ir verslo vertintojų rūmai",
+    "code": "307108985",
+    "address": "Vilnius, Konstitucijos pr. 23, LT-08105"
+  },
+  {
     "name": "Lietuvos vertintojų rūmai",
     "code": "303259299",
     "address": "Vilnius, Tuskulėnų g. 33C-31, LT-09219"
@@ -1019,7 +1029,8 @@
   {
     "name": "MB \"Emocijos vertos istorijos\"",
     "code": "307062356",
-    "address": "Klaipėda, S. Daukanto g. 33-59, LT-92230"
+    "address": "Klaipėda, S. Daukanto g. 33-59, LT-92230",
+    "vatcode": "LT100017521212"
   },
   {
     "name": "IĮ \"Vertpolis\"",
@@ -1082,7 +1093,7 @@
   {
     "name": "UAB \"Pirma vertus\"",
     "code": "303500921",
-    "address": "Klaipėdos r. sav., Dovilų sen., Kulių k., Viržių g. 8, LT-96229",
+    "address": "Gargždai, Statybininkų g. 4, LT-96155",
     "vatcode": "LT100009875318"
   },
   {
@@ -1335,5 +1346,10 @@
     "code": "304091833",
     "address": "Vilnius, Rukeliškių g. 46-4, LT-10101",
     "vatcode": "LT100009837113"
+  },
+  {
+    "name": "MB Kuriam vertę",
+    "code": "307097478",
+    "address": "Vilnius, Švitrigailos g. 11K-406, LT-03228"
   }
 ]

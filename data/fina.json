@@ -50,11 +50,6 @@
     "vatcode": "LT100016662311"
   },
   {
-    "name": "MB Finakas",
-    "code": "305572944",
-    "address": "Alytaus r. sav., Punios sen., Medukštos k., Klevų g. 25, LT-64468"
-  },
-  {
     "name": "UAB \"Finaksa\"",
     "code": "303317877",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
@@ -99,8 +94,7 @@
   {
     "name": "UAB \"Finalina\"",
     "code": "304428485",
-    "address": "Klaipėda, Tiltų g. 16, LT-91246",
-    "vatcode": "LT100014993410"
+    "address": "Klaipėda, Tiltų g. 16, LT-91246"
   },
   {
     "name": "MB \"Finalita\"",
@@ -465,12 +459,18 @@
   {
     "name": "MB Loretta finance",
     "code": "306671379",
-    "address": "Vilnius, Rokantiškių Sodų 9-oji g. 48, LT-10252"
+    "address": "Vilnius, Rokantiškių Sodų 9-oji g. 48, LT-10252",
+    "vatcode": "LT100017531916"
   },
   {
     "name": "MB MO finance",
     "code": "305471781",
     "address": "Vilnius, Priegliaus g. 17-48, LT-06294"
+  },
+  {
+    "name": "MB Quantum Finance",
+    "code": "307091742",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "MB R2 Finance",
@@ -883,7 +883,7 @@
   {
     "name": "UAB \"SME Finance Leasing\"",
     "code": "305625261",
-    "address": "Vilnius, Antano Tumėno g. 4-15, LT-01109",
+    "address": "Vilnius, Antano Tumėno g. 4-16, LT-01110",
     "vatcode": "LT100013636215"
   },
   {
@@ -1075,7 +1075,8 @@
   {
     "name": "UAB MD finance LT",
     "code": "307072343",
-    "address": "Kaunas, Islandijos pl. 69-249, LT-49118"
+    "address": "Kaunas, Islandijos pl. 69-249, LT-49118",
+    "vatcode": "LT100017538516"
   },
   {
     "name": "UAB MH Finance Technology",
@@ -1161,7 +1162,7 @@
   {
     "name": "UAB Spectro Finance",
     "code": "303008845",
-    "address": "Vilnius, Gedimino pr. 5-3, LT-01103"
+    "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
     "name": "UAB TILA FINANCE",
@@ -1390,6 +1391,12 @@
     "vatcode": "LT100013096816"
   },
   {
+    "name": "MB FortiCore Financial",
+    "code": "307089467",
+    "address": "Vilnius, Ozo g. 8A-166, LT-08200",
+    "vatcode": "LT100017587714"
+  },
+  {
     "name": "MB Fronteria Financial Advisory Services",
     "code": "305586602",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
@@ -1507,11 +1514,6 @@
     "name": "UAB \"QBIT FINANCIAL SERVICE\"",
     "code": "305577101",
     "address": "Vilnius, Filaretų g. 99A, LT-01215"
-  },
-  {
-    "name": "UAB \"Unstoppable Financial\"",
-    "code": "306325651",
-    "address": "Vilnius, Žalgirio g. 88-101, LT-09303"
   },
   {
     "name": "UAB Alya Financial LT",
@@ -2514,7 +2516,8 @@
   {
     "name": "UAB \"Finansinis saugumas\"",
     "code": "304239367",
-    "address": "Marijampolė, Sporto g. 2-36, LT-68238"
+    "address": "Marijampolė, Sporto g. 2-36, LT-68238",
+    "vatcode": "LT100017597111"
   },
   {
     "name": "UAB \"Finansinis stabilumas\"",
@@ -2661,7 +2664,7 @@
   {
     "name": "UAB Juridinė ir finansinė patarėjų agentūra",
     "code": "303164997",
-    "address": "Vilnius, Dūmų g. 3 K1-203, LT-11119",
+    "address": "Vilnius, Savanorių pr. 65A, LT-03149",
     "vatcode": "LT100008167519"
   },
   {
@@ -3066,7 +3069,8 @@
   {
     "name": "MB \"Finansų logistai\"",
     "code": "303145858",
-    "address": "Šalčininkų r. sav., Kalesninkų sen., Purvėnų k., Pasienio g. 10-4, LT-17167"
+    "address": "Šalčininkų r. sav., Kalesninkų sen., Purvėnų k., Pasienio g. 10-4, LT-17167",
+    "vatcode": "LT100017596012"
   },
   {
     "name": "MB \"Finansų menas\"",
@@ -3375,7 +3379,7 @@
   {
     "name": "UAB \"Finansų analizės ir valdymo sprendimai\"",
     "code": "303500896",
-    "address": "Vilnius, Ulonų g. 5, LT-08240",
+    "address": "Vilnius, Ulonų g. 5-204, LT-08240",
     "vatcode": "LT100009077919"
   },
   {
@@ -3695,6 +3699,11 @@
     "name": "UAB Finansų lyga",
     "code": "306108555",
     "address": "Šiauliai, Algirdo Juliaus Greimo g. 75A-2, LT-77162"
+  },
+  {
+    "name": "UAB Finansų paslaptys",
+    "code": "307100052",
+    "address": "Kaunas, A. Juozapavičiaus pr. 27-12, LT-45258"
   },
   {
     "name": "UAB Finansų profilis",

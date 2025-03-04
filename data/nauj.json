@@ -57,6 +57,11 @@
     "vatcode": "LT100017204415"
   },
   {
+    "name": "MB Nauja erdvė",
+    "code": "307103714",
+    "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Radailių g. 1, LT-92400"
+  },
+  {
     "name": "MB Nauja teritorija",
     "code": "306468674",
     "address": "Vilnius, Girulių g. 10, LT-12112"
@@ -1134,6 +1139,11 @@
     "address": "Vilnius, Veiverių g. 9B-1, LT-11346"
   },
   {
+    "name": "UAB \"Naujesta\"",
+    "code": "307102377",
+    "address": "Kaunas, Europos pr. 122, LT-46351"
+  },
+  {
     "name": "\"Nauji veidai\", UAB",
     "code": "304451338",
     "address": "Klaipėda, Mokyklos g. 10, LT-91256"
@@ -1597,7 +1607,8 @@
   {
     "name": "MB IŠ NAUJO",
     "code": "306973388",
-    "address": "Vilnius, Fabijoniškių g. 5C-1031, LT-06335"
+    "address": "Vilnius, Fabijoniškių g. 5C-1031, LT-06335",
+    "vatcode": "LT100017556810"
   },
   {
     "name": "VšĮ \"Naujo meno centras\"",
@@ -1897,12 +1908,6 @@
     "address": "Klaipėda, M. Mažvydo al. 9A-7, LT-92136"
   },
   {
-    "name": "UAB \"NAUJOJI PEKOMA\"",
-    "code": "148371571",
-    "address": "Panevėžys, Rėklių g. 26, LT-35291",
-    "vatcode": "LT483715716"
-  },
-  {
     "name": "UAB \"NAUJOJI RŪTA\"",
     "code": "144788770",
     "address": "Vilnius, V. A. Graičiūno g. 26, LT-02244"
@@ -1963,7 +1968,7 @@
   {
     "name": "UAB \"Naujoji Raštinė\"",
     "code": "300049744",
-    "address": "Molėtai, Melioratorių g. 4B, LT-33118",
+    "address": "Molėtų r. sav., Čiulėnų sen., Varniškių k. 1, LT-33171",
     "vatcode": "LT100005301916"
   },
   {
@@ -2135,11 +2140,6 @@
     "name": "VšĮ Naujoji Klaipėda",
     "code": "306094116",
     "address": "Klaipėda, Debreceno g. 44-107, LT-94149"
-  },
-  {
-    "name": "VšĮ Naujoji Klaipėdos galerija",
-    "code": "304716886",
-    "address": "Klaipėda, Kretingos g. 35-33, LT-92302"
   },
   {
     "name": "VšĮ Naujoji arka",
@@ -2510,11 +2510,6 @@
     "address": "Naujoji Akmenė, V. Kudirkos g. 6-31, LT-85169"
   },
   {
-    "name": "Naujosios Akmenės miesto V. Kudirkos gatvės 5 daugiabučio namo savininkų bendrija",
-    "code": "153249334",
-    "address": "Naujoji Akmenė, V. Kudirkos g. 5, LT-85166"
-  },
-  {
     "name": "Naujosios Akmenės miesto bendruomenė",
     "code": "303371864",
     "address": "Naujoji Akmenė, Sodo g. 55, LT-85113"
@@ -2548,11 +2543,6 @@
     "name": "Naujosios Akmenės miesto seniūnijos labdaros ir paramos fondas",
     "code": "302772822",
     "address": "Naujoji Akmenė, L. Petravičiaus a. 2, LT-85132"
-  },
-  {
-    "name": "Naujosios Akmenės miesto vaikų lopšelio-darželio \"Žvaigždutė\" labdaros ir paramos fondas",
-    "code": "300105627",
-    "address": "Naujoji Akmenė, Respublikos g. 22, LT-85164"
   },
   {
     "name": "Naujosios Akmenės miesto vietos veiklos grupė",
@@ -2783,8 +2773,7 @@
   {
     "name": "UAB \"Naujovių statyba\"",
     "code": "304073479",
-    "address": "Vilnius, Bukčių g. 4-72, LT-04127",
-    "vatcode": "LT100009780510"
+    "address": "Vilnius, Bukčių g. 4-72, LT-04127"
   },
   {
     "name": "MB \"Naujovė\"",

@@ -30,7 +30,7 @@
   {
     "name": "MB \"Kitaip nei vakar\"",
     "code": "306141929",
-    "address": "Vilnius, Raudonės g. 74, LT-12205"
+    "address": "Vilnius, Linkmenų g. 19-123, LT-08217"
   },
   {
     "name": "MB \"Noriu vakar\"",
@@ -226,7 +226,12 @@
   {
     "name": "MB \"Vakaras tau\"",
     "code": "304596967",
-    "address": "Vilnius, Buivydiškių g. 14-707, LT-07195"
+    "address": "Vilnius, Sidaronių g. 21-10, LT-06234"
+  },
+  {
+    "name": "MB Šiltas vakaras",
+    "code": "307094845",
+    "address": "Vilniaus r. sav., Maišiagala, Miško g. 19, LT-14240"
   },
   {
     "name": "Pagyvenusių žmonių bendrija \"Rudens vakaras\"",
@@ -296,7 +301,8 @@
   {
     "name": "MB Paskutinė vakarienė",
     "code": "307050172",
-    "address": "Vilnius, P. Vileišio g. 19A-42, LT-10304"
+    "address": "Vilnius, P. Vileišio g. 19A-42, LT-10304",
+    "vatcode": "LT100017578710"
   },
   {
     "name": "VšĮ \"Mėlynoji vakarienė\"",
@@ -453,7 +459,8 @@
   {
     "name": "MB Vakaro kodas",
     "code": "305859691",
-    "address": "Kaunas, Laisvės al. 42-1, LT-44246"
+    "address": "Kaunas, Laisvės al. 42-1, LT-44246",
+    "vatcode": "LT100017537219"
   },
   {
     "name": "MB Vakaro žara",
@@ -841,6 +848,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "Mažoji bendrija Vakarų siunta",
+    "code": "304628094",
+    "address": "Klaipėda, Skroblų g. 2, LT-92357"
+  },
+  {
     "name": "Mažoji bendrija Vakarų sra",
     "code": "305889243",
     "address": "Telšiai, Kauno g. 9-24, LT-87148",
@@ -1049,8 +1061,7 @@
   {
     "name": "UAB \"Vakarų burė\"",
     "code": "305156522",
-    "address": "Gargždai, Vasario 16-osios g. 40-1, LT-96120",
-    "vatcode": "LT100012512014"
+    "address": "Gargždai, Vasario 16-osios g. 40-1, LT-96120"
   },
   {
     "name": "UAB \"Vakarų ekipažas\"",

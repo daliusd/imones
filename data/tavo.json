@@ -252,11 +252,6 @@
     "address": "Vilnius, Šv. Stepono g. 23-3A, LT-01311"
   },
   {
-    "name": "MB \"Tavo nuoma\"",
-    "code": "304916972",
-    "address": "Vilnius, Fizikų g. 12-73, LT-08447"
-  },
-  {
     "name": "MB \"Tavo personalas\"",
     "code": "305609054",
     "address": "Kaunas, Geležinio Vilko g. 8-40, LT-49187",
@@ -347,6 +342,11 @@
     "code": "304559787",
     "address": "Vilnius, Gabijos g. 69-3, LT-06103",
     "vatcode": "LT100010998914"
+  },
+  {
+    "name": "MB Reversas tavo kūnui",
+    "code": "307088027",
+    "address": "Elektrėnai, Draugystės g. 18-24, LT-26114"
   },
   {
     "name": "MB TAVO KIEMO OAZĖ",
@@ -755,11 +755,6 @@
     "address": "Trakų r. sav., Aukštadvario sen., Vilūnų k. 8, LT-21256"
   },
   {
-    "name": "UAB \"Tavo pramoga\"",
-    "code": "305010656",
-    "address": "Ukmergė, Dariaus ir Girėno g. 18-5, LT-20151"
-  },
-  {
     "name": "UAB \"Tavo profilaktika\"",
     "code": "304499144",
     "address": "Kaunas, Žemaičių pl. 39, LT-48178"
@@ -843,7 +838,8 @@
   {
     "name": "UAB TAVO DIZAINAS",
     "code": "306269074",
-    "address": "Kaunas, Elektrėnų g. 8I-4, LT-51221"
+    "address": "Kaunas, Elektrėnų g. 8I-4, LT-51221",
+    "vatcode": "LT100017586015"
   },
   {
     "name": "UAB Tavo klinika",
@@ -863,8 +859,7 @@
   {
     "name": "UAB Tavo laboratorija",
     "code": "304083181",
-    "address": "Birštonas, Algirdo g. 9, LT-59204",
-    "vatcode": "LT100011250517"
+    "address": "Birštonas, Algirdo g. 9, LT-59204"
   },
   {
     "name": "UAB Tavo lombardas",
