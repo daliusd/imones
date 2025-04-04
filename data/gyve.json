@@ -6,6 +6,11 @@
     "vatcode": "LT100017339212"
   },
   {
+    "name": "MB \"Čia gyvena meilė\"",
+    "code": "307127042",
+    "address": "Vilniaus r. sav., Mickūnų sen., Egliškių k., Dobilų g. 12-1, LT-13108"
+  },
+  {
     "name": "IĮ \"ŠIAUDAIS KŪRENAM - GERAI GYVENAM...\"",
     "code": "301637622",
     "address": "Rokiškio r. sav., Kamajų sen., Salų mstl., Žvejų g. 4, LT-42314"
@@ -169,11 +174,6 @@
     "name": "286-oji gyvenamojo namo A.Goštauto g. 2/15 savininkų bendrija",
     "code": "124790333",
     "address": "Vilnius, A. Goštauto g. 2-39, LT-01104"
-  },
-  {
-    "name": "29-oji gyvenamojo namo statybos bendrija",
-    "code": "124981032",
-    "address": "Vilnius, Gerovės g. 55-31, LT-11221"
   },
   {
     "name": "322-oji gyvenamojo namo statybos bendrija",
@@ -365,11 +365,6 @@
     "name": "793-oji gyvenamojo namo statybos bendrija",
     "code": "125618379",
     "address": "Vilnius, V. Grybo g. 19, LT-10318"
-  },
-  {
-    "name": "83-ioji gyvenamojo namo eksploatavimo butų savininkų bendrija",
-    "code": "135318152",
-    "address": "Kaunas, Pramonės pr. 40, LT-50347"
   },
   {
     "name": "84-oji gyvenamojo namo eksploatavimo bendrija",
@@ -767,6 +762,11 @@
     "address": "Vilnius, Dzūkų g. 4-8, LT-02163"
   },
   {
+    "name": "Daugiabučio gyvenamojo namo Eigulių g. 5, Vilniuje bendrija",
+    "code": "307131464",
+    "address": "Vilnius, Eigulių g. 5-64, LT-03150"
+  },
+  {
     "name": "Daugiabučio gyvenamojo namo Eigulių g. 7, Vilniuje bendrija",
     "code": "306632262",
     "address": "Vilnius, Eigulių g. 7-145, LT-03150"
@@ -860,6 +860,16 @@
     "name": "Daugiabučio gyvenamojo namo K. Korsako g. 53 savininkų bendrija",
     "code": "305454935",
     "address": "Šiauliai, K. Korsako g. 53-19, LT-78371"
+  },
+  {
+    "name": "Daugiabučio gyvenamojo namo Kalvarijų g. 55 savininkų bendrija",
+    "code": "307131578",
+    "address": "Vilnius, Kalvarijų g. 55-49, LT-09317"
+  },
+  {
+    "name": "Daugiabučio gyvenamojo namo Kauno g. 15A, Lekėčiai, Šakių r. sav., savininkų bendrija",
+    "code": "307130412",
+    "address": "Šakių r. sav., Lekėčiai, Kauno g. 15A-7, LT-71226"
   },
   {
     "name": "Daugiabučio gyvenamojo namo Kauno g. 31, Vilniuje, savininkų bendrija",
@@ -1015,6 +1025,11 @@
     "name": "Daugiabučio gyvenamojo namo Priegliaus g. 17 savininkų bendrija",
     "code": "303210989",
     "address": "Vilnius, Priegliaus g. 17-75, LT-06294"
+  },
+  {
+    "name": "Daugiabučio gyvenamojo namo Pušų g. 1, Vilniuje savininkų bendrija",
+    "code": "307134738",
+    "address": "Vilnius, Pušų g. 1-3, LT-08120"
   },
   {
     "name": "Daugiabučio gyvenamojo namo Pylimo g. Nr. 45 Vilniuje savininkų bendrija",
@@ -1237,6 +1252,11 @@
     "address": "Vilnius, Aludarių g. 5-23, LT-01113"
   },
   {
+    "name": "Daugiabučio gyvenamojo namo savininkų bendrija \"Mažvydas\"",
+    "code": "141819470",
+    "address": "Klaipėda, Šaulių g. 7, LT-92137"
+  },
+  {
     "name": "Daugiabučio gyvenamojo namo savininkų bendrija \"Monolitas 172\"",
     "code": "306703745",
     "address": "Kaunas, Savanorių pr. 172-41, LT-44149"
@@ -1314,7 +1334,7 @@
   {
     "name": "Daugiabučio gyvenamojo namo savininkų bendrija \"Turgaus gatvė 10\"",
     "code": "305541062",
-    "address": "Klaipėdos miesto savivaldybės teritorija"
+    "address": "Klaipėda, Turgaus g. 10-3, LT-91247"
   },
   {
     "name": "Daugiabučio gyvenamojo namo savininkų bendrija \"Tvenkinių 2\"",
@@ -1360,6 +1380,11 @@
     "name": "Daugiabučio gyvenamojo namo savininkų bendrija Aukštakalnio 22",
     "code": "306099177",
     "address": "Alytus, Aukštakalnio g. 22-12, LT-63101"
+  },
+  {
+    "name": "Daugiabučio gyvenamojo namo savininkų bendrija Kalvarijų 77 Vilnius",
+    "code": "124981032",
+    "address": "Vilnius, Kalvarijų g. 77, LT-09318"
   },
   {
     "name": "Daugiabučio gyvenamojo namo savininkų bendrija LIEPA",
@@ -1774,7 +1799,7 @@
   {
     "name": "Gyvenamojo namo statybos bendrija \"Energetikas\"",
     "code": "300086326",
-    "address": "Druskininkai, Ateities g. 8-1, LT-66311"
+    "address": "Druskininkai, Kalnų g. 19, LT-66102"
   },
   {
     "name": "Gyvenamojo namo statybos bendrija \"Geologas\"",
@@ -1806,11 +1831,6 @@
     "name": "Gyvenamojo namo statybos bendrija \"MANTAS\"",
     "code": "142085734",
     "address": "Klaipėda, H. Manto g. 6A, LT-92133"
-  },
-  {
-    "name": "Gyvenamojo namo statybos bendrija \"MAŽVYDAS\"",
-    "code": "141819470",
-    "address": "Klaipėda, Šaulių g. 7, LT-92137"
   },
   {
     "name": "Gyvenamojo namo statybos bendrija \"MEDIS-2\"",
@@ -2105,6 +2125,11 @@
     "address": "Vilnius, Genių g. 23-13, LT-11217"
   },
   {
+    "name": "Vilniaus m. daugiabučio gyvenamojo namo M. Daukšos g. 3 savininkų bendrija Nikodemo",
+    "code": "307133497",
+    "address": "Vilnius, M. Daukšos g. 3-23, LT-02101"
+  },
+  {
     "name": "Vilniaus m. daugiabučio gyvenamojo namo P. Vileišio g. 27 savininkų bendrija \"Vileišio 27\"",
     "code": "306699122",
     "address": "Vilnius, P. Vileišio g. 27-31, LT-10205"
@@ -2192,7 +2217,7 @@
   {
     "name": "Vilniaus miesto Daugiabučio gyvenamojo namo Linkmenų g. 19 savininkų bendrija \"LinkTen\"",
     "code": "306708660",
-    "address": "Vilnius, Linkmenų g. 19-45, LT-08217"
+    "address": "Vilnius, Linkmenų g. 19-40, LT-08217"
   },
   {
     "name": "Vilniaus miesto Daugiabučio gyvenamojo namo Lūšių g. 24 savininkų bendrija \"Lūšių 24\"",
@@ -3961,11 +3986,6 @@
     "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Tado Ivanausko g. 11, LT-53334"
   },
   {
-    "name": "Gyvenamųjų namų statybos bendrija \"Žeimena\"",
-    "code": "178853787",
-    "address": "Švenčionių r. sav., Pabradė, Pašto g. 6, LT-18175"
-  },
-  {
     "name": "Gyvenamųjų namų statybos ir eksploatacijos bendrija \"Saleks\"",
     "code": "300056105",
     "address": "Vilnius, Nadruvos g. 28, LT-06228"
@@ -4432,7 +4452,7 @@
     "address": "Vilnius, Petešos g. 35, LT-25126"
   },
   {
-    "name": "Nemunaičio sen. Užupių gyv. gyvenamųjų namų Nr.5 ir Nr.6 savininkų bendrija",
+    "name": "Nemunaičio sen. Užupių gyv. gyvenamųjų namų Nr. 8 ir Nr. 10 savininkų bendrija",
     "code": "300500414",
     "address": "Alytaus r. sav., Nemunaičio sen., Užupių k., Užupių g. 8-4, LT-64201"
   },
@@ -4673,6 +4693,11 @@
     "address": "Vilnius, Dvarčionių Sodų 1-oji g. 10, LT-10234"
   },
   {
+    "name": "VšĮ Devyni Gyvenimai",
+    "code": "307068124",
+    "address": "Kaunas, Pramonės pr. 57-41, LT-50460"
+  },
+  {
     "name": "\"Lengvas gyvenimas\", MB",
     "code": "305395401",
     "address": "Vilnius, Čiobiškio g. 29-10, LT-07187"
@@ -4840,6 +4865,11 @@
     "address": "Vilnius, Laisvės pr. 42-71, LT-04341"
   },
   {
+    "name": "ASOCIACIJA GYVENIMO ŠUO",
+    "code": "307126481",
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Bridų k., Kėblių g. 4, LT-76100"
+  },
+  {
     "name": "Aktyvaus gyvenimo būdo mėgėjų asociacija",
     "code": "306067891",
     "address": "Vilnius, Gėlių g. 3, LT-01137"
@@ -4913,7 +4943,7 @@
   {
     "name": "Krikščionių Bendruomenė \"Judėjimas už religinio gyvenimo atsinaujinimą\"",
     "code": "302587599",
-    "address": "Vilnius, Juodvarnių Sodų 19-oji g. 27, LT-10235"
+    "address": "Vilnius, Ramunių g. 15, LT-11347"
   },
   {
     "name": "Labdaros ir paramos fondas \"Gyvenimo pokytis\"",
@@ -5145,7 +5175,7 @@
   {
     "name": "VšĮ \"Gyvenimo meistrų namai\"",
     "code": "306105694",
-    "address": "Vilniaus miesto savivaldybės teritorija"
+    "address": "Vilnius, Stasio Lozoraičio g. 24A-2, LT-11318"
   },
   {
     "name": "VšĮ \"Gyvenimo namai\"",
@@ -5333,6 +5363,12 @@
     "code": "302581112",
     "address": "Klaipėda, Pakruojo g. 4-3, LT-92307",
     "vatcode": "LT100016912314"
+  },
+  {
+    "name": "UAB Gyvenk čia",
+    "code": "307116373",
+    "address": "Vilnius, Viršupio Sodų 3-ioji g. 5, LT-10230",
+    "vatcode": "LT100017645317"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"GYVENK ŠILČIAU\"",

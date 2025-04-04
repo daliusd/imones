@@ -151,14 +151,14 @@
     "address": "Marijampolės sav., Liudvinavo sen., Kūlokų k., Ūdrupio g. 16, LT-69172"
   },
   {
+    "name": "MB \"Plieninė pagalba\"",
+    "code": "307125059",
+    "address": "Kauno r. sav., Alšėnų sen., Jonučių k., Sodų g. 51, LT-53317"
+  },
+  {
     "name": "MB \"Psichologinė ir psichoterapinė pagalba\"",
     "code": "304942458",
     "address": "Vilnius, Virginijaus Druskio g. 9-204, LT-04306"
-  },
-  {
-    "name": "MB \"Reklamos greitoji pagalba\"",
-    "code": "304701749",
-    "address": "Kaunas, Taikos pr. 41-89, LT-50225"
   },
   {
     "name": "MB \"Skruzdės pagalba\"",
@@ -457,7 +457,8 @@
   {
     "name": "MB \"Pagalbininkai\"",
     "code": "304859820",
-    "address": "Vilnius, Žirmūnų g. 57-86, LT-09110"
+    "address": "Vilnius, Žirmūnų g. 57-86, LT-09110",
+    "vatcode": "LT100017692218"
   },
   {
     "name": "Pagalbinio pastato ir negyvenamojo namo savininkų bendrija \"Prieupis\"",
@@ -729,7 +730,7 @@
   {
     "name": "Nacionalinis pagalbos centras",
     "code": "300128323",
-    "address": "Vilnius, Bajorų kel. 25-110, LT-08467",
+    "address": "Vilniaus m. sav.",
     "vatcode": "LT100013134517"
   },
   {
@@ -856,6 +857,12 @@
     "name": "UAB \"Pagalbos mygtukas\"",
     "code": "303408953",
     "address": "Klaipėda, Smiltelės g. 29-65, LT-94260"
+  },
+  {
+    "name": "UAB \"Socialinės pagalbos namai\"",
+    "code": "306285064",
+    "address": "Vilnius, Gilužio g. 39-7, LT-06239",
+    "vatcode": "LT100016532717"
   },
   {
     "name": "UAB \"TEISINĖS PAGALBOS IR APTARNAVIMO CENTRAS\"",
@@ -1028,12 +1035,6 @@
     "address": "Klaipėda, Baltijos pr. 123-5, LT-93224"
   },
   {
-    "name": "VšĮ \"Socialinės pagalbos namai\"",
-    "code": "306285064",
-    "address": "Vilnius, Gilužio g. 39-7, LT-06239",
-    "vatcode": "LT100016532717"
-  },
-  {
     "name": "VšĮ Jonavos greitosios medicinos pagalbos stoties darbuotojų profesinė sąjunga \"Solidarumas\"",
     "code": "305740826",
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
@@ -1046,7 +1047,7 @@
   {
     "name": "VšĮ KLAIPĖDOS PALIATYVIOSIOS PAGALBOS IR SLAUGOS PRIEŽIŪROS TARNYBA",
     "code": "306178062",
-    "address": "Klaipėdos miesto savivaldybės teritorija"
+    "address": "Klaipėda, Dragūnų g. 6-40, LT-92331"
   },
   {
     "name": "VšĮ Klaipėdos apskrities pagalbos vyrams centras",
@@ -1320,7 +1321,7 @@
   {
     "name": "MB \"Pagauk saulę\"",
     "code": "306337867",
-    "address": "Prienų r. sav., Išlaužo sen., Čiudiškių k., Jaunimo g. 6, LT-59101",
+    "address": "Kaunas, Butrimonių g. 7, LT-50218",
     "vatcode": "LT100016092719"
   },
   {
@@ -1328,6 +1329,11 @@
     "code": "304086925",
     "address": "Šakiai, V. Kudirkos g. 41-9, LT-71125",
     "vatcode": "LT100009978117"
+  },
+  {
+    "name": "MB Pagauk momentą",
+    "code": "307116149",
+    "address": "Joniškis, Vilniaus g. 34A, LT-84160"
   },
   {
     "name": "MB Pagauk ryšį",

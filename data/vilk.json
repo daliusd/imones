@@ -312,8 +312,7 @@
   {
     "name": "MB \"Juodas vilkas\"",
     "code": "304453353",
-    "address": "Utena, Užpalių g. 83A, LT-28198",
-    "vatcode": "LT100011455611"
+    "address": "Utena, Užpalių g. 83A, LT-28198"
   },
   {
     "name": "MB \"Statybų vilkas\"",
@@ -330,7 +329,8 @@
   {
     "name": "MB \"Vilkas veža\"",
     "code": "305627547",
-    "address": "Raseinių r. sav., Ariogalos sen., Baukių k. 3, LT-60270"
+    "address": "Raseinių r. sav., Ariogalos sen., Baukių k. 3, LT-60270",
+    "vatcode": "LT100017648210"
   },
   {
     "name": "MB \"Vėjuotas vilkas\"",
@@ -513,6 +513,11 @@
     "address": "Vilnius, Rygos g. 48-27, LT-05272"
   },
   {
+    "name": "VšĮ Stiprus kaip vilkas",
+    "code": "307113943",
+    "address": "Pasvalio r. sav., Pumpėnų sen., Vilkiškių k., Stadiono g. 7, LT-39224"
+  },
+  {
     "name": "VšĮ Šaudymo klubas Geležinis vilkas",
     "code": "306731730",
     "address": "Varėnos r. sav., Matuizų sen., Matuizų k., Kalno g. 7-21, LT-65469"
@@ -636,6 +641,11 @@
     "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Vilkaviškio filialas",
     "code": "302324609",
     "address": "Vilnius, Vytauto g. 14, LT-08118"
+  },
+  {
+    "name": "Asociacija \"Vilkaviškio šaulių klubas\"",
+    "code": "307112923",
+    "address": "Vilkaviškis, Vairo 4-oji g. 12, LT-70120"
   },
   {
     "name": "Asociacija Vilkaviškio \"Gražinos\" skautų draugovė",
@@ -1485,7 +1495,7 @@
   {
     "name": "Vilkaviškio šiaurietiško ėjimo klubas",
     "code": "302978879",
-    "address": "Vilkaviškis, Kapų g. 110, LT-70121"
+    "address": "Vilkaviškis, Kapų g. 110A, LT-70121"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Vilkaviškio grūdai\"",
@@ -1680,7 +1690,7 @@
   {
     "name": "Sodininkų bendrija \"VILKIJA\"",
     "code": "160204357",
-    "address": "Kauno r. sav., Vilkijos apylinkių sen., Jaučakių k."
+    "address": "Kauno r. sav., Vilkijos apylinkių sen., Jaučakių k., Papievio g. 3, LT-54219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Vilkija\"",
@@ -2027,7 +2037,8 @@
   {
     "name": "MB \"Vilko transportas\"",
     "code": "303290857",
-    "address": "Kaunas, E. Volterio g. 30A, LT-47207"
+    "address": "Kaunas, E. Volterio g. 30A, LT-47207",
+    "vatcode": "LT100017658611"
   },
   {
     "name": "MB \"Vilko uola\"",
@@ -2051,6 +2062,11 @@
     "code": "305965342",
     "address": "Panevėžys, Tulpių g. 1-85, LT-35166",
     "vatcode": "LT100014636019"
+  },
+  {
+    "name": "MB Vilko media",
+    "code": "307119437",
+    "address": "Trakų r. sav., Senųjų Trakų sen., Dobrovolės k., Ateities g. 38, LT-21157"
   },
   {
     "name": "MB Vilko puota",
@@ -2139,9 +2155,20 @@
     "address": "Vilnius, Olimpiečių g. 15, LT-09237"
   },
   {
+    "name": "Vilko namai, MB",
+    "code": "307117030",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017643512"
+  },
+  {
     "name": "Vilniaus \"Vilko pėdos\" namai",
     "code": "193304532",
     "address": "Vilnius, Vilkpėdės g. 12, LT-03151"
+  },
+  {
+    "name": "Vilniaus miesto Geležinio Vilko bendruomenė",
+    "code": "307127697",
+    "address": "Vilnius, Algirdo g. 19-406, LT-03219"
   },
   {
     "name": "Vytauto Vilko įmonė",
@@ -2211,7 +2238,8 @@
   {
     "name": "UAB \"Vilkotransport\"",
     "code": "307050507",
-    "address": "Palanga, Kontininkų g. 3B K8, LT-00171"
+    "address": "Palanga, Kontininkų g. 3B K8, LT-00171",
+    "vatcode": "LT100017633818"
   },
   {
     "name": "Daugiabučių namų savininkų bendrija \"Vilkpėdės šilas\"",

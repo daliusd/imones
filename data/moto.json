@@ -10,6 +10,11 @@
     "address": "Vilnius, Oslo g. 5B-101, LT-04123"
   },
   {
+    "name": "MB Moto919",
+    "code": "307127238",
+    "address": "Palanga, Putinų tak. 6, LT-00144"
+  },
+  {
     "name": "\"Auto Moto Parko bistro\", IĮ",
     "code": "305619746",
     "address": "Trakų r. sav., Onuškio sen., Ponykščių k. 8, LT-21230"
@@ -39,6 +44,11 @@
     "name": "Asociacija \"Moto LT\"",
     "code": "304959621",
     "address": "Marijampolė, Vytauto g. 13-36, LT-68299"
+  },
+  {
+    "name": "Asociacija \"Moto brothers Kėdainiai\"",
+    "code": "307118043",
+    "address": "Kėdainiai, Respublikos g. 42-60, LT-57407"
   },
   {
     "name": "Asociacija \"Moto šaika\"",
@@ -177,6 +187,11 @@
     "vatcode": "LT100012842812"
   },
   {
+    "name": "MB Moto busas",
+    "code": "307119444",
+    "address": "Vilniaus r. sav., Mickūnų sen., Galgių k., Centrinė g. 6, LT-13104"
+  },
+  {
     "name": "MB Moto dvyniai",
     "code": "306761289",
     "address": "Pakruojis, Taikos g. 20-3, LT-83142",
@@ -209,6 +224,11 @@
     "code": "306707715",
     "address": "Prienų r. sav., Stakliškių sen., Vyšniūnų k., Liepų g. 10-6, LT-59403",
     "vatcode": "LT100017192811"
+  },
+  {
+    "name": "Moto asociacija \"Riders of Utena\"",
+    "code": "307111974",
+    "address": "Utena, Vasaros g. 26-2, LT-28244"
   },
   {
     "name": "Moto sistemos, UAB",
@@ -449,7 +469,8 @@
   {
     "name": "MB MOTOBIKE",
     "code": "305550218",
-    "address": "Kretingos r. sav., Kretingos sen., Vydmantų k., Palangos pl. 2F, LT-97227"
+    "address": "Kretingos r. sav., Kretingos sen., Vydmantų k., Palangos pl. 2F, LT-97227",
+    "vatcode": "LT100017605015"
   },
   {
     "name": "Kretingos motobolo klubas",
@@ -1616,7 +1637,7 @@
   {
     "name": "UAB \"MOTORIDER\"",
     "code": "300052338",
-    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Aukštagirio g. 5, LT-53363",
+    "address": "Kauno r. sav., Alšėnų sen., Jonučių k., Verslo g. 1, LT-53317",
     "vatcode": "LT100001201716"
   },
   {
@@ -1732,6 +1753,11 @@
     "code": "303193988",
     "address": "Kėdainių r. sav., Pelėdnagių sen., Pėdžių k., Radvilų g. 5, LT-58149",
     "vatcode": "LT100008356213"
+  },
+  {
+    "name": "BMW Motorrad Club LT",
+    "code": "307116117",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "VšĮ BMW Motorrad Club Lithuania",
@@ -2016,7 +2042,7 @@
   {
     "name": "MB Barzda motors",
     "code": "306745000",
-    "address": "Kaunas, A. Juozapavičiaus pr. 42-13, LT-45220"
+    "address": "Kauno m. sav."
   },
   {
     "name": "MB Boost - motors",
@@ -2037,7 +2063,8 @@
   {
     "name": "MB D&A Motors",
     "code": "307072806",
-    "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Tovės g. 4, LT-91290"
+    "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Tovės g. 4, LT-91290",
+    "vatcode": "LT100017649219"
   },
   {
     "name": "MB DEIS MOTORS",
@@ -2207,6 +2234,11 @@
     "address": "Vilniaus r. sav., Nemėžio sen., Didžiasalio k., Ežero g. 38, LT-13264"
   },
   {
+    "name": "MB REGX Motors",
+    "code": "307118214",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+  },
+  {
     "name": "MB RTZ Motors",
     "code": "305897642",
     "address": "Kaunas, Kovo 11-osios g. 28-74, LT-51320",
@@ -2289,6 +2321,11 @@
     "code": "306267632",
     "address": "Vilnius, Pašilaičių g. 14A-5, LT-06113",
     "vatcode": "LT100015796519"
+  },
+  {
+    "name": "Mažoji bendrija Gdm motors",
+    "code": "307130191",
+    "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Marių kranto g. 4, LT-38182"
   },
   {
     "name": "Mažoji bendrija Ts motors",
@@ -2540,11 +2577,6 @@
     "vatcode": "LT100015107019"
   },
   {
-    "name": "UAB \"Rz motors\"",
-    "code": "306946028",
-    "address": "Šiauliai, Serbentų g. 220A, LT-78151"
-  },
-  {
     "name": "UAB \"SOLIJO Motors\"",
     "code": "300670701",
     "address": "Alytaus r. sav., Krokialaukio sen., Ūdrijos k., Kranto g. 6, LT-64372",
@@ -2756,7 +2788,7 @@
   {
     "name": "Automobilių sporto klubas \"Lokys motorsport\"",
     "code": "306178151",
-    "address": "Mažeikių r. sav., Sedos sen., Nausodės k., Dariaus ir Girėno g. 36, LT-89385"
+    "address": "Mažeikių r. sav., Tirkšlių sen., Užlieknės k., Ežero g. 7, LT-89322"
   },
   {
     "name": "Automobilių sporto klubas \"SMART motorsport\"",
@@ -2888,6 +2920,11 @@
     "name": "VšĮ \"Vakarėlis motorsport\"",
     "code": "306064308",
     "address": "Kaunas, Raudondvario pl. 182, LT-47149"
+  },
+  {
+    "name": "VšĮ APK Motorsport",
+    "code": "307131628",
+    "address": "Tauragės r. sav., Skaudvilės sen., Jakštų k. 8, LT-73422"
   },
   {
     "name": "VšĮ Apex Auto Motorsport",
@@ -3118,8 +3155,7 @@
   {
     "name": "UAB \"Mototeka\"",
     "code": "277199620",
-    "address": "Šilutės r. sav., Šilutės sen., Barzdūnų k., Veterinarijos g. 5, LT-99151",
-    "vatcode": "LT100009743717"
+    "address": "Šilutės r. sav., Šilutės sen., Barzdūnų k., Veterinarijos g. 5, LT-99151"
   },
   {
     "name": "UAB \"Mototeksas\"",

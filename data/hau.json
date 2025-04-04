@@ -90,6 +90,11 @@
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
+    "name": "MB Forma haus",
+    "code": "307113594",
+    "address": "Vilnius, Olandų g. 10A-8, LT-01100"
+  },
+  {
     "name": "MB G3 Haus",
     "code": "307016437",
     "address": "Šakiai, Gimnazijos g. 15-1, LT-71116"
@@ -126,11 +131,6 @@
     "code": "302339194",
     "address": "Vilnius, Kauno g. 3A, LT-01314",
     "vatcode": "LT100004705111"
-  },
-  {
-    "name": "UAB \"INOX HAUS\"",
-    "code": "300681199",
-    "address": "Klaipėdos r. sav., Priekulės sen., Žiaukų k., Vyšnių g. 21, LT-96373"
   },
   {
     "name": "UAB \"Stream Haus\"",
@@ -313,7 +313,8 @@
   {
     "name": "MB \"Hauta\"",
     "code": "307077283",
-    "address": "Vilkaviškio r. sav., Šeimenos sen., Varpininkų k., Pievų g. 3, LT-70199"
+    "address": "Vilkaviškio r. sav., Šeimenos sen., Varpininkų k., Pievų g. 3, LT-70199",
+    "vatcode": "LT100017704810"
   },
   {
     "name": "UAB \"Hautas\"",

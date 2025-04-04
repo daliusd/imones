@@ -942,12 +942,6 @@
     "address": "Kaunas, Maisto g. 13, LT-46265"
   },
   {
-    "name": "MB Būsto link",
-    "code": "305976748",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
-    "vatcode": "LT100015393216"
-  },
-  {
     "name": "MB Būsto mūza",
     "code": "306781904",
     "address": "Kretinga, Žemaitės al. 4B-9, LT-97106"
@@ -1221,7 +1215,8 @@
   {
     "name": "UAB Būsto kelias",
     "code": "307098587",
-    "address": "Utenos r. sav., Sudeikių sen., Norvaišių k., Leleikio g. 11, LT-28400"
+    "address": "Utenos r. sav., Sudeikių sen., Norvaišių k., Leleikio g. 11, LT-28400",
+    "vatcode": "LT100017678818"
   },
   {
     "name": "UAB Būsto paskolų konsultantai",
@@ -1293,6 +1288,11 @@
     "address": "Šilalės r. sav., Pajūris, Jūros g. 13, LT-75288"
   },
   {
+    "name": "MB Būstui LT",
+    "code": "307133134",
+    "address": "Kauno r. sav., Raudondvario sen., Didvyrių k., Laimės g. 14B, LT-54134"
+  },
+  {
     "name": "UAB \"Erdvė būstui\"",
     "code": "305399111",
     "address": "Kaunas, Vytauto pr. 60-43, LT-44237",
@@ -1341,7 +1341,8 @@
   {
     "name": "MB \"Būstų apdaila\"",
     "code": "304781229",
-    "address": "Klaipėdos r. sav., Dovilų sen., Kulių k., Gėlių 1-oji g. 8, LT-95406"
+    "address": "Klaipėdos r. sav., Dovilų sen., Kulių k., Gėlių 1-oji g. 8, LT-95406",
+    "vatcode": "LT100017700818"
   },
   {
     "name": "UAB \"Būstų remontas\"",
