@@ -115,18 +115,14 @@
   {
     "name": "Gudrus kodas, MB",
     "code": "306986909",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017633212"
   },
   {
     "name": "IĮ \"Kodas - mudu\"",
     "code": "304984432",
     "address": "Klaipėda, Dragūnų g. 6-40, LT-92331",
     "vatcode": "LT100013380011"
-  },
-  {
-    "name": "IĮ \"Solo kodas\"",
-    "code": "303427067",
-    "address": "Marijampolė, Išdagėlių g. 13, LT-68117"
   },
   {
     "name": "IĮ \"Vilko kodas\"",
@@ -198,7 +194,8 @@
   {
     "name": "MB \"Drūtas kodas\"",
     "code": "305643302",
-    "address": "Alytaus r. sav., Alytaus sen., Praniūnų k., Nemuno g. 34, LT-62187"
+    "address": "Alytaus r. sav., Alytaus sen., Praniūnų k., Nemuno g. 34, LT-62187",
+    "vatcode": "LT100017681212"
   },
   {
     "name": "MB \"Dzūko kodas\"",
@@ -214,6 +211,11 @@
     "name": "MB \"Gamybos kodas\"",
     "code": "303150168",
     "address": "Vilnius, S. Žukausko g. 34-52, LT-08235"
+  },
+  {
+    "name": "MB \"Giluminis kodas\"",
+    "code": "307133821",
+    "address": "Varėna, Laisvės g. 14, LT-65185"
   },
   {
     "name": "MB \"Greitas kodas\"",
@@ -460,6 +462,11 @@
     "address": "Vilnius, Elnių g. 27-90, LT-08101"
   },
   {
+    "name": "MB Idėjų kodas",
+    "code": "307130864",
+    "address": "Vilnius, Dilgynės g. 3B-1, LT-11307"
+  },
+  {
     "name": "MB Judesio kodas",
     "code": "307075617",
     "address": "Vilnius, Krokuvos g. 9A-18, LT-09314"
@@ -548,6 +555,11 @@
     "name": "MB Transformacijos kodas",
     "code": "307069614",
     "address": "Vilnius, Laisvės pr. 78B-226, LT-05263"
+  },
+  {
+    "name": "MB Transporto kodas",
+    "code": "307127640",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB Turto kodas",
@@ -801,6 +813,11 @@
     "address": "Vilniaus r. sav., Bezdonių sen., Bezdonių k., Užupio g. 53, LT-15203"
   },
   {
+    "name": "UAB Interneto kodas",
+    "code": "307130106",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "UAB Kava ir kodas",
     "code": "305911540",
     "address": "Vilnius, Sodų g. 11-3, LT-01313"
@@ -819,6 +836,11 @@
     "name": "Uždaroji akcinė bendrovė \"Saugos kodas\"",
     "code": "169287742",
     "address": "Pasvalys, Stoties g. 30, LT-39106"
+  },
+  {
+    "name": "Veikiantis kodas, MB",
+    "code": "307111312",
+    "address": "Vilnius, Kernavės g. 4-R51, LT-09300"
   },
   {
     "name": "VšĮ \"EDU Kodas ICLAD\"",

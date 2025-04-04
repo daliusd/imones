@@ -17,11 +17,6 @@
     "address": "Klaipėda, Laukininkų g. 6-2, LT-95139"
   },
   {
-    "name": "A. Puslio siuvimo įmonė \"ALVA\"",
-    "code": "240380480",
-    "address": "Klaipėda, Liepų g. 19-5, LT-92138"
-  },
-  {
     "name": "Akcinės bendrovės \"Kauno Baltija\" Lazdijų siuvimo baras",
     "code": "165103718",
     "address": "Lazdijai, Dzūkų g. 10, LT-67126"
@@ -45,11 +40,6 @@
     "name": "Akcinės bendrovės \"Lelija\" Širvintų siuvimo įmonės profesinė sąjunga",
     "code": "178313385",
     "address": "Širvintų r. sav., Širvintų sen., Paširvinčio k."
-  },
-  {
-    "name": "D. Kuzavo siuvimo įmonė",
-    "code": "169832267",
-    "address": "Plungės r. sav., Babrungo sen., Babrungo k., Vingio g. 20, LT-90108"
   },
   {
     "name": "Individuali L. Bartkevič siuvimo įmonė",
@@ -103,7 +93,13 @@
   {
     "name": "MB \"Siuvimo namai saulėgrąža\"",
     "code": "305256654",
-    "address": "Vilnius, Girulių g. 5, LT-12124"
+    "address": "Vilnius, Girulių g. 5, LT-12124",
+    "vatcode": "LT100017627117"
+  },
+  {
+    "name": "MB \"Siuvimo paslaugos\"",
+    "code": "307115983",
+    "address": "Klaipėda, Minijos g. 135A-3, LT-93206"
   },
   {
     "name": "MB \"Siuvimo projektai\"",
@@ -189,8 +185,7 @@
   {
     "name": "UAB Siuvimo namai",
     "code": "304693380",
-    "address": "Šiauliai, Turgaus a. 6-2, LT-77188",
-    "vatcode": "LT100011203010"
+    "address": "Šiauliai, Turgaus a. 6-2, LT-77188"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"SIUVIMO STILIUS\"",
@@ -375,11 +370,6 @@
     "name": "Daugiabučio namo savininkų bendrija \"Siuvėjas\"",
     "code": "135343173",
     "address": "Kaunas, Birželio 23-iosios g. 17, LT-50222"
-  },
-  {
-    "name": "MB \"Perkūno siuvėjas\"",
-    "code": "304554014",
-    "address": "Mažeikių r. sav., Tirkšlių sen., Užlieknės k., Pušyno g. 12, LT-89322"
   },
   {
     "name": "MB \"Siuvėjų dinastija\"",

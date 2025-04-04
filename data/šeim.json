@@ -153,6 +153,11 @@
     "address": "Vilnius, A. Juozapavičiaus g. 11-101, LT-09311"
   },
   {
+    "name": "VšĮ Ryto šeima",
+    "code": "307104474",
+    "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Riešės g. 1B-2, LT-14266"
+  },
+  {
     "name": "Akmenės rajono paramos šeimai centras",
     "code": "300887060",
     "address": "Akmenės r. sav., Akmenės sen., Agluonų k., Dvaro g. 15, LT-85474"
@@ -366,7 +371,8 @@
   {
     "name": "UAB Šeimininkėlė",
     "code": "307049693",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
+    "vatcode": "LT100017657411"
   },
   {
     "name": "Lietuvos ir Švedijos uždaroji akcinė bendrovė \"PAGALBA ŠEIMININKĖMS\"",
@@ -1066,6 +1072,11 @@
     "vatcode": "LT100008575414"
   },
   {
+    "name": "UAB Aukštaičių šeimos klinika",
+    "code": "148514838",
+    "address": "Panevėžys, Stoties g. 49-6, LT-35105"
+  },
+  {
     "name": "UAB BALTUPIŲ ŠEIMOS MEDICINOS CENTRAS",
     "code": "125228728",
     "address": "Vilnius, P. Žadeikos g. 11-7, LT-06324"
@@ -1420,11 +1431,6 @@
     "name": "Viešoji įstaiga Alytaus šeimos pagalbos centras",
     "code": "301676657",
     "address": "Alytaus r. sav., Krokialaukio sen., Čiurlionių I k., Žuvinto g. 73, LT-64354"
-  },
-  {
-    "name": "Viešoji įstaiga Aukštaičių šeimos klinika",
-    "code": "148514838",
-    "address": "Panevėžys, Aukštaičių g. 4, LT-36208"
   },
   {
     "name": "Viešoji įstaiga Balsių šeimos medicinos centras",
@@ -2362,7 +2368,7 @@
   {
     "name": "UAB Šeimų mylimi",
     "code": "306645509",
-    "address": "Gargždai, Vasario 16-osios g. 21, LT-96124",
+    "address": "Gargždai, Vasario 16-osios g. 21G, LT-96124",
     "vatcode": "LT100016507514"
   },
   {

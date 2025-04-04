@@ -753,6 +753,11 @@
     "address": "Širvintų r. sav., Musninkai, Čiobiškio g. 11, LT-19185"
   },
   {
+    "name": "Šventosios miestelio bendruomenė",
+    "code": "307132349",
+    "address": "Palanga, Šventosios g. 8, LT-00306"
+  },
+  {
     "name": "Žvirgždaičių miestelio bendruomenė",
     "code": "302458017",
     "address": "Šakių r. sav., Žvirgždaičiai, Antaninos Liorentaitės g. 18, LT-71305"
@@ -2085,6 +2090,11 @@
     "address": "Kelmė, Vilties g. 14-21, LT-86188"
   },
   {
+    "name": "Kelmės miesto bendruomenė",
+    "code": "300041103",
+    "address": "Kelmė, Dariaus ir Girėno g. 23, LT-86126"
+  },
+  {
     "name": "Kelmės miesto vietos veiklos grupė",
     "code": "304066926",
     "address": "Kelmė, Birutės g. 4, LT-86163"
@@ -3040,12 +3050,6 @@
     "address": "Klaipėda, Debreceno g. 13-36B, LT-94174"
   },
   {
-    "name": "MB Klaipėdos miesto konstrukcijų projektai",
-    "code": "305822458",
-    "address": "Klaipėda, Minijos g. 126-24, LT-93243",
-    "vatcode": "LT100016512611"
-  },
-  {
     "name": "MB Miesto audiniai",
     "code": "306713814",
     "address": "Kaunas, Laisvės al. 114, LT-44253",
@@ -3363,12 +3367,6 @@
     "address": "Palanga, Sodų g. 35-10, LT-00119"
   },
   {
-    "name": "Palangos miesto rinkliavų centras",
-    "code": "302290562",
-    "address": "Palanga, Gintaro g. 33A-1, LT-00134",
-    "vatcode": "LT100004903915"
-  },
-  {
     "name": "Palangos miesto savivaldybės administracija",
     "code": "125196077",
     "address": "Palanga, Vytauto g. 112, LT-00153"
@@ -3413,6 +3411,12 @@
     "code": "125185967",
     "address": "Palanga, S. Nėries g. 20, LT-00136",
     "vatcode": "LT100003356014"
+  },
+  {
+    "name": "Palangos miesto viešosios tvarkos ir rinkliavų tarnyba",
+    "code": "302290562",
+    "address": "Palanga, Gintaro g. 33A-1, LT-00134",
+    "vatcode": "LT100004903915"
   },
   {
     "name": "Palangos miesto švietimo darbuotojų profsąjungos organizacijų sąjunga",
@@ -4131,6 +4135,12 @@
     "vatcode": "LT100015204313"
   },
   {
+    "name": "UAB Klaipėdos miesto konstrukcijų projektai",
+    "code": "305822458",
+    "address": "Klaipėda, Minijos g. 126-24, LT-93243",
+    "vatcode": "LT100016512611"
+  },
+  {
     "name": "UAB MIESTO NT",
     "code": "302717345",
     "address": "Kaunas, Benediktinių g. 45-2, LT-44262"
@@ -4461,11 +4471,6 @@
     "address": "Vilnius, Tyzenhauzų g. 8-46, LT-02108"
   },
   {
-    "name": "VISUOMENINĖ ORGANIZACIJA KELMĖS MIESTO BENDRUOMENĖ",
-    "code": "300041103",
-    "address": "Kelmė, Žemaitės g. 35, LT-86143"
-  },
-  {
     "name": "Varnių miesto bendruomenė",
     "code": "300632266",
     "address": "Telšių r. sav., Varniai, S. Daukanto g. 19C-1, LT-88318"
@@ -4758,7 +4763,7 @@
   {
     "name": "Vilniaus miesto Daugiabučio gyvenamojo namo Linkmenų g. 19 savininkų bendrija \"LinkTen\"",
     "code": "306708660",
-    "address": "Vilnius, Linkmenų g. 19-45, LT-08217"
+    "address": "Vilnius, Linkmenų g. 19-40, LT-08217"
   },
   {
     "name": "Vilniaus miesto Daugiabučio gyvenamojo namo Lūšių g. 24 savininkų bendrija \"Lūšių 24\"",
@@ -4936,6 +4941,11 @@
     "address": "Vilnius, Fabijoniškių g. 90-48, LT-07100"
   },
   {
+    "name": "Vilniaus miesto Geležinio Vilko bendruomenė",
+    "code": "307127697",
+    "address": "Vilnius, Algirdo g. 19-406, LT-03219"
+  },
+  {
     "name": "Vilniaus miesto Kalvarijų turgaus smulkaus ir vidutinio verslo darbuotojų profesinė sąjunga",
     "code": "125993660",
     "address": "Vilnius, J. Basanavičiaus g. 29A-56"
@@ -4989,6 +4999,11 @@
     "name": "Vilniaus miesto Vienbučių ir dvibučių gyvenamųjų namų Bajorų Sodų 2-oji g. 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25A, 26, 28, 30, 32, 34, 35, 36, 37, 38 savininkų bendrija \"Bajorų perlas\"",
     "code": "303480059",
     "address": "Vilnius, Bajorų Sodų 2-oji g. 14-1, LT-08426"
+  },
+  {
+    "name": "Vilniaus miesto Viršuliškių 89 namo savininkų bendrija",
+    "code": "307120464",
+    "address": "Vilnius, Viršuliškių g. 89-66, LT-05117"
   },
   {
     "name": "Vilniaus miesto Vyresniojo Amžiaus Žmonių Asociacija",
@@ -6079,7 +6094,7 @@
   {
     "name": "Miestų vietos veiklos grupių tinklas",
     "code": "304918635",
-    "address": "Biržai, J. Basanavičiaus g. 34, LT-41153"
+    "address": "Vilkaviškis, P. Jašinsko g. 2, LT-70103"
   },
   {
     "name": "Nacionalinė rajonų ir miestų laikraščių leidėjų asociacija",

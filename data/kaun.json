@@ -417,7 +417,8 @@
   {
     "name": "UAB \"Kaunas BESS\"",
     "code": "306556843",
-    "address": "Vilnius, Svajonių g. 14C-1, LT-10100"
+    "address": "Vilnius, Svajonių g. 14C-1, LT-10100",
+    "vatcode": "LT100017655314"
   },
   {
     "name": "UAB \"Kaunas Cargo Hub\"",
@@ -481,7 +482,8 @@
   {
     "name": "UAB \"Nippon Auto Kaunas\"",
     "code": "307040694",
-    "address": "Kauno r. sav., Zapyškio sen., Dievogalos k., Rūtų g. 8, LT-53428"
+    "address": "Kauno r. sav., Zapyškio sen., Dievogalos k., Rūtų g. 8, LT-53428",
+    "vatcode": "LT100017708712"
   },
   {
     "name": "UAB \"Real Game Kaunas\"",
@@ -1274,6 +1276,11 @@
     "address": "Kaunas, Draugystės g. 17-1, LT-51229"
   },
   {
+    "name": "Daugiabučio gyvenamojo namo Kauno g. 15A, Lekėčiai, Šakių r. sav., savininkų bendrija",
+    "code": "307130412",
+    "address": "Šakių r. sav., Lekėčiai, Kauno g. 15A-7, LT-71226"
+  },
+  {
     "name": "Daugiabučio gyvenamojo namo Kauno g. 31, Vilniuje, savininkų bendrija",
     "code": "302809733",
     "address": "Vilnius, Kauno g. 31-7A, LT-03229"
@@ -1865,6 +1872,11 @@
     "address": "Kaunas, Vėtrungės g. 1, LT-48135"
   },
   {
+    "name": "Kauno Tado Ivanausko progimnazijos labdaros ir paramos fondas",
+    "code": "307135199",
+    "address": "Kaunas, Vėtrungės g. 2-36, LT-48125"
+  },
+  {
     "name": "Kauno Tado Ivanausko zoologijos muziejus",
     "code": "188727491",
     "address": "Kaunas, Laisvės al. 106, LT-44253"
@@ -1918,6 +1930,11 @@
     "name": "Kauno Viktoro Kuprevičiaus progimnazija",
     "code": "190137455",
     "address": "Kaunas, Kovo 11-osios g. 94, LT-50403"
+  },
+  {
+    "name": "Kauno Viktoro Kuprevičiaus progimnazijos paramos fondas",
+    "code": "307132178",
+    "address": "Kaunas, Taikos pr. 97-9, LT-50450"
   },
   {
     "name": "Kauno Vilijampolės bendruomenės centras \"Veršva\"",
@@ -4243,7 +4260,7 @@
   {
     "name": "Kauno rajono Padubysio kaimo bendruomenė",
     "code": "160432040",
-    "address": "Kauno r. sav., Čekiškės sen., Padubysio k."
+    "address": "Kauno r. sav., Vilkijos apylinkių sen., Baravų k. 6, LT-54204"
   },
   {
     "name": "Kauno rajono Pagynės žemės ūkio bendrovė",
@@ -5202,6 +5219,11 @@
     "address": "Kaunas, V. Krėvės pr. 104K, LT-50381"
   },
   {
+    "name": "Kauno verslo klubas",
+    "code": "307123097",
+    "address": "Kaunas, Vaižganto g. 30, LT-44229"
+  },
+  {
     "name": "Kauno veteranų sporto klubas \"Kalakutas\"",
     "code": "193414427",
     "address": "Kaunas, Ugnės g. 41, LT-47102"
@@ -5856,11 +5878,6 @@
     "vatcode": "LT100011824415"
   },
   {
-    "name": "MB \"Kauno loftai\"",
-    "code": "305337266",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
     "name": "MB \"Kauno nuotekų sistemos\"",
     "code": "306241242",
     "address": "Kaunas, Partizanų g. 218-24, LT-50318",
@@ -5870,6 +5887,11 @@
     "name": "MB \"Kauno oro balionai\"",
     "code": "306832206",
     "address": "Kaunas, Elniaragių tak. 1, LT-51336"
+  },
+  {
+    "name": "MB \"Kauno pastoliai\"",
+    "code": "307111419",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Kauno patarėjai\"",
@@ -6301,11 +6323,6 @@
     "address": "Kaunas, Jotvingių g. 16-63, LT-48163"
   },
   {
-    "name": "UAB \"Kauno boltas\"",
-    "code": "305601132",
-    "address": "Trakų r. sav., Aukštadvario sen., Vilūnų k. 8, LT-21256"
-  },
-  {
     "name": "UAB \"Kauno boulingas\"",
     "code": "300143599",
     "address": "Vilnius, Viršuliškių g. 40, LT-05112"
@@ -6583,7 +6600,7 @@
   {
     "name": "UAB \"Kauno skliautai\"",
     "code": "302294767",
-    "address": "Kaunas, Agronomijos g. 53, LT-47480",
+    "address": "Kaunas, Vaižganto g. 11E-6, LT-44225",
     "vatcode": "LT100005534511"
   },
   {
@@ -7023,11 +7040,6 @@
     "code": "134824182",
     "address": "Kaunas, Baltijos g. 6-8, LT-48246",
     "vatcode": "LT348241811"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Kauno nekilnojamo turto prekybos agentūra\"",
-    "code": "134569041",
-    "address": "Kaunas, K. Petrausko g. 18, LT-44156"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kauno nepriklausomų autoekspertų biuras\"",
@@ -7896,7 +7908,7 @@
   {
     "name": "VšĮ RK Kauno \"Granitas\"",
     "code": "306291380",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Ireniškių k., Ramunių g. 45, LT-53275"
+    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Ledos g. 30A, LT-54303"
   },
   {
     "name": "VšĮ Respublikinės Kauno ligoninės sveikatos apsaugos darbuotojų profesinė sąjunga",

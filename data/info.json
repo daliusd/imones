@@ -744,6 +744,11 @@
     "address": "Vilnius, Žalgirio g. 94-2"
   },
   {
+    "name": "Skuodo rajono turizmo informacijos centras",
+    "code": "174585733",
+    "address": "Skuodas, Vytauto g. 9, LT-98121"
+  },
+  {
     "name": "Tauragės moters užimtumo ir informacijos centras",
     "code": "179755082",
     "address": "Tauragė, V. Kudirkos g. 9, LT-72217"
@@ -1001,11 +1006,6 @@
     "code": "300029065",
     "address": "Kaunas, Sąjungos a. 5-25, LT-48379",
     "vatcode": "LT100001772111"
-  },
-  {
-    "name": "Viešoji įstaiga Skuodo informacijos centras",
-    "code": "174585733",
-    "address": "Skuodas, Vytauto g. 9, LT-98121"
   },
   {
     "name": "Viešoji įstaiga Teatro ir kino informacijos ir edukacijos centras",
@@ -1650,7 +1650,8 @@
   {
     "name": "UAB CYGNUS Account Information Service Provider",
     "code": "306852237",
-    "address": "Vilnius, Ukmergės g. 219-1, LT-07152"
+    "address": "Vilnius, Ukmergės g. 219-1, LT-07152",
+    "vatcode": "LT100017634412"
   },
   {
     "name": "TOV \"REKLAMNO-INFORMATSIINE BIURO PROFIT\" Vilniaus filialas",
@@ -1963,7 +1964,8 @@
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"PrimePlot Residential Real Estate Fund 1\"",
     "code": "306818391",
-    "address": "Vilnius, Didžioji g. 18, LT-01128"
+    "address": "Vilnius, Didžioji g. 18, LT-01128",
+    "vatcode": "LT100017680416"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"Verslo trikampis\"",
@@ -2021,12 +2023,6 @@
     "code": "305399022",
     "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
     "vatcode": "LT100013491810"
-  },
-  {
-    "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB Victory Development III",
-    "code": "305944661",
-    "address": "Vilnius, Lvivo g. 101, LT-08104",
-    "vatcode": "LT100014680319"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB Victory Development IV",
@@ -2340,7 +2336,7 @@
   {
     "name": "UAB Infotree Global Lithuania",
     "code": "306192090",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
+    "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
     "name": "Infotronic Works, MB",

@@ -55,9 +55,15 @@
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
+    "name": "MB \"Block Labs\"",
+    "code": "307126638",
+    "address": "Vilnius, Liepkalnio g. 104-1, LT-02121"
+  },
+  {
     "name": "MB \"DC Labs\"",
     "code": "305447912",
-    "address": "Kauno r. sav., Domeikavos sen., Radikių k., Bokšto g. 5, LT-54378"
+    "address": "Kauno r. sav., Domeikavos sen., Radikių k., Bokšto g. 5, LT-54378",
+    "vatcode": "LT100017702118"
   },
   {
     "name": "MB \"Flow Labs\"",
@@ -151,6 +157,11 @@
     "vatcode": "LT100017536614"
   },
   {
+    "name": "MB Nordon Labs",
+    "code": "307130711",
+    "address": "Vilnius, Birželio 23-iosios g. 9-49, LT-03206"
+  },
+  {
     "name": "MB Simmius labs",
     "code": "306949330",
     "address": "Vilnius, Šv. Stepono g. 33-15, LT-01312",
@@ -169,7 +180,8 @@
   {
     "name": "Mm labs UAB",
     "code": "307091048",
-    "address": "Vilnius, Kernavės g. 4-R51, LT-09300"
+    "address": "Vilnius, Kernavės g. 4-R51, LT-09300",
+    "vatcode": "LT100017618118"
   },
   {
     "name": "NERIS Labs, UAB",
@@ -208,7 +220,8 @@
   {
     "name": "Tech labs, MB",
     "code": "306949138",
-    "address": "Vilnius, Lietaus g. 14-22, LT-04125"
+    "address": "Vilnius, Lietaus g. 14-22, LT-04125",
+    "vatcode": "LT100017696412"
   },
   {
     "name": "Trek Labs UAB",
@@ -332,8 +345,7 @@
   {
     "name": "UAB \"Versus labs\"",
     "code": "307026812",
-    "address": "Kauno r. sav., Karmėlava, Lauko g. 2, LT-54448",
-    "vatcode": "LT100017337418"
+    "address": "Kauno r. sav., Karmėlava, Lauko g. 2, LT-54448"
   },
   {
     "name": "UAB \"Vet Labs\"",
@@ -346,11 +358,6 @@
     "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194"
   },
   {
-    "name": "UAB Aplink Labs",
-    "code": "306339327",
-    "address": "Vilnius, J. Jasinskio g. 16B, LT-03163"
-  },
-  {
     "name": "UAB Cellanthe Labs",
     "code": "306830835",
     "address": "Vilnius, Liepyno g. 9-32, LT-08108"
@@ -358,7 +365,8 @@
   {
     "name": "UAB Dafin Labs",
     "code": "307050133",
-    "address": "Vilnius, Manufaktūrų g. 20-231, LT-11342"
+    "address": "Vilnius, Manufaktūrų g. 20-231, LT-11342",
+    "vatcode": "LT100017633919"
   },
   {
     "name": "UAB Eversis labs",
@@ -424,6 +432,11 @@
     "name": "UAB TLV Labs",
     "code": "302523109",
     "address": "Vilnius, Latvių g. 15-33, LT-08123"
+  },
+  {
+    "name": "UAB Upload labs",
+    "code": "307129036",
+    "address": "Kaunas, Laisvės al. 110, LT-44253"
   },
   {
     "name": "Uždaroji akcinė bendrovė Gamify labs",

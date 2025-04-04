@@ -338,7 +338,8 @@
   {
     "name": "\"Mėmelio žemės\", ŽŪB",
     "code": "304907514",
-    "address": "Kretingos r. sav., Žalgirio sen., Raguviškių k., Mišučių g. 2, LT-97160"
+    "address": "Kretingos r. sav., Žalgirio sen., Raguviškių k., Mišučių g. 2, LT-97160",
+    "vatcode": "LT100017697713"
   },
   {
     "name": "\"Pirmasis ūkis\", žemės ūkio bendrovė",
@@ -892,12 +893,6 @@
     "vatcode": "LT612664716"
   },
   {
-    "name": "Kėdainių rajono žemės ūkio bendrovė \"Nemunas\"",
-    "code": "161268868",
-    "address": "Panevėžio r. sav., Krekenavos sen., Žibartonių k., Žibartonių g. 74, LT-38323",
-    "vatcode": "LT612688610"
-  },
-  {
     "name": "Kėdainių rajono žemės ūkio bendrovė \"Padėjėjas\"",
     "code": "161264994",
     "address": "Kėdainių r. sav., Dotnuvos sen., Beržų k.",
@@ -1115,6 +1110,11 @@
     "code": "305623602",
     "address": "Kaunas, Kęstučio g. 27-111, LT-44312",
     "vatcode": "LT100014900612"
+  },
+  {
+    "name": "MB \"Žemės kontūro grupė\"",
+    "code": "307110192",
+    "address": "Kauno r. sav., Akademija, Vyšnių tak. 15, LT-53347"
   },
   {
     "name": "MB \"Žemės kąsnis\"",
@@ -1338,7 +1338,8 @@
   {
     "name": "Panevėžio rajono žemės ūkio bendrovė \"Atžalynas\"",
     "code": "168567225",
-    "address": "Panevėžio r. sav., Smilgių sen., Perekšlių k., Taikos g. 3, LT-38388"
+    "address": "Panevėžio r. sav., Smilgių sen., Perekšlių k., Taikos g. 3, LT-38388",
+    "vatcode": "LT685672219"
   },
   {
     "name": "Panevėžio rajono žemės ūkio bendrovė \"DEMBAVOS ŠILTNAMIAI\"",
@@ -1428,12 +1429,6 @@
     "vatcode": "LT691564917"
   },
   {
-    "name": "Pauliukų žemės ūkio bendrovė",
-    "code": "256605060",
-    "address": "Jonavos r. sav., Žeimių sen., Juškonių k.",
-    "vatcode": "LT566050610"
-  },
-  {
     "name": "Penkios žemės, MB",
     "code": "306814998",
     "address": "Vilniaus r. sav., Zujūnų sen., Geležių k., Balandžių g. 49-1, LT-14176"
@@ -1512,8 +1507,7 @@
   {
     "name": "Raseinių rajono žemės ūkio bendrovė \"Džeirana\"",
     "code": "172277651",
-    "address": "Raseinių r. sav., Ariogalos sen., Verėduvos k., Ateities g. 4, LT-60291",
-    "vatcode": "LT722776515"
+    "address": "Raseinių r. sav., Ariogalos sen., Verėduvos k., Ateities g. 4, LT-60291"
   },
   {
     "name": "Raseinių rajono žemės ūkio bendrovė \"Trys malūnai\"",
@@ -2782,6 +2776,12 @@
     "address": "Zarasai, Vilniaus g. 44, LT-32111"
   },
   {
+    "name": "Žemės ūkio UAB Pauliukai",
+    "code": "256605060",
+    "address": "Jonavos r. sav., Žeimių sen., Juškonių k., Jonavos g. 1, LT-55402",
+    "vatcode": "LT566050610"
+  },
+  {
     "name": "Žemės ūkio agentūra prie Žemės ūkio ministerijos",
     "code": "304894892",
     "address": "Vilnius, Gedimino pr. 19, LT-01103",
@@ -3235,7 +3235,7 @@
   {
     "name": "Žemės ūkio bendrovė Vilniaus žirgynas",
     "code": "286072650",
-    "address": "Vilniaus r. sav., Avižienių sen., Bendorių k.",
+    "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Žirgyno g. 3, LT-14196",
     "vatcode": "LT860726515"
   },
   {
@@ -3832,8 +3832,7 @@
   {
     "name": "Žemės ūkio kooperatyvas \"ŠAUKĖNŲ AGROSERVISAS\"",
     "code": "162727228",
-    "address": "Kelmės r. sav., Šaukėnai, Juodlės g. 1, LT-86386",
-    "vatcode": "LT627272219"
+    "address": "Kelmės r. sav., Šaukėnai, Juodlės g. 1, LT-86386"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Šarkiai\"",
@@ -3868,11 +3867,6 @@
     "code": "302618767",
     "address": "Kelmės r. sav., Tytuvėnų apylinkių sen., Pašiaušės k., Vilties g. 2, LT-86443",
     "vatcode": "LT100007656116"
-  },
-  {
-    "name": "Žemės ūkio kooperatyvas \"Ūkininkų kaimas\"",
-    "code": "301507148",
-    "address": "Vilniaus r. sav., Sudervės sen., Bubų k., Rastinėnų g. 91, LT-14205"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Ūkininkų paslaugos\"",

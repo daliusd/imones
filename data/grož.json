@@ -215,7 +215,8 @@
   {
     "name": "MB \"Grožio Magnolija\"",
     "code": "307090850",
-    "address": "Vilnius, Vaivorykštės g. 9-6, LT-02166"
+    "address": "Vilnius, Vaivorykštės g. 9-6, LT-02166",
+    "vatcode": "LT100017631912"
   },
   {
     "name": "MB \"Grožio Teritorija\"",
@@ -466,6 +467,11 @@
     "vatcode": "LT100014684119"
   },
   {
+    "name": "MB \"Grožio studija Blondė\"",
+    "code": "307128016",
+    "address": "Kaunas, Taikos pr. 125-13, LT-50469"
+  },
+  {
     "name": "MB \"Grožio studija\"",
     "code": "306267511",
     "address": "Zarasų r. sav., Antalieptės sen., Padusčio k., Mokytojų g. 21, LT-32242"
@@ -652,9 +658,9 @@
     "address": "Klaipėda, Brožynų g. 5-16, LT-95214"
   },
   {
-    "name": "MB Augustės grožio studija",
-    "code": "305719942",
-    "address": "Palanga, Bangų g. 34-35, LT-00140"
+    "name": "MB As grožio studija",
+    "code": "307119597",
+    "address": "Klaipėda, Laukininkų g. 4-15, LT-95138"
   },
   {
     "name": "MB Aurimo Rupšlaukio grožio studija",
@@ -1366,12 +1372,6 @@
     "address": "Kauno miesto savivaldybės teritorija"
   },
   {
-    "name": "UAB \"Grožio namai Aurum\"",
-    "code": "301491217",
-    "address": "Šilalė, Kęstučio g. 6, LT-75121",
-    "vatcode": "LT100003745615"
-  },
-  {
     "name": "UAB \"Grožio namai VIS UNITA\"",
     "code": "301862537",
     "address": "Vilnius, Konstitucijos pr. 20, LT-09308",
@@ -1731,7 +1731,7 @@
   {
     "name": "\"Gamtos grožis\", MB",
     "code": "304724616",
-    "address": "Panevėžio r. sav., Panevėžio sen., Berčiūnų k., Sanžilės g. 40, LT-38362",
+    "address": "Panevėžio r. sav., Panevėžio sen., Berčiūnų k., Sanžilės g. 38, LT-38362",
     "vatcode": "LT100016901813"
   },
   {
@@ -1945,6 +1945,11 @@
     "name": "MB Simonos grožis",
     "code": "306992470",
     "address": "Kauno r. sav., Garliavos apylinkių sen., Seniavos k., Miestelėnų g. 20B-1, LT-53214"
+  },
+  {
+    "name": "MB XL grožis",
+    "code": "307127633",
+    "address": "Akmenės r. sav., Kruopių sen., Šapnagių k., Kaštonų g. 3, LT-85200"
   },
   {
     "name": "MB klinika \"Sveikata ir grožis\"",
