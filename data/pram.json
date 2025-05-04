@@ -11,7 +11,7 @@
     "vatcode": "LT100012253113"
   },
   {
-    "name": "MB \"Pramanas\"",
+    "name": "UAB \"Pramanas\"",
     "code": "304744483",
     "address": "Vilnius, Laisvės pr. 60-1107, LT-05120",
     "vatcode": "LT100014191211"
@@ -65,6 +65,11 @@
     "code": "302773792",
     "address": "Vilnius, Architektų g. 122-33, LT-04216",
     "vatcode": "LT100006844816"
+  },
+  {
+    "name": "Pramiegoti Pusryčiai Kupole",
+    "code": "307141387",
+    "address": "Kazlų Rūdos sav., Kazlų Rūdos sen., Kardokų k., Upelio g. 1A, LT-69386"
   },
   {
     "name": "Pramina, UAB",
@@ -386,6 +391,11 @@
     "address": "Plungė, Noriškių g. 16, LT-90131"
   },
   {
+    "name": "MB Menai ir pramogos",
+    "code": "307155369",
+    "address": "Kaunas, Vinčų g. 18-34, LT-46296"
+  },
+  {
     "name": "MB NJOY pramogos",
     "code": "305567986",
     "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Pakrantės al. 14, LT-54136"
@@ -452,6 +462,11 @@
     "vatcode": "LT100017030512"
   },
   {
+    "name": "Raubonių parko pramogos, UAB",
+    "code": "307136995",
+    "address": "Pasvalys, Joniškėlio g. 49C, LT-39114"
+  },
+  {
     "name": "Renginiai ir pramogos MB",
     "code": "306272330",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
@@ -460,7 +475,8 @@
   {
     "name": "Slėnio pramogos, MB",
     "code": "307056823",
-    "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Pušyno g. 2-5, LT-92404"
+    "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Pušyno g. 2-5, LT-92404",
+    "vatcode": "LT100017714010"
   },
   {
     "name": "UAB \"Angelų pramogos\"",
@@ -1591,8 +1607,7 @@
   },
   {
     "name": "Metalo pramonės darbuotojų profsąjungų susivienijimas",
-    "code": "291996780",
-    "address": "Vilnius, V. Mykolaičio-Putino g. 5-309"
+    "code": "291996780"
   },
   {
     "name": "Nacionalinė farmacijos pramonės asociacija",

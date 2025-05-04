@@ -414,11 +414,6 @@
     "address": "Vilnius, J. Basanavičiaus g. 26, LT-03224"
   },
   {
-    "name": "UAB Elevate Strategies",
-    "code": "307089809",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
-  },
-  {
     "name": "A. Delonaitės firma \"Karjeros strategija\"",
     "code": "135839625",
     "address": "Kaunas, Ukmergės g. 34-31, LT-49243"
@@ -432,7 +427,8 @@
   {
     "name": "MB \"Ir komunikacijos strategija\"",
     "code": "307128379",
-    "address": "Vilnius, S. Žukausko g. 23-26, LT-08234"
+    "address": "Vilnius, S. Žukausko g. 23-26, LT-08234",
+    "vatcode": "LT100017720517"
   },
   {
     "name": "MB \"Laisvalaikio strategija\"",
@@ -838,6 +834,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "Mažoji bendrija \"Proxima strategy\"",
+    "code": "307140506",
+    "address": "Kaunas, Žiemgalių g. 17-18, LT-48205"
+  },
+  {
     "name": "Mažoji bendrija Aurum strategy",
     "code": "307066739",
     "address": "Vilnius, Saulės g. 31-3, LT-10310"
@@ -1074,8 +1075,7 @@
   },
   {
     "name": "A. Stravinsko individuali įmonė",
-    "code": "158297354",
-    "address": "Jurbarkas, Kęstučio g. 12-37, LT-74162"
+    "code": "158297354"
   },
   {
     "name": "Kazimiero Stravinsko įmonė",
