@@ -6,6 +6,11 @@
     "vatcode": "LT234322113"
   },
   {
+    "name": "MB Filiadora",
+    "code": "307137271",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "\"ALI AHMAD OVERSEAS LINKS (SMC-PVT.) LIMITED\" filialas",
     "code": "302895910",
     "address": "Naujoji Akmenė, Respublikos g. 9-33, LT-85140"
@@ -94,11 +99,6 @@
     "name": "\"ERRS Company\" Lietuvos filialas",
     "code": "304730366",
     "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
-    "name": "\"Elecnor S.A. Lietuvos filialas\"",
-    "code": "305564869",
-    "address": "Vilnius, Upės g. 23, LT-08128"
   },
   {
     "name": "\"Exminton Invest\" OU filialas Lietuvoje",
@@ -971,11 +971,6 @@
     "address": "Panevėžys, S. Kerbedžio g. 54, LT-35113"
   },
   {
-    "name": "Akcinės bendrovės Panevėžio statybos trestas filialas \"Pastatų apdaila\"",
-    "code": "148001650",
-    "address": "Panevėžys, Tinklų g. 7, LT-35115"
-  },
-  {
     "name": "Akcinės bendrovės firmos \"Agrotiekimas\" Utenos filialas",
     "code": "184269121",
     "address": "Utena, Pramonės g. 13, LT-28216"
@@ -1694,7 +1689,7 @@
   {
     "name": "Epson Europe B.V. Lietuvos filialas",
     "code": "305569542",
-    "address": "Vilnius, Ukmergės g. 124, LT-08100"
+    "address": "Vilnius, Ukmergės g. 126, LT-08100"
   },
   {
     "name": "Epta Baltics OU Lietuvos filialas",
@@ -1809,7 +1804,7 @@
   {
     "name": "Family Health International (FHI 360) Lithuania filialas",
     "code": "305744276",
-    "address": "Vilnius, Totorių g. 20-9, LT-01121"
+    "address": "Vilnius, P. Vileišio g. 13-6, LT-10307"
   },
   {
     "name": "Ferrometal Oy filialas",
@@ -3987,6 +3982,11 @@
     "address": "Vilnius, A. Goštauto g. 40B, LT-03163"
   },
   {
+    "name": "PST Group AB filialas Pastatų apdaila",
+    "code": "148001650",
+    "address": "Panevėžys, Tinklų g. 7, LT-35115"
+  },
+  {
     "name": "PUP \"Hryshchanka i K\" filialas",
     "code": "304226163",
     "address": "Vilnius, Italų g. 17A-2, LT-11329"
@@ -4055,11 +4055,6 @@
     "name": "Peble Harbour OU filialas Lietuvoje",
     "code": "304862859",
     "address": "Vilnius, Blindžių g. 7, LT-08111"
-  },
-  {
-    "name": "Per Aarsleff A/S filialas",
-    "code": "302307182",
-    "address": "Kaunas, Partizanų g. 63M, LT-50306"
   },
   {
     "name": "Persian Gulf Company Ltd filialas",
@@ -4237,9 +4232,14 @@
     "address": "Klaipėda, I. Kanto g. 5, LT-92123"
   },
   {
+    "name": "ROYAL BOARD & PAPER MILLS (PRIVATE) LIMITED filialas",
+    "code": "307139906",
+    "address": "Vilnius, Veiverių g. 9B-1, LT-11346"
+  },
+  {
     "name": "RTAB \"Aquafilters\" filialas \"Aquafilters Baltic states\"",
     "code": "300031212",
-    "address": "Kauno r. sav., Neveronių sen., Neveronių k., Kertupio g. 3-1, LT-54487"
+    "address": "Kauno r. sav."
   },
   {
     "name": "RTFSR kūrybinio-gamybinio susivienijimo \"STRANNIK\" filialas",
@@ -4675,11 +4675,6 @@
     "name": "SIA \"S&P BALTIC\" LIETUVOS FILIALAS",
     "code": "302596908",
     "address": "Vilnius, Savanorių pr. 176C, LT-03154"
-  },
-  {
-    "name": "SIA \"SOLARIS BUS & COACH LATVIA\" filialas \"Solaris Bus & Coach Lithuania\"",
-    "code": "304597282",
-    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "SIA \"TARANTULA\" filialas \"TARANTULA LT\"",
@@ -5193,8 +5188,7 @@
   },
   {
     "name": "Transitos de Extremadura S.L. Transitex Lietuvos filialas",
-    "code": "301696745",
-    "address": "Vilnius, Kareivių g. 6, LT-09117"
+    "code": "301696745"
   },
   {
     "name": "TripCreator ehf. Lietuvos filialas",
@@ -5245,11 +5239,6 @@
     "name": "UAB \"AKORDAS 1\" Neringos filialas",
     "code": "305558631",
     "address": "Neringa, Pamario g. 47, LT-93124"
-  },
-  {
-    "name": "UAB \"ASG unit\" filialas \"West turas\"",
-    "code": "301154011",
-    "address": "Utenos r. sav., Utenos sen., Puodžių k., Vingio g. 18, LT-28435"
   },
   {
     "name": "UAB \"Administravimas ir auditas\" Klaipėdos filialas",
@@ -5695,6 +5684,11 @@
     "name": "UAB Kelmės vietinio ūkio filialas \"Kelmės mokesta\"",
     "code": "305407889",
     "address": "Kelmė, Dariaus ir Girėno g. 2A-1, LT-86136"
+  },
+  {
+    "name": "UAB Longevity lab Vilniaus filialas",
+    "code": "307154840",
+    "address": "Vilnius, A. Jaroševičiaus g. 17-3, LT-02112"
   },
   {
     "name": "UAB NEMOKUMO SPRENDIMAI Jonavos filialas",
@@ -7648,8 +7642,7 @@
   },
   {
     "name": "AB \"Lietuvos geležinkeliai\" filialo \"Vilniaus geležinkelių infrastruktūra\" Kontaktinių tinklų ir Elektros tiekimo ūkių darbuotojų profesinė sąjunga",
-    "code": "295757190",
-    "address": "Vilnius, Geležinkelio g. 14, LT-02100"
+    "code": "295757190"
   },
   {
     "name": "AB \"Lietuvos geležinkeliai\" filialo \"Šiaulių geležinkelių infrastruktūra\" profesinė sąjunga",
@@ -7670,11 +7663,6 @@
     "name": "Akcinės bendrovės \"Lietuvos energija\" filialo Kauno hidroelektrinės darbuotojų profesinė sąjunga",
     "code": "135545278",
     "address": "Kaunas, T. Masiulio g. 22A, LT-52439"
-  },
-  {
-    "name": "Akcinės bendrovės \"Pieno žvaigždės\" filialo \"Kauno pienas\" darbininkų profesinė sąjunga",
-    "code": "136036661",
-    "address": "Kaunas, Taikos pr. 90, LT-51181"
   },
   {
     "name": "Bendros TSRS-Švedijos-Lenkijos įmonės \"INTERPROGRESS\" Uralo filialo atstovybė",
@@ -7713,8 +7701,7 @@
   },
   {
     "name": "Uždarosios akcinės bendrovės \"LITESKO\" filialo \"Palangos šiluma\" profesinė sąjunga",
-    "code": "125190423",
-    "address": "Palanga, Klaipėdos pl. 63, LT-00148"
+    "code": "125190423"
   },
   {
     "name": "Vaikų ligoninės VšĮ VULSK filialo reabilitacijos skyriaus Druskininkų \"Saulutė\" profesinė sąjunga \"Solidarumas\"",
@@ -7797,6 +7784,11 @@
     "name": "UAB \"Filita\"",
     "code": "303467880",
     "address": "Vilniaus miesto savivaldybės teritorija"
+  },
+  {
+    "name": "MB Filiukas",
+    "code": "307141049",
+    "address": "Kaunas, Šarkuvos g. 32-76, LT-48167"
   },
   {
     "name": "MB Filiva",

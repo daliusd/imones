@@ -413,6 +413,11 @@
     "vatcode": "LT100001104018"
   },
   {
+    "name": "UAB Agro paslauga",
+    "code": "307154274",
+    "address": "Biržai, Žemaitės g. 4, LT-41170"
+  },
+  {
     "name": "UAB Elektro paslauga",
     "code": "306670512",
     "address": "Telšių r. sav., Ryškėnų sen., Užgirių k., Žemaičio Sodų 11-oji g. 15, LT-87417",
@@ -868,6 +873,11 @@
     "address": "Mažeikių r. sav., Šerkšnėnų sen., Žemalės k., Dionizo Poškos g. 2, LT-89416"
   },
   {
+    "name": "MB \"E.V Kokybiškos valymo paslaugos\"",
+    "code": "307140285",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB \"ES paslaugos\"",
     "code": "304565391",
     "address": "Šiauliai, Ežero g. 65-20, LT-76243"
@@ -892,6 +902,11 @@
     "name": "MB \"Elmo paslaugos\"",
     "code": "305698868",
     "address": "Vilnius, Broniaus Grigo g. 16, LT-11235"
+  },
+  {
+    "name": "MB \"Ets paslaugos\"",
+    "code": "307135320",
+    "address": "Klaipėda, Varpų g. 18-24, LT-94270"
   },
   {
     "name": "MB \"Europos paslaugos\"",
@@ -982,6 +997,11 @@
     "name": "MB \"Irūnos koncertinės paslaugos\"",
     "code": "304174147",
     "address": "Marijampolė, Gedimino g. 7-5, LT-68307"
+  },
+  {
+    "name": "MB \"JBA paslaugos\"",
+    "code": "307155134",
+    "address": "Ukmergės r. sav., Pivonijos sen., Buzų k., Buzų g. 4, LT-20331"
   },
   {
     "name": "MB \"Js paslaugos\"",
@@ -1328,6 +1348,11 @@
     "address": "Kretinga, Vilniaus g. 35-38, LT-97102"
   },
   {
+    "name": "MB \"Statybų priežiūros paslaugos\"",
+    "code": "307158760",
+    "address": "Vilnius, Liubčios g. 2-2, LT-14310"
+  },
+  {
     "name": "MB \"Stay paslaugos\"",
     "code": "306641763",
     "address": "Šilutė, Hermano Zudermano g. 3-36, LT-99177"
@@ -1467,6 +1492,11 @@
     "vatcode": "LT100012266216"
   },
   {
+    "name": "MB \"Įrengimo paslaugos\"",
+    "code": "307155102",
+    "address": "Kaunas, Tuopų aklg. 17-2, LT-47222"
+  },
+  {
     "name": "MB \"Šarūno autovežio paslaugos\"",
     "code": "304182382",
     "address": "Rokiškis, Taikos g. 11-41, LT-42142"
@@ -1599,6 +1629,11 @@
     "code": "305557561",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
     "vatcode": "LT100017090917"
+  },
+  {
+    "name": "MB Edgard suvirinimo paslaugos",
+    "code": "307154872",
+    "address": "Vilnius, Parko g. 7-3, LT-11203"
   },
   {
     "name": "MB El paslaugos",
@@ -1835,6 +1870,11 @@
     "name": "MB Testavimo paslaugos",
     "code": "306245372",
     "address": "Vilnius, Kernavės g. 17-122, LT-09300"
+  },
+  {
+    "name": "MB Tralo paslaugos",
+    "code": "307137467",
+    "address": "Šalčininkų r. sav., Baltoji Vokė, Vilniaus g. 19-3, LT-17235"
   },
   {
     "name": "MB UNO paslaugos",
@@ -3489,8 +3529,7 @@
   },
   {
     "name": "Alytaus medienos apdirbimo ir paslaugų įmonių profesinė sąjunga",
-    "code": "150079713",
-    "address": "Alytus, Naujoji g. 124, LT-62175"
+    "code": "150079713"
   },
   {
     "name": "Alytaus miesto paslaugų centras",
@@ -4752,8 +4791,7 @@
   },
   {
     "name": "MB \"Finansų valdymo ir apskaitos paslaugų centras\"",
-    "code": "305527194",
-    "address": "Vilnius, Ligoninės g. 5-1, LT-01134"
+    "code": "305527194"
   },
   {
     "name": "MB \"Inžinerinių paslaugų partneris\"",
@@ -5088,8 +5126,7 @@
   },
   {
     "name": "P. Patalausko radijotechninių paslaugų įmonė",
-    "code": "183665114",
-    "address": "Utena, Taikos g. 4-24, LT-28153"
+    "code": "183665114"
   },
   {
     "name": "PLUNGĖS SOCIALINIŲ PASLAUGŲ CENTRAS",
@@ -5341,11 +5378,6 @@
     "address": "Marijampolė, Kauno g. 113A-29"
   },
   {
-    "name": "Radviliškio parapijos bendruomenės socialinių paslaugų centras",
-    "code": "302580487",
-    "address": "Radviliškis, Maironio g. 8A, LT-82133"
-  },
-  {
     "name": "Radviliškio rajono Socialinių paslaugų centras",
     "code": "300074929",
     "address": "Radviliškis, Aušros a. 10, LT-82196"
@@ -5354,6 +5386,11 @@
     "name": "Radviliškio rajono savivaldybės švietimo ir sporto paslaugų centras",
     "code": "302296387",
     "address": "Radviliškis, Radvilų g. 17, LT-82177"
+  },
+  {
+    "name": "Radviliškio socialinių paslaugų centras",
+    "code": "302580487",
+    "address": "Radviliškis, Maironio g. 8A, LT-82133"
   },
   {
     "name": "Raseinių socialinių paslaugų centras",
@@ -6375,7 +6412,7 @@
   {
     "name": "Verslo paslaugų servisas, MB",
     "code": "305662060",
-    "address": "Kaunas, Vandžiogalos pl. 96, LT-47469",
+    "address": "Kaunas, R. Kalantos g. 59, LT-52304",
     "vatcode": "LT100013579515"
   },
   {

@@ -314,11 +314,6 @@
     "vatcode": "LT100015956512"
   },
   {
-    "name": "MB \"Tvorų meistrai\"",
-    "code": "304849121",
-    "address": "Panevėžio r. sav., Panevėžio sen., Šilagalio k., Sodžiaus g. 2, LT-36220"
-  },
-  {
     "name": "MB \"Veido meistrai\"",
     "code": "305204522",
     "address": "Kaunas, Elektrėnų g. 8N, LT-51221"
@@ -407,7 +402,8 @@
   {
     "name": "MB Krosnių meistrai",
     "code": "307093864",
-    "address": "Vilnius, Gurių Sodų 32-oji g. 5, LT-11316"
+    "address": "Vilnius, Gurių Sodų 32-oji g. 5, LT-11316",
+    "vatcode": "LT100017719112"
   },
   {
     "name": "MB Masažų meistrai",
@@ -420,6 +416,11 @@
     "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105"
   },
   {
+    "name": "MB Meistrai",
+    "code": "307139774",
+    "address": "Klaipėda, Statybininkų pr. 16-38, LT-94226"
+  },
+  {
     "name": "MB Meistrai langams",
     "code": "306376222",
     "address": "Panevėžio r. sav., Velžio sen., Velželio k., Aušrinės g. 1B, LT-38123",
@@ -430,6 +431,11 @@
     "code": "306717321",
     "address": "Kretingos r. sav., Žalgirio sen., Rubulių k., Ramioji g. 9, LT-97345",
     "vatcode": "LT100017242216"
+  },
+  {
+    "name": "MB Plovimo meistrai",
+    "code": "307151488",
+    "address": "Panevėžio r. sav., Ramygalos sen., Aukštadvario k., Pirties g. 5A, LT-38255"
   },
   {
     "name": "MB Truopni meistrai",
@@ -744,6 +750,11 @@
     "address": "Klaipėda, Šturmanų g. 18, LT-93201"
   },
   {
+    "name": "UAB Grunto meistrai",
+    "code": "307158212",
+    "address": "Vilniaus r. sav., Zujūnų sen., Karveliškių k., Brolių g. 14, LT-14167"
+  },
+  {
     "name": "UAB Liejamų dangų meistrai",
     "code": "305454091",
     "address": "Vilniaus r. sav., Zujūnų sen., Papiškių k., Sūkurio g. 24, LT-06292",
@@ -855,9 +866,19 @@
     "address": "Vilnius, Algirdo g. 41-6, LT-03216"
   },
   {
+    "name": "MB \"Grindinio Meistras\"",
+    "code": "307153731",
+    "address": "Klaipėda, H. Manto g. 76, LT-92222"
+  },
+  {
     "name": "MB \"Kaulo meistras\"",
     "code": "305981179",
     "address": "Vilnius, Statybininkų g. 1-7, LT-03205"
+  },
+  {
+    "name": "MB \"Kitas meistras\"",
+    "code": "307140132",
+    "address": "Jonavos r. sav., Šveicarijos sen., Albertavos k., Tvenkinio g. 11, LT-55107"
   },
   {
     "name": "MB \"Meistras ir Margarita\"",
@@ -1495,7 +1516,7 @@
   {
     "name": "UAB MEISTRŲ PAGALBA",
     "code": "305489929",
-    "address": "Vilnius, Rasytės g. 5, LT-06227"
+    "address": "Vilnius, Bitėnų g. 1C-35, LT-06236"
   },
   {
     "name": "UAB Meistrų verslo centras",

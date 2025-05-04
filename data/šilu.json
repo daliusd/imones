@@ -335,8 +335,7 @@
   },
   {
     "name": "Uždarosios akcinės bendrovės \"LITESKO\" filialo \"Palangos šiluma\" profesinė sąjunga",
-    "code": "125190423",
-    "address": "Palanga, Klaipėdos pl. 63, LT-00148"
+    "code": "125190423"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"Lazdijų šiluma\" profesinė sąjunga",
@@ -539,7 +538,8 @@
   {
     "name": "MB Šilumos kūrėjai",
     "code": "307126645",
-    "address": "Vilniaus r. sav., Zujūnų sen., Platiniškių k., Adomo Mickevičiaus g. 27, LT-14167"
+    "address": "Vilniaus r. sav., Zujūnų sen., Platiniškių k., Adomo Mickevičiaus g. 27, LT-14167",
+    "vatcode": "LT100017723918"
   },
   {
     "name": "Specialios paskirties uždarosios akcinės bendrovės \"Šalčininkų šilumos tinklai\" profesinė sąjunga",
@@ -560,11 +560,6 @@
     "name": "UAB \"Mažeikių šilumos tinklai\" darbuotojų profesinė sąjunga",
     "code": "167372521",
     "address": "Mažeikiai, Montuotojų g. 10, LT-89101"
-  },
-  {
-    "name": "UAB \"Palangos šilumos tinklai\" profesinė sąjunga",
-    "code": "125185052",
-    "address": "Palanga, Klaipėdos pl. 63, LT-00148"
   },
   {
     "name": "UAB \"Prienų šilumos tinklai\"",
@@ -832,11 +827,6 @@
     "address": "Ignalina, Vasario 16-osios g. 41, LT-30112"
   },
   {
-    "name": "Uždarosios akcinės bendrovės \"Kretingos šilumos tinklai\" profesinė sąjunga",
-    "code": "164585368",
-    "address": "Kretinga, Žalioji g. 3, LT-97145"
-  },
-  {
     "name": "Uždarosios akcinės bendrovės \"Tauragės šilumos tinklai\" profesinė sąjunga",
     "code": "179722171",
     "address": "Tauragė, Prezidento g. 72, LT-72238"
@@ -930,6 +920,11 @@
     "name": "Asociacija \"Šilutės garažai\"",
     "code": "302427388",
     "address": "Šilutė, Jaunimo al. 6-11, LT-99119"
+  },
+  {
+    "name": "Asociacija \"Šilutės krepšinio ateitis\"",
+    "code": "307140164",
+    "address": "Šilutė, Taikos g. 19-2, LT-99122"
   },
   {
     "name": "Asociacija Šilutės krašto ūkininkų sąjunga",

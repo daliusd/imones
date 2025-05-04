@@ -874,7 +874,7 @@
   {
     "name": "UAB \"Radijo parkas\"",
     "code": "304912372",
-    "address": "Kaunas, Žemaičių g. 31-103, LT-44175",
+    "address": "Kaunas, Žemaičių g. 31-117, LT-44175",
     "vatcode": "LT100012516915"
   },
   {
@@ -1084,12 +1084,14 @@
   {
     "name": "UAB KAUNO PARKAS A",
     "code": "306985401",
-    "address": "Kaunas, Draugystės g. 15A, LT-51227"
+    "address": "Kaunas, Draugystės g. 15A, LT-51227",
+    "vatcode": "LT100017715614"
   },
   {
     "name": "UAB KAUNO PARKAS B",
     "code": "306985426",
-    "address": "Kaunas, Draugystės g. 15A, LT-51227"
+    "address": "Kaunas, Draugystės g. 15A, LT-51227",
+    "vatcode": "LT100017715816"
   },
   {
     "name": "UAB KI parkas",
@@ -1117,7 +1119,7 @@
   {
     "name": "UAB NT parkas",
     "code": "307038280",
-    "address": "Vilnius, Giedraičių g. 98-2, LT-08214"
+    "address": "Klaipėda, Tiltų g. 19, LT-91249"
   },
   {
     "name": "UAB Nuotykių parkas",
@@ -1130,6 +1132,11 @@
     "code": "304081860",
     "address": "Panevėžys, Pramonės g. 8, LT-35100",
     "vatcode": "LT100009624310"
+  },
+  {
+    "name": "UAB Panevėžio statybų parkas",
+    "code": "307141743",
+    "address": "Panevėžys, Beržų g. 34, LT-36202"
   },
   {
     "name": "UAB Pelėdų parkas",
@@ -1549,11 +1556,6 @@
     "vatcode": "LT100008291619"
   },
   {
-    "name": "UAB \"VILNIAUS PARKAVIMO KOMPANIJA\" DARBININKŲ PROFESINĖ SĄJUNGA",
-    "code": "125093376",
-    "address": "Vilnius, Naugarduko g. 97, LT-03160"
-  },
-  {
     "name": "UAB \"Vertikalaus parkavimo sprendimai\"",
     "code": "305682846",
     "address": "Vilnius, Didžioji g. 39-41, LT-01128",
@@ -1582,8 +1584,7 @@
   },
   {
     "name": "Uždaroji akcinė bendrovė \"PARKESTA\"",
-    "code": "123446870",
-    "address": "Vilniaus miesto savivaldybės teritorija"
+    "code": "123446870"
   },
   {
     "name": "UAB \"Parket Trade\"",
@@ -1930,8 +1931,7 @@
   },
   {
     "name": "Parko g. 18a, 24, 26 daugiabučių namų savininkų bendrija",
-    "code": "300045571",
-    "address": "Panevėžio r. sav., Ramygala, Parko g. 18B-10, LT-38262"
+    "code": "300045571"
   },
   {
     "name": "Parko g. 19 daugiabučio namo butų savininkų bendrija",
@@ -2097,6 +2097,11 @@
     "name": "Prienų autobusų parko darbuotojų profesinė sąjunga",
     "code": "270789390",
     "address": "Prienai, Vytauto g. 11, LT-59114"
+  },
+  {
+    "name": "Raubonių parko pramogos, UAB",
+    "code": "307136995",
+    "address": "Pasvalys, Joniškėlio g. 49C, LT-39114"
   },
   {
     "name": "Rokiškio m. Parko g. 30-ojo daugiabučio namo savininkų bendrija",
@@ -2268,7 +2273,7 @@
   {
     "name": "Vilniaus rajono autobusų parko profesinė sąjunga",
     "code": "305268592",
-    "address": "Vilniaus r. sav., Nemenčinė, Bažnyčios g. 3, LT-15172"
+    "address": "Vilnius, Parko g. 34-5, LT-11215"
   },
   {
     "name": "VšĮ \"Parko jonvabaliai\"",
@@ -2311,8 +2316,7 @@
   },
   {
     "name": "UAB Parksa",
-    "code": "302792981",
-    "address": "Kaunas, Taikos pr. 141, LT-51132"
+    "code": "302792981"
   },
   {
     "name": "MB Parkshare",

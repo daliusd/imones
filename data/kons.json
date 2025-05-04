@@ -450,6 +450,11 @@
     "vatcode": "LT100002576016"
   },
   {
+    "name": "MB \"Drabužių konstravimas\"",
+    "code": "307159990",
+    "address": "Kaunas, Liepų g. 7-2, LT-46265"
+  },
+  {
     "name": "MB \"Statinių konstravimas\"",
     "code": "305294911",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282",
@@ -677,6 +682,11 @@
     "code": "306245155",
     "address": "Kaunas, I. Štaro g. 16-1, LT-47484",
     "vatcode": "LT100016847815"
+  },
+  {
+    "name": "MB Marvap konstrukcijos",
+    "code": "307138487",
+    "address": "Vilniaus r. sav., Paberžės sen., Lygialaukio k., Vilniaus g. 75-4, LT-14273"
   },
   {
     "name": "MB Modulinės konstrukcijos",
@@ -1017,6 +1027,11 @@
     "vatcode": "LT100016512611"
   },
   {
+    "name": "UAB Konstrukcijų projektavimas konpro",
+    "code": "307160238",
+    "address": "Vilnius, Rokantiškių Sodų 7-oji g. 24, LT-10252"
+  },
+  {
     "name": "UAB Statinių konstrukcijų projektavimo biuras",
     "code": "300585674",
     "address": "Klaipėda, Turgaus a. 21, LT-91246",
@@ -1129,8 +1144,7 @@
   },
   {
     "name": "UAB \"Konstruktion byg\"",
-    "code": "305916854",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "code": "305916854"
   },
   {
     "name": "MB Konstrukto",
@@ -1183,7 +1197,7 @@
   {
     "name": "Muzikinių konstruktorių asociacija",
     "code": "302586344",
-    "address": "Visagino savivaldybės teritorija"
+    "address": "Visaginas, Festivalio g. 15-31, LT-31145"
   },
   {
     "name": "Statybos konstruktorių sąjunga",
@@ -1334,6 +1348,11 @@
     "name": "MB \"Pirmoji vaikų konsultacija\"",
     "code": "304414539",
     "address": "Vilniaus r. sav., Zujūnų sen., Gineitiškių k., Gineitiškių g. 6, LT-14159"
+  },
+  {
+    "name": "MB \"Pokyčių link\" konsultacija",
+    "code": "307136536",
+    "address": "Vilnius, Rudnios g. 30-2, LT-08216"
   },
   {
     "name": "MB Rami konsultacija",
@@ -1491,6 +1510,11 @@
     "name": "Kristinos konsultacijos MB",
     "code": "306287948",
     "address": "Vilnius, Perkūnkiemio g. 49-49, LT-12144"
+  },
+  {
+    "name": "Lauryno konsultacijos, MB",
+    "code": "307148691",
+    "address": "Vilniaus r. sav., Bezdonių sen., Sakiškių k., Girelės g. 13, LT-15184"
   },
   {
     "name": "M. Raulinaičio firma \"APLINKOS APSAUGOS KONSULTACIJOS\"",
@@ -1768,7 +1792,7 @@
   {
     "name": "MB \"PG konsultacijos\"",
     "code": "306414491",
-    "address": "Kaunas, Priešbalių g. 11, LT-45478",
+    "address": "Kaunas, Užnerio g. 51C, LT-47491",
     "vatcode": "LT100016278312"
   },
   {
@@ -2270,20 +2294,10 @@
     "address": "Vilnius, Tolminkiemio g. 23-49, LT-06212"
   },
   {
-    "name": "UAB \"AKS konsultacijos\"",
-    "code": "305284785",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
-  },
-  {
     "name": "UAB \"APSKAITOS IR MOKESČIŲ KONSULTACIJOS\"",
     "code": "125654457",
     "address": "Vilnius, Antakalnio g. 48A-206, LT-10304",
     "vatcode": "LT256544515"
-  },
-  {
-    "name": "UAB \"Analitinės finansinės konsultacijos\"",
-    "code": "304287419",
-    "address": "Vilnius, Ukmergės g. 239-302, LT-07100"
   },
   {
     "name": "UAB \"Andeimedia konsultacijos\"",
@@ -3208,7 +3222,8 @@
   {
     "name": "Arnoldo Ramanausko konsultacinė firma IĮ",
     "code": "122552422",
-    "address": "Vilnius, A. Vivulskio g. 16-11, LT-03115"
+    "address": "Vilnius, A. Vivulskio g. 16-11, LT-03115",
+    "vatcode": "LT225524219"
   },
   {
     "name": "Arūno Liogės konsultacinė firma",
@@ -3379,8 +3394,7 @@
   },
   {
     "name": "Viktoro Vorobjovo konsultacinė individuali įmonė",
-    "code": "300548252",
-    "address": "Vilnius, Rugių g. 8B-41, LT-08430"
+    "code": "300548252"
   },
   {
     "name": "Viliaus Vizbaro konsultacinė firma",
@@ -3739,13 +3753,11 @@
   },
   {
     "name": "IĮ \"Baltijos konsultavimo grupė\"",
-    "code": "303134769",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "code": "303134769"
   },
   {
     "name": "IĮ \"Senoji konsultavimo įmonė Europoje\"",
-    "code": "303169371",
-    "address": "Rokiškio r. sav., Panemunėlio sen., Panemunėlio glž. st., Jaunystės g. 2-8, LT-42325"
+    "code": "303169371"
   },
   {
     "name": "Konsultavimo ir socialinės pagalbos asociacija \"Joandra\"",

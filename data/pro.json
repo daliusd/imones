@@ -306,6 +306,11 @@
     "address": "Klaipėda, Bangų g. 7A-1, LT-91250"
   },
   {
+    "name": "MB \"Kebabai pro\"",
+    "code": "307154993",
+    "address": "Klaipėda, Taikos pr. 18-13, LT-91224"
+  },
+  {
     "name": "MB \"Loyalty Pro\"",
     "code": "306217405",
     "address": "Vilnius, Konstitucijos pr. 15-21, LT-09319"
@@ -501,9 +506,19 @@
     "address": "Kaunas, Kybartų g. 23-2, LT-46207"
   },
   {
+    "name": "MB Amilo pro",
+    "code": "307157669",
+    "address": "Plungė, Rietavo g. 23, LT-90161"
+  },
+  {
     "name": "MB Ank pro",
     "code": "307131681",
     "address": "Vilnius, Švitrigailos g. 16-202, LT-03223"
+  },
+  {
+    "name": "MB Autofortuna pro",
+    "code": "307159061",
+    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Kanalo g. 1, LT-54310"
   },
   {
     "name": "MB Ava pro",
@@ -721,6 +736,11 @@
     "name": "MB Pro-apdaila",
     "code": "306391982",
     "address": "Klaipėda, Šatrijos g. 4, LT-93172"
+  },
+  {
+    "name": "MB Product Pro",
+    "code": "307145250",
+    "address": "Alytaus r. sav., Alytaus sen., Likiškėlių k., Tėviškės g. 39, LT-62442"
   },
   {
     "name": "MB Project pro",
@@ -943,12 +963,17 @@
   {
     "name": "Rafaelis pro, IĮ",
     "code": "305711874",
-    "address": "Vilnius, Taikos g. 61-11, LT-05246"
+    "address": "Trakų r. sav., Lentvario sen., Kiemeliškių k., Grigiškių g. 14F, LT-25100"
+  },
+  {
+    "name": "Rentera Pro, MB",
+    "code": "307149754",
+    "address": "Vilniaus r. sav., Sužionių sen., Pajuodupio k., Kun. Antonijaus Dzekano g. 55, LT-15111"
   },
   {
     "name": "Sanus Pro UAB",
     "code": "306681996",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "address": "Vilnius, Kolektyvo g. 204, LT-08350",
     "vatcode": "LT100016840717"
   },
   {
@@ -1081,6 +1106,11 @@
     "vatcode": "LT100006557913"
   },
   {
+    "name": "UAB \"Cevas pro\"",
+    "code": "307139219",
+    "address": "Klaipėda, Danės g. 15, LT-92117"
+  },
+  {
     "name": "UAB \"Communication PRO\"",
     "code": "305391470",
     "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
@@ -1164,7 +1194,7 @@
   {
     "name": "UAB \"FlowTech Pro\"",
     "code": "304440473",
-    "address": "Vilnius, Laurų g. 36F, LT-10150",
+    "address": "Vilnius, Ozo g. 24-24, LT-07151",
     "vatcode": "LT100010794616"
   },
   {
@@ -1457,11 +1487,6 @@
     "vatcode": "LT100006906012"
   },
   {
-    "name": "UAB \"Pro 100 sait\"",
-    "code": "305360165",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
     "name": "UAB \"Pro Clean LT\"",
     "code": "302465182",
     "address": "Vilnius, Adutiškio g. 3-3, LT-02112",
@@ -1504,7 +1529,7 @@
   {
     "name": "UAB \"Pro Medical Baltic\"",
     "code": "302103589",
-    "address": "Kaunas, K. Donelaičio g. 62-1, LT-44248",
+    "address": "Kaunas, Savanorių pr. 276-209, LT-50200",
     "vatcode": "LT100006500916"
   },
   {
@@ -1754,11 +1779,6 @@
     "vatcode": "LT100013163311"
   },
   {
-    "name": "UAB Express PRO K64",
-    "code": "306333897",
-    "address": "Kaunas, Savanorių pr. 290, LT-49473"
-  },
-  {
     "name": "UAB Express PRO KAU26",
     "code": "306950051",
     "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
@@ -1822,7 +1842,8 @@
   {
     "name": "UAB Inter Pro",
     "code": "306799635",
-    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Žirgupės g. 20C, LT-14184"
+    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Žirgupės g. 20C, LT-14184",
+    "vatcode": "LT100017717610"
   },
   {
     "name": "UAB Inter Pro Solutions Group",
@@ -1832,8 +1853,7 @@
   },
   {
     "name": "UAB Kauno komunalinio ir butų ūkio darbuotojų profesinė sąjunga \"KKBŪ PRO\"",
-    "code": "303197036",
-    "address": "Kaunas, Chemijos g. 18, LT-51339"
+    "code": "303197036"
   },
   {
     "name": "UAB LOGUS PRO",
@@ -1845,6 +1865,11 @@
     "name": "UAB MIST PRO",
     "code": "306393830",
     "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
+  },
+  {
+    "name": "UAB Medical pro",
+    "code": "307142286",
+    "address": "Vilnius, Pramonės g. 141-8, LT-11115"
   },
   {
     "name": "UAB Medis pro",
@@ -1886,6 +1911,11 @@
     "vatcode": "LT100011146714"
   },
   {
+    "name": "UAB PRO T&G",
+    "code": "307145193",
+    "address": "Varėnos r. sav., Valkininkų sen., Degsnių k., Degsnių g. 34, LT-65437"
+  },
+  {
     "name": "UAB PRO-IMPEX",
     "code": "303043497",
     "address": "Vilnius, Mūrinės Vokės g. 7-3, LT-25140",
@@ -1901,6 +1931,11 @@
     "code": "303181982",
     "address": "Vilnius, Vingrių g. 3, LT-01118",
     "vatcode": "LT100008638113"
+  },
+  {
+    "name": "UAB Pro Deal",
+    "code": "307135815",
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
   },
   {
     "name": "UAB Pro Dex Soft",
@@ -1922,6 +1957,11 @@
     "code": "305523915",
     "address": "Vilnius, Žaliųjų Ežerų g. 3-29, LT-08408",
     "vatcode": "LT100013424017"
+  },
+  {
+    "name": "UAB Pro gamyba",
+    "code": "307139728",
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
   },
   {
     "name": "UAB Pro legal",
@@ -2076,8 +2116,7 @@
   },
   {
     "name": "Viešoji įstaiga \"Pro Consulto\"",
-    "code": "300572328",
-    "address": "Vilnius, S. Konarskio g. 4B-5, LT-03122"
+    "code": "300572328"
   },
   {
     "name": "Viešoji įstaiga \"Pro et Contra\"",
