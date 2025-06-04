@@ -102,7 +102,8 @@
   {
     "name": "MB \"Zujevo komercija\"",
     "code": "306995096",
-    "address": "Šiauliai, Trakų g. 24-12, LT-76292"
+    "address": "Šiauliai, Trakų g. 24-12, LT-76292",
+    "vatcode": "LT100017855317"
   },
   {
     "name": "MB Komercija ir prekyba",
@@ -233,11 +234,6 @@
     "address": "Prienai, S. Nėries g. 9, LT-59123"
   },
   {
-    "name": "Artūro Kavaliausko gamybos ir komercijos įmonė",
-    "code": "165708539",
-    "address": "Marijampolės sav., Marijampolės sen., Meškėnų k."
-  },
-  {
     "name": "Astos Aksomaitienės komercijos įmonė",
     "code": "170629335",
     "address": "Prienų r. sav., Veiveriai, Gėlių g. 4, LT-59293",
@@ -263,11 +259,6 @@
     "code": "174357516",
     "address": "Šakių r. sav., Šakių sen., Išdagų k.",
     "vatcode": "LT743575113"
-  },
-  {
-    "name": "Egidijaus Liutvinsko komercijos ir paslaugų įmonė",
-    "code": "170703351",
-    "address": "Prienų r. sav., Stakliškių sen., Pieštuvėnų k."
   },
   {
     "name": "El. komercijos projektai MB",
@@ -308,11 +299,6 @@
     "name": "Janinos Lugauskienės komercijos įmonė",
     "code": "170706080",
     "address": "Prienų r. sav., Ašmintos sen., Strielčių k."
-  },
-  {
-    "name": "Janės Dominaitienės paslaugų ir komercijos įmonė",
-    "code": "151312412",
-    "address": "Marijampolė, Medžiotojų g. 45, LT-68272"
   },
   {
     "name": "Jaunučio Bugvilo komercijos ir paslaugų įmonė",
@@ -402,11 +388,6 @@
     "address": "Prienų r. sav., Balbieriškis, Kovo 8-osios g. 6, LT-59241"
   },
   {
-    "name": "R. Žvirono gamybos ir komercijos įmonė",
-    "code": "165657482",
-    "address": "Marijampolės sav., Marijampolės sen., Adomiškių k."
-  },
-  {
     "name": "Ramunės Švedienės komercijos įmonė",
     "code": "170714180",
     "address": "Prienų r. sav., Stakliškių sen., Stakliškių k., Kauno g. 2, LT-59371"
@@ -455,11 +436,6 @@
     "name": "Vet. gydytojo G. Lečo paslaugų ir komercijos įmonė",
     "code": "169941779",
     "address": "Rietavas, Kaštonų g. 3, LT-90310"
-  },
-  {
-    "name": "Vidmanto Vabalo komercijos įmonė",
-    "code": "170692638",
-    "address": "Prienų r. sav., Pakuonio sen., Purvininkų k."
   },
   {
     "name": "Vyto Marozo komercijos įmonė",
@@ -627,11 +603,6 @@
     "vatcode": "LT700194811"
   },
   {
-    "name": "A. Drungilo komercinė įmonė",
-    "code": "164271741",
-    "address": "Kretinga, Kęstučio g. 9-19, LT-97142"
-  },
-  {
     "name": "A. Dunio komercinė firma",
     "code": "140710767",
     "address": "Klaipėda, Kuncų g. 11-32, LT-95207"
@@ -648,11 +619,6 @@
     "vatcode": "LT699554113"
   },
   {
-    "name": "A. Gerulio komercinė įmonė",
-    "code": "163330724",
-    "address": "Klaipėdos r. sav., Veiviržėnai, Žemaičių g. 3, LT-96273"
-  },
-  {
     "name": "A. Gintvainio gamybinė-komercinė įmonė",
     "code": "171027374",
     "address": "Plungės r. sav., Žemaičių Kalvarijos sen., Šašaičių k., Girkantės g. 3, LT-90445",
@@ -667,16 +633,6 @@
     "name": "A. J. Sargaučio komercinė firma \"ANSAR\"",
     "code": "121175064",
     "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
-    "name": "A. Jakumo komercinė - ūkinė įmonė",
-    "code": "164095179",
-    "address": "Kretinga, Vytauto g. 43-11, LT-97132"
-  },
-  {
-    "name": "A. Jasilionio komercinė įmonė \"Jauda\"",
-    "code": "263342460",
-    "address": "Gargždai, Klaipėdos g. 34-4, LT-96123"
   },
   {
     "name": "A. Joniko komercinė firma \"Cerera\"",
@@ -697,7 +653,7 @@
   {
     "name": "A. Klinkovo komercinė firma",
     "code": "141290113",
-    "address": "Klaipėda, Smiltelės g. 39-12, LT-94261"
+    "address": "Klaipėda, Minijos g. 115-8, LT-93231"
   },
   {
     "name": "A. Klišonio komercinė firma \"Inesa\"",
@@ -717,19 +673,9 @@
     "vatcode": "LT801867610"
   },
   {
-    "name": "A. Malkenzono komercinė gamybinė firma \"Malha\"",
-    "code": "140416057",
-    "address": "Klaipėda, Šlaito g. 2A, LT-92282"
-  },
-  {
     "name": "A. Montvydo komercinė firma",
     "code": "140741289",
     "address": "Klaipėda, Reikjaviko g. 1-49, LT-94245"
-  },
-  {
-    "name": "A. Mėčiaus komercinė įmonė",
-    "code": "263306610",
-    "address": "Klaipėda, Stadiono g. 9, LT-92271"
   },
   {
     "name": "A. Padroščio komercinė įmonė",
@@ -758,11 +704,6 @@
     "vatcode": "LT100001655418"
   },
   {
-    "name": "A. Rusino komercinė firma \"Rumeta\"",
-    "code": "141270235",
-    "address": "Klaipėda, Paryžiaus Komunos g. 2-18, LT-91149"
-  },
-  {
     "name": "A. Skėrio gamybinė-komercinė firma \"VED\"",
     "code": "140117133",
     "address": "Klaipėda, J. Janonio g. 9-8, LT-92236"
@@ -771,11 +712,6 @@
     "name": "A. Stepušaitienės komercinė firma \"DARNA\"",
     "code": "240776960",
     "address": "Klaipėda, Vingio g. 3-13, LT-95197"
-  },
-  {
-    "name": "A. Vaitiekūno komercinė firma",
-    "code": "162520681",
-    "address": "Kelmės r. sav., Kelmės apylinkių sen., Naudvario k."
   },
   {
     "name": "A. Vasiljevos komercinė įmonė",
@@ -856,12 +792,6 @@
     "address": "Akmenės rajono savivaldybės teritorija"
   },
   {
-    "name": "Albino Buškaus komercinė gamybinė įmonė \"Asta\"",
-    "code": "171273319",
-    "address": "Radviliškis, Maironio g. 4-3",
-    "vatcode": "LT712733113"
-  },
-  {
     "name": "Algimanto Gavėnios komercinė firma",
     "code": "179343545",
     "address": "Tauragė, D. Poškos g. 20, LT-72300",
@@ -927,11 +857,6 @@
     "address": "Šiauliai, Vilniaus g. 155-21, LT-76352"
   },
   {
-    "name": "Bėgikų klubo \"Maratonas\" komercinė įmonė",
-    "code": "140262876",
-    "address": "Klaipėda, Teatro g. 1, LT-91247"
-  },
-  {
     "name": "D. JANČAUSKIENĖS KOMERCINĖ FIRMA",
     "code": "163689410",
     "address": "Klaipėdos r. sav., Priekulė, Klaipėdos g. 9, LT-96341",
@@ -956,7 +881,8 @@
   {
     "name": "D. Matulienės komercinė firma",
     "code": "140770554",
-    "address": "Klaipėda, Aguonų g. 16, LT-91264"
+    "address": "Klaipėda, Aguonų g. 16, LT-91264",
+    "vatcode": "LT407705515"
   },
   {
     "name": "D. Mažeikos gamybinė-komercinė individuali įmonė",
@@ -1007,20 +933,10 @@
     "address": "Vilnius, Bitininkų g. 25, LT-08417"
   },
   {
-    "name": "E. Beržinsko komercinė firma",
-    "code": "140577594",
-    "address": "Klaipėda, Aušros g. 24, LT-92279"
-  },
-  {
     "name": "E. Bundausko gamybinė-komercinė įmonė",
     "code": "270046020",
     "address": "Plungės r. sav., Žemaičių Kalvarija, Alsėdžių g. 35, LT-90443",
     "vatcode": "LT700460219"
-  },
-  {
-    "name": "E. Eidintienės komercinė įmonė",
-    "code": "169719967",
-    "address": "Plungė, J. Tumo-Vaižganto g. 8, LT-90125"
   },
   {
     "name": "E. Lingio komercinė firma",
@@ -1031,11 +947,6 @@
     "name": "E. Marcinkevičiaus komercinė firma",
     "code": "163307483",
     "address": "Klaipėdos r. sav., Veiviržėnų sen., Šalpėnų k., Parko g. 4, LT-96280"
-  },
-  {
-    "name": "E. Martusevičiaus komercinė firma",
-    "code": "140933841",
-    "address": "Klaipėda, Markučių g. 1-15, LT-95249"
   },
   {
     "name": "E. Petrutienės komercinė įmonė \"Rėja\"",
@@ -1062,11 +973,6 @@
     "name": "G. Andrijauskienės komercinė įmonė",
     "code": "271040650",
     "address": "Rietavas, Plungės g. 11A, LT-90313"
-  },
-  {
-    "name": "G. Butkienės gamybinė-komercinė įmonė",
-    "code": "169768544",
-    "address": "Plungė, V. Mačernio g. 7-15, LT-90140"
   },
   {
     "name": "G. Girdvainio komercinė firma",
@@ -1104,29 +1010,14 @@
     "vatcode": "LT641900219"
   },
   {
-    "name": "G. Ziko komercinė įmonė \"EIDAS\"",
-    "code": "140460954",
-    "address": "Klaipėda, Darželio g. 11-5, LT-93195"
-  },
-  {
     "name": "Gamybos-komercinė uždaroji akcinė bendrovė \"VRAGMAT\"",
     "code": "120828943",
     "address": "Vilnius, Maironio g. 19-1, LT-01125"
   },
   {
-    "name": "Gintaro Viliušo komercinė įmonė",
-    "code": "270074870",
-    "address": "Rietavas, Plungės g. 10, LT-90313"
-  },
-  {
     "name": "Gintauto Karbočiaus komercinė parduotuvė",
     "code": "178238833",
     "address": "Širvintų r. sav., Jauniūnų sen., Bartkuškio k."
-  },
-  {
-    "name": "Gintauto Volkevičiaus komercinė firma",
-    "code": "161300967",
-    "address": "Kėdainiai, Chemikų g. 7-26, LT-57420"
   },
   {
     "name": "I. Jovaišienės gamybinė - komercinė firma",
@@ -1448,11 +1339,6 @@
     "address": "Raseiniai, Vingio g. 10, LT-60116"
   },
   {
-    "name": "L. Kašėtos gamybinė komercinė firma \"Rubrika\"",
-    "code": "134147015",
-    "address": "Kaunas, Kaišiadorių g. 6-2"
-  },
-  {
     "name": "L. Laurinavičienės turistinė-komercinė firma \"Eurikos turas\"",
     "code": "140306358",
     "address": "Klaipėda, Debreceno g. 28-50, LT-94146"
@@ -1567,25 +1453,10 @@
     "address": "Vilnius, Taikos g. 88-30, LT-05216"
   },
   {
-    "name": "N. Antoniuk komercinė firma",
-    "code": "140825050",
-    "address": "Klaipėda, Vyturio g. 1-39, LT-95187"
-  },
-  {
     "name": "N. Jakimenko komercinė firma",
     "code": "240536050",
     "address": "Klaipėda, I. Simonaitytės g. 9-4, LT-95123",
     "vatcode": "LT100003368714"
-  },
-  {
-    "name": "N. Maslovos komercinė firma",
-    "code": "140614092",
-    "address": "Klaipėda, Ramioji g. 3-3, LT-92226"
-  },
-  {
-    "name": "O. Bogomolskienės komercinė firma",
-    "code": "140811079",
-    "address": "Klaipėda, Baltijos pr. 33-63, LT-94130"
   },
   {
     "name": "O. ir J. Jocių komercinė-gamybinė įmonė",
@@ -1607,11 +1478,6 @@
     "name": "P. Kluso gamybinė-komercinė firma",
     "code": "163242726",
     "address": "Gargždai, Gintaro g. 2, LT-96136"
-  },
-  {
-    "name": "P. Sungailos gamybinė - komercinė įmonė",
-    "code": "263344130",
-    "address": "Gargždai, Klaipėdos g. 29-18, LT-96128"
   },
   {
     "name": "Pakėno komercinė įmonė \"DĖJA\"",
@@ -1673,11 +1539,6 @@
     "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Kaštonų g. 8, LT-14261"
   },
   {
-    "name": "R. Gudžiūno komercinė firma",
-    "code": "140774766",
-    "address": "Klaipėda, Bandužių g. 15-135, LT-95233"
-  },
-  {
     "name": "R. Gusevo komercinė firma",
     "code": "140623860",
     "address": "Klaipėda, Minijos g. 167B-120, LT-94287"
@@ -1724,16 +1585,6 @@
     "vatcode": "LT836888219"
   },
   {
-    "name": "R. Lukošiaus gamybinė komercinė įmonė",
-    "code": "274591630",
-    "address": "Skuodo r. sav., Skuodo sen., Didžiųjų Rūšupių k., Kęstučio g. 5, LT-98104"
-  },
-  {
-    "name": "R. Putkos gamybinė-komercinė firma",
-    "code": "140419886",
-    "address": "Klaipėda, Laukininkų g. 31-27, LT-95172"
-  },
-  {
     "name": "R. Ramono komercinė įmonė",
     "code": "170035539",
     "address": "Plungė, S. Daukanto g. 30, LT-90165"
@@ -1742,11 +1593,6 @@
     "name": "R. Rudoko gamybinė-komercinė įmonė",
     "code": "140652374",
     "address": "Klaipėda, I. Simonaitytės g. 35-7, LT-95190"
-  },
-  {
-    "name": "R. SAKALO GAMYBINĖ - KOMERCINĖ ĮMONĖ",
-    "code": "163321141",
-    "address": "Gargždai, Pušų g. 25-4, LT-96146"
   },
   {
     "name": "R. Skyriaus komercinė firma",
@@ -1786,11 +1632,6 @@
     "vatcode": "LT633637811"
   },
   {
-    "name": "R. Žemaitaičio komercinė firma",
-    "code": "140774570",
-    "address": "Klaipėda, Baltijos pr. 97-84, LT-94115"
-  },
-  {
     "name": "R. Žimkaus komercinė įmonė",
     "code": "180338463",
     "address": "Telšiai, Tryškių g. 4D, LT-87127"
@@ -1818,29 +1659,9 @@
     "address": "Vilnius, Architektų g. 8-55, LT-04119"
   },
   {
-    "name": "Romo Anelausko komercinė įmonė",
-    "code": "165794449",
-    "address": "Kazlų Rūda, S. Daukanto g. 19, LT-69430"
-  },
-  {
     "name": "S. Alenovičiaus gamybinė-komercinė firma \"Šaulys\"",
     "code": "181147742",
     "address": "Šalčininkų r. sav., Turgelių sen., Vilkiškių k., Parko g. 6, LT-17278"
-  },
-  {
-    "name": "S. Baltuonio komercinė firma",
-    "code": "141714957",
-    "address": "Klaipėda, Rambyno g. 7-37, LT-93173"
-  },
-  {
-    "name": "S. Barščevičiaus komercinė firma",
-    "code": "133313459",
-    "address": "Kaunas, Ašmenos 1-oji g. 15-1"
-  },
-  {
-    "name": "S. Baužio komercinė-ūkinė įmonė",
-    "code": "263919150",
-    "address": "Klaipėda, Varpų g. 27-44, LT-94280"
   },
   {
     "name": "S. Dantos gamybinė-komercinė įmonė",
@@ -1994,11 +1815,6 @@
     "address": "Klaipėda, Šilutės pl. 36-56, LT-94137"
   },
   {
-    "name": "V. Dužinienės gamybinė komercinė įmonė",
-    "code": "163726257",
-    "address": "Gargždai, Treniotos g. 20, LT-96113"
-  },
-  {
     "name": "V. Girdvainio gamybinė komercinė individuali įmonė",
     "code": "173898999",
     "address": "Skuodas, Dariaus ir Girėno g. 33-9, LT-98119",
@@ -2030,11 +1846,6 @@
     "name": "V. Kavolio komercinė firma \"PREKYBOS NAMAI\"",
     "code": "140348994",
     "address": "Klaipėda, Stoties g. 6, LT-92281"
-  },
-  {
-    "name": "V. Laukio komercinė ūkinė įmonė",
-    "code": "164000996",
-    "address": "Kretinga, Pasieniečių g. 12-2, LT-97120"
   },
   {
     "name": "V. Lukošiaus komercinė įmonė",
@@ -2072,11 +1883,6 @@
     "address": "Plungės r. sav., Babrungo sen., Didvyčių k., Beržų g. 15, LT-90111"
   },
   {
-    "name": "V. Noreikienės komercinė firma",
-    "code": "140820128",
-    "address": "Klaipėda, Laukininkų g. 52-40, LT-95154"
-  },
-  {
     "name": "V. Padago gamybinė-komercinė įmonė",
     "code": "170010685",
     "address": "Plungė, Dariaus ir Girėno g. 24-3, LT-90121",
@@ -2087,16 +1893,6 @@
     "code": "179427993",
     "address": "Tauragė, T. Ivanausko g. 181, LT-72191",
     "vatcode": "LT794279917"
-  },
-  {
-    "name": "V. Pupelio komercinė firma",
-    "code": "134826048",
-    "address": "Kaunas, Kalniečių g. 207, LT-50141"
-  },
-  {
-    "name": "V. Puzono komercinė įmonė",
-    "code": "153666395",
-    "address": "Alytaus r. sav., Daugų sen., Daugų k."
   },
   {
     "name": "V. Rimkaus komercinė įmonė",
@@ -2119,30 +1915,14 @@
     "address": "Rietavas, Kulių g. 30-6, LT-90312"
   },
   {
-    "name": "V. Viederio komercinė firma",
-    "code": "140559571",
-    "address": "Klaipėda, Naujakiemio g. 22-22, LT-94191"
-  },
-  {
     "name": "V. Vilko komercinė firma",
     "code": "140325134",
     "address": "Klaipėdos r. sav., Kretingalės sen., Karklės k., Karklininkų g. 17, LT-92383"
   },
   {
-    "name": "V. Šeduikienės komercinė firma",
-    "code": "152471691",
-    "address": "Palanga, S. Nėries g. 15, LT-00134"
-  },
-  {
     "name": "V. Šlyžienės gamybinė-komercinė įmonė",
     "code": "169771330",
     "address": "Plungė, J. Tumo-Vaižganto g. 77-2, LT-90160"
-  },
-  {
-    "name": "V. Šukio komercinė firma \"Samson\"",
-    "code": "240476030",
-    "address": "Klaipėda, Baltijos pr. 71-60, LT-94124",
-    "vatcode": "LT404760314"
   },
   {
     "name": "Valdo Rutkūno gamybinė komercinė įmonė",
@@ -2200,11 +1980,6 @@
     "code": "122326213",
     "address": "Vilnius, Kalvarijų g. 112-26, LT-08211",
     "vatcode": "LT223262113"
-  },
-  {
-    "name": "Č. Martinaičio ūkinė - komercinė firma",
-    "code": "263713410",
-    "address": "Gargždai, Statybininkų g. 5, LT-96155"
   },
   {
     "name": "Č. Simanausko gamybinė-komercinė įmonė",

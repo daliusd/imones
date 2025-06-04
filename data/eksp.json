@@ -67,11 +67,6 @@
     "vatcode": "LT100005920416"
   },
   {
-    "name": "G. Sungailienės įmonė \"ALNUPĖS EKSPEDICIJA\"",
-    "code": "141851728",
-    "address": "Klaipėda, Minijos g. 132-16, LT-93245"
-  },
-  {
     "name": "IĮ \"KURŠIŲ EKSPEDICIJA\"",
     "code": "300545128",
     "address": "Klaipėda, Karklų g. 8-16, LT-92243"
@@ -257,7 +252,8 @@
   {
     "name": "UAB Ekspedus",
     "code": "304179016",
-    "address": "Vilnius, Čiobiškio g. 11-10, LT-07180"
+    "address": "Vilnius, Čiobiškio g. 11-10, LT-07180",
+    "vatcode": "LT100013484616"
   },
   {
     "name": "UAB Ekspera LT",
@@ -397,7 +393,8 @@
   {
     "name": "MB \"Alu ekspertai\"",
     "code": "306043328",
-    "address": "Vilnius, Žirmūnų g. 42-117, LT-09227"
+    "address": "Vilnius, Žirmūnų g. 42-117, LT-09227",
+    "vatcode": "LT100017954416"
   },
   {
     "name": "MB \"Aplinkos ekspertai\"",
@@ -489,7 +486,8 @@
   {
     "name": "MB \"LA ekspertai\"",
     "code": "307013334",
-    "address": "Kaunas, Rietavo g. 1-65, LT-48260"
+    "address": "Kaunas, Rietavo g. 1-65, LT-48260",
+    "vatcode": "LT100017900518"
   },
   {
     "name": "MB \"Laiptų ekspertai\"",
@@ -569,7 +567,8 @@
   {
     "name": "MB \"Sėkmės ekspertai\"",
     "code": "300501352",
-    "address": "Šilutė, Geležinkelio g. 7-41, LT-99148"
+    "address": "Šilutė, Geležinkelio g. 7-41, LT-99148",
+    "vatcode": "LT100002039010"
   },
   {
     "name": "MB \"Valdymo ekspertai\"",
@@ -605,12 +604,6 @@
     "address": "Kaunas, Kukučių g. 41, LT-51338"
   },
   {
-    "name": "MB Betono ekspertai",
-    "code": "306121129",
-    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144",
-    "vatcode": "LT100015205210"
-  },
-  {
     "name": "MB Dalių ekspertai",
     "code": "306639310",
     "address": "Kaunas, Bajorų g. 5-29, LT-48376",
@@ -619,7 +612,8 @@
   {
     "name": "MB Energijos Ekspertai",
     "code": "307141622",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100017885218"
   },
   {
     "name": "MB Erdvių ekspertai",
@@ -680,9 +674,14 @@
     "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
   },
   {
+    "name": "MB Tmk švaros ekspertai",
+    "code": "307178186",
+    "address": "Jonava, Kosmonautų g. 48-35, LT-55154"
+  },
+  {
     "name": "MB Vertės ekspertai",
     "code": "306651540",
-    "address": "Vilniaus r. sav., Juodšilių sen., Valčiūnų k., Gėlių g. 26, LT-13227",
+    "address": "Vilniaus r. sav., Juodšilių sen., Valčiūnų k., Smėlio g. 23, LT-13227",
     "vatcode": "LT100016536710"
   },
   {
@@ -699,6 +698,11 @@
     "name": "Mažoji bendrija \"Sūrio ekspertai\"",
     "code": "303234132",
     "address": "Vilnius, Antavilių Sodų 7-oji g. 15, LT-10150"
+  },
+  {
+    "name": "Mobiliųjų programėlių ekspertai, MB",
+    "code": "307164247",
+    "address": "Klaipėda, Miško g. 14-2, LT-92261"
   },
   {
     "name": "Sporto klubas \"Sporto ekspertai\"",
@@ -1075,7 +1079,8 @@
   {
     "name": "VšĮ \"Geros muzikos ekspertai\"",
     "code": "303832852",
-    "address": "Vilnius, Antakalnio g. 39-15, LT-10312"
+    "address": "Vilnius, Antakalnio g. 39-15, LT-10312",
+    "vatcode": "LT100017947014"
   },
   {
     "name": "VšĮ \"KET ekspertai\"",
@@ -1150,6 +1155,11 @@
     "name": "MB \"Renginių ekspertas\"",
     "code": "305306185",
     "address": "Vilnius, Audronės g. 2-3, LT-11105"
+  },
+  {
+    "name": "MB Apdailos ekspertas",
+    "code": "307185437",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "MB Ekspertas",
@@ -1284,7 +1294,8 @@
   {
     "name": "MB \"Ekspertinė linija\"",
     "code": "306442124",
-    "address": "Raseinių r. sav., Ariogala, Plento g. 25, LT-60249"
+    "address": "Raseinių r. sav., Ariogala, Plento g. 25, LT-60249",
+    "vatcode": "LT100018107015"
   },
   {
     "name": "MB Ekspertitė",
@@ -1416,7 +1427,8 @@
   {
     "name": "Viešoji įstaiga \"Lygių teisių ekspertizės centras\"",
     "code": "304097918",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
+    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228",
+    "vatcode": "LT100017966712"
   },
   {
     "name": "VšĮ SOCIALINĖS IR POLITINĖS EKSPERTIZĖS AGENTŪRA",
@@ -1640,6 +1652,11 @@
     "name": "VšĮ Knygų ekspertų kovos",
     "code": "306724853",
     "address": "Klaipėda, Serviso g. 15, LT-92335"
+  },
+  {
+    "name": "Šeimos medicinos ekspertų asociacija",
+    "code": "307162029",
+    "address": "Vilnius, V. Grybo g. 43-30, LT-10320"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Ekspetra\"",
@@ -2851,7 +2868,7 @@
   {
     "name": "292-oji garažų statybos ir eksploatavimo bendrija",
     "code": "124748925",
-    "address": "Vilnius, S. Konarskio g. 32E-24, LT-03127"
+    "address": "Vilnius, Ūmėdžių g. 66A-8, LT-02301"
   },
   {
     "name": "293-oji garažų statybos ir eksploatavimo bendrija",
@@ -2956,7 +2973,7 @@
   {
     "name": "312-oji garažų statybos ir eksploatavimo bendrija",
     "code": "125060999",
-    "address": "Vilnius, Šeškinės g. 55, LT-07159"
+    "address": "Vilnius, Šeškinės g. 55B-236, LT-07159"
   },
   {
     "name": "313-oji garažų statybos ir eksploatavimo bendrija",
@@ -3282,7 +3299,7 @@
   {
     "name": "377-oji garažų statybos ir eksploatavimo bendrija",
     "code": "124880873",
-    "address": "Vilnius, A. Gustaičio g. 23, LT-02189"
+    "address": "Vilnius, A. Gustaičio g. 23-219, LT-02189"
   },
   {
     "name": "378-oji garažų statybos ir eksploatavimo bendrija",
@@ -6404,7 +6421,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Elektronas\"",
     "code": "155954599",
-    "address": "Visaginas, Sedulinos al. 35-64, LT-31232"
+    "address": "Visaginas, Taikos pr. 35-528, LT-31146"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Energetikas\"",
@@ -7614,7 +7631,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Virvytė\"",
     "code": "180741813",
-    "address": "Telšiai, Džiugo g."
+    "address": "Telšiai, Karaliaus Mindaugo g. 1D, LT-87116"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Viržis\"",
@@ -9006,7 +9023,7 @@
   {
     "name": "UAB Rytų eksporto grupė",
     "code": "303404620",
-    "address": "Vilnius, Konstitucijos pr. 23, LT-08105",
+    "address": "Vilnius, Liudviko Zamenhofo g. 5, LT-06332",
     "vatcode": "LT100008932817"
   },
   {
@@ -9377,7 +9394,6 @@
   {
     "name": "MB \"Ekspromtu\"",
     "code": "304747390",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
-    "vatcode": "LT100011397812"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   }
 ]

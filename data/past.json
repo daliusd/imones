@@ -158,11 +158,6 @@
     "address": "Vilnius, Liepyno g. 2-55, LT-08108"
   },
   {
-    "name": "MB \"Pastato valdymo sistema\"",
-    "code": "303094495",
-    "address": "Vilnius, Taikos g. 72-17, LT-05235"
-  },
-  {
     "name": "Maironio g. 4 negyvenamo pastato patalpų savininkų bendrija",
     "code": "305828607",
     "address": "Utena, Maironio g. 4-15"
@@ -365,6 +360,11 @@
     "address": "Vilnius, Vytauto Vaitkaus g. 13-101, LT-04334"
   },
   {
+    "name": "Gyvenamųjų namų (butų) ir kitų patalpų (pastatų) savininkų bendrija \"KOPŲ ŽUVĖDROS II\"",
+    "code": "307169689",
+    "address": "Klaipėda, Litorinos g. 1, LT-92282"
+  },
+  {
     "name": "Gyvenamųjų namų bei kitos paskirties pastatų savininkų bendrija \"Tuopų alėja\"",
     "code": "303045765",
     "address": "Kauno r. sav., Ringaudų sen., Mitkūnų k., Tuopų al. 4-2, LT-53370"
@@ -372,7 +372,7 @@
   {
     "name": "Gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrija \"AURIŲ BENDRUOMENĖ\"",
     "code": "306889837",
-    "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Žemaitukų 3-ioji al. 17-2, LT-14196"
+    "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Žemaitukų 1-oji al. 18, LT-14196"
   },
   {
     "name": "Gyvenamųjų namų ir kitų pastatų savininkų bendrija \"Svajonių kranto gyvenvietė\"",
@@ -944,7 +944,8 @@
   {
     "name": "UAB \"Vilko pastogė\"",
     "code": "306951267",
-    "address": "Prienų r. sav., Naujosios Ūtos sen., Skirptiškės k., Plento g. 2, LT-59260"
+    "address": "Prienų r. sav., Naujosios Ūtos sen., Skirptiškės k., Plento g. 2, LT-59260",
+    "vatcode": "LT100017818615"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Nendrinė pastogė\"",

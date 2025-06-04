@@ -1,5 +1,10 @@
 [
   {
+    "name": "MB \"Remo aliuminio stoginės\"",
+    "code": "307168516",
+    "address": "Klaipėda, Tiltų g. 19, LT-91249"
+  },
+  {
     "name": "MB \"Remo statyba\"",
     "code": "306238328",
     "address": "Kėdainių r. sav., Pelėdnagių sen., Pašilių k., Vasaros 1-oji g. 6, LT-58154"
@@ -111,6 +116,11 @@
     "code": "167619167",
     "address": "Molėtai, Malūno g. 3, LT-33109",
     "vatcode": "LT100003118816"
+  },
+  {
+    "name": "Apdaila remontas MB",
+    "code": "307165833",
+    "address": "Kretinga, Laisvės g. 1-7, LT-97147"
   },
   {
     "name": "IĮ \"DOZAVIMO SISTEMŲ REMONTAS\"",
@@ -321,11 +331,6 @@
     "vatcode": "LT100008877813"
   },
   {
-    "name": "UAB \"Šiluminės energetikos remontas\"",
-    "code": "302811702",
-    "address": "Kauno r. sav., Akademija, Mokyklos g. 4-28, LT-53347"
-  },
-  {
     "name": "UAB \"Žemaitijos remontas\"",
     "code": "180373635",
     "address": "Telšiai, Šiaulių pl. 18, LT-87101",
@@ -381,10 +386,6 @@
     "code": "144713038",
     "address": "Šiauliai, Kauno g. 8, LT-78103",
     "vatcode": "LT447130314"
-  },
-  {
-    "name": "Uždarosios akcinės bendrovės \"Kauno energetikos remontas\" darbuotojų profesinė sąjunga",
-    "code": "135581356"
   },
   {
     "name": "UAB \"Remontechas\"",
@@ -541,24 +542,9 @@
     "address": "Molėtai, Vasario 16-osios g. 9, LT-33141"
   },
   {
-    "name": "D. Riepšo automobilių remonto įmonė",
-    "code": "164273379",
-    "address": "Kretinga, Šventosios g. 11A, LT-97122"
-  },
-  {
-    "name": "E. Janausko baldų remonto įmonė",
-    "code": "151298140",
-    "address": "Marijampolė, Mokolų g. 9-24, LT-68172"
-  },
-  {
     "name": "Egidijaus Šukio automobilių remonto įmonė",
     "code": "173154527",
     "address": "Rokiškio r. sav., Kamajų sen., Vaičionių k."
-  },
-  {
-    "name": "G. Kavaliausko automobilių remonto dirbtuvė",
-    "code": "133420190",
-    "address": "Kaunas, S. Raštikio g. 53-1"
   },
   {
     "name": "G. Milevskio automobilių remonto įmonė",
@@ -574,16 +560,6 @@
     "name": "G. Virkečio buitinių prietaisų remonto individuali įmonė",
     "code": "180182740",
     "address": "Telšiai, Plungės g. 33, LT-87329"
-  },
-  {
-    "name": "Galinaičio automobilių remonto įmonė",
-    "code": "165656619",
-    "address": "Kazlų Rūdos sav., Kazlų Rūdos sen., Ąžuolų Būdos k."
-  },
-  {
-    "name": "Glinsko automobilių remonto dirbtuvė",
-    "code": "151091985",
-    "address": "Marijampolė, Medžiotojų g. 20, LT-68272"
   },
   {
     "name": "Guobio mašinų aptarnavimo ir remonto dirbtuvė",
@@ -645,11 +621,6 @@
     "address": "Skuodas, Mosėdžio g. 60, LT-98121"
   },
   {
-    "name": "J. Juknelio automobilių remonto dirbtuvės",
-    "code": "165627877",
-    "address": "Kalvarija, Ramybės g. 20, LT-69208"
-  },
-  {
     "name": "Jono Genučio smulkaus automobilių remonto įmonė",
     "code": "170698281",
     "address": "Prienai, J. Basanavičiaus g. 7, LT-59151"
@@ -658,11 +629,6 @@
     "name": "Jono Juozapaičio automobilių remonto įmonė",
     "code": "176512837",
     "address": "Šilalės r. sav., Šilalės kaimiškoji sen., Vingininkų k., Medeinos g. 14, LT-75113"
-  },
-  {
-    "name": "Jono Skatiko personalinė automobilių remonto įmonė",
-    "code": "172377776",
-    "address": "Raseinių r. sav., Girkalnio sen., Pramedžiavos k."
   },
   {
     "name": "Justino Paliulio automobilių kėbulų remonto dirbtuvės",
@@ -767,11 +733,6 @@
     "code": "151256757",
     "address": "Marijampolė, P. Armino g. 90C-11, LT-68127",
     "vatcode": "LT100000865614"
-  },
-  {
-    "name": "R. Pockevičiaus automobilių remonto įmonė",
-    "code": "165634722",
-    "address": "Marijampolės sav., Liudvinavo sen., Netičkampio k."
   },
   {
     "name": "R. Pupeikio automobilių remonto įmonė",
@@ -958,11 +919,6 @@
     "address": "Rokiškis, Nepriklausomybės a. 13, LT-42115"
   },
   {
-    "name": "Vaclovo Bernoto automobilių remonto dirbtuvė",
-    "code": "173900197",
-    "address": "Skuodas, Mindaugo g. 8, LT-98133"
-  },
-  {
     "name": "Vaiškūno mašinų remonto dirbtuvės",
     "code": "178607351",
     "address": "Švenčionių r. sav., Švenčionėliai, Aušros g. 7, LT-18219"
@@ -984,11 +940,6 @@
     "vatcode": "LT100003074316"
   },
   {
-    "name": "Virginijaus Linkaus automobilių salonų remonto personalinė įmonė",
-    "code": "158810974",
-    "address": "Kaišiadorių r. sav., Pravieniškių sen., Pravieniškių I k."
-  },
-  {
     "name": "Vladimiro Paulausko automobilių remonto įmonė",
     "code": "261414530",
     "address": "Kėdainiai, Gegučių g. 17-60, LT-57460"
@@ -1007,11 +958,6 @@
     "name": "Zigmanto Kazelio remonto įmonė",
     "code": "171218792",
     "address": "Radviliškio r. sav., Šeduva, Pilies g. 28, LT-82224"
-  },
-  {
-    "name": "Česlovo Klemanskio individuali automobilių remonto įmonė",
-    "code": "277017060",
-    "address": "Šilutė, Dariaus ir Girėno g. 5-209, LT-99133"
   },
   {
     "name": "MB \"Remontomas\"",

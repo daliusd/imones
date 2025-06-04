@@ -714,6 +714,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB \"Santechneta\"",
+    "code": "307167567",
+    "address": "Kauno r. sav., Neveronių sen., Neveronių k., Davalgonių g. 37-2, LT-54482"
+  },
+  {
     "name": "MB \"Dainiaus santechnika\"",
     "code": "304455913",
     "address": "Panevėžio r. sav., Upytės sen., Tarnagalos k., Krekenavos g. 35, LT-38291",
@@ -904,7 +909,8 @@
   {
     "name": "MB \"Santechnikas Guru LT\"",
     "code": "306992367",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017980415"
   },
   {
     "name": "MB \"Santechnikas čia\"",
@@ -915,7 +921,8 @@
   {
     "name": "MB Pajūrio santechnikas",
     "code": "306656459",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100017994819"
   },
   {
     "name": "MB Santechnikas",
@@ -1045,6 +1052,11 @@
     "code": "305289921",
     "address": "Vilnius, Justiniškių g. 62A-201, LT-05239",
     "vatcode": "LT100015514612"
+  },
+  {
+    "name": "Santechnikum, MB",
+    "code": "307169098",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "Lietuvos santechnikų asociacija",
@@ -1225,12 +1237,14 @@
   {
     "name": "UAB Santenora",
     "code": "307063732",
-    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Sodininkų g. 27-2, LT-97196"
+    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Sodininkų g. 27-2, LT-97196",
+    "vatcode": "LT100017775819"
   },
   {
     "name": "MB Santepro",
     "code": "307137047",
-    "address": "Elektrėnų sav., Vievio sen., Alesninkų k., Liepiko g. 5, LT-21364"
+    "address": "Elektrėnų sav., Vievio sen., Alesninkų k., Liepiko g. 5, LT-21364",
+    "vatcode": "LT100017802316"
   },
   {
     "name": "S. Videikos įmonė \"Santera\"",
@@ -1601,10 +1615,6 @@
     "address": "Vilnius, Lvivo g. 13-12, LT-09313"
   },
   {
-    "name": "UAB \"Santus\"",
-    "code": "302739612"
-  },
-  {
     "name": "Garažų eksploatavimo bendrija \"SANTVARA-4\"",
     "code": "261594320",
     "address": "Kėdainiai, Chemikų g. 18A, LT-57423"
@@ -1677,7 +1687,8 @@
   {
     "name": "MB SANTYKIAI",
     "code": "307092239",
-    "address": "Vilnius, Kazio Bizausko g. 15C, LT-11311"
+    "address": "Vilnius, Kazio Bizausko g. 15C, LT-11311",
+    "vatcode": "LT100018006919"
   },
   {
     "name": "Darnių santykių centras, MB",

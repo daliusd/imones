@@ -127,7 +127,8 @@
   {
     "name": "MB \"Drabužių šviesa\"",
     "code": "306780026",
-    "address": "Elektrėnai, Trakų g. 19-7, LT-26118"
+    "address": "Elektrėnai, Trakų g. 19-7, LT-26118",
+    "vatcode": "LT100017797013"
   },
   {
     "name": "MB \"Gintaro šviesa\"",
@@ -290,7 +291,7 @@
   {
     "name": "UAB DIENOS ŠVIESA",
     "code": "302801672",
-    "address": "Vilnius, A. Goštauto g. 8, LT-01108",
+    "address": "Vilnius, A. Goštauto g. 8-100, LT-01108",
     "vatcode": "LT100007014718"
   },
   {
@@ -667,11 +668,6 @@
     "vatcode": "LT100014638318"
   },
   {
-    "name": "MB \"Šviesos inžinerija\"",
-    "code": "306150312",
-    "address": "Kaunas, Tulpių g. 11-3, LT-44163"
-  },
-  {
     "name": "MB \"Šviesos konsultacijos\"",
     "code": "305729228",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -888,20 +884,15 @@
     "address": "Vilnius, Lūšių g. 21-16, LT-08101"
   },
   {
-    "name": "UAB Saulės šviesos projektai",
-    "code": "302866061",
-    "address": "Raseiniai, Medelyno g. 1, LT-60187"
-  },
-  {
     "name": "UAB ŠVIESOS PRIZMĖ",
     "code": "302804106",
-    "address": "Vilnius, A. Goštauto g. 8, LT-01108",
+    "address": "Vilnius, A. Goštauto g. 8-100, LT-01108",
     "vatcode": "LT100007014910"
   },
   {
     "name": "UAB ŠVIESOS VATAS",
     "code": "302801793",
-    "address": "Vilnius, A. Goštauto g. 8, LT-01108",
+    "address": "Vilnius, A. Goštauto g. 8-100, LT-01108",
     "vatcode": "LT100007012812"
   },
   {
@@ -1851,10 +1842,6 @@
     "address": "Palanga, Sodų g. 63, LT-00122"
   },
   {
-    "name": "Palangos miesto švietimo darbuotojų profsąjungos organizacijų sąjunga",
-    "code": "125187594"
-  },
-  {
     "name": "Palangos švietimo pagalbos tarnyba",
     "code": "300501605",
     "address": "Palanga, Jūratės g. 11, LT-00136"
@@ -2222,6 +2209,11 @@
     "name": "VšĮ KSU Švietimo akademija",
     "code": "302628989",
     "address": "Vilnius, Dariaus ir Girėno g. 21, LT-02188"
+  },
+  {
+    "name": "VšĮ Krikščionių ortodoksų švietimo ir tyrimų institutas",
+    "code": "307178542",
+    "address": "Vilnius, Sėlių g. 39-7, LT-08109"
   },
   {
     "name": "VšĮ Pažangaus švietimo iniciatyvos",

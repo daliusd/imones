@@ -66,7 +66,8 @@
   {
     "name": "IĮ \"AL apskaita\"",
     "code": "302317899",
-    "address": "Šiauliai, Architektų g. 24-42, LT-78281"
+    "address": "Šiauliai, Architektų g. 24-42, LT-78281",
+    "vatcode": "LT100017800219"
   },
   {
     "name": "IĮ \"Dvejybinė apskaita\"",
@@ -460,12 +461,6 @@
     "address": "Klaipėda, Dragūnų g. 2-62, LT-92331"
   },
   {
-    "name": "MB \"Tvarkinga apskaita\"",
-    "code": "305209989",
-    "address": "Kaunas, Plento g. 5-51, LT-45398",
-    "vatcode": "LT100016505013"
-  },
-  {
     "name": "MB \"Utenos apskaita\"",
     "code": "304727441",
     "address": "Utena, J. Basanavičiaus g. 49A, LT-28133",
@@ -475,6 +470,11 @@
     "name": "MB \"VB apskaita\"",
     "code": "306104756",
     "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Žalioji g. 50, LT-91276"
+  },
+  {
+    "name": "MB \"VG buhalterinė apskaita\"",
+    "code": "307182117",
+    "address": "Vilnius, Bartų g. 4-18, LT-02184"
   },
   {
     "name": "MB \"VIP apskaita\"",
@@ -634,6 +634,11 @@
     "address": "Kaišiadorių r. sav., Nemaitonių sen., Varkalių k., Kiemų g. 2, LT-56276"
   },
   {
+    "name": "MB Jm apskaita",
+    "code": "307165541",
+    "address": "Vilniaus r. sav., Šatrininkų sen., Grigaičių k., Eglių g. 16, LT-11237"
+  },
+  {
     "name": "MB Jo apskaita",
     "code": "306209262",
     "address": "Šiauliai, K. Korsako g. 59-48, LT-78370",
@@ -685,6 +690,11 @@
     "name": "MB Marselio apskaita",
     "code": "305710053",
     "address": "Vilnius, Lazdynėlių g. 38A-44, LT-04126"
+  },
+  {
+    "name": "MB Metlodet apskaita",
+    "code": "307163501",
+    "address": "Kauno r. sav., Garliava, Liepų g. 25-17, LT-53242"
   },
   {
     "name": "MB Mintera apskaita",
@@ -1055,6 +1065,11 @@
     "address": "Kaunas, Naujakurių g. 92-45, LT-47129"
   },
   {
+    "name": "UAB \"ETB Apskaita\"",
+    "code": "307166198",
+    "address": "Klaipėda, S. Daukanto g. 24A-4, LT-92135"
+  },
+  {
     "name": "UAB \"Erdvi apskaita\"",
     "code": "304097754",
     "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Sodų g. 29-2, LT-13272",
@@ -1326,6 +1341,12 @@
     "name": "UAB \"Turto ir kapitalo apskaita\"",
     "code": "300150095",
     "address": "Vilnius, Architektų g. 136-13, LT-04200"
+  },
+  {
+    "name": "UAB \"Tvarkinga apskaita\"",
+    "code": "305209989",
+    "address": "Kaunas, Plento g. 5-51, LT-45398",
+    "vatcode": "LT100016505013"
   },
   {
     "name": "UAB \"VBI apskaita\"",
@@ -1640,7 +1661,8 @@
   {
     "name": "Apskaitos klanas MB",
     "code": "306782397",
-    "address": "Vilnius, Minties g. 42-60, LT-09221"
+    "address": "Vilnius, Minties g. 42-60, LT-09221",
+    "vatcode": "LT100018156316"
   },
   {
     "name": "Apskaitos piramidė, MB",
@@ -1995,7 +2017,8 @@
   {
     "name": "MB \"Buhalterinės apskaitos garantas\"",
     "code": "304607940",
-    "address": "Kaunas, Partizanų g. 42A-7, LT-49471"
+    "address": "Kaunas, Partizanų g. 42A-7, LT-49471",
+    "vatcode": "LT100017800814"
   },
   {
     "name": "MB \"Buhalterinės apskaitos menas\"",
@@ -2022,10 +2045,6 @@
     "name": "MB \"Finansiniai apskaitos sprendimai\"",
     "code": "306188252",
     "address": "Druskininkai, Liškiavos g. 10-7, LT-66291"
-  },
-  {
-    "name": "MB \"Finansų valdymo ir apskaitos paslaugų centras\"",
-    "code": "305527194"
   },
   {
     "name": "MB \"Ieva apskaitos grupė\"",
@@ -2090,7 +2109,8 @@
   {
     "name": "MB Apskaitos kodas lt",
     "code": "306278657",
-    "address": "Pasvalys, Svalios g. 15, LT-39152"
+    "address": "Pasvalys, Svalios g. 15, LT-39152",
+    "vatcode": "LT100017952712"
   },
   {
     "name": "MB Apskaitos metas",
@@ -3290,10 +3310,6 @@
     "address": "Kaunas, Gedimino g. 33, LT-44311"
   },
   {
-    "name": "Kauno apskrities profesinė sąjunga \"Teisingumas\"",
-    "code": "193418781"
-  },
-  {
     "name": "Kauno apskrities profesinė sąjunga \"Vienybė\"",
     "code": "193583911",
     "address": "Kaunas, Šarkuvos g. 4-81, LT-48175"
@@ -3359,11 +3375,6 @@
     "address": "Kaunas, E. Ožeškienės g. 11-7, LT-44253"
   },
   {
-    "name": "Klaipėdos apskrities Dailininkų sąjungos BAROTI GALERIJA",
-    "code": "141770870",
-    "address": "Klaipėda, Šilutės pl. 74, LT-95117"
-  },
-  {
     "name": "Klaipėdos apskrities Ievos Simonaitytės viešoji biblioteka",
     "code": "190758095",
     "address": "Klaipėda, H. Manto g. 25, LT-92234"
@@ -3422,10 +3433,6 @@
     "name": "Klaipėdos apskrities globėjų ir įtėvių asociacija \"Vaikų gerovė\"",
     "code": "304428955",
     "address": "Klaipėda, Ryšininkų g. 8-7, LT-91118"
-  },
-  {
-    "name": "Klaipėdos apskrities gydytojų profesinė sąjunga",
-    "code": "193425637"
   },
   {
     "name": "Klaipėdos apskrities išsėtine skleroze sergančiųjų ligonių draugija",
@@ -4070,11 +4077,6 @@
     "name": "Šiaulių apskrities bendruomenių konfederacija",
     "code": "302673532",
     "address": "Šiauliai, Sodo g. 105, LT-76184"
-  },
-  {
-    "name": "Šiaulių apskrities centrinio pašto darbuotojų profsąjunga",
-    "code": "193458167",
-    "address": "Šiauliai, Aušros al. 42, LT-76240"
   },
   {
     "name": "Šiaulių apskrities futbolo federacija",

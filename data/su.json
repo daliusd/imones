@@ -71,11 +71,6 @@
     "address": "Vilnius, Verkių g. 37, LT-09109"
   },
   {
-    "name": "B. Urbonienės firma \"Su knyga\"",
-    "code": "133760734",
-    "address": "Kaunas, Tvirtovės al. 1-2, LT-50166"
-  },
-  {
     "name": "Bendrovės su ribota atsakomybe \"MC2 INTERNATIONAL\" atstovybė",
     "code": "110274876",
     "address": "Vilnius, T. Ševčenkos g. 19, LT-03111"
@@ -89,6 +84,11 @@
     "name": "Bendrovės su ribota atsakomybe \"TEKHINVEST\" Vilniaus filialas",
     "code": "111882123",
     "address": "Vilnius, Taikos g. 129-4, LT-05206"
+  },
+  {
+    "name": "GRIGIŠKIŲ ASMENŲ SU NEGALIA DRAUGIJA",
+    "code": "125102843",
+    "address": "Vilniaus m. sav., Grigiškės, Kovo 11-osios g. 36, LT-27112"
   },
   {
     "name": "Jaunimo su specialiaisiais poreikiais labdaros ir paramos fondas",
@@ -136,11 +136,6 @@
     "address": "Kupiškis, Gedimino g. 15A, LT-40114"
   },
   {
-    "name": "LIETUVOS ŽMONIŲ SU NEGALIA APLINKOS PRITAIKYMO ASOCIACIJA",
-    "code": "191948432",
-    "address": "Vilnius, Žemaitės g. 21, LT-03118"
-  },
-  {
     "name": "LIETUVOS ŽMONIŲ SU NEGALIA SĄJUNGA",
     "code": "191909625",
     "address": "Vilnius, Gėlių g. 7-3, LT-01137"
@@ -184,6 +179,11 @@
     "name": "Lietuvos asmenų su negalia draugija",
     "code": "191676690",
     "address": "Vilnius, Kauno g. 22-301, LT-03212"
+  },
+  {
+    "name": "Lietuvos asmenų su negalia profesinė sąjunga",
+    "code": "305537929",
+    "address": "Vilnius, M. Katkaus g. 5-58, LT-09217"
   },
   {
     "name": "Lietuvos žmonių su negalia sąjungos filialas Vilniaus neįgaliųjų dienos centras",
@@ -284,10 +284,6 @@
     "vatcode": "LT100014582319"
   },
   {
-    "name": "MB \"Komunikacija su 0 pasiteisinimų\"",
-    "code": "306158622"
-  },
-  {
     "name": "MB \"Peilis su šakute\"",
     "code": "305189159",
     "address": "Šiauliai, Žemaitės g. 33-8, LT-76340"
@@ -360,6 +356,11 @@
     "vatcode": "LT100017281812"
   },
   {
+    "name": "MB Statyk Su AV",
+    "code": "307163476",
+    "address": "Kretingos r. sav., Darbėnų sen., Senosios Įpilties k., Mokyklos g. 10, LT-97282"
+  },
+  {
     "name": "MB Su elektra",
     "code": "306697826",
     "address": "Vilniaus r. sav., Nemenčinės sen., Sliesoriškių k. 1, LT-15163",
@@ -378,7 +379,8 @@
   {
     "name": "MB Su muzika",
     "code": "306766603",
-    "address": "Vilnius, Juodvarnių Sodų 26-oji g. 26, LT-10235"
+    "address": "Vilnius, Juodvarnių Sodų 26-oji g. 26, LT-10235",
+    "vatcode": "LT100017771817"
   },
   {
     "name": "MB Su tikslu",
@@ -593,11 +595,6 @@
     "vatcode": "LT828274716"
   },
   {
-    "name": "V. Vilkeliškio įmonė \"Mąstyk su mumis\"",
-    "code": "164299662",
-    "address": "Kretinga, Vytauto g. 118, LT-97134"
-  },
-  {
     "name": "VILNIAUS MIESTO ĮMONIŲ, SUSIJUSIŲ SU GELEŽINKELIO VEIKLA, DARBININKŲ PROFESINĖ SĄJUNGA",
     "code": "193039817",
     "address": "Vilnius, Švitrigailos g. 39, LT-03209"
@@ -716,6 +713,11 @@
     "name": "Šakių rajono žmonių su negalia sąjunga",
     "code": "174425440",
     "address": "Šakiai, Vytauto g. 17-104, LT-71115"
+  },
+  {
+    "name": "Šalčininkų rajono asmenų su negalia draugija",
+    "code": "193134813",
+    "address": "Šalčininkai, Plento g. 7, LT-17129"
   },
   {
     "name": "Šiaulių miesto žmonių su negalia klubas \"ŽIDINYS\"",

@@ -97,7 +97,7 @@
   {
     "name": "Asociacija \"Reversas plius\"",
     "code": "305008833",
-    "address": "Vilnius, Šeškinės g. 11-31, LT-07152"
+    "address": "Vilnius, Balsių Sodų 1-oji g. 25, LT-08425"
   },
   {
     "name": "BRANDA PLIUS, UAB",
@@ -122,7 +122,8 @@
   {
     "name": "Individuali įmonė \"Danguolė plius\"",
     "code": "302965885",
-    "address": "Rokiškis, Jaunystės g. 21-36, LT-42157"
+    "address": "Rokiškis, Jaunystės g. 21-36, LT-42157",
+    "vatcode": "LT100018218219"
   },
   {
     "name": "IĮ \"AKA PLIUS\"",
@@ -173,7 +174,8 @@
   {
     "name": "MB \"A plius statyba\"",
     "code": "306636150",
-    "address": "Kauno r. sav., Neveronių sen., Neveronių k., Davalgonių g. 31-9, LT-54482"
+    "address": "Kauno r. sav., Neveronių sen., Neveronių k., Davalgonių g. 31-9, LT-54482",
+    "vatcode": "LT100018137410"
   },
   {
     "name": "MB \"Afina plius\"",
@@ -310,7 +312,8 @@
   {
     "name": "MB \"Kava plius\"",
     "code": "304240490",
-    "address": "Biržai, Liepų g. 17, LT-41125"
+    "address": "Biržai, Liepų g. 17, LT-41125",
+    "vatcode": "LT100018052115"
   },
   {
     "name": "MB \"Lobis plius\"",
@@ -545,6 +548,11 @@
     "address": "Kaunas, P. Plechavičiaus g. 3-13, LT-49350"
   },
   {
+    "name": "MB Imedia plius",
+    "code": "307181047",
+    "address": "Tauragė, Televizijos g. 5, LT-72343"
+  },
+  {
     "name": "MB Klinika plius",
     "code": "304504659",
     "address": "Vilnius, Kalvarijų g. 170, LT-08206",
@@ -593,6 +601,11 @@
     "address": "Mažeikiai, Naftininkų g. 2-63, LT-89119"
   },
   {
+    "name": "MB Sauga plius",
+    "code": "307157263",
+    "address": "Vilnius, Jurgio Baltrušaičio g. 9-47, LT-06145"
+  },
+  {
     "name": "MB TERIS plius",
     "code": "303055026",
     "address": "Vilnius, Architektų g. 56-101, LT-04111",
@@ -607,7 +620,8 @@
   {
     "name": "MB Veritas Plius",
     "code": "307114511",
-    "address": "Vilnius, Pašilaičių g. 3-17, LT-06115"
+    "address": "Vilnius, Pašilaičių g. 3-17, LT-06115",
+    "vatcode": "LT100018093617"
   },
   {
     "name": "MB Victory plius",
@@ -624,6 +638,11 @@
     "name": "Mažoji bendrija \"Algivas plius\"",
     "code": "306297700",
     "address": "Kaunas, Baltų pr. 5-63, LT-48260"
+  },
+  {
+    "name": "Mažoji bendrija \"Autremas plius\"",
+    "code": "307161646",
+    "address": "Tauragė, Gaurės g. 2K, LT-72334"
   },
   {
     "name": "Mažoji bendrija \"Darbas plius\"",
@@ -845,10 +864,6 @@
     "code": "152155661",
     "address": "Druskininkai, M. K. Čiurlionio g. 111, LT-66161",
     "vatcode": "LT521556610"
-  },
-  {
-    "name": "UAB \"Brodvėjus plius\"",
-    "code": "304677159"
   },
   {
     "name": "UAB \"Business plius\"",
@@ -1106,10 +1121,6 @@
     "address": "Kaunas, Europos pr. 122, LT-46351"
   },
   {
-    "name": "UAB \"Interim Plius\"",
-    "code": "305652123"
-  },
-  {
     "name": "UAB \"Interjeras plius\"",
     "code": "305039348",
     "address": "Vilnius, Kryžiokų Sodų 10-oji g. 57-1, LT-08445",
@@ -1182,10 +1193,6 @@
     "vatcode": "LT100009579816"
   },
   {
-    "name": "UAB \"Kiprida plius\"",
-    "code": "303085247"
-  },
-  {
     "name": "UAB \"Knyga plius\"",
     "code": "302535944",
     "address": "Naujoji Akmenė, Respublikos g. 25-82, LT-85179",
@@ -1200,10 +1207,6 @@
     "name": "UAB \"Komposta plius\"",
     "code": "304032354",
     "address": "Vilnius, Vykinto g. 19-2, LT-08117"
-  },
-  {
-    "name": "UAB \"Kukas plius\"",
-    "code": "303377276"
   },
   {
     "name": "UAB \"Kėbulas plius\"",
@@ -1596,8 +1599,7 @@
   {
     "name": "UAB \"Soleitas plius\"",
     "code": "303360914",
-    "address": "Vilnius, Mūrinės Vokės g. 7-3, LT-25140",
-    "vatcode": "LT100016496919"
+    "address": "Vilnius, Mūrinės Vokės g. 7-3, LT-25140"
   },
   {
     "name": "UAB \"Statybos plius\"",
@@ -2054,11 +2056,6 @@
     "name": "R. Pliuškienės paslaugų įmonė",
     "code": "170048942",
     "address": "Rietavo sav., Tverai, Aitros g. 10, LT-90282"
-  },
-  {
-    "name": "Virginijaus Pliuškio dizaino įmonė",
-    "code": "161427039",
-    "address": "Kėdainiai, P. Lukšio g. 2-318, LT-57199"
   },
   {
     "name": "MB Pliuškis",

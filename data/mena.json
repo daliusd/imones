@@ -380,11 +380,6 @@
     "vatcode": "LT100016489815"
   },
   {
-    "name": "MB \"Tik menas\"",
-    "code": "304697514",
-    "address": "Vilnius, Danės g. 7-1, LT-06235"
-  },
-  {
     "name": "MB \"Universalus menas\"",
     "code": "305567573",
     "address": "Klaipėda, Panevėžio g. 25C-16, LT-92310"
@@ -476,7 +471,8 @@
   {
     "name": "MB Šakočių menas",
     "code": "307007388",
-    "address": "Kaunas, Ašigalio g. 37-21, LT-49148"
+    "address": "Kaunas, Ašigalio g. 37-21, LT-49148",
+    "vatcode": "LT100017767819"
   },
   {
     "name": "Maisto menas, UAB",
@@ -488,6 +484,11 @@
     "code": "305771647",
     "address": "Vilnius, L. Sapiegos g. 4-47, LT-10312",
     "vatcode": "LT100016596017"
+  },
+  {
+    "name": "Menas x, MB",
+    "code": "307169244",
+    "address": "Alytus, Statybininkų g. 11-20, LT-63410"
   },
   {
     "name": "Panevėžio teatras \"Menas\"",
@@ -598,8 +599,7 @@
   {
     "name": "UAB \"Vairavimo menas\"",
     "code": "303172887",
-    "address": "Panevėžys, Savanorių a. 12, LT-35201",
-    "vatcode": "LT100010256510"
+    "address": "Panevėžys, Savanorių a. 12, LT-35201"
   },
   {
     "name": "UAB \"Žirklių menas\"",

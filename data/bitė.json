@@ -35,10 +35,6 @@
     "address": "Klaipėda, Dubysos g. 58B, LT-94107"
   },
   {
-    "name": "IĮ \"Maža bitė\"",
-    "code": "303186004"
-  },
-  {
     "name": "Kaimo bendruomenė \"Eurocentro Bitė\"",
     "code": "302629824",
     "address": "Vilniaus r. sav., Riešės sen., Purnuškių k., Plačioji g. 23, LT-15151"
@@ -170,12 +166,14 @@
   {
     "name": "UAB \"Finansų bitė verslui\"",
     "code": "304175555",
-    "address": "Vilnius, Vilniaus g. 4-10, LT-01102"
+    "address": "Vilnius, Vilniaus g. 4-10, LT-01102",
+    "vatcode": "LT100018149515"
   },
   {
     "name": "UAB \"Finansų bitė\"",
     "code": "304051511",
-    "address": "Vilnius, Vilniaus g. 4-10, LT-01102"
+    "address": "Vilnius, Vilniaus g. 4-10, LT-01102",
+    "vatcode": "LT100018144312"
   },
   {
     "name": "UAB \"Girta bitė\"",
@@ -252,7 +250,8 @@
   {
     "name": "Asociacija MINTIES BITĖS",
     "code": "302730937",
-    "address": "Šiauliai, Ežero g. 8-1, LT-77141"
+    "address": "Šiauliai, Ežero g. 8-1, LT-77141",
+    "vatcode": "LT100017927711"
   },
   {
     "name": "Baitų bitės, MB",
@@ -363,6 +362,11 @@
     "address": "Vilnius, P. Vileišio g. 6B-9, LT-10308"
   },
   {
+    "name": "MB \"Mini bitės\"",
+    "code": "307178389",
+    "address": "Klaipėdos r. sav., Sendvario sen., Kalnuvėnų k., Švyturio g. 12-2, LT-92321"
+  },
+  {
     "name": "MB \"NT bitės logistics\"",
     "code": "305815136",
     "address": "Kaunas, Ašigalio g. 5-6, LT-49159",
@@ -428,6 +432,11 @@
     "name": "MB Mokslo bitės",
     "code": "306143442",
     "address": "Šakių r. sav., Kidulių sen., Kidulių k., Nemuno g. 104, LT-71400"
+  },
+  {
+    "name": "MB Mūro bitės",
+    "code": "307167777",
+    "address": "Klaipėdos r. sav., Vėžaičiai, Tuopų g. 3, LT-96218"
   },
   {
     "name": "MB Skalbinių bitės",
@@ -577,6 +586,16 @@
     "code": "306144868",
     "address": "Pakruojo r. sav., Pašvitinio sen., Peleniškių k., Piliakalnio g. 34, LT-83340",
     "vatcode": "LT100015483810"
+  },
+  {
+    "name": "UAB Bitės batai Anykščiai",
+    "code": "307186877",
+    "address": "Pasvalio r. sav., Krinčino sen., Pajiešmenių k., Plytinės g. 7, LT-39449"
+  },
+  {
+    "name": "UAB Bitės batai Pasvalys",
+    "code": "307186101",
+    "address": "Pasvalio r. sav., Krinčino sen., Pajiešmenių k., Plytinės g. 7, LT-39449"
   },
   {
     "name": "UAB Margos Bitės",

@@ -125,6 +125,11 @@
     "vatcode": "LT100012182413"
   },
   {
+    "name": "MB \"Krabo ratai\"",
+    "code": "307184253",
+    "address": "Klaipėda, H. Manto g. 76, LT-92222"
+  },
+  {
     "name": "MB \"Luko ratai\"",
     "code": "304071186",
     "address": "Marijampolės sav., Marijampolės sen., Skaisčiūnų k., Vyčio g. 9, LT-69338"
@@ -167,12 +172,6 @@
     "code": "135443483",
     "address": "Kaunas, Europos pr. 71, LT-46333",
     "vatcode": "LT354434811"
-  },
-  {
-    "name": "MB \"Ratai\"",
-    "code": "304433685",
-    "address": "Ukmergės r. sav., Deltuva, Paliepės g. 6, LT-20306",
-    "vatcode": "LT100010952018"
   },
   {
     "name": "MB \"Raudoni ratai\"",
@@ -229,6 +228,11 @@
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
+    "name": "MB \"Virgin ratai\"",
+    "code": "307168815",
+    "address": "Kelmės r. sav., Tytuvėnai, Skogalio g. 30, LT-86478"
+  },
+  {
     "name": "MB \"Vėjų ratai\"",
     "code": "305573302",
     "address": "Alytaus r. sav., Nemunaičio sen., Fermos k., Fermos g. 6, LT-64204"
@@ -247,7 +251,7 @@
   {
     "name": "MB \"Šeši ratai\"",
     "code": "305796091",
-    "address": "Klaipėda, Paryžiaus Komunos g. 20-2, LT-91171",
+    "address": "Klaipėdos m. sav.",
     "vatcode": "LT100014146317"
   },
   {
@@ -292,6 +296,11 @@
     "code": "306245842",
     "address": "Radviliškis, Liepų g. 27B, LT-82154",
     "vatcode": "LT100015718113"
+  },
+  {
+    "name": "MB Pirmi ratai",
+    "code": "307182067",
+    "address": "Vilnius, Taikos g. 105-7, LT-05201"
   },
   {
     "name": "MB Ratai ne batai",
@@ -591,6 +600,11 @@
     "address": "Neringa, Pervalkos g. 44C-2, LT-93104"
   },
   {
+    "name": "VšĮ \"Kreivi ratai racing\"",
+    "code": "307177465",
+    "address": "Kauno r. sav., Domeikavos sen., Varluvos k., Genio g. 4, LT-54341"
+  },
+  {
     "name": "VšĮ \"Raigardo Ratai\"",
     "code": "304067501",
     "address": "Druskininkai, M. K. Čiurlionio g. 117-108, LT-66161"
@@ -803,7 +817,7 @@
   {
     "name": "MB \"Bio Ratas\"",
     "code": "305464897",
-    "address": "Vilnius, Linkmenų g. 31-28, LT-08217"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "MB \"Biuro technikos ratas\"",
@@ -947,11 +961,6 @@
     "address": "Pakruojis, Vasario 16-osios g."
   },
   {
-    "name": "Rimo Domanto įmonė \"Ratas\"",
-    "code": "185206017",
-    "address": "Vilkaviškio r. sav., Kybartai, J. Basanavičiaus g. 35, LT-70417"
-  },
-  {
     "name": "Salantų garažų statybos ir eksploatavimo bendrija \"Ratas\"",
     "code": "264696540",
     "address": "Kretingos r. sav., Salantai, Žemaitės g. 20, LT-97315"
@@ -1064,7 +1073,8 @@
   {
     "name": "UAB \"Sveikatos ratas\"",
     "code": "136001557",
-    "address": "Kaunas, Tirkiliškių g. 51, LT-46460"
+    "address": "Kaunas, Tirkiliškių g. 51, LT-46460",
+    "vatcode": "LT360015515"
   },
   {
     "name": "UAB \"Sveikatos ratas\" Kėdainių filialas",

@@ -76,6 +76,11 @@
     "address": "Vilnius, Rygos g. 12-26, LT-05240"
   },
   {
+    "name": "MB \"Aj project\"",
+    "code": "307184082",
+    "address": "Vilnius, Juozo Grušo g. 70-2, LT-14270"
+  },
+  {
     "name": "MB \"Beta Project\"",
     "code": "306155715",
     "address": "Vilnius, Justiniškių g. 62A-201, LT-05239",
@@ -212,6 +217,11 @@
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
+    "name": "MB Project 33",
+    "code": "307186140",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "MB Project Mini",
     "code": "306253209",
     "address": "Vilnius, Šaltupio g. 7B, LT-02300"
@@ -252,13 +262,19 @@
   {
     "name": "MB Project partner",
     "code": "306974006",
-    "address": "Kaunas, L. Sapiegos g. 3-26, LT-44252"
+    "address": "Kaunas, L. Sapiegos g. 3-26, LT-44252",
+    "vatcode": "LT100017791115"
   },
   {
     "name": "MB Project pro",
     "code": "306077106",
     "address": "Vilnius, Stasio Krasausko g. 18, LT-25128",
     "vatcode": "LT100016892417"
+  },
+  {
+    "name": "MB SAVU Project",
+    "code": "307184374",
+    "address": "Kaunas, M. Daukšos g. 53-11, LT-44269"
   },
   {
     "name": "MB SSG project",
@@ -513,8 +529,7 @@
   {
     "name": "UAB \"Project EU\"",
     "code": "306026357",
-    "address": "Vilnius, Kalvarijų g. 125, LT-08221",
-    "vatcode": "LT100015397017"
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
     "name": "UAB \"Project Management Lithuania\"",
@@ -619,7 +634,8 @@
   {
     "name": "UAB Cat project",
     "code": "302552370",
-    "address": "Vilnius, S. Konarskio g. 49, LT-03123"
+    "address": "Vilnius, S. Konarskio g. 49, LT-03123",
+    "vatcode": "LT100005725919"
   },
   {
     "name": "UAB Color project",
@@ -720,8 +736,7 @@
   {
     "name": "VšĮ \"Project In\"",
     "code": "305652671",
-    "address": "Joniškio r. sav., Joniškio sen., Kalnelio k., Sidabros g. 37, LT-84120",
-    "vatcode": "LT100015951915"
+    "address": "Joniškio r. sav., Joniškio sen., Kalnelio k., Sidabros g. 37, LT-84120"
   },
   {
     "name": "VšĮ Avantiūristas project",
@@ -906,6 +921,11 @@
     "vatcode": "LT100006655617"
   },
   {
+    "name": "Hard projects, MB",
+    "code": "307177159",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "INT Projects UAB",
     "code": "306317291",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
@@ -1017,7 +1037,8 @@
   {
     "name": "MB \"Dj projects\"",
     "code": "306092898",
-    "address": "Klaipėda, Vaidaugų g. 1-20, LT-95222"
+    "address": "Klaipėda, Vaidaugų g. 1-20, LT-95222",
+    "vatcode": "LT100017887416"
   },
   {
     "name": "MB \"ERS projects\"",
@@ -1077,7 +1098,7 @@
   {
     "name": "MB \"KBA projects\"",
     "code": "306993729",
-    "address": "Klaipėda, Priegliaus g. 4-45, LT-93184"
+    "address": "Klaipėda, Dovo Zauniaus g. 53-45, LT-92349"
   },
   {
     "name": "MB \"KPK projects\"",
@@ -1233,7 +1254,7 @@
   {
     "name": "MB \"Succinite projects\"",
     "code": "305886208",
-    "address": "Kretingos r. sav., Darbėnų sen., Šukės k., Miško g. 3, LT-97251",
+    "address": "Vilnius, Vaduvos g. 22-39, LT-02307",
     "vatcode": "LT100014955811"
   },
   {
@@ -1545,6 +1566,11 @@
     "address": "Vilnius, Kapsų g. 30-10, LT-02167"
   },
   {
+    "name": "MB Proper Projects",
+    "code": "307179167",
+    "address": "Šiaulių r. sav., Bubių sen., Gervėnų k., Bijūnų g. 8, LT-80208"
+  },
+  {
     "name": "MB RIJA PROJECTS STUDIO",
     "code": "306191978",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
@@ -1689,7 +1715,8 @@
   {
     "name": "RV projects, MB",
     "code": "306632885",
-    "address": "Vilnius, Liepyno g. 11-6C, LT-08108"
+    "address": "Vilnius, Liepyno g. 11-6C, LT-08108",
+    "vatcode": "LT100018090410"
   },
   {
     "name": "Revival projects, VšĮ",
@@ -1710,7 +1737,8 @@
   {
     "name": "Special mention projects, MB",
     "code": "307127537",
-    "address": "Vilnius, Krivių g. 50-6, LT-01209"
+    "address": "Vilnius, Krivių g. 50-6, LT-01209",
+    "vatcode": "LT100017733017"
   },
   {
     "name": "Technology projects, UAB",
@@ -1854,7 +1882,8 @@
   {
     "name": "UAB \"Gama projects\"",
     "code": "307108469",
-    "address": "Kaunas, Taikos pr. 54, LT-51305"
+    "address": "Kaunas, Taikos pr. 54, LT-51305",
+    "vatcode": "LT100017776919"
   },
   {
     "name": "UAB \"Globalita projects\"",
@@ -2200,7 +2229,8 @@
   {
     "name": "UAB Grid projects",
     "code": "307117258",
-    "address": "Vilnius, Gynėjų g. 4-333, LT-01110"
+    "address": "Vilnius, Gynėjų g. 4-333, LT-01110",
+    "vatcode": "LT100017753314"
   },
   {
     "name": "UAB Group projects",
@@ -2216,7 +2246,8 @@
   {
     "name": "UAB IP international projects",
     "code": "301630574",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
+    "address": "Vilnius, Jogailos g. 4, LT-01116",
+    "vatcode": "LT100004003011"
   },
   {
     "name": "UAB Innovation projects",
@@ -2277,7 +2308,8 @@
   {
     "name": "UAB RenRamsa projects",
     "code": "307074846",
-    "address": "Kaunas, Kuršių g. 7A, LT-48107"
+    "address": "Kaunas, Kuršių g. 7A, LT-48107",
+    "vatcode": "LT100017781410"
   },
   {
     "name": "UAB Rm projects",
@@ -2489,7 +2521,7 @@
   {
     "name": "UAB \"Projeksta\"",
     "code": "302100536",
-    "address": "Vilniaus m. sav., Salininkų k.",
+    "address": "Vilnius, Gervėbalės g. 6, LT-02210",
     "vatcode": "LT100006204617"
   },
   {
@@ -2501,6 +2533,11 @@
     "name": "MB LHS-Projekt",
     "code": "306996369",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+  },
+  {
+    "name": "MB NMT projekt",
+    "code": "307173075",
+    "address": "Kauno r. sav., Karmėlavos sen., Sergeičikų II k., Briedžių tak. 14, LT-54462"
   },
   {
     "name": "UAB \"Moodul Projekt Lietuva\"",
@@ -2717,6 +2754,11 @@
     "address": "Vilnius, S. Konarskio g. 24-89, LT-03127"
   },
   {
+    "name": "AB \"AKS projektai\"",
+    "code": "307164400",
+    "address": "Kaunas, Elektrėnų g. 10, LT-51218"
+  },
+  {
     "name": "AB \"Pramonės projektai\"",
     "code": "301790543",
     "address": "Šiauliai, Pramonės g. 8, LT-78149",
@@ -2794,8 +2836,7 @@
   {
     "name": "B projektai, UAB",
     "code": "110744849",
-    "address": "Vilnius, Latvių g. 19A-7, LT-08113",
-    "vatcode": "LT107448414"
+    "address": "Vilnius, Latvių g. 19A-7, LT-08113"
   },
   {
     "name": "B2K projektai, MB",
@@ -2935,10 +2976,6 @@
     "code": "305219232",
     "address": "Šiaulių r. sav., Kuršėnai, K. Donelaičio g. 45, LT-81177",
     "vatcode": "LT100012543912"
-  },
-  {
-    "name": "IĮ \"Estos projektai\"",
-    "code": "303333995"
   },
   {
     "name": "IĮ \"Gas fiko\" projektai ir konsultacijos",
@@ -3239,6 +3276,11 @@
     "vatcode": "LT100016601410"
   },
   {
+    "name": "MB \"AT Projektai\"",
+    "code": "307173755",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+  },
+  {
     "name": "MB \"AVA Projektai\"",
     "code": "305582543",
     "address": "Panevėžys, Dainavos g. 22-1, LT-36243"
@@ -3510,7 +3552,7 @@
   {
     "name": "MB \"DIGI Projektai\"",
     "code": "305615598",
-    "address": "Šiauliai, Gegužių g. 37-40, LT-78321"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "MB \"DLS projektai\"",
@@ -3525,13 +3567,19 @@
   {
     "name": "MB \"DSB projektai\"",
     "code": "306920617",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Raizgių k., Pievų g. 30, LT-80191"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Raizgių k., Pievų g. 30, LT-80191",
+    "vatcode": "LT100018199017"
   },
   {
     "name": "MB \"DU projektai\"",
     "code": "305912788",
     "address": "Vilnius, Santariškių g. 75-34, LT-08457",
     "vatcode": "LT100016445319"
+  },
+  {
+    "name": "MB \"DW Projektai\"",
+    "code": "307186731",
+    "address": "Vilnius, Vaduvos g. 22-39, LT-02307"
   },
   {
     "name": "MB \"Darbų saugos ir apskaitos projektai\"",
@@ -3563,8 +3611,7 @@
   {
     "name": "MB \"Dj projektai\"",
     "code": "306333395",
-    "address": "Kaunas, Kukučių g. 39, LT-51338",
-    "vatcode": "LT100016116810"
+    "address": "Kaunas, Kukučių g. 39, LT-51338"
   },
   {
     "name": "MB \"DoGa projektai\"",
@@ -3955,7 +4002,8 @@
   {
     "name": "MB \"Interjero baldų projektai\"",
     "code": "303012402",
-    "address": "Klaipėdos r. sav., Dovilų sen., Kiškėnų k., Rūtų g. 28, LT-96227"
+    "address": "Klaipėdos r. sav., Dovilų sen., Kiškėnų k., Rūtų g. 28, LT-96227",
+    "vatcode": "LT100010135219"
   },
   {
     "name": "MB \"Interjero projektai\"",
@@ -4157,8 +4205,7 @@
   {
     "name": "MB \"Konstrukciniai projektai\"",
     "code": "305072017",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
-    "vatcode": "LT100014845212"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
   },
   {
     "name": "MB \"Konsultavimo projektai\"",
@@ -4258,7 +4305,8 @@
   {
     "name": "MB \"Lavinimo projektai\"",
     "code": "304355247",
-    "address": "Vilnius, Pilies g. 22-6, LT-01123"
+    "address": "Vilnius, Pilies g. 22-6, LT-01123",
+    "vatcode": "LT100018070012"
   },
   {
     "name": "MB \"Lavos projektai\"",
@@ -4269,7 +4317,8 @@
   {
     "name": "MB \"Lengvo ryto projektai\"",
     "code": "306990494",
-    "address": "Vilnius, Algimanto Petro Kavoliuko g. 22-21, LT-04327"
+    "address": "Vilnius, Algimanto Petro Kavoliuko g. 22-21, LT-04327",
+    "vatcode": "LT100018200519"
   },
   {
     "name": "MB \"Leto projektai\"",
@@ -4459,6 +4508,11 @@
     "code": "305565622",
     "address": "Molėtų r. sav., Luokesos sen., Ažubalių k., Moletūno g. 15A, LT-33103",
     "vatcode": "LT100016132515"
+  },
+  {
+    "name": "MB \"Mt 7 projektai\"",
+    "code": "307161500",
+    "address": "Vilnius, Katniavos g. 12, LT-06291"
   },
   {
     "name": "MB \"Mėlyni projektai\"",
@@ -4776,7 +4830,7 @@
   {
     "name": "MB \"Robertos projektai\"",
     "code": "305936294",
-    "address": "Palanga, Senojo Turgaus g. 13-1, LT-00133"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Rojaus projektai\"",
@@ -4947,7 +5001,8 @@
   {
     "name": "MB \"Smauglio projektai\"",
     "code": "304760053",
-    "address": "Kaunas, Vytauto pr. 43A-62, LT-44352"
+    "address": "Kaunas, Vytauto pr. 43A-62, LT-44352",
+    "vatcode": "LT100017795017"
   },
   {
     "name": "MB \"Smilgos projektai\"",
@@ -5081,7 +5136,8 @@
   {
     "name": "MB \"Ugi projektai\"",
     "code": "306975873",
-    "address": "Vilnius, Aukštaičių g. 5-34, LT-11341"
+    "address": "Vilnius, Aukštaičių g. 5-34, LT-11341",
+    "vatcode": "LT100017967317"
   },
   {
     "name": "MB \"Ukmegos projektai\"",
@@ -5178,7 +5234,7 @@
   {
     "name": "MB \"Zam projektai\"",
     "code": "306131212",
-    "address": "Vilnius, Žirmūnų g. 70C-58, LT-09134",
+    "address": "Vilnius, Baltupio g. 65C-20, LT-08322",
     "vatcode": "LT100015280712"
   },
   {
@@ -5422,7 +5478,8 @@
   {
     "name": "MB Aurista projektai",
     "code": "307129940",
-    "address": "Prienai, Pievų g. 8, LT-59111"
+    "address": "Prienai, Pievų g. 8, LT-59111",
+    "vatcode": "LT100017739712"
   },
   {
     "name": "MB Aves projektai",
@@ -5466,6 +5523,11 @@
     "name": "MB Barbeno projektai",
     "code": "306435749",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+  },
+  {
+    "name": "MB Bb projektai",
+    "code": "307176413",
+    "address": "Kaunas, Kaniūkų 2-oji g. 9, LT-47154"
   },
   {
     "name": "MB Beno projektai",
@@ -5520,7 +5582,8 @@
   {
     "name": "MB DSA PROJEKTAI",
     "code": "306696628",
-    "address": "Vilnius, Kelmijos Sodų 57-oji g. 23, LT-02222"
+    "address": "Vilnius, Kelmijos Sodų 57-oji g. 23, LT-02222",
+    "vatcode": "LT100017795713"
   },
   {
     "name": "MB Daivos projektai",
@@ -5558,6 +5621,11 @@
     "name": "MB Dream projektai",
     "code": "306801844",
     "address": "Kaunas, Savanorių pr. 194, LT-44151"
+  },
+  {
+    "name": "MB Duoma projektai",
+    "code": "307162584",
+    "address": "Vilniaus r. sav., Dūkštų sen., Tintiniškių k., Slėnio g. 7, LT-14234"
   },
   {
     "name": "MB Dėdės projektai",
@@ -5624,7 +5692,7 @@
   {
     "name": "MB Elektros energijos projektai",
     "code": "306684309",
-    "address": "Vilnius, Fabijoniškių g. 5-96, LT-06335"
+    "address": "Klaipėda, Naikupės g. 12A-37, LT-93255"
   },
   {
     "name": "MB Emilijos projektai",
@@ -5932,6 +6000,11 @@
     "vatcode": "LT100014634012"
   },
   {
+    "name": "MB Ledeco projektai",
+    "code": "307183799",
+    "address": "Vilnius, Algimanto Petro Kavoliuko g. 13-226, LT-04323"
+  },
+  {
     "name": "MB Leono projektai",
     "code": "306966746",
     "address": "Kaunas, Biržiškų g. 5-53, LT-51457"
@@ -6022,8 +6095,7 @@
   {
     "name": "MB Mig projektai",
     "code": "306725204",
-    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144",
-    "vatcode": "LT100016818912"
+    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144"
   },
   {
     "name": "MB Milanos projektai",
@@ -6040,6 +6112,11 @@
     "code": "306391092",
     "address": "Kaunas, Studentų g. 42, LT-50251",
     "vatcode": "LT100016358213"
+  },
+  {
+    "name": "MB Mora Projektai",
+    "code": "307184292",
+    "address": "Vilnius, Kalvarijų g. 178-68, LT-08205"
   },
   {
     "name": "MB Mrs projektai",
@@ -6187,6 +6264,11 @@
     "address": "Alytus, Pulko g. 43-8, LT-62135"
   },
   {
+    "name": "MB Pjerė projektai",
+    "code": "307166344",
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Teleičių k., Narsiečių g. 32, LT-53273"
+  },
+  {
     "name": "MB Pliažo projektai",
     "code": "305738661",
     "address": "Ignalina, Švenčionių g. 15, LT-30132"
@@ -6253,7 +6335,8 @@
   {
     "name": "MB Psichologijos projektai",
     "code": "305882590",
-    "address": "Ukmergė, Gruodžio 17-osios g. 23A, LT-20139"
+    "address": "Ukmergė, Gruodžio 17-osios g. 23A, LT-20139",
+    "vatcode": "LT100018213016"
   },
   {
     "name": "MB Psichoterapiniai projektai",
@@ -6308,13 +6391,13 @@
   {
     "name": "MB SG projektai",
     "code": "305681160",
-    "address": "Panevėžys, Kazio Naruševičiaus g. 27, LT-37125"
+    "address": "Panevėžys, Kazio Naruševičiaus g. 27, LT-37125",
+    "vatcode": "LT100017992913"
   },
   {
     "name": "MB SGG projektai",
     "code": "306949743",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228",
-    "vatcode": "LT100017076510"
+    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "MB SPK projektai",
@@ -6429,7 +6512,8 @@
   {
     "name": "MB TLM projektai",
     "code": "307137524",
-    "address": "Trakai, Nendrių g. 9, LT-21127"
+    "address": "Trakai, Nendrių g. 9, LT-21127",
+    "vatcode": "LT100017809313"
   },
   {
     "name": "MB Tetra Projektai",
@@ -6595,6 +6679,11 @@
     "address": "Trakų r. sav., Lentvario sen., Užukampio k., Gėlių g. 4, LT-25143"
   },
   {
+    "name": "MB Šeimos projektai",
+    "code": "307164368",
+    "address": "Prienų r. sav., Pakuonio sen., Daukšiagirės k., Dvaro g. 1, LT-59321"
+  },
+  {
     "name": "MB Šilalės projektai",
     "code": "305977138",
     "address": "Kaunas, Medvėgalio g. 13-49, LT-44444"
@@ -6685,9 +6774,19 @@
     "address": "Molėtų r. sav., Suginčių sen., Skudutiškio k., Kaštonų g. 21, LT-33322"
   },
   {
+    "name": "Mažoji bendrija \"Projektai ir kūryba\"",
+    "code": "305224158",
+    "address": "Vilniaus r. sav., Avižienių sen., Saldenės k., Pamiškės g. 7-2, LT-14186"
+  },
+  {
     "name": "Mažoji bendrija \"Svajonių projektai\"",
     "code": "307137136",
     "address": "Vilnius, Svajonių g. 24-18, LT-10100"
+  },
+  {
+    "name": "Mažoji bendrija \"Technologiniai projektai\"",
+    "code": "307169123",
+    "address": "Kaunas, Vandžiogalos pl. 8-6, LT-47441"
   },
   {
     "name": "Mažoji bendrija \"Tekstilės projektai\"",
@@ -6735,9 +6834,15 @@
     "address": "Kauno r. sav., Garliava, Stasio Lozoraičio g. 11-47, LT-53223"
   },
   {
+    "name": "Mažoji bendrija E-projektai",
+    "code": "307163259",
+    "address": "Druskininkai, Palangos g. 11, LT-66172"
+  },
+  {
     "name": "Mažoji bendrija Emp projektai",
     "code": "307120553",
-    "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Taikos g. 4, LT-14162"
+    "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Taikos g. 4, LT-14162",
+    "vatcode": "LT100017796711"
   },
   {
     "name": "Mažoji bendrija GNJ Projektai",
@@ -7194,7 +7299,8 @@
   {
     "name": "UAB \"Alvetos projektai\"",
     "code": "300882711",
-    "address": "Plungės r. sav., Stalgėnų sen., Milašaičių k., Plungės g. 8, LT-90355"
+    "address": "Plungės r. sav., Stalgėnų sen., Milašaičių k., Plungės g. 8, LT-90355",
+    "vatcode": "LT100018068616"
   },
   {
     "name": "UAB \"Ambitio projektai\"",
@@ -7765,7 +7871,8 @@
   {
     "name": "UAB \"Ekohub projektai\"",
     "code": "304300763",
-    "address": "Šiauliai, Vilniaus g. 146-1, LT-76297"
+    "address": "Šiauliai, Vilniaus g. 146-1, LT-76297",
+    "vatcode": "LT100018042713"
   },
   {
     "name": "UAB \"Ekologiniai projektai\"",
@@ -8240,7 +8347,7 @@
   {
     "name": "UAB \"Ino projektai\"",
     "code": "304368006",
-    "address": "Vilnius, Šeškinės g. 53-43, LT-07159",
+    "address": "Vilnius, Šeškinės g. 45-21, LT-07158",
     "vatcode": "LT100011144516"
   },
   {
@@ -9421,7 +9528,8 @@
   {
     "name": "UAB \"RGR projektai\"",
     "code": "300631125",
-    "address": "Šiauliai, Tilžės g. 170, LT-76296"
+    "address": "Šiauliai, Tilžės g. 170, LT-76296",
+    "vatcode": "LT100018072715"
   },
   {
     "name": "UAB \"RR Projektai\"",
@@ -9499,7 +9607,8 @@
   {
     "name": "UAB \"Runa\" projektai",
     "code": "306684355",
-    "address": "Vilnius, Dzūkų g. 15-46, LT-02161"
+    "address": "Vilnius, Dzūkų g. 15-46, LT-02161",
+    "vatcode": "LT100017854510"
   },
   {
     "name": "UAB \"Rytojaus vizijos projektai\"",
@@ -9760,7 +9869,7 @@
   {
     "name": "UAB \"Skanūs projektai\"",
     "code": "304780668",
-    "address": "Vilnius, Olandų g. 10A-5, LT-01100",
+    "address": "Trakų r. sav., Lentvario sen., Vosyliukų k., Tulpių al. 9, LT-21424",
     "vatcode": "LT100011565514"
   },
   {
@@ -10078,8 +10187,7 @@
   {
     "name": "UAB \"Traškūs projektai\"",
     "code": "303094680",
-    "address": "Trakų r. sav., Lentvario sen., Vosyliukų k., Tulpių al. 9, LT-21424",
-    "vatcode": "LT100008247813"
+    "address": "Trakų r. sav., Lentvario sen., Vosyliukų k., Tulpių al. 9, LT-21424"
   },
   {
     "name": "UAB \"Trs projektai\"",
@@ -10383,8 +10491,7 @@
   {
     "name": "UAB \"Vertimų projektai\"",
     "code": "301697683",
-    "address": "Klaipėda, Danės g. 6, LT-92109",
-    "vatcode": "LT100004186019"
+    "address": "Klaipėda, Danės g. 6, LT-92109"
   },
   {
     "name": "UAB \"Vikingų projektai\"",
@@ -10802,8 +10909,7 @@
   {
     "name": "UAB Energetiniai investiciniai projektai",
     "code": "302836374",
-    "address": "Vilnius, V. Mačernio g. 48, LT-08336",
-    "vatcode": "LT100007326216"
+    "address": "Vilnius, V. Mačernio g. 48, LT-08336"
   },
   {
     "name": "UAB Eris projektai",
@@ -11061,6 +11167,11 @@
     "vatcode": "LT100016564311"
   },
   {
+    "name": "UAB RG projektai",
+    "code": "307171245",
+    "address": "Vilnius, Veiverių g. 9B-41, LT-11346"
+  },
+  {
     "name": "UAB Raudondvario projektai",
     "code": "305722073",
     "address": "Kauno miesto savivaldybės teritorija"
@@ -11107,11 +11218,6 @@
     "vatcode": "LT100014836516"
   },
   {
-    "name": "UAB Saulės šviesos projektai",
-    "code": "302866061",
-    "address": "Raseiniai, Medelyno g. 1, LT-60187"
-  },
-  {
     "name": "UAB Silvestos projektai",
     "code": "305620816",
     "address": "Vilnius, I. Simonaitytės g. 4-42, LT-06244"
@@ -11136,6 +11242,11 @@
     "name": "UAB Sts projektai",
     "code": "306127203",
     "address": "Vilnius, Šiaurės g. 2, LT-11101"
+  },
+  {
+    "name": "UAB Svarbūs projektai",
+    "code": "307174106",
+    "address": "Vilnius, Spaudos g. 8-1, LT-05132"
   },
   {
     "name": "UAB Tvaraus vystymo projektai",
@@ -11209,7 +11320,7 @@
   {
     "name": "UAB Vėtrungių projektai",
     "code": "306278422",
-    "address": "Kaunas, Vytauto pr. 32, LT-44328",
+    "address": "Neringa, Vėtrungių g. 354B-R1, LT-93132",
     "vatcode": "LT100015888413"
   },
   {
@@ -11453,6 +11564,11 @@
     "address": "Vilnius, Ateities g. 77-65, LT-06324"
   },
   {
+    "name": "Viešoji įstaiga \"Gokulos projektai\"",
+    "code": "307181054",
+    "address": "Kelmės r. sav., Kražių sen., Butkiškės k., Kražių g. 13, LT-86272"
+  },
+  {
     "name": "Viešoji įstaiga \"Keisti projektai\"",
     "code": "301592682",
     "address": "Alytaus r. sav., Alovės sen., Alytaus k., Druskininkų g. 21, LT-64101"
@@ -11498,7 +11614,8 @@
   {
     "name": "Viešoji įstaiga \"Motyvaciniai projektai\"",
     "code": "302528565",
-    "address": "Palanga, Vaivorykštės g. 72G-7, LT-00168"
+    "address": "Palanga, Vaivorykštės g. 72G-7, LT-00168",
+    "vatcode": "LT100005879712"
   },
   {
     "name": "Viešoji įstaiga \"Nepriklausomi projektai\"",
@@ -11541,10 +11658,6 @@
     "code": "126092067",
     "address": "Vilnius, Gedimino pr. 24, LT-01103",
     "vatcode": "LT100000944113"
-  },
-  {
-    "name": "Viešoji įstaiga \"Socialiniai projektai internete\"",
-    "code": "302422494"
   },
   {
     "name": "Viešoji įstaiga \"Socialiniai projektai ir konsultacijos\"",
@@ -11605,7 +11718,8 @@
   {
     "name": "Viešoji įstaiga Publika projektai",
     "code": "306659245",
-    "address": "Vilniaus r. sav., Riešės sen., Raudondvario k., Žirgų g. 18-6, LT-14257"
+    "address": "Vilniaus r. sav., Riešės sen., Raudondvario k., Žirgų g. 18-6, LT-14257",
+    "vatcode": "LT100017867213"
   },
   {
     "name": "Viešoji įstaiga Svėdasų projektai",
@@ -12152,7 +12266,8 @@
   {
     "name": "VšĮ EDUKACINIAI PROJEKTAI",
     "code": "302474733",
-    "address": "Šiauliai, Vilniaus g. 23-30, LT-76277"
+    "address": "Šiauliai, Vilniaus g. 23-30, LT-76277",
+    "vatcode": "LT100017884411"
   },
   {
     "name": "VšĮ G sporto projektai",
@@ -12486,7 +12601,7 @@
   {
     "name": "MB \"K 16 projektas\"",
     "code": "306684736",
-    "address": "Vilnius, Vytauto Žalakevičiaus g. 4A-25, LT-10111",
+    "address": "Vilnius, A. Kojelavičiaus g. 16, LT-11100",
     "vatcode": "LT100016887017"
   },
   {
@@ -12503,10 +12618,6 @@
     "name": "MB \"Ledainės projektas\"",
     "code": "305784655",
     "address": "Kaunas, Plento g. 14-21, LT-45397"
-  },
-  {
-    "name": "MB \"Lumos projektas\"",
-    "code": "306178799"
   },
   {
     "name": "MB \"Lvd projektas\"",
@@ -12716,7 +12827,7 @@
   {
     "name": "MB Auto projektas",
     "code": "307129805",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilniaus r. sav., Nemėžio sen., Nemėžio k., V. Sirokomlės g. 34, LT-13260"
   },
   {
     "name": "MB Buhalterijos projektas",
@@ -12764,7 +12875,8 @@
   {
     "name": "MB Ob projektas",
     "code": "306455602",
-    "address": "Kaunas, J. Zikaro g. 7, LT-44261"
+    "address": "Kaunas, J. Zikaro g. 7, LT-44261",
+    "vatcode": "LT100017779419"
   },
   {
     "name": "MB Skaitmeninis projektas",
@@ -12790,12 +12902,14 @@
   {
     "name": "MB Vienas projektas",
     "code": "306232713",
-    "address": "Kaunas, L. Truikio g. 15, LT-47260"
+    "address": "Kaunas, L. Truikio g. 15, LT-47260",
+    "vatcode": "LT100017753718"
   },
   {
     "name": "Mažoji bendrija Bahuru projektas",
     "code": "307128450",
-    "address": "Vilnius, Apolinaro Juozo Povilaičio g. 3-174, LT-04335"
+    "address": "Vilnius, Apolinaro Juozo Povilaičio g. 3-174, LT-04335",
+    "vatcode": "LT100017769916"
   },
   {
     "name": "N. Treinio firma \"MŪSŲ PROJEKTAS\"",
@@ -12810,7 +12924,8 @@
   {
     "name": "Nuomos projektas, MB",
     "code": "305798092",
-    "address": "Vilnius, Rygos g. 11-8, LT-05257"
+    "address": "Vilnius, Rygos g. 11-8, LT-05257",
+    "vatcode": "LT100017747316"
   },
   {
     "name": "OZO PROJEKTAS, UAB",
@@ -13014,7 +13129,8 @@
   {
     "name": "UAB \"Grupės projektas penki\"",
     "code": "307121107",
-    "address": "Vilnius, A. Goštauto g. 40B, LT-03163"
+    "address": "Vilnius, A. Goštauto g. 40B, LT-03163",
+    "vatcode": "LT100018074913"
   },
   {
     "name": "UAB \"Grupės projektas trys\"",
@@ -13183,8 +13299,7 @@
   {
     "name": "UAB \"NT VIR Projektas\"",
     "code": "305866141",
-    "address": "Vilnius, Konstitucijos pr. 15-76, LT-09319",
-    "vatcode": "LT100016913918"
+    "address": "Vilnius, Konstitucijos pr. 15-76, LT-09319"
   },
   {
     "name": "UAB \"NT projektas\"",
@@ -13858,7 +13973,8 @@
   {
     "name": "MB \"Level Konstrukcijų Projektavimas\"",
     "code": "306058337",
-    "address": "Kaunas, V. Krėvės pr. 59-18, LT-50357"
+    "address": "Kaunas, V. Krėvės pr. 59-18, LT-50357",
+    "vatcode": "LT100017785018"
   },
   {
     "name": "MB \"Projektavimas tau\"",
@@ -13884,7 +14000,8 @@
   {
     "name": "MB C design projektavimas",
     "code": "306176264",
-    "address": "Vilnius, Santariškių g. 29-18, LT-08437"
+    "address": "Vilnius, Santariškių g. 29-18, LT-08437",
+    "vatcode": "LT100018161312"
   },
   {
     "name": "MB Kelių ir gatvių projektavimas",
@@ -14117,11 +14234,6 @@
     "vatcode": "LT238012610"
   },
   {
-    "name": "Benečio projektavimo įmonė",
-    "code": "152516841",
-    "address": "Palangos m. sav."
-  },
-  {
     "name": "Birutės Kundrotienės projektavimo IĮ",
     "code": "161142983",
     "address": "Kėdainiai, Paeismilgio g. 14, LT-57247"
@@ -14184,19 +14296,9 @@
     "address": "Utena, Maironio g. 4, LT-28241"
   },
   {
-    "name": "G. Klimavičiaus projektavimo firma \"SUTI\"",
-    "code": "120522131",
-    "address": "Vilnius, Totorių g. 22-5, LT-01121"
-  },
-  {
     "name": "G. Vaupšo projektavimo firma",
     "code": "140586796",
     "address": "Klaipėda, Kretingos g. 3-27, LT-92220"
-  },
-  {
-    "name": "G. Zalagėno projektavimo ir inžinierinių paslaugų individuali įmonė",
-    "code": "157661680",
-    "address": "Joniškis, Upytės g. 3-5, LT-84139"
   },
   {
     "name": "Gedimino Lietuvininko projektavimo firma \"GEDILIETA\"",
@@ -14347,11 +14449,6 @@
     "address": "Panevėžys, Gėlainių g. 13, LT-36252"
   },
   {
-    "name": "J. Čelpanovos projektavimo įmonė",
-    "code": "140533669",
-    "address": "Klaipėda, Kretingos g. 27-10, LT-92301"
-  },
-  {
     "name": "Jolitos Šileikaitės projektavimo įmonė",
     "code": "125581742",
     "address": "Vilnius, Architektų g. 110-90, LT-04223"
@@ -14390,11 +14487,6 @@
     "name": "Laimos Naujokaitienės individuali projektavimo įmonė",
     "code": "122181515",
     "address": "Vilnius, Marijos Horodničienės g. 11, LT-08412"
-  },
-  {
-    "name": "Lietuvos Architektų Sąjungos projektavimo firma \"A+M\"",
-    "code": "120718482",
-    "address": "Vilnius, Architektų g. 222-43, LT-04215"
   },
   {
     "name": "Lietuvos projektavimo valdytojų ir statybos valdytojų asociacija",
@@ -14537,11 +14629,6 @@
     "address": "Gargždai, Žvejų g. 23, LT-96139"
   },
   {
-    "name": "Petro Grecevičiaus architektūrinio projektavimo firma",
-    "code": "152418888",
-    "address": "Palanga, Taikos g. 15-9, LT-00118"
-  },
-  {
     "name": "Pociaus projektavimo įmonė",
     "code": "152971312",
     "address": "Akmenės r. sav., Akmenė, Laižuvos g. 8A-9, LT-85357"
@@ -14609,11 +14696,6 @@
     "vatcode": "LT811436811"
   },
   {
-    "name": "R. Valiukonio projektavimo firma",
-    "code": "140569918",
-    "address": "Klaipėda, Vilties g. 5-6, LT-92227"
-  },
-  {
     "name": "R. Šneiderio projektavimo įmonė",
     "code": "240574670",
     "address": "Klaipėda, Taikos pr. 24-13, LT-91222"
@@ -14627,10 +14709,6 @@
     "name": "R. Žvaliauskienės projektavimo įmonė \"STRAMPAS\"",
     "code": "151166217",
     "address": "Marijampolė, L. Giros g. 5, LT-68118"
-  },
-  {
-    "name": "Raimondo Palubeckio projektavimo įmonė",
-    "code": "121510146"
   },
   {
     "name": "Redos Marcinkevičienės projektavimo biuras",
@@ -14713,11 +14791,6 @@
     "vatcode": "LT100004913418"
   },
   {
-    "name": "Tomo Žibo projektavimo įmonė",
-    "code": "132780253",
-    "address": "Kaunas, Vokiečių g. 57-3"
-  },
-  {
     "name": "UAB \"AGB projektavimo studija\"",
     "code": "300630685",
     "address": "Vilnius, Verkių g. 29H, LT-09108"
@@ -14759,7 +14832,8 @@
   {
     "name": "UAB \"Projektavimo namai\"",
     "code": "304745891",
-    "address": "Vilnius, Verkių g. 30B, LT-08221"
+    "address": "Vilnius, Verkių g. 30B, LT-08221",
+    "vatcode": "LT100018164014"
   },
   {
     "name": "UAB \"Projektavimo studija ARKA\"",
@@ -14908,7 +14982,7 @@
     "address": "Klaipėda, Taikos pr. 24-13, LT-91222"
   },
   {
-    "name": "V. Dantos projektavimo firma",
+    "name": "V. Dantos projektavimo firma, IĮ",
     "code": "141633042",
     "address": "Klaipėda, Debreceno g. 92-13, LT-94156"
   },
@@ -14938,11 +15012,6 @@
     "address": "Vilnius, Jogailos g. 12-33, LT-01116"
   },
   {
-    "name": "V. Špečkausko projektavimo įmonė",
-    "code": "161641089",
-    "address": "Kėdainiai, Ramybės skv. 2-6, LT-57294"
-  },
-  {
     "name": "Valstybinio technologinio projektavimo konstravimo biuro Lietuvos filialas-biuras \"Konstruktorius\"",
     "code": "110159849",
     "address": "Vilnius, Šeimyniškių g. 15-2, LT-09312"
@@ -14951,11 +15020,6 @@
     "name": "Vaškevičių projektavimo firma \"Sandara\"",
     "code": "120717195",
     "address": "Vilnius, Paribio g. 28-5, LT-08103"
-  },
-  {
-    "name": "Viačeslavo Čerenkovo projektavimo įmonė \"ESTETIKA\"",
-    "code": "261117810",
-    "address": "Kėdainiai, Didžioji g. 4-1, LT-57248"
   },
   {
     "name": "Viešoji įstaiga \"Automatizuoto projektavimo ir gamybos sistemų mokymo ir konsultacijos centras\"",
@@ -14978,11 +15042,6 @@
     "code": "300584526",
     "address": "Kaunas, Kovo 11-osios g. 128A-11, LT-49380",
     "vatcode": "LT100003113815"
-  },
-  {
-    "name": "Vytauto Budvyčio projektavimo įmonė",
-    "code": "132837868",
-    "address": "Kaunas, Šv. Gertrūdos g. 23A-5"
   },
   {
     "name": "Vytauto Sadausko statybos-projektavimo firma \"Savy\"",
@@ -15225,7 +15284,8 @@
   {
     "name": "UAB \"Projekto partneris\"",
     "code": "304461478",
-    "address": "Palanga, Pirties g. 7A, LT-00230"
+    "address": "Palanga, Pirties g. 7A, LT-00230",
+    "vatcode": "LT100017768716"
   },
   {
     "name": "UAB \"Projekto savininkas\"",
@@ -15708,7 +15768,8 @@
   {
     "name": "MB \"Projektų sala\"",
     "code": "303479384",
-    "address": "Kretinga, M. Valančiaus g. 5, LT-97171"
+    "address": "Kretinga, M. Valančiaus g. 5, LT-97171",
+    "vatcode": "LT100017991915"
   },
   {
     "name": "MB \"Projektų vadybos centras\"",
@@ -15913,7 +15974,8 @@
   {
     "name": "Projektų grupė, MB",
     "code": "304097494",
-    "address": "Kaunas, Kuršių g. 14-53, LT-48147"
+    "address": "Kaunas, Kuršių g. 14-53, LT-48147",
+    "vatcode": "LT100017950211"
   },
   {
     "name": "Projektų sprendimai, MB",

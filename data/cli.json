@@ -12,7 +12,8 @@
   {
     "name": "MB \"Click thru\"",
     "code": "306378134",
-    "address": "Visaginas, Vilties g. 18-6, LT-31121"
+    "address": "Visaginas, Vilties g. 18-6, LT-31121",
+    "vatcode": "LT100018113918"
   },
   {
     "name": "MB \"Single click\"",
@@ -60,12 +61,18 @@
   {
     "name": "MB \"Clicked\"",
     "code": "307067129",
-    "address": "Vilnius, Manufaktūrų g. 7-155, LT-11342"
+    "address": "Vilnius, Manufaktūrų g. 7-155, LT-11342",
+    "vatcode": "LT100017809919"
   },
   {
     "name": "Clickthrough Creatives UAB",
     "code": "306137279",
     "address": "Vilnius, Italų g. 17A-2, LT-11331"
+  },
+  {
+    "name": "MB Clientiq",
+    "code": "307182099",
+    "address": "Vilnius, Ceikinių g. 5-6, LT-09322"
   },
   {
     "name": "MB Clienture",
@@ -96,6 +103,11 @@
     "vatcode": "LT100016080917"
   },
   {
+    "name": "Climate Risk Consulting, MB",
+    "code": "307187484",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
     "name": "UAB \"ADAL Climate Group\"",
     "code": "305892474",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
@@ -108,7 +120,8 @@
   {
     "name": "UAB Climate solutions",
     "code": "306691314",
-    "address": "Vilniaus r. sav., Riešės sen., Skirgiškių k., Skirgiškių g. 67-2, LT-15148"
+    "address": "Vilniaus r. sav., Riešės sen., Skirgiškių k., Skirgiškių g. 67-2, LT-15148",
+    "vatcode": "LT100017732614"
   },
   {
     "name": "\"Climatika\", UAB",
@@ -214,15 +227,10 @@
     "vatcode": "LT100017719718"
   },
   {
-    "name": "MB \"Sync Clinic\"",
-    "code": "306641884",
-    "address": "Kaunas, Laisvės al. 18-41, LT-44238",
-    "vatcode": "LT100016735411"
-  },
-  {
     "name": "MB Balance healthcare clinic",
     "code": "307140972",
-    "address": "Kaunas, Balno g. 4-2, LT-46466"
+    "address": "Kaunas, Balno g. 4-2, LT-46466",
+    "vatcode": "LT100017757519"
   },
   {
     "name": "MB DANYS CLINIC",
@@ -271,7 +279,8 @@
   {
     "name": "UAB \"BECHARA CLINIC\"",
     "code": "305435422",
-    "address": "Vilnius, M. K. Čiurlionio g. 3-102, LT-03104"
+    "address": "Vilnius, M. K. Čiurlionio g. 3-102, LT-03104",
+    "vatcode": "LT100013935912"
   },
   {
     "name": "UAB \"Baltic clinic\"",
@@ -303,6 +312,12 @@
     "name": "UAB \"Neuforma Clinic\"",
     "code": "303153698",
     "address": "Vilnius, P. Vileišio g. 21-24, LT-10302"
+  },
+  {
+    "name": "UAB \"Sync Clinic\"",
+    "code": "306641884",
+    "address": "Kaunas, Laisvės al. 18-41, LT-44238",
+    "vatcode": "LT100016735411"
   },
   {
     "name": "UAB Anima et corpus clinic",

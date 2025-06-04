@@ -116,7 +116,8 @@
   {
     "name": "AB \"Basketball Holding Company\"",
     "code": "305722828",
-    "address": "Vilnius, Ozo g. 14, LT-08200"
+    "address": "Vilnius, Ozo g. 14, LT-08200",
+    "vatcode": "LT100018038513"
   },
   {
     "name": "Aircraft Part-Out Company Europe B.V. filialas \"APOC Lithuania\"",
@@ -206,6 +207,11 @@
     "name": "Didžiosios Britanijos firmos \"SHELL INTERNATIONAL PETROLEUM COMPANY LIMITED\" atstovybė",
     "code": "110223419",
     "address": "Vilnius, Gedimino pr. 3A-2, LT-01103"
+  },
+  {
+    "name": "Easy company, MB",
+    "code": "307180358",
+    "address": "Vilnius, Skroblų g. 12-54, LT-03142"
   },
   {
     "name": "El Mokhtari distribution company UAB",
@@ -346,7 +352,8 @@
   {
     "name": "LEED COMPANY, MB",
     "code": "307133216",
-    "address": "Vilnius, A. Goštauto g. 8-224, LT-01108"
+    "address": "Vilnius, A. Goštauto g. 8-224, LT-01108",
+    "vatcode": "LT100017965512"
   },
   {
     "name": "LITMETAL SUPPLY COMPANY atstovybė",
@@ -834,7 +841,8 @@
   {
     "name": "UAB \"Baltic Construction Company\"",
     "code": "124520494",
-    "address": "Vilnius, Kirtimų g. 49, LT-02244"
+    "address": "Vilnius, Kirtimų g. 49, LT-02244",
+    "vatcode": "LT245204917"
   },
   {
     "name": "UAB \"Baltic Oil Company\"",
@@ -871,7 +879,8 @@
   {
     "name": "UAB \"C Company\"",
     "code": "306322598",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
+    "address": "Vilnius, Jogailos g. 4, LT-01116",
+    "vatcode": "LT100018051510"
   },
   {
     "name": "UAB \"COMPANY EXPRESS\"",
@@ -1073,11 +1082,6 @@
     "vatcode": "LT100001342215"
   },
   {
-    "name": "UAB \"Lithuanian international transfer company\"",
-    "code": "306744560",
-    "address": "Klaipėda, Bandužių g. 17-48, LT-95230"
-  },
-  {
     "name": "UAB \"Lithuanian trade company\"",
     "code": "306659672",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -1271,7 +1275,8 @@
   {
     "name": "UAB Aurida engineering company",
     "code": "307088148",
-    "address": "Panevėžys, Pramonės g. 8, LT-35100"
+    "address": "Panevėžys, Pramonės g. 8, LT-35100",
+    "vatcode": "LT100018042612"
   },
   {
     "name": "UAB BALTIC MARKETING COMPANY",
@@ -1394,8 +1399,7 @@
   {
     "name": "UAB PRV Company",
     "code": "306674286",
-    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Švedės g. 52, LT-81490",
-    "vatcode": "LT100016692212"
+    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Švedės g. 52, LT-81490"
   },
   {
     "name": "UAB Pauls company",
@@ -1655,6 +1659,11 @@
     "vatcode": "LT100014986317"
   },
   {
+    "name": "MB Compliance Advisory Group",
+    "code": "307169625",
+    "address": "Vilnius, Gilužio g. 6-37, LT-06279"
+  },
+  {
     "name": "UAB \"DAR Compliance\"",
     "code": "305552258",
     "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Juostos g. 6, LT-38187"
@@ -1672,7 +1681,8 @@
   {
     "name": "MB \"Body compliments\"",
     "code": "306176595",
-    "address": "Vilnius, Kernavės g. 17-223, LT-09300"
+    "address": "Vilnius, Kernavės g. 17-223, LT-09300",
+    "vatcode": "LT100018029918"
   },
   {
     "name": "Individuali įmonė \"COMPLUX\"",
@@ -1877,12 +1887,14 @@
   {
     "name": "MB \"Computantis\"",
     "code": "305216745",
-    "address": "Vilniaus r. sav., Nemėžio sen., Didžiasalio k., Filaretų g. 53, LT-13264"
+    "address": "Vilniaus r. sav., Nemėžio sen., Didžiasalio k., Filaretų g. 53, LT-13264",
+    "vatcode": "LT100018079813"
   },
   {
     "name": "Computech LT, UAB",
     "code": "305608148",
-    "address": "Vilnius, Birutės Marijos Gimbutienės g. 5, LT-10245"
+    "address": "Vilnius, Birutės Marijos Gimbutienės g. 5, LT-10245",
+    "vatcode": "LT100017928316"
   },
   {
     "name": "Infocorp Computer Solutions DBA Paylux Processing Service, UAB",
@@ -1923,8 +1935,7 @@
   {
     "name": "Commercial computing, UAB",
     "code": "305960690",
-    "address": "Vilnius, P. Vileišio g. 14B-12, LT-10306",
-    "vatcode": "LT100014611619"
+    "address": "Vilnius, P. Vileišio g. 14B-12, LT-10306"
   },
   {
     "name": "MB P-mac Computing",

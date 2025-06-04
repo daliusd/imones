@@ -234,10 +234,6 @@
     "address": "Vilnius, Gedimino pr. 20, LT-01103"
   },
   {
-    "name": "UAB \"System Service Intl.\"",
-    "code": "306417181"
-  },
-  {
     "name": "UAB BALTIC TRANSPORT SYSTEM",
     "code": "302693944",
     "address": "Vilnius, Švitrigailos g. 11A, LT-03228",
@@ -361,11 +357,6 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
-    "name": "UAB \"Systemizo\"",
-    "code": "307085497",
-    "address": "Vilnius, Gilužio g. 43-12, LT-06239"
-  },
-  {
     "name": "\"Business Management Systems\", IĮ",
     "code": "302619883",
     "address": "Vilnius, Šeimyniškių g. 21-55, LT-09236"
@@ -383,7 +374,8 @@
   {
     "name": "AKK Systems UAB",
     "code": "307037488",
-    "address": "Vilnius, Rūdninkų g. 4, LT-01135"
+    "address": "Vilnius, Rūdninkų g. 4, LT-01135",
+    "vatcode": "LT100017898119"
   },
   {
     "name": "AQ Wiring Systems UAB",
@@ -515,6 +507,11 @@
     "code": "306090790",
     "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k., Ryternos g. 3C-1, LT-54469",
     "vatcode": "LT100015180015"
+  },
+  {
+    "name": "Laima systems UAB",
+    "code": "307171708",
+    "address": "Biržų r. sav., Nemunėlio Radviliškis, Aušros g. 5-9, LT-41444"
   },
   {
     "name": "M J Systems Europe, UAB",
@@ -912,7 +909,8 @@
   {
     "name": "UAB \"Idiles systems\"",
     "code": "300662003",
-    "address": "Vilnius, Šv. Ignoto g. 5, LT-01144"
+    "address": "Vilnius, Šv. Ignoto g. 5, LT-01144",
+    "vatcode": "LT100003863311"
   },
   {
     "name": "UAB \"Kozero Systems LT\"",

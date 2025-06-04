@@ -91,7 +91,8 @@
   {
     "name": "UAB Plungė AG",
     "code": "307155554",
-    "address": "Kaunas, I. Kanto g. 25, LT-44296"
+    "address": "Kaunas, I. Kanto g. 25, LT-44296",
+    "vatcode": "LT100018049519"
   },
   {
     "name": "Visuomeninė organizacija \"Darni Plungė\"",
@@ -162,6 +163,11 @@
     "name": "Asociacija \"Plungės skautai\"",
     "code": "304615353",
     "address": "Plungės r. sav., Nausodžio sen., Kaušėnų k., Slyvų g. 8, LT-90175"
+  },
+  {
+    "name": "Asociacija \"Plungės šaulių kuopa\"",
+    "code": "307176541",
+    "address": "Plungės r. sav., Šateikių sen., Alksnėnų k., Aronijų g. 9, LT-90179"
   },
   {
     "name": "Asociacija \"Rietavo ir Plungės sodžius\"",
@@ -794,11 +800,6 @@
     "address": "Plungė, Telšių g. 12-8, LT-90162"
   },
   {
-    "name": "Plungės vaikų globos agentūra \"Cyrulis\"",
-    "code": "193369786",
-    "address": "Plungė, Telšių g. 19-4, LT-90162"
-  },
-  {
     "name": "Plungės vaikų ir jaunimo regbio klubas \"Dorbė\"",
     "code": "302494419",
     "address": "Plungė, Mozūrų g. 39, LT-90161"
@@ -1182,11 +1183,6 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Daržų g. 15A, LT-91276"
   },
   {
-    "name": "Kooperatinė bendrovė \"Baltoji plunksnelė\"",
-    "code": "301293559",
-    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Gamyklos g. 27, LT-13249"
-  },
-  {
     "name": "MB \"Aštuonios plunksnelės\"",
     "code": "303407997",
     "address": "Kaunas, Raudondvario pl. 94, LT-47180"
@@ -1218,9 +1214,5 @@
     "code": "302915964",
     "address": "Vilnius, Ramybės g. 4-70, LT-02103",
     "vatcode": "LT100008684611"
-  },
-  {
-    "name": "UAB \"Plunsera\"",
-    "code": "304719430"
   }
 ]

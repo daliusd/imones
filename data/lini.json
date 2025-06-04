@@ -32,6 +32,11 @@
     "address": "Vilnius, Rodūnios kel. 8, LT-02189"
   },
   {
+    "name": "\"AM linija\" MB",
+    "code": "307167784",
+    "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105"
+  },
+  {
     "name": "\"Karmano linija\", UAB",
     "code": "306152142",
     "address": "Vilkaviškio r. sav., Kybartų sen., Gudkaimio k., Dvaro g. 20-2, LT-70455"
@@ -148,7 +153,8 @@
   {
     "name": "MB \"Ekspertinė linija\"",
     "code": "306442124",
-    "address": "Raseinių r. sav., Ariogala, Plento g. 25, LT-60249"
+    "address": "Raseinių r. sav., Ariogala, Plento g. 25, LT-60249",
+    "vatcode": "LT100018107015"
   },
   {
     "name": "MB \"Gryna linija\"",
@@ -218,7 +224,8 @@
   {
     "name": "MB \"Statybos linija\"",
     "code": "307031065",
-    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Arkos g. 12-9, LT-14180"
+    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Arkos g. 12-9, LT-14180",
+    "vatcode": "LT100018146712"
   },
   {
     "name": "MB \"Tauro linija\"",
@@ -287,6 +294,11 @@
     "name": "MB ESTETIKOS LINIJA",
     "code": "305577051",
     "address": "Vilnius, Sakališkių g. 163, LT-14268"
+  },
+  {
+    "name": "MB Fokuso linija",
+    "code": "307177508",
+    "address": "Vilnius, Dirkliškių g. 28, LT-25126"
   },
   {
     "name": "MB Graži linija",
@@ -363,7 +375,7 @@
   {
     "name": "MB Versli linija",
     "code": "305743669",
-    "address": "Klaipėdos r. sav., Priekulė, Turgaus g. 24, LT-96356",
+    "address": "Kaunas, J. Tūbelio g. 8B-1, LT-47492",
     "vatcode": "LT100017566111"
   },
   {
@@ -593,7 +605,8 @@
   {
     "name": "UAB \"Kompiuterių linija\"",
     "code": "302459336",
-    "address": "Šiauliai, Pušyno g. 5, LT-76185"
+    "address": "Šiauliai, Pušyno g. 5, LT-76185",
+    "vatcode": "LT100005056813"
   },
   {
     "name": "UAB \"Kreiva linija\"",
@@ -617,11 +630,6 @@
     "name": "UAB \"Landšafto linija\"",
     "code": "145765422",
     "address": "Šiauliai, Vytauto g. 219-10, LT-77170"
-  },
-  {
-    "name": "UAB \"Linija LT\"",
-    "code": "303170562",
-    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Mažojo Londono g. 2, LT-92359"
   },
   {
     "name": "UAB \"Lino linija\"",
@@ -1035,12 +1043,18 @@
   {
     "name": "VšĮ \"Mamos linija\"",
     "code": "305808120",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100017982411"
   },
   {
     "name": "VšĮ \"Medijos linija\"",
     "code": "304840332",
     "address": "Vilnius, M. Mažvydo g. 12-47, LT-06269"
+  },
+  {
+    "name": "VšĮ \"Paramos ZSU fondas Kietoji linija\"",
+    "code": "307178065",
+    "address": "Vilnius, Kintų g. 3-21, LT-09301"
   },
   {
     "name": "Kantri ir linijinių šokių asociacija",
@@ -1096,7 +1110,7 @@
   {
     "name": "MB Linijos studija",
     "code": "306799336",
-    "address": "Vilnius, Justiniškių g. 146, LT-06153"
+    "address": "Vilnius, Bajorų kel. 15-66, LT-08446"
   },
   {
     "name": "Ribotos atsakomybės bendrovės \"NORMA-A\" filialas \"Europos autobusų linijos\"",
@@ -1218,11 +1232,6 @@
     "name": "IĮ \"Lininis gintaras\"",
     "code": "305731439",
     "address": "Kaunas, Kranto 15-oji g. 4, LT-45289"
-  },
-  {
-    "name": "MB Lininis prisilietimas",
-    "code": "306037161",
-    "address": "Vilnius, Verkių g. 25B-61, LT-08223"
   },
   {
     "name": "UAB \"LININIS IR MEDINIS\"",

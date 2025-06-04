@@ -101,11 +101,6 @@
     "address": "Naujoji Akmenė, Nepriklausomybės al. 14-2, LT-85127"
   },
   {
-    "name": "Daugiabučio namo Nepriklausomybės al. 27, Naujosios Akmenės mieste, savininkų bendrija",
-    "code": "300759438",
-    "address": "Naujoji Akmenė, Nepriklausomybės al. 27-15, LT-85129"
-  },
-  {
     "name": "Daugiabučio namo Nepriklausomybės al. 33, Naujosios Akmenės mieste savininkų bendrija",
     "code": "301150130",
     "address": "Naujoji Akmenė, Nepriklausomybės al. 33-5, LT-85129"
@@ -143,7 +138,8 @@
   {
     "name": "IĮ \"AL apskaita\"",
     "code": "302317899",
-    "address": "Šiauliai, Architektų g. 24-42, LT-78281"
+    "address": "Šiauliai, Architektų g. 24-42, LT-78281",
+    "vatcode": "LT100017800219"
   },
   {
     "name": "Kauno Jaunimo Simfoninis Orkestras \"Da Capo Al Fine\"",
@@ -251,6 +247,11 @@
     "address": "Vilnius, Giedraičių g. 41-60, LT-09303"
   },
   {
+    "name": "MB \"AL Stogai\"",
+    "code": "307188052",
+    "address": "Jonava, Kosmonautų g. 32-58, LT-55152"
+  },
+  {
     "name": "MB \"AL paslaugos\"",
     "code": "305539976",
     "address": "Kaunas, Vytauto pr. 30-7, LT-44328"
@@ -326,16 +327,6 @@
     "name": "Namo Laisvės al. 35 Kaune savininkų bendrija",
     "code": "304934721",
     "address": "Kaunas, Laisvės al. 35, LT-44311"
-  },
-  {
-    "name": "Naujosios Akmenės miesto, Nepriklausomybės al. 11 daugiabučio namo savininkų bendrija",
-    "code": "300140521",
-    "address": "Naujoji Akmenė, Nepriklausomybės al. 11-2, LT-85127"
-  },
-  {
-    "name": "Perkūno al. 24A garažų savininkų bendrija",
-    "code": "301537006",
-    "address": "Kaunas, Vaižganto g. 9G-3, LT-44225"
   },
   {
     "name": "SEDULINOS AL. 4 NAMO BUTŲ SAVININKŲ BENDRIJA",
@@ -429,7 +420,7 @@
   {
     "name": "UAB AL holdingas",
     "code": "302288643",
-    "address": "Vilnius, Ulonų g. 2, LT-08245",
+    "address": "Vilnius, Ulonų g. 2-101, LT-08245",
     "vatcode": "LT100005067718"
   },
   {

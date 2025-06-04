@@ -113,7 +113,8 @@
   {
     "name": "Belarus Passport Center, VšĮ",
     "code": "306628310",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100017988219"
   },
   {
     "name": "Brasta Competence Center, UAB",
@@ -392,8 +393,7 @@
   {
     "name": "UAB Turkish KEBAB Center",
     "code": "306269156",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
-    "vatcode": "LT100016341118"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "Viešoji įstaiga \"Center Levania\"",
@@ -429,6 +429,11 @@
     "name": "VšĮ \"Baltic media center\"",
     "code": "306676091",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
+    "name": "VšĮ \"Center for Open Narratives\"",
+    "code": "307181015",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "VšĮ \"Cosmic material certification center\"",
@@ -619,7 +624,7 @@
   {
     "name": "UAB \"Central asia transport\"",
     "code": "303219109",
-    "address": "Tauragė, Pūtvės g. 9, LT-72194",
+    "address": "Tauragės r. sav.",
     "vatcode": "LT100009979519"
   },
   {
@@ -733,8 +738,7 @@
   {
     "name": "MB Beauty centre",
     "code": "306522200",
-    "address": "Vilnius, Mykolo Marcinkevičiaus g. 1, LT-08433",
-    "vatcode": "LT100016952212"
+    "address": "Vilnius, Mykolo Marcinkevičiaus g. 1, LT-08433"
   },
   {
     "name": "Stiftelsen Svenskt Internationellt Liberalt Centrum atstovybė \"Swedish International Liberal Centre (SILC) Vilnius Office\"",
@@ -870,11 +874,6 @@
     "name": "VĮ \"Lietuvos paštas\" Vilniaus apskrities centrinio pašto Švenčionių rajono pašto darbuotojų profesinė sąjunga",
     "code": "178859135",
     "address": "Švenčionys, Vilniaus g. 18, LT-18123"
-  },
-  {
-    "name": "Šiaulių apskrities centrinio pašto darbuotojų profsąjunga",
-    "code": "193458167",
-    "address": "Šiauliai, Aušros al. 42, LT-76240"
   },
   {
     "name": "\"Centrinis bankroto biuras\" UAB",
@@ -1464,7 +1463,7 @@
   {
     "name": "UAB \"Centro autoservisas\"",
     "code": "180257844",
-    "address": "Telšiai, Stoties g. 25, LT-87102",
+    "address": "Telšiai, Kęstučio g. 20, LT-87120",
     "vatcode": "LT802578415"
   },
   {
@@ -1526,7 +1525,8 @@
   {
     "name": "UAB \"Centro odontologai\"",
     "code": "300075358",
-    "address": "Kaunas, A. Juozapavičiaus pr. 112, LT-45110"
+    "address": "Kaunas, A. Juozapavičiaus pr. 112, LT-45110",
+    "vatcode": "LT100018082510"
   },
   {
     "name": "UAB \"Centro parkas\"",
@@ -1758,10 +1758,6 @@
     "address": "Vilnius, Kauno g. 37"
   },
   {
-    "name": "Viešosios įstaigos Dainų pirminės sveikatos priežiūros centro profesinė sąjunga",
-    "code": "145743155"
-  },
-  {
     "name": "Viešosios įstaigos Eišiškių asmens sveikatos priežiūros centro darbuotojų profesinė sąjunga",
     "code": "303252568",
     "address": "Šalčininkų r. sav., Eišiškės, Ligoninės g. 2A, LT-17176"
@@ -1947,6 +1943,11 @@
     "address": "Šilutė, Lietuvininkų g. 16A-3, LT-99184"
   },
   {
+    "name": "VšĮ Švenčionių rajono sveikatos centro profesinė sąjunga \"Solidarumas\"",
+    "code": "304738078",
+    "address": "Vilnius, Ulonų g. 5-301, LT-08240"
+  },
+  {
     "name": "Šeimos centro Ergo Sum Druskininkų filialas",
     "code": "302705122",
     "address": "Vilnius, A. Gustaičio g. 23-60, LT-02189"
@@ -2059,7 +2060,8 @@
   {
     "name": "UAB Medicum centrum family",
     "code": "307134745",
-    "address": "Tauragė, Dariaus ir Girėno g. 28A, LT-72250"
+    "address": "Tauragė, Dariaus ir Girėno g. 28A, LT-72250",
+    "vatcode": "LT100018060510"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"CENTRUM\"",

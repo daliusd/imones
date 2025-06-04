@@ -102,7 +102,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"IT turto rinka\"",
     "code": "305756086",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100018142013"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS TURTO RINKA\"",
@@ -123,7 +124,8 @@
   {
     "name": "MB \"Rinkesta\"",
     "code": "305665156",
-    "address": "Pasvalio r. sav., Pasvalio apylinkių sen., Migonių k., Geležinkelio g. 12, LT-39111"
+    "address": "Pasvalio r. sav., Pasvalio apylinkių sen., Migonių k., Geležinkelio g. 12, LT-39111",
+    "vatcode": "LT100014238016"
   },
   {
     "name": "UAB \"Rinketa\"",
@@ -146,11 +148,6 @@
     "name": "K. Rinkevičiaus įmonė \"Tekata\"",
     "code": "159903011",
     "address": "Kauno r. sav., Garliava, Arimų g. 8, LT-53258"
-  },
-  {
-    "name": "M. Rinkevičiaus firma \"Rinmedas\"",
-    "code": "135010585",
-    "address": "Kaunas, Partizanų g. 47-2, LT-49363"
   },
   {
     "name": "R. Rinkevičiaus įmonė \"Centrinis operacinis modulis\"",
@@ -306,7 +303,8 @@
   {
     "name": "MB \"Augimo rinkodara\"",
     "code": "303176693",
-    "address": "Šiauliai, Architektų g. 24-43, LT-78281"
+    "address": "Šiauliai, Architektų g. 24-43, LT-78281",
+    "vatcode": "LT100018160213"
   },
   {
     "name": "MB \"Baltijos rinkodara\"",
@@ -359,7 +357,8 @@
   {
     "name": "MB Efektyvi rinkodara",
     "code": "306522136",
-    "address": "Vilnius, Justiniškių g. 62A-201, LT-05239"
+    "address": "Vilnius, Justiniškių g. 62A-201, LT-05239",
+    "vatcode": "LT100017853512"
   },
   {
     "name": "MB Farmacijos rinkodara",
@@ -450,7 +449,8 @@
   {
     "name": "MB \"Rinkodaros analitika\"",
     "code": "304545727",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100017927610"
   },
   {
     "name": "MB \"Rinkodaros inžinierius\"",
@@ -923,6 +923,11 @@
     "address": "Vilnius, Rinktinės g. 26-2, LT-09315"
   },
   {
+    "name": "Suvalkijos šaulių 4 rinktinės 403 kuopos šaulių klubas",
+    "code": "307162189",
+    "address": "Kalvarijos sav., Akmenynų sen., Aistiškių k., Liepų g. 34, LT-69304"
+  },
+  {
     "name": "UAB \"Rinktinės investicijos\"",
     "code": "304629869",
     "address": "Kaunas, Karaliaus Mindaugo pr. 38, LT-44307",
@@ -931,7 +936,7 @@
   {
     "name": "Valstybės sienos apsaugos tarnybos Varėnos rinktinės profesinė sąjunga",
     "code": "295764950",
-    "address": "Varėnos r. sav., Matuizų sen., Matuizų k., Statybininkų g. 9, LT-65470"
+    "address": "Varėnos r. sav., Matuizų sen., Matuizų k., Statybininkų g. 9-1, LT-65470"
   },
   {
     "name": "Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos Lazdijų rinktinės profesinė sąjunga",

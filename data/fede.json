@@ -37,6 +37,11 @@
     "address": "Kaunas, J. Basanavičiaus al. 51-2, LT-50191"
   },
   {
+    "name": "Asociacija Lietuvos Esporto federacija",
+    "code": "307166159",
+    "address": "Kaunas, Kalniečių g. 247-67, LT-49340"
+  },
+  {
     "name": "Asociacija Lietuvos bobslėjaus ir skeletono federacija",
     "code": "305196004",
     "address": "Vilnius, Igno Šimulionio g. 3-91, LT-04330"
@@ -244,7 +249,8 @@
   {
     "name": "LIETUVOS AISŠTOKO FEDERACIJA",
     "code": "303192765",
-    "address": "Vilnius, Panerių g. 6, LT-01312"
+    "address": "Vilnius, Panerių g. 6, LT-01312",
+    "vatcode": "LT100018088610"
   },
   {
     "name": "LIETUVOS AKLŲJŲ SPORTO FEDERACIJA",
@@ -537,7 +543,8 @@
   {
     "name": "Lietuvos cornhole federacija",
     "code": "305832662",
-    "address": "Vilnius, Algimanto Petro Kavoliuko g. 2A-24, LT-04351"
+    "address": "Vilnius, Algimanto Petro Kavoliuko g. 2A-24, LT-04351",
+    "vatcode": "LT100018087410"
   },
   {
     "name": "Lietuvos darbo federacija",
@@ -573,7 +580,8 @@
   {
     "name": "Lietuvos dziudo federacija",
     "code": "191606076",
-    "address": "Kaunas, Aušros g. 42A, LT-44158"
+    "address": "Kaunas, Aušros g. 42A, LT-44158",
+    "vatcode": "LT100017864417"
   },
   {
     "name": "Lietuvos džiazo federacija",
@@ -1003,7 +1011,8 @@
   {
     "name": "Lietuvos tinklinio federacija",
     "code": "191910175",
-    "address": "Vilnius, Žemaitės g. 6, LT-03117"
+    "address": "Vilnius, Žemaitės g. 6, LT-03117",
+    "vatcode": "LT100018063716"
   },
   {
     "name": "Lietuvos traktorių sporto federacija",
@@ -1389,10 +1398,6 @@
     "address": "Vilnius, Jogailos g. 11, LT-01116"
   },
   {
-    "name": "Lietuvos statybos darbuotojų profesinė sąjunga prie Lietuvos darbo federacijos",
-    "code": "301911532"
-  },
-  {
     "name": "Lietuvos teisėsaugos pareigūnų federacijos filialas \"Respublikinė ugniagesių gelbėtojų profesinė sąjunga\"",
     "code": "303075783",
     "address": "Vilnius, J. Jasinskio g. 9, LT-01112"
@@ -1431,10 +1436,6 @@
     "name": "Lietuvos žemės ūkio darbuotojų profesinių sąjungų federacijos Radviliškio rajono komitetas",
     "code": "190871342",
     "address": "Radviliškis, Gedimino g. 8, LT-82174"
-  },
-  {
-    "name": "Lietuvos žemės ūkio darbuotojų profesinių sąjungų federacijos Radviliškio rajono komiteto SP UAB \"Radviliškio vanduo\" profesinės sąjungos komitetas",
-    "code": "171487725"
   },
   {
     "name": "Lietuvos žemės ūkio darbuotojų profesinių sąjungų federacijos Radviliškio rajono komiteto žemės ūkio bendrovės \"Vėriškės\" profesinės sąjungos komitetas",
@@ -1531,11 +1532,6 @@
     "name": "MB Federicija",
     "code": "306291149",
     "address": "Telšiai, Pramonės g. 6, LT-87101"
-  },
-  {
-    "name": "MB \"Federico Tosti\"",
-    "code": "306675534",
-    "address": "Vilnius, Žirmūnų g. 57-50, LT-09110"
   },
   {
     "name": "Virginijos Federienės individuali įmonė",

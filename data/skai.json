@@ -98,7 +98,8 @@
   {
     "name": "MB Grožio salonas \"Skaidra\"",
     "code": "305968655",
-    "address": "Kauno r. sav., Akademija, Pilėnų g. 1-4, LT-53347"
+    "address": "Kauno r. sav., Akademija, Pilėnų g. 1-4, LT-53347",
+    "vatcode": "LT100017820314"
   },
   {
     "name": "MB \"Skaidras\"",
@@ -204,11 +205,6 @@
     "code": "300124150",
     "address": "Klaipėda, I. Simonaitytės g. 3-25, LT-95127",
     "vatcode": "LT100001744610"
-  },
-  {
-    "name": "PANEVĖŽIO ESPERANTININKŲ JAUNIMO LYGOS INDIVIDUALI ĮMONĖ \"SKAIDRUSIS KRISTALAS\"",
-    "code": "148412096",
-    "address": "Panevėžys, Kęstučio g. 6-2"
   },
   {
     "name": "Skaidrės Novogreckienės individuali įmonė",
@@ -507,11 +503,6 @@
     "name": "Skaistės labdaros ir paramos fondas",
     "code": "306029684",
     "address": "Raseinių r. sav., Nemakščių sen., Balčių k., Vilties g. 21, LT-60373"
-  },
-  {
-    "name": "UAB \"Skaistės mėsa\"",
-    "code": "302665877",
-    "address": "Alytus, Statybininkų g. 12-19, LT-63416"
   },
   {
     "name": "Skaisčiausios Mergelės Marijos Širdies dukterų kongregacijos Lietuvos vikariatas",
@@ -831,7 +822,7 @@
   {
     "name": "MB \"Skaitmeninis protas\"",
     "code": "306365350",
-    "address": "Vilnius, Vytauto Žalakevičiaus g. 4A-25, LT-10111"
+    "address": "Vilnius, A. Kojelavičiaus g. 16, LT-11100"
   },
   {
     "name": "MB \"Skaitmeninis srautas\"",
@@ -1324,8 +1315,7 @@
   {
     "name": "UAB \"Skaitmeninės spaudos centras\"",
     "code": "305717304",
-    "address": "Alytus, Senoji g. 12, LT-62121",
-    "vatcode": "LT100013947411"
+    "address": "Alytus, Senoji g. 12, LT-62121"
   },
   {
     "name": "UAB \"Skaitmeninės statybos sprendimai\"",
@@ -1389,6 +1379,11 @@
     "code": "304330781",
     "address": "Vilnius, Latvių g. 58-15, LT-08113",
     "vatcode": "LT100014054311"
+  },
+  {
+    "name": "Skaitmenų tiltas, UAB",
+    "code": "304694977",
+    "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Paringuvio k., Ringuvos g. 7A-3, LT-81107"
   },
   {
     "name": "MB \"Skaitmeta\"",
@@ -1546,6 +1541,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB Skaivia",
+    "code": "307163437",
+    "address": "Vilnius, I. Simonaitytės g. 2-10, LT-06244"
+  },
+  {
     "name": "UAB \"Skaivilė\"",
     "code": "305281173",
     "address": "Panevėžio r. sav., Panevėžio sen., Tičkūnų k., Žilvičių g. 10, LT-38414",
@@ -1575,10 +1575,6 @@
     "name": "IĮ \"Skaičiai\"",
     "code": "301169771",
     "address": "Vilnius, M. K. Čiurlionio g. 5-6, LT-03104"
-  },
-  {
-    "name": "IĮ \"Visi skaičiai\"",
-    "code": "301309547"
   },
   {
     "name": "MB \"Kalba skaičiai\"",
@@ -1661,12 +1657,18 @@
   {
     "name": "MB Verslo skaičiai LT",
     "code": "305920735",
-    "address": "Kaunas, Kukučių g. 39, LT-51338"
+    "address": "Kaunas, Kukučių g. 39, LT-51338",
+    "vatcode": "LT100017878114"
   },
   {
     "name": "MB Žali skaičiai",
     "code": "306371983",
     "address": "Trakų r. sav., Lentvario sen., Naujojo Lentvario k., Saulės g. 43T, LT-25110"
+  },
+  {
+    "name": "Ramūs skaičiai MB",
+    "code": "307178268",
+    "address": "Kauno r. sav., Akademija, Varžupio g. 73, LT-53350"
   },
   {
     "name": "Sušildyti skaičiai MB",
@@ -1753,6 +1755,12 @@
     "code": "303126861",
     "address": "Kaunas, V. Krėvės pr. 115-37, LT-50376",
     "vatcode": "LT100008017819"
+  },
+  {
+    "name": "MB Skaičiuoja",
+    "code": "307173552",
+    "address": "Vilnius, Žirmūnų g. 58-6, LT-09100",
+    "vatcode": "LT100018173316"
   },
   {
     "name": "MB \"Skaičiuokime\"",
@@ -1959,7 +1967,8 @@
   {
     "name": "MB Skaičių istorijos",
     "code": "307104015",
-    "address": "Vilnius, Viršuliškių g. 38-38, LT-05112"
+    "address": "Vilnius, Viršuliškių g. 38-38, LT-05112",
+    "vatcode": "LT100018166414"
   },
   {
     "name": "MB Skaičių kelias",
@@ -1969,7 +1978,8 @@
   {
     "name": "MB Skaičių kelionė",
     "code": "306072881",
-    "address": "Druskininkų sav., Leipalingio sen., Snaigupės k., Paraistės g. 16, LT-66382"
+    "address": "Druskininkų sav., Leipalingio sen., Snaigupės k., Paraistės g. 16, LT-66382",
+    "vatcode": "LT100017829217"
   },
   {
     "name": "MB Skaičių labirintai",

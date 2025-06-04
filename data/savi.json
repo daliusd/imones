@@ -292,11 +292,6 @@
     "address": "Švenčionys, Naujoji g. 23, LT-18124"
   },
   {
-    "name": "Kazimiero Savicko įmonė",
-    "code": "135466286",
-    "address": "Kaunas, Partizanų g. 102-24, LT-50344"
-  },
-  {
     "name": "Kostanto Savicko įmonė",
     "code": "285326010",
     "address": "Vilkaviškio r. sav., Klausučių sen., Sūdavos k., Rementiškių g. 7, LT-70465",
@@ -308,18 +303,15 @@
     "address": "Vilnius, S. Stanevičiaus g. 31-31, LT-07132"
   },
   {
-    "name": "Romualdo Savicko individuali įmonė",
-    "code": "153651692",
-    "address": "Alytaus r. sav., Simnas, Pavasario g. 15-11, LT-64308"
-  },
-  {
     "name": "Romualdo Savicko įmonė",
     "code": "185477449",
     "address": "Vilkaviškis, Gedimino g. 12-8, LT-70143"
   },
   {
     "name": "S. Savicko įmonė",
-    "code": "187928025"
+    "code": "161314415",
+    "address": "Kėdainiai, Šėtos g. 120, LT-58115",
+    "vatcode": "LT613144113"
   },
   {
     "name": "Savicko įmonė \"Roberta\"",
@@ -330,12 +322,6 @@
     "name": "Sigito Savicko individuali įmonė",
     "code": "300075326",
     "address": "Rokiškis, Sodų g. 33, LT-42127"
-  },
-  {
-    "name": "UAB \"Savicko transportas\"",
-    "code": "305437583",
-    "address": "Kretinga, Malūno g. 7, LT-97155",
-    "vatcode": "LT100013591918"
   },
   {
     "name": "Vidmanto Savicko įmonė",
@@ -355,7 +341,7 @@
   {
     "name": "Virgilijaus Savicko įmonė",
     "code": "161402566",
-    "address": "Kėdainiai, A. Mickevičiaus g. 31"
+    "address": "Kėdainių r. sav., Kėdainių miesto sen., Daukšių k., A. Mickevičiaus g. 30, LT-57110"
   },
   {
     "name": "Zeniaus Savicko parduotuvė",
@@ -985,7 +971,8 @@
   {
     "name": "Šeimos ir asmens saviugdos centras \"Bendrakeleiviai\"",
     "code": "300039593",
-    "address": "Vilniaus r. sav., Mickūnų sen., Parūdupių k., Parūdupių g. 10, LT-13110"
+    "address": "Vilniaus r. sav., Mickūnų sen., Parūdupių k., Parūdupių g. 10, LT-13110",
+    "vatcode": "LT100018098910"
   },
   {
     "name": "Politinis komitetas \"Nepartinė savivalda\"",
@@ -1212,7 +1199,7 @@
   {
     "name": "Alytaus miesto savivaldybės visuomenės sveikatos biuras",
     "code": "301768543",
-    "address": "Alytus, Daugų g. 5A, LT-62169"
+    "address": "Alytus, Vingio g. 15A, LT-63218"
   },
   {
     "name": "Alytaus rajono savivaldybės Miroslavo globos namai",
@@ -1642,10 +1629,6 @@
     "name": "Elektrėnų savivaldybės administracijos Vievio seniūnija",
     "code": "188673759",
     "address": "Elektrėnų sav., Vievis, Trakų g. 2, LT-21381"
-  },
-  {
-    "name": "Elektrėnų savivaldybės komunalinio ūkio profesinė sąjunga \"Solidarumas\"",
-    "code": "303209143"
   },
   {
     "name": "Elektrėnų savivaldybės kontrolės ir audito tarnyba",
@@ -2546,6 +2529,11 @@
     "address": "Kelmės r. sav., Vaiguvos sen., Vaiguvos k."
   },
   {
+    "name": "Kelmės rajono savivaldybės administracijos darbuotojų profesinė sąjunga",
+    "code": "307171334",
+    "address": "Kelmė, Vytauto Didžiojo g. 58, LT-86143"
+  },
+  {
     "name": "Kelmės rajono savivaldybės administracijos Šaukėnų seniūnija",
     "code": "188647974",
     "address": "Kelmės r. sav., Šaukėnai, Juodlės g. 1, LT-86386"
@@ -2708,7 +2696,8 @@
   {
     "name": "Koncertinė įstaiga Vilniaus miesto savivaldybės Šv. Kristoforo kamerinis orkestras",
     "code": "124191928",
-    "address": "Vilnius, Stiklių g. 8, LT-01131"
+    "address": "Vilnius, Stiklių g. 8, LT-01131",
+    "vatcode": "LT241919219"
   },
   {
     "name": "Kretingos rajono savivaldybės M. Valančiaus viešoji biblioteka",
@@ -3939,7 +3928,7 @@
   {
     "name": "Prienų rajono savivaldybės visuomenės sveikatos biuras",
     "code": "301846675",
-    "address": "Prienai, Laisvės a. 12, LT-59126"
+    "address": "Prienai, J. Brundzos g. 12A, LT-59127"
   },
   {
     "name": "Radviliškio rajono savivaldybės Kultūros skyrius",
@@ -5208,7 +5197,7 @@
   {
     "name": "Vilniaus miesto savivaldybės administracijos Justiniškių seniūnija",
     "code": "188649644",
-    "address": "Vilnius, Rygos g. 15, LT-05239"
+    "address": "Vilnius, Rygos g. 15-4, LT-05239"
   },
   {
     "name": "Vilniaus miesto savivaldybės administracijos Karoliniškių seniūnija",
@@ -6308,11 +6297,6 @@
     "name": "Saviveiklinės techninės kūrybos bazinio klubo įmonė",
     "code": "147454110",
     "address": "Panevėžys, Respublikos g. 45A, LT-35170"
-  },
-  {
-    "name": "A. Savičiaus firma \"Bartisa\"",
-    "code": "159805624",
-    "address": "Kauno r. sav., Neveronių sen., Neveronių k., Kertupio g. 5-3, LT-54487"
   },
   {
     "name": "Bendrija \"Savičiaus 13\"",

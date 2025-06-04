@@ -221,10 +221,6 @@
     "address": "Vilnius, Z. Sierakausko g. 15-4, LT-03105"
   },
   {
-    "name": "Lietuvos statybos darbuotojų profesinė sąjunga prie Lietuvos darbo federacijos",
-    "code": "301911532"
-  },
-  {
     "name": "Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos",
     "code": "188772052",
     "address": "Vilnius, Ukmergės g. 222, LT-07157"
@@ -255,6 +251,11 @@
     "code": "306014159",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
     "vatcode": "LT100017082616"
+  },
+  {
+    "name": "MB \"Sodyba prie Mūšos\"",
+    "code": "307164222",
+    "address": "Pakruojo r. sav., Klovainių sen., Pamūšio k., Vilties g. 12, LT-83473"
   },
   {
     "name": "MB \"Šešiolika prie devynių\"",
@@ -489,8 +490,7 @@
   {
     "name": "UAB \"Prie tujos\"",
     "code": "166631896",
-    "address": "Mažeikiai, Sodų skg. 3, LT-89119",
-    "vatcode": "LT666318917"
+    "address": "Mažeikiai, Sodų skg. 3, LT-89119"
   },
   {
     "name": "UAB \"Prie upės\"",
@@ -673,10 +673,6 @@
     "address": "Vilnius, Apolinaro Juozo Povilaičio g. 8-194, LT-04336"
   },
   {
-    "name": "Valstybinės visuomenės sveikatos priežiūros tarnybos prie Sveikatos apsaugos ministerijos darbuotojų profesinė sąjunga",
-    "code": "302459635"
-  },
-  {
     "name": "Valstybės dokumentų technologinės apsaugos tarnyba prie Finansų ministerijos",
     "code": "188694162",
     "address": "Vilnius, L. Sapiegos g. 17, LT-10312"
@@ -710,7 +706,8 @@
   {
     "name": "Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos",
     "code": "300666165",
-    "address": "Vilnius, M. K. Paco g. 4, LT-10309"
+    "address": "Vilnius, M. K. Paco g. 4, LT-10309",
+    "vatcode": "LT100003040210"
   },
   {
     "name": "Vilniaus lopšelis-darželis \"Prie pasakų parko\"",
@@ -840,7 +837,8 @@
   {
     "name": "VšĮ \"Prieglauda 51\"",
     "code": "306720812",
-    "address": "Kaunas, Panerių g. 51-R1, LT-48334"
+    "address": "Kaunas, Panerių g. 51-R1, LT-48334",
+    "vatcode": "LT100017755815"
   },
   {
     "name": "VšĮ Akeso gyvūnų prieglauda",
@@ -1406,7 +1404,7 @@
   {
     "name": "Prienų aeroklubas",
     "code": "305766671",
-    "address": "Prienų r. sav., Ašmintos sen., Pociūnų k., Sklandytojų g. 7, LT-59327"
+    "address": "Prienų r. sav., Prienų sen., Pociūnų k., Debesų g. 16, LT-59327"
   },
   {
     "name": "Prienų autobusų parko darbuotojų profesinė sąjunga",
@@ -1518,6 +1516,11 @@
     "name": "Prienų miško darbuotojų profesinė sąjunga",
     "code": "270755420",
     "address": "Prienų r. sav., Šilavoto sen., Ignacavos vs."
+  },
+  {
+    "name": "Prienų odontologijos klinika MB",
+    "code": "170677682",
+    "address": "Prienai, Vytauto g. 18, LT-59129"
   },
   {
     "name": "Prienų oreivių klubas \"Audenis\"",
@@ -1704,7 +1707,7 @@
   {
     "name": "Prienų rajono savivaldybės visuomenės sveikatos biuras",
     "code": "301846675",
-    "address": "Prienai, Laisvės a. 12, LT-59126"
+    "address": "Prienai, J. Brundzos g. 12A, LT-59127"
   },
   {
     "name": "Prienų rajono vietos veiklos grupė",
@@ -1798,10 +1801,6 @@
     "name": "UAB \"Prienų duona\" darbuotojų profesinė sąjunga",
     "code": "170777088",
     "address": "Prienai, Vilniaus g. 14, LT-59115"
-  },
-  {
-    "name": "UAB \"Prienų energija\" profesinė sąjunga",
-    "code": "170757776"
   },
   {
     "name": "UAB \"Prienų optika\"",
@@ -2392,7 +2391,7 @@
     "vatcode": "LT100003705116"
   },
   {
-    "name": "UAB Švykų priešgaisrinės sistemos",
+    "name": "UAB Priešgaisrinės Sistemos",
     "code": "304195472",
     "address": "Kaunas, S. Žukausko g. 2D, LT-50118",
     "vatcode": "LT100010077914"
@@ -2529,7 +2528,8 @@
   {
     "name": "MB \"Katilų priežiūra\"",
     "code": "306896550",
-    "address": "Vilnius, Žaros g. 34, LT-04125"
+    "address": "Vilnius, Žaros g. 34, LT-04125",
+    "vatcode": "LT100018141318"
   },
   {
     "name": "MB \"Odos priežiūra ir estetika\"",
@@ -2809,6 +2809,11 @@
     "name": "UAB \"Techninė pastatų priežiūra\"",
     "code": "304438020",
     "address": "Vilniaus m. sav., Grigiškių m., Kovo 11-osios g. 50-32, LT-27125"
+  },
+  {
+    "name": "UAB \"Trakų aplinkos priežiūra\"",
+    "code": "307164603",
+    "address": "Trakų r. sav., Trakų sen., Jovariškių k., Vėjo g. 37A, LT-21101"
   },
   {
     "name": "UAB \"Virtuvių priežiūra\"",
@@ -3223,10 +3228,6 @@
     "address": "Vilnius, A. Juozapavičiaus g. 9-2, LT-09311"
   },
   {
-    "name": "Valstybinės visuomenės sveikatos priežiūros tarnybos prie Sveikatos apsaugos ministerijos darbuotojų profesinė sąjunga",
-    "code": "302459635"
-  },
-  {
     "name": "Viešoji įstaiga \"Kėlimo įrenginių priežiūros tarnyba\"",
     "code": "134868684",
     "address": "Kaunas, Pakraščio g. 24, LT-49292",
@@ -3500,10 +3501,6 @@
     "name": "Viešoji įstaiga Šilutės pirminės sveikatos priežiūros centras",
     "code": "177329059",
     "address": "Šilutė, Rusnės g. 1, LT-99185"
-  },
-  {
-    "name": "Viešosios įstaigos Dainų pirminės sveikatos priežiūros centro profesinė sąjunga",
-    "code": "145743155"
   },
   {
     "name": "Viešosios įstaigos Eišiškių asmens sveikatos priežiūros centro darbuotojų profesinė sąjunga",

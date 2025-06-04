@@ -22,10 +22,6 @@
     "address": "Alytus, Kauno g. 60A, LT-62107"
   },
   {
-    "name": "R. Akulevičienės įmonė",
-    "code": "158939969"
-  },
-  {
     "name": "MB \"Akumed\"",
     "code": "306976904",
     "address": "Vilnius, Smolensko g. 10D-71, LT-03201"
@@ -104,7 +100,13 @@
   {
     "name": "MB \"Akustika24\"",
     "code": "306874447",
-    "address": "Vilnius, Laisvės pr. 58-1, LT-05120"
+    "address": "Vilnius, Laisvės pr. 58-1, LT-05120",
+    "vatcode": "LT100017904510"
+  },
+  {
+    "name": "MB Baltijos akustika",
+    "code": "307175756",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
   },
   {
     "name": "UAB \"Akustika plius\"",
@@ -146,7 +148,8 @@
   {
     "name": "MB Akustinis centras",
     "code": "306720716",
-    "address": "Trakai, Aušros g. 11, LT-21123"
+    "address": "Trakai, Aušros g. 11, LT-21123",
+    "vatcode": "LT100017740015"
   },
   {
     "name": "MB Akustinis faktorius",
@@ -191,11 +194,6 @@
     "address": "Vilnius, Didlaukio g. 51A-69"
   },
   {
-    "name": "Vidos Načienės akušerijos-ginekologijos kabinetas",
-    "code": "161351171",
-    "address": "Kėdainiai, Ramybės skv. 1-1, LT-57294"
-  },
-  {
     "name": "UAB \"Akušerio ginekologo konsultacijų kabinetas\"",
     "code": "302538367",
     "address": "Vilnius, Antakalnio g. 62-24, LT-10300"
@@ -218,6 +216,7 @@
   {
     "name": "Lietuvos privačių akušerių ginekologų draugija (LPAGD)",
     "code": "191927452",
-    "address": "Vilnius, Pilies g. 38-1, LT-01123"
+    "address": "Vilnius, Pilies g. 38-1, LT-01123",
+    "vatcode": "LT100017927015"
   }
 ]

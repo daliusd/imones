@@ -32,11 +32,6 @@
     "address": "Vilkaviškis, Pilviškių g. 27-16, LT-70151"
   },
   {
-    "name": "Raimondo Galecko mezgimo ir siuvimo įmonė",
-    "code": "156531068",
-    "address": "Jonavos r. sav., Užusalių sen., Išorų k., Ąžuolų g. 11, LT-55328"
-  },
-  {
     "name": "Sauliaus Galecko įmonė",
     "code": "132838240",
     "address": "Kaunas, A. Fromo-Gužučio g. 13, LT-48487"
@@ -77,11 +72,6 @@
     "code": "306232791",
     "address": "Vilnius, Pilies g. 16, LT-01403",
     "vatcode": "LT100016047915"
-  },
-  {
-    "name": "A. Šato galerija",
-    "code": "133892287",
-    "address": "Kaunas, Savanorių pr. 334-2"
   },
   {
     "name": "Asociacija \"Justino Vienožinskio galerija\"",
@@ -125,12 +115,6 @@
     "vatcode": "LT100014738516"
   },
   {
-    "name": "Individuali įmonė Loretos galerija",
-    "code": "150088872",
-    "address": "Alytus, Jaunimo g. 20, LT-63351",
-    "vatcode": "LT500888716"
-  },
-  {
     "name": "IĮ \"Aurelijos galerija\"",
     "code": "302494764",
     "address": "Mažeikiai, Uosių g. 25, LT-89216"
@@ -139,11 +123,6 @@
     "name": "IĮ \"Galerija RA\"",
     "code": "302656579",
     "address": "Vilnius, Švenčionių g. 5-2, LT-11350"
-  },
-  {
-    "name": "Klaipėdos apskrities Dailininkų sąjungos BAROTI GALERIJA",
-    "code": "141770870",
-    "address": "Klaipėda, Šilutės pl. 74, LT-95117"
   },
   {
     "name": "Kultūros centras Dusetų dailės galerija",
@@ -289,6 +268,12 @@
     "vatcode": "LT100004949513"
   },
   {
+    "name": "UAB \"Loretos galerija\"",
+    "code": "150088872",
+    "address": "Alytus, Jaunimo g. 20, LT-63351",
+    "vatcode": "LT500888716"
+  },
+  {
     "name": "UAB \"Meno galerija\"",
     "code": "302524385",
     "address": "Vilniaus r. sav., Avižienių sen., Mažosios Riešės vs., Rusokų g. 18, LT-14330"
@@ -357,7 +342,8 @@
   {
     "name": "UAB Mados galerija",
     "code": "303244023",
-    "address": "Vilnius, Kairėnės Sodų 2-oji g. 12, LT-10247"
+    "address": "Vilnius, Kairėnės Sodų 2-oji g. 12, LT-10247",
+    "vatcode": "LT100010144218"
   },
   {
     "name": "UAB Maisto galerija",
@@ -420,7 +406,8 @@
   {
     "name": "Uždaroji akcinė bendrovė meno galerija \"Kauno langas\"",
     "code": "234256670",
-    "address": "Kaunas, Ramunių g. 9, LT-46382"
+    "address": "Kaunas, Ramunių g. 9, LT-46382",
+    "vatcode": "LT342566716"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA MENO GALERIJA \"AUKŠTAITIJOS EŽERAI\"",
@@ -632,6 +619,11 @@
     "name": "VšĮ Medinės skulptūros galerija",
     "code": "307132776",
     "address": "Kaunas, Raudondvario pl. 288A-33, LT-47164"
+  },
+  {
+    "name": "VšĮ Nerija galerija",
+    "code": "307178243",
+    "address": "Klaipėda, Vyturio g. 6-8, LT-95182"
   },
   {
     "name": "VšĮ Parko galerija",

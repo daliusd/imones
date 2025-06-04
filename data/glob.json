@@ -196,7 +196,8 @@
   {
     "name": "Avokado Global, UAB",
     "code": "307016309",
-    "address": "Vilnius, Rolando Jankausko g. 6, LT-04310"
+    "address": "Vilnius, Rolando Jankausko g. 6, LT-04310",
+    "vatcode": "LT100018122019"
   },
   {
     "name": "BALTIC GLOBAL SOLUTION UAB",
@@ -257,7 +258,8 @@
   {
     "name": "Duma Global Commerce, UAB",
     "code": "307134503",
-    "address": "Vilnius, Panevėžio g. 23-17, LT-02165"
+    "address": "Vilnius, Panevėžio g. 23-17, LT-02165",
+    "vatcode": "LT100017758113"
   },
   {
     "name": "ELP GLOBAL MB",
@@ -354,10 +356,6 @@
     "name": "Global Airways Personnel UAB",
     "code": "304168678",
     "address": "Vilnius, Jogailos g. 9A, LT-01116"
-  },
-  {
-    "name": "Global Alliance CIS UAB",
-    "code": "302770878"
   },
   {
     "name": "Global Business Embassy head-office UAB",
@@ -535,12 +533,19 @@
   {
     "name": "MB \"DPro Global\"",
     "code": "307094418",
-    "address": "Vilnius, Linkmenų g. 19-123, LT-08217"
+    "address": "Vilnius, Linkmenų g. 19-123, LT-08217",
+    "vatcode": "LT100017962316"
   },
   {
     "name": "MB \"Fandex Global Consult.\"",
     "code": "306160776",
     "address": "Vilnius, Girulių g. 5, LT-12124"
+  },
+  {
+    "name": "MB \"GLOBAL TECH EVENTS\"",
+    "code": "306686096",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100016666415"
   },
   {
     "name": "MB \"Global Deals\"",
@@ -573,6 +578,11 @@
     "name": "MB \"Global brew\"",
     "code": "306639890",
     "address": "Vilnius, Giedraičių g. 56-22, LT-09302"
+  },
+  {
+    "name": "MB \"Global bridge\"",
+    "code": "307167581",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "MB \"Global fabric supply\"",
@@ -650,6 +660,11 @@
     "name": "MB \"Ryath Global\"",
     "code": "306378351",
     "address": "Vilnius, Girulių g. 5, LT-12124"
+  },
+  {
+    "name": "MB \"Splendid Global\"",
+    "code": "307167414",
+    "address": "Skuodo r. sav., Notėnų sen., Notėnų k., Liepų g. 4, LT-98261"
   },
   {
     "name": "MB \"Technolink Global\"",
@@ -1038,7 +1053,8 @@
   {
     "name": "UAB \"Global Green Energy\"",
     "code": "307071921",
-    "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194"
+    "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194",
+    "vatcode": "LT100017772613"
   },
   {
     "name": "UAB \"Global Industry Services\"",
@@ -1188,7 +1204,7 @@
   {
     "name": "UAB \"MARCUVIS GLOBAL\"",
     "code": "302103564",
-    "address": "Elektrėnų sav., Beižionių sen., Beižionių k., Bažnyčios g. 12-12, LT-21320"
+    "address": "Elektrėnų sav., Beižionių sen., Beižionių k., Bažnyčios g. 12-9, LT-21320"
   },
   {
     "name": "UAB \"MIR GLOBAL\"",
@@ -1245,7 +1261,8 @@
   {
     "name": "UAB \"Sanveo Global\"",
     "code": "307133020",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
+    "vatcode": "LT100017754413"
   },
   {
     "name": "UAB \"Sekmes Global\"",
@@ -1314,7 +1331,7 @@
   {
     "name": "UAB BlackCloud Global",
     "code": "306136992",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "address": "Vilnius, Helsinkio g. 26-6, LT-06298",
     "vatcode": "LT100015657017"
   },
   {
@@ -1391,8 +1408,7 @@
   {
     "name": "UAB Global Logistic",
     "code": "306752831",
-    "address": "Vilnius, Kalvarijų g. 125, LT-08221",
-    "vatcode": "LT100017005410"
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
     "name": "UAB Global Ocean Link Lithuania",
@@ -1555,10 +1571,6 @@
     "name": "Uexchange Nubheh Global UAB",
     "code": "306699834",
     "address": "Vilnius, Mėsinių g. 5, LT-01133"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Global auto\"",
-    "code": "135464997"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Orion Global pet\"",
@@ -1931,7 +1943,8 @@
   {
     "name": "VšĮ \"Globasta\"",
     "code": "303300917",
-    "address": "Kaunas, Baltų pr. 73-43, LT-48228"
+    "address": "Kaunas, Baltų pr. 73-43, LT-48228",
+    "vatcode": "LT100017995716"
   },
   {
     "name": "UAB Globatec industrial solutions",
@@ -2103,11 +2116,6 @@
     "name": "V. Globio personalinė įmonė \"Vaikra\"",
     "code": "135497189",
     "address": "Kaunas, Pašilės g. 52-17, LT-51355"
-  },
-  {
-    "name": "Vaidoto Globio įmonė",
-    "code": "179852859",
-    "address": "Tauragės rajono savivaldybės teritorija"
   },
   {
     "name": "Mažoji bendrija \"Globira\"",
@@ -2670,11 +2678,6 @@
     "name": "Plungės sutrikusios psichikos žmonių globos bendrija \"Mūsų atžala\"",
     "code": "171044861",
     "address": "Plungė, Vytauto g. 9, LT-90123"
-  },
-  {
-    "name": "Plungės vaikų globos agentūra \"Cyrulis\"",
-    "code": "193369786",
-    "address": "Plungė, Telšių g. 19-4, LT-90162"
   },
   {
     "name": "Prienų globos namai",
@@ -3429,7 +3432,7 @@
   {
     "name": "Alytaus stačiatikių Dievo Motinos Globėjos parapija",
     "code": "192063039",
-    "address": "Alytus, Perlojos g. 26, LT-62165"
+    "address": "Alytaus m. sav."
   },
   {
     "name": "Inturkės stačiatikių Dievo Motinos Globėjos parapija",

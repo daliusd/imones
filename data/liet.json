@@ -160,6 +160,11 @@
     "address": "Panevėžys, Ramygalos g. 114-38, LT-36225"
   },
   {
+    "name": "VšĮ Elektrėnų lietaus vaikai",
+    "code": "307175507",
+    "address": "Elektrėnų sav., Elektrėnų sen., Migūčionių k., Migūčionių g. 3, LT-26131"
+  },
+  {
     "name": "VšĮ Lietaus lašas",
     "code": "306678427",
     "address": "Vilniaus r. sav., Riešės sen., Raudondvario k., Žirgų g. 18-6, LT-14257"
@@ -590,6 +595,11 @@
     "address": "Vilnius, Arklių g. 18, LT-01305"
   },
   {
+    "name": "ASBIS Lietuva UAB",
+    "code": "307187858",
+    "address": "Vilnius, Laisvės pr. 78B-239, LT-05263"
+  },
+  {
     "name": "Agile Lietuva",
     "code": "302764505",
     "address": "Vilniaus miesto savivaldybės teritorija"
@@ -609,12 +619,14 @@
   {
     "name": "Allianz Lietuva gyvybės draudimas UAB",
     "code": "111744827",
-    "address": "Vilnius, Lvivo g. 25-701, LT-09320"
+    "address": "Vilnius, Lvivo g. 25-701, LT-09320",
+    "vatcode": "LT117448219"
   },
   {
     "name": "Allies Lietuva UAB",
     "code": "307105042",
-    "address": "Vilnius, Konstitucijos pr. 21A, LT-08105"
+    "address": "Vilnius, Konstitucijos pr. 9-24, LT-09308",
+    "vatcode": "LT100017789113"
   },
   {
     "name": "Asociacija \"Bocuse dor Lietuva\"",
@@ -1013,6 +1025,12 @@
     "address": "Kaunas, Jonavos g. 60C, LT-44192"
   },
   {
+    "name": "TUV NORD Lietuva, UAB",
+    "code": "110584095",
+    "address": "Vilnius, Lentvario g. 7A, LT-02300",
+    "vatcode": "LT105840917"
+  },
+  {
     "name": "Tautiečių Sąjunga \"LIETUVA-MES\"",
     "code": "306336847",
     "address": "Mažeikiai, Pavasario g. 16-17, LT-89130"
@@ -1380,8 +1398,7 @@
   {
     "name": "UAB \"Focus Care Academy Lietuva\"",
     "code": "305322474",
-    "address": "Vilnius, Konstitucijos pr. 7, LT-09308",
-    "vatcode": "LT100017057514"
+    "address": "Vilnius, Konstitucijos pr. 7, LT-09308"
   },
   {
     "name": "UAB \"Fujifilm Lietuva\"",
@@ -1749,10 +1766,6 @@
     "address": "Kaunas, Naujakurių g. 33-78, LT-47118"
   },
   {
-    "name": "UAB \"Rimi Lietuva\" darbuotojų profesinė sąjunga",
-    "code": "301704626"
-  },
-  {
     "name": "UAB \"Roche Lietuva\"",
     "code": "300089404",
     "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
@@ -1769,12 +1782,6 @@
     "code": "303486400",
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Neries g. 26B-12, LT-54365",
     "vatcode": "LT100009201114"
-  },
-  {
-    "name": "UAB \"S-Group Lietuva\"",
-    "code": "111549859",
-    "address": "Vilnius, Lvivo g. 25-702, LT-09320",
-    "vatcode": "LT115498515"
   },
   {
     "name": "UAB \"SILVERSTAR LIETUVA\"",
@@ -1833,6 +1840,12 @@
     "code": "305154749",
     "address": "Prienų r. sav., Stakliškių sen., Pikelionių k., Turistų g. 2, LT-59374",
     "vatcode": "LT100013208416"
+  },
+  {
+    "name": "UAB \"Sokigo Lietuva\"",
+    "code": "111549859",
+    "address": "Vilnius, Lvivo g. 25-702, LT-09320",
+    "vatcode": "LT115498515"
   },
   {
     "name": "UAB \"Sweco Lietuva\"",
@@ -1968,12 +1981,14 @@
   {
     "name": "UAB \"YOTA Lietuva\"",
     "code": "300513810",
-    "address": "Vilnius, Savanorių pr. 187, LT-02300"
+    "address": "Vilnius, Savanorių pr. 187, LT-02300",
+    "vatcode": "LT100002051311"
   },
   {
     "name": "UAB Atlas Premium Lietuva",
     "code": "307140253",
-    "address": "Vilnius, Lvivo g. 25-104, LT-09320"
+    "address": "Vilnius, Lvivo g. 25-104, LT-09320",
+    "vatcode": "LT100018035610"
   },
   {
     "name": "UAB Bauwerk Group Lietuva",
@@ -2032,7 +2047,7 @@
   {
     "name": "UAB IBM Lietuva Verslo Paslaugos",
     "code": "305655450",
-    "address": "Vilnius, Šeimyniškių g. 3, LT-09312",
+    "address": "Vilnius, Giedraičių g. 3, LT-09307",
     "vatcode": "LT100013774517"
   },
   {
@@ -2186,7 +2201,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"IBM LIETUVA\"",
     "code": "111620231",
-    "address": "Vilnius, Šeimyniškių g. 3, LT-09312",
+    "address": "Vilnius, Giedraičių g. 3, LT-09307",
     "vatcode": "LT116202314"
   },
   {
@@ -2273,7 +2288,7 @@
   {
     "name": "Viešoji įstaiga \"Lietuva be šešėlio\"",
     "code": "302940540",
-    "address": "Vilnius, Ulonų g. 2, LT-08245"
+    "address": "Vilnius, Ulonų g. 2-101, LT-08245"
   },
   {
     "name": "Viešoji įstaiga \"Žalioji Lietuva\"",
@@ -2539,10 +2554,6 @@
     "code": "304937557",
     "address": "Kaunas, Draugystės g. 17-1, LT-51229",
     "vatcode": "LT100013172512"
-  },
-  {
-    "name": "Kooperatinė bendrovė \"Lietuviškas pienelis\"",
-    "code": "300088601"
   },
   {
     "name": "MB \"Lietuviškas medis\"",
@@ -3027,7 +3038,8 @@
   {
     "name": "VšĮ Pasaulio lietuvių praktikos ir studijų užsienyje centras",
     "code": "304291467",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100017904416"
   },
   {
     "name": "Šakių rajono lietuvių kalbos puoselėtojų klubas \"Žodžio tėviškė\"",
@@ -3292,7 +3304,7 @@
   {
     "name": "Fokoliarų judėjimas Lietuvoje",
     "code": "192064511",
-    "address": "Vilnius, Žirgo g. 1-32, LT-10221"
+    "address": "Vilnius, Žiemos g. 12, LT-01216"
   },
   {
     "name": "Furn Consult A/S atstovybė Lietuvoje",
@@ -3539,7 +3551,7 @@
   {
     "name": "RASERAV 1 AS filialas Lietuvoje",
     "code": "304254102",
-    "address": "Kaunas, Demokratų g. 53, LT-48485"
+    "address": "Kaunas, Demokratų g. 53-217, LT-48485"
   },
   {
     "name": "RIBOTOS ATSAKOMYBĖS BENDROVĖS \"Asia Energy Trade\" atstovybė Lietuvoje",
@@ -3993,10 +4005,6 @@
     "address": "Raseiniai, Vytauto Didžiojo g. 4, LT-60149"
   },
   {
-    "name": "AB \"Lietuvos draudimas\" profesinių sąjungų susivienijimas",
-    "code": "191999366"
-  },
-  {
     "name": "AB \"Lietuvos dujos\" Klaipėdos filialo profesinė sąjunga",
     "code": "193318090",
     "address": "Klaipėda, Birutės g. 8, LT-91203"
@@ -4035,10 +4043,6 @@
     "name": "AB \"Lietuvos geležinkeliai\" filialo \"Kauno geležinkelių infrastruktūra\" darbuotojų profesinė sąjunga",
     "code": "191994052",
     "address": "Kaunas, M. K. Čiurlionio g. 14B, LT-44360"
-  },
-  {
-    "name": "AB \"Lietuvos geležinkeliai\" filialo \"Vilniaus geležinkelių infrastruktūra\" Kontaktinių tinklų ir Elektros tiekimo ūkių darbuotojų profesinė sąjunga",
-    "code": "295757190"
   },
   {
     "name": "AB \"Lietuvos geležinkeliai\" filialo \"Šiaulių geležinkelių infrastruktūra\" profesinė sąjunga",
@@ -4513,6 +4517,11 @@
     "name": "Asociacija \"Lietuvos-Izraelio prekybos rūmai\"",
     "code": "302432766",
     "address": "Vilnius, Fermentų g. 10, LT-02244"
+  },
+  {
+    "name": "Asociacija Lietuvos Esporto federacija",
+    "code": "307166159",
+    "address": "Kaunas, Kalniečių g. 247-67, LT-49340"
   },
   {
     "name": "Asociacija Lietuvos Lozoriaus korpusas",
@@ -5346,11 +5355,6 @@
     "address": "Prienų r. sav., Balbieriškis, Klevų g. 25-22, LT-59243"
   },
   {
-    "name": "GMPR Lietuvos fondo įmonė",
-    "code": "224067080",
-    "address": "Vilnius, Gynėjų g. 4, LT-01109"
-  },
-  {
     "name": "General Electric Global Services GmbH Lietuvos filialas",
     "code": "304398693",
     "address": "Vilnius, J. Jasinskio g. 16B, LT-03163"
@@ -5578,7 +5582,8 @@
   {
     "name": "LIETUVOS ADVOKATŪRA",
     "code": "300099149",
-    "address": "Vilnius, Lvivo g. 7-9, LT-09313"
+    "address": "Vilnius, Lvivo g. 7-9, LT-09313",
+    "vatcode": "LT100001592012"
   },
   {
     "name": "LIETUVOS AERODROMŲ ASOCIACIJA",
@@ -5593,7 +5598,8 @@
   {
     "name": "LIETUVOS AISŠTOKO FEDERACIJA",
     "code": "303192765",
-    "address": "Vilnius, Panerių g. 6, LT-01312"
+    "address": "Vilnius, Panerių g. 6, LT-01312",
+    "vatcode": "LT100018088610"
   },
   {
     "name": "LIETUVOS AKLŲJŲ IR SILPNAREGIŲ SĄJUNGOS VILNIAUS ĮMONĖS DIRBANČIŲJŲ VIETINĖ PROFESINĖ ORGANIZACIJA",
@@ -5735,7 +5741,8 @@
   {
     "name": "LIETUVOS CHORŲ SĄJUNGA",
     "code": "191689232",
-    "address": "Vilnius, Barboros Radvilaitės g. 8, LT-01124"
+    "address": "Vilnius, Barboros Radvilaitės g. 8, LT-01124",
+    "vatcode": "LT100018041412"
   },
   {
     "name": "LIETUVOS DAILININKŲ SĄJUNGA",
@@ -6643,7 +6650,8 @@
   {
     "name": "LIETUVOS UROLOGŲ DRAUGIJA",
     "code": "191933163",
-    "address": "Vilnius, Santariškių g. 2, LT-08406"
+    "address": "Vilnius, Santariškių g. 2, LT-08406",
+    "vatcode": "LT100018120910"
   },
   {
     "name": "LIETUVOS VAIKŲ IR PAAUGLIŲ PSICHIATRŲ DRAUGIJA",
@@ -6746,11 +6754,6 @@
     "address": "Kauno r. sav., Akademija, Pilėnų g. 7-46, LT-53351"
   },
   {
-    "name": "LIETUVOS ŽMONIŲ SU NEGALIA APLINKOS PRITAIKYMO ASOCIACIJA",
-    "code": "191948432",
-    "address": "Vilnius, Žemaitės g. 21, LT-03118"
-  },
-  {
     "name": "LIETUVOS ŽMONIŲ SU NEGALIA SĄJUNGA",
     "code": "191909625",
     "address": "Vilnius, Gėlių g. 7-3, LT-01137"
@@ -6838,11 +6841,6 @@
     "name": "Lietuvos Antrojo pasaulinio karo antihitlerinės koalicijos pusėje dalyvių rėmimo fondas",
     "code": "192009080",
     "address": "Vilnius, Pamėnkalnio g. 13, LT-01114"
-  },
-  {
-    "name": "Lietuvos Architektų Sąjungos projektavimo firma \"A+M\"",
-    "code": "120718482",
-    "address": "Vilnius, Architektų g. 222-43, LT-04215"
   },
   {
     "name": "Lietuvos Aukščiausiasis Teismas",
@@ -7037,6 +7035,11 @@
     "address": "Vilnius, Naujakurių g. 15-7, LT-10220"
   },
   {
+    "name": "Lietuvos Kūno Psichoterapijos Asociacija",
+    "code": "307184260",
+    "address": "Vilnius, Nemenčinės pl. 4C-106, LT-10109"
+  },
+  {
     "name": "Lietuvos LIONS klubų apygarda D 131",
     "code": "300082146",
     "address": "Vilnius, Aguonų g. 7-6, LT-03213"
@@ -7165,7 +7168,8 @@
   {
     "name": "Lietuvos Respublikos Seimo kanceliarija",
     "code": "188605295",
-    "address": "Vilnius, Gedimino pr. 53, LT-01109"
+    "address": "Vilnius, Gedimino pr. 53, LT-01109",
+    "vatcode": "LT886052917"
   },
   {
     "name": "Lietuvos Respublikos Seimo kanceliarijos profesinė sąjunga",
@@ -7533,6 +7537,11 @@
     "address": "Kaunas, A. Mickevičiaus g. 9, LT-44307"
   },
   {
+    "name": "Lietuvos Tarptautinio Bakalaureato pasaulio mokyklų asociacija",
+    "code": "307165961",
+    "address": "Vilnius, V. Grybo g. 7, LT-10313"
+  },
+  {
     "name": "Lietuvos Techninės Priežiūros Inžinerijos Asociacija",
     "code": "302507592",
     "address": "Vilnius, Savanorių pr. 1-54, LT-03116"
@@ -7565,7 +7574,8 @@
   {
     "name": "Lietuvos Wing Tsun kungfu klubas",
     "code": "295738980",
-    "address": "Kaunas, Vilniaus g. 6-2, LT-44280"
+    "address": "Kaunas, Vilniaus g. 6-2, LT-44280",
+    "vatcode": "LT100018038715"
   },
   {
     "name": "Lietuvos administracinių ginčų komisija",
@@ -8227,6 +8237,11 @@
     "address": "Vilnius, Kauno g. 22-301, LT-03212"
   },
   {
+    "name": "Lietuvos asmenų su negalia profesinė sąjunga",
+    "code": "305537929",
+    "address": "Vilnius, M. Katkaus g. 5-58, LT-09217"
+  },
+  {
     "name": "Lietuvos asociacija \"Gimnastika visiems\"",
     "code": "195757385",
     "address": "Kaunas, M. Jankaus g. 2, LT-50275"
@@ -8691,7 +8706,8 @@
   {
     "name": "Lietuvos buhalterių ir auditorių asociacija",
     "code": "191616412",
-    "address": "Vilnius, Lvivo g. 38A, LT-09307"
+    "address": "Vilnius, Lvivo g. 38A, LT-09307",
+    "vatcode": "LT916164113"
   },
   {
     "name": "Lietuvos bulterjerų mylėtojų klubas \"Baltasis džentelmenas\"",
@@ -8752,7 +8768,8 @@
   {
     "name": "Lietuvos cornhole federacija",
     "code": "305832662",
-    "address": "Vilnius, Algimanto Petro Kavoliuko g. 2A-24, LT-04351"
+    "address": "Vilnius, Algimanto Petro Kavoliuko g. 2A-24, LT-04351",
+    "vatcode": "LT100018087410"
   },
   {
     "name": "Lietuvos cukrinių runkelių augintojų asociacija",
@@ -8814,10 +8831,6 @@
     "name": "Lietuvos darbininkų sąjungos Valstybinio socialinio draudimo fondo valdybos Ignalinos rajono skyriaus paslaugų sektoriaus darbuotojų sąjunga",
     "code": "155629748",
     "address": "Ignalina, Laisvės g. 62, LT-30117"
-  },
-  {
-    "name": "Lietuvos darbo fedaracijos Kretingos skyrius",
-    "code": "161733299"
   },
   {
     "name": "Lietuvos darbo federacija",
@@ -8972,7 +8985,8 @@
   {
     "name": "Lietuvos dietologų draugija",
     "code": "190726286",
-    "address": "Kaunas, Eivenių g. 2, LT-50161"
+    "address": "Kaunas, Eivenių g. 2, LT-50161",
+    "vatcode": "LT100017938010"
   },
   {
     "name": "Lietuvos diplomatų šeimos narių asociacija",
@@ -9060,7 +9074,8 @@
   {
     "name": "Lietuvos dziudo federacija",
     "code": "191606076",
-    "address": "Kaunas, Aušros g. 42A, LT-44158"
+    "address": "Kaunas, Aušros g. 42A, LT-44158",
+    "vatcode": "LT100017864417"
   },
   {
     "name": "Lietuvos dziudo federacijos labdaros ir paramos fondas",
@@ -9411,7 +9426,7 @@
   {
     "name": "Lietuvos fortepijonų derintojų asociacija",
     "code": "304405718",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Pieninės g. 8-1, LT-08101"
   },
   {
     "name": "Lietuvos fotomenininkų sąjunga",
@@ -9517,7 +9532,8 @@
   {
     "name": "Lietuvos gastroenterologų draugija",
     "code": "291612920",
-    "address": "Vilnius, Santariškių g. 2, LT-08406"
+    "address": "Vilnius, Santariškių g. 2, LT-08406",
+    "vatcode": "LT100017876511"
   },
   {
     "name": "Lietuvos gatvės vaikų futbolo federacijos Anykščių skyrius",
@@ -10740,12 +10756,6 @@
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
-    "name": "Lietuvos ir Vokietijos uždaroji akcinė bendrovė \"Tuvlita\"",
-    "code": "110584095",
-    "address": "Vilnius, Lentvario g. 7A, LT-02300",
-    "vatcode": "LT105840917"
-  },
-  {
     "name": "Lietuvos ir Vokietijos uždaroji akcinė bendrovė \"VALDEX\"",
     "code": "110716718",
     "address": "Šiauliai, Dubijos g. 1A-110, LT-77158",
@@ -10886,7 +10896,8 @@
   {
     "name": "Lietuvos jaunimo organizacijų taryba",
     "code": "191363642",
-    "address": "Vilnius, Vilniaus g. 20-1B, LT-01402"
+    "address": "Vilnius, Vilniaus g. 20-1B, LT-01402",
+    "vatcode": "LT100018194510"
   },
   {
     "name": "Lietuvos jaunimo pastoracijos centras",
@@ -11459,11 +11470,6 @@
     "address": "Vilniaus r. sav., Nemenčinė, Kalno g. 27, LT-15174"
   },
   {
-    "name": "Lietuvos kariuomenės judėjimo kontrolės centras",
-    "code": "188754410",
-    "address": "Vilnius, Kapsų g. 44, LT-02182"
-  },
-  {
     "name": "Lietuvos kariuomenės kanceliarija",
     "code": "302248086",
     "address": "Vilnius, Šv. Ignoto g. 8, LT-01144"
@@ -11686,7 +11692,8 @@
   {
     "name": "Lietuvos kerlingo asociacija (LKA)",
     "code": "295758520",
-    "address": "Vilnius, Panerių g. 6, LT-01312"
+    "address": "Vilnius, Panerių g. 6, LT-01312",
+    "vatcode": "LT100018088812"
   },
   {
     "name": "Lietuvos kikbokso federacija",
@@ -11711,7 +11718,8 @@
   {
     "name": "Lietuvos kinologų mėgėjų sąjunga",
     "code": "190724997",
-    "address": "Kaunas, S. Žukausko g. 24-18, LT-49255"
+    "address": "Kaunas, S. Žukausko g. 24-18, LT-49255",
+    "vatcode": "LT100017867512"
   },
   {
     "name": "Lietuvos klasterių asociacija",
@@ -12382,7 +12390,7 @@
   {
     "name": "Lietuvos masinio futbolo asociacija",
     "code": "302420422",
-    "address": "Vilnius, Šeimyniškių g. 15-1, LT-09312"
+    "address": "Kaunas, Sporto g. 3, LT-44221"
   },
   {
     "name": "Lietuvos matematikos mokytojų asociacija",
@@ -12512,7 +12520,7 @@
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Alytaus skyriaus medžiotojų klubas \"Krokialaukis\"",
     "code": "190950487",
-    "address": "Alytaus r. sav., Krokialaukis"
+    "address": "Alytaus r. sav., Krokialaukis, Žuvinto g. 20, LT-64355"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Alytaus skyriaus Ūdrijos medžiotojų būrelis",
@@ -12728,11 +12736,6 @@
     "name": "Lietuvos medžiotojų ir žvejų draugijos Plungės skyriaus Stanelių būrelis",
     "code": "171033466",
     "address": "Plungės r. sav., Paukštakių sen., Stanelių k."
-  },
-  {
-    "name": "Lietuvos medžiotojų ir žvejų draugijos Radviliškio skyriaus \"STUMBRO\" medžiotojų būrelis",
-    "code": "171651039",
-    "address": "Radviliškis, Klevų g. 10, LT-82180"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Radviliškio skyriaus \"Sakalo\" medžiotojų būrelis",
@@ -13368,10 +13371,6 @@
     "address": "Vilnius, Kauno g. 30A-1, LT-03202"
   },
   {
-    "name": "Lietuvos muzikų rėmimo fondas",
-    "code": "190726852"
-  },
-  {
     "name": "Lietuvos mėgėjų teatro sąjunga",
     "code": "190772091",
     "address": "Klaipėda, K. Donelaičio g. 4, LT-92144"
@@ -13445,6 +13444,11 @@
     "name": "Lietuvos nacionalinė akordeonistų sąjunga",
     "code": "303008592",
     "address": "Vilnius, Jankiškių g. 43A, LT-02300"
+  },
+  {
+    "name": "Lietuvos nacionalinė būsto nuomos asociacija",
+    "code": "307167528",
+    "address": "Vilnius, Vilkpėdės g. 22, LT-03151"
   },
   {
     "name": "Lietuvos nacionalinė dermatokosmetologų ir estetinės mezoterapijos specialistų asociacija",
@@ -13679,11 +13683,6 @@
     "name": "Lietuvos neįgaliųjų sporto sąjunga",
     "code": "304123868",
     "address": "Vilnius, Tuskulėnų g. 48-56, LT-09209"
-  },
-  {
-    "name": "Lietuvos neįgaliųjų, sergančiųjų sunkiomis, lėtinėmis ligomis, jų artimųjų ir kitų asmenų profesinė sąjunga \"Kartu mes stipresni\"",
-    "code": "305537929",
-    "address": "Vilnius, M. Katkaus g. 5-58, LT-09217"
   },
   {
     "name": "Lietuvos notarų rūmai",
@@ -13940,10 +13939,6 @@
     "name": "Lietuvos paspirtukų federacija",
     "code": "306377908",
     "address": "Vilnius, Notangos g. 11A, LT-06299"
-  },
-  {
-    "name": "Lietuvos pataisos įstaigų profesinė sąjunga",
-    "code": "300614389"
   },
   {
     "name": "Lietuvos patologijos laborantų asociacija",
@@ -14525,7 +14520,8 @@
   {
     "name": "Lietuvos privačių akušerių ginekologų draugija (LPAGD)",
     "code": "191927452",
-    "address": "Vilnius, Pilies g. 38-1, LT-01123"
+    "address": "Vilnius, Pilies g. 38-1, LT-01123",
+    "vatcode": "LT100017927015"
   },
   {
     "name": "Lietuvos privačių detektyvų asociacija",
@@ -14561,10 +14557,6 @@
     "name": "Lietuvos profesinių sąjungų Aljansas",
     "code": "300135232",
     "address": "Vilnius, Labdarių g. 5, LT-01120"
-  },
-  {
-    "name": "Lietuvos profesinių sąjungų centras \"Tautos teisingumas\"",
-    "code": "191998983"
   },
   {
     "name": "Lietuvos profesinių sąjungų federacija \"Sandrauga\"",
@@ -14615,7 +14607,7 @@
   {
     "name": "Lietuvos profesionalaus bokso lyga",
     "code": "302466213",
-    "address": "Klaipėda, Minijos g. 2, LT-91234"
+    "address": "Klaipėda, Minijos g. 2A, LT-91234"
   },
   {
     "name": "Lietuvos profesionalių gelbėtojų vandenyje federacija",
@@ -14730,7 +14722,8 @@
   {
     "name": "Lietuvos pulmonologų ir alergologų draugija",
     "code": "195759774",
-    "address": "Kaunas, Eivenių g. 2, LT-50161"
+    "address": "Kaunas, Eivenių g. 2, LT-50161",
+    "vatcode": "LT100017990513"
   },
   {
     "name": "Lietuvos pėsčiųjų asociacija",
@@ -14889,11 +14882,6 @@
     "address": "Vilnius, Santariškių g. 2, LT-08406"
   },
   {
-    "name": "Lietuvos riboto darbingumo dirbančiųjų asociacijos gamybinė prekybos firma",
-    "code": "120118975",
-    "address": "Vilnius, Panerių g. 11, LT-03209"
-  },
-  {
     "name": "Lietuvos riedlenčių federacija",
     "code": "304532719",
     "address": "Vilnius, Žalgirio g. 92-70, LT-09303"
@@ -14922,7 +14910,8 @@
   {
     "name": "Lietuvos robotikos asociacija",
     "code": "304234669",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
+    "address": "Vilnius, Jogailos g. 4, LT-01116",
+    "vatcode": "LT100018140814"
   },
   {
     "name": "Lietuvos rotorinių orlaivių federacija",
@@ -15137,7 +15126,8 @@
   {
     "name": "Lietuvos skautija",
     "code": "191907421",
-    "address": "Kaunas, Trakų g. 18, LT-44236"
+    "address": "Kaunas, Trakų g. 18, LT-44236",
+    "vatcode": "LT100018070910"
   },
   {
     "name": "Lietuvos skautijos Marijampolės jūrų skautų tuntas \"Šešupė\"",
@@ -15608,10 +15598,6 @@
     "name": "Lietuvos statistikų sąjunga",
     "code": "191959642",
     "address": "Vilnius, Gedimino pr. 29-101, LT-01104"
-  },
-  {
-    "name": "Lietuvos statybos darbuotojų profesinė sąjunga prie Lietuvos darbo federacijos",
-    "code": "301911532"
   },
   {
     "name": "Lietuvos statybos inžinierių sąjunga",
@@ -16131,7 +16117,8 @@
   {
     "name": "Lietuvos tinklinio federacija",
     "code": "191910175",
-    "address": "Vilnius, Žemaitės g. 6, LT-03117"
+    "address": "Vilnius, Žemaitės g. 6, LT-03117",
+    "vatcode": "LT100018063716"
   },
   {
     "name": "Lietuvos tinklinio teisėjų asociacija",
@@ -16187,7 +16174,7 @@
   {
     "name": "Lietuvos traumų psichologijos asociacija",
     "code": "303090415",
-    "address": "Vilnius, Šaltinių g. 7-7, LT-03214"
+    "address": "Vilnius, Vytenio g. 39-16, LT-03207"
   },
   {
     "name": "Lietuvos tremtinių sąjungos Klaipėdos skyriaus sodininkų bendrija \"Viltis\"",
@@ -16357,7 +16344,7 @@
   {
     "name": "Lietuvos vaikų ir jaunių ugdymo futbolo asociacija",
     "code": "305488421",
-    "address": "Vilnius, Stadiono g. 2, LT-02106"
+    "address": "Kaunas, Sporto g. 3, LT-44221"
   },
   {
     "name": "Lietuvos vaikų ir šeimos terapijos asociacija",
@@ -17151,16 +17138,6 @@
     "address": "Pakruojis, Pramonės g. 11B, LT-83182"
   },
   {
-    "name": "Lietuvos ūkininkų sąjungos Panevėžio skyriaus individuali agroserviso įmonė",
-    "code": "268505420",
-    "address": "Panevėžio r. sav., Karsakiškio sen., Vaivadų k."
-  },
-  {
-    "name": "Lietuvos ūkininkų sąjungos Panevėžio skyriaus individuali veislininkystės įmonė",
-    "code": "168515495",
-    "address": "Panevėžio r. sav., Velžio sen., Pažagienių k."
-  },
-  {
     "name": "Lietuvos ūkininkų sąjungos Panevėžio skyrius",
     "code": "193362998",
     "address": "Panevėžys, Vasario 16-osios g. 27, LT-35185"
@@ -17278,10 +17255,6 @@
     "address": "Radviliškis, Gedimino g. 8, LT-82174"
   },
   {
-    "name": "Lietuvos žemės ūkio darbuotojų profesinių sąjungų federacijos Radviliškio rajono komiteto SP UAB \"Radviliškio vanduo\" profesinės sąjungos komitetas",
-    "code": "171487725"
-  },
-  {
     "name": "Lietuvos žemės ūkio darbuotojų profesinių sąjungų federacijos Radviliškio rajono komiteto žemės ūkio bendrovės \"Vėriškės\" profesinės sąjungos komitetas",
     "code": "171487910",
     "address": "Radviliškio r. sav., Šeduvos apylinkės sen., Vėriškių k."
@@ -17392,7 +17365,8 @@
   {
     "name": "Lietuvos žurnalistikos centras",
     "code": "191886361",
-    "address": "Vilnius, Filaretų g. 12-12, LT-01208"
+    "address": "Vilnius, Filaretų g. 12-12, LT-01208",
+    "vatcode": "LT100018042017"
   },
   {
     "name": "Lietuvos žurnalistų autoklubas",
@@ -18129,7 +18103,7 @@
   {
     "name": "Seacontractors Maritime Personnel B.V. Lietuvos filialas",
     "code": "302539145",
-    "address": "Klaipėdos r. sav., Sendvario sen., Mazūriškių k., Jurgaičių g. 5, LT-92377"
+    "address": "Klaipėdos r. sav."
   },
   {
     "name": "Sertifikacijas un testesanas centrs Lietuvos filialas",
@@ -18460,10 +18434,6 @@
     "name": "Tovarystvo z obmezhenoiu vidpovidalnistiu \"Kompaniia ukrservis\" Lietuvos filialas",
     "code": "304388350",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
-  },
-  {
-    "name": "Transitos de Extremadura S.L. Transitex Lietuvos filialas",
-    "code": "301696745"
   },
   {
     "name": "TripCreator ehf. Lietuvos filialas",
@@ -18866,7 +18836,8 @@
   {
     "name": "Viešoji įstaiga \"ATVIROS LIETUVOS FONDAS\"",
     "code": "210063570",
-    "address": "Vilnius, Didžioji g. 5, LT-01128"
+    "address": "Vilnius, Didžioji g. 5, LT-01128",
+    "vatcode": "LT100635716"
   },
   {
     "name": "Viešoji įstaiga \"LIETUVOS AIDO\" FONDAS",
@@ -19025,7 +18996,8 @@
   {
     "name": "Viešoji įstaiga Lietuvos muzikos informacijos centras",
     "code": "125508299",
-    "address": "Vilnius, A. Mickevičiaus g. 29, LT-08117"
+    "address": "Vilnius, A. Mickevičiaus g. 29, LT-08117",
+    "vatcode": "LT100017947918"
   },
   {
     "name": "Viešoji įstaiga Lietuvos prabavimo rūmai",
@@ -19429,7 +19401,8 @@
   {
     "name": "VšĮ \"Lietuvos kibernetinių nusikaltimų kompetencijų ir tyrimų centras\"",
     "code": "303137459",
-    "address": "Vilnius, Ateities g. 20, LT-08300"
+    "address": "Vilnius, Ateities g. 20, LT-08300",
+    "vatcode": "LT100018024412"
   },
   {
     "name": "VšĮ \"Lietuvos osteopatų registras\"",
