@@ -51,7 +51,8 @@
   {
     "name": "UAB Anna Maria Are",
     "code": "305573918",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112"
+    "address": "Vilnius, Girulių g. 10-201, LT-12112",
+    "vatcode": "LT100018068818"
   },
   {
     "name": "VšĮ Kauno maria",
@@ -360,8 +361,7 @@
   {
     "name": "MB \"Marichan\"",
     "code": "306706314",
-    "address": "Vilniaus r. sav., Nemenčinės sen., Sklėriškių k., Parčevskių g. 208, LT-15163",
-    "vatcode": "LT100017007911"
+    "address": "Vilniaus r. sav., Nemenčinės sen., Sklėriškių k., Parčevskių g. 208, LT-15163"
   },
   {
     "name": "UAB \"MaRichi Homes\"",
@@ -717,6 +717,11 @@
     "address": "Marijampolė, Uosupio g. 14-11, LT-68157"
   },
   {
+    "name": "MARIJAMPOLĖS FUTBOLO KLUBAS",
+    "code": "151470469",
+    "address": "Marijampolė, Kauno g. 125, LT-68222"
+  },
+  {
     "name": "MARIJAMPOLĖS SAVIVALDYBĖS TAUTKAIČIŲ KAIMO BENDRUOMENĖ",
     "code": "300592722",
     "address": "Marijampolės sav., Sasnavos sen., Tautkaičių k., Valčiuvos g. 16-3, LT-68106"
@@ -810,10 +815,6 @@
     "name": "Marijampolės Petro Kriaučiūno viešoji biblioteka",
     "code": "190495783",
     "address": "Marijampolė, Vytauto g. 20-45, LT-68298"
-  },
-  {
-    "name": "Marijampolės Rimanto Stankevičiaus pagrindinės mokyklos klubas",
-    "code": "304285090"
   },
   {
     "name": "Marijampolės Rimanto Stankevičiaus progimnazija",
@@ -1794,11 +1795,6 @@
     "address": "Vilkaviškis, J. Basanavičiaus a. 11, LT-70101"
   },
   {
-    "name": "Viešoji įstaiga MARIJAMPOLĖS FUTBOLO KLUBAS",
-    "code": "151470469",
-    "address": "Marijampolė, Kauno g. 125, LT-68222"
-  },
-  {
     "name": "Viešoji įstaiga Marijampolės Mokolų - Tarpučių bendruomenė",
     "code": "300067895",
     "address": "Marijampolė, Atgimimo g. 37, LT-68150"
@@ -1964,11 +1960,6 @@
     "address": "Kaunas, J. Žemgulio g. 3-43, LT-50186"
   },
   {
-    "name": "Marijaus Šafranausko individuali įmonė",
-    "code": "151462892",
-    "address": "Marijampolė, Mokolų g. 67-7, LT-68168"
-  },
-  {
     "name": "Marijauskės mažoji bendrija",
     "code": "305565106",
     "address": "Joniškio r. sav., Joniškio sen., Linkaičių k., Ramunių g. 13, LT-84288"
@@ -2015,19 +2006,9 @@
     "address": "Alytaus r. sav., Punios sen., Medukštos k., Punios g. 1, LT-64471"
   },
   {
-    "name": "Marijonos Vaičiukynienės įmonė",
-    "code": "159810767",
-    "address": "Kauno r. sav., Rokų sen., Rokelių k."
-  },
-  {
     "name": "Marijonos Česynienės individuali įmonė",
     "code": "149925828",
     "address": "Alytus, Naujoji g. 110-9, LT-62393"
-  },
-  {
-    "name": "Marijonos-Birutės Norvaišienės individuali įmonė",
-    "code": "157624739",
-    "address": "Joniškio r. sav., Žagarės sen., Stungių k."
   },
   {
     "name": "Bendrija \"Marijonų 39\"",
@@ -2297,6 +2278,12 @@
     "address": "Vilnius, J. Basanavičiaus g. 2-25, LT-01118"
   },
   {
+    "name": "IĮ Marijos Gniliakevič PĮ",
+    "code": "186714883",
+    "address": "Vilniaus r. sav., Juodšilių sen., Valčiūnų k., Geležinkeliečių g. 8-16",
+    "vatcode": "LT100000877910"
+  },
+  {
     "name": "Išlaužo Švč. M. Marijos, Krikščionių Pagalbos parapija",
     "code": "191288481",
     "address": "Prienų r. sav., Išlaužo sen., Išlaužo k., Žvejų g. 23, LT-59302"
@@ -2537,17 +2524,6 @@
     "address": "Kaunas, Tunelio g. 17-5, LT-44363"
   },
   {
-    "name": "Marijos Gniliakevič personalinė įmonė",
-    "code": "186714883",
-    "address": "Vilniaus r. sav., Juodšilių sen., Valčiūnų k., Geležinkeliečių g. 8-16",
-    "vatcode": "LT100000877910"
-  },
-  {
-    "name": "Marijos Grigienės įmonė",
-    "code": "162577344",
-    "address": "Kelmės r. sav., Tytuvėnų apylinkių sen., Pašiaušės k."
-  },
-  {
     "name": "Marijos Jankuvienės įmonė \"SIMRIS\"",
     "code": "152561217",
     "address": "Palanga, Saulėtekio tak. 22-18, LT-00123"
@@ -2557,11 +2533,6 @@
     "code": "120985026",
     "address": "Vilnius, Savanorių pr. 11-2, LT-03116",
     "vatcode": "LT209850219"
-  },
-  {
-    "name": "Marijos Juočepienės gamybinė įmonė \"Gija\"",
-    "code": "171214438",
-    "address": "Radviliškio r. sav., Šeduva, Taikos g. 33-6, LT-82226"
   },
   {
     "name": "Marijos Jurgaitienės stomatologijos kabinetas",
@@ -2625,11 +2596,6 @@
     "address": "Marijampolė, P. Kriaučiūno g. 11, LT-68298"
   },
   {
-    "name": "Marijos Ponomariovienės įmonė",
-    "code": "159935169",
-    "address": "Kauno r. sav., Alšėnų sen., Pažėrų k."
-  },
-  {
     "name": "Marijos Ragelskienės individuali įmonė",
     "code": "179392841",
     "address": "Tauragė, Bažnyčių g. 22, LT-72253",
@@ -2642,19 +2608,9 @@
     "vatcode": "LT666398219"
   },
   {
-    "name": "Marijos Simanavičienės paslaugų įmonė",
-    "code": "151406630",
-    "address": "Marijampolė, R. Juknevičiaus g. 94-16, LT-68195"
-  },
-  {
     "name": "Marijos Suško IĮ",
     "code": "303409959",
     "address": "Radviliškio r. sav., Šaukoto sen., Kalnų k. 1, LT-82432"
-  },
-  {
-    "name": "Marijos Vaičiūnienės įmonė",
-    "code": "234799310",
-    "address": "Kaunas, Varduvos g. 4-15, LT-49410"
   },
   {
     "name": "Marijos Valeckienės įmonė",
@@ -3253,10 +3209,6 @@
     "address": "Kaunas, Vasario 16-osios g. 9-10, LT-44251"
   },
   {
-    "name": "UAB \"Marikona\"",
-    "code": "303398110"
-  },
-  {
     "name": "\"Marikonta\", UAB",
     "code": "142096225",
     "address": "Klaipėda, Jūrininkų pr. 27, LT-95226",
@@ -3288,8 +3240,7 @@
   {
     "name": "UAB \"Marilis LT\"",
     "code": "304523905",
-    "address": "Šalčininkų r. sav., Baltosios Vokės sen., Rūdninkų k., Juodupės g. 102, LT-17237",
-    "vatcode": "LT100011621811"
+    "address": "Šalčininkų r. sav., Baltosios Vokės sen., Rūdninkų k., Juodupės g. 102, LT-17237"
   },
   {
     "name": "UAB \"Marilisa\"",
@@ -3512,6 +3463,11 @@
     "address": "Klaipėda, Žarų g. 6-1, LT-92346"
   },
   {
+    "name": "MB Marine service laguna",
+    "code": "307164457",
+    "address": "Šilutė, Nemuno g. 17A-2, LT-99149"
+  },
+  {
     "name": "MB Master marine service",
     "code": "306272914",
     "address": "Klaipėda, Bandužių g. 16-93, LT-95224"
@@ -3648,8 +3604,7 @@
   {
     "name": "UAB \"Molten Marine\"",
     "code": "304032895",
-    "address": "Klaipėda, Taikos pr. 24-3, LT-91222",
-    "vatcode": "LT100009367618"
+    "address": "Klaipėda, Taikos pr. 24-3, LT-91222"
   },
   {
     "name": "UAB \"PRO MARINE\"",
@@ -3666,6 +3621,12 @@
     "name": "UAB \"Trust Marine\"",
     "code": "301153564",
     "address": "Klaipėda, Vyturio g. 11-25, LT-95186"
+  },
+  {
+    "name": "UAB \"VG Marine Foods\"",
+    "code": "302629799",
+    "address": "Plungės r. sav., Nausodžio sen., Macenių k., Birutės skg. 10, LT-90100",
+    "vatcode": "LT100006646315"
   },
   {
     "name": "UAB Adma marine",
@@ -3929,6 +3890,11 @@
     "vatcode": "LT100013349218"
   },
   {
+    "name": "MB Marios vaizdų",
+    "code": "307173680",
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Seniavos k., Ireniškių g. 40, LT-53214"
+  },
+  {
     "name": "Poilsio namų patalpų savininkų bendrija \"LAIKO MARIOS\"",
     "code": "305673480",
     "address": "Neringa, Preilos g. 67B-11, LT-93129"
@@ -3946,14 +3912,14 @@
     "vatcode": "LT100016677612"
   },
   {
+    "name": "UAB SPV MARIOS",
+    "code": "307162050",
+    "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Žirgų g. 21, LT-14158"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Kuršių marios\"",
     "code": "163311567",
     "address": "Klaipėdos r. sav., Priekulės sen., Drevernos k., Žemaičių g. 2-2, LT-96240"
-  },
-  {
-    "name": "V. Beržanskio siuvykla \"Marios\"",
-    "code": "163910734",
-    "address": "Kretinga, Klaipėdos g. 12-1, LT-97154"
   },
   {
     "name": "VšĮ \"Jūros marios\"",
@@ -4155,7 +4121,7 @@
   {
     "name": "Seacontractors Maritime Personnel B.V. Lietuvos filialas",
     "code": "302539145",
-    "address": "Klaipėdos r. sav., Sendvario sen., Mazūriškių k., Jurgaičių g. 5, LT-92377"
+    "address": "Klaipėdos r. sav."
   },
   {
     "name": "UAB \"Aukra Maritime\"",
@@ -4311,8 +4277,7 @@
   {
     "name": "UAB \"MARIYE LT\"",
     "code": "306897556",
-    "address": "Vilnius, Šv. Stepono g. 29-64, LT-01312",
-    "vatcode": "LT100017379413"
+    "address": "Vilnius, Šv. Stepono g. 29-64, LT-01312"
   },
   {
     "name": "\"Kauno marių\" metalinių garažų eksploatavimo bendrija",

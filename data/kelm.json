@@ -22,10 +22,6 @@
     "address": "Kaunas, V. Krėvės pr. 104T, LT-50381"
   },
   {
-    "name": "V. Kelmelio individuali įmonė",
-    "code": "125044984"
-  },
-  {
     "name": "MB \"Architektas Nerijus Kelmelis\"",
     "code": "304184198",
     "address": "Kaunas, Savanorių pr. 5-2, LT-44255",
@@ -250,7 +246,8 @@
   {
     "name": "Kelmės kredito unija",
     "code": "112046191",
-    "address": "Kelmė, Dariaus ir Girėno g. 21A, LT-86126"
+    "address": "Kelmė, Dariaus ir Girėno g. 21A, LT-86126",
+    "vatcode": "LT100018034611"
   },
   {
     "name": "Kelmės kultūros centras",
@@ -286,11 +283,6 @@
     "name": "Kelmės miesto vietos veiklos grupė",
     "code": "304066926",
     "address": "Kelmė, Birutės g. 4, LT-86163"
-  },
-  {
-    "name": "Kelmės mėgėjų teatro draugija",
-    "code": "193361362",
-    "address": "Kelmė, B. Laucevičiaus g. 8-43, LT-86165"
   },
   {
     "name": "Kelmės r. Pakražančio gimnazija",
@@ -498,6 +490,11 @@
     "address": "Kelmės r. sav., Vaiguvos sen., Vaiguvos k."
   },
   {
+    "name": "Kelmės rajono savivaldybės administracijos darbuotojų profesinė sąjunga",
+    "code": "307171334",
+    "address": "Kelmė, Vytauto Didžiojo g. 58, LT-86143"
+  },
+  {
     "name": "Kelmės rajono savivaldybės administracijos Šaukėnų seniūnija",
     "code": "188647974",
     "address": "Kelmės r. sav., Šaukėnai, Juodlės g. 1, LT-86386"
@@ -556,6 +553,11 @@
     "name": "Kelmės specialioji mokykla",
     "code": "190100485",
     "address": "Kelmė, Liolių g. 19, LT-86185"
+  },
+  {
+    "name": "Kelmės sporto centras",
+    "code": "190112078",
+    "address": "Kelmė, J. Janonio g. 11F-1, LT-86122"
   },
   {
     "name": "Kelmės sporto klubas \"AUŠRA\"",
@@ -803,11 +805,6 @@
     "name": "Viešoji įstaiga Kelmės rajono psichikos sveikatos centras",
     "code": "162775041",
     "address": "Kelmė, Vytauto Didžiojo g. 23, LT-86132"
-  },
-  {
-    "name": "Viešoji įstaiga Kelmės sporto centras",
-    "code": "190112078",
-    "address": "Kelmė, J. Janonio g. 11F-1, LT-86122"
   },
   {
     "name": "Viešoji įstaiga Kelmės turizmo ir verslo informacijos centras",

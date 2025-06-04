@@ -226,6 +226,11 @@
     "address": "Utenos r. sav., Tauragnų sen., Žiezdrių k. 9, LT-28311"
   },
   {
+    "name": "VšĮ KAIMELIS",
+    "code": "307167282",
+    "address": "Anykščių r. sav., Skiemonių sen., Vaišviliškių k. 3, LT-29162"
+  },
+  {
     "name": "DNSB Kaimelės bendrija",
     "code": "304299371",
     "address": "Kaunas, Kaimelės g. 7-8, LT-47222"
@@ -250,6 +255,11 @@
     "name": "MB Kaimiukas",
     "code": "306183141",
     "address": "Šiauliai, Gegužių g. 40-12, LT-78346"
+  },
+  {
+    "name": "MB Kaimiška virtuvė",
+    "code": "307164425",
+    "address": "Telšių r. sav., Luokė, Telšių g. 62A, LT-88238"
   },
   {
     "name": "Mažoji bendrija \"Kaimiška mėsa\"",
@@ -775,7 +785,7 @@
   {
     "name": "Aukštakalnių kaimo bendruomenė",
     "code": "173744111",
-    "address": "Rokiškio r. sav., Kamajų sen., Aukštakalnių k."
+    "address": "Rokiškio r. sav., Kamajų sen., Aukštakalnių k., Ežero g. 2, LT-42281"
   },
   {
     "name": "Aukštelkės kaimo bendruomenė \"Aukštarūžė\"",
@@ -811,11 +821,6 @@
     "name": "Aušgirių kaimo bendruomenė",
     "code": "302479709",
     "address": "Pagėgių sav., Vilkyškių sen., Aušgirių k., Girių g. 8, LT-99246"
-  },
-  {
-    "name": "Avilių kaimo bendruomenė",
-    "code": "287932590",
-    "address": "Zarasų r. sav., Imbrado sen., Avilių II k., Bažnyčios g. 2, LT-32252"
   },
   {
     "name": "Ažuožerių kaimo bendruomenė",
@@ -2061,10 +2066,6 @@
     "address": "Kaunas, Karaliaus Mindaugo pr. 31-47, LT-44300"
   },
   {
-    "name": "Kaimo bendruomenė \"Ramučių užuovėja\"",
-    "code": "153272728"
-  },
-  {
     "name": "Kaimo bendruomenė \"Rusių pakrantė\"",
     "code": "304030200",
     "address": "Kaišiadorių r. sav., Palomenės sen., Rusių k., Neries g. 19, LT-56395"
@@ -2855,7 +2856,8 @@
   {
     "name": "MB Kaimo parduotuvė",
     "code": "307135092",
-    "address": "Šakių r. sav., Plokščių sen., Kubilių k., Nemuno g. 9, LT-71486"
+    "address": "Šakių r. sav., Plokščių sen., Kubilių k., Nemuno g. 9, LT-71486",
+    "vatcode": "LT100017802810"
   },
   {
     "name": "MB Kaimo rūkyklėlė",
@@ -3417,7 +3419,7 @@
   {
     "name": "Paprūdžių kaimo bendruomenė",
     "code": "306183789",
-    "address": "Kelmės r. sav., Kelmės apylinkių sen., Janaučių k., Jaunimo g. 16, LT-86119"
+    "address": "Kelmės r. sav., Kelmės apylinkių sen., Paprūdžių k., Plento g. 25A, LT-86119"
   },
   {
     "name": "Papušynio kaimo bendruomenė",
@@ -4412,7 +4414,7 @@
   {
     "name": "Tūbausių kaimo bendruomenė",
     "code": "304086366",
-    "address": "Kretingos r. sav., Kretingos sen., Tūbausių k., Užtvankos g. 18, LT-97241"
+    "address": "Kretingos r. sav."
   },
   {
     "name": "Tūbinių kaimo bendruomenė",
@@ -5757,7 +5759,8 @@
   {
     "name": "MB Šauniausia kaimynystė",
     "code": "306994521",
-    "address": "Šilalės r. sav., Kaltinėnų sen., Vosgirdų k. 7, LT-75449"
+    "address": "Šilalės r. sav., Kaltinėnų sen., Vosgirdų k. 7, LT-75449",
+    "vatcode": "LT100018110610"
   },
   {
     "name": "Melkio kaimynystė",
@@ -5956,7 +5959,7 @@
   {
     "name": "Kaimų bendruomenė \"Dumšiškiai\"",
     "code": "172783321",
-    "address": "Raseinių r. sav., Paliepių sen., Dumšiškių k., Dumšiškių g. 14, LT-60110"
+    "address": "Raseinių r. sav., Paliepių sen., Dumšiškių k., Dumšiškių g. 18, LT-60110"
   },
   {
     "name": "Kaimų bendruomenė \"Girkalnis\"",

@@ -52,6 +52,11 @@
     "address": "Vilnius, Blindžių g. 7, LT-08111"
   },
   {
+    "name": "\"Povilo akademija\" MB",
+    "code": "307163095",
+    "address": "Vilniaus r. sav., Riešės sen., Užugriovio k., Plačioji g. 57B, LT-14256"
+  },
+  {
     "name": "\"TV akademija LT\", UAB",
     "code": "304427255",
     "address": "Ignalinos r. sav., Ignalinos sen., Palūšės k., Lūšių g. 21, LT-30202",
@@ -201,6 +206,11 @@
     "name": "Futbolo akademija \"Viltis\", VšĮ",
     "code": "304330692",
     "address": "Vilnius, Žirmūnų g. 117-5, LT-09118"
+  },
+  {
+    "name": "Gamedev akademija, MB",
+    "code": "307164489",
+    "address": "Vilnius, Krokuvos g. 60-14, LT-09306"
   },
   {
     "name": "Genealogijos akademija",
@@ -432,7 +442,8 @@
   {
     "name": "MB \"Pole sporto akademija\"",
     "code": "306662693",
-    "address": "Rokiškis, Taikos g. 5-133, LT-42144"
+    "address": "Rokiškis, Taikos g. 5-133, LT-42144",
+    "vatcode": "LT100018150317"
   },
   {
     "name": "MB \"Projektų rengimo akademija\"",
@@ -453,6 +464,11 @@
     "name": "MB \"Skausmo akademija\"",
     "code": "306420327",
     "address": "Kaunas, Neries krant. 25-6, LT-48405"
+  },
+  {
+    "name": "MB \"Tikro meistriškumo akademija\"",
+    "code": "307165580",
+    "address": "Vilnius, Grigalaukio g. 34-112, LT-05273"
   },
   {
     "name": "MB \"Vaikų lavinimo akademija\"",
@@ -535,7 +551,8 @@
   {
     "name": "MB Asmeninio augimo akademija",
     "code": "304669881",
-    "address": "Palanga, Vytauto g. 157-55, LT-00163"
+    "address": "Palanga, Vytauto g. 157-55, LT-00163",
+    "vatcode": "LT100018100119"
   },
   {
     "name": "MB Deguonies akademija",
@@ -545,7 +562,8 @@
   {
     "name": "MB Dizaino akademija",
     "code": "306419759",
-    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Ilgoji g. 60-8, LT-54304"
+    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Ilgoji g. 60-8, LT-54304",
+    "vatcode": "LT100017950514"
   },
   {
     "name": "MB Ekologinė akademija",
@@ -670,7 +688,8 @@
   {
     "name": "MB Moters akademija",
     "code": "306120917",
-    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Vėjo g. 12-2, LT-91276"
+    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Vėjo g. 12-2, LT-91276",
+    "vatcode": "LT100017937416"
   },
   {
     "name": "MB Muzikos akademija",
@@ -740,6 +759,11 @@
     "address": "Klaipėda, Dragūnų g. 6-30, LT-92331"
   },
   {
+    "name": "MB Senso akademija",
+    "code": "307164514",
+    "address": "Kaunas, Pienių g. 2-17, LT-47442"
+  },
+  {
     "name": "MB Skaitmeninės odontologijos akademija",
     "code": "307028304",
     "address": "Vilnius, Stumbrų g. 26A-105, LT-08101"
@@ -801,7 +825,8 @@
   {
     "name": "MB Vizualinių komunikacijų akademija",
     "code": "305062418",
-    "address": "Vilnius, Gražinos g. 3, LT-10220"
+    "address": "Vilnius, Gražinos g. 3, LT-10220",
+    "vatcode": "LT100018103910"
   },
   {
     "name": "MB akademija \"Infinitas\"",
@@ -858,6 +883,11 @@
     "name": "Mažų rankų akademija",
     "code": "307030248",
     "address": "Kauno r. sav., Lapių sen., Drąseikių k., Kirų g. 11, LT-54411"
+  },
+  {
+    "name": "Mažųjų išradėjų akademija, MB",
+    "code": "307173723",
+    "address": "Šilalė, Dariaus ir Girėno g. 15, LT-75135"
   },
   {
     "name": "Mergaičių ir moterų akademija",
@@ -930,7 +960,8 @@
   {
     "name": "ROBOTIKOS AKADEMIJA VšĮ",
     "code": "303015010",
-    "address": "Vilnius, Kęstučio g. 47, LT-08124"
+    "address": "Vilnius, Kęstučio g. 47, LT-08124",
+    "vatcode": "LT100018113817"
   },
   {
     "name": "Rajyashree Ramesh scenos meno ir šokio teatro akademija",
@@ -1028,11 +1059,6 @@
     "name": "Tauragės kovų akademija",
     "code": "304453129",
     "address": "Tauragės r. sav., Mažonų sen., Šaukėnų k. 2, LT-73310"
-  },
-  {
-    "name": "Tavo sporto akademija, UAB",
-    "code": "303449430",
-    "address": "Vilnius, Salomėjos Nėries g. 51-97, LT-06305"
   },
   {
     "name": "Technologijų akademija MB",
@@ -1243,6 +1269,11 @@
     "address": "Kaunas, Studentų g. 22A, LT-50249"
   },
   {
+    "name": "UAB Korto akademija",
+    "code": "307174679",
+    "address": "Vilnius, Stiklių g. 18-4, LT-01131"
+  },
+  {
     "name": "UAB LEAN akademija",
     "code": "304143956",
     "address": "Palanga, Vanagupės g. 13A-28, LT-00171",
@@ -1262,7 +1293,8 @@
   {
     "name": "UAB Montessori akademija",
     "code": "305041388",
-    "address": "Kaunas, Vičiūnų g. 13, LT-45325"
+    "address": "Kaunas, Vičiūnų g. 13, LT-45325",
+    "vatcode": "LT100018134315"
   },
   {
     "name": "UAB Moterų lyderystės akademija",
@@ -1605,7 +1637,8 @@
   {
     "name": "Viešoji įstaiga futbolo klubo \"Žalgiris\" akademija",
     "code": "302543503",
-    "address": "Vilnius, Stadiono g. 2, LT-02106"
+    "address": "Vilnius, Stadiono g. 2, LT-02106",
+    "vatcode": "LT100017849817"
   },
   {
     "name": "Viešoji įstaiga Šiaulių krepšinio akademija \"Saulė\"",
@@ -1897,7 +1930,8 @@
   {
     "name": "VšĮ \"Pradinukų akademija\"",
     "code": "305570861",
-    "address": "Palanga, Medvalakio g. 9-37, LT-00141"
+    "address": "Palanga, Medvalakio g. 9-37, LT-00141",
+    "vatcode": "LT100017998115"
   },
   {
     "name": "VšĮ \"Profesinio meistriškumo akademija\"",
@@ -2295,6 +2329,11 @@
     "address": "Kauno r. sav., Domeikavos sen., Ražių k., Astrų g. 5, LT-54340"
   },
   {
+    "name": "VšĮ Nugalėtojų akademija",
+    "code": "307162246",
+    "address": "Vilnius, P. Vileišio g. 19-2, LT-10304"
+  },
+  {
     "name": "VšĮ Paplūdimio teniso akademija",
     "code": "305944191",
     "address": "Vilnius, Marcelės Kubiliūtės g. 7, LT-04224"
@@ -2317,7 +2356,8 @@
   {
     "name": "VšĮ Plaukimo akademija",
     "code": "304296375",
-    "address": "Vilnius, J. Jasinskio g. 12, LT-01112"
+    "address": "Vilnius, J. Jasinskio g. 12, LT-01112",
+    "vatcode": "LT100017916010"
   },
   {
     "name": "VšĮ Porų akademija",
@@ -2889,6 +2929,11 @@
     "name": "VILNIAUS AKADEMINĖS SIELOVADOS CENTRAS",
     "code": "192096092",
     "address": "Vilnius, Aušros Vartų g. 12, LT-01303"
+  },
+  {
+    "name": "MB \"Akademis\"",
+    "code": "307178026",
+    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
   },
   {
     "name": "VšĮ \"Akademita\"",

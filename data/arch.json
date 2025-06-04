@@ -98,7 +98,7 @@
   {
     "name": "UAB Arch-1",
     "code": "302801964",
-    "address": "Vilnius, Pašilaičių g. 21F, LT-06107",
+    "address": "Vilnius, Pašilaičių g. 21, LT-06107",
     "vatcode": "LT100007503018"
   },
   {
@@ -214,6 +214,11 @@
     "code": "121577821",
     "address": "Vilnius, Žemaitės g. 1-60, LT-03119",
     "vatcode": "LT100001637914"
+  },
+  {
+    "name": "MB Dangės archeologija",
+    "code": "306837979",
+    "address": "Klaipėda, Baltijos pr. 81-81, LT-94119"
   },
   {
     "name": "MB Miestų Archeologija",
@@ -341,6 +346,11 @@
     "name": "\"Massoni archi\" MB",
     "code": "305769094",
     "address": "Gargždai, Kvietinių g. 17-1, LT-96136"
+  },
+  {
+    "name": "MB Archi house",
+    "code": "307183977",
+    "address": "Kaunas, Siūlų g. 5-2, LT-45196"
   },
   {
     "name": "UAB \"AJ archi\"",
@@ -487,11 +497,6 @@
     "code": "121098657",
     "address": "Vilnius, Didžioji g. 8-24, LT-01128",
     "vatcode": "LT210986515"
-  },
-  {
-    "name": "Jono Anuškevičiaus personalinė įmonė \"ARCHIJONAS\"",
-    "code": "124305157",
-    "address": "Vilnius, Palangos g. 1-12A"
   },
   {
     "name": "MB Archika",
@@ -641,11 +646,6 @@
     "name": "A. Archipovo siuvimo įmonė",
     "code": "140014051",
     "address": "Klaipėda, Laukininkų g. 6-2, LT-95139"
-  },
-  {
-    "name": "S. Archipovo individuali įmonė",
-    "code": "141444547",
-    "address": "Klaipėda, Kretingos g. 48-4, LT-92326"
   },
   {
     "name": "UAB \"Archipro\"",
@@ -1254,6 +1254,11 @@
     "vatcode": "LT100014144018"
   },
   {
+    "name": "MB Matricos architektai",
+    "code": "307163533",
+    "address": "Birštonas, Lelijų g. 17-19, LT-59208"
+  },
+  {
     "name": "MB Nambo architektai",
     "code": "306617310",
     "address": "Trakai, Saulės g. 9, LT-21123"
@@ -1480,10 +1485,6 @@
     "code": "125921419",
     "address": "Vilnius, Pamėnkalnio g. 32-5, LT-01114",
     "vatcode": "LT259214113"
-  },
-  {
-    "name": "Virtuvių architektai, UAB",
-    "code": "304961800"
   },
   {
     "name": "VšĮ \"Idėjų architektai\"",
@@ -1813,7 +1814,8 @@
   {
     "name": "MB \"R.J. architektūra\"",
     "code": "307075706",
-    "address": "Vilnius, Erfurto g. 27-48, LT-04220"
+    "address": "Vilnius, Erfurto g. 27-48, LT-04220",
+    "vatcode": "LT100017942019"
   },
   {
     "name": "MB \"Sava architektūra\"",
@@ -2011,7 +2013,8 @@
   {
     "name": "UAB \"Shkolnikovo architektūra\"",
     "code": "303112961",
-    "address": "Neringa, Vėtrungių g. 23-10, LT-93128"
+    "address": "Neringa, Vėtrungių g. 23-10, LT-93128",
+    "vatcode": "LT100011924310"
   },
   {
     "name": "UAB \"Verslo architektūra\"",
@@ -2058,11 +2061,6 @@
     "name": "E. Beinorto pastatų architektūrinio projektavimo individuali įmonė",
     "code": "121530177",
     "address": "Vilnius, Vytauto Vaitkaus g. 13-101, LT-04334"
-  },
-  {
-    "name": "Petro Grecevičiaus architektūrinio projektavimo firma",
-    "code": "152418888",
-    "address": "Palanga, Taikos g. 15-9, LT-00118"
   },
   {
     "name": "UAB \"Architektūrinis ritmas\"",
@@ -2133,7 +2131,7 @@
   {
     "name": "Architektūros ir dizaino studija \"Impromptus\", MB",
     "code": "305717628",
-    "address": "Kaunas, Žemaičių g. 31-303, LT-44175"
+    "address": "Vilnius, J. Jasinskio g. 17-50, LT-01111"
   },
   {
     "name": "Architektūros ir inžinerijos studija, UAB",
@@ -2239,7 +2237,8 @@
   {
     "name": "MB \"Architektūros efektai\"",
     "code": "304880070",
-    "address": "Kauno r. sav., Kulautuva, Akacijų al. 28-1, LT-53486"
+    "address": "Kauno r. sav., Kulautuva, Akacijų al. 28-1, LT-53486",
+    "vatcode": "LT100017871510"
   },
   {
     "name": "MB \"Architektūros namai ir partneriai\"",
@@ -2309,7 +2308,8 @@
   {
     "name": "MB Architektūros spektras",
     "code": "307085013",
-    "address": "Kaunas, A. Mapu g. 24-7, LT-44284"
+    "address": "Kaunas, A. Mapu g. 24-7, LT-44284",
+    "vatcode": "LT100017797518"
   },
   {
     "name": "MB Architektūros studija \"Eglė\"",
@@ -2768,11 +2768,6 @@
     "name": "Garažų, esančių Architektų g. 48, Vilniuje, savininkų bendrija",
     "code": "300600934",
     "address": "Vilnius, Architektų g. 38-24, LT-04122"
-  },
-  {
-    "name": "Lietuvos Architektų Sąjungos projektavimo firma \"A+M\"",
-    "code": "120718482",
-    "address": "Vilnius, Architektų g. 222-43, LT-04215"
   },
   {
     "name": "Lietuvos architektų rūmai",
@@ -3270,7 +3265,8 @@
   {
     "name": "UAB Archyvo 52",
     "code": "307085853",
-    "address": "Kaunas, A. Mickevičiaus g. 56-2, LT-44244"
+    "address": "Kaunas, A. Mickevičiaus g. 56-2, LT-44244",
+    "vatcode": "LT100017754013"
   },
   {
     "name": "Vilniaus regioninio valstybės archyvo Utenos filialas",

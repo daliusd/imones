@@ -182,14 +182,6 @@
     "address": "Šalčininkų r. sav., Jašiūnai, Popierinės g. 3, LT-17250"
   },
   {
-    "name": "Kauno apskrities profesinė sąjunga \"Teisingumas\"",
-    "code": "193418781"
-  },
-  {
-    "name": "Lietuvos profesinių sąjungų centras \"Tautos teisingumas\"",
-    "code": "191998983"
-  },
-  {
     "name": "Lietuvos profesinė sąjunga \"Teisingumas\"",
     "code": "302676254",
     "address": "Kaunas, K. Baršausko g. 63A-416, LT-51425"
@@ -481,11 +473,6 @@
     "name": "IĮ TEISININKO PAVELO ZELENKOVO TEISINIŲ PASLAUGŲ BIURAS",
     "code": "300617823",
     "address": "Visaginas, Statybininkų g. 4-75, LT-31207"
-  },
-  {
-    "name": "Lino Songailos teisinių paslaugų įmonė",
-    "code": "167217923",
-    "address": "Mažeikiai, Montuotojų g. 2, LT-89101"
   },
   {
     "name": "MB \"TEISINIŲ ŽINIŲ INSTITUTAS\"",
@@ -878,7 +865,8 @@
   {
     "name": "Viešoji įstaiga \"Lygių teisių ekspertizės centras\"",
     "code": "304097918",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
+    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228",
+    "vatcode": "LT100017966712"
   },
   {
     "name": "Viešoji įstaiga \"Žmogaus teisių apsaugos išteklių centras\"",
@@ -1288,9 +1276,20 @@
     "address": "Vilnius, Taikos g. 168-29, LT-05229"
   },
   {
+    "name": "MB Tavo teisė",
+    "code": "304330482",
+    "address": "Vilnius, Konstitucijos pr. 12, LT-09308",
+    "vatcode": "LT100010391919"
+  },
+  {
     "name": "MB Teisė rinktis",
     "code": "305756570",
     "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Dainavos g. 5, LT-54119"
+  },
+  {
+    "name": "MB Verslas ir teisė holding",
+    "code": "307186756",
+    "address": "Molėtai, Verslo g. 5A, LT-33114"
   },
   {
     "name": "Medicinos teisė, MB",
@@ -1333,12 +1332,6 @@
     "name": "UAB \"Sostinės teisė\"",
     "code": "303174678",
     "address": "Vilnius, Laisvės pr. 115A-57, LT-06119"
-  },
-  {
-    "name": "UAB \"Tavo teisė\"",
-    "code": "304330482",
-    "address": "Vilnius, Konstitucijos pr. 12, LT-09308",
-    "vatcode": "LT100010391919"
   },
   {
     "name": "UAB \"Teisė ir finansai\"",
@@ -1731,10 +1724,6 @@
     "name": "UAB \"Teisės bitės\"",
     "code": "304433596",
     "address": "Vilniaus r. sav., Pagirių sen., Baltosios Vokės k., Parko g. 16-9, LT-14147"
-  },
-  {
-    "name": "UAB \"Teisės garantas\"",
-    "code": "302312247"
   },
   {
     "name": "UAB \"Teisės guru\"",

@@ -109,7 +109,8 @@
   {
     "name": "MB \"Agro Galvijai\"",
     "code": "307133974",
-    "address": "Šiauliai, Spindulio g. 4-46, LT-76174"
+    "address": "Šiauliai, Spindulio g. 4-46, LT-76174",
+    "vatcode": "LT100017812313"
   },
   {
     "name": "MB \"Agro dakaras\"",
@@ -224,6 +225,11 @@
     "name": "MB AGRO MMM",
     "code": "306626843",
     "address": "Alytaus r. sav., Alovės sen., Muiželėnų k., Šarkų g. 3, LT-64110"
+  },
+  {
+    "name": "MB Agro Grain",
+    "code": "307185024",
+    "address": "Mažeikiai, Žemaitijos g. 50-34, LT-89156"
   },
   {
     "name": "MB Agro Grūdelis",
@@ -447,6 +453,11 @@
     "vatcode": "LT100007814517"
   },
   {
+    "name": "UAB \"Agro dylas\"",
+    "code": "307183895",
+    "address": "Šiaulių r. sav., Meškuičių sen., Misaičių k. 7, LT-81441"
+  },
+  {
     "name": "UAB \"Agro grūdas\"",
     "code": "305577966",
     "address": "Palanga, Vytauto g. 118-4, LT-00153",
@@ -518,7 +529,8 @@
   {
     "name": "UAB \"Baltijos AGRO\"",
     "code": "302665432",
-    "address": "Ignalina, Laisvės a. 71, LT-30122"
+    "address": "Ignalina, Laisvės a. 71, LT-30122",
+    "vatcode": "LT100017876118"
   },
   {
     "name": "UAB \"Bioenergy agro\"",
@@ -980,8 +992,7 @@
   {
     "name": "ŽŪB \"Virkščių Agro\"",
     "code": "305163449",
-    "address": "Anykščių r. sav., Debeikių sen., Aknystų k., Lauko g. 2, LT-29373",
-    "vatcode": "LT100012437417"
+    "address": "Anykščių r. sav., Debeikių sen., Aknystų k., Lauko g. 2, LT-29373"
   },
   {
     "name": "ŽŪB AGRO UTA",
@@ -1251,7 +1262,7 @@
   {
     "name": "UAB Dzūkijos agrocentras",
     "code": "135738170",
-    "address": "Kaunas, Laisvės al. 85B-2, LT-44297",
+    "address": "Alytaus r. sav., Miroslavo sen., Balkasodžio k., Šilelio g. 2, LT-64238",
     "vatcode": "LT357381716"
   },
   {
@@ -2405,11 +2416,6 @@
     "vatcode": "LT100011406613"
   },
   {
-    "name": "O. Agromovo individuali įmonė",
-    "code": "141533832",
-    "address": "Klaipėda, Kuncų g. 5-49, LT-95247"
-  },
-  {
     "name": "UAB \"Agromusa\"",
     "code": "303400579",
     "address": "Pasvalys, Vilniaus g. 61A, LT-39181"
@@ -2626,7 +2632,7 @@
   {
     "name": "UAB \"Agropirma\"",
     "code": "307019440",
-    "address": "Radviliškio r. sav., Šiaulėnai, Dvaro g. 18C, LT-82445",
+    "address": "Radviliškio r. sav., Šiaulėnai, Dvaro g. 18E, LT-82445",
     "vatcode": "LT100017314812"
   },
   {
@@ -3066,10 +3072,6 @@
     "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Saulučių k."
   },
   {
-    "name": "Žemės ūkio kooperatyvas \"ŠAUKĖNŲ AGROSERVISAS\"",
-    "code": "162727228"
-  },
-  {
     "name": "ŽŪB \"Kretingos agroservisas\"",
     "code": "303477579",
     "address": "Kretingos r. sav., Žalgirio sen., Raguviškių k., Mišučių g. 2, LT-97160",
@@ -3128,20 +3130,10 @@
     "vatcode": "LT743320917"
   },
   {
-    "name": "Lietuvos ūkininkų sąjungos Panevėžio skyriaus individuali agroserviso įmonė",
-    "code": "268505420",
-    "address": "Panevėžio r. sav., Karsakiškio sen., Vaivadų k."
-  },
-  {
     "name": "R. Gasiūno agroserviso įmonė",
     "code": "168704033",
     "address": "Panevėžio r. sav., Panevėžio sen., Paviešečių k., Kazio Naruševičiaus g. 120, LT-38366",
     "vatcode": "LT687040314"
-  },
-  {
-    "name": "Remigijaus Gudiškio agroserviso įmonė",
-    "code": "174383258",
-    "address": "Šakių r. sav., Gelgaudiškio sen., Pamiškių k."
   },
   {
     "name": "Z. BELICKIENĖS agroserviso įmonė \"ŪKININKAS\"",
@@ -3286,7 +3278,8 @@
   {
     "name": "UAB AgroSync",
     "code": "306755037",
-    "address": "Vilnius, Mokslininkų g. 2A, LT-08412"
+    "address": "Vilnius, Mokslininkų g. 2A, LT-08412",
+    "vatcode": "LT100017854117"
   },
   {
     "name": "UAB \"AGROSĖKMĖ\"",
@@ -3341,11 +3334,6 @@
     "name": "Individuali įmonė \"Vakarų agrotechnika\"",
     "code": "302514206",
     "address": "Šilutės r. sav., Juknaičių sen., Juknaičių k., Alkos g. 23, LT-99331"
-  },
-  {
-    "name": "R. Dainausko įmonė \"Roberto agrotechnika\"",
-    "code": "160417138",
-    "address": "Kauno r. sav., Rokų sen., Girininkų k."
   },
   {
     "name": "UAB \"Tauragės agrotechnika\"",
@@ -3479,6 +3467,11 @@
     "code": "305709389",
     "address": "Šiauliai, Bačiūnų g. 12E, LT-77110",
     "vatcode": "LT100013848019"
+  },
+  {
+    "name": "MB Agrotopline",
+    "code": "307164838",
+    "address": "Tauragė, Ateities tak. 26-25, LT-72292"
   },
   {
     "name": "UAB \"Agrotopservis\"",
@@ -3633,6 +3626,11 @@
     "vatcode": "LT100003621212"
   },
   {
+    "name": "UAB \"Agrovikaa\"",
+    "code": "307174113",
+    "address": "Kėdainiai, J. Basanavičiaus g. 22A, LT-57181"
+  },
+  {
     "name": "UAB \"Agrovilis\"",
     "code": "304275858",
     "address": "Kupiškio r. sav., Kupiškio sen., Paketurių k., Ežerėlio g. 1, LT-40103",
@@ -3664,7 +3662,8 @@
   {
     "name": "AGROVITA LIVESTOCK UAB",
     "code": "307131051",
-    "address": "Varėnos r. sav., Jakėnų sen., Aukštakalnio k. 1, LT-65426"
+    "address": "Varėnos r. sav., Jakėnų sen., Aukštakalnio k. 1, LT-65426",
+    "vatcode": "LT100017740312"
   },
   {
     "name": "UAB \"Agrovitas\"",

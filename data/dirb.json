@@ -112,10 +112,6 @@
     "address": "Kaunas, R. Kalantos g. 49, LT-52303"
   },
   {
-    "name": "Akcinės bendrovės \"Trikotažas\" dirbančiųjų profesinė sąjunga",
-    "code": "135587761"
-  },
-  {
     "name": "Anykščių rajono dirbančiųjų profesinė sąjunga \"Solidarumas\"",
     "code": "154300155",
     "address": "Anykščiai, Vilniaus g. 13, LT-29145"
@@ -134,11 +130,6 @@
     "name": "LIETUVOS AKLŲJŲ IR SILPNAREGIŲ SĄJUNGOS VILNIAUS ĮMONĖS DIRBANČIŲJŲ VIETINĖ PROFESINĖ ORGANIZACIJA",
     "code": "193356372",
     "address": "Vilnius, Skroblų g. 19, LT-03141"
-  },
-  {
-    "name": "Lietuvos riboto darbingumo dirbančiųjų asociacijos gamybinė prekybos firma",
-    "code": "120118975",
-    "address": "Vilnius, Panerių g. 11, LT-03209"
   },
   {
     "name": "Molėtų krašto dirbančiųjų profesinė sąjunga",
@@ -184,6 +175,16 @@
     "name": "Šiaulių r. Kuršėnų Pavenčių mokyklos-daugiafunkcio centro dirbančiųjų profesinė sąjunga",
     "code": "145782724",
     "address": "Šiaulių r. sav., Kuršėnai, Ventos g. 17, LT-81157"
+  },
+  {
+    "name": "Šiaulių regiono dirbančiųjų profesinė sąjunga \"Solidarumas\"",
+    "code": "307166287",
+    "address": "Radviliškis, V. Kudirkos g. 19-1, LT-82169"
+  },
+  {
+    "name": "MB \"DIRBIDIRBI\"",
+    "code": "307165655",
+    "address": "Šiauliai, Rasos g. 24-3, LT-78181"
   },
   {
     "name": "IĮ \"Ginto dirbiniai\"",
@@ -306,6 +307,11 @@
     "vatcode": "LT100014730510"
   },
   {
+    "name": "MB \"Dirbsy\"",
+    "code": "307174558",
+    "address": "Kaunas, Laisvės al. 38A-14, LT-44240"
+  },
+  {
     "name": "UAB \"Dirbti\"",
     "code": "304150502",
     "address": "Klaipėda, Tilžės g. 28A-1, LT-91126",
@@ -355,6 +361,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB \"Dirbtinio intelekto klubas\"",
+    "code": "307182971",
+    "address": "Kaišiadorių r. sav., Kruonio sen., Pavuolio k., Antakalnio g. 19, LT-56313"
+  },
+  {
     "name": "MB \"Dirbtinio intelekto procesai\"",
     "code": "306409601",
     "address": "Vilnius, Santariškių g. 75-34, LT-08457"
@@ -372,7 +383,8 @@
   {
     "name": "MB Dirbtinio intelekto bendruomenė",
     "code": "306661100",
-    "address": "Akmenės r. sav., Akmenė, Algirdo g. 1, LT-85360"
+    "address": "Akmenės r. sav., Akmenė, Algirdo g. 1, LT-85360",
+    "vatcode": "LT100018008612"
   },
   {
     "name": "MB Dirbtinio intelekto sprendimai verslui",
@@ -399,11 +411,6 @@
     "code": "305900394",
     "address": "Vilnius, Saulėtekio al. 15-1, LT-10224",
     "vatcode": "LT100014418815"
-  },
-  {
-    "name": "MB \"Dirbtinis intelektas vaikams\"",
-    "code": "306440290",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Dirbtinis robotas\"",
@@ -515,29 +522,9 @@
     "address": "Palanga, Užkanavės g. 27, LT-00169"
   },
   {
-    "name": "Daukanto metalo gaminių dirbtuvė",
-    "code": "172230235",
-    "address": "Raseinių r. sav., Šiluva"
-  },
-  {
-    "name": "G. Kavaliausko automobilių remonto dirbtuvė",
-    "code": "133420190",
-    "address": "Kaunas, S. Raštikio g. 53-1"
-  },
-  {
     "name": "G. Valiuko automobilių remonto dirbtuvė",
     "code": "175003164",
     "address": "Šalčininkų r. sav., Butrimonių sen., Jančiūnų k., Kaštonų g. 10, LT-17154"
-  },
-  {
-    "name": "Ginto Jarašiaus medžio gaminių dirbtuvė",
-    "code": "151293022",
-    "address": "Marijampolė, Vasaros g. 32, LT-68111"
-  },
-  {
-    "name": "Glinsko automobilių remonto dirbtuvė",
-    "code": "151091985",
-    "address": "Marijampolė, Medžiotojų g. 20, LT-68272"
   },
   {
     "name": "Gruzdžio dirbtuvė",
@@ -598,11 +585,6 @@
     "address": "Raseiniai, Dubysos g. 19-12, LT-60143"
   },
   {
-    "name": "JONIKO STALIAUS DIRBTUVĖ",
-    "code": "158973277",
-    "address": "Kaišiadorių r. sav., Rumšiškės, Užtakų g. 34, LT-56335"
-  },
-  {
     "name": "Juliaus Nikolaičiuko dirbtuvė \"Niko\"",
     "code": "132741631",
     "address": "Kaunas, Partizanų g. 74-76, LT-50352"
@@ -616,11 +598,6 @@
     "name": "Kučiausko metalo gaminių dirbtuvė",
     "code": "151197077",
     "address": "Marijampolė, Varnupių g. 8, LT-68270"
-  },
-  {
-    "name": "L. Skinkio keramikos dirbtuvė \"GANDAS\"",
-    "code": "165645747",
-    "address": "Marijampolės sav., Marijampolės sen., Kumelionių k."
   },
   {
     "name": "M. Pekoriaus dirbtuvė",
@@ -731,11 +708,6 @@
     "address": "Šalčininkai, Vytauto g. 1, LT-17111"
   },
   {
-    "name": "Vaclovo Bernoto automobilių remonto dirbtuvė",
-    "code": "173900197",
-    "address": "Skuodas, Mindaugo g. 8, LT-98133"
-  },
-  {
     "name": "VšĮ \"Kultūros dirbtuvė\"",
     "code": "305905103",
     "address": "Kaunas, Pramonės pr. 87-43, LT-50354"
@@ -825,11 +797,6 @@
     "address": "Telšiai, Kepyklos g. 9, LT-87105"
   },
   {
-    "name": "G. Mikulevičiaus paminklų dirbtuvės",
-    "code": "153685933",
-    "address": "Alytus, Snaigių g. 5, LT-62443"
-  },
-  {
     "name": "Gintaro Kazakausko dirbtuvės",
     "code": "133205049",
     "address": "Kaunas, Žemaičių g. 7-3, LT-44242"
@@ -876,11 +843,6 @@
     "name": "Išmanios dirbtuvės, MB",
     "code": "305987207",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "J. Juknelio automobilių remonto dirbtuvės",
-    "code": "165627877",
-    "address": "Kalvarija, Ramybės g. 20, LT-69208"
   },
   {
     "name": "Justino Paliulio automobilių kėbulų remonto dirbtuvės",
@@ -1083,6 +1045,11 @@
     "address": "Klaipėda, Pušyno g. 29A-26, LT-92266"
   },
   {
+    "name": "MB Donato dirbtuvės",
+    "code": "307164966",
+    "address": "Vilniaus r. sav., Nemėžio sen., Nemėžio k., Stadiono g. 26, LT-13260"
+  },
+  {
     "name": "MB Doom dirbtuvės",
     "code": "306309661",
     "address": "Utena, Aušros g. 71-43, LT-28190"
@@ -1250,6 +1217,11 @@
     "name": "Paramos fondas \"Gerų darbų dirbtuvės\"",
     "code": "303379747",
     "address": "Vilnius, J. Jasinskio g. 16G, LT-03163"
+  },
+  {
+    "name": "Patirties dirbtuvės, MB",
+    "code": "305350107",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "R. Talačkos paminklų dirbtuvės",

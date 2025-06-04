@@ -40,6 +40,11 @@
     "vatcode": "LT838578219"
   },
   {
+    "name": "MB \"AL Stogai\"",
+    "code": "307188052",
+    "address": "Jonava, Kosmonautų g. 32-58, LT-55152"
+  },
+  {
     "name": "MB \"Bonum stogai\"",
     "code": "306231230",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
@@ -99,7 +104,8 @@
   {
     "name": "MB \"Ps stogai\"",
     "code": "307077098",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100018162916"
   },
   {
     "name": "MB \"RS stogai\"",
@@ -217,13 +223,19 @@
   {
     "name": "MB Virginijaus stogai",
     "code": "307009033",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100017744814"
   },
   {
     "name": "MB Virgio stogai",
     "code": "306734242",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
     "vatcode": "LT100017179017"
+  },
+  {
+    "name": "MB Šiaulių stogai",
+    "code": "306675769",
+    "address": "Šiauliai, Šaltalankių g. 14, LT-76217"
   },
   {
     "name": "MB Žilvino stogai",
@@ -403,7 +415,8 @@
   {
     "name": "MB \"Stogas Virš Galvos\"",
     "code": "307026221",
-    "address": "Kaunas, Alytaus g. 27B, LT-47119"
+    "address": "Kaunas, Alytaus g. 27B, LT-47119",
+    "vatcode": "LT100017861412"
   },
   {
     "name": "MB \"Stogas važiuoja\"",
@@ -463,8 +476,7 @@
   {
     "name": "UAB \"Varinis stogas\"",
     "code": "304150858",
-    "address": "Kaunas, Pramonės pr. 53-31, LT-50461",
-    "vatcode": "LT100010074718"
+    "address": "Kaunas, Pramonės pr. 53-31, LT-50461"
   },
   {
     "name": "UAB \"Šiltas stogas\"",
@@ -610,6 +622,11 @@
     "code": "305717425",
     "address": "Šiauliai, Žibutės Sodų 2-oji g. 3, LT-76398",
     "vatcode": "LT100015211518"
+  },
+  {
+    "name": "MB \"Remo aliuminio stoginės\"",
+    "code": "307168516",
+    "address": "Klaipėda, Tiltų g. 19, LT-91249"
   },
   {
     "name": "MB KD Vokiškos stoginės",
@@ -838,6 +855,11 @@
     "vatcode": "LT100016398111"
   },
   {
+    "name": "MB Stogtech",
+    "code": "307177547",
+    "address": "Vilnius, Girulių g. 10-201, LT-12112"
+  },
+  {
     "name": "UAB \"Stogtekta\"",
     "code": "303065725",
     "address": "Švenčionys, Taikos g. 5-48, LT-18115",
@@ -885,6 +907,11 @@
     "name": "UAB \"STOGVIJA\"",
     "code": "302604212",
     "address": "Lazdijų r. sav., Veisiejų sen., Barčių k., Gėlių g. 16, LT-67343"
+  },
+  {
+    "name": "Stogvila MB",
+    "code": "307176089",
+    "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105"
   },
   {
     "name": "MB Stogvista",
@@ -956,6 +983,11 @@
     "code": "305812873",
     "address": "Kaunas, A. Baranausko g. 19A-6, LT-50239",
     "vatcode": "LT100014187516"
+  },
+  {
+    "name": "MB Prilydomos stogų sistemos",
+    "code": "307186980",
+    "address": "Šiaulių r. sav., Kužių sen., Noreikių k., Ramunių g. 24D, LT-76317"
   },
   {
     "name": "MB Stogų servisas",

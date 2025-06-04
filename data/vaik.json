@@ -169,7 +169,8 @@
   {
     "name": "MB \"Dueto vaikai\"",
     "code": "305778175",
-    "address": "Vilnius, Savanorių pr. 11-49, LT-03116"
+    "address": "Vilnius, Savanorių pr. 11-49, LT-03116",
+    "vatcode": "LT100017997016"
   },
   {
     "name": "MB \"Kiemo vaikai\"",
@@ -409,6 +410,11 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Mielavos g. 8, LT-92440"
   },
   {
+    "name": "VšĮ Elektrėnų lietaus vaikai",
+    "code": "307175507",
+    "address": "Elektrėnų sav., Elektrėnų sen., Migūčionių k., Migūčionių g. 3, LT-26131"
+  },
+  {
     "name": "VšĮ Marijos vaikai",
     "code": "305709631",
     "address": "Plungės r. sav., Žemaičių Kalvarijos sen., Šarnelės k., Bajorkaimio skg. 4, LT-90445"
@@ -505,11 +511,6 @@
     "address": "Prienų r. sav., Jieznas, Taikos g. 13, LT-59423"
   },
   {
-    "name": "MB \"Dirbtinis intelektas vaikams\"",
-    "code": "306440290",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
     "name": "MB \"Jo jo pramogos vaikams\"",
     "code": "304446768",
     "address": "Šakių r. sav., Lukšiai, Beržų g. 10A, LT-71183",
@@ -585,7 +586,8 @@
   {
     "name": "Teatrų vaikams ir jaunimui asociacija \"ASITEŽAS\"",
     "code": "125506661",
-    "address": "Vilnius, Mindaugo g. 6-20, LT-03107"
+    "address": "Vilnius, Mindaugo g. 6-20, LT-03107",
+    "vatcode": "LT100018172419"
   },
   {
     "name": "Trakų rajono paramos šeimai ir vaikams centras",
@@ -666,7 +668,8 @@
   {
     "name": "VšĮ \"Savanoriai vaikams\"",
     "code": "305017992",
-    "address": "Vilnius, M. Počobuto g. 4F, LT-10228"
+    "address": "Vilnius, A. Goštauto g. 8-167, LT-01108",
+    "vatcode": "LT100017910515"
   },
   {
     "name": "VšĮ Gerumo iniciatyvos vaikams",
@@ -730,9 +733,15 @@
     "address": "Kauno r. sav., Akademija, Medeinos g. 24, LT-53348"
   },
   {
+    "name": "MB Vaikas keliauninkas",
+    "code": "307185241",
+    "address": "Kaunas, V. Grybo aklg. 4-2, LT-48488"
+  },
+  {
     "name": "VšĮ \"Laimingas vaikas LT\"",
     "code": "304914149",
-    "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Parko g. 3-8, LT-14164"
+    "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Parko g. 3-8, LT-14164",
+    "vatcode": "LT100017863217"
   },
   {
     "name": "VšĮ \"Vaikas ir muzika\"",
@@ -900,7 +909,8 @@
   {
     "name": "Vaiko raidos klinika",
     "code": "300043549",
-    "address": "Vilnius, Ukmergės g. 220, LT-07157"
+    "address": "Vilnius, Ukmergės g. 220, LT-07157",
+    "vatcode": "LT100018134416"
   },
   {
     "name": "Vaiko spa, MB",
@@ -1169,6 +1179,11 @@
     "address": "Vilnius, Vytenio g. 20-401, LT-03207"
   },
   {
+    "name": "MB \"VAIKUTA\"",
+    "code": "307165146",
+    "address": "Šilutės r. sav., Vainutas, Antano Baranausko g. 57, LT-99431"
+  },
+  {
     "name": "MB \"Laimingas vaikutis\"",
     "code": "306219363",
     "address": "Mažeikiai, Gėlių g. 10, LT-89233",
@@ -1201,11 +1216,6 @@
     "code": "169708223",
     "address": "Plungė, A. Jucio g. 4-38, LT-90145",
     "vatcode": "LT697082219"
-  },
-  {
-    "name": "Vaikučio medžio apdirbimo įmonė",
-    "code": "165651981",
-    "address": "Kalvarija, Ugniagesių g. 8, LT-69206"
   },
   {
     "name": "Labdaros ir paramos fondas \"Laikas vaikystei\"",
@@ -1960,7 +1970,7 @@
   {
     "name": "Lietuvos vaikų ir jaunių ugdymo futbolo asociacija",
     "code": "305488421",
-    "address": "Vilnius, Stadiono g. 2, LT-02106"
+    "address": "Kaunas, Sporto g. 3, LT-44221"
   },
   {
     "name": "Lietuvos vaikų ir šeimos terapijos asociacija",
@@ -2110,7 +2120,7 @@
   {
     "name": "MB \"Vaikų pavėžėjimas\"",
     "code": "306313880",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112"
+    "address": "Vilnius, Peteliškių g. 12-58, LT-01213"
   },
   {
     "name": "MB \"Vaikų salelė\"",
@@ -2245,11 +2255,6 @@
     "name": "Papilės vaikų darželio \"Kregždutė\" labdaros ir paramos fondas",
     "code": "300096231",
     "address": "Akmenės r. sav., Papilė, Ventos g. 15, LT-85245"
-  },
-  {
-    "name": "Plungės vaikų globos agentūra \"Cyrulis\"",
-    "code": "193369786",
-    "address": "Plungė, Telšių g. 19-4, LT-90162"
   },
   {
     "name": "Plungės vaikų ir jaunimo regbio klubas \"Dorbė\"",
@@ -2398,12 +2403,6 @@
     "code": "304406962",
     "address": "Vilnius, Architektų g. 56-101, LT-04111",
     "vatcode": "LT100013941917"
-  },
-  {
-    "name": "UAB \"Vaikų reabilitacijos klinika\"",
-    "code": "305875090",
-    "address": "Kaunas, Jonavos g. 45, LT-44131",
-    "vatcode": "LT100014513316"
   },
   {
     "name": "UAB Vaikų ir jaunimo klinika \"Empatija\"",
@@ -2642,6 +2641,11 @@
     "address": "Vilniaus r. sav., Nemenčinė, Švenčionių g. 18A, LT-15168"
   },
   {
+    "name": "Vaikų istorijos, MB",
+    "code": "307187662",
+    "address": "Vilnius, E. Pliaterytės g. 8, LT-02231"
+  },
+  {
     "name": "Vaikų krikščioniško ugdymo draugija",
     "code": "300000932",
     "address": "Kaunas, Nemuno g. 16, LT-44294"
@@ -2729,7 +2733,8 @@
   {
     "name": "Vaikų ugdymo ir užimtumo studija \"Peliukas Žiniukas\"",
     "code": "306630165",
-    "address": "Klaipėda, Poilsio g. 10-32, LT-93197"
+    "address": "Klaipėda, Poilsio g. 10-32, LT-93197",
+    "vatcode": "LT100018028819"
   },
   {
     "name": "Vaikų vokalinio meno klubas",
@@ -2785,11 +2790,6 @@
     "name": "Viešoji įstaiga \"Rokiškio vaikų dienos centras\"",
     "code": "173260548",
     "address": "Rokiškis, J. Biliūno g. 2, LT-42105"
-  },
-  {
-    "name": "Viešoji įstaiga \"Senamiesčio vaikų dienos centras\"",
-    "code": "135632740",
-    "address": "Kaunas, Jonavos g. 14, LT-44269"
   },
   {
     "name": "Viešoji įstaiga \"VAIKŲ ATEITIS\"",
@@ -3034,7 +3034,7 @@
     "address": "Vilniaus r. sav., Nemėžio sen., Nemėžio k., Statybininkų g. 8, LT-13261"
   },
   {
-    "name": "Vilniaus r. Riešės vaikų darželis",
+    "name": "Vilniaus r. Riešės vaikų lopšelis-darželis \"Saulės slėnis\"",
     "code": "191326996",
     "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Pergalės g. 13, LT-14265"
   },
@@ -3146,7 +3146,8 @@
   {
     "name": "VšĮ \"Laimingų vaikų pilis\"",
     "code": "303454395",
-    "address": "Klaipėda, H. Manto g. 6A-30, LT-92133"
+    "address": "Klaipėda, H. Manto g. 6A-30, LT-92133",
+    "vatcode": "LT100017898218"
   },
   {
     "name": "VšĮ \"Pėdutės\" vaikų lopšelis - darželis",
@@ -3253,7 +3254,8 @@
   {
     "name": "VšĮ Katalikiškas vaikų darželis \"MAŽUTĖLIAMS\"",
     "code": "302576752",
-    "address": "Vilnius, Kalvarijų g. 331, LT-08315"
+    "address": "Vilnius, Kalvarijų g. 331, LT-08315",
+    "vatcode": "LT100018078218"
   },
   {
     "name": "VšĮ Kauno vaikų darželis \"Medutis\"",
@@ -3333,7 +3335,7 @@
   {
     "name": "VšĮ Vaikų ir jaunimo futbolo centras \"Aleksotas\"",
     "code": "303799377",
-    "address": "Kauno r. sav., Samylų sen., Gervėnupio k., Ąžuolyno g. 10, LT-53162"
+    "address": "Kaunas, V. Krėvės pr. 46-76, LT-50407"
   },
   {
     "name": "VšĮ Vaikų ir jaunimo ugdymo centras \"Sodžius\"",

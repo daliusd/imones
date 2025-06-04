@@ -5,14 +5,14 @@
     "address": "Raseinių r. sav., Ariogala, Žemaičių g. 41, LT-60252"
   },
   {
-    "name": "F. Lekavičiaus veterinarijos gydykla ir sėklinimo įmonė",
-    "code": "172380758",
-    "address": "Raseinių r. sav., Betygalos sen., Ilgižių I k."
-  },
-  {
     "name": "Genovaitės Gudelienės stomatologinė gydykla",
     "code": "154205344",
     "address": "Anykščiai, J. Biliūno g. 8-1, LT-29114"
+  },
+  {
+    "name": "Individuali įmonė K. Kliknos vet. gydykla",
+    "code": "172257816",
+    "address": "Raseiniai, Tulpių g. 7, LT-60182"
   },
   {
     "name": "IĮ \"Mildos Radžiūnienės odontologijos gydykla\"",
@@ -53,16 +53,6 @@
     "name": "J. Katilausko veterinarinė gydykla",
     "code": "158166522",
     "address": "Jurbarko r. sav., Eržvilkas, Alytaus g. 3, LT-74287"
-  },
-  {
-    "name": "K. Bardausko vet. gydykla",
-    "code": "172255046",
-    "address": "Raseinių r. sav., Pagojukų sen., Vosiliškio k."
-  },
-  {
-    "name": "K. Kliknos vet. gydykla",
-    "code": "172257816",
-    "address": "Raseiniai, Tulpių g. 7, LT-60182"
   },
   {
     "name": "K. Palaičio veterinarinė gydykla",
@@ -125,11 +115,6 @@
     "vatcode": "LT223602418"
   },
   {
-    "name": "V. Norvainio veterinarijos gydykla",
-    "code": "172256290",
-    "address": "Raseinių r. sav., Pagojukų sen., Kaulakių k."
-  },
-  {
     "name": "Viešoji įstaiga Indrės veterinarijos gydykla",
     "code": "126139182",
     "address": "Vilnius, Žemynos g. 1, LT-06126",
@@ -187,11 +172,6 @@
     "name": "VšĮ \"Privatus gydymas\"",
     "code": "303401478",
     "address": "Rokiškio r. sav., Kamajų sen., Vaštakų k. 9, LT-42283"
-  },
-  {
-    "name": "A. Šimkaus gydymo firma",
-    "code": "172331113",
-    "address": "Raseiniai, Stonų g. 3-8, LT-60144"
   },
   {
     "name": "Algio Masilionio gydymo klinika",
@@ -361,18 +341,9 @@
     "address": "Jonavos r. sav., Bukonių sen., Bukonių k., Jaunystės g. 2, LT-55414"
   },
   {
-    "name": "Viešosios įstaigos Šv. Klaros palaikomojo gydymo ir slaugos ligoninės darbininkų sąjunga",
-    "code": "193308178"
-  },
-  {
     "name": "Vėžio gydymo paramos fondas",
     "code": "304604677",
     "address": "Vilnius, A. Stulginskio g. 5-28, LT-01115"
-  },
-  {
-    "name": "Z. Bagočiaus veterinarinė gydymo įstaiga",
-    "code": "162445944",
-    "address": "Kelmės r. sav., Šaukėnų sen., Lykšilio k."
   },
   {
     "name": "Labdaros ir paramos fondas \"Ajos Celešiūtės vėžio gydymui ir reabilitacijai\"",
@@ -395,6 +366,11 @@
     "address": "Vilnius, Duburio g. 11-25, LT-13105"
   },
   {
+    "name": "MB Gydytoja gv",
+    "code": "307184367",
+    "address": "Vilnius, Pamėnkalnio g. 34B-53, LT-01114"
+  },
+  {
     "name": "MB Šeimos gydytoja",
     "code": "306119427",
     "address": "Vilnius, Duburio g. 9-25, LT-13105"
@@ -402,7 +378,8 @@
   {
     "name": "Asociacija \"RAUDONOS NOSYS Gydytojai klounai\"",
     "code": "302555555",
-    "address": "Vilnius, Kauno g. 12-35, LT-01310"
+    "address": "Vilnius, Kauno g. 12-35, LT-01310",
+    "vatcode": "LT100006897716"
   },
   {
     "name": "VšĮ \"Gydytojai už teisybę ir teisingumą\"",
@@ -427,7 +404,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"MANO ŠEIMOS GYDYTOJAS\"",
     "code": "141891594",
-    "address": "Klaipėda, Naujoji Uosto g. 20-3, LT-92122"
+    "address": "Klaipėda, Naujoji Uosto g. 20-3, LT-92122",
+    "vatcode": "LT100017936317"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"ŠEIMOS GYDYTOJAS\"",
@@ -665,10 +643,6 @@
     "name": "Joniškio rajono gydytojų sąjunga",
     "code": "157676045",
     "address": "Joniškis, Pašvitinio g. 21, LT-84152"
-  },
-  {
-    "name": "Klaipėdos apskrities gydytojų profesinė sąjunga",
-    "code": "193425637"
   },
   {
     "name": "LIETUVOS AKUPUNKTŪROS GYDYTOJŲ ASOCIACIJA",
@@ -1061,10 +1035,6 @@
     "name": "VIEŠOJI ĮSTAIGA JUSTINIŠKIŲ ŠEIMOS GYDYTOJŲ KABINETAS",
     "code": "124363274",
     "address": "Vilnius, Taikos g. 95-24, LT-05200"
-  },
-  {
-    "name": "VILNIAUS UNIVERSITETO ONKOLOGIJOS INSTITUTO GYDYTOJŲ SĄJUNGA",
-    "code": "125987198"
   },
   {
     "name": "Vaikų ligoninės gydytojų profesinė sąjunga \"Santariškės\"",

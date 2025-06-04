@@ -155,6 +155,12 @@
     "vatcode": "LT100012330110"
   },
   {
+    "name": "AB Artea bankas",
+    "code": "112025254",
+    "address": "Šiauliai, Tilžės g. 149, LT-76348",
+    "vatcode": "LT120252515"
+  },
+  {
     "name": "AB SEB bankas",
     "code": "112021238",
     "address": "Vilnius, Konstitucijos pr. 24, LT-08131",
@@ -167,21 +173,10 @@
     "vatcode": "LT120259716"
   },
   {
-    "name": "Akcinė bendrovė Šiaulių bankas",
-    "code": "112025254",
-    "address": "Šiauliai, Tilžės g. 149, LT-76348",
-    "vatcode": "LT120252515"
-  },
-  {
     "name": "Akcinė bendrovė Ūkio bankas",
     "code": "112020136",
     "address": "Kaunas, Maironio g. 25, LT-44250",
     "vatcode": "LT120201314"
-  },
-  {
-    "name": "Akcinės bendrovės Šiaulių bankas Kauno filialas",
-    "code": "211006490",
-    "address": "Kaunas, Laisvės al. 80-5, LT-44249"
   },
   {
     "name": "Asociacija \"RYŠIŲ BANKAS\"",
@@ -191,7 +186,8 @@
   {
     "name": "Labdaros ir paramos fondas \"Maisto bankas\"",
     "code": "192015172",
-    "address": "Vilnius, A. Jakšto g. 9, LT-01105"
+    "address": "Vilnius, A. Jakšto g. 9, LT-01105",
+    "vatcode": "LT100017922014"
   },
   {
     "name": "Lietuvos bankas",
@@ -433,11 +429,6 @@
     "address": "Anykščių r. sav., Anykščių sen., Naujųjų Elmininkų k., Gojaus g. 15, LT-29153"
   },
   {
-    "name": "Antano Bankausko įmonė",
-    "code": "159948615",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Ilgakiemio k."
-  },
-  {
     "name": "Auridijaus Bankausko individuali įmonė",
     "code": "245649970",
     "address": "Šiauliai, Joniškėlio g. 6, LT-76250",
@@ -477,7 +468,8 @@
   {
     "name": "MB \"Banketai visiems\"",
     "code": "303313964",
-    "address": "Klaipėda, Debreceno g. 11-52, LT-94173"
+    "address": "Klaipėda, Debreceno g. 11-52, LT-94173",
+    "vatcode": "LT100017805714"
   },
   {
     "name": "UAB \"THE BANKIFY\"",
@@ -561,6 +553,26 @@
     "address": "Vilnius, Gedvydžių g. 10-34, LT-06303"
   },
   {
+    "name": "AB Artea banko Kauno filialas",
+    "code": "211006490",
+    "address": "Kaunas, Laisvės al. 80-5, LT-44249"
+  },
+  {
+    "name": "AB Artea banko Klaipėdos filialas",
+    "code": "112055817",
+    "address": "Klaipėda, Taikos pr. 66, LT-93219"
+  },
+  {
+    "name": "AB Artea banko Vilniaus filialas",
+    "code": "112055621",
+    "address": "Vilnius, Šeimyniškių g. 1A, LT-09312"
+  },
+  {
+    "name": "AB Artea banko Šiaulių filialas",
+    "code": "300147099",
+    "address": "Šiauliai, Vilniaus g. 193, LT-76348"
+  },
+  {
     "name": "AB Lietuvos žemės ūkio banko Radviliškio skyriaus darbuotojų profesinė sąjunga",
     "code": "171645470",
     "address": "Radviliškis, Dariaus ir Girėno g. 30, LT-82138"
@@ -574,21 +586,6 @@
     "name": "AB Taupomojo banko Kėdainių skyriaus darbuotojų profesinė sąjunga",
     "code": "161615151",
     "address": "Kėdainiai, Didžioji g. 28, LT-57255"
-  },
-  {
-    "name": "Akcinės bendrovės Šiaulių banko Klaipėdos filialas",
-    "code": "112055817",
-    "address": "Klaipėda, Taikos pr. 66, LT-93219"
-  },
-  {
-    "name": "Akcinės bendrovės Šiaulių banko Vilniaus filialas",
-    "code": "112055621",
-    "address": "Vilnius, Šeimyniškių g. 1A, LT-09312"
-  },
-  {
-    "name": "Akcinės bendrovės Šiaulių banko Šiaulių filialas",
-    "code": "300147099",
-    "address": "Šiauliai, Vilniaus g. 193, LT-76348"
   },
   {
     "name": "Lietuvos banko tarnautojų profesinė sąjunga",

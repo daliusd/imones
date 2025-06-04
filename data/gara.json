@@ -59,7 +59,8 @@
   {
     "name": "MB Custom garage",
     "code": "307064318",
-    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Šiltnamių g. 60, LT-53371"
+    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Šiltnamių g. 60, LT-53371",
+    "vatcode": "LT100017782711"
   },
   {
     "name": "MB De dust 2 garage",
@@ -78,9 +79,9 @@
     "vatcode": "LT100014902810"
   },
   {
-    "name": "MB MS Garage",
-    "code": "306373991",
-    "address": "Klaipėda, Laukininkų g. 25-31, LT-95178"
+    "name": "MB Garage 36",
+    "code": "307185138",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "MB Mpower garage",
@@ -164,8 +165,7 @@
   {
     "name": "UAB \"ATTACHE GARANT LOGISTIC\"",
     "code": "305442705",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
-    "vatcode": "LT100013205310"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "UAB \"Garant Diving\"",
@@ -276,7 +276,8 @@
   {
     "name": "MB \"Buhalterinės apskaitos garantas\"",
     "code": "304607940",
-    "address": "Kaunas, Partizanų g. 42A-7, LT-49471"
+    "address": "Kaunas, Partizanų g. 42A-7, LT-49471",
+    "vatcode": "LT100017800814"
   },
   {
     "name": "MB \"Frezavimo garantas\"",
@@ -489,7 +490,8 @@
   {
     "name": "UAB \"PASLAUGŲ GARANTAS\"",
     "code": "302978886",
-    "address": "Ukmergės r. sav., Pivonijos sen., Žeimių k., Storės g. 5, LT-20326"
+    "address": "Ukmergės r. sav., Pivonijos sen., Žeimių k., Storės g. 5, LT-20326",
+    "vatcode": "LT100007443515"
   },
   {
     "name": "UAB \"Patikimas garantas\"",
@@ -552,10 +554,6 @@
     "vatcode": "LT100003983918"
   },
   {
-    "name": "UAB \"Teisės garantas\"",
-    "code": "302312247"
-  },
-  {
     "name": "UAB \"Tiekimo garantas\"",
     "code": "303220990",
     "address": "Šilalės r. sav., Traksėdžio sen., Gūvainių k. 1, LT-75343",
@@ -597,7 +595,7 @@
   {
     "name": "UAB GALIOS GARANTAS",
     "code": "302803851",
-    "address": "Vilnius, A. Goštauto g. 8, LT-01108",
+    "address": "Vilnius, A. Goštauto g. 8-100, LT-01108",
     "vatcode": "LT100007014819"
   },
   {
@@ -686,7 +684,13 @@
   {
     "name": "VšĮ \"Sveikatingumo garantas\"",
     "code": "306124673",
-    "address": "Klaipėda, Liepų g. 83, LT-92195"
+    "address": "Klaipėda, Liepų g. 83, LT-92195",
+    "vatcode": "LT100018062314"
+  },
+  {
+    "name": "VšĮ Garantas FK",
+    "code": "307178777",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Tkf garantija\"",
@@ -834,7 +838,8 @@
   {
     "name": "MB Garas valo",
     "code": "307020154",
-    "address": "Kauno r. sav., Alšėnų sen., Jonučių k., Aviečių g. 10-2, LT-53317"
+    "address": "Kauno r. sav., Alšėnų sen., Jonučių k., Aviečių g. 10-2, LT-53317",
+    "vatcode": "LT100017941111"
   },
   {
     "name": "Pirties klubas \"Kuršėnų garas\"",
@@ -1113,6 +1118,11 @@
     "name": "MB Skonio garažas",
     "code": "307151157",
     "address": "Klaipėda, Turgaus g. 15, LT-91247"
+  },
+  {
+    "name": "MB Spalvų garažas",
+    "code": "307165502",
+    "address": "Tauragė, Versmės g. 4A, LT-72309"
   },
   {
     "name": "MB Uosto garažas",
@@ -2410,7 +2420,7 @@
   {
     "name": "292-oji garažų statybos ir eksploatavimo bendrija",
     "code": "124748925",
-    "address": "Vilnius, S. Konarskio g. 32E-24, LT-03127"
+    "address": "Vilnius, Ūmėdžių g. 66A-8, LT-02301"
   },
   {
     "name": "293-oji garažų statybos ir eksploatavimo bendrija",
@@ -2520,7 +2530,7 @@
   {
     "name": "312-oji garažų statybos ir eksploatavimo bendrija",
     "code": "125060999",
-    "address": "Vilnius, Šeškinės g. 55, LT-07159"
+    "address": "Vilnius, Šeškinės g. 55B-236, LT-07159"
   },
   {
     "name": "313-oji garažų statybos ir eksploatavimo bendrija",
@@ -2861,7 +2871,7 @@
   {
     "name": "377-oji garažų statybos ir eksploatavimo bendrija",
     "code": "124880873",
-    "address": "Vilnius, A. Gustaičio g. 23, LT-02189"
+    "address": "Vilnius, A. Gustaičio g. 23-219, LT-02189"
   },
   {
     "name": "378-oji garažų statybos ir eksploatavimo bendrija",
@@ -6548,7 +6558,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Elektronas\"",
     "code": "155954599",
-    "address": "Visaginas, Sedulinos al. 35-64, LT-31232"
+    "address": "Visaginas, Taikos pr. 35-528, LT-31146"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Energetikas\"",
@@ -7758,7 +7768,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Virvytė\"",
     "code": "180741813",
-    "address": "Telšiai, Džiugo g."
+    "address": "Telšiai, Karaliaus Mindaugo g. 1D, LT-87116"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Viržis\"",
@@ -8418,7 +8428,7 @@
   {
     "name": "Kupiškio miesto garažų bendrija \"Motoras\"",
     "code": "160192499",
-    "address": "Kupiškis, Lauko g."
+    "address": "Kupiškis, Lauko g. 17, LT-40108"
   },
   {
     "name": "Kupiškio rajono garažų bendrija \"Ąžuolas\"",
@@ -8816,11 +8826,6 @@
     "address": "Panevėžys, Savitiškio g. 44, LT-37125"
   },
   {
-    "name": "Perkūno al. 24A garažų savininkų bendrija",
-    "code": "301537006",
-    "address": "Kaunas, Vaižganto g. 9G-3, LT-44225"
-  },
-  {
     "name": "Plungės garažų eksploatavimo bendrija \"Greitis\"",
     "code": "171699361",
     "address": "Plungė, J. Tumo-Vaižganto g."
@@ -8985,6 +8990,11 @@
     "name": "Vabalninko garažų savininkų bendrija \"Beržas\"",
     "code": "303290946",
     "address": "Biržų r. sav., Vabalninkas, S. Nėries g. 13-8, LT-41340"
+  },
+  {
+    "name": "Vaižganto 9G garažų savininkų bendrija",
+    "code": "301537006",
+    "address": "Kaunas, Vaižganto g. 9G-3, LT-44225"
   },
   {
     "name": "Valčių ir automobilių garažų statybos ir eksploatavimo bendrija \"Undinė\"",

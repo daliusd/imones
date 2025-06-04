@@ -60,7 +60,8 @@
   {
     "name": "UAB instahome",
     "code": "307136479",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100017809616"
   },
   {
     "name": "MB \"Instakademija\"",
@@ -118,12 +119,6 @@
     "vatcode": "LT100012592517"
   },
   {
-    "name": "MB \"Vidaus instaliacija\"",
-    "code": "304882395",
-    "address": "Kauno r. sav., Alšėnų sen., Mastaičių k., Smilgų g. 7A-2, LT-53306",
-    "vatcode": "LT100013289311"
-  },
-  {
     "name": "MB ER-Instaliacija",
     "code": "307008166",
     "address": "Klaipėda, Tiltų g. 19, LT-91249",
@@ -152,6 +147,12 @@
     "code": "156528652",
     "address": "Jonava, Kapsų g. 8, LT-55200",
     "vatcode": "LT100002947714"
+  },
+  {
+    "name": "Vidaus instaliacija, UAB",
+    "code": "304882395",
+    "address": "Kauno r. sav., Alšėnų sen., Mastaičių k., Samanų g. 16, LT-53306",
+    "vatcode": "LT100013289311"
   },
   {
     "name": "Instaliacijos gidas, UAB",
@@ -400,6 +401,11 @@
     "code": "275010010",
     "address": "Šalčininkai, Plento g. 1, LT-17129",
     "vatcode": "LT750100113"
+  },
+  {
+    "name": "MB \"INSTEM\"",
+    "code": "307183692",
+    "address": "Vilnius, Vaduvos g. 22-39, LT-02307"
   },
   {
     "name": "UAB \"Instema\"",
@@ -705,6 +711,11 @@
     "address": "Vilnius, M. K. Čiurlionio g. 1-53, LT-03104"
   },
   {
+    "name": "MB \"Kosmetologijos institutas\"",
+    "code": "307165114",
+    "address": "Vilnius, Gabijos g. 42-75, LT-06157"
+  },
+  {
     "name": "MB \"Mezoterapijos institutas\"",
     "code": "305730262",
     "address": "Vilnius, Žygio g. 97-R2, LT-08236"
@@ -992,7 +1003,8 @@
   {
     "name": "UAB Baltijos technologijų institutas",
     "code": "304166570",
-    "address": "Vilnius, Saulėtekio al. 17, LT-10224"
+    "address": "Vilnius, Saulėtekio al. 17, LT-10224",
+    "vatcode": "LT100018013013"
   },
   {
     "name": "UAB Dernakovskio koučingo institutas",
@@ -1619,7 +1631,8 @@
   {
     "name": "VšĮ Europos darnaus žmogaus institutas",
     "code": "304089490",
-    "address": "Vilnius, Subačiaus g. 15, LT-01300"
+    "address": "Vilnius, Subačiaus g. 15, LT-01300",
+    "vatcode": "LT100018053113"
   },
   {
     "name": "VšĮ Europos tikėjimo darbo ir ekonomikos institutas",
@@ -1654,7 +1667,8 @@
   {
     "name": "VšĮ Holistinio ugdymo institutas",
     "code": "304948952",
-    "address": "Vilnius, Laisvės pr. 79D-15, LT-06122"
+    "address": "Vilnius, Laisvės pr. 79D-15, LT-06122",
+    "vatcode": "LT100017943118"
   },
   {
     "name": "VšĮ INOVACIJŲ IR KOMPETENCIJŲ UGDYMO INSTITUTAS",
@@ -1685,6 +1699,11 @@
     "name": "VšĮ Kompetencijos tobulinimo institutas",
     "code": "301856776",
     "address": "Vilnius, Žirmūnų g. 116-30, LT-09125"
+  },
+  {
+    "name": "VšĮ Krikščionių ortodoksų švietimo ir tyrimų institutas",
+    "code": "307178542",
+    "address": "Vilnius, Sėlių g. 39-7, LT-08109"
   },
   {
     "name": "VšĮ Laimingo darbo institutas",
@@ -1872,7 +1891,8 @@
   {
     "name": "BMI Executive Institute, VšĮ",
     "code": "195005151",
-    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
+    "vatcode": "LT100017910212"
   },
   {
     "name": "Baltic Institute for Research and Development",
@@ -1912,7 +1932,7 @@
   {
     "name": "MB \"Innovative IT Institute\"",
     "code": "306745406",
-    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
+    "address": "Kaunas, Naujakurių g. 72-40, LT-47132"
   },
   {
     "name": "MB \"Institute for solidarity\"",
@@ -2120,10 +2140,6 @@
     "vatcode": "LT100017229511"
   },
   {
-    "name": "VILNIAUS UNIVERSITETO ONKOLOGIJOS INSTITUTO GYDYTOJŲ SĄJUNGA",
-    "code": "125987198"
-  },
-  {
     "name": "VILNIAUS UNIVERSITETO TARPTAUTINIŲ SANTYKIŲ IR POLITIKOS MOKSLŲ INSTITUTO STUDENTŲ KORPORACIJA \"REPUBLICA\"",
     "code": "125745184",
     "address": "Vilnius, Vokiečių g. 10-403"
@@ -2319,7 +2335,7 @@
   {
     "name": "UAB Amber Instruments",
     "code": "302307645",
-    "address": "Vilnius, Džiaugsmo g. 93G, LT-11324"
+    "address": "Kaunas, K. Čerbulėno g. 76-4, LT-47239"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Advanced Nordic Instruments\"",

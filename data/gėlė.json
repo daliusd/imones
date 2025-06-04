@@ -44,11 +44,6 @@
     "address": "Rietavo sav., Medingėnų sen., Medingėnų k., Minijos g. 9, LT-90271"
   },
   {
-    "name": "V. Mordienės įmonė \"Gėlė\"",
-    "code": "132048940",
-    "address": "Kaunas, Dubravų g. 56, LT-45482"
-  },
-  {
     "name": "VšĮ Drąsi gėlė",
     "code": "306983795",
     "address": "Vilnius, Deltuvos g. 31-50, LT-08100"
@@ -127,7 +122,8 @@
   {
     "name": "MB \"Bangų gėlės\"",
     "code": "305003811",
-    "address": "Vilnius, Jurgio Lebedžio g. 1-1002, LT-08353"
+    "address": "Vilnius, Jurgio Lebedžio g. 1-1002, LT-08353",
+    "vatcode": "LT100017915912"
   },
   {
     "name": "MB \"Dvd gėlės\"",
@@ -202,8 +198,7 @@
   {
     "name": "MB \"Laimos gėlės\"",
     "code": "305706628",
-    "address": "Klaipėda, Debreceno g. 19-510, LT-94170",
-    "vatcode": "LT100013851211"
+    "address": "Klaipėda, Debreceno g. 19-510, LT-94170"
   },
   {
     "name": "MB \"Ledinės gėlės\"",
@@ -230,7 +225,7 @@
   {
     "name": "MB \"Monos gėlės\"",
     "code": "304971303",
-    "address": "Klaipėda, Paryžiaus Komunos g. 20-2, LT-91171",
+    "address": "Klaipėdos m. sav.",
     "vatcode": "LT100014780113"
   },
   {
@@ -286,7 +281,8 @@
   {
     "name": "MB Albinos gėlės",
     "code": "306872332",
-    "address": "Pakruojis, Parko g. 15, LT-83139"
+    "address": "Pakruojis, Parko g. 15, LT-83139",
+    "vatcode": "LT100018194016"
   },
   {
     "name": "MB Babytės gėlės",
@@ -573,7 +569,8 @@
   {
     "name": "UAB Punios gėlės",
     "code": "307137264",
-    "address": "Alytaus r. sav., Punios sen., Punios k., Vilniaus g. 10, LT-64402"
+    "address": "Alytaus r. sav., Punios sen., Punios k., Vilniaus g. 10, LT-64402",
+    "vatcode": "LT100017749518"
   },
   {
     "name": "UAB Zarasų gėlės",
@@ -628,5 +625,10 @@
     "name": "MB \"Gėlėti linkėjimai\"",
     "code": "306274687",
     "address": "Kaunas, Didžioji g. 82-67, LT-45462"
+  },
+  {
+    "name": "MB Gėlėtos mintys",
+    "code": "307183055",
+    "address": "Kėdainių r. sav., Dotnuva, Naujoji g. 9, LT-58393"
   }
 ]

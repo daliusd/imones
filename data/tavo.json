@@ -125,7 +125,8 @@
   {
     "name": "MB \"Mano - tavo\"",
     "code": "304770389",
-    "address": "Prienų r. sav., Stakliškių sen., Lepelionių k., Vilniaus g. 10, LT-59400"
+    "address": "Prienų r. sav., Stakliškių sen., Lepelionių k., Vilniaus g. 10, LT-59400",
+    "vatcode": "LT100017906416"
   },
   {
     "name": "MB \"Oras tavo namui\"",
@@ -210,8 +211,7 @@
   {
     "name": "MB \"Tavo konceptas\"",
     "code": "305640854",
-    "address": "Kaunas, Studentų g. 11-3, LT-50240",
-    "vatcode": "LT100013456812"
+    "address": "Kaunas, Studentų g. 11-3, LT-50240"
   },
   {
     "name": "MB \"Tavo kopija\"",
@@ -362,12 +362,14 @@
   {
     "name": "MB TAVO SPA",
     "code": "306700083",
-    "address": "Vilnius, Bajorų kel. 17-76, LT-08446"
+    "address": "Vilnius, Bajorų kel. 17-76, LT-08446",
+    "vatcode": "LT100018050916"
   },
   {
     "name": "MB TAVO STUBURAS",
     "code": "306623128",
-    "address": "Palanga, J. Janonio g. 7, LT-00133"
+    "address": "Palanga, J. Janonio g. 7, LT-00133",
+    "vatcode": "LT100018152616"
   },
   {
     "name": "MB Tavo Medija",
@@ -433,12 +435,6 @@
     "address": "Klaipėda, Renetų g. 29, LT-91281"
   },
   {
-    "name": "MB Tavo papildai",
-    "code": "305629797",
-    "address": "Kaunas, Savanorių pr. 172-1B, LT-44149",
-    "vatcode": "LT100013433712"
-  },
-  {
     "name": "MB Tavo pelnas",
     "code": "307112834",
     "address": "Vilniaus r. sav., Maišiagala, Algirdo g. 9C, LT-14242"
@@ -469,6 +465,12 @@
     "address": "Vilnius, Taikos g. 79-53, LT-05217"
   },
   {
+    "name": "MB Tavo teisė",
+    "code": "304330482",
+    "address": "Vilnius, Konstitucijos pr. 12, LT-09308",
+    "vatcode": "LT100010391919"
+  },
+  {
     "name": "MB Tavo tėvas",
     "code": "305821096",
     "address": "Kaunas, Alsėdžių g. 1-4, LT-44456"
@@ -487,6 +489,11 @@
     "name": "MB Tavo veidas",
     "code": "305471799",
     "address": "Vilnius, Fabijoniškių g. 92-58, LT-07100"
+  },
+  {
+    "name": "MB Tavo vet",
+    "code": "307172475",
+    "address": "Vilnius, Notangos g. 11A, LT-06299"
   },
   {
     "name": "MB Tavo įmonė",
@@ -545,11 +552,6 @@
     "name": "Tavo renginys, MB",
     "code": "305888981",
     "address": "Druskininkai, V. Kudirkos g. 3-2, LT-66120"
-  },
-  {
-    "name": "Tavo sporto akademija, UAB",
-    "code": "303449430",
-    "address": "Vilnius, Salomėjos Nėries g. 51-97, LT-06305"
   },
   {
     "name": "Tavo trans, MB",
@@ -813,12 +815,6 @@
     "vatcode": "LT100008425815"
   },
   {
-    "name": "UAB \"Tavo teisė\"",
-    "code": "304330482",
-    "address": "Vilnius, Konstitucijos pr. 12, LT-09308",
-    "vatcode": "LT100010391919"
-  },
-  {
     "name": "UAB \"Tavo telefonas\"",
     "code": "303394400",
     "address": "Kaunas, Siūlų g. 3, LT-45201"
@@ -859,7 +855,8 @@
   {
     "name": "UAB Tavo klinika",
     "code": "123726527",
-    "address": "Vilnius, Polocko g. 17-201, LT-01205"
+    "address": "Vilnius, Polocko g. 17-201, LT-01205",
+    "vatcode": "LT237265219"
   },
   {
     "name": "UAB Tavo klinika Group",
@@ -1022,5 +1019,10 @@
     "code": "306166245",
     "address": "Kaunas, Užvalkių tak. 12, LT-45451",
     "vatcode": "LT100016051116"
+  },
+  {
+    "name": "MB \"TavoSense\"",
+    "code": "307187598",
+    "address": "Palanga, Vytauto g. 118-4, LT-00153"
   }
 ]

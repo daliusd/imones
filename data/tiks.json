@@ -120,7 +120,8 @@
   {
     "name": "MB Mūsų tikslas",
     "code": "306676294",
-    "address": "Vilnius, Tolminkiemio g. 3-22, LT-06210"
+    "address": "Vilnius, Tolminkiemio g. 3-22, LT-06210",
+    "vatcode": "LT100017889019"
   },
   {
     "name": "MB Skaitmeninis tikslas",
@@ -208,11 +209,6 @@
     "code": "304314033",
     "address": "Panevėžio r. sav., Panevėžio sen., Vaivadų k., Lakštingalų g. 12, LT-38448",
     "vatcode": "LT100012071211"
-  },
-  {
-    "name": "VšĮ \"Kilnusis tikslas\"",
-    "code": "303502566",
-    "address": "Vilnius, Pylimo g. 60-1, LT-01307"
   },
   {
     "name": "VšĮ \"Naujas tikslas\"",
@@ -333,6 +329,11 @@
     "name": "UAB \"Tikslinga kryptis\"",
     "code": "136034849",
     "address": "Kaunas, S. Dariaus ir S. Girėno g. 39-1"
+  },
+  {
+    "name": "UAB Tikslingas judesys",
+    "code": "307175610",
+    "address": "Vilnius, Tolminkiemio g. 14-15, LT-06286"
   },
   {
     "name": "MB \"Tikslingi sprendimai\"",
@@ -542,6 +543,11 @@
     "address": "Vilnius, Smėlio g. 4-11, LT-10324"
   },
   {
+    "name": "MB Tikslus planas",
+    "code": "302709163",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB Tikslus valdymas",
     "code": "307068487",
     "address": "Vilnius, Jankiškių g. 16B, LT-02300"
@@ -567,11 +573,6 @@
     "code": "304893114",
     "address": "Vilnius, T. Ševčenkos g. 16K-403, LT-03111",
     "vatcode": "LT100011945010"
-  },
-  {
-    "name": "UAB \"Tikslus planas\"",
-    "code": "302709163",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB \"Tikslus servisas\"",
@@ -632,6 +633,7 @@
   {
     "name": "MB Tiksta",
     "code": "307021402",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100018072614"
   }
 ]

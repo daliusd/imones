@@ -150,7 +150,8 @@
   {
     "name": "Masažo miestas, UAB",
     "code": "305707826",
-    "address": "Vilnius, Ulonų g. 3-114, LT-08240"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017877015"
   },
   {
     "name": "Mažoji bendrija Debesų miestas",
@@ -307,6 +308,11 @@
     "vatcode": "LT100016788210"
   },
   {
+    "name": "UAB Titanų miestas",
+    "code": "307168103",
+    "address": "Vilnius, Upelio g. 35-1, LT-03164"
+  },
+  {
     "name": "UAB Užmigo miestas",
     "code": "305973271",
     "address": "Vilnius, Karklėnų g. 15-19, LT-11223",
@@ -381,11 +387,6 @@
     "vatcode": "LT100016613616"
   },
   {
-    "name": "Richardo Miestausko individuali įmonė",
-    "code": "157649016",
-    "address": "Joniškis, Šiaulių Senoji g. 26, LT-84153"
-  },
-  {
     "name": "\"Pramogauk mieste\", MB",
     "code": "304298928",
     "address": "Vilnius, Gedimino pr. 45-4, LT-01109"
@@ -394,11 +395,6 @@
     "name": "Daugiabučio namo Nepriklausomybės al. 14 Naujosios Akmenės mieste savininkų bendrija",
     "code": "300710423",
     "address": "Naujoji Akmenė, Nepriklausomybės al. 14-2, LT-85127"
-  },
-  {
-    "name": "Daugiabučio namo Nepriklausomybės al. 27, Naujosios Akmenės mieste, savininkų bendrija",
-    "code": "300759438",
-    "address": "Naujoji Akmenė, Nepriklausomybės al. 27-15, LT-85129"
   },
   {
     "name": "Daugiabučio namo Nepriklausomybės al. 33, Naujosios Akmenės mieste savininkų bendrija",
@@ -918,11 +914,6 @@
     "address": "Akmenės r. sav., Akmenė, Stadiono g. 9-20, LT-85374"
   },
   {
-    "name": "Akmenės miesto, S. Daukanto g. 2a daugiabučio namo savininkų bendrija",
-    "code": "153273972",
-    "address": "Akmenės r. sav., Akmenė, S. Daukanto g. 2A-5, LT-85370"
-  },
-  {
     "name": "Akmenės rajono savivaldybės administracijos Naujosios Akmenės miesto seniūnija",
     "code": "188635858",
     "address": "Naujoji Akmenė, L. Petravičiaus a. 2, LT-85132"
@@ -1065,7 +1056,7 @@
   {
     "name": "Alytaus miesto savivaldybės visuomenės sveikatos biuras",
     "code": "301768543",
-    "address": "Alytus, Daugų g. 5A, LT-62169"
+    "address": "Alytus, Vingio g. 15A, LT-63218"
   },
   {
     "name": "Alytaus miesto stalo teniso klubas",
@@ -1735,16 +1726,12 @@
   {
     "name": "Druskininkų miesto muziejus",
     "code": "188205689",
-    "address": "Druskininkai, M. K. Čiurlionio g. 59, LT-66164"
+    "address": "Druskininkai, M. K. Čiurlionio g. 59, LT-66164",
+    "vatcode": "LT100018205510"
   },
   {
     "name": "Druskininkų miesto profesinė sąjunga",
     "code": "152128785",
-    "address": "Druskininkai, Merkinės g. 5-18, LT-66264"
-  },
-  {
-    "name": "Druskininkų miesto profesinės sąjungos įmonė",
-    "code": "152165812",
     "address": "Druskininkai, Merkinės g. 5-18, LT-66264"
   },
   {
@@ -2617,7 +2604,8 @@
   {
     "name": "Koncertinė įstaiga Vilniaus miesto savivaldybės Šv. Kristoforo kamerinis orkestras",
     "code": "124191928",
-    "address": "Vilnius, Stiklių g. 8, LT-01131"
+    "address": "Vilnius, Stiklių g. 8, LT-01131",
+    "vatcode": "LT241919219"
   },
   {
     "name": "Kretingos miesto Daugiabučio gyvenamojo namo Savanorių g. 52 savininkų bendrija \"Du lazdynai\"",
@@ -2667,7 +2655,7 @@
   {
     "name": "Kupiškio miesto garažų bendrija \"Motoras\"",
     "code": "160192499",
-    "address": "Kupiškis, Lauko g."
+    "address": "Kupiškis, Lauko g. 17, LT-40108"
   },
   {
     "name": "Kupiškio miesto vietos veiklos grupė",
@@ -3009,7 +2997,7 @@
   {
     "name": "MB \"Miesto lizdas\"",
     "code": "307085796",
-    "address": "Vilnius, Žolyno g. 11A-8, LT-10209"
+    "address": "Vilnius, Lazdynėlių g. 38A-48, LT-04126"
   },
   {
     "name": "MB \"Miesto magija\"",
@@ -3047,7 +3035,8 @@
   {
     "name": "MB Beribio miesto pakraštys",
     "code": "307026246",
-    "address": "Klaipėda, Debreceno g. 13-36B, LT-94174"
+    "address": "Klaipėda, Debreceno g. 13-36B, LT-94174",
+    "vatcode": "LT100017754312"
   },
   {
     "name": "MB Miesto audiniai",
@@ -3079,7 +3068,8 @@
   {
     "name": "MB Miesto medija",
     "code": "307156656",
-    "address": "Vilnius, Linkmenų g. 58-28, LT-08217"
+    "address": "Vilnius, Linkmenų g. 58-28, LT-08217",
+    "vatcode": "LT100017875210"
   },
   {
     "name": "MB Miesto plaukai",
@@ -3152,6 +3142,11 @@
     "address": "Mažeikiai, Laisvės g. 39-1, LT-89225"
   },
   {
+    "name": "Miesto angelas",
+    "code": "304618876",
+    "address": "Klaipėda, Rumpiškės g. 6, LT-91131"
+  },
+  {
     "name": "Miesto bažnyčia",
     "code": "192079367",
     "address": "Klaipėda, Vilties g. 9-2, LT-92227"
@@ -3207,11 +3202,6 @@
     "address": "Naujoji Akmenė, Respublikos g. 24-6, LT-85177"
   },
   {
-    "name": "Naujosios Akmenės miesto Respublikos g. 25 daugiabučio namo savininkų bendrija",
-    "code": "301833749",
-    "address": "Naujoji Akmenė, Respublikos g. 25-55, LT-85179"
-  },
-  {
     "name": "Naujosios Akmenės miesto Respublikos g. 9 daugiabučio namo savininkų bendrija",
     "code": "301743593",
     "address": "Naujoji Akmenė, Respublikos g. 9-81, LT-85140"
@@ -3265,11 +3255,6 @@
     "name": "Naujosios Akmenės miesto vietos veiklos grupė",
     "code": "304142014",
     "address": "Naujoji Akmenė, L. Petravičiaus a. 2, LT-85132"
-  },
-  {
-    "name": "Naujosios Akmenės miesto, Nepriklausomybės al. 11 daugiabučio namo savininkų bendrija",
-    "code": "300140521",
-    "address": "Naujoji Akmenė, Nepriklausomybės al. 11-2, LT-85127"
   },
   {
     "name": "Naujosios Vilnios miesto bendruomenė",
@@ -3427,10 +3412,6 @@
     "code": "302290562",
     "address": "Palanga, Gintaro g. 33A-1, LT-00134",
     "vatcode": "LT100004903915"
-  },
-  {
-    "name": "Palangos miesto švietimo darbuotojų profsąjungos organizacijų sąjunga",
-    "code": "125187594"
   },
   {
     "name": "Pandėlio miesto bendruomenė",
@@ -3824,10 +3805,6 @@
     "address": "Kelmės r. sav., Tytuvėnai, J. Basanavičiaus g. 2, LT-86486"
   },
   {
-    "name": "UAB \"COMLIET\" Klaipėdos miesto darbuotojų profesinė sąjunga",
-    "code": "142070999"
-  },
-  {
     "name": "UAB \"COMLIET\" PANEVĖŽIO MIESTO DARBUOTOJŲ PROFESINĖ SĄJUNGA",
     "code": "148444090",
     "address": "Panevėžys, Respublikos g. 58, LT-35171"
@@ -3869,7 +3846,8 @@
   {
     "name": "UAB \"Miesto auto\"",
     "code": "307090996",
-    "address": "Tauragė, Gedimino g. 6-22, LT-72241"
+    "address": "Tauragė, Gedimino g. 6-22, LT-72241",
+    "vatcode": "LT100017737017"
   },
   {
     "name": "UAB \"Miesto bitininkai\"",
@@ -4176,8 +4154,7 @@
   {
     "name": "UAB Senojo miesto kepyklėlė",
     "code": "304830480",
-    "address": "Marijampolė, Gedimino g. 5-2, LT-68307",
-    "vatcode": "LT100011894517"
+    "address": "Marijampolė, Gedimino g. 5-2, LT-68307"
   },
   {
     "name": "Ukmergės miesto Dukstynos sodininkų bendrija",
@@ -4841,7 +4818,7 @@
   {
     "name": "Vilniaus miesto Daugiabučio gyvenamojo namo Smolensko g. 13 savininkų bendrija",
     "code": "303348965",
-    "address": "Vilniaus m. sav."
+    "address": "Vilnius, Smolensko g. 13-35, LT-03201"
   },
   {
     "name": "Vilniaus miesto Daugiabučio gyvenamojo namo Trakėnų g. 29B savininkų bendrija",
@@ -5252,7 +5229,7 @@
   {
     "name": "Vilniaus miesto savivaldybės administracijos Justiniškių seniūnija",
     "code": "188649644",
-    "address": "Vilnius, Rygos g. 15, LT-05239"
+    "address": "Vilnius, Rygos g. 15-4, LT-05239"
   },
   {
     "name": "Vilniaus miesto savivaldybės administracijos Karoliniškių seniūnija",
@@ -5544,7 +5521,8 @@
   {
     "name": "VšĮ Gedimino miesto mokykla",
     "code": "304925206",
-    "address": "Vilnius, Gervėčių g. 4, LT-11350"
+    "address": "Vilnius, Gervėčių g. 4, LT-11350",
+    "vatcode": "LT100018051218"
   },
   {
     "name": "VšĮ Kauno miesto poliklinika",
@@ -5556,6 +5534,11 @@
     "name": "VšĮ Lazdijų miesto futbolo klubas \"Lazdis\"",
     "code": "304104138",
     "address": "Lazdijų r. sav., Lazdijų sen., Lazdijų k., Architektų g. 7, LT-67174"
+  },
+  {
+    "name": "VšĮ Miesto banga",
+    "code": "307178193",
+    "address": "Vilnius, Žirmūnų g. 115-96, LT-09118"
   },
   {
     "name": "VšĮ Miesto idėjų namai",

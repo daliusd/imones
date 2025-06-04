@@ -33,7 +33,8 @@
   {
     "name": "Advokato Lino Šarkio profesinė bendrija \"Judicium\"",
     "code": "305419585",
-    "address": "Kaunas, Gedimino g. 47-R1, LT-44242"
+    "address": "Kaunas, Gedimino g. 47-R1, LT-44242",
+    "vatcode": "LT100017910818"
   },
   {
     "name": "Advokato Sviderskio profesinė bendrija",
@@ -61,7 +62,8 @@
   {
     "name": "LIETUVOS ADVOKATŪRA",
     "code": "300099149",
-    "address": "Vilnius, Lvivo g. 7-9, LT-09313"
+    "address": "Vilnius, Lvivo g. 7-9, LT-09313",
+    "vatcode": "LT100001592012"
   },
   {
     "name": "\"Inkonta Law\" advokatų profesinė bendrija",
@@ -142,7 +144,8 @@
   {
     "name": "Advokatų profesinė bendrija \"Advise Matuliauskas ir partneriai\"",
     "code": "307121139",
-    "address": "Vilnius, Šaltkalvių g. 56-81, LT-02176"
+    "address": "Vilnius, Šaltkalvių g. 56-81, LT-02176",
+    "vatcode": "LT100017801610"
   },
   {
     "name": "Advokatų profesinė bendrija \"Advokat.lt\"",
@@ -225,6 +228,11 @@
     "code": "304782078",
     "address": "Vilnius, A. Goštauto g. 8-219, LT-01108",
     "vatcode": "LT100011513219"
+  },
+  {
+    "name": "Advokatų profesinė bendrija \"D. Žvingilienės advokatų kontora\"",
+    "code": "300547887",
+    "address": "Kaunas, Kęstučio g. 87-33, LT-44299"
   },
   {
     "name": "Advokatų profesinė bendrija \"DD Law\"",
@@ -563,7 +571,7 @@
   {
     "name": "Advokatų profesinė bendrija \"Smolex\"",
     "code": "304945689",
-    "address": "Kaunas, Jonavos g. 7, LT-44269",
+    "address": "Kaunas, Laisvės al. 11-2, LT-44238",
     "vatcode": "LT100012497219"
   },
   {
@@ -636,15 +644,16 @@
     "vatcode": "LT100013382411"
   },
   {
+    "name": "Advokatų profesinė bendrija \"Škėrys legal\"",
+    "code": "307173196",
+    "address": "Vilnius, Dzūkų g. 107, LT-02119",
+    "vatcode": "LT100018137915"
+  },
+  {
     "name": "Advokatų profesinė bendrija \"Šulija Partners Law Firm Vilnius\"",
     "code": "302663221",
     "address": "Vilnius, Jogailos g. 11-5, LT-01116",
     "vatcode": "LT100006362419"
-  },
-  {
-    "name": "Advokatų profesinė bendrija \"Ž. Urbonavičienės ir D. Žvingilienės advokatų kontora\"",
-    "code": "300547887",
-    "address": "Kaunas, Kęstučio g. 87-33, LT-44299"
   },
   {
     "name": "Advokatų profesinė bendrija \"Žabolienė ir partneriai\"",
@@ -671,9 +680,10 @@
     "vatcode": "LT100012103211"
   },
   {
-    "name": "Advokatų profesinė bendrija ADVIX",
+    "name": "Advokatų profesinė bendrija ADVIX Mockienė ir partneriai",
     "code": "307132705",
-    "address": "Vilnius, Kaštonų g. 4-10, LT-01107"
+    "address": "Vilnius, Kaštonų g. 4-10, LT-01107",
+    "vatcode": "LT100017736617"
   },
   {
     "name": "Advokatų profesinė bendrija AVERUS",
@@ -833,7 +843,8 @@
   {
     "name": "Advokatų profesinė bendrija KIZNĖ LEGAL",
     "code": "307144910",
-    "address": "Kaunas, Jonavos g. 60C, LT-44192"
+    "address": "Kaunas, Jonavos g. 60C, LT-44192",
+    "vatcode": "LT100017770617"
   },
   {
     "name": "Advokatų profesinė bendrija KONSILL",
@@ -864,6 +875,11 @@
     "code": "305582073",
     "address": "Kaunas, Laisvės al. 80, LT-44249",
     "vatcode": "LT100013283014"
+  },
+  {
+    "name": "Advokatų profesinė bendrija LBJ Legal",
+    "code": "307185017",
+    "address": "Vilnius, Raugyklos g. 3-9, LT-01140"
   },
   {
     "name": "Advokatų profesinė bendrija LEXGATE",
@@ -1029,6 +1045,11 @@
     "vatcode": "LT100006249415"
   },
   {
+    "name": "Advokatų profesinė bendrija Virtus Lex",
+    "code": "307187819",
+    "address": "Kaunas, Gedimino g. 47-10, LT-44242"
+  },
+  {
     "name": "Advokatų profesinė bendrija WIDEN Legal",
     "code": "302585363",
     "address": "Vilnius, Konstitucijos pr. 7, LT-09308",
@@ -1084,8 +1105,7 @@
   {
     "name": "Gargasaitės advokatų profesinė bendrija",
     "code": "304559125",
-    "address": "Vilnius, Aguonų g. 6-2, LT-03213",
-    "vatcode": "LT100012588710"
+    "address": "Vilnius, Aguonų g. 6-2, LT-03213"
   },
   {
     "name": "Global Legal Advisors, advokatų profesinė bendrija",
@@ -1169,6 +1189,11 @@
     "code": "303321402",
     "address": "Vilnius, Kražių g. 4-1, LT-01108",
     "vatcode": "LT100009173710"
+  },
+  {
+    "name": "MB \"Advolta\"",
+    "code": "307182487",
+    "address": "Panevėžio r. sav., Smilgių sen., Perekšlių k., Kranto g. 26, LT-38386"
   },
   {
     "name": "UAB \"Advona\"",

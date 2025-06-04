@@ -138,10 +138,6 @@
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Neries g. 20, LT-54364"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija \"Neries 28\"",
-    "code": "160219245"
-  },
-  {
     "name": "Daugiabučio namo savininkų bendrija \"Neries pakrantė\"",
     "code": "300074911",
     "address": "Vilnius, Sporto g. 3-19, LT-09238"
@@ -219,7 +215,8 @@
   {
     "name": "UAB \"Neries odontologijos klinika\"",
     "code": "305887192",
-    "address": "Kaunas, Neries krant. 14A-101, LT-48397"
+    "address": "Kaunas, Neries krant. 14A-101, LT-48397",
+    "vatcode": "LT100018012116"
   },
   {
     "name": "UAB \"Neries rezidencijos\"",
@@ -252,10 +249,6 @@
     "code": "123584896",
     "address": "Vilnius, Architektų g. 180-39, LT-04205",
     "vatcode": "LT235848917"
-  },
-  {
-    "name": "Všį Neries fraktalas",
-    "code": "306287898"
   },
   {
     "name": "MB Nerifox",
@@ -311,6 +304,11 @@
     "address": "Neringa, Taikos g. 24-7, LT-93121"
   },
   {
+    "name": "VšĮ Nerija galerija",
+    "code": "307178243",
+    "address": "Klaipėda, Vyturio g. 6-8, LT-95182"
+  },
+  {
     "name": "UAB \"Nerijana\"",
     "code": "303354637",
     "address": "Klaipėda, Dragūnų g. 1-57, LT-92331"
@@ -341,11 +339,6 @@
     "name": "Nerijaus Baniulio individuali įmonė",
     "code": "302759508",
     "address": "Vilkaviškis, P. Cvirkos g. 55, LT-70132"
-  },
-  {
-    "name": "Nerijaus Beigos įmonė",
-    "code": "160420643",
-    "address": "Kauno r. sav., Babtų sen., Stabaunyčiaus k."
   },
   {
     "name": "Nerijaus Bučio įmonė",
@@ -425,11 +418,6 @@
     "address": "Kaunas, Pienių g. 8-6, LT-47443"
   },
   {
-    "name": "Nerijaus Survilos įmonė \"AUNEKA\"",
-    "code": "145324577",
-    "address": "Šiauliai, Aukštabalio g. 8-47, LT-78164"
-  },
-  {
     "name": "Nerijaus Urbonavičiaus individuali įmonė",
     "code": "300151489",
     "address": "Kaunas, Geležinio Vilko g. 17-27, LT-49271"
@@ -438,11 +426,6 @@
     "name": "Nerijaus Urbonavičiaus individuali įmonė \"Junera\"",
     "code": "134705281",
     "address": "Kaunas, A. Baranausko g. 5-34, LT-50256"
-  },
-  {
-    "name": "Nerijaus Virvičiaus įmonė",
-    "code": "234975840",
-    "address": "Kaunas, A. Stulginskio g. 51-1"
   },
   {
     "name": "Nerijaus Zalecko įmonė",
@@ -739,6 +722,12 @@
     "vatcode": "LT100016866615"
   },
   {
+    "name": "UAB \"SPV Neringa\"",
+    "code": "304415527",
+    "address": "Neringa, G. D. Kuverto g. 17A, LT-93127",
+    "vatcode": "LT100010871310"
+  },
+  {
     "name": "UAB Neringa LTD",
     "code": "305466243",
     "address": "Kaunas, Geležinio Vilko g. 10-35, LT-49279"
@@ -833,11 +822,6 @@
     "address": "Raseiniai, Vilniaus g. 56-6, LT-60168"
   },
   {
-    "name": "Neringos Blaževičienės įmonė",
-    "code": "134427533",
-    "address": "Kaunas, Plieno g. 1-16"
-  },
-  {
     "name": "Neringos Katutienės individuali įmonė",
     "code": "134810777",
     "address": "Kaunas, Šiaurės pr. 13-16, LT-49192",
@@ -857,11 +841,6 @@
     "name": "Neringos Matuzanytės įmonė",
     "code": "224439470",
     "address": "Vilnius, Filaretų g. 18-9, LT-01208"
-  },
-  {
-    "name": "Neringos Pocienės personalinė įmonė",
-    "code": "152748932",
-    "address": "Neringa, Vilų g. 8, LT-93102"
   },
   {
     "name": "Neringos Rimkutės IĮ",

@@ -141,11 +141,6 @@
     "address": "Elektrėnų sav., Semeliškės, Trakų g. 1E, LT-21301"
   },
   {
-    "name": "Vytauto Motiejūno įmonė \"Kompiuteris\"",
-    "code": "132640034",
-    "address": "Kaunas, Vandžiogalos pl. 53"
-  },
-  {
     "name": "Ž. Motiejūno firma",
     "code": "184296684",
     "address": "Utena, Užpalių g. 95, LT-28198",
@@ -233,7 +228,7 @@
   {
     "name": "Alytaus stačiatikių Dievo Motinos Globėjos parapija",
     "code": "192063039",
-    "address": "Alytus, Perlojos g. 26, LT-62165"
+    "address": "Alytaus m. sav."
   },
   {
     "name": "Bezdonių Švč. M. Marijos Aušros Vartų Gailestingumo Motinos bažnyčia",
@@ -398,12 +393,18 @@
   {
     "name": "MB Ek motion",
     "code": "307074757",
-    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Taikos g. 7A, LT-13276"
+    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Taikos g. 7A, LT-13276",
+    "vatcode": "LT100017808618"
   },
   {
     "name": "MB Elektric Motion Auto",
     "code": "306129663",
     "address": "Vilnius, Girulių g. 5, LT-12124"
+  },
+  {
+    "name": "MB K.motion",
+    "code": "307164343",
+    "address": "Vilnius, Liepkalnio g. 5-2, LT-02103"
   },
   {
     "name": "MB Longevity In Motion",

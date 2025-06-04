@@ -54,7 +54,8 @@
   {
     "name": "\"Bangų klinika\", UAB",
     "code": "301533381",
-    "address": "Klaipėda, Bangų g. 7-3, LT-91250"
+    "address": "Klaipėda, Bangų g. 7-3, LT-91250",
+    "vatcode": "LT100017980718"
   },
   {
     "name": "\"Šveicarijos klinika\" UAB",
@@ -220,6 +221,11 @@
     "vatcode": "LT599925610"
   },
   {
+    "name": "IDent odontologijos klinika, MB",
+    "code": "307171455",
+    "address": "Vilnius, Miglos g. 55-1, LT-08102"
+  },
+  {
     "name": "Ievos Hamoudeh klinika",
     "code": "303434421",
     "address": "Vilnius, Smalinės g. 21-59, LT-06225"
@@ -374,7 +380,8 @@
   {
     "name": "Jiesios odontologijos klinika, MB",
     "code": "306646109",
-    "address": "Kaunas, Vaidoto g. 95, LT-45389"
+    "address": "Kaunas, Vaidoto g. 95, LT-45389",
+    "vatcode": "LT100017946415"
   },
   {
     "name": "Judi klinika, MB",
@@ -399,7 +406,8 @@
   {
     "name": "Kineziterapijos klinika \"Noriu judėti\", MB",
     "code": "306084086",
-    "address": "Vilnius, Vydūno g. 27-33, LT-06208"
+    "address": "Vilnius, Vydūno g. 27-33, LT-06208",
+    "vatcode": "LT100017853714"
   },
   {
     "name": "L. Karsokienės individuali įmonė \"Mažoji klinika\"",
@@ -526,6 +534,11 @@
     "address": "Šiauliai, Tilžės g. 80B-1, LT-78132"
   },
   {
+    "name": "MB \"SMILETA KLINIKA\"",
+    "code": "307186471",
+    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+  },
+  {
     "name": "MB \"Sakalo klinika\"",
     "code": "306864759",
     "address": "Kaunas, Girios g. 4-37, LT-47338",
@@ -554,7 +567,8 @@
   {
     "name": "MB \"Venų klinika\"",
     "code": "306043207",
-    "address": "Klaipėda, Medeinos g. 41, LT-92350"
+    "address": "Klaipėda, Medeinos g. 41, LT-92350",
+    "vatcode": "LT100018031617"
   },
   {
     "name": "MB \"Veterinarijos klinika du x du\"",
@@ -591,7 +605,8 @@
   {
     "name": "MB AJ klinika",
     "code": "306318144",
-    "address": "Panevėžio r. sav., Velžio sen., Velžio k., Bitininkų g. 11, LT-38127"
+    "address": "Panevėžio r. sav., Velžio sen., Velžio k., Bitininkų g. 11, LT-38127",
+    "vatcode": "LT100017771918"
   },
   {
     "name": "MB AJ reabilitacijos ir mokymų klinika",
@@ -693,7 +708,13 @@
   {
     "name": "MB GJ klinika",
     "code": "305692388",
-    "address": "Kauno r. sav., Domeikavos sen., Varluvos k., Vėdrynų g. 12, LT-54341"
+    "address": "Kauno r. sav., Domeikavos sen., Varluvos k., Vėdrynų g. 12, LT-54341",
+    "vatcode": "LT100017893219"
+  },
+  {
+    "name": "MB GK odontologijos klinika",
+    "code": "307177305",
+    "address": "Vilnius, Visorių g. 27-422, LT-08300"
   },
   {
     "name": "MB Gaba klinika",
@@ -787,8 +808,7 @@
   {
     "name": "MB Karalevičiaus klinika",
     "code": "303167274",
-    "address": "Šiauliai, Dvaro g. 50-19, LT-76346",
-    "vatcode": "LT100010694811"
+    "address": "Šiauliai, Dvaro g. 50-19, LT-76346"
   },
   {
     "name": "MB Kineziterapijos klinika \"Naturae\"",
@@ -818,6 +838,11 @@
     "vatcode": "LT100012194215"
   },
   {
+    "name": "MB LB Klinika",
+    "code": "302534422",
+    "address": "Molėtai, Kauno g. 20, LT-33102"
+  },
+  {
     "name": "MB Lampėdžių odontologijos klinika",
     "code": "304916100",
     "address": "Kaunas, Raudondvario pl. 231, LT-47166"
@@ -835,7 +860,8 @@
   {
     "name": "MB Life and smile klinika",
     "code": "306232663",
-    "address": "Kretingos r. sav., Kartena, Naujųjų Gintarų g. 21, LT-97342"
+    "address": "Kretingos r. sav., Kartena, Naujųjų Gintarų g. 21, LT-97342",
+    "vatcode": "LT100017925311"
   },
   {
     "name": "MB Linkmenų klinika",
@@ -1068,6 +1094,11 @@
     "address": "Vilnius, Kalvarijų g. 152-48, LT-08207"
   },
   {
+    "name": "MB Vivid klinika",
+    "code": "307184285",
+    "address": "Molėtai, Pastovio g. 5, LT-33140"
+  },
+  {
     "name": "MB klinika \"Sveikata ir grožis\"",
     "code": "304817853",
     "address": "Vilnius, S. Stanevičiaus g. 72-27, LT-07112",
@@ -1086,7 +1117,7 @@
   {
     "name": "MB Ąžuolo odontologijos klinika",
     "code": "304716377",
-    "address": "Vilnius, Laisvės pr. 99A-56, LT-06119"
+    "address": "Vilnius, Kintų g. 5-17, LT-09301"
   },
   {
     "name": "MB Šv. Jurgio odontologijos klinika",
@@ -1163,7 +1194,8 @@
   {
     "name": "Menopauzės klinika, UAB",
     "code": "307150055",
-    "address": "Trakų r. sav., Trakų sen., Bagdononių k., Radiliškių g. 9, LT-21282"
+    "address": "Trakų r. sav., Trakų sen., Bagdononių k., Radiliškių g. 9, LT-21282",
+    "vatcode": "LT100018036618"
   },
   {
     "name": "Mokslo tyrimų ir inovacijų klinika, UAB",
@@ -1201,6 +1233,11 @@
     "address": "Vilnius, Didlaukio g. 62-16, LT-08327"
   },
   {
+    "name": "Prienų odontologijos klinika MB",
+    "code": "170677682",
+    "address": "Prienai, Vytauto g. 18, LT-59129"
+  },
+  {
     "name": "Prof. Balio Dainio urologijos klinika",
     "code": "123535970",
     "address": "Vilnius, Fabijoniškių g. 6-7, LT-07108"
@@ -1208,7 +1245,8 @@
   {
     "name": "Psichoterapijos klinika",
     "code": "305698359",
-    "address": "Vilnius, Žemaitijos g. 5-2, LT-01134"
+    "address": "Vilnius, Žemaitijos g. 5-2, LT-01134",
+    "vatcode": "LT100018162613"
   },
   {
     "name": "R. Leskausko odontologijos klinika, UAB",
@@ -1355,7 +1393,8 @@
   {
     "name": "UAB \"Dr. G. Kravčenkos ginekologijos klinika\"",
     "code": "124041558",
-    "address": "Vilnius, J. Jasinskio g. 17, LT-01111"
+    "address": "Vilnius, J. Jasinskio g. 17, LT-01111",
+    "vatcode": "LT240415515"
   },
   {
     "name": "UAB \"Druskininkų šeimos klinika\"",
@@ -1432,7 +1471,8 @@
   {
     "name": "UAB \"IK odontologijos klinika\"",
     "code": "300570238",
-    "address": "Plungė, Telšių g. 21-3, LT-90162"
+    "address": "Plungė, Telšių g. 21-3, LT-90162",
+    "vatcode": "LT100017952117"
   },
   {
     "name": "UAB \"IMI odontologijos klinika\"",
@@ -1452,7 +1492,7 @@
   {
     "name": "UAB \"J. E. Milerių odontologijos klinika\"",
     "code": "124837110",
-    "address": "Vilnius, Algirdo g. 13-16, LT-03219"
+    "address": "Neringa, Pervalkos g. 12D-5, LT-93104"
   },
   {
     "name": "UAB \"JG KLINIKA\"",
@@ -1534,11 +1574,6 @@
     "address": "Kėdainiai, Rasos g. 6A, LT-57445"
   },
   {
-    "name": "UAB \"L&B Klinika\"",
-    "code": "302534422",
-    "address": "Molėtai, Kauno g. 20, LT-33102"
-  },
-  {
     "name": "UAB \"LM klinika\"",
     "code": "134894654",
     "address": "Kaunas, Parodos g. 1-2, LT-44214"
@@ -1561,7 +1596,8 @@
   {
     "name": "UAB \"MD klinika\"",
     "code": "302777787",
-    "address": "Vilnius, Žemynos g. 10-75, LT-06129"
+    "address": "Vilnius, Žemynos g. 10-75, LT-06129",
+    "vatcode": "LT100017998014"
   },
   {
     "name": "UAB \"Mano miesto klinika\"",
@@ -1592,12 +1628,14 @@
   {
     "name": "UAB \"Neries odontologijos klinika\"",
     "code": "305887192",
-    "address": "Kaunas, Neries krant. 14A-101, LT-48397"
+    "address": "Kaunas, Neries krant. 14A-101, LT-48397",
+    "vatcode": "LT100018012116"
   },
   {
     "name": "UAB \"ODOS KLINIKA\"",
     "code": "302696940",
-    "address": "Vilnius, Kanklių g. 12-53, LT-10321"
+    "address": "Vilnius, Kanklių g. 12-53, LT-10321",
+    "vatcode": "LT100018025118"
   },
   {
     "name": "UAB \"ORTOPEDIJOS PASLAUGŲ KLINIKA\"",
@@ -1688,7 +1726,8 @@
   {
     "name": "UAB \"Romuvos klinika\"",
     "code": "302972997",
-    "address": "Kaunas, Rotušės a. 23, LT-44279"
+    "address": "Kaunas, Rotušės a. 23, LT-44279",
+    "vatcode": "LT100017908019"
   },
   {
     "name": "UAB \"Rožyno veterinarijos klinika\"",
@@ -1774,12 +1813,6 @@
     "address": "Kaunas, Maironio g. 6-5, LT-44302"
   },
   {
-    "name": "UAB \"Vaikų reabilitacijos klinika\"",
-    "code": "305875090",
-    "address": "Kaunas, Jonavos g. 45, LT-44131",
-    "vatcode": "LT100014513316"
-  },
-  {
     "name": "UAB \"Verkių klinika\"",
     "code": "122926820",
     "address": "Vilnius, Apkasų g. 6-7, LT-08220"
@@ -1804,11 +1837,6 @@
     "name": "UAB \"Vizgaičių odontologijos klinika\"",
     "code": "135094277",
     "address": "Kaunas, Parodos g. 10-1, LT-44215"
-  },
-  {
-    "name": "UAB \"Z klinika\"",
-    "code": "300110122",
-    "address": "Vilnius, Didlaukio g. 80, LT-08326"
   },
   {
     "name": "UAB \"Ąžuolo\" klinika",
@@ -1853,7 +1881,8 @@
   {
     "name": "UAB A. Mackevičiaus odontologijos klinika",
     "code": "124491377",
-    "address": "Vilnius, L. Stuokos-Gucevičiaus g. 9-9, LT-01122"
+    "address": "Vilnius, L. Stuokos-Gucevičiaus g. 9-9, LT-01122",
+    "vatcode": "LT100017908715"
   },
   {
     "name": "UAB A. Stasiulio reabilitacijos klinika",
@@ -1943,7 +1972,8 @@
   {
     "name": "UAB Bendrystės klinika",
     "code": "304763462",
-    "address": "Vilnius, Subačiaus g. 83-16, LT-11342"
+    "address": "Vilnius, Subačiaus g. 83-16, LT-11342",
+    "vatcode": "LT100018127514"
   },
   {
     "name": "UAB Bioodontologijos klinika",
@@ -1958,7 +1988,13 @@
   {
     "name": "UAB CD8 klinika",
     "code": "302562674",
-    "address": "Kaunas, P. Vileišio g. 9, LT-44158"
+    "address": "Kaunas, P. Vileišio g. 9, LT-44158",
+    "vatcode": "LT100018073511"
+  },
+  {
+    "name": "UAB CITO KLINIKA",
+    "code": "307186610",
+    "address": "Kaunas, Partizanų g. 17, LT-49476"
   },
   {
     "name": "UAB D. Karpavičiaus klinika",
@@ -2077,7 +2113,8 @@
   {
     "name": "UAB Implantologijos ir odontologijos klinika \"Šypsena\"",
     "code": "304067946",
-    "address": "Vilnius, Didžioji g. 20-27, LT-01128"
+    "address": "Vilnius, Didžioji g. 20-27, LT-01128",
+    "vatcode": "LT100017917411"
   },
   {
     "name": "UAB Individualios terapijos klinika",
@@ -2123,7 +2160,8 @@
   {
     "name": "UAB Jeruzalės odontologijos klinika",
     "code": "126245584",
-    "address": "Vilnius, Ateities g. 1F, LT-08310"
+    "address": "Vilnius, Ateities g. 1F, LT-08310",
+    "vatcode": "LT100017988318"
   },
   {
     "name": "UAB Jeruzalės veterinarijos klinika",
@@ -2181,7 +2219,8 @@
   {
     "name": "UAB Kireilio klinika",
     "code": "302697693",
-    "address": "Marijampolė, Žemaitės g. 14, LT-68263"
+    "address": "Marijampolė, Žemaitės g. 14, LT-68263",
+    "vatcode": "LT100007977319"
   },
   {
     "name": "UAB Klaipėdos implantologijos klinika",
@@ -2307,7 +2346,8 @@
   {
     "name": "UAB Mėmelio klinika",
     "code": "304069388",
-    "address": "Klaipėda, Birutės g. 22A-145, LT-91187"
+    "address": "Klaipėda, Birutės g. 22A-145, LT-91187",
+    "vatcode": "LT100017980617"
   },
   {
     "name": "UAB Mėmelio sveikatingumo klinika",
@@ -2348,7 +2388,7 @@
   {
     "name": "UAB O. Sobolevo odontologijos klinika",
     "code": "304092579",
-    "address": "Visaginas, Taikos pr. 7, LT-31107"
+    "address": "Visaginas, Sedulinos al. 6-32, LT-31126"
   },
   {
     "name": "UAB ODONTOLOGIJOS KLINIKA ERIVITA",
@@ -2358,7 +2398,8 @@
   {
     "name": "UAB Odontologijos klinika \"Amicus dentis\"",
     "code": "302543955",
-    "address": "Vilnius, M. K. Čiurlionio g. 19, LT-03104"
+    "address": "Vilnius, M. K. Čiurlionio g. 19, LT-03104",
+    "vatcode": "LT100018115410"
   },
   {
     "name": "UAB Odontologijos klinika \"Danta\"",
@@ -2388,7 +2429,8 @@
   {
     "name": "UAB Olimpiečių odontologijos klinika",
     "code": "304436731",
-    "address": "Vilnius, P. Vileišio g. 3A-36, LT-10308"
+    "address": "Vilnius, P. Vileišio g. 3A-36, LT-10308",
+    "vatcode": "LT100017965018"
   },
   {
     "name": "UAB P9 klinika",
@@ -2547,12 +2589,14 @@
   {
     "name": "UAB Savanorių aikštės klinika",
     "code": "304518363",
-    "address": "Panevėžys, Savanorių a. 14, LT-35201"
+    "address": "Panevėžys, Savanorių a. 14, LT-35201",
+    "vatcode": "LT100018143617"
   },
   {
     "name": "UAB Savanorių kineziterapijos klinika",
     "code": "305678004",
-    "address": "Kaunas, Savanorių pr. 273, LT-50131"
+    "address": "Kaunas, Savanorių pr. 273, LT-50131",
+    "vatcode": "LT100018008814"
   },
   {
     "name": "UAB Senoji odontologijos klinika",
@@ -2567,7 +2611,7 @@
   {
     "name": "UAB Sg konsultacinė klinika",
     "code": "171765854",
-    "address": "Plungė, Telšių g. 13, LT-90162",
+    "address": "Telšiai, Respublikos g. 1, LT-87130",
     "vatcode": "LT100016610611"
   },
   {
@@ -2588,13 +2632,14 @@
   {
     "name": "UAB Sveikatos ir grožio klinika",
     "code": "300525595",
-    "address": "Plungė, Telšių g. 13, LT-90162",
+    "address": "Telšiai, Respublikos g. 1, LT-87130",
     "vatcode": "LT100002245319"
   },
   {
     "name": "UAB T. Andziulio odontologijos klinika",
     "code": "303117855",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Ražiškių k., Lanko g. 17, LT-53278"
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Ražiškių k., Lanko g. 17, LT-53278",
+    "vatcode": "LT100017877419"
   },
   {
     "name": "UAB TULPIŲ ŠEIMOS KLINIKA",
@@ -2604,7 +2649,8 @@
   {
     "name": "UAB Tavo klinika",
     "code": "123726527",
-    "address": "Vilnius, Polocko g. 17-201, LT-01205"
+    "address": "Vilnius, Polocko g. 17-201, LT-01205",
+    "vatcode": "LT237265219"
   },
   {
     "name": "UAB Tavo klinika Group",
@@ -2701,7 +2747,8 @@
   {
     "name": "UAB estetinės odontologijos klinika \"Estetiksas\"",
     "code": "301696026",
-    "address": "Vilnius, Sviliškių g. 2-7, LT-05271"
+    "address": "Vilnius, Sviliškių g. 2-7, LT-05271",
+    "vatcode": "LT100004093419"
   },
   {
     "name": "UAB klinika \"Agatas\"",
@@ -2822,6 +2869,11 @@
     "address": "Vilnius, Jonažolių g. 9-85, LT-04139"
   },
   {
+    "name": "UAB Žeromskų klinika",
+    "code": "300110122",
+    "address": "Vilnius, Didlaukio g. 80, LT-08326"
+  },
+  {
     "name": "UAB Žiburio odontologijos klinika",
     "code": "303251968",
     "address": "Alytus, Žiburio g. 4, LT-63235"
@@ -2929,7 +2981,8 @@
   {
     "name": "Vaiko raidos klinika",
     "code": "300043549",
-    "address": "Vilnius, Ukmergės g. 220, LT-07157"
+    "address": "Vilnius, Ukmergės g. 220, LT-07157",
+    "vatcode": "LT100018134416"
   },
   {
     "name": "Viešoji įstaiga \"DIA klinika\"",
@@ -3322,7 +3375,8 @@
   {
     "name": "MB Klinkerinis",
     "code": "307131286",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Toliočių k., Aguonų g. 19, LT-76321"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Toliočių k., Aguonų g. 19, LT-76321",
+    "vatcode": "LT100017765116"
   },
   {
     "name": "MB \"Klinkerio menas\"",
@@ -3402,7 +3456,7 @@
   {
     "name": "A. Klinkovo komercinė firma",
     "code": "141290113",
-    "address": "Klaipėda, Smiltelės g. 39-12, LT-94261"
+    "address": "Klaipėda, Minijos g. 115-8, LT-93231"
   },
   {
     "name": "UAB KLINSIMO truck driver service and consulting",

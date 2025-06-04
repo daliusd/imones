@@ -397,10 +397,6 @@
     "address": "Elektrėnai, Rungos g. 22, LT-26110"
   },
   {
-    "name": "Elektrėnų savivaldybės komunalinio ūkio profesinė sąjunga \"Solidarumas\"",
-    "code": "303209143"
-  },
-  {
     "name": "Elektrėnų savivaldybės profesinė sąjunga \"SOLIDARUMAS\"",
     "code": "181703477",
     "address": "Elektrėnai, Rungos g. 22, LT-26110"
@@ -647,10 +643,6 @@
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
   },
   {
-    "name": "Slaugytojų-padėjėjų profesinė sąjunga \"Solidarumas\"",
-    "code": "300126952"
-  },
-  {
     "name": "Statybininkų federacija \"Solidarumas\"",
     "code": "300012361",
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
@@ -759,10 +751,6 @@
     "name": "UAB \"Skabeikių agrofirma\" profesinė sąjunga \"SOLIDARUMAS\"",
     "code": "300015329",
     "address": "Akmenės r. sav., Papilės sen., Skabeikių k."
-  },
-  {
-    "name": "UAB \"Stamita\" darbuotojų profesinė sąjunga \"Solidarumas\"",
-    "code": "303126612"
   },
   {
     "name": "UAB \"TRANSRENA\" darbuotojų profesinė sąjunga \"Solidarumas\"",
@@ -910,10 +898,6 @@
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
   },
   {
-    "name": "VšĮ \"Varėnos ligoninė\" profesinė sąjunga \"Solidarumas\"",
-    "code": "304355329"
-  },
-  {
     "name": "VšĮ Biržų rajono socialinių paslaugų centro darbuotojų profesinė sąjunga \"Solidarumas\"",
     "code": "305262041",
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
@@ -954,7 +938,7 @@
     "address": "Vilnius, Pramonės g. 141, LT-11115"
   },
   {
-    "name": "VšĮ Švenčionių rajono ligoninės profesinė sąjunga \"Solidarumas\"",
+    "name": "VšĮ Švenčionių rajono sveikatos centro profesinė sąjunga \"Solidarumas\"",
     "code": "304738078",
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
   },
@@ -982,6 +966,11 @@
     "name": "Šiaulių apskrities profesinė sąjunga \"Solidarumas\"",
     "code": "145664359",
     "address": "Šiauliai, Žemaitės g. 43, LT-76339"
+  },
+  {
+    "name": "Šiaulių regiono dirbančiųjų profesinė sąjunga \"Solidarumas\"",
+    "code": "307166287",
+    "address": "Radviliškis, V. Kudirkos g. 19-1, LT-82169"
   },
   {
     "name": "Širvintų darbuotojų profesinė sąjunga \"Solidarumas\"",
@@ -1071,7 +1060,8 @@
   {
     "name": "MB Solidblok",
     "code": "306656338",
-    "address": "Šiauliai, A. Mickevičiaus g. 8-1, LT-76341"
+    "address": "Šiauliai, A. Mickevičiaus g. 8-1, LT-76341",
+    "vatcode": "LT100018145613"
   },
   {
     "name": "UAB Solideka",
@@ -1196,7 +1186,8 @@
   {
     "name": "MB Solidtera",
     "code": "307120069",
-    "address": "Vilnius, Linkmenų g. 19-123, LT-08217"
+    "address": "Vilnius, Linkmenų g. 19-123, LT-08217",
+    "vatcode": "LT100017775719"
   },
   {
     "name": "UAB \"SolidTrans\"",
@@ -1233,8 +1224,7 @@
   {
     "name": "UAB \"LIGNUM SOLIDUM\"",
     "code": "305974373",
-    "address": "Kretingos r. sav., Kretingos sen., Vydmantų k., Žuvėdrų g. 19A-1, LT-97227",
-    "vatcode": "LT100014680712"
+    "address": "Kretingos r. sav., Kretingos sen., Vydmantų k., Žuvėdrų g. 19A-1, LT-97227"
   },
   {
     "name": "\"SOLIDUS LT\" UAB",
@@ -1374,6 +1364,11 @@
     "vatcode": "LT100016213812"
   },
   {
+    "name": "UAB \"Solimports\"",
+    "code": "307180479",
+    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263"
+  },
+  {
     "name": "MB \"Solin energy\"",
     "code": "306155163",
     "address": "Vilnius, Meistrų g. 8-101, LT-02190",
@@ -1421,7 +1416,7 @@
   {
     "name": "UAB \"AAA Solinvest\"",
     "code": "306837922",
-    "address": "Vilnius, Maumedžių g. 6-27, LT-08309"
+    "address": "Vilnius, J. Basanavičiaus g. 9C-6, LT-01118"
   },
   {
     "name": "UAB \"Solinvesticijos PL\"",
@@ -1481,7 +1476,8 @@
   {
     "name": "MB \"Mira solis\"",
     "code": "307137677",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Tvarkiškių k., Šilo g. 3, LT-53285"
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Tvarkiškių k., Šilo g. 3, LT-53285",
+    "vatcode": "LT100017991814"
   },
   {
     "name": "MB \"Ruta solis\"",
@@ -1491,7 +1487,8 @@
   {
     "name": "MB \"Solis consilio\"",
     "code": "305072113",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100018212411"
   },
   {
     "name": "MB \"Solis jo\"",
@@ -1643,7 +1640,7 @@
   {
     "name": "UAB Solis Services",
     "code": "302819599",
-    "address": "Širvintų r. sav., Širvintų sen., Lapšių k. 3, LT-19105",
+    "address": "Vilnius, Gabijos g. 52-205, LT-06157",
     "vatcode": "LT100012084110"
   },
   {

@@ -47,7 +47,8 @@
   {
     "name": "UAB Kauno būstai holdingas",
     "code": "306233701",
-    "address": "Palanga, Malūno g. 1J-R2, LT-00126"
+    "address": "Palanga, Malūno g. 1J-R2, LT-00126",
+    "vatcode": "LT100018102216"
   },
   {
     "name": "UAB Vakarų būstai",
@@ -155,6 +156,11 @@
     "name": "Komfortiškas būstas UAB",
     "code": "306006760",
     "address": "Vilnius, Gedimino pr. 44A-201, LT-01110"
+  },
+  {
+    "name": "Krivių būstas, MB",
+    "code": "306843359",
+    "address": "Kaunas, Kukučių g. 39, LT-51338"
   },
   {
     "name": "MB \"Armario būstas\"",
@@ -327,7 +333,8 @@
   {
     "name": "MB Šiluma ir būstas",
     "code": "306837897",
-    "address": "Raseiniai, Reizgupio g. 20, LT-60171"
+    "address": "Raseiniai, Reizgupio g. 20, LT-60171",
+    "vatcode": "LT100017870411"
   },
   {
     "name": "Mano Būstas, UAB",
@@ -376,8 +383,7 @@
   {
     "name": "UAB \"Būstas visiems\"",
     "code": "305634043",
-    "address": "Vilnius, A. Juozapavičiaus g. 10-102, LT-09311",
-    "vatcode": "LT100013740714"
+    "address": "Vilnius, A. Juozapavičiaus g. 10-102, LT-09311"
   },
   {
     "name": "UAB \"Ekonomiškas būstas\"",
@@ -439,7 +445,8 @@
   {
     "name": "UAB \"LK būstas\"",
     "code": "307047906",
-    "address": "Vilnius, Lvivo g. 13-12, LT-09313"
+    "address": "Vilnius, Lvivo g. 13-12, LT-09313",
+    "vatcode": "LT100017745212"
   },
   {
     "name": "UAB \"Linkmenų būstas\"",
@@ -572,8 +579,7 @@
   {
     "name": "UAB \"VIP būstas\"",
     "code": "304839668",
-    "address": "Klaipėda, Šermukšnių g. 3, LT-91206",
-    "vatcode": "LT100011638614"
+    "address": "Klaipėda, Šermukšnių g. 3, LT-91206"
   },
   {
     "name": "UAB \"Verkių būstas\"",
@@ -585,10 +591,6 @@
     "name": "UAB \"Vilniaus būstas\"",
     "code": "300033195",
     "address": "Vilnius, Justiniškių g. 109-14, LT-05251"
-  },
-  {
-    "name": "UAB \"Visagino būstas\" profesinė sąjunga \"Komunalininkas\"",
-    "code": "155963833"
   },
   {
     "name": "UAB \"YIT Lietuva būstas\"",
@@ -717,7 +719,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Modernus būstas\"",
     "code": "126234036",
-    "address": "Vilnius, Turniškių g. 7-7, LT-10104",
+    "address": "Vilnius, Turniškių g. 7-5, LT-10104",
     "vatcode": "LT262340314"
   },
   {
@@ -767,6 +769,12 @@
     "vatcode": "LT261252413"
   },
   {
+    "name": "MB Būstera",
+    "code": "307165840",
+    "address": "Klaipėda, Tiltų g. 19, LT-91249",
+    "vatcode": "LT100018097710"
+  },
+  {
     "name": "MB \"Būsterija\"",
     "code": "304055424",
     "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Topolių g. 2A, LT-54136",
@@ -776,6 +784,11 @@
     "name": "UAB \"Būsterta\"",
     "code": "145904391",
     "address": "Šiauliai, Žemaitės g. 43, LT-76339"
+  },
+  {
+    "name": "MB \"Auto būstinė\"",
+    "code": "307167439",
+    "address": "Vilniaus r. sav., Riešės sen., Raudondvario k., Tujų g. 25, LT-14257"
   },
   {
     "name": "MB Būstinė",
@@ -852,6 +865,11 @@
     "name": "Kauno būsto modernizavimo agentūra",
     "code": "306029595",
     "address": "Kaunas, Europos pr. 121, LT-46339"
+  },
+  {
+    "name": "Lietuvos nacionalinė būsto nuomos asociacija",
+    "code": "307167528",
+    "address": "Vilnius, Vilkpėdės g. 22, LT-03151"
   },
   {
     "name": "Lietuvos respublikiniai būsto valdymo ir priežiūros rūmai",
@@ -1235,7 +1253,8 @@
   {
     "name": "UAB Būsto paskolų konsultantai",
     "code": "306004784",
-    "address": "Vilnius, M. Katkaus g. 8-5, LT-09217"
+    "address": "Vilnius, M. Katkaus g. 8-5, LT-09217",
+    "vatcode": "LT100018030518"
   },
   {
     "name": "UAB Būsto paskolų refinansavimas",
@@ -1299,7 +1318,8 @@
   {
     "name": "MB Būstui LT",
     "code": "307133134",
-    "address": "Kauno r. sav., Raudondvario sen., Didvyrių k., Laimės g. 14B, LT-54134"
+    "address": "Kauno r. sav., Raudondvario sen., Didvyrių k., Laimės g. 14B, LT-54134",
+    "vatcode": "LT100018089619"
   },
   {
     "name": "UAB \"Erdvė būstui\"",

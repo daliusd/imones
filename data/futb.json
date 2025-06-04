@@ -156,6 +156,11 @@
     "address": "Alytus, Užuolankos g. 24A-28, LT-62111"
   },
   {
+    "name": "Asociacija \"FK Futbolo Dievai\"",
+    "code": "307161525",
+    "address": "Klaipėda, Turistų g. 6-2, LT-92281"
+  },
+  {
     "name": "Asociacija \"Futbolo profesionalai\"",
     "code": "305260453",
     "address": "Šiauliai, Kviečių g. 8-7, LT-78412"
@@ -239,6 +244,11 @@
     "name": "Elektrėnų jaunimo futbolo centras, asociacija",
     "code": "303190312",
     "address": "Elektrėnai, Budinės g. 22, LT-26129"
+  },
+  {
+    "name": "Elitinė futbolo asociacija",
+    "code": "307183030",
+    "address": "Telšiai, Dariaus ir Girėno g. 18-12, LT-87343"
   },
   {
     "name": "FUTBOLO KLUBAS \"DIVENDA\"",
@@ -632,11 +642,6 @@
     "address": "Kauno r. sav., Vilkija, Vydūno al. 8A-6, LT-54229"
   },
   {
-    "name": "Futbolo klubo \"JUVENTUS\" įmonė",
-    "code": "148073564",
-    "address": "Panevėžys, Smėlynės g. 200A, LT-37455"
-  },
-  {
     "name": "Futbolo mokykla \"Fortūna\"",
     "code": "302454200",
     "address": "Vilnius, Sausio 13-osios g. 7-9, LT-04344"
@@ -664,7 +669,7 @@
   {
     "name": "Futbolo mėgėjų asociacija \"MES UŽ FUTBOLĄ\"",
     "code": "302770515",
-    "address": "Alytaus r. sav., Alovės sen., Muiželėnų k., Klevų g. 6, LT-64110"
+    "address": "Alytaus r. sav., Pivašiūnų sen., Lačionių k., Aklaežerio kel. 5, LT-64486"
   },
   {
     "name": "Futbolo regbio klubas \"Feniksas\"",
@@ -811,7 +816,7 @@
   {
     "name": "Lietuvos masinio futbolo asociacija",
     "code": "302420422",
-    "address": "Vilnius, Šeimyniškių g. 15-1, LT-09312"
+    "address": "Kaunas, Sporto g. 3, LT-44221"
   },
   {
     "name": "Lietuvos mažojo futbolo asociacija",
@@ -831,7 +836,12 @@
   {
     "name": "Lietuvos vaikų ir jaunių ugdymo futbolo asociacija",
     "code": "305488421",
-    "address": "Vilnius, Stadiono g. 2, LT-02106"
+    "address": "Kaunas, Sporto g. 3, LT-44221"
+  },
+  {
+    "name": "MARIJAMPOLĖS FUTBOLO KLUBAS",
+    "code": "151470469",
+    "address": "Marijampolė, Kauno g. 125, LT-68222"
   },
   {
     "name": "Marijampolės apskrities futbolo federacija",
@@ -1007,8 +1017,7 @@
   {
     "name": "UAB \"Futbolo stadionas\"",
     "code": "303007832",
-    "address": "Vilnius, Stadiono g. 2, LT-02106",
-    "vatcode": "LT100007569010"
+    "address": "Vilnius, Stadiono g. 2, LT-02106"
   },
   {
     "name": "Ukmergės futbolo klubas",
@@ -1161,7 +1170,8 @@
   {
     "name": "Viešoji įstaiga Futbolo klubas \"Vilnius\"",
     "code": "304984471",
-    "address": "Vilnius, Savanorių pr. 11A-8, LT-03116"
+    "address": "Vilnius, Savanorių pr. 11A-8, LT-03116",
+    "vatcode": "LT100018052317"
   },
   {
     "name": "Viešoji įstaiga K. Ivaškevičiaus futbolo akademija",
@@ -1177,11 +1187,6 @@
     "name": "Viešoji įstaiga Lietuvos futbolo fondas",
     "code": "152845947",
     "address": "Birštonas, Nemuno g. 3A-5, LT-59217"
-  },
-  {
-    "name": "Viešoji įstaiga MARIJAMPOLĖS FUTBOLO KLUBAS",
-    "code": "151470469",
-    "address": "Marijampolė, Kauno g. 125, LT-68222"
   },
   {
     "name": "Viešoji įstaiga Marijampolės apskrities mažojo futbolo lyga",
@@ -1258,7 +1263,8 @@
   {
     "name": "Viešoji įstaiga futbolo klubo \"Žalgiris\" akademija",
     "code": "302543503",
-    "address": "Vilnius, Stadiono g. 2, LT-02106"
+    "address": "Vilnius, Stadiono g. 2, LT-02106",
+    "vatcode": "LT100017849817"
   },
   {
     "name": "Viešoji įstaiga vaikų futbolo klubas \"Plungės žiogelis\"",
@@ -1384,7 +1390,7 @@
   {
     "name": "VšĮ \"Futbolo treneris\"",
     "code": "304828732",
-    "address": "Vilnius, Bajorų kel. 11-38, LT-08466"
+    "address": "Vilnius, Konstitucijos pr. 15-249, LT-09319"
   },
   {
     "name": "VšĮ \"Girionių futbolo klubas\"",
@@ -1519,14 +1525,14 @@
     "address": "Vilnius, Blindžių g. 19-5, LT-08111"
   },
   {
-    "name": "VšĮ Futbolo klubas \"Aukštaitija\"",
-    "code": "304960214",
-    "address": "Panevėžys, Prekybos g. 19-19, LT-35104"
-  },
-  {
     "name": "VšĮ Futbolo klubas \"Dvarčionys\"",
     "code": "305938199",
     "address": "Vilnius, Keramikų g. 26-2, LT-10232"
+  },
+  {
+    "name": "VšĮ Futbolo klubas \"Ekranas\"",
+    "code": "304960214",
+    "address": "Panevėžys, Prekybos g. 19-19, LT-35104"
   },
   {
     "name": "VšĮ Futbolo klubas \"Kauno Žalgiris\"",
@@ -1687,7 +1693,7 @@
   {
     "name": "VšĮ Vaikų ir jaunimo futbolo centras \"Aleksotas\"",
     "code": "303799377",
-    "address": "Kauno r. sav., Samylų sen., Gervėnupio k., Ąžuolyno g. 10, LT-53162"
+    "address": "Kaunas, V. Krėvės pr. 46-76, LT-50407"
   },
   {
     "name": "VšĮ Vakarų futbolo akademija",
@@ -1773,7 +1779,7 @@
   {
     "name": "Futbolo mėgėjų asociacija \"MES UŽ FUTBOLĄ\"",
     "code": "302770515",
-    "address": "Alytaus r. sav., Alovės sen., Muiželėnų k., Klevų g. 6, LT-64110"
+    "address": "Alytaus r. sav., Pivašiūnų sen., Lačionių k., Aklaežerio kel. 5, LT-64486"
   },
   {
     "name": "MB Futbotur",

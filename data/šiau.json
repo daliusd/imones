@@ -56,11 +56,6 @@
     "address": "Plungės r. sav., Šateikių sen., Aleksandravo k., Minijos g. 7, LT-90390"
   },
   {
-    "name": "V. Šiaudvyčio personalinė įmonė",
-    "code": "252569250",
-    "address": "Palanga, Mokyklos g. 16-27, LT-00303"
-  },
-  {
     "name": "V. Šiaudvyčio veterinarinė klinika",
     "code": "177114074",
     "address": "Šilutės r. sav., Katyčiai, Gluosnių g. 26, LT-99224"
@@ -146,6 +141,11 @@
     "name": "Daugiabučio gyvenamojo namo, esančio Gegužių g. 67, Šiauliai, savininkų bendrija",
     "code": "306173371",
     "address": "Šiauliai, Gegužių g. 67-39, LT-78333"
+  },
+  {
+    "name": "Daugiabučio gyvenamojo namo, esančio Gytarių g. 17, Šiauliai, savininkų bendrija",
+    "code": "307188216",
+    "address": "Šiauliai, Gytarių g. 17-4, LT-78362"
   },
   {
     "name": "Daugiabučio gyvenamojo namo, esančio Lyros g. 2, Šiauliai, savininkų bendrija",
@@ -525,6 +525,11 @@
     "address": "Šiauliai, Tilžės g. 225, LT-76297"
   },
   {
+    "name": "AB Artea banko Šiaulių filialas",
+    "code": "300147099",
+    "address": "Šiauliai, Vilniaus g. 193, LT-76348"
+  },
+  {
     "name": "ASOCIACIJA \"ŠIAULIŲ BUHALTERIŲ KLUBAS\"",
     "code": "302696520",
     "address": "Šiauliai, Dvaro g. 64, LT-76347"
@@ -568,12 +573,6 @@
     "address": "Vilnius, Gurių g. 83-1, LT-11331"
   },
   {
-    "name": "Akcinė bendrovė Šiaulių bankas",
-    "code": "112025254",
-    "address": "Šiauliai, Tilžės g. 149, LT-76348",
-    "vatcode": "LT120252515"
-  },
-  {
     "name": "Akcinės bendrovės \"Lotas\" Šiaulių statybos ir remonto baras",
     "code": "144859324",
     "address": "Šiauliai, Gamybos g. 5, LT-76128"
@@ -582,30 +581,6 @@
     "name": "Akcinės bendrovės \"Lytagra\" Šiaulių filialas",
     "code": "144754387",
     "address": "Šiauliai, Tilžės g. 231, LT-76297"
-  },
-  {
-    "name": "Akcinės bendrovės \"Šiaulių duona\" darbuotojų profesinė sąjunga",
-    "code": "145589198"
-  },
-  {
-    "name": "Akcinės bendrovės Šiaulių bankas Kauno filialas",
-    "code": "211006490",
-    "address": "Kaunas, Laisvės al. 80-5, LT-44249"
-  },
-  {
-    "name": "Akcinės bendrovės Šiaulių banko Klaipėdos filialas",
-    "code": "112055817",
-    "address": "Klaipėda, Taikos pr. 66, LT-93219"
-  },
-  {
-    "name": "Akcinės bendrovės Šiaulių banko Vilniaus filialas",
-    "code": "112055621",
-    "address": "Vilnius, Šeimyniškių g. 1A, LT-09312"
-  },
-  {
-    "name": "Akcinės bendrovės Šiaulių banko Šiaulių filialas",
-    "code": "300147099",
-    "address": "Šiauliai, Vilniaus g. 193, LT-76348"
   },
   {
     "name": "Asociacija \"Šiaulių apskrities nevyriausybinių organizacijų sąjunga\"",
@@ -735,11 +710,6 @@
     "name": "LIETUVOS SOCIALINĖS GLOBOS PASLAUGŲ GAVĖJŲ ASOCIACIJOS \"MANO GLOBA\" Šiaulių rajono filialas",
     "code": "306980087",
     "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Aukštelkės k., Poilsio g. 11H, LT-80181"
-  },
-  {
-    "name": "LSDP Šiaulių skyriaus įmonė \"Sodema\"",
-    "code": "144693799",
-    "address": "Šiauliai, Varpo g. 22, LT-76297"
   },
   {
     "name": "Lietuvos Respublikos odontologų rūmų Šiaulių teritorinis skyrius",
@@ -939,6 +909,11 @@
     "address": "Šiauliai, Gegužių g. 7-4, LT-78311"
   },
   {
+    "name": "MB Šiaulių stogai",
+    "code": "306675769",
+    "address": "Šiauliai, Šaltalankių g. 14, LT-76217"
+  },
+  {
     "name": "MB Šiaulių tralas",
     "code": "306606082",
     "address": "Šiauliai, Gvazdikų tak. 2-33, LT-78253",
@@ -1091,6 +1066,11 @@
     "code": "145654589",
     "address": "Šiauliai, Tilžės g. 33, LT-78229",
     "vatcode": "LT456545811"
+  },
+  {
+    "name": "UAB \"Šiaulių 40\"",
+    "code": "307186069",
+    "address": "Kaunas, Karaliaus Mindaugo pr. 31-1, LT-44300"
   },
   {
     "name": "UAB \"Šiaulių Aktila\"",
@@ -2297,11 +2277,6 @@
     "address": "Šiauliai, Sodo g. 105, LT-76184"
   },
   {
-    "name": "Šiaulių apskrities centrinio pašto darbuotojų profsąjunga",
-    "code": "193458167",
-    "address": "Šiauliai, Aušros al. 42, LT-76240"
-  },
-  {
     "name": "Šiaulių apskrities futbolo federacija",
     "code": "193449346",
     "address": "Šiauliai, S. Daukanto g. 23, LT-76331"
@@ -2649,7 +2624,7 @@
   {
     "name": "Šiaulių kulkinio šaudymo klubas \"Dešimtukas\"",
     "code": "300957530",
-    "address": "Šiauliai, Radviliškio g. 74-18, LT-76367"
+    "address": "Šiauliai, Pagėgių g. 17, LT-78123"
   },
   {
     "name": "Šiaulių kultūrizmo klubas \"Ąžuolas\"",
@@ -3512,6 +3487,11 @@
     "address": "Šiaulių r. sav., Kuršėnai, Gedimino g. 70, LT-81201"
   },
   {
+    "name": "Šiaulių regiono dirbančiųjų profesinė sąjunga \"Solidarumas\"",
+    "code": "307166287",
+    "address": "Radviliškis, V. Kudirkos g. 19-1, LT-82169"
+  },
+  {
     "name": "Šiaulių regiono ekonomistų asociacija",
     "code": "303308383",
     "address": "Šiauliai, Pasvalio g. 20, LT-76142"
@@ -3520,6 +3500,11 @@
     "name": "Šiaulių regiono jungtinė energetikų profesinė sąjunga",
     "code": "191994967",
     "address": "Šiauliai, Tilžės g. 68, LT-78157"
+  },
+  {
+    "name": "Šiaulių regiono pašto darbuotojų profesinė sąjunga",
+    "code": "193458167",
+    "address": "Vilnius, Kalvarijų g. 98, LT-08211"
   },
   {
     "name": "Šiaulių regiono plėtros taryba",
@@ -3834,6 +3819,11 @@
     "vatcode": "LT713073610"
   },
   {
+    "name": "UAB \"Šiaulėnų prekyba\"",
+    "code": "307173698",
+    "address": "Radviliškis, Mindaugo g. 36, LT-82163"
+  },
+  {
     "name": "Šiaulėnų Šv. Onos parapija",
     "code": "191254511",
     "address": "Radviliškio r. sav., Šiaulėnai"
@@ -4048,11 +4038,6 @@
     "name": "\"Šiaurės logistika\", MB",
     "code": "305337113",
     "address": "Alytaus r. sav., Alytaus sen., Karklynų k., Alytaus g. 13, LT-64391"
-  },
-  {
-    "name": "A. Kalinausko įmonė \"Šiaurės medis\"",
-    "code": "157940388",
-    "address": "Joniškio r. sav., Kepalių sen., Beržininkų k."
   },
   {
     "name": "Asociacija \"Šiaurės vėjas\"",
@@ -4270,6 +4255,11 @@
     "address": "Vilnius, Putiniškių g. 6A, LT-14187"
   },
   {
+    "name": "MB Šiaurės statyba LT",
+    "code": "307179078",
+    "address": "Šiaulių r. sav., Kairiai, Purienų g. 11A, LT-80109"
+  },
+  {
     "name": "Mažoji bendrija \"Šiaurės komercija\"",
     "code": "306285089",
     "address": "Joniškio r. sav., Rudiškių sen., Žmirklių k., Ąžuolo g. 1A, LT-84277"
@@ -4333,7 +4323,8 @@
   {
     "name": "UAB \"Šiaurės darželiai\"",
     "code": "305913317",
-    "address": "Vilnius, A. Juozapavičiaus g. 13-3, LT-09311"
+    "address": "Vilnius, A. Juozapavičiaus g. 13-3, LT-09311",
+    "vatcode": "LT100018002411"
   },
   {
     "name": "UAB \"Šiaurės garažas\"",
@@ -4477,9 +4468,9 @@
     "address": "Pakruojo r. sav., Klovainiai, Linkuvos g. 48, LT-83204"
   },
   {
-    "name": "UAB Šiaurės licėjus",
-    "code": "303960460",
-    "address": "Vilnius, A. Juozapavičiaus g. 13-3, LT-09311"
+    "name": "UAB Šiaurės energija",
+    "code": "307186083",
+    "address": "Biržų r. sav., Nemunėlio Radviliškio sen., Germaniškio k., Malūno g. 5, LT-41431"
   },
   {
     "name": "UAB Šiaurės projektas",
@@ -4678,7 +4669,8 @@
   {
     "name": "MB \"Šiaurūs vėjai\"",
     "code": "305661987",
-    "address": "Vilnius, M. K. Čiurlionio g. 82A-10, LT-03100"
+    "address": "Vilnius, M. K. Čiurlionio g. 82A-10, LT-03100",
+    "vatcode": "LT100018136513"
   },
   {
     "name": "G. Šiaučiulio individuali įmonė",
@@ -4694,11 +4686,6 @@
     "name": "MB \"Gyd. M. Šiaučiūnaitės psichoterapijos paslaugos\"",
     "code": "305633849",
     "address": "Palanga, Sermiesčio g. 9, LT-00155"
-  },
-  {
-    "name": "Pauliaus Šiaučiūno įmonė",
-    "code": "275893980",
-    "address": "Šiaulių r. sav., Meškuičių sen., Naisių k."
   },
   {
     "name": "Šiaučiūno g. 36-ojo namo savininkų bendrija \"Stetiškiai\"",

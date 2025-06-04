@@ -5,10 +5,6 @@
     "address": "Kėdainių r. sav., Pernaravos sen., Jakšių k., Aušros g. 16-2, LT-58229"
   },
   {
-    "name": "UAB \"Stilanis\"",
-    "code": "303426015"
-  },
-  {
     "name": "UAB \"Stilartas\"",
     "code": "302416185",
     "address": "Vilnius, V. A. Graičiūno g. 1A, LT-02244",
@@ -65,7 +61,8 @@
   {
     "name": "MB \"Stili\"",
     "code": "306822062",
-    "address": "Vilnius, Č. Sugiharos g. 4-21, LT-05115"
+    "address": "Vilnius, Č. Sugiharos g. 4-21, LT-05115",
+    "vatcode": "LT100017805512"
   },
   {
     "name": "\"Stiliaus adata\", MB",
@@ -193,6 +190,11 @@
     "name": "MB Stiliaus raktas",
     "code": "306973801",
     "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Unguros g. 1E, LT-92337"
+  },
+  {
+    "name": "MB Stiliaus stotelė",
+    "code": "306261654",
+    "address": "Panevėžys, J. Žemgulio g. 46, LT-35239"
   },
   {
     "name": "MB Stiliaus studija",
@@ -445,7 +447,7 @@
   {
     "name": "MB \"Reikalingi ir stilingi baldai\"",
     "code": "304942351",
-    "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Rūdninkų g. 17, LT-14118"
+    "address": "Lazdijų r. sav., Lazdijų sen., Karužų k., Jazminų g. 4, LT-67401"
   },
   {
     "name": "MB \"Stilingi kvapai\"",
@@ -726,12 +728,18 @@
   {
     "name": "MB Grindų stilius",
     "code": "307114080",
-    "address": "Vilniaus r. sav., Sudervės sen., Riešės vs., Šv. Jono g. 40, LT-14200"
+    "address": "Vilniaus r. sav., Sudervės sen., Riešės vs., Šv. Jono g. 40, LT-14200",
+    "vatcode": "LT100017794412"
   },
   {
     "name": "MB Nova stilius",
     "code": "305426900",
     "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Šlapšilės k., Šakinių g. 7, LT-96173"
+  },
+  {
+    "name": "MB Pjovimo stilius",
+    "code": "307165993",
+    "address": "Vilniaus r. sav., Rukainių sen., Ašmenėlės k., Smalinės g. 14, LT-13176"
   },
   {
     "name": "MB Plėvelių stilius",
@@ -841,7 +849,8 @@
   {
     "name": "UAB \"Kiemo stilius\"",
     "code": "303976938",
-    "address": "Kėdainiai, J. Basanavičiaus g. 144-40, LT-57370"
+    "address": "Kėdainiai, J. Basanavičiaus g. 144-40, LT-57370",
+    "vatcode": "LT100018148618"
   },
   {
     "name": "UAB \"Kostiumų stilius\"",
@@ -887,16 +896,16 @@
     "vatcode": "LT100012723315"
   },
   {
+    "name": "UAB \"Mks stilius\"",
+    "code": "303329541",
+    "address": "Vilnius, Krokuvos g. 13, LT-09314",
+    "vatcode": "LT100009179518"
+  },
+  {
     "name": "UAB \"Nagų stilius\"",
     "code": "303598851",
     "address": "Vilnius, Bajorų Sodų 19-oji g. 3, LT-14191",
     "vatcode": "LT100009765919"
-  },
-  {
-    "name": "UAB \"Olgvikos stilius\"",
-    "code": "303246106",
-    "address": "Vilnius, Palangos g. 2, LT-01117",
-    "vatcode": "LT100009956419"
   },
   {
     "name": "UAB \"R&J stilius\"",
@@ -939,7 +948,7 @@
   {
     "name": "UAB \"Spaudos stilius\"",
     "code": "300064778",
-    "address": "Kaunas, M. K. Čiurlionio g. 6-7, LT-44360",
+    "address": "Kaunas, Savanorių pr. 390-12, LT-49285",
     "vatcode": "LT100001301510"
   },
   {

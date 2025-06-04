@@ -207,11 +207,6 @@
     "address": "Vilnius, B. Sruogos g. 25-2"
   },
   {
-    "name": "Ginto Jarašiaus medžio gaminių dirbtuvė",
-    "code": "151293022",
-    "address": "Marijampolė, Vasaros g. 32, LT-68111"
-  },
-  {
     "name": "H. Tomaševič medžio apdirbimo įmonė",
     "code": "174987739",
     "address": "Šalčininkų r. sav., Jašiūnai, Stoties g. 6, LT-17251",
@@ -249,11 +244,6 @@
     "code": "163666618",
     "address": "Klaipėdos r. sav., Dovilų sen., Ketvergių k., Laukų g. 1A, LT-95409",
     "vatcode": "LT100001447818"
-  },
-  {
-    "name": "Juozo Vežbavičiaus medžio apdirbimo įmonė",
-    "code": "172402343",
-    "address": "Raseinių r. sav., Nemakščiai"
   },
   {
     "name": "Lietuvos baldų ir medžio apdirbimo įmonių darbuotojų profesinė sąjunga",
@@ -630,8 +620,7 @@
   {
     "name": "UAB \"Medžio taškas\"",
     "code": "305215173",
-    "address": "Vilniaus r. sav., Sudervės sen., Grikienių k., Riešės 1-oji g. 52, LT-14303",
-    "vatcode": "LT100012600915"
+    "address": "Vilniaus r. sav., Sudervės sen., Grikienių k., Riešės 1-oji g. 52, LT-14303"
   },
   {
     "name": "UAB \"Medžio verslas ir konsultacijos\"",
@@ -695,11 +684,6 @@
     "code": "183127592",
     "address": "Ukmergės r. sav., Lyduokių sen., Antakalnio II k., Molėtų kel. 27, LT-20101",
     "vatcode": "LT831275917"
-  },
-  {
-    "name": "Vaikučio medžio apdirbimo įmonė",
-    "code": "165651981",
-    "address": "Kalvarija, Ugniagesių g. 8, LT-69206"
   },
   {
     "name": "VšĮ \"Medžio gyvenimas\"",
@@ -822,7 +806,8 @@
   {
     "name": "MB Medžioklės sezonas",
     "code": "306098805",
-    "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Veteranų g. 1-303, LT-38175"
+    "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Veteranų g. 1-303, LT-38175",
+    "vatcode": "LT100017989318"
   },
   {
     "name": "Medžioklės ir žūklės klubas \"Kadagiris\"",
@@ -842,7 +827,7 @@
   {
     "name": "Medžioklės klubas \"Senovė\"",
     "code": "193001898",
-    "address": "Kauno miesto savivaldybės teritorija"
+    "address": "Varėnos r. sav., Jakėnų sen., Puodžių k., Sodų g. 8, LT-65429"
   },
   {
     "name": "Medžioklės klubas \"ŠIRVIS\"",
@@ -991,6 +976,11 @@
     "name": "\"Rambyno\" medžiotojų klubas",
     "code": "178055287",
     "address": "Pagėgių sav., Lumpėnų sen., Lumpėnų k."
+  },
+  {
+    "name": "\"Stumbro\" medžiotojų būrelis",
+    "code": "171651039",
+    "address": "Radviliškis, Klevų g. 10, LT-82180"
   },
   {
     "name": "\"Varnės\" medžiotojų klubas",
@@ -1640,7 +1630,7 @@
   {
     "name": "Kauno medžiotojų klubas \"Volungė\"",
     "code": "193129976",
-    "address": "Kaunas, Kovo 11-osios g. 33-71, LT-51316"
+    "address": "Šakių r. sav., Lekėčių sen., Lekėčių k., Šakių g. 34A, LT-71227"
   },
   {
     "name": "Kauno medžiotojų klubas \"Šilainė\"",
@@ -2071,7 +2061,7 @@
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Alytaus skyriaus medžiotojų klubas \"Krokialaukis\"",
     "code": "190950487",
-    "address": "Alytaus r. sav., Krokialaukis"
+    "address": "Alytaus r. sav., Krokialaukis, Žuvinto g. 20, LT-64355"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Alytaus skyriaus Ūdrijos medžiotojų būrelis",
@@ -2287,11 +2277,6 @@
     "name": "Lietuvos medžiotojų ir žvejų draugijos Plungės skyriaus Stanelių būrelis",
     "code": "171033466",
     "address": "Plungės r. sav., Paukštakių sen., Stanelių k."
-  },
-  {
-    "name": "Lietuvos medžiotojų ir žvejų draugijos Radviliškio skyriaus \"STUMBRO\" medžiotojų būrelis",
-    "code": "171651039",
-    "address": "Radviliškis, Klevų g. 10, LT-82180"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Radviliškio skyriaus \"Sakalo\" medžiotojų būrelis",
@@ -3602,6 +3587,11 @@
     "name": "Medžiotojų klubas \"Medėjas\"",
     "code": "303214368",
     "address": "Trakų r. sav., Rūdiškės, Kriaušių g. 6A, LT-21174"
+  },
+  {
+    "name": "Medžiotojų klubas \"Medūkšta\"",
+    "code": "307173716",
+    "address": "Alytaus r. sav., Alytaus sen., Likiškėlių k., Dvaro g. 38, LT-62442"
   },
   {
     "name": "Medžiotojų klubas \"Medžiokalnis\"",
@@ -4955,7 +4945,7 @@
   {
     "name": "Vadžgirio medžiotojų būrelis",
     "code": "193256258",
-    "address": "Jurbarko r. sav., Šimkaičių sen., Vadžgirio k."
+    "address": "Jurbarko r. sav., Šimkaičių sen., Paskynų k., Paskynų g. 61A, LT-74320"
   },
   {
     "name": "Varnių medžiotojų ir žvejų būrelis",

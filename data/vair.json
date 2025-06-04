@@ -205,7 +205,7 @@
   {
     "name": "Sodininkų bendrija \"VAIRAS\"",
     "code": "191499973",
-    "address": "Vilnius, Pupojų Sodų g. 32, LT-10237"
+    "address": "Vilnius, Pupojų Sodų 2-oji g. 29, LT-10237"
   },
   {
     "name": "Sodininkų bendrija \"Vairas\"",
@@ -302,7 +302,8 @@
   {
     "name": "UAB \"Sumanus vairavimas\"",
     "code": "303517949",
-    "address": "Panevėžys, J. Basanavičiaus g. 6-75, LT-35207"
+    "address": "Panevėžys, J. Basanavičiaus g. 6-75, LT-35207",
+    "vatcode": "LT100017767415"
   },
   {
     "name": "UAB \"Vairavimas\"",
@@ -451,8 +452,7 @@
   {
     "name": "UAB \"Vairavimo menas\"",
     "code": "303172887",
-    "address": "Panevėžys, Savanorių a. 12, LT-35201",
-    "vatcode": "LT100010256510"
+    "address": "Panevėžys, Savanorių a. 12, LT-35201"
   },
   {
     "name": "UAB A. Viržinto vairavimo mokykla",
@@ -542,11 +542,6 @@
     "address": "Klaipėda, Žemaičių g. 3A, LT-91268"
   },
   {
-    "name": "Vairavimo egzaminas, UAB",
-    "code": "306849903",
-    "address": "Klaipėda, Taikos pr. 17-20, LT-91140"
-  },
-  {
     "name": "Vairavimo institutas, UAB",
     "code": "304855829",
     "address": "Klaipėda, Taikos pr. 17-20, LT-91140"
@@ -587,6 +582,11 @@
     "name": "VšĮ vairavimo mokykla \"Autoaidas\"",
     "code": "304448395",
     "address": "Vilnius, Gerosios Vilties g. 42-11, LT-03143"
+  },
+  {
+    "name": "vairavimoegzaminai.lt UAB",
+    "code": "306849903",
+    "address": "Klaipėda, Taikos pr. 17-20, LT-91140"
   },
   {
     "name": "MB Vairaz",
@@ -690,7 +690,7 @@
     "address": "Vilnius, Talino g. 77, LT-05200"
   },
   {
-    "name": "MB \"Vairola\"",
+    "name": "Uždaroji akcinė bendrovė \"Vairola\"",
     "code": "304091413",
     "address": "Kauno r. sav., Alšėnų sen., Mastaičių k., Samanų g. 27-5, LT-53306",
     "vatcode": "LT100009643519"
@@ -768,7 +768,7 @@
   {
     "name": "MB \"Vairukas\"",
     "code": "303024835",
-    "address": "Kretingos r. sav., Darbėnai, Baltkalnio g. 6, LT-97263"
+    "address": "Kretingos r. sav., Darbėnai, Miško g. 1, LT-97263"
   },
   {
     "name": "MB Vairuna LT",
