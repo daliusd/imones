@@ -42,6 +42,11 @@
     "address": "Vilnius, Vytenio g. 29-5, LT-03207"
   },
   {
+    "name": "Asociacija Solaris Prie Santakos",
+    "code": "307204656",
+    "address": "Kaunas, A. Juozapavičiaus pr. 104, LT-45112"
+  },
+  {
     "name": "Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnyba prie Lietuvos Respublikos finansų ministerijos",
     "code": "304157094",
     "address": "Vilnius, Rinktinės g. 48A, LT-09318"
@@ -255,7 +260,8 @@
   {
     "name": "MB \"Sodyba prie Mūšos\"",
     "code": "307164222",
-    "address": "Pakruojo r. sav., Klovainių sen., Pamūšio k., Vilties g. 12, LT-83473"
+    "address": "Pakruojo r. sav., Klovainių sen., Pamūšio k., Vilties g. 12, LT-83473",
+    "vatcode": "LT100018416417"
   },
   {
     "name": "MB \"Šešiolika prie devynių\"",
@@ -486,11 +492,6 @@
     "code": "126057319",
     "address": "Vilnius, Rinktinės g. 4-18, LT-09312",
     "vatcode": "LT260573113"
-  },
-  {
-    "name": "UAB \"Prie tujos\"",
-    "code": "166631896",
-    "address": "Mažeikiai, Sodų skg. 3, LT-89119"
   },
   {
     "name": "UAB \"Prie upės\"",
@@ -1172,11 +1173,6 @@
     "code": "306949914",
     "address": "Šiauliai, V. Bielskio g. 26, LT-76146",
     "vatcode": "LT100017157611"
-  },
-  {
-    "name": "Valdo Urnikio autotransporto priemonių vertinimo kontora",
-    "code": "180371965",
-    "address": "Telšiai, Kauno g. 9-31, LT-87148"
   },
   {
     "name": "MB \"Edukacinės priemonės\"",
@@ -1997,7 +1993,7 @@
   {
     "name": "UAB \"Prieskonių ambasada\"",
     "code": "303063891",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111",
+    "address": "Šilutė, Tilžės g. 1-2, LT-99142",
     "vatcode": "LT100008272612"
   },
   {

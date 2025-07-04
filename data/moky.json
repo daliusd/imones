@@ -121,11 +121,6 @@
     "address": "Šiauliai, Ežero g. 68, LT-76244"
   },
   {
-    "name": "B. Balakauskienės muzikos mokykla",
-    "code": "241272810",
-    "address": "Klaipėda, S. Nėries g. 8-12, LT-92228"
-  },
-  {
     "name": "Balsių vaikų futbolo mokykla \"Geležinis vilkas\"",
     "code": "304888124",
     "address": "Vilnius, Fabijoniškių g. 3B-85, LT-07130"
@@ -184,11 +179,6 @@
     "name": "Dailiojo čiuožimo mokykla \"Bravo\"",
     "code": "306335026",
     "address": "Vilnius, Pavilnionių g. 45-18, LT-12100"
-  },
-  {
-    "name": "Dainiaus Kepenio Palangos sveikatos mokykla",
-    "code": "152635023",
-    "address": "Palanga, Saulėtekio tak. 5-10, LT-00125"
   },
   {
     "name": "Divizijos generolo Stasio Raštikio Lietuvos kariuomenės mokykla",
@@ -351,6 +341,11 @@
     "address": "Jonava, Kauno g. 59, LT-55179"
   },
   {
+    "name": "Jonavos \"Žingsnio\" pradinė mokykla",
+    "code": "290307360",
+    "address": "Jonava, Smėlio g. 11, LT-55117"
+  },
+  {
     "name": "Jonavos Janinos Miščiukaitės meno mokykla",
     "code": "190310156",
     "address": "Jonava, Žeimių g. 6, LT-55149"
@@ -364,11 +359,6 @@
     "name": "Jonavos politechnikos mokykla",
     "code": "111964563",
     "address": "Jonava, Kauno g. 75, LT-55179"
-  },
-  {
-    "name": "Jonavos pradinė mokykla",
-    "code": "290307360",
-    "address": "Jonava, Smėlio g. 11, LT-55117"
   },
   {
     "name": "Jonavos r. Bukonių mokykla-daugiafunkcis centras",
@@ -510,6 +500,11 @@
     "name": "Kalvarijos sav. Sangrūdos pagrindinė mokykla",
     "code": "190399347",
     "address": "Kalvarijos sav., Sangrūdos sen., Sangrūdos k., Mokyklos g. 28, LT-69265"
+  },
+  {
+    "name": "Karatė mokykla Hiro",
+    "code": "307205879",
+    "address": "Kaunas, A. Smetonos al. 21-12, LT-45324"
   },
   {
     "name": "Kauno \"Nemuno\" mokykla",
@@ -1219,7 +1214,8 @@
   {
     "name": "MB Matematikos mokykla",
     "code": "304875002",
-    "address": "Kaunas, Vytauto pr. 27, LT-44352"
+    "address": "Kaunas, Vytauto pr. 27, LT-44352",
+    "vatcode": "LT100018319314"
   },
   {
     "name": "MB Miško briedžio mokykla",
@@ -1382,11 +1378,6 @@
     "name": "Mažeikių politechnikos mokykla",
     "code": "290977720",
     "address": "Mažeikiai, Ventos g. 18, LT-89188"
-  },
-  {
-    "name": "Mažeikių r. Užlieknės pagrindinė mokykla",
-    "code": "190176458",
-    "address": "Mažeikių r. sav., Tirkšlių sen., Užlieknės k., Šiaurės g. 2, LT-89322"
   },
   {
     "name": "Mažeikių r. Viekšnių Vinco Deniušio meno mokykla",
@@ -2059,7 +2050,8 @@
   {
     "name": "UAB Heroldo vairavimo mokykla",
     "code": "304606393",
-    "address": "Šiauliai, Aušros al. 66A, LT-76233"
+    "address": "Šiauliai, Aušros al. 66A, LT-76233",
+    "vatcode": "LT100018303318"
   },
   {
     "name": "UAB Kalbų mokykla \"Lingus\"",
@@ -2069,7 +2061,8 @@
   {
     "name": "UAB Karalienės Mortos mokykla",
     "code": "303033784",
-    "address": "Vilnius, Lukšinės g. 29, LT-11332"
+    "address": "Vilnius, Lukšinės g. 29, LT-11332",
+    "vatcode": "LT100018294214"
   },
   {
     "name": "UAB Kirpėjo amato mokykla",
@@ -2129,7 +2122,8 @@
   {
     "name": "UAB mokykla \"Eureka\"",
     "code": "304837382",
-    "address": "Kaunas, J. Gruodžio g. 9-1, LT-44293"
+    "address": "Kaunas, J. Gruodžio g. 9-1, LT-44293",
+    "vatcode": "LT100018301210"
   },
   {
     "name": "UAB Žemaitijos vairavimo mokykla",
@@ -2335,7 +2329,8 @@
   {
     "name": "Viešoji įstaiga \"Vilniaus Valdorfo mokykla\"",
     "code": "300542858",
-    "address": "Vilnius, Geležinio Vilko g. 23, LT-03133"
+    "address": "Vilnius, Geležinio Vilko g. 23, LT-03133",
+    "vatcode": "LT100018484119"
   },
   {
     "name": "Viešoji įstaiga \"Vilniaus tarptautinė mokykla\"",
@@ -3040,7 +3035,8 @@
   {
     "name": "VšĮ Baltijos tarptautinė mokykla",
     "code": "304528350",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
+    "vatcode": "LT100018363019"
   },
   {
     "name": "VšĮ Birštono futbolo mokykla",
@@ -3118,7 +3114,8 @@
   {
     "name": "VšĮ Indiška reiki mokykla",
     "code": "304945536",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
+    "vatcode": "LT100018476814"
   },
   {
     "name": "VšĮ Inžinerijos mokykla",
@@ -3214,7 +3211,8 @@
   {
     "name": "VšĮ Melkio mokykla",
     "code": "303359698",
-    "address": "Vilniaus r. sav., Maišiagalos sen., Melkio k., Antano Giedraičio g. 124, LT-14245"
+    "address": "Vilniaus r. sav., Maišiagalos sen., Melkio k., Antano Giedraičio g. 124, LT-14245",
+    "vatcode": "LT100018474818"
   },
   {
     "name": "VšĮ Meninės raiškos mokykla \"INCOGNITO\"",
@@ -3378,7 +3376,7 @@
   {
     "name": "VšĮ Vilniaus programavimo mokykla",
     "code": "304098571",
-    "address": "Vilnius, Žirgo g. 2-55, LT-10221"
+    "address": "Neringa, Pervalkos g. 19, LT-93104"
   },
   {
     "name": "VšĮ Visuminio įtraukaus ugdymo mokykla",
@@ -3408,7 +3406,8 @@
   {
     "name": "VšĮ muzikos mokykla \"Ugnelė\"",
     "code": "302492546",
-    "address": "Vilnius, L. Giros g. 90-1, LT-06315"
+    "address": "Vilnius, L. Giros g. 90-1, LT-06315",
+    "vatcode": "LT100018446610"
   },
   {
     "name": "VšĮ tinklinio mokykla \"Sigma\"",
@@ -3722,7 +3721,7 @@
   {
     "name": "Šokio mokykla \"Šokantys bateliai\"",
     "code": "304404235",
-    "address": "Vilkaviškis, Nepriklausomybės g. 70-17, LT-70185"
+    "address": "Vilkaviškis, Kaštonų g. 18, LT-70115"
   },
   {
     "name": "Šokių mokykla \"Fiva dance\"",
@@ -3909,11 +3908,6 @@
     "name": "Kauno Kvan Um dzeno mokyklos budistinė bendruomenė",
     "code": "192085797",
     "address": "Kaunas, Raudondvario pl. 129, LT-47188"
-  },
-  {
-    "name": "Kauno Panemunės pradinės mokyklos paramos fondas",
-    "code": "135669678",
-    "address": "Kaunas, Partizanų g. 15A, LT-50203"
   },
   {
     "name": "Kauno Suzukio pradinės mokyklos paramos fondas",
@@ -4134,7 +4128,7 @@
   {
     "name": "Viešoji įstaiga Šiuolaikinės mokyklos centras",
     "code": "302850897",
-    "address": "Vilnius, Žygimantų g. 4, LT-01102"
+    "address": "Vilnius, Vasario 16-osios g. 1, LT-01107"
   },
   {
     "name": "Vilniaus \"Šviesos\" pradinės mokyklos profesinė sąjunga",
@@ -4279,7 +4273,7 @@
   {
     "name": "VšĮ \"Kiškių mokyklėlė\"",
     "code": "304065354",
-    "address": "Vilnius, Liepų al. 48, LT-02233"
+    "address": "Vilnius, Tvankstos g. 16-3, LT-06240"
   },
   {
     "name": "VšĮ \"Ridikėlių mokyklėlė\"",
@@ -4610,7 +4604,7 @@
   {
     "name": "UAB \"OVC mokymai\"",
     "code": "301495532",
-    "address": "Vilnius, Džiaugsmo g. 74, LT-11302",
+    "address": "Vilnius, Jogailos g. 4, LT-01116",
     "vatcode": "LT100003945713"
   },
   {
@@ -4992,7 +4986,7 @@
     "vatcode": "LT100015245512"
   },
   {
-    "name": "Panevėžio suaugusiųjų ir jaunimo mokymo centras",
+    "name": "Panevėžio suaugusiųjų mokymo centras",
     "code": "191817034",
     "address": "Panevėžys, Šiaulių g. 60, LT-35137"
   },
@@ -5067,7 +5061,7 @@
   {
     "name": "UAB Eizos mokymo centras",
     "code": "304590836",
-    "address": "Klaipėda, Klemiškės g. 42C-4, LT-91279",
+    "address": "Klaipėda, Klemiškės g. 20A-4, LT-91272",
     "vatcode": "LT100015155917"
   },
   {
@@ -5602,7 +5596,8 @@
   {
     "name": "MB Konsultacijų ir mokymų centras \"Esu\"",
     "code": "304480820",
-    "address": "Vilnius, Kruopų g. 7-9, LT-01140"
+    "address": "Vilnius, Kruopų g. 7-9, LT-01140",
+    "vatcode": "LT100018502716"
   },
   {
     "name": "MB Mikropigmentacijos ir mezoterapijos mokymų centras",
@@ -5758,8 +5753,7 @@
   {
     "name": "UAB Mokymų centras \"Daugirdiškės\"",
     "code": "302745864",
-    "address": "Elektrėnų sav., Semeliškių sen., Daugirdiškių k., Monio g. 49A, LT-21343",
-    "vatcode": "LT100007168511"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "UAB Nuotolinių mokymų centras",
@@ -5836,7 +5830,7 @@
   {
     "name": "VšĮ Meno ir mokymų centras",
     "code": "304310597",
-    "address": "Klaipėda, Kalnupės g. 11-15, LT-93253"
+    "address": "Gargždai, Pušų g. 38-48, LT-96145"
   },
   {
     "name": "VšĮ Mokymų centras \"iCAN\"",
@@ -5852,6 +5846,11 @@
     "name": "VšĮ Psichologinės pagalbos ir mokymų centras",
     "code": "304866708",
     "address": "Šilutė, Rusnės g. 8-3, LT-99185"
+  },
+  {
+    "name": "VšĮ Sporto ir sveikatingumo mokymų klubas",
+    "code": "307187737",
+    "address": "Vilnius, M. Mažvydo g. 30-4, LT-06238"
   },
   {
     "name": "VšĮ Sveikatos mokymų institutas",

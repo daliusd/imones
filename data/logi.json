@@ -5,6 +5,11 @@
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
   },
   {
+    "name": "MB Logibalt",
+    "code": "307232381",
+    "address": "Naujoji Akmenė, J. Dalinkevičiaus g. 2K, LT-85118"
+  },
+  {
     "name": "UAB \"Logibaltika\"",
     "code": "134944947",
     "address": "Kaunas, Barkūnų g. 3-6, LT-46326",
@@ -21,6 +26,11 @@
     "code": "302306397",
     "address": "Vilnius, Lazdynėlių g. 18-6, LT-04126",
     "vatcode": "LT100004858411"
+  },
+  {
+    "name": "Acoustic logic MB",
+    "code": "307232253",
+    "address": "Kaunas, Studentų g. 12-22, LT-50243"
   },
   {
     "name": "Fina logic, UAB",
@@ -93,7 +103,8 @@
   {
     "name": "UAB \"DC Logic Group\"",
     "code": "307038106",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100018388115"
   },
   {
     "name": "UAB \"FLEET LOGIC\"",
@@ -122,6 +133,12 @@
     "code": "123495981",
     "address": "Vilnius, Vinciūniškių g. 4A, LT-10241",
     "vatcode": "LT234959811"
+  },
+  {
+    "name": "Uncertain Logic, UAB",
+    "code": "307194678",
+    "address": "Vilnius, P. Vileišio g. 14B-12, LT-10306",
+    "vatcode": "LT100018372512"
   },
   {
     "name": "\"Lex logica\", UAB",
@@ -515,8 +532,7 @@
   {
     "name": "UAB \"Logiset\"",
     "code": "304149418",
-    "address": "Vilnius, Kirtimų g. 51, LT-02244",
-    "vatcode": "LT100009862518"
+    "address": "Vilnius, Kirtimų g. 51, LT-02244"
   },
   {
     "name": "UAB \"Logismada\"",
@@ -548,13 +564,13 @@
   {
     "name": "UAB \"Logista\"",
     "code": "304089818",
-    "address": "Vilnius, Sausio 13-osios g. 7-69, LT-04344",
+    "address": "Vilnius, Jaunaties g. 16, LT-08456",
     "vatcode": "LT100011068214"
   },
   {
     "name": "Uždaroji akcinė bendrovė Logista group",
     "code": "305641949",
-    "address": "Vilnius, Sausio 13-osios g. 7-69, LT-04344",
+    "address": "Vilnius, Jaunaties g. 16, LT-08456",
     "vatcode": "LT100013512110"
   },
   {
@@ -787,8 +803,7 @@
   {
     "name": "MB NF CAR LOGISTIC",
     "code": "306287827",
-    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144",
-    "vatcode": "LT100016345110"
+    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144"
   },
   {
     "name": "MB Swift Baltic Logistic",
@@ -1024,7 +1039,7 @@
   {
     "name": "UAB \"M7 Logistic\"",
     "code": "305505988",
-    "address": "Trakų r. sav., Lentvario sen., Valų k., Sodų g. 39, LT-21422",
+    "address": "Trakų r. sav.",
     "vatcode": "LT100013180210"
   },
   {
@@ -1323,6 +1338,12 @@
     "address": "Mažeikiai, Jautakių g. 30, LT-89142"
   },
   {
+    "name": "\"NexMove Logistics\" UAB",
+    "code": "304926906",
+    "address": "Panevėžys, Beržyno g. 53, LT-37139",
+    "vatcode": "LT100011939218"
+  },
+  {
     "name": "\"North Star Logistics\", UAB",
     "code": "306016181",
     "address": "Vilnius, Girulių g. 20, LT-12123"
@@ -1360,7 +1381,7 @@
   {
     "name": "Advance logistics, UAB",
     "code": "306204411",
-    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Auksinės g. 3, LT-92337",
+    "address": "Vilnius, Kaukysos g. 5-64, LT-11342",
     "vatcode": "LT100015594610"
   },
   {
@@ -1397,6 +1418,11 @@
     "code": "306080821",
     "address": "Kėdainių r. sav., Pelėdnagių sen., Pėdžių k., Barupės g. 34, LT-58149",
     "vatcode": "LT100015028711"
+  },
+  {
+    "name": "Baltic Freight Logistics UAB",
+    "code": "307192346",
+    "address": "Vilnius, Jurgio Baltrušaičio g. 11-124, LT-06145"
   },
   {
     "name": "Barsan Global Logistics Lithuania, UAB",
@@ -1520,7 +1546,8 @@
   {
     "name": "Gretvėja logistics, UAB",
     "code": "307176192",
-    "address": "Šiauliai, Vairo g. 2, LT-78140"
+    "address": "Šiauliai, Vairo g. 2, LT-78140",
+    "vatcode": "LT100018228912"
   },
   {
     "name": "Groward Logistics, UAB",
@@ -1908,12 +1935,6 @@
     "address": "Vilniaus r. sav., Bezdonių sen., Miškonių k., Nemenčinės pl. 266-2, LT-15165"
   },
   {
-    "name": "PS Food Logistics, UAB",
-    "code": "304926906",
-    "address": "Panevėžys, Beržyno g. 53, LT-37139",
-    "vatcode": "LT100011939218"
-  },
-  {
     "name": "Parnasas Logistics UAB",
     "code": "306333783",
     "address": "Vilnius, Metalo g. 2, LT-02190",
@@ -2069,8 +2090,7 @@
   {
     "name": "UAB \"ATS logistics\"",
     "code": "125699865",
-    "address": "Vilnius, Ugniagesių g. 12, LT-02244",
-    "vatcode": "LT256998610"
+    "address": "Vilnius, Ugniagesių g. 12, LT-02244"
   },
   {
     "name": "UAB \"AURIDA LOGISTICS SOLUTIONS\"",
@@ -2230,7 +2250,7 @@
   {
     "name": "UAB \"Cargoland logistics\"",
     "code": "301455534",
-    "address": "Vilnius, Gabijos g. 32, LT-06158",
+    "address": "Vilnius, Karaliaučiaus g. 31-103, LT-06245",
     "vatcode": "LT100003730712"
   },
   {
@@ -2254,7 +2274,7 @@
   {
     "name": "UAB \"Conjoin Logistics\"",
     "code": "306245340",
-    "address": "Vilnius, Kazio Borutos g. 24-1A, LT-08335"
+    "address": "Vilnius, Jurgio Matulaičio a. 11-82, LT-05111"
   },
   {
     "name": "UAB \"D&S Logistics\"",
@@ -2339,7 +2359,8 @@
   {
     "name": "UAB \"Euroaxis logistics\"",
     "code": "307094546",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100018341512"
   },
   {
     "name": "UAB \"Everes Logistics\"",
@@ -2491,7 +2512,8 @@
   {
     "name": "UAB \"ICM Logistics\"",
     "code": "307063860",
-    "address": "Vilnius, Trinapolio g. 3-21, LT-08337"
+    "address": "Vilnius, Trinapolio g. 3-21, LT-08337",
+    "vatcode": "LT100018350017"
   },
   {
     "name": "UAB \"IM Logistics\"",
@@ -2507,8 +2529,7 @@
   {
     "name": "UAB \"Iload logistics\"",
     "code": "305901197",
-    "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Liepų g. 23-2, LT-14182",
-    "vatcode": "LT100014406216"
+    "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Liepų g. 23-2, LT-14182"
   },
   {
     "name": "UAB \"Inalva logistics\"",
@@ -2552,7 +2573,8 @@
   {
     "name": "UAB \"KONA LOGISTICS\"",
     "code": "306526088",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100016661414"
   },
   {
     "name": "UAB \"KRKS Logistics\"",
@@ -3216,7 +3238,7 @@
   {
     "name": "UAB CASPIAN LOGISTICS",
     "code": "300104048",
-    "address": "Vilnius, Žalgirio g. 135, LT-08217",
+    "address": "Vilnius, Žirmūnų g. 139A-101, LT-09120",
     "vatcode": "LT100001634213"
   },
   {
@@ -3370,6 +3392,11 @@
     "vatcode": "LT100007513419"
   },
   {
+    "name": "UAB Jdv logistics",
+    "code": "307213541",
+    "address": "Vilnius, Genių g. 13A-410, LT-11213"
+  },
+  {
     "name": "UAB KLOJA LOGISTICS",
     "code": "303022503",
     "address": "Vilnius, Darželio g. 5-118, LT-11209"
@@ -3456,6 +3483,12 @@
     "vatcode": "LT100017257113"
   },
   {
+    "name": "UAB Masneka logistics",
+    "code": "307196953",
+    "address": "Kauno r. sav., Alšėnų sen., Jonučių k., Vyčio Kryžiaus g. 165, LT-53305",
+    "vatcode": "LT100018510010"
+  },
+  {
     "name": "UAB Mepa logistics",
     "code": "306961838",
     "address": "Gargždai, Karaliaus Mindaugo g. 3-1, LT-96144",
@@ -3475,7 +3508,7 @@
   {
     "name": "UAB Part Load Logistics",
     "code": "306109931",
-    "address": "Vilnius, Barsukynės g. 34E, LT-10238",
+    "address": "Vilnius, Justiniškių g. 69-10, LT-05100",
     "vatcode": "LT100015112217"
   },
   {
@@ -3955,6 +3988,11 @@
     "address": "Šilutė, Tilžės g. 24A-2, LT-99168"
   },
   {
+    "name": "MB Dba logistika",
+    "code": "307193487",
+    "address": "Panevėžys, Klaipėdos g. 87-19, LT-37104"
+  },
+  {
     "name": "MB Gapanovic logistika",
     "code": "306723559",
     "address": "Šilutė, Tilžės g. 24A-2, LT-99168"
@@ -3988,7 +4026,7 @@
   {
     "name": "MB Rm logistika",
     "code": "306962349",
-    "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Sakalėlių g. 2, LT-92400",
+    "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Vėveriškių g. 16, LT-92405",
     "vatcode": "LT100017072114"
   },
   {
@@ -4540,8 +4578,7 @@
   {
     "name": "UAB \"MAKS LOGISTIKA\"",
     "code": "300614478",
-    "address": "Vilnius, Uosių Sodų 2-oji g. 10, LT-10253",
-    "vatcode": "LT100002768119"
+    "address": "Vilnius, Uosių Sodų 2-oji g. 10, LT-10253"
   },
   {
     "name": "UAB \"MC Logistika\"",

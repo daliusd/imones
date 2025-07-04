@@ -110,6 +110,11 @@
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Dagilių g. 16, LT-54358"
   },
   {
+    "name": "MB Apricus Rent",
+    "code": "307200483",
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
+  },
+  {
     "name": "MB BSL Rent",
     "code": "306657529",
     "address": "Vilnius, A. Goštauto g. 8-358, LT-01108"
@@ -154,7 +159,13 @@
   {
     "name": "MB Jv rent",
     "code": "306369217",
-    "address": "Kaunas, Laisvės al. 27-1, LT-44311"
+    "address": "Kaunas, Laisvės al. 27-1, LT-44311",
+    "vatcode": "LT100018299518"
+  },
+  {
+    "name": "MB Kaunas Rent",
+    "code": "307218773",
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
   },
   {
     "name": "MB Memel rent",
@@ -162,10 +173,9 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės I k., Klausmylių g. 6, LT-91300"
   },
   {
-    "name": "MB Profi servise rent LT",
-    "code": "306368325",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
-    "vatcode": "LT100017648114"
+    "name": "MB Operators Rent EU",
+    "code": "307209272",
+    "address": "Vilnius, Eišiškių pl. 47-312, LT-02184"
   },
   {
     "name": "MB Rent 135 plus",
@@ -269,6 +279,11 @@
     "code": "306945606",
     "address": "Klaipėdos r. sav., Kretingalės sen., Karklės k., Placio g. 5, LT-92383",
     "vatcode": "LT100017382211"
+  },
+  {
+    "name": "S&P Rent, MB",
+    "code": "307191575",
+    "address": "Vilnius, A. Goštauto g. 8-224, LT-01108"
   },
   {
     "name": "Silent rent, UAB",
@@ -525,7 +540,8 @@
   {
     "name": "UAB Avectus rent",
     "code": "307151812",
-    "address": "Neringa, Pervalkos g. 12B, LT-93104"
+    "address": "Neringa, Pervalkos g. 12B, LT-93104",
+    "vatcode": "LT100018476612"
   },
   {
     "name": "UAB Brocar rent",
@@ -735,6 +751,11 @@
     "address": "Vilnius, K. Kalinausko g. 24-401, LT-03107"
   },
   {
+    "name": "Haasta Rental UAB",
+    "code": "307192759",
+    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
+  },
+  {
     "name": "Hansa LT Rental, UAB",
     "code": "305173009",
     "address": "Vilnius, Konstitucijos pr. 26, LT-08131",
@@ -756,6 +777,12 @@
     "code": "304856176",
     "address": "Vilniaus r. sav., Avižienių sen., Bajorų k., Vandenio g. 1E-2, LT-14189",
     "vatcode": "LT100011730110"
+  },
+  {
+    "name": "MB \"Ultimate Rental LT\"",
+    "code": "307194354",
+    "address": "Vilnius, Elbingo g. 6-8, LT-06285",
+    "vatcode": "LT100018393313"
   },
   {
     "name": "MB Artillerry motors rental society",
@@ -783,7 +810,8 @@
   {
     "name": "MB The Rental Store",
     "code": "307136237",
-    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Arkos g. 16-9, LT-14180"
+    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Arkos g. 16-9, LT-14180",
+    "vatcode": "LT100018281010"
   },
   {
     "name": "SIA \"AddCar rental\" filialas",
@@ -795,6 +823,11 @@
     "code": "305148504",
     "address": "Vilnius, Motorų g. 4, LT-02190",
     "vatcode": "LT100012346914"
+  },
+  {
+    "name": "UAB \"Apartment rental\"",
+    "code": "307209183",
+    "address": "Vilnius, Laisvės pr. 79E-61, LT-06122"
   },
   {
     "name": "UAB \"BALTIC TRAILER RENTAL\"",
@@ -1229,13 +1262,14 @@
   {
     "name": "UAB \"Rentita\"",
     "code": "305769685",
-    "address": "Šiauliai, Vilniaus g. 54-12, LT-76251",
+    "address": "Šiaulių r. sav., Bubių sen., Bubių k., Slėnio g. 3, LT-80212",
     "vatcode": "LT100014063219"
   },
   {
     "name": "Rentkara, UAB",
     "code": "302509508",
-    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Beržų g. 47, LT-54467"
+    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Beržų g. 47, LT-54467",
+    "vatcode": "LT100005990417"
   },
   {
     "name": "UAB Rentkasyba",
@@ -1411,6 +1445,11 @@
     "name": "UAB RentTuras",
     "code": "305718178",
     "address": "Šilalės r. sav., Šilalės kaimiškoji sen., Struikų k., Berželio g. 17, LT-75110"
+  },
+  {
+    "name": "Rentu, MB",
+    "code": "307219989",
+    "address": "Klaipėda, Liepų g. 54, LT-92106"
   },
   {
     "name": "MB \"Rentum\"",

@@ -377,8 +377,7 @@
   {
     "name": "\"Šilumos ir šalčio ekspertai\" MB",
     "code": "306726733",
-    "address": "Kaunas, Elniaragių tak. 11, LT-51336",
-    "vatcode": "LT100016876516"
+    "address": "Kaunas, Elniaragių tak. 11, LT-51336"
   },
   {
     "name": "\"Švietimo ekspertai\", UAB",
@@ -669,6 +668,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB Srovės ekspertai",
+    "code": "307196939",
+    "address": "Švenčionių r. sav., Kaltanėnai, Nepirių g. 11, LT-18239"
+  },
+  {
     "name": "MB Technologinių sprendimų ekspertai",
     "code": "307099504",
     "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
@@ -754,7 +758,8 @@
   {
     "name": "UAB \"Būsto ekspertai\"",
     "code": "307140545",
-    "address": "Vilnius, Lvivo g. 21A, LT-09313"
+    "address": "Vilnius, Lvivo g. 21A, LT-09313",
+    "vatcode": "LT100018324815"
   },
   {
     "name": "UAB \"Dantų gaminimo ekspertai\"",
@@ -1044,12 +1049,6 @@
     "address": "Vilnius, Lazdynėlių g. 16B-16, LT-04126"
   },
   {
-    "name": "UŽDAROJI AKCINĖ BENDROVĖ \"REKLAMOS EKSPERTAI\"",
-    "code": "125683156",
-    "address": "Vilnius, A. Smetonos g. 7, LT-01115",
-    "vatcode": "LT256831515"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Autostiklų ekspertai\"",
     "code": "135790797",
     "address": "Kaunas, A. Baranausko g. 19A-47, LT-50239"
@@ -1327,7 +1326,8 @@
   {
     "name": "MB Kuro sistemų ekspertizė",
     "code": "307120998",
-    "address": "Vilniaus r. sav., Zujūnų sen., Vilkeliškių k., Cintų g. 14, LT-14167"
+    "address": "Vilniaus r. sav., Zujūnų sen., Vilkeliškių k., Cintų g. 14, LT-14167",
+    "vatcode": "LT100018358719"
   },
   {
     "name": "UAB \"Ekspertizė\"",
@@ -2768,7 +2768,7 @@
   {
     "name": "271-oji garažų statybos ir eksploatavimo bendrija",
     "code": "135397979",
-    "address": "Kaunas, A. Stulginskio g. 64-16, LT-48378"
+    "address": "Kaunas, A. Stulginskio g. 66, LT-48378"
   },
   {
     "name": "272-oji garažų statybos ir eksploatavimo bendrija",
@@ -4130,7 +4130,7 @@
   {
     "name": "540-oji garažų statybos ir eksploatavimo bendrija",
     "code": "124752813",
-    "address": "Vilnius, Turgelių g. 2"
+    "address": "Vilnius, Turgelių g. 16, LT-02103"
   },
   {
     "name": "541-oji garažų statybos ir eksploatavimo bendrija",
@@ -4881,7 +4881,7 @@
   {
     "name": "76-oji garažų eksploatavimo bendrija Mickevičiaus g.",
     "code": "145584112",
-    "address": "Šiauliai, A. Mickevičiaus g."
+    "address": "Šiauliai, A. Mickevičiaus g. 34, LT-77168"
   },
   {
     "name": "76-oji garažų statybos ir eksploatavimo bendrija",
@@ -5001,7 +5001,7 @@
   {
     "name": "86-oji gyvenamųjų namų Vievio g. 72 ir 74 eksploatavimo butų savininkų bendrija",
     "code": "135388581",
-    "address": "Kaunas, Vievio g. 72-17, LT-44424"
+    "address": "Kaunas, Vievio g. 72-23, LT-44424"
   },
   {
     "name": "87-oji garažų eksploatavimo bendrija Energetikų g. 3a",
@@ -5651,7 +5651,7 @@
   {
     "name": "Garažų eksploatavimo bendrija \"RŪTA\"",
     "code": "160324011",
-    "address": "Kupiškis, Slavinčiškio g. 2, LT-40118"
+    "address": "Kupiškis, Slavinčiškio g. 12K, LT-40118"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Rūkas\"",
@@ -6431,7 +6431,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Energetikas-3\"",
     "code": "155960495",
-    "address": "Visaginas, Kosmoso g. 9C, LT-31104"
+    "address": "Visaginas, Kosmoso g. 9C-608A, LT-31104"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Energetikas-4\"",
@@ -6776,7 +6776,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Malūnas\"",
     "code": "180746365",
-    "address": "Telšiai, Palangos g."
+    "address": "Telšiai, Palangos g. 47F, LT-87127"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Marios\"",
@@ -7236,7 +7236,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Safija\"",
     "code": "135348672",
-    "address": "Kaunas, V. Krėvės pr. 122-8, LT-51117"
+    "address": "Kaunas, V. Krėvės pr. 122-86, LT-51114"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Sakalas\"",
@@ -8502,7 +8502,7 @@
   {
     "name": "Plungės garažų eksploatavimo bendrija \"Signalas\"",
     "code": "170546099",
-    "address": "Plungė, V. Mačernio g."
+    "address": "Plungė, V. Mačernio g. 21-31, LT-90141"
   },
   {
     "name": "Plungės garažų statybos ir eksploatavimo bendrija \"Raktelis\"",
@@ -8894,7 +8894,7 @@
   {
     "name": "IĮ \"Eksportas, importas ir konsultacija\"",
     "code": "304174019",
-    "address": "Vilnius, Salomėjos Nėries g. 105-66, LT-12116"
+    "address": "Anykščių r. sav., Kavarsko sen., Janonių k., Janonių g. 8, LT-29240"
   },
   {
     "name": "MB \"Elektroninis eksportas\"",

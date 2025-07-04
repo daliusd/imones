@@ -282,6 +282,11 @@
     "vatcode": "LT100017035019"
   },
   {
+    "name": "MB Kaunas Rent",
+    "code": "307218773",
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
+  },
+  {
     "name": "MB Kaunas instruments",
     "code": "306174765",
     "address": "Kaunas, Energetikų g. 48-19, LT-52485"
@@ -672,7 +677,8 @@
   {
     "name": "VšĮ FA KAUNAS",
     "code": "306181717",
-    "address": "Kaunas, Varpo g. 22-18, LT-51363"
+    "address": "Kaunas, Varpo g. 22-18, LT-51363",
+    "vatcode": "LT100018358910"
   },
   {
     "name": "VšĮ Kaunas Curling Club",
@@ -834,7 +840,7 @@
   {
     "name": "Daugiabučio namo, esančio Mažoji g. 7A, Kaune savininkų bendrija",
     "code": "300549475",
-    "address": "Kaunas, Mažoji g. 7A-30, LT-45309"
+    "address": "Kaunas, Mažoji g. 7A-9, LT-45309"
   },
   {
     "name": "Fiskaras Kaune MB",
@@ -1764,11 +1770,6 @@
     "address": "Kaunas, Vaidoto g. 26A, LT-45318"
   },
   {
-    "name": "Kauno Panemunės pradinės mokyklos paramos fondas",
-    "code": "135669678",
-    "address": "Kaunas, Partizanų g. 15A, LT-50203"
-  },
-  {
     "name": "Kauno Panemunės progimnazija",
     "code": "190140775",
     "address": "Kaunas, Kariūnų pl. 5, LT-45432"
@@ -2259,7 +2260,7 @@
   {
     "name": "Kauno aviamodelizmo klubas",
     "code": "235193290",
-    "address": "Kaunas, Veiverių g. 132, LT-46337"
+    "address": "Kauno r. sav., Akademija, Gilių g. 13, LT-53372"
   },
   {
     "name": "Kauno aviatorių klubas \"Oranžinis dangus\"",
@@ -2600,6 +2601,11 @@
     "name": "Kauno irklavimo klubas \"Favoritas\"",
     "code": "193412376",
     "address": "Kaunas, Rasytės g. 32-32, LT-48116"
+  },
+  {
+    "name": "Kauno istorinių automobilių klubas Klasika",
+    "code": "307203401",
+    "address": "Kaunas, Alsėdžių g. 16, LT-44474"
   },
   {
     "name": "Kauno jachtklubas, UAB",
@@ -3438,7 +3444,7 @@
   {
     "name": "Kauno medžiotojų klubas \"Ova\"",
     "code": "191612353",
-    "address": "Kauno r. sav., Zapyškio sen., Altoniškių k."
+    "address": "Kauno r. sav., Zapyškio sen., Novos k., Medžiotojų g. 1, LT-53413"
   },
   {
     "name": "Kauno medžiotojų klubas \"Pajiesys\"",
@@ -3720,7 +3726,7 @@
   {
     "name": "Kauno moterų klubas \"LIONS\"",
     "code": "304638213",
-    "address": "Kauno r. sav., Samylų sen., Gervėnupio k., Ąžuolyno g. 10, LT-53162"
+    "address": "Kaunas, Kapsų g. 4A-2, LT-50175"
   },
   {
     "name": "Kauno moterų rankinio klubas \"Žalgiris\"",
@@ -4740,7 +4746,7 @@
   {
     "name": "Kauno skrydžių vadovų profesinė sąjunga",
     "code": "193170325",
-    "address": "Kauno r. sav., Karmėlava"
+    "address": "Kauno r. sav., Karmėlava, Oro Uosto g. 4-2, LT-54459"
   },
   {
     "name": "Kauno smiginio klubas \"Trajektorija\"",
@@ -5155,11 +5161,6 @@
     "name": "Kauno vaikų ir jaunimo futbolo mokykla \"Ąžuolas\"",
     "code": "302766716",
     "address": "Kaunas, E. Fryko g. 23-8, LT-44229"
-  },
-  {
-    "name": "Kauno vaikų šokių teatras \"Gijelė\"",
-    "code": "193260331",
-    "address": "Kaunas, Kovo 11-osios g. 26, LT-51349"
   },
   {
     "name": "Kauno valstybinio muzikinio teatro darbuotojų profesinė sąjunga",
@@ -5989,6 +5990,12 @@
     "code": "304112882",
     "address": "Kaunas, Drobės g. 26, LT-45223",
     "vatcode": "LT100017093016"
+  },
+  {
+    "name": "MB Kauno sodo parko technikos centras",
+    "code": "306368325",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
+    "vatcode": "LT100017648114"
   },
   {
     "name": "MB Kauno statybų ranga",
@@ -7374,7 +7381,7 @@
   {
     "name": "Viešoji įstaiga \"Kauno bienalė\"",
     "code": "302751123",
-    "address": "Kaunas, Plento g. 1D, LT-45393"
+    "address": "Kaunas, Šv. Gertrūdos g. 27-6, LT-44284"
   },
   {
     "name": "Viešoji įstaiga \"Kauno jogos namai\"",

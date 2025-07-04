@@ -28,6 +28,11 @@
     "vatcode": "LT115565113"
   },
   {
+    "name": "City Storage Holding, UAB",
+    "code": "307190014",
+    "address": "Vilnius, M. Valančiaus g. 7, LT-03158"
+  },
+  {
     "name": "KŪB Self Storage 1",
     "code": "305344435",
     "address": "Vilnius, Švitrigailos g. 11A, LT-03228"
@@ -234,7 +239,8 @@
   {
     "name": "MB The Rental Store",
     "code": "307136237",
-    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Arkos g. 16-9, LT-14180"
+    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Arkos g. 16-9, LT-14180",
+    "vatcode": "LT100018281010"
   },
   {
     "name": "Mažoji bendrija Gp store",
@@ -312,18 +318,14 @@
   {
     "name": "MB Stori vilkai",
     "code": "307158536",
-    "address": "Palanga, Liepojos pl. 19, LT-00300"
+    "address": "Palanga, Liepojos pl. 19, LT-00300",
+    "vatcode": "LT100018461614"
   },
   {
     "name": "UAB \"Stori siūlai\"",
     "code": "304855416",
     "address": "Vilniaus r. sav., Nemenčinės sen., Raudondvario k., Pušyno g. 18, LT-15166",
     "vatcode": "LT100011698910"
-  },
-  {
-    "name": "Mažoji bendrija \"La Storia\"",
-    "code": "303131545",
-    "address": "Vilnius, Bistryčios g. 9-514, LT-10320"
   },
   {
     "name": "MB \"Storida\"",
@@ -345,6 +347,11 @@
     "name": "MB \"Baltic stories\"",
     "code": "306690493",
     "address": "Vilnius, Saulėtekio al. 53-4, LT-10228"
+  },
+  {
+    "name": "MB \"E&M stories\"",
+    "code": "307198872",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Stories to hug\"",
@@ -485,8 +492,7 @@
   {
     "name": "MB STORM events LT",
     "code": "305584284",
-    "address": "Vilnius, Spaudos g. 9-51, LT-05132",
-    "vatcode": "LT100013253916"
+    "address": "Vilnius, Spaudos g. 9-51, LT-05132"
   },
   {
     "name": "MB STORM media LT",
@@ -628,7 +634,8 @@
   {
     "name": "Redefined story MB",
     "code": "306362468",
-    "address": "Vilnius, Didlaukio g. 80-96, LT-08326"
+    "address": "Vilnius, Didlaukio g. 80-96, LT-08326",
+    "vatcode": "LT100018392012"
   },
   {
     "name": "UAB Crypto Story Business",

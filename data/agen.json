@@ -46,7 +46,8 @@
   {
     "name": "Alter Domus Agency Services Europe, UAB",
     "code": "305900152",
-    "address": "Vilnius, Lvivo g. 25-104, LT-09320"
+    "address": "Vilnius, Lvivo g. 25-104, LT-09320",
+    "vatcode": "LT100018508210"
   },
   {
     "name": "Amica agency, MB",
@@ -454,6 +455,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB So agency",
+    "code": "307202477",
+    "address": "Vilnius, Simono Grunau g. 48-6, LT-06243"
+  },
+  {
     "name": "MB Soundmakers agency",
     "code": "306970036",
     "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
@@ -536,6 +542,11 @@
     "name": "The Jewish Agency for Israel atstovybė",
     "code": "300144612",
     "address": "Vilnius, Didžioji g. 23, LT-01128"
+  },
+  {
+    "name": "The Proper Agency, MB",
+    "code": "307125867",
+    "address": "Vilnius, A. Goštauto g. 8-304, LT-01108"
   },
   {
     "name": "UAB \"Agency 7'",
@@ -713,8 +724,7 @@
   {
     "name": "UAB ASK consulting agency",
     "code": "305868384",
-    "address": "Trakų r. sav., Lentvario sen., Kiemeliškių k., Grigiškių g. 2, LT-25100",
-    "vatcode": "LT100014819617"
+    "address": "Trakų r. sav., Lentvario sen., Kiemeliškių k., Grigiškių g. 2, LT-25100"
   },
   {
     "name": "UAB Agency up",
@@ -731,11 +741,6 @@
     "name": "UAB Baltic Investment Agency",
     "code": "307022664",
     "address": "Kaunas, Islandijos pl. 95-57, LT-49176"
-  },
-  {
-    "name": "UAB Carma agency",
-    "code": "306689498",
-    "address": "Šilutė, Nemuno g. 26A, LT-99150"
   },
   {
     "name": "UAB Content me agency",
@@ -1018,11 +1023,6 @@
     "vatcode": "LT100016020116"
   },
   {
-    "name": "Editos Petrušauskienės spaudos platinimo agentūra",
-    "code": "152836745",
-    "address": "Birštonas, Vytauto g. 5, LT-59211"
-  },
-  {
     "name": "Europos socialinio fondo agentūra",
     "code": "192050725",
     "address": "Vilnius, M. Katkaus g. 44, LT-09217",
@@ -1064,12 +1064,7 @@
   {
     "name": "Jaunimo reikalų agentūra",
     "code": "188681478",
-    "address": "Vilnius, Vytenio g. 6, LT-03113"
-  },
-  {
-    "name": "K. Juškos reklamos agentūra \"Kita spalva\"",
-    "code": "133982717",
-    "address": "Kaunas, Studentų g. 67, LT-51392"
+    "address": "Vilnius, Vytenio g. 6-111, LT-03113"
   },
   {
     "name": "Kauno būsto modernizavimo agentūra",
@@ -1090,11 +1085,6 @@
     "name": "Komunikacijos agentūra, UAB",
     "code": "303161435",
     "address": "Vilnius, Mindaugo g. 27-349, LT-03210"
-  },
-  {
-    "name": "L. Dalbokaitės reklamos agentūra \"Baltas kontūras\"",
-    "code": "134266635",
-    "address": "Kaunas, Kovo 11-osios g. 84-16, LT-50446"
   },
   {
     "name": "Labdaros ir paramos fondo Gargždų vaikų globos agentūra",
@@ -1291,11 +1281,6 @@
     "name": "R. Bartkevičienės reklamos agentūra",
     "code": "122154639",
     "address": "Vilnius, Antakalnio g. 48-11, LT-10304"
-  },
-  {
-    "name": "R. Savickienės agentūra \"TRAVELINA\"",
-    "code": "141813784",
-    "address": "Klaipėda, Baltijos pr. 16-521, LT-94109"
   },
   {
     "name": "Ramunės Garšvienės patentinio patikėtinio agentūra",
@@ -1593,11 +1578,6 @@
     "vatcode": "LT409327416"
   },
   {
-    "name": "UAB Kelionių agentūra \"Sky fly\"",
-    "code": "303514892",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
-  },
-  {
     "name": "UAB LAIVŲ APTARNAVIMO AGENTŪRA",
     "code": "142168742",
     "address": "Klaipėda, Vilhelmo Berbomo g. 5-7, LT-92219",
@@ -1693,12 +1673,6 @@
     "code": "140809427",
     "address": "Klaipėda, J. Zauerveino g. 21-3",
     "vatcode": "LT408094219"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"KĖDAINIŲ NEPRIKLAUSOMŲ PATARĖJŲ AGENTŪRA\"",
-    "code": "161621243",
-    "address": "Kėdainiai, J. Basanavičiaus g. 95, LT-57352",
-    "vatcode": "LT616212413"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"NIJOLĖS KELIONIŲ AGENTŪRA\"",
@@ -2050,7 +2024,7 @@
   {
     "name": "Jaunimo reikalų agentūros darbuotojų profesinė sąjunga",
     "code": "302333768",
-    "address": "Vilnius, Vytenio g. 6, LT-03113"
+    "address": "Vilnius, Vytenio g. 6-111, LT-03113"
   },
   {
     "name": "Lenkijos Žemės ūkio rinkos agentūros maklerių rūmų \"TRANS ARR\" atstovybė",
@@ -2075,7 +2049,7 @@
   {
     "name": "Transporto kompetencijų agentūros darbuotojų profesinė sąjunga",
     "code": "305099441",
-    "address": "Kaunas, I. Kanto g. 25, LT-44296"
+    "address": "Kaunas, I. Kanto g. 25-2, LT-44296"
   },
   {
     "name": "Valstybės duomenų agentūros valstybės tarnautojų ir darbuotojų profesinė sąjunga",

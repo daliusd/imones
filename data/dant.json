@@ -68,12 +68,6 @@
     "vatcode": "LT100018148214"
   },
   {
-    "name": "MB \"Danteta\"",
-    "code": "303255308",
-    "address": "Alytus, Likiškėlių g. 94-6, LT-63357",
-    "vatcode": "LT100009860410"
-  },
-  {
     "name": "UAB \"DANTEX BALTIC\"",
     "code": "302613147",
     "address": "Vilnius, Savanorių pr. 174P, LT-03153"
@@ -356,7 +350,8 @@
   {
     "name": "MB \"33 dantys\"",
     "code": "304875536",
-    "address": "Šiauliai, Varpo g. 17-3, LT-76348"
+    "address": "Šiauliai, Varpo g. 17-3, LT-76348",
+    "vatcode": "LT100018259216"
   },
   {
     "name": "MB \"Cukriniai dantys\"",
@@ -428,7 +423,8 @@
   {
     "name": "UAB \"GRAŽŪS DANTYS\"",
     "code": "125740970",
-    "address": "Vilnius, T. Kosciuškos g. 26, LT-01100"
+    "address": "Vilnius, T. Kosciuškos g. 26, LT-01100",
+    "vatcode": "LT100018410811"
   },
   {
     "name": "UAB \"Meniški dantys\"",
@@ -675,6 +671,11 @@
     "address": "Kaunas, Savanorių pr. 271-102, LT-50131"
   },
   {
+    "name": "MB Damalako dantų techniko laboratorija",
+    "code": "134064530",
+    "address": "Kaišiadorys, Ievų g. 3, LT-56176"
+  },
+  {
     "name": "MB Dantų dizainerių klinika",
     "code": "305395426",
     "address": "Vilnius, A. Mickevičiaus g. 2-5, LT-08119"
@@ -749,11 +750,6 @@
     "name": "O. Stankevičienės dantų protezų gamybos individuali įmonė",
     "code": "300080490",
     "address": "Jurbarkas, Dariaus ir Girėno g. 97-17, LT-74185"
-  },
-  {
-    "name": "Ritos Klimaitienės dantų gydymo kabinetas",
-    "code": "174357473",
-    "address": "Šakiai, V. Kudirkos g. 51-1, LT-71125"
   },
   {
     "name": "Stebuklingas dantų pasaulis, MB",
@@ -956,11 +952,6 @@
     "address": "Kaunas, Savanorių pr. 314A-1, LT-49452"
   },
   {
-    "name": "UAB Damalako dantų techniko laboratorija",
-    "code": "134064530",
-    "address": "Kaišiadorys, Ievų g. 3, LT-56176"
-  },
-  {
     "name": "UAB Dantų bohemia",
     "code": "304936284",
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
@@ -968,7 +959,8 @@
   {
     "name": "UAB Dantų centras",
     "code": "301819518",
-    "address": "Panevėžys, Dariaus ir Girėno g. 3-33, LT-37367"
+    "address": "Panevėžys, Dariaus ir Girėno g. 3-33, LT-37367",
+    "vatcode": "LT100018308411"
   },
   {
     "name": "UAB Dantų estetikos centras",
@@ -978,7 +970,8 @@
   {
     "name": "UAB Dantų estetikos klinika",
     "code": "304444009",
-    "address": "Kaunas, Aukštaičių g. 62A, LT-50284"
+    "address": "Kaunas, Aukštaičių g. 62A, LT-50284",
+    "vatcode": "LT100018506214"
   },
   {
     "name": "UAB Dantų implantologijos centras",
