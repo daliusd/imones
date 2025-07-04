@@ -79,7 +79,8 @@
   {
     "name": "UAB Alameda globa",
     "code": "306083746",
-    "address": "Kaunas, Vaižganto g. 7-17, LT-44221"
+    "address": "Kaunas, Vaižganto g. 7-17, LT-44221",
+    "vatcode": "LT100018315210"
   },
   {
     "name": "Viešoji įstaiga \"Tikroji globa\"",
@@ -548,6 +549,11 @@
     "vatcode": "LT100016666415"
   },
   {
+    "name": "MB \"Global Baltic\"",
+    "code": "307208996",
+    "address": "Vilnius, J. Kubiliaus g. 23, LT-09108"
+  },
+  {
     "name": "MB \"Global Deals\"",
     "code": "304545378",
     "address": "Vilnius, Savanorių pr. 41-35, LT-03129"
@@ -664,7 +670,8 @@
   {
     "name": "MB \"Splendid Global\"",
     "code": "307167414",
-    "address": "Skuodo r. sav., Notėnų sen., Notėnų k., Liepų g. 4, LT-98261"
+    "address": "Skuodo r. sav., Notėnų sen., Notėnų k., Liepų g. 4, LT-98261",
+    "vatcode": "LT100018309014"
   },
   {
     "name": "MB \"Technolink Global\"",
@@ -699,7 +706,8 @@
   {
     "name": "MB BecomeProFC GLOBAL",
     "code": "307149640",
-    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221",
+    "vatcode": "LT100018243212"
   },
   {
     "name": "MB Global Aviamtech",
@@ -768,6 +776,11 @@
     "name": "MB JR Global",
     "code": "306992876",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "MB Nuvia global",
+    "code": "307216982",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "MB Stancelis global projects",
@@ -894,6 +907,12 @@
     "code": "303247076",
     "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Alksnių k., Švyturio g. 19, LT-96177",
     "vatcode": "LT100008389512"
+  },
+  {
+    "name": "UAB \"Campers 365 Global\"",
+    "code": "307093832",
+    "address": "Vilnius, Konstitucijos pr. 9-112, LT-09308",
+    "vatcode": "LT100017640417"
   },
   {
     "name": "UAB \"Chronos Global\"",
@@ -1350,6 +1369,12 @@
     "address": "Vilnius, Girulių g. 20, LT-12123"
   },
   {
+    "name": "UAB FT Global",
+    "code": "306920688",
+    "address": "Marijampolės sav., Marijampolės sen., Nendriniškių k., Juodelių g. 8, LT-69490",
+    "vatcode": "LT100017044815"
+  },
+  {
     "name": "UAB Fpro sports global",
     "code": "306058967",
     "address": "Šiauliai, Tilžės g. 68, LT-78157",
@@ -1483,7 +1508,7 @@
   {
     "name": "UAB Kiddooo global",
     "code": "306337696",
-    "address": "Vilnius, Odminių g. 14-7, LT-01121",
+    "address": "Vilnius, Olimpiečių g. 1-44, LT-09235",
     "vatcode": "LT100017324315"
   },
   {
@@ -1537,8 +1562,7 @@
   {
     "name": "UAB Synkarb global",
     "code": "302681721",
-    "address": "Molėtų r. sav., Inturkės sen., Mikalojiškio k. 5, LT-33215",
-    "vatcode": "LT100011654818"
+    "address": "Molėtų r. sav., Inturkės sen., Mikalojiškio k. 5, LT-33215"
   },
   {
     "name": "UAB The Cloud Global",
@@ -1582,11 +1606,6 @@
     "name": "VFS Global Services Lithuania UAB",
     "code": "304435387",
     "address": "Vilnius, Antano Tumėno g. 4, LT-01109"
-  },
-  {
-    "name": "VTK Global Investments and Trading, UAB",
-    "code": "305403481",
-    "address": "Vilnius, Konstitucijos pr. 21A, LT-08105"
   },
   {
     "name": "ViVi Global Commerce Group, MB",
@@ -1734,11 +1753,6 @@
     "vatcode": "LT100010135814"
   },
   {
-    "name": "UAB \"Globali siunta\"",
-    "code": "304948767",
-    "address": "Kaunas, Alšėnų g. 67, LT-46395"
-  },
-  {
     "name": "UAB \"Globali technologija\"",
     "code": "303641352",
     "address": "Vilnius, Žemaitės g. 22-3, LT-03201",
@@ -1806,12 +1820,6 @@
     "name": "UAB \"Globalpeak\"",
     "code": "305930206",
     "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194"
-  },
-  {
-    "name": "UAB Campers 365 Globals",
-    "code": "307093832",
-    "address": "Vilnius, Konstitucijos pr. 9-112, LT-09308",
-    "vatcode": "LT100017640417"
   },
   {
     "name": "UAB \"Globalsolas\"",
@@ -1922,6 +1930,12 @@
     "code": "302841987",
     "address": "Širvintų r. sav., Zibalų sen., Staškūniškio k., Maumedžio g. 1, LT-19106",
     "vatcode": "LT100015301618"
+  },
+  {
+    "name": "UAB Globara",
+    "code": "304316917",
+    "address": "Kaunas, K. Donelaičio g. 60, LT-44248",
+    "vatcode": "LT100010397514"
   },
   {
     "name": "MB Globard group",
@@ -2272,6 +2286,11 @@
     "name": "Etninės kultūros globos taryba",
     "code": "188756614",
     "address": "Vilnius, Gedimino pr. 60, LT-01110"
+  },
+  {
+    "name": "Globos bitės MB",
+    "code": "307218549",
+    "address": "Kretingos r. sav., Salantai, Palangos Juzės g. 5, LT-97324"
   },
   {
     "name": "Gyvūnų globos klubas \"Draugo letena\"",
@@ -3351,11 +3370,6 @@
     "name": "Sodininkų bendrija \"GLOBUS\"",
     "code": "191462665",
     "address": "Vilniaus r. sav., Sudervės sen., Rastinėnų k., Gaublio g. 20, LT-14213"
-  },
-  {
-    "name": "UAB \"GLOBUS TRADE LT\"",
-    "code": "302508648",
-    "address": "Vilnius, Savanorių pr. 1, LT-03116"
   },
   {
     "name": "UAB \"Globus Bemanning\"",

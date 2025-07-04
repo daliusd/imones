@@ -54,7 +54,7 @@
   {
     "name": "Remode Ventures, MB",
     "code": "306071256",
-    "address": "Ukmergė, Deltuvos g. 6-8, LT-20120",
+    "address": "Vilnius, Antakalnio g. 17, LT-10312",
     "vatcode": "LT100014941014"
   },
   {
@@ -135,7 +135,8 @@
   {
     "name": "Laiptinės remontas, MB",
     "code": "306864645",
-    "address": "Panevėžys, A. Smetonos g. 25-6, LT-35197"
+    "address": "Panevėžys, A. Smetonos g. 25-6, LT-35197",
+    "vatcode": "LT100018460818"
   },
   {
     "name": "MB \"Azbuka remontas\"",
@@ -220,13 +221,19 @@
   {
     "name": "MB Kompleksinis remontas",
     "code": "307085084",
-    "address": "Molėtų r. sav., Inturkės sen., Sadaniškių k. 5, LT-33241"
+    "address": "Molėtų r. sav., Inturkės sen., Sadaniškių k. 5, LT-33241",
+    "vatcode": "LT100018483817"
   },
   {
     "name": "MB Ktr turbinų remontas",
     "code": "305938498",
     "address": "Kaunas, Maišio g. 26, LT-46139",
     "vatcode": "LT100014512711"
+  },
+  {
+    "name": "MB Nuoma ir remontas",
+    "code": "307192200",
+    "address": "Vilnius, Užupio g. 38-2, LT-01203"
   },
   {
     "name": "MB Vilio auto remontas",
@@ -390,8 +397,7 @@
   {
     "name": "UAB \"Remontechas\"",
     "code": "305236018",
-    "address": "Alytus, Statybininkų g. 30-16, LT-63417",
-    "vatcode": "LT100012583316"
+    "address": "Alytus, Statybininkų g. 30-16, LT-63417"
   },
   {
     "name": "MB \"Remontegis\"",
@@ -451,11 +457,6 @@
     "address": "Molėtai, Melioratorių g. 5-27, LT-33116"
   },
   {
-    "name": "A. Ručinsko automobilių remonto įmonė",
-    "code": "153040637",
-    "address": "Šiauliai, Kauno g. 29, LT-78104"
-  },
-  {
     "name": "A. Taruškos automobilių remonto įmonė",
     "code": "168546626",
     "address": "Panevėžio r. sav., Velžio sen., Stetiškių k."
@@ -497,16 +498,6 @@
     "address": "Šiauliai, Gamybos g. 5, LT-76128"
   },
   {
-    "name": "Alfredo Jurkevičiaus avalynės remonto dirbtuvė",
-    "code": "156547058",
-    "address": "Jonava, Ąžuolų g. 6-2, LT-55116"
-  },
-  {
-    "name": "Anatolijus Lysenkos automobilių remonto cechas",
-    "code": "261115040",
-    "address": "Kėdainiai, Eglių g. 19, LT-57313"
-  },
-  {
     "name": "Antano Jankūno personalinė automobilių remonto ir krovinių pervežimo įmonė",
     "code": "178215998",
     "address": "Širvintos, Saulėtekio g. 4, LT-19125"
@@ -520,11 +511,6 @@
     "name": "Artūro Raščiaus lengvųjų automobilių remonto įmonė \"Aidas\"",
     "code": "254129310",
     "address": "Anykščiai, Pilies g. 16, LT-29109"
-  },
-  {
-    "name": "Ažukaičio lengvųjų automobilių remonto įmonė",
-    "code": "151059628",
-    "address": "Marijampolė, Tarpučių g. 45, LT-68150"
   },
   {
     "name": "Blekio automobilių remonto įmonė",
@@ -614,11 +600,6 @@
     "name": "J. Jankausko automobilių remonto įmonė",
     "code": "173163152",
     "address": "Rokiškio r. sav., Rokiškio kaimiškoji sen., Bajorų k., Ežero g. 23, LT-42102"
-  },
-  {
-    "name": "J. Jaručio automobilių remonto įmonė",
-    "code": "173918380",
-    "address": "Skuodas, Mosėdžio g. 60, LT-98121"
   },
   {
     "name": "Jono Genučio smulkaus automobilių remonto įmonė",
@@ -904,11 +885,6 @@
     "address": "Šalčininkai, Vytauto g. 1, LT-17111"
   },
   {
-    "name": "V. Šikšniaus automobilių remonto įmonė",
-    "code": "164203854",
-    "address": "Kretinga, Melioratorių g. 77-22, LT-97189"
-  },
-  {
     "name": "V. Šimonėlio automobilių remonto įmonė \"Žvilgesys\"",
     "code": "183654623",
     "address": "Utenos r. sav., Leliūnų sen., Šilinės k."
@@ -938,11 +914,6 @@
     "code": "157596147",
     "address": "Joniškis, Draugystės g. 8-1, LT-84136",
     "vatcode": "LT100003074316"
-  },
-  {
-    "name": "Vladimiro Paulausko automobilių remonto įmonė",
-    "code": "261414530",
-    "address": "Kėdainiai, Gegučių g. 17-60, LT-57460"
   },
   {
     "name": "Vytauto Venckaus remonto darbų įmonės Nr.13 profesinė sąjunga",
@@ -1056,7 +1027,7 @@
   {
     "name": "MB \"Remounit\"",
     "code": "305668362",
-    "address": "Vilkaviškio r. sav., Pajevonio sen., Užbalių k., Karalkrėslio g. 9-2, LT-70361"
+    "address": "Šakių r. sav., Gelgaudiškio sen., Daukantiškių k., Miško g. 4, LT-71433"
   },
   {
     "name": "MB Remova",

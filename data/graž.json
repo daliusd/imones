@@ -15,16 +15,6 @@
     "address": "Kauno r. sav., Užliedžių sen., Romainių k., Upės g. 6, LT-54318"
   },
   {
-    "name": "Graževičiaus taksi",
-    "code": "184502561",
-    "address": "Varėna, J. Basanavičiaus g. 18-4, LT-65217"
-  },
-  {
-    "name": "H. Graževičiaus individuali įmonė",
-    "code": "174587556",
-    "address": "Skuodo r. sav., Skuodo sen., Luknių k., Ilgoji g. 3, LT-98294"
-  },
-  {
     "name": "DNSB \"Graži pastogė\"",
     "code": "304221344",
     "address": "Klaipėdos r. sav., Kretingalė, Klaipėdos g. 4-1, LT-96332"
@@ -68,7 +58,8 @@
   {
     "name": "MB \"Graži svaja\"",
     "code": "303054351",
-    "address": "Mažeikiai, Laisvės g. 198B, LT-89305"
+    "address": "Mažeikiai, Laisvės g. 198B, LT-89305",
+    "vatcode": "LT100007707619"
   },
   {
     "name": "MB \"Graži šypsena\"",
@@ -252,11 +243,6 @@
     "vatcode": "LT553010416"
   },
   {
-    "name": "Gražinos Karaliūnienės vaistinė",
-    "code": "134478467",
-    "address": "Kaunas, V. Krėvės pr. 43, LT-49440"
-  },
-  {
     "name": "Gražinos Kulevičienės individuali įmonė",
     "code": "167395096",
     "address": "Mažeikiai, Sodų g. 10-24, LT-89116"
@@ -346,16 +332,6 @@
     "name": "Gražinos g. 50-ojo daugiabučio namo savininkų bendrija",
     "code": "300549621",
     "address": "Kaunas, Liutauro aklg. 8, LT-50228"
-  },
-  {
-    "name": "Gražinos Čelkienės kirpykla",
-    "code": "133820220",
-    "address": "Kaunas, Rasytės g. 42-54, LT-48114"
-  },
-  {
-    "name": "Gražinos Šimoliūnienės dizaino studija",
-    "code": "144945314",
-    "address": "Šiauliai, Vilniaus g. 249-60, LT-76343"
   },
   {
     "name": "Gražinos Špokienės įmonė",
@@ -809,16 +785,6 @@
     "vatcode": "LT801598811"
   },
   {
-    "name": "Gražvydo Dubinsko įmonė",
-    "code": "272428780",
-    "address": "Raseinių r. sav., Kalnujų sen., Pašaltuonio I k."
-  },
-  {
-    "name": "Gražvydo Gulbinsko įmonė",
-    "code": "133219554",
-    "address": "Kaunas, Kęstučio g. 66-6, LT-44304"
-  },
-  {
     "name": "UAB Gražvydo Paslaugos",
     "code": "306718195",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282",
@@ -871,7 +837,8 @@
   {
     "name": "UAB \"GRAŽŪS DANTYS\"",
     "code": "125740970",
-    "address": "Vilnius, T. Kosciuškos g. 26, LT-01100"
+    "address": "Vilnius, T. Kosciuškos g. 26, LT-01100",
+    "vatcode": "LT100018410811"
   },
   {
     "name": "UAB \"Gražūs leidiniai\"",

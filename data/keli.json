@@ -11,11 +11,6 @@
     "vatcode": "LT100014140217"
   },
   {
-    "name": "Mažoji bendrija Keli darbai 2",
-    "code": "305737335",
-    "address": "Kaunas, Kęstučio g. 27-113, LT-44312"
-  },
-  {
     "name": "AB \"PANEVĖŽIO KELIAI\" darbuotojų profesinė sąjunga",
     "code": "302627570",
     "address": "Panevėžys, A. Smetonos g. 29B, LT-35197"
@@ -31,6 +26,11 @@
     "code": "305649180",
     "address": "Kaunas, Gedimino g. 15-2, LT-44318",
     "vatcode": "LT100014608316"
+  },
+  {
+    "name": "MB \"Aštuoni keliai\"",
+    "code": "307159855",
+    "address": "Kaunas, Taikos pr. 106A, LT-51167"
   },
   {
     "name": "MB \"Grūdo keliai\"",
@@ -52,7 +52,8 @@
   {
     "name": "MB \"Vykinto keliai\"",
     "code": "304925277",
-    "address": "Vilniaus r. sav., Buivydžių sen., Pašulniškių vs. 1, LT-15210"
+    "address": "Vilniaus r. sav., Buivydžių sen., Pašulniškių vs. 1, LT-15210",
+    "vatcode": "LT100018365116"
   },
   {
     "name": "MB \"Žvejo keliai\"",
@@ -197,11 +198,6 @@
     "vatcode": "LT100010088617"
   },
   {
-    "name": "\"Drąsos kelias\" politinė partija",
-    "code": "302747527",
-    "address": "Kaunas, Kęstučio g. 91, LT-44299"
-  },
-  {
     "name": "\"Skorpiono kelias\" MB",
     "code": "305500980",
     "address": "Kaunas, Taikos pr. 35-28, LT-50227"
@@ -252,6 +248,11 @@
     "code": "305638636",
     "address": "Kretingos r. sav., Darbėnai, Vaineikių g. 8, LT-97264",
     "vatcode": "LT100015096312"
+  },
+  {
+    "name": "Asociacija \"Ugnies kelias\"",
+    "code": "307209564",
+    "address": "Jonava, Mokyklos g. 14-41, LT-55112"
   },
   {
     "name": "Asociacija Atradimų kelias",
@@ -411,6 +412,11 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Mazūriškių k., Šventakiemio g. 4, LT-92376"
   },
   {
+    "name": "Labdaros ir paramos fondas \"Kalbos kelias\"",
+    "code": "307157473",
+    "address": "Kaunas, Pienių g. 2-17, LT-47442"
+  },
+  {
     "name": "Labdaros ir paramos fondas \"Mato likimo kelias\"",
     "code": "306091839",
     "address": "Vilnius, Žirmūnų g. 131-9, LT-09120"
@@ -478,6 +484,11 @@
     "code": "305733155",
     "address": "Kretinga, L. Janušytės g. 24, LT-97119",
     "vatcode": "LT100017071913"
+  },
+  {
+    "name": "MB \"Kelias namo\"",
+    "code": "307189706",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Kelias į džiaugsmą\"",
@@ -663,6 +674,11 @@
     "address": "Alytaus r. sav., Alytaus sen., Miklusėnų k., Ąžuolų g. 9, LT-62471"
   },
   {
+    "name": "MB Ramus kelias",
+    "code": "307191881",
+    "address": "Klaipėda, Tiltų g. 19, LT-91249"
+  },
+  {
     "name": "MB Skaičių kelias",
     "code": "307085180",
     "address": "Mažeikiai, Ventos g. 22-19, LT-89188"
@@ -675,7 +691,8 @@
   {
     "name": "MB Svajonės kelias",
     "code": "307021128",
-    "address": "Vilnius, Bitėnų g. 3E-7, LT-06236"
+    "address": "Vilnius, Bitėnų g. 3E-7, LT-06236",
+    "vatcode": "LT100018381313"
   },
   {
     "name": "MB Vilties kelias",
@@ -1309,17 +1326,13 @@
   {
     "name": "MB Vaikas keliauninkas",
     "code": "307185241",
-    "address": "Kaunas, V. Grybo aklg. 4-2, LT-48488"
+    "address": "Kaunas, V. Grybo aklg. 4-2, LT-48488",
+    "vatcode": "LT100018499813"
   },
   {
     "name": "Varlės keliauninkės, UAB",
     "code": "306155964",
     "address": "Vilnius, Sporto g. 8-21, LT-09238"
-  },
-  {
-    "name": "I. Keliausko įmonė \"Pinčiukas\"",
-    "code": "133900652",
-    "address": "Kaunas, Taikos pr. 93-29, LT-50447"
   },
   {
     "name": "MB \"Menas keliauti\"",
@@ -1618,11 +1631,6 @@
     "name": "Laimės kelio mokykla",
     "code": "304218234",
     "address": "Vilnius, Mykolo Marcinkevičiaus g. 17-15, LT-08433"
-  },
-  {
-    "name": "MB \"Aktyvus kelio ženklas\"",
-    "code": "304879399",
-    "address": "Marijampolės savivaldybės teritorija"
   },
   {
     "name": "MB \"Gero kelio transportas\"",
@@ -2107,7 +2115,7 @@
     "vatcode": "LT258225414"
   },
   {
-    "name": "UAB Kelionių agentūra \"Sky fly\"",
+    "name": "UAB Kelionių pasaulis",
     "code": "303514892",
     "address": "Kaunas, Laisvės al. 110, LT-44253"
   },
@@ -2279,6 +2287,11 @@
     "name": "MB \"A&M kelionės\"",
     "code": "303035479",
     "address": "Kaunas, Taikos pr. 46-9, LT-50234"
+  },
+  {
+    "name": "MB \"Autentiškos kelionės\"",
+    "code": "307193900",
+    "address": "Vilniaus r. sav., Nemėžio sen., Motiejiškių k., Agrastų g. 5, LT-13266"
   },
   {
     "name": "MB \"Bočių kelionės\"",
@@ -2508,7 +2521,8 @@
   {
     "name": "UAB \"Tolimos kelionės LT\"",
     "code": "307094208",
-    "address": "Telšių r. sav., Viešvėnų sen., Rainių k., Veidrodžių g. 10, LT-88401"
+    "address": "Telšių r. sav., Viešvėnų sen., Rainių k., Veidrodžių g. 10, LT-88401",
+    "vatcode": "LT100018321719"
   },
   {
     "name": "UAB \"Tolimos kelionės\"",
@@ -2617,11 +2631,6 @@
     "code": "305185919",
     "address": "Vilniaus r. sav., Marijampolio sen., Beržiškių k., Beržiškių g. 4, LT-13224",
     "vatcode": "LT100014919916"
-  },
-  {
-    "name": "Juliaus Januškio įmonė \"Keliotė\"",
-    "code": "244746320",
-    "address": "Šiauliai, Gardino g. 5-28, LT-78241"
   },
   {
     "name": "UAB \"KELIOVIS\"",

@@ -44,7 +44,8 @@
   {
     "name": "UAB Car on move",
     "code": "305613978",
-    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Europos g. 18, LT-92359"
+    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Europos g. 18, LT-92359",
+    "vatcode": "LT100013380314"
   },
   {
     "name": "UAB \"Moveda\"",
@@ -139,8 +140,14 @@
     "address": "Vilnius, Patrimpo g. 14, LT-08423"
   },
   {
+    "name": "MB \"Movetomoney\"",
+    "code": "307219626",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
+  },
+  {
     "name": "UAB \"Movetra\"",
     "code": "307180600",
-    "address": "Kaunas, Europos pr. 106B, LT-46351"
+    "address": "Kaunas, Europos pr. 106B, LT-46351",
+    "vatcode": "LT100018412717"
   }
 ]

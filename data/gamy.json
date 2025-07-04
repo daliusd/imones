@@ -109,6 +109,11 @@
     "address": "Vilnius, Baltasis skg. 9-5, LT-01217"
   },
   {
+    "name": "MB Baldų gamyba",
+    "code": "307203077",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "MB DD Gamyba",
     "code": "306118745",
     "address": "Klaipėda, Kaštonų g. 10 K3-15, LT-92206"
@@ -166,7 +171,7 @@
   {
     "name": "UAB \"AJ šokolado gamyba\"",
     "code": "300598725",
-    "address": "Šiauliai, Vytauto g. 273-1, LT-77187"
+    "address": "Pakruojis, Prof. S. Ušinsko g. 28, LT-83154"
   },
   {
     "name": "UAB \"Akmenės kuro gamyba\"",
@@ -326,6 +331,11 @@
     "vatcode": "LT100017238419"
   },
   {
+    "name": "UAB Kontraktinė Gamyba",
+    "code": "307205612",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "UAB Kvarco stalviršių gamyba",
     "code": "305821146",
     "address": "Kaunas, Santakos g. 24-2, LT-44279",
@@ -336,11 +346,6 @@
     "code": "306407671",
     "address": "Anykščiai, Liudiškių g. 16-2, LT-29130",
     "vatcode": "LT100017038518"
-  },
-  {
-    "name": "UAB Pro gamyba",
-    "code": "307139728",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
   },
   {
     "name": "UAB SAULĖS ENERGIJOS GAMYBA",
@@ -438,26 +443,6 @@
     "vatcode": "LT801867610"
   },
   {
-    "name": "A. Skėrio gamybinė-komercinė firma \"VED\"",
-    "code": "140117133",
-    "address": "Klaipėda, J. Janonio g. 9-8, LT-92236"
-  },
-  {
-    "name": "A. Šakalienės gamybinė komercinė įmonė",
-    "code": "174571032",
-    "address": "Skuodas, Algirdo g. 16, LT-98117"
-  },
-  {
-    "name": "Alvydo Jaruševičiaus gamybinė-prekybinė įmonė",
-    "code": "170634097",
-    "address": "Prienai, Kęstučio g. 39, LT-59129"
-  },
-  {
-    "name": "Antano Drumžlio prekybinė gamybinė įmonė",
-    "code": "144531911",
-    "address": "Šiauliai, Dainų g. 64-26, LT-78266"
-  },
-  {
     "name": "B. Ruškienės gamybinė-komercinė įmonė \"Jūra\"",
     "code": "170076016",
     "address": "Rietavas, Kvėdarnos g. 24, LT-90316",
@@ -490,11 +475,6 @@
     "name": "Gintauto Dailidės gamybinė prekybinė įmonė",
     "code": "170636671",
     "address": "Prienai, Pamiškio g. 2C, LT-59111"
-  },
-  {
-    "name": "I. Jovaišienės gamybinė - komercinė firma",
-    "code": "163245989",
-    "address": "Gargždai, Vyturių g. 1, LT-96148"
   },
   {
     "name": "I. Stropuvienės gamybinė-komercinė įmonė \"Perkūnas\"",
@@ -584,11 +564,6 @@
     "address": "Lazdijų r. sav., Teizų sen., Petravičių k."
   },
   {
-    "name": "J. Naviko komercinė-gamybinė įmonė \"Galant\"",
-    "code": "140268039",
-    "address": "Klaipėda, Jurginų g. 23-1, LT-91206"
-  },
-  {
     "name": "J. Nurijevos gamybinė-komercinė įmonė \"Jana\"",
     "code": "169981535",
     "address": "Plungė, Stoties g. 32-5, LT-90116",
@@ -606,11 +581,6 @@
     "address": "Trakų rajono savivaldybės teritorija"
   },
   {
-    "name": "Juozo Matulaičio gamybinė prekybinė įmonė",
-    "code": "170636529",
-    "address": "Prienai, Statybininkų g. 7-34, LT-59131"
-  },
-  {
     "name": "K. Galdiko gamybinė-komercinė individuali įmonė \"Vidora\"",
     "code": "170016229",
     "address": "Plungė, Telšių g. 64, LT-90164",
@@ -621,11 +591,6 @@
     "code": "170036783",
     "address": "Palanga, Gintaro g. 46, LT-00133",
     "vatcode": "LT700367811"
-  },
-  {
-    "name": "K. Vaičekausko gamybinė įmonė",
-    "code": "170000424",
-    "address": "Rietavas, Žemaitės g. 3A-11, LT-90311"
   },
   {
     "name": "K. Venclovaičio gamybinė komercinė įmonė \"PVSD\"",
@@ -694,11 +659,6 @@
     "address": "Skuodas, Žvaigždžių g. 12, LT-98128"
   },
   {
-    "name": "P. Kluso gamybinė-komercinė firma",
-    "code": "163242726",
-    "address": "Gargždai, Gintaro g. 2, LT-96136"
-  },
-  {
     "name": "Petrausko Gintaro Stasio gamybinė-komercinė firma \"VITINGAS\"",
     "code": "121241938",
     "address": "Vilnius, Vydūno g. 14-59, LT-06204"
@@ -741,21 +701,6 @@
     "name": "R. Pankevičiaus gamybinė įmonė",
     "code": "168515680",
     "address": "Panevėžio r. sav., Raguvos sen., Lukščių vs."
-  },
-  {
-    "name": "R. Rudoko gamybinė-komercinė įmonė",
-    "code": "140652374",
-    "address": "Klaipėda, I. Simonaitytės g. 35-7, LT-95190"
-  },
-  {
-    "name": "R. Virkučio gamybinė-komercinė įmonė",
-    "code": "169939899",
-    "address": "Plungė, V. Mačernio g. 41-49, LT-90133"
-  },
-  {
-    "name": "R. Zikienės gamybinė-komercinė įmonė",
-    "code": "141266347",
-    "address": "Klaipėda, Baltijos pr. 103-89, LT-93222"
   },
   {
     "name": "R. Šukio gamybinė - komercinė firma",
@@ -841,25 +786,10 @@
     "vatcode": "LT222806811"
   },
   {
-    "name": "V. Buivydo gamybinė- komercinė įmonė \"Šaka\"",
-    "code": "170000239",
-    "address": "Plungė, Ežero g. 25, LT-90156"
-  },
-  {
-    "name": "V. Gedgaudo gamybinė firma",
-    "code": "140284762",
-    "address": "Klaipėda, Taikos pr. 80, LT-93162"
-  },
-  {
     "name": "V. Girdvainio gamybinė komercinė individuali įmonė",
     "code": "173898999",
     "address": "Skuodas, Dariaus ir Girėno g. 33-9, LT-98119",
     "vatcode": "LT738989917"
-  },
-  {
-    "name": "V. Helmienės komercinė gamybinė firma \"Gorenta\"",
-    "code": "134612731",
-    "address": "Kaunas, Neries krant. 11-29, LT-48371"
   },
   {
     "name": "V. Malinausko gamybinė-komercinė firma \"STILMA\"",
@@ -888,16 +818,6 @@
     "address": "Marijampolė, Klevų g. 11A, LT-68262"
   },
   {
-    "name": "V. Šlyžienės gamybinė-komercinė įmonė",
-    "code": "169771330",
-    "address": "Plungė, J. Tumo-Vaižganto g. 77-2, LT-90160"
-  },
-  {
-    "name": "VYTAUTO NAGEVIČIAUS prekybinė gamybinė įmonė",
-    "code": "144206451",
-    "address": "Šiauliai, Darkiemio g. 19, LT-78141"
-  },
-  {
     "name": "Vaclovo Glinsko gamybinė įmonė",
     "code": "165723975",
     "address": "Vilnius, Adutiškio g. 3-3, LT-02112"
@@ -919,11 +839,6 @@
     "address": "Vilnius, Taikos g. 168-24, LT-05229"
   },
   {
-    "name": "Vosylienės gamybinė komercinė firma",
-    "code": "151187154",
-    "address": "Marijampolė, P. Armino g. 53, LT-68281"
-  },
-  {
     "name": "Vytauto Litvino gamybinė komercinė įmonė",
     "code": "165767377",
     "address": "Marijampolė, Sasnavos g. 74, LT-68110",
@@ -933,11 +848,6 @@
     "name": "Vytauto Sakalausko gamybinė įmonė",
     "code": "165747727",
     "address": "Marijampolė, Maironio g. 29-1, LT-68291"
-  },
-  {
-    "name": "Z. Urbonavičienės gamybinė-komercinė įmonė",
-    "code": "171026087",
-    "address": "Plungės r. sav., Kuliai, Aušros g. 5-1, LT-90372"
   },
   {
     "name": "Č. Simanausko gamybinė-komercinė įmonė",
@@ -1019,11 +929,6 @@
     "address": "Klaipėda, Vaidaugų g. 1-32, LT-95222"
   },
   {
-    "name": "Algimanto Morkevičiaus gamybos ir prekybos įmonė",
-    "code": "151098969",
-    "address": "Marijampolė, Mokolų g. 53-39, LT-68170"
-  },
-  {
     "name": "Algirdo Turčinavičiaus gamybos įmonė",
     "code": "179349612",
     "address": "Tauragės r. sav., Mažonų sen., Pagramančio mstl., Juozo Mažeikos g. 11, LT-73305",
@@ -1057,11 +962,6 @@
     "vatcode": "LT743575113"
   },
   {
-    "name": "E. Zaicovo maisto produktų gamybos ir prekybos įmonė",
-    "code": "163160624",
-    "address": "Klaipėdos r. sav., Priekulė, Žalgirio g. 3, LT-96340"
-  },
-  {
     "name": "Edmundo Krompalco gamybos įmonė",
     "code": "179281474",
     "address": "Tauragės r. sav., Mažonų sen., Pagramančio mstl."
@@ -1085,11 +985,6 @@
     "name": "Elektros gamybos darbuotojų profesinė sąjunga",
     "code": "181608328",
     "address": "Elektrėnai, Elektrinės g. 21, LT-26108"
-  },
-  {
-    "name": "G. Berentos gamybos ir komercijos firma \"Ema\"",
-    "code": "151128088",
-    "address": "Marijampolė, Kauno g. 15, LT-68178"
   },
   {
     "name": "G. Kazlausko pašto reikmenų gamybos individuali įmonė \"GALDAVA\"",
@@ -1225,11 +1120,6 @@
     "address": "Vilnius, Architektų g. 19, LT-04112"
   },
   {
-    "name": "Malinauskienės gamybos, paslaugų įmonė",
-    "code": "151217416",
-    "address": "Marijampolė, J. Basanavičiaus a. 4-2, LT-68309"
-  },
-  {
     "name": "O. Stankevičienės dantų protezų gamybos individuali įmonė",
     "code": "300080490",
     "address": "Jurbarkas, Dariaus ir Girėno g. 97-17, LT-74185"
@@ -1296,11 +1186,6 @@
     "name": "Ružės individuali baldų gamybos įmonė",
     "code": "152908924",
     "address": "Mažeikių r. sav., Viekšniai, Papilės g. 57, LT-89489"
-  },
-  {
-    "name": "S. Šapokos papuošalų gamybos įmonė",
-    "code": "140300280",
-    "address": "Klaipėda, Baltijos pr. 99-6, LT-94116"
   },
   {
     "name": "Staklių gamybos akcinės bendrovės \"ŽALGIRIS\" profesinė sąjunga",
@@ -1383,11 +1268,6 @@
     "address": "Klaipėda, Dovo Zauniaus g. 55-38, LT-92349"
   },
   {
-    "name": "V. Baransko meno dirbinių gamybos ir restauravimo įmonė",
-    "code": "141692838",
-    "address": "Klaipėda, Daržų g. 13-32, LT-91246"
-  },
-  {
     "name": "V. Jaciunsko individuali paminklų gamybos įmonė",
     "code": "149560589",
     "address": "Alytus, Tvirtovės g. 11-28, LT-63233"
@@ -1407,11 +1287,6 @@
     "code": "174971934",
     "address": "Šalčininkų r. sav., Dieveniškės, Šermukšnių g. 31, LT-17138",
     "vatcode": "LT749719314"
-  },
-  {
-    "name": "Valentino Šakėno plastmasės dirbinių gamybos įmonė",
-    "code": "154131876",
-    "address": "Anykščiai, Piliakalnio g. 4-3"
   },
   {
     "name": "Viešoji įstaiga \"Automatizuoto projektavimo ir gamybos sistemų mokymo ir konsultacijos centras\"",
@@ -1491,7 +1366,7 @@
   {
     "name": "MB \"IT Gamykla\"",
     "code": "306712089",
-    "address": "Vilniaus r. sav., Riešės sen., Raudondvario k., Žirgų g. 18-6, LT-14257"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
     "name": "MB Programinės įrangos gamykla",
@@ -1501,7 +1376,7 @@
   {
     "name": "Rusijos akcinės bendrovės \"SEVERO-ZADONSKO KONDENSATORIŲ GAMYKLA\" atstovybė",
     "code": "110241399",
-    "address": "Vilnius, Aguonų g. 13-2, LT-03213"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "UAB \"Bio Gamykla\"",

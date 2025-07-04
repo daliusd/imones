@@ -150,6 +150,11 @@
     "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
+    "name": "MB \"Consilia forte\"",
+    "code": "307189791",
+    "address": "Kaunas, Laisvės al. 110, LT-44253"
+  },
+  {
     "name": "MB \"Nova consilia\"",
     "code": "306107720",
     "address": "Vilnius, Ukmergės g. 306-35, LT-12102",
@@ -594,11 +599,6 @@
     "address": "Vilniaus r. sav., Avižienių sen., Pikutiškių k., Braškių g. 17, LT-14300"
   },
   {
-    "name": "MD Construct UAB",
-    "code": "306920460",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
-  },
-  {
     "name": "UAB \"AR Construct\"",
     "code": "305640516",
     "address": "Prienai, J. Basanavičiaus g. 48A-2, LT-59152"
@@ -724,6 +724,12 @@
     "address": "Mažeikiai, Lelijų g. 3-7, LT-89227"
   },
   {
+    "name": "ER CONSTRUCTION, UAB",
+    "code": "120966392",
+    "address": "Vilnius, Ateities g. 10, LT-08345",
+    "vatcode": "LT209663917"
+  },
+  {
     "name": "Firana construction UAB",
     "code": "307113726",
     "address": "Vilnius, Bičiulių g. 14, LT-02236",
@@ -833,12 +839,6 @@
     "vatcode": "LT100014864017"
   },
   {
-    "name": "MB \"Fast construction\"",
-    "code": "305822159",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
-    "vatcode": "LT100016135514"
-  },
-  {
     "name": "MB \"Grand Interior Construction Solutions\"",
     "code": "307063700",
     "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
@@ -900,7 +900,8 @@
   {
     "name": "MB \"Stardus Construction\"",
     "code": "306738582",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100018286314"
   },
   {
     "name": "MB \"TD construction\"",
@@ -973,7 +974,7 @@
   {
     "name": "MB DD wood construction",
     "code": "306069682",
-    "address": "Kaunas, R. Kalantos g. 129-1, LT-52312"
+    "address": "Prienų r. sav., Veiverių sen., Byliškių k., Liepų g. 8, LT-59287"
   },
   {
     "name": "MB Double aa construction",
@@ -1155,6 +1156,11 @@
     "address": "Klaipėda, Sausio 15-osios g. 12-34, LT-91139"
   },
   {
+    "name": "UAB \"CAM construction\"",
+    "code": "307209258",
+    "address": "Šiauliai, Vasario 16-osios g. 33-6, LT-76350"
+  },
+  {
     "name": "UAB \"CITUS CONSTRUCTION\"",
     "code": "302749318",
     "address": "Vilnius, Lvivo g. 25-701, LT-09320",
@@ -1168,7 +1174,7 @@
   {
     "name": "UAB \"CONSTRUCTION PARTNERS\"",
     "code": "302329200",
-    "address": "Vilniaus miesto savivaldybės teritorija",
+    "address": "Vilnius, Džiaugsmo g. 64A-2, LT-11302",
     "vatcode": "LT100004645518"
   },
   {
@@ -1281,15 +1287,9 @@
     "vatcode": "LT100017686819"
   },
   {
-    "name": "UAB \"Erogrand construction\"",
-    "code": "305670655",
-    "address": "Šiauliai, Troškūnų g. 7A, LT-76149"
-  },
-  {
     "name": "UAB \"FASADO construction\"",
     "code": "302710322",
-    "address": "Vilnius, Švitrigailos g. 11A, LT-03228",
-    "vatcode": "LT100006611514"
+    "address": "Vilnius, Švitrigailos g. 11A, LT-03228"
   },
   {
     "name": "UAB \"G&G Construction\"",
@@ -1661,6 +1661,11 @@
     "address": "Vilnius, Vinciūniškių Sodų 2-oji g. 6, LT-10241"
   },
   {
+    "name": "UAB Toromega Construction",
+    "code": "307206479",
+    "address": "Klaipėda, Danės g. 6-408, LT-92109"
+  },
+  {
     "name": "UAB Trinity construction",
     "code": "305897336",
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
@@ -1707,7 +1712,7 @@
   {
     "name": "Allied constructions, UAB",
     "code": "307041757",
-    "address": "Vilniaus r. sav., Sudervės sen., Putiniškių k., Vilniaus g. 18, LT-14200",
+    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Nevėžio g. 17, LT-54136",
     "vatcode": "LT100017407614"
   },
   {
@@ -1763,6 +1768,11 @@
     "name": "MB Aurora Constructions",
     "code": "307022582",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
+    "name": "MB Betometa constructions",
+    "code": "307233476",
+    "address": "Kaunas, Būgnininkų g. 14-1, LT-46481"
   },
   {
     "name": "MB G&D Constructions",
@@ -2178,7 +2188,8 @@
   {
     "name": "MB \"LLT consult\"",
     "code": "306313421",
-    "address": "Vilnius, Nemenčinės pl. 41-5, LT-10105"
+    "address": "Vilnius, Nemenčinės pl. 41-5, LT-10105",
+    "vatcode": "LT100018343115"
   },
   {
     "name": "MB \"MS Consult LT\"",
@@ -2263,7 +2274,8 @@
   {
     "name": "MB Econa Consult",
     "code": "307005519",
-    "address": "Klaipėda, Tiltų g. 19, LT-91249"
+    "address": "Klaipėda, Tiltų g. 19, LT-91249",
+    "vatcode": "LT100018390016"
   },
   {
     "name": "MB FERE Consult",
@@ -3027,7 +3039,8 @@
   {
     "name": "\"Bardo consulting\" MB",
     "code": "307174782",
-    "address": "Vilnius, Sodų g. 11-16, LT-01313"
+    "address": "Vilnius, Sodų g. 11-16, LT-01313",
+    "vatcode": "LT100018374317"
   },
   {
     "name": "\"Business management advisor and consulting\", Mažoji bendrija",
@@ -3134,6 +3147,11 @@
     "code": "306339416",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
     "vatcode": "LT100017002315"
+  },
+  {
+    "name": "Altair consulting, MB",
+    "code": "307203383",
+    "address": "Vilnius, Treniotos g. 2-12, LT-08121"
   },
   {
     "name": "Alvsim consulting, MB",
@@ -3319,7 +3337,8 @@
   {
     "name": "Flankas Consulting MB",
     "code": "306362621",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
+    "address": "Vilnius, Jogailos g. 4, LT-01116",
+    "vatcode": "LT100018377118"
   },
   {
     "name": "Fusion Capital and Consulting IĮ",
@@ -3730,6 +3749,11 @@
     "vatcode": "LT100017557718"
   },
   {
+    "name": "MB \"KDP Management Consulting\"",
+    "code": "307192524",
+    "address": "Kauno r. sav., Samylų sen., Laumėnų k., Beržų al. 1, LT-53118"
+  },
+  {
     "name": "MB \"Kamanė & Consulting\"",
     "code": "306011654",
     "address": "Vilnius, Baltadvario g. 9, LT-14259"
@@ -3764,7 +3788,8 @@
   {
     "name": "MB \"Leo Consulting\"",
     "code": "306837363",
-    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
+    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120",
+    "vatcode": "LT100018509713"
   },
   {
     "name": "MB \"Linbridge consulting\"",
@@ -3779,7 +3804,8 @@
   {
     "name": "MB \"MS Consulting\"",
     "code": "306336815",
-    "address": "Kaunas, Svirbygalos g. 45-5, LT-46283"
+    "address": "Kaunas, Svirbygalos g. 45-5, LT-46283",
+    "vatcode": "LT100018233616"
   },
   {
     "name": "MB \"Marocus Consulting\"",
@@ -3937,6 +3963,11 @@
     "name": "MB \"VS Consulting\"",
     "code": "306832035",
     "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Vėjo g. 12-2, LT-91276"
+  },
+  {
+    "name": "MB \"Vivante consulting\"",
+    "code": "307235477",
+    "address": "Vilnius, Pavilnionių g. 43-91, LT-12100"
   },
   {
     "name": "MB \"W-consulting\"",
@@ -4106,7 +4137,7 @@
   {
     "name": "MB DK Consulting",
     "code": "306643020",
-    "address": "Vilnius, Santariškių g. 35A-4, LT-08439",
+    "address": "Vilnius, Žalgirio g. 90-100, LT-09303",
     "vatcode": "LT100017216419"
   },
   {
@@ -4172,6 +4203,11 @@
     "name": "MB Ez consulting",
     "code": "306970011",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "MB FLOKI CONSULTING",
+    "code": "307189873",
+    "address": "Vilnius, Linkmenų g. 19-123, LT-08217"
   },
   {
     "name": "MB Fg consulting",
@@ -4368,6 +4404,11 @@
     "name": "MB LRS Consulting",
     "code": "307136504",
     "address": "Vilnius, Saltoniškių g. 36-20, LT-08106"
+  },
+  {
+    "name": "MB Lineage Citizenship Consulting Group",
+    "code": "307209105",
+    "address": "Vilnius, Viršuliškių g. 38-8, LT-05112"
   },
   {
     "name": "MB Litexco consulting",
@@ -4638,7 +4679,8 @@
   {
     "name": "Mažoji bendrija TP Consulting",
     "code": "302987038",
-    "address": "Vilnius, A. Smetonos g. 6-6, LT-01115"
+    "address": "Vilnius, A. Smetonos g. 6-6, LT-01115",
+    "vatcode": "LT100018327517"
   },
   {
     "name": "Med consulting, MB",
@@ -4769,7 +4811,7 @@
   {
     "name": "Shayz Consulting, MB",
     "code": "305470010",
-    "address": "Vilnius, Mėnulio g. 11-101, LT-04326",
+    "address": "Vilnius, Mėnulio g. 7-101, LT-04326",
     "vatcode": "LT100012987819"
   },
   {
@@ -4935,6 +4977,12 @@
     "code": "302738542",
     "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Indrajos g. 12, LT-14263",
     "vatcode": "LT100006744214"
+  },
+  {
+    "name": "UAB \"Baltic Consulting & Communications\"",
+    "code": "126407431",
+    "address": "Vilnius, Šv. Ignoto g. 5, LT-01144",
+    "vatcode": "LT100012084012"
   },
   {
     "name": "UAB \"Baltic ICT consulting\"",
@@ -5524,8 +5572,7 @@
   {
     "name": "UAB ASK consulting agency",
     "code": "305868384",
-    "address": "Trakų r. sav., Lentvario sen., Kiemeliškių k., Grigiškių g. 2, LT-25100",
-    "vatcode": "LT100014819617"
+    "address": "Trakų r. sav., Lentvario sen., Kiemeliškių k., Grigiškių g. 2, LT-25100"
   },
   {
     "name": "UAB Atlantic Solstice Consulting",

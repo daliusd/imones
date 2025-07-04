@@ -1,5 +1,10 @@
 [
   {
+    "name": "MB \"Urbo darbai\"",
+    "code": "307204019",
+    "address": "Neringa, Švyturio g. 7-10, LT-93121"
+  },
+  {
     "name": "MB Urbo House",
     "code": "306341552",
     "address": "Klaipėda, Panevėžio g. 9-54, LT-92316"
@@ -53,7 +58,8 @@
   {
     "name": "UAB Urbon",
     "code": "307118157",
-    "address": "Vilnius, Algirdo g. 4, LT-03161"
+    "address": "Vilnius, Algirdo g. 4, LT-03161",
+    "vatcode": "LT100018284116"
   },
   {
     "name": "UAB Urbon Design",
@@ -64,7 +70,8 @@
   {
     "name": "UAB Urbon avenue",
     "code": "307119259",
-    "address": "Vilnius, Algirdo g. 4, LT-03161"
+    "address": "Vilnius, Algirdo g. 4, LT-03161",
+    "vatcode": "LT100018299911"
   },
   {
     "name": "UAB Urbon skin",
@@ -98,16 +105,6 @@
     "address": "Vilnius, Antano Tumėno g. 4, LT-01109"
   },
   {
-    "name": "ARVYDO URBONAVIČIAUS įmonė \"ALDIJA\"",
-    "code": "144679073",
-    "address": "Šiauliai, Gegužių g. 72-40, LT-78340"
-  },
-  {
-    "name": "H. Urbonavičiaus įmonė",
-    "code": "259824020",
-    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Vejuonos g. 26, LT-54117"
-  },
-  {
     "name": "Kazio Urbonavičiaus individuali įmonė",
     "code": "149853072",
     "address": "Alytus, Jaunimo g. 16-37, LT-63350"
@@ -116,16 +113,6 @@
     "name": "Nerijaus Urbonavičiaus individuali įmonė",
     "code": "300151489",
     "address": "Kaunas, Geležinio Vilko g. 17-27, LT-49271"
-  },
-  {
-    "name": "Nerijaus Urbonavičiaus individuali įmonė \"Junera\"",
-    "code": "134705281",
-    "address": "Kaunas, A. Baranausko g. 5-34, LT-50256"
-  },
-  {
-    "name": "R. Urbonavičiaus individuali įmonė",
-    "code": "142023177",
-    "address": "Klaipėda, Reikjaviko g. 1-112, LT-94245"
   },
   {
     "name": "L. Urbonavičienės IĮ \"Linos apskaita\"",
@@ -137,11 +124,6 @@
     "name": "L. Urbonavičienės firma",
     "code": "180393132",
     "address": "Telšių r. sav., Viešvėnų sen., Vembūtų k., Ankštėlės g. 12, LT-88407"
-  },
-  {
-    "name": "Z. Urbonavičienės gamybinė-komercinė įmonė",
-    "code": "171026087",
-    "address": "Plungės r. sav., Kuliai, Aušros g. 5-1, LT-90372"
   },
   {
     "name": "Žilvinos Urbonavičienės įmonė",
@@ -200,11 +182,6 @@
     "vatcode": "LT100015075219"
   },
   {
-    "name": "Rasos Urbonienės įmonė",
-    "code": "174415866",
-    "address": "Šakių r. sav., Griškabūdis, Kermuškalnio g. 11, LT-71292"
-  },
-  {
     "name": "V. Urbonienės individuali įmonė",
     "code": "134736946",
     "address": "Kaunas, Elektrėnų g. 12-7, LT-52176",
@@ -222,11 +199,6 @@
     "address": "Šiauliai, Lieporių g. 1-2, LT-78251"
   },
   {
-    "name": "Antano Urbono įmonė",
-    "code": "145207150",
-    "address": "Šiauliai, Gytarių g. 16-1, LT-78368"
-  },
-  {
     "name": "Dariaus Urbono MB",
     "code": "304224778",
     "address": "Šilalės r. sav., Traksėdžio sen., Dirkintų k., Traukšlio g. 28A, LT-75101"
@@ -241,11 +213,6 @@
     "name": "G. Urbono IĮ",
     "code": "300851573",
     "address": "Kretinga, Šiaulių g. 37, LT-97171"
-  },
-  {
-    "name": "Gedimino Urbono firma",
-    "code": "133833068",
-    "address": "Kaunas, Baltų pr. 77-50, LT-48229"
   },
   {
     "name": "IĮ V. Urbono mėsos gamybos įmonė",
@@ -270,16 +237,6 @@
     "address": "Širvintos, Plento g. 92, LT-19126"
   },
   {
-    "name": "O. Urbono įmonė",
-    "code": "135690334",
-    "address": "Kaunas, V. Krėvės pr. 41-65, LT-49441"
-  },
-  {
-    "name": "Osvaldo Urbono įmonė",
-    "code": "145853769",
-    "address": "Šiauliai, Gytarių g. 16-1, LT-78368"
-  },
-  {
     "name": "Petro Urbono automobilių remonto įmonė",
     "code": "280137080",
     "address": "Telšiai, Gedimino g. 14, LT-87134"
@@ -298,11 +255,6 @@
     "name": "R. Urbono individualios įmonės \"Batas\" parduotuvė",
     "code": "172222516",
     "address": "Raseiniai, Jaunimo g. 15, LT-60148"
-  },
-  {
-    "name": "S. Urbono individuali įmonė \"Lordina\"",
-    "code": "134726980",
-    "address": "Kaunas, Jotvingių g. 4-28, LT-48142"
   },
   {
     "name": "Sigito Urbono įmonė",

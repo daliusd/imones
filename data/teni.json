@@ -99,11 +99,6 @@
     "address": "Klaipėda, Šilutės pl. 2, LT-91111"
   },
   {
-    "name": "VšĮ \"Šiaulių stalo tenisas\"",
-    "code": "304609980",
-    "address": "Šiauliai, Tilžės g. 63-3, LT-78158"
-  },
-  {
     "name": "VšĮ EDO Tenisas",
     "code": "306456273",
     "address": "Klaipėda, Taikos pr. 121-42, LT-94246"
@@ -279,6 +274,11 @@
     "address": "Klaipėda, Taikos pr. 121-42, LT-94246"
   },
   {
+    "name": "Kretingos rajono stalo teniso klubas \"SALANTAS\"",
+    "code": "307196978",
+    "address": "Kretingos r. sav., Salantai, Šermukšnių g. 4-3, LT-97320"
+  },
+  {
     "name": "Kėdainių stalo teniso klubas",
     "code": "304933733",
     "address": "Kėdainiai, A. Kanapinsko g. 12-38, LT-57435"
@@ -346,7 +346,8 @@
   {
     "name": "MB Teniso vartai",
     "code": "307007324",
-    "address": "Kaunas, Vasarvietės g. 11E-2, LT-44104"
+    "address": "Kaunas, Vasarvietės g. 11E-2, LT-44104",
+    "vatcode": "LT100018470411"
   },
   {
     "name": "MONCIŠKIŲ PAPLŪDIMIO TENISO KLUBAS",
@@ -590,6 +591,11 @@
     "code": "303345467",
     "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Vieversių g. 20, LT-14260",
     "vatcode": "LT100008878519"
+  },
+  {
+    "name": "UAB Septyni Šeši teniso akademija",
+    "code": "307194468",
+    "address": "Vilniaus r. sav., Riešės sen., Jadvygiškių k., Alksnynų g. 4, LT-14258"
   },
   {
     "name": "Ugniaus lauko teniso labdaros ir paramos fondas",
@@ -902,6 +908,11 @@
     "address": "Vilnius, Vytauto g. 5-2, LT-08118"
   },
   {
+    "name": "VšĮ Teniso talentai",
+    "code": "307197514",
+    "address": "Šiauliai, Žuvininkų g. 2-3, LT-76252"
+  },
+  {
     "name": "VšĮ Tomkaus teniso akademija",
     "code": "307004577",
     "address": "Jurbarkas, Kriaušių g. 12, LT-74210"
@@ -959,7 +970,8 @@
   {
     "name": "VšĮ TenisoNamai.lt",
     "code": "302728199",
-    "address": "Vilnius, Konstitucijos pr. 15-53, LT-09319"
+    "address": "Vilnius, Konstitucijos pr. 15-53, LT-09319",
+    "vatcode": "LT100018477711"
   },
   {
     "name": "UAB \"Tenispro\"",

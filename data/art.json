@@ -245,6 +245,11 @@
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
+    "name": "MB \"KOSTENKO ART\"",
+    "code": "307196191",
+    "address": "Vilnius, Azerų g. 32-4, LT-11332"
+  },
+  {
     "name": "MB \"Kasp art\"",
     "code": "306967086",
     "address": "Vilnius, Savanorių pr. 180B-101, LT-03154"
@@ -473,9 +478,15 @@
     "address": "Klaipėdos r. sav., Dovilų sen., Ketvergių k., Taikos g. 11, LT-95409"
   },
   {
+    "name": "MB Remis Art Byg",
+    "code": "307198993",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
+  },
+  {
     "name": "MB Rosi Art",
     "code": "307069450",
-    "address": "Palanga, Vanagupės g. 9F-17, LT-00171"
+    "address": "Palanga, Vanagupės g. 9F-17, LT-00171",
+    "vatcode": "LT100018282816"
   },
   {
     "name": "MB Rutkus Art",
@@ -832,7 +843,8 @@
   {
     "name": "UAB Statyba art",
     "code": "307139799",
-    "address": "Klaipėda, Taikos pr. 34-107, LT-91219"
+    "address": "Klaipėda, Taikos pr. 34-107, LT-91219",
+    "vatcode": "LT100018395017"
   },
   {
     "name": "UAB Veritas Art Space",
@@ -890,11 +902,6 @@
     "code": "300734456",
     "address": "Vilnius, Plytinės g. 29-49, LT-10105",
     "vatcode": "LT100012471810"
-  },
-  {
-    "name": "Viešoji įstaiga \"Art Service\"",
-    "code": "302351150",
-    "address": "Vilnius, Gvazdikų Sodų 8-oji g. 20, LT-10240"
   },
   {
     "name": "Viešoji įstaiga \"Art shot\"",

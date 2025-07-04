@@ -33,6 +33,11 @@
     "address": "Vilnius, Smolensko g. 1-408, LT-03202"
   },
   {
+    "name": "Apskaita ir buhalterija, MB",
+    "code": "307204649",
+    "address": "Kaunas, Kovo 11-osios g. 100-15, LT-50407"
+  },
+  {
     "name": "BDO auditas ir apskaita, UAB",
     "code": "135273426",
     "address": "Kaunas, K. Baršausko g. 66, LT-51436",
@@ -121,7 +126,7 @@
   {
     "name": "MB \"Apskaita 360\"",
     "code": "307045990",
-    "address": "Raseinių r. sav., Raseinių sen., Trupinėlių k. 4, LT-60163"
+    "address": "Raseinių r. sav., Paliepių sen., Slabados k., Pavasario g. 14, LT-60109"
   },
   {
     "name": "MB \"Apskaita ir balansas verslui\"",
@@ -347,7 +352,8 @@
   {
     "name": "MB \"LP apskaita\"",
     "code": "305613355",
-    "address": "Kaunas, Vytenio g. 10-54, LT-48421"
+    "address": "Kaunas, Vytenio g. 10-54, LT-48421",
+    "vatcode": "LT100018227117"
   },
   {
     "name": "MB \"LS apskaita\"",
@@ -615,7 +621,7 @@
   {
     "name": "MB Finnovo apskaita",
     "code": "306262788",
-    "address": "Vilnius, Girulių g. 13-64, LT-12140"
+    "address": "Vilnius, Lazdynėlių g. 38B-51, LT-04126"
   },
   {
     "name": "MB Finoma apskaita",
@@ -779,6 +785,11 @@
     "name": "MB Žadin apskaita",
     "code": "305674803",
     "address": "Panevėžys, Kosmonautų g. 1-34, LT-37382"
+  },
+  {
+    "name": "Mažoji bendrija \"J apskaita\"",
+    "code": "307196661",
+    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Laukių g. 7, LT-54358"
   },
   {
     "name": "Mažoji bendrija \"Maža apskaita\"",
@@ -1464,6 +1475,11 @@
     "vatcode": "LT100015916311"
   },
   {
+    "name": "UAB Fintre apskaita",
+    "code": "307224477",
+    "address": "Šilutės r. sav., Švėkšna, Žemaitės g. 9-7, LT-99385"
+  },
+  {
     "name": "UAB S.C.I. apskaita",
     "code": "302245581",
     "address": "Vilnius, A. Kojelavičiaus g. 87-3, LT-11101"
@@ -1471,7 +1487,7 @@
   {
     "name": "UAB Taxlink apskaita",
     "code": "304425998",
-    "address": "Vilnius, Odminių g. 14-7, LT-01121",
+    "address": "Palanga, Ajerų g. 38, LT-00155",
     "vatcode": "LT100015980515"
   },
   {
@@ -1512,6 +1528,11 @@
     "code": "302317276",
     "address": "Vilnius, Dūmų g. 3 K10-4, LT-11119",
     "vatcode": "LT100015182410"
+  },
+  {
+    "name": "VR apskaita, MB",
+    "code": "307193811",
+    "address": "Kaunas, Demokratų g. 37-49, LT-48495"
   },
   {
     "name": "Viešoji įstaiga \"Apskaita ir mokymai\"",
@@ -1916,7 +1937,7 @@
   {
     "name": "MB \"Apskaitos likutis\"",
     "code": "304426598",
-    "address": "Palanga, Audronašų g. 3-12, LT-00307"
+    "address": "Mažeikiai, P. Vileišio g. 2-6, LT-89220"
   },
   {
     "name": "MB \"Apskaitos namai\"",
@@ -2069,6 +2090,11 @@
     "vatcode": "LT100014379114"
   },
   {
+    "name": "MB \"SK apskaitos paslaugos\"",
+    "code": "307207047",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+  },
+  {
     "name": "MB \"Verslo apskaitos studija\"",
     "code": "306964841",
     "address": "Vilnius, Pavilnionių g. 32-41, LT-05273",
@@ -2121,7 +2147,8 @@
   {
     "name": "MB Apskaitos metodas",
     "code": "306708379",
-    "address": "Panevėžys, Aukštaičių g. 84-2, LT-36115"
+    "address": "Panevėžys, Aukštaičių g. 84-2, LT-36115",
+    "vatcode": "LT100018485411"
   },
   {
     "name": "MB Apskaitos mokymo ir konsultavimo paslaugų centras",
@@ -2287,7 +2314,7 @@
   {
     "name": "UAB \"Apskaitos darbai\"",
     "code": "300005438",
-    "address": "Kaunas, Kapsų g. 111A, LT-44139",
+    "address": "Kaunas, A. Baranausko g. 19-101, LT-50239",
     "vatcode": "LT100004163817"
   },
   {
@@ -3568,11 +3595,6 @@
     "name": "Lietuvos atsargos karininkų sąjungos Marijampolės apskrities skyrius",
     "code": "193511812",
     "address": "Marijampolė, J. Ambrazevičiaus-Brazaičio g. 9-23, LT-68160"
-  },
-  {
-    "name": "Lietuvos bajorų karališkosios sąjungos Panevėžio apskrities skyrius",
-    "code": "191828397",
-    "address": "Panevėžys, Vasario 16-osios g. 23, LT-35185"
   },
   {
     "name": "Lietuvos darbo federacijos Kauno apskrities skyrius",

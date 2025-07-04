@@ -230,7 +230,8 @@
   {
     "name": "UAB \"EURO-JOBS COMPANY\"",
     "code": "306732871",
-    "address": "Šiauliai, Tilžės g. 170, LT-76296"
+    "address": "Šiauliai, Tilžės g. 170, LT-76296",
+    "vatcode": "LT100018229214"
   },
   {
     "name": "UAB \"Euro Akademy\"",
@@ -430,8 +431,7 @@
   {
     "name": "UAB \"Euro-viz\"",
     "code": "306183091",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
-    "vatcode": "LT100016246819"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
   },
   {
     "name": "UAB \"MEGA EURO GROUP-MEG\"",
@@ -464,8 +464,7 @@
   {
     "name": "UAB EURO ON",
     "code": "305700422",
-    "address": "Vilniaus r. sav., Pagirių sen., Keturiasdešimt Totorių k., Ulonų g. 7, LT-14120",
-    "vatcode": "LT100014033510"
+    "address": "Vilniaus r. sav., Pagirių sen., Keturiasdešimt Totorių k., Ulonų g. 7, LT-14120"
   },
   {
     "name": "UAB EURO SET",
@@ -684,7 +683,8 @@
   {
     "name": "UAB \"Euroaxis logistics\"",
     "code": "307094546",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100018341512"
   },
   {
     "name": "UAB \"Eurobalansas\"",
@@ -1239,6 +1239,11 @@
     "vatcode": "LT100005734010"
   },
   {
+    "name": "MB \"Euroekspertas\"",
+    "code": "307201927",
+    "address": "Klaipėda, Debreceno g. 11-52, LT-94173"
+  },
+  {
     "name": "UAB \"Euroeksportas\"",
     "code": "304446896",
     "address": "Vilnius, Veiverių g. 9B-41, LT-11346"
@@ -1251,7 +1256,8 @@
   {
     "name": "UAB \"Euroeksternas\"",
     "code": "303352999",
-    "address": "Vilnius, Veiverių g. 9B-1, LT-11346"
+    "address": "Vilnius, Veiverių g. 9B-1, LT-11346",
+    "vatcode": "LT100018317513"
   },
   {
     "name": "MB Euroelektrikas",
@@ -1436,14 +1442,9 @@
     "vatcode": "LT355478515"
   },
   {
-    "name": "\"Eurofraktas\", UAB",
-    "code": "305912069",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
-  },
-  {
     "name": "UAB \"Eurofrosta\"",
     "code": "303096507",
-    "address": "Klaipėda, H. Manto g. 1-6, LT-92128",
+    "address": "Vilnius, Trakų g. 14A-3, LT-01132",
     "vatcode": "LT100007901017"
   },
   {
@@ -2345,10 +2346,20 @@
     "vatcode": "LT100018047119"
   },
   {
+    "name": "UAB \"Euromega 4\"",
+    "code": "307193277",
+    "address": "Kaunas, Veiverių g. 61A, LT-46360"
+  },
+  {
     "name": "UAB \"Euromega LT\"",
     "code": "304435992",
     "address": "Kaunas, Veiverių g. 61A, LT-46360",
     "vatcode": "LT100010597817"
+  },
+  {
+    "name": "UAB Euromega 3",
+    "code": "307193238",
+    "address": "Kaunas, Veiverių g. 61A, LT-46360"
   },
   {
     "name": "UAB \"Euromeja\"",
@@ -2798,6 +2809,11 @@
     "address": "Vilnius, Parko g. 29-23, LT-11215"
   },
   {
+    "name": "MB \"TR EUROPA\"",
+    "code": "307217536",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB \"Tv Europa ir partneriai\"",
     "code": "304244923",
     "address": "Vilnius, A. Vienuolio g. 14-17, LT-01104"
@@ -2832,7 +2848,8 @@
   {
     "name": "UAB \"EUROPA TRANSPORT GROUP\"",
     "code": "304940076",
-    "address": "Vilnius, Lentvario g. 1, LT-02300"
+    "address": "Vilnius, Lentvario g. 1, LT-02300",
+    "vatcode": "LT100018434112"
   },
   {
     "name": "UAB \"Electrohubs Europa\"",
@@ -2843,11 +2860,6 @@
     "name": "UAB \"Fintech Europa\"",
     "code": "305334957",
     "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
-    "name": "UAB \"GROUP EUROPA INVESTMENT\"",
-    "code": "300013278",
-    "address": "Vilnius, Aušros Vartų g. 6B, LT-01303"
   },
   {
     "name": "UAB \"IKC Youneed Europa\"",
@@ -2948,7 +2960,7 @@
     "vatcode": "LT100015970719"
   },
   {
-    "name": "UAB \"Europaletės\"",
+    "name": "MB \"Europaletės\"",
     "code": "304924983",
     "address": "Marijampolės sav., Marijampolės sen., Meškučių k., Vytauto g. 9, LT-68129",
     "vatcode": "LT100012395710"
@@ -3107,7 +3119,8 @@
   {
     "name": "Alchemy GPS Europe UAB",
     "code": "305972625",
-    "address": "Vilnius, J. Basanavičiaus g. 26, LT-03224"
+    "address": "Vilnius, J. Basanavičiaus g. 26, LT-03224",
+    "vatcode": "LT100018417415"
   },
   {
     "name": "Allive Europe UAB",
@@ -3118,7 +3131,8 @@
   {
     "name": "Alter Domus Agency Services Europe, UAB",
     "code": "305900152",
-    "address": "Vilnius, Lvivo g. 25-104, LT-09320"
+    "address": "Vilnius, Lvivo g. 25-104, LT-09320",
+    "vatcode": "LT100018508210"
   },
   {
     "name": "Anti-corruption foundation Europe, VšĮ",
@@ -3229,7 +3243,7 @@
   {
     "name": "Curve Europe UAB",
     "code": "305626541",
-    "address": "Vilnius, Jogailos g. 9, LT-01116",
+    "address": "Vilnius, J. Jasinskio g. 12, LT-01112",
     "vatcode": "LT100013766819"
   },
   {
@@ -3256,7 +3270,7 @@
   {
     "name": "Deus X Pay Europe, UAB",
     "code": "306555264",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
+    "address": "Vilnius, Žalgirio g. 90-100, LT-09303"
   },
   {
     "name": "ENDO Europe UAB",
@@ -3527,6 +3541,11 @@
     "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
   },
   {
+    "name": "MB \"HerWorX Europe\"",
+    "code": "307135911",
+    "address": "Vilnius, Krivių g. 5, LT-01204"
+  },
+  {
     "name": "MB \"IZOTOP EUROPE\"",
     "code": "306269882",
     "address": "Vilnius, Girulių g. 10, LT-12112"
@@ -3546,6 +3565,11 @@
     "code": "306143392",
     "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Pakumulšių k., Taikos g. 35, LT-81207",
     "vatcode": "LT100015330319"
+  },
+  {
+    "name": "MB \"Serenity Europe\"",
+    "code": "307205740",
+    "address": "Vilnius, Krivių g. 5, LT-01204"
   },
   {
     "name": "MB \"Wind and sea Europe\"",
@@ -3588,6 +3612,11 @@
     "name": "MB Europe whales",
     "code": "306044348",
     "address": "Vilnius, Gražinos g. 3, LT-10220"
+  },
+  {
+    "name": "MB PRS EUROPE",
+    "code": "307192905",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "MB Soulversity Europe",
@@ -3976,7 +4005,7 @@
   {
     "name": "UAB \"Bitexen Europe\"",
     "code": "306166722",
-    "address": "Vilnius, A. Domaševičiaus g. 9, LT-01400",
+    "address": "Vilnius, J. Basanavičiaus g. 26, LT-03224",
     "vatcode": "LT100016360911"
   },
   {
@@ -4021,7 +4050,7 @@
   {
     "name": "UAB \"Cybergizer Europe\"",
     "code": "304590715",
-    "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Kaštonų g. 27 K1, LT-14117",
+    "address": "Klaipėdos r. sav., Vėžaičių sen., Žvelsėnų k., Lankų g. 58, LT-96201",
     "vatcode": "LT100011172017"
   },
   {
@@ -4131,7 +4160,7 @@
   {
     "name": "UAB \"IDS BORJOMI EUROPE\"",
     "code": "301737900",
-    "address": "Vilnius, Jogailos g. 9, LT-01116",
+    "address": "Vilnius, Kęstučio g. 65-201, LT-08124",
     "vatcode": "LT100004172412"
   },
   {
@@ -4223,12 +4252,14 @@
   {
     "name": "UAB \"Optify Europe\"",
     "code": "307098605",
-    "address": "Marijampolė, P. Armino g. 8, LT-68297"
+    "address": "Marijampolė, P. Armino g. 8, LT-68297",
+    "vatcode": "LT100018375315"
   },
   {
     "name": "UAB \"PAYTEND EUROPE\"",
     "code": "304730875",
-    "address": "Vilnius, Gynėjų g. 16, LT-01110"
+    "address": "Vilnius, Gynėjų g. 16, LT-01110",
+    "vatcode": "LT100018353819"
   },
   {
     "name": "UAB \"PLAYTODAY EUROPE\"",
@@ -4308,7 +4339,7 @@
   {
     "name": "UAB \"SWAN EUROPE\"",
     "code": "305529964",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
+    "address": "Vilnius, Girulių g. 5, LT-12124"
   },
   {
     "name": "UAB \"Seven Seas Europe\"",
@@ -4470,6 +4501,11 @@
     "name": "UAB Europe Resourcing",
     "code": "302647480",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+  },
+  {
+    "name": "UAB Europe first bricks",
+    "code": "307197471",
+    "address": "Vilnius, Gulbinėlių g. 48D, LT-12204"
   },
   {
     "name": "UAB Extraction House Europe",
@@ -4696,6 +4732,11 @@
     "address": "Vilnius, Lvivo g. 25-104, LT-09320"
   },
   {
+    "name": "VšĮ \"EUROPE HUMANITARIAN RESCUE INTERNATIONAL\"",
+    "code": "307193697",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "VšĮ \"Eastern Europe research foundation\"",
     "code": "305889713",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
@@ -4771,7 +4812,8 @@
   {
     "name": "EUROPEAN COMPLIANCE PROFESSIONALS ASSOCIATION",
     "code": "306961037",
-    "address": "Vilnius, Aguonų g. 8B-13, LT-03213"
+    "address": "Vilnius, Aguonų g. 8B-13, LT-03213",
+    "vatcode": "LT100018334510"
   },
   {
     "name": "EUROPEAN MERCHANT BANK HOLDINGS, UAB",
@@ -6567,7 +6609,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"EUROSTAT IR KO\"",
     "code": "300665056",
-    "address": "Vilnius, A. Mickevičiaus g. 7-3, LT-08119"
+    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308"
   },
   {
     "name": "UAB \"Eurostata\"",

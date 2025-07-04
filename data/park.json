@@ -11,6 +11,12 @@
     "address": "Palanga, Parko g. 10A, LT-00303"
   },
   {
+    "name": "Code park, MB",
+    "code": "307198687",
+    "address": "Vilnius, Šatrijos g. 16-84, LT-09300",
+    "vatcode": "LT100018412313"
+  },
+  {
     "name": "EDS RETAIL PARK UAB",
     "code": "305700155",
     "address": "Vilnius, Lvivo g. 25-104, LT-09320"
@@ -190,6 +196,11 @@
     "vatcode": "LT100006384319"
   },
   {
+    "name": "VšĮ \"Lithuanian motorsport park\"",
+    "code": "307201813",
+    "address": "Vilnius, Aguonų g. 8E-21, LT-03213"
+  },
+  {
     "name": "WOLH Park, UAB",
     "code": "305907200",
     "address": "Kaunas, Brastos g. 15, LT-47183"
@@ -302,11 +313,6 @@
     "code": "306108103",
     "address": "Vilnius, Šeimyniškių g. 19B-301, LT-09233",
     "vatcode": "LT100016208210"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"Vilniaus parkai\"",
-    "code": "120185194",
-    "address": "Vilnius, M. K. Čiurlionio g. 100, LT-03100"
   },
   {
     "name": "Viešoji įstaiga \"Vilniaus miesto parkai\"",
@@ -756,11 +762,6 @@
     "address": "Vilkaviškis, Vytauto g. 103, LT-70118"
   },
   {
-    "name": "UAB \"Kavos parkas\"",
-    "code": "302904291",
-    "address": "Vilnius, Perkūnkiemio g. 9-50, LT-12114"
-  },
-  {
     "name": "UAB \"Klaipėdos verslo parkas\"",
     "code": "111808710",
     "address": "Klaipėda, Pramonės g. 6, LT-94102",
@@ -919,7 +920,8 @@
   {
     "name": "UAB \"Sunly saulės parkas 1\"",
     "code": "306131760",
-    "address": "Vilnius, Vilniaus g. 28-201, LT-01402"
+    "address": "Vilnius, Vilniaus g. 28-201, LT-01402",
+    "vatcode": "LT100018246214"
   },
   {
     "name": "UAB \"T Parkas\"",
@@ -1176,7 +1178,8 @@
   {
     "name": "UAB Širvintų parkas",
     "code": "307186681",
-    "address": "Vilnius, Dariaus ir Girėno g. 38, LT-02188"
+    "address": "Vilnius, Dariaus ir Girėno g. 38, LT-02188",
+    "vatcode": "LT100018314919"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Aplinkkelio verslo parkas\"",
@@ -1246,7 +1249,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Radviliškio autobusų parkas\"",
     "code": "271278580",
-    "address": "Radviliškis, Gedimino g. 31A, LT-82174",
+    "address": "Radviliškis, Gedimino g. 31, LT-82174",
     "vatcode": "LT712785811"
   },
   {
@@ -1863,6 +1866,12 @@
     "name": "MB \"Šalia parko\"",
     "code": "303524872",
     "address": "Pasvalio r. sav., Krinčinas, Antano Vienažindžio g. 13, LT-39462"
+  },
+  {
+    "name": "MB Kauno sodo parko technikos centras",
+    "code": "306368325",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
+    "vatcode": "LT100017648114"
   },
   {
     "name": "MB PARKO ODONTOLOGIJOS KLINIKA",

@@ -126,11 +126,6 @@
     "address": "Kauno r. sav., Vilkijos apylinkių sen., Vilkijos k., Matanskynės g. 15, LT-54224"
   },
   {
-    "name": "Daliaus Matiuko firma \"Pegula\"",
-    "code": "234642490",
-    "address": "Kaunas, Medvėgalio g. 9-49, LT-44443"
-  },
-  {
     "name": "Daliaus Naviko įmonė",
     "code": "169234615",
     "address": "Pasvalys, Žemaitės g. 6A, LT-39152",
@@ -147,11 +142,6 @@
     "address": "Neringa, L. Rėzos g. 46-6, LT-93101"
   },
   {
-    "name": "Daliaus Variakojo įmonė",
-    "code": "135800070",
-    "address": "Kaunas, Laisvės al. 102A-10, LT-44252"
-  },
-  {
     "name": "Daliaus Zigmanto Šarakausko projektavimo įmonė",
     "code": "132557535",
     "address": "Kaunas, Nepriklausomybės a. 7-5, LT-44240",
@@ -160,7 +150,8 @@
   {
     "name": "Daliaus stogai MB",
     "code": "306988365",
-    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Sniego g. 15, LT-54311"
+    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Sniego g. 15, LT-54311",
+    "vatcode": "LT100017463716"
   },
   {
     "name": "IĮ \"Daliaus Kopicos įmonė\"",
@@ -194,11 +185,6 @@
     "code": "304921478",
     "address": "Kauno r. sav., Garliava, Darbininkų g. 35, LT-53259",
     "vatcode": "LT100012437316"
-  },
-  {
-    "name": "V. Dalibago techninio aptarnavimo įmonė",
-    "code": "140447864",
-    "address": "Klaipėda, Antrosios Melnragės g. 4, LT-92280"
   },
   {
     "name": "UAB \"Dalidenta\"",
@@ -399,18 +385,12 @@
   {
     "name": "Dalios Bakanavičienės įmonė",
     "code": "187892458",
-    "address": "Zarasai, Sinagogos g. 1B, LT-32106",
-    "vatcode": "LT878924515"
+    "address": "Zarasai, Sinagogos g. 1B, LT-32106"
   },
   {
     "name": "Dalios Baliukevičienės stomatologijos kabinetas",
     "code": "151282912",
     "address": "Marijampolė, R. Juknevičiaus g. 7-3"
-  },
-  {
-    "name": "Dalios Baranauskienės įmonė",
-    "code": "144774831",
-    "address": "Šiauliai, Birutės g. 71, LT-76217"
   },
   {
     "name": "Dalios Barščiauskienės individuali įmonė",
@@ -441,16 +421,6 @@
     "address": "Mažeikiai, P. Matulionio g. 40-11, LT-89214"
   },
   {
-    "name": "Dalios Karalienės projektavimo firma",
-    "code": "135734873",
-    "address": "Kaunas, Vievio g. 31, LT-44431"
-  },
-  {
-    "name": "Dalios Krivošejevienės įmonė",
-    "code": "133335683",
-    "address": "Kaunas, Panerių g. 26-1, LT-48348"
-  },
-  {
     "name": "Dalios Kulikauskienės įmonė",
     "code": "161395716",
     "address": "Kėdainių r. sav., Dotnuvos sen., Akademijos mstl., Ruokio g. 7-21, LT-58341",
@@ -460,11 +430,6 @@
     "name": "Dalios Kupčinskienės stomatologijos kabinetas",
     "code": "161448738",
     "address": "Kėdainiai, Mindaugo g. 16-1, LT-57458"
-  },
-  {
-    "name": "Dalios Lamauskienės įmonė",
-    "code": "145418119",
-    "address": "Šiauliai, Vilniaus g. 215-13, LT-76348"
   },
   {
     "name": "Dalios Matutytės individuali įmonė",
@@ -493,11 +458,6 @@
     "address": "Vilnius, Antakalnio g. 57, LT-10207"
   },
   {
-    "name": "Dalios Piliponienės individuali įmonė",
-    "code": "135755668",
-    "address": "Kaunas, Ignalinos g. 19, LT-50117"
-  },
-  {
     "name": "Dalios Rudienės įmonė",
     "code": "177032734",
     "address": "Šilutė, Lietuvininkų g. 42A-4, LT-99176"
@@ -506,11 +466,6 @@
     "name": "Dalios Sakalauskienės IĮ",
     "code": "126115473",
     "address": "Vilnius, Vytenio g. 2-2, LT-03113"
-  },
-  {
-    "name": "Dalios Strigūnienės įmonė",
-    "code": "135207547",
-    "address": "Kaunas, Partizanų g. 100-22, LT-50344"
   },
   {
     "name": "Dalios Sutkuvienės individuali įmonė",
@@ -528,14 +483,9 @@
     "address": "Alytus, Kranto g. 18, LT-62147"
   },
   {
-    "name": "Dalios Vaičiukynienės neurologinis kabinetas",
-    "code": "157586039",
-    "address": "Joniškis, Pašvitinio g. 21, LT-84152"
-  },
-  {
     "name": "Dalios Valodzienės individuali įmonė",
     "code": "257938160",
-    "address": "Joniškio r. sav., Joniškio sen., Bertaučių k.",
+    "address": "Joniškio r. sav., Joniškio sen., Bertaučių k., Beržų g. 7, LT-84118",
     "vatcode": "LT100001083213"
   },
   {
@@ -564,11 +514,6 @@
     "name": "Dalios ir Remigijaus Lapinskų labdaros ir paramos fondas",
     "code": "304698299",
     "address": "Vilnius, Pylimo g. 27-3, LT-01309"
-  },
-  {
-    "name": "Dalios Šidlauskienės įmonė",
-    "code": "145310442",
-    "address": "Šiauliai, Vytauto g. 65-55, LT-77149"
   },
   {
     "name": "MB \"Dalios kūrybinės dirbtuvės\"",

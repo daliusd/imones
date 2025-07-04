@@ -339,12 +339,13 @@
   {
     "name": "Viešoji įstaiga \"Senelės pasaka\"",
     "code": "305123020",
-    "address": "Vilnius, Gailestingųjų Seserų g. 10-11, LT-10311"
+    "address": "Utenos r. sav., Sudeikių sen., Kirklių k., Bradeso g. 6B, LT-28400"
   },
   {
     "name": "Viešoji įstaiga vaikų darželis \"Karalių pasaka\"",
     "code": "300670377",
-    "address": "Vilnius, Šerkšno g. 16, LT-04126"
+    "address": "Vilnius, Šerkšno g. 16, LT-04126",
+    "vatcode": "LT100018362515"
   },
   {
     "name": "Vilkaviškio vaikų lopšelis-darželis \"Pasaka\"",
@@ -842,7 +843,7 @@
   {
     "name": "Pasaulio kybartiečių draugija",
     "code": "301240791",
-    "address": "Vilkaviškio r. sav., Kybartai, J. Basanavičiaus g. 44, LT-70417"
+    "address": "Vilkaviškio r. sav., Kybartai, J. Basanavičiaus g. 44-4, LT-70417"
   },
   {
     "name": "Pasaulio lietuvių bendruomenės asociacija",
@@ -1433,20 +1434,10 @@
     "vatcode": "LT100008372719"
   },
   {
-    "name": "MB \"Uogų pasaulis\"",
-    "code": "305687124",
-    "address": "Radviliškis, Dariaus ir Girėno g. 38-10, LT-82138"
-  },
-  {
     "name": "MB \"Vadovo pasaulis\"",
     "code": "304421590",
     "address": "Kaunas, Jonavos g. 20, LT-44262",
     "vatcode": "LT100011477219"
-  },
-  {
-    "name": "MB \"Vaisių pasaulis\"",
-    "code": "303313868",
-    "address": "Mažeikiai, Tylioji g. 36-9, LT-89308"
   },
   {
     "name": "MB \"Vertimų pasaulis ir Ko\"",
@@ -1564,7 +1555,8 @@
   {
     "name": "MB Sveiko grožio pasaulis",
     "code": "307066283",
-    "address": "Panevėžys, Smėlynės g. 17-1, LT-35144"
+    "address": "Panevėžys, Smėlynės g. 17-1, LT-35144",
+    "vatcode": "LT100018446015"
   },
   {
     "name": "MB Vaiko pasaulis",
@@ -2093,6 +2085,11 @@
     "name": "UAB Kaladėlių pasaulis",
     "code": "307053720",
     "address": "Vilnius, Krivių g. 5, LT-01204"
+  },
+  {
+    "name": "UAB Kelionių pasaulis",
+    "code": "303514892",
+    "address": "Kaunas, Laisvės al. 110, LT-44253"
   },
   {
     "name": "UAB Pilates pasaulis",

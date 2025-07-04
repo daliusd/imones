@@ -580,6 +580,11 @@
     "address": "Alytaus r. sav., Nemunaitis, Vangelonių g. 9, LT-64205"
   },
   {
+    "name": "MB Dzūko sodas",
+    "code": "307195584",
+    "address": "Alytaus r. sav., Pivašiūnų sen., Einoronių k., Kazimieravo kel. 4, LT-64483"
+  },
+  {
     "name": "MB Lifo sodas",
     "code": "306321585",
     "address": "Kaunas, Draugystės g. 17-1, LT-51229"
@@ -593,11 +598,6 @@
     "name": "MB Radvilų sodas",
     "code": "305757238",
     "address": "Kėdainiai, J. Basanavičiaus g. 148-45, LT-57373"
-  },
-  {
-    "name": "MB Rudens sodas",
-    "code": "305914127",
-    "address": "Vilnius, Viršilų g. 6-115, LT-05131"
   },
   {
     "name": "MB Sodas ir sodininkas",
@@ -724,7 +724,8 @@
   {
     "name": "UAB \"Vaikystės sodas\"",
     "code": "302602019",
-    "address": "Vilnius, Lukšinės g. 29, LT-11332"
+    "address": "Vilnius, Lukšinės g. 29, LT-11332",
+    "vatcode": "LT100018285713"
   },
   {
     "name": "UAB \"Ąžuolų sodas\"",
