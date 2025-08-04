@@ -169,11 +169,6 @@
     "address": "Utena, Žemaitės g. 29A, LT-28140"
   },
   {
-    "name": "Onos Strakšytės individuali įmonė",
-    "code": "125492261",
-    "address": "Vilnius, Eišiškių pl. 8, LT-02184"
-  },
-  {
     "name": "UAB \"Stralina\"",
     "code": "304787869",
     "address": "Telšiai, Sedos g. 34A, LT-87101"
@@ -391,7 +386,8 @@
   {
     "name": "MB EVG STRATEGIES",
     "code": "307115976",
-    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297",
+    "vatcode": "LT100018604012"
   },
   {
     "name": "MB Go strategies",
@@ -657,7 +653,7 @@
   {
     "name": "MB \"Strateginiai verslo sprendimai\"",
     "code": "304038364",
-    "address": "Vilnius, Rugių g. 7B-7, LT-08417"
+    "address": "Kaunas, Aušros g. 15-2, LT-44173"
   },
   {
     "name": "UAB \"Strateginiai partneriai\"",
@@ -873,11 +869,6 @@
     "address": "Vilnius, Rūdninkų g. 14, LT-01135"
   },
   {
-    "name": "UAB \"Key Strategy\"",
-    "code": "307185622",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
-  },
-  {
     "name": "UAB \"Next strategy\"",
     "code": "305992460",
     "address": "Vilnius, Giedraičių g. 39-6, LT-09302",
@@ -945,9 +936,14 @@
     "address": "Vilnius, Jurgio Baltrušaičio g. 11-124, LT-06145"
   },
   {
+    "name": "MB \"StratIQ - consulting\"",
+    "code": "307287488",
+    "address": "Vilnius, Virginijaus Druskio g. 1-200, LT-04307"
+  },
+  {
     "name": "UAB \"Strativa\"",
     "code": "307201165",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
+    "address": "Šiauliai, Lizdeikos g. 5, LT-77112"
   },
   {
     "name": "I. Stratkausko individuali įmonė",
@@ -994,7 +990,8 @@
   {
     "name": "UAB \"Stratosfera\"",
     "code": "305466204",
-    "address": "Ignalinos r. sav., Ignalinos sen., Didžiasalio k., Didžiasalio g. 27, LT-30197"
+    "address": "Ignalinos r. sav., Ignalinos sen., Didžiasalio k., Didžiasalio g. 27, LT-30197",
+    "vatcode": "LT100013525314"
   },
   {
     "name": "MB \"STRATUM LT\"",
@@ -1289,10 +1286,5 @@
     "name": "Stračiūnų bendruomenė",
     "code": "301737875",
     "address": "Druskininkų sav., Leipalingio sen., Stračiūnų k., Žaliamiškio g. 38, LT-67267"
-  },
-  {
-    "name": "L. Straževičiaus įmonė",
-    "code": "254850470",
-    "address": "Biržų r. sav., Širvėnos sen., Nausėdžių k."
   }
 ]

@@ -38,11 +38,6 @@
     "address": "Raseinių r. sav., Nemakščiai, Laisvės g. 52, LT-60384"
   },
   {
-    "name": "A. Galiausko firma \"ALIS IR KO\"",
-    "code": "225294750",
-    "address": "Vilnius, Architektų g. 79-34, LT-04208"
-  },
-  {
     "name": "A. Karaciejienės individuali įmonė \"AURELIJA ir Ko\"",
     "code": "120333255",
     "address": "Vilnius, T. Ševčenkos g. 16, LT-03111",
@@ -376,7 +371,8 @@
   {
     "name": "MB \"Ko nepametus\"",
     "code": "307189720",
-    "address": "Kazlų Rūdos sav., Jankų sen., Jankų k., Liepų g. 12, LT-71253"
+    "address": "Kazlų Rūdos sav., Jankų sen., Jankų k., Liepų g. 12, LT-71253",
+    "vatcode": "LT100018528619"
   },
   {
     "name": "MB \"Kompanija ir ko\"",
@@ -477,7 +473,8 @@
   {
     "name": "MB \"Pramogų biuras\" ir ko",
     "code": "306711749",
-    "address": "Biržų r. sav., Širvėnos sen., Kirkilų k., Mokyklos g. 13, LT-41183"
+    "address": "Biržų r. sav., Širvėnos sen., Kirkilų k., Mokyklos g. 13, LT-41183",
+    "vatcode": "LT100017279417"
   },
   {
     "name": "MB \"Pukeliai ir ko\"",
@@ -505,7 +502,7 @@
   {
     "name": "MB \"Tadas ir KO\"",
     "code": "306247163",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Fabijoniškių g. 2-149, LT-07100"
   },
   {
     "name": "MB \"Tauras ir ko\"",
@@ -645,7 +642,8 @@
   {
     "name": "MB Tadjuta ir ko",
     "code": "307042581",
-    "address": "Ukmergės r. sav., Deltuvos sen., Dainavos k., Pakalnės g. 11, LT-20287"
+    "address": "Ukmergės r. sav., Deltuvos sen., Dainavos k., Pakalnės g. 11, LT-20287",
+    "vatcode": "LT100018579613"
   },
   {
     "name": "MB Tomsa ir ko",
@@ -683,11 +681,6 @@
     "name": "Paunksnis ir ko, MB",
     "code": "305622151",
     "address": "Vilnius, Algimanto Petro Kavoliuko g. 19-21, LT-04321"
-  },
-  {
-    "name": "R. Gabės firma \"GABER IR KO\"",
-    "code": "123218468",
-    "address": "Vilnius, Savanorių pr. 174G"
   },
   {
     "name": "Ričardo Vaigausko personalinė firma \"RIČARDAS IR KO\"",
@@ -1015,7 +1008,7 @@
   {
     "name": "UAB \"Dailius ir Ko\"",
     "code": "303347404",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Pagirių k., Pagirių g. 17, LT-53282",
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Ražiškių k., Rokų pl. 56, LT-53278",
     "vatcode": "LT100008703016"
   },
   {
@@ -1165,11 +1158,6 @@
     "name": "UAB \"Fujima\" ir ko",
     "code": "168460084",
     "address": "Panevėžio r. sav., Karsakiškio sen., Vaivadų k."
-  },
-  {
-    "name": "UAB \"GALEASA\" IR KO",
-    "code": "125934975",
-    "address": "Vilnius, Dariaus ir Girėno g. 25, LT-02188"
   },
   {
     "name": "UAB \"GERDUVA ir Ko\"",
@@ -1731,7 +1719,8 @@
   {
     "name": "UAB \"PLAGENA\" IR KO",
     "code": "142168895",
-    "address": "Klaipėda, Upelio g. 36, LT-93268"
+    "address": "Klaipėda, Upelio g. 36, LT-93268",
+    "vatcode": "LT100002282112"
   },
   {
     "name": "UAB \"PODPRIATOV ir Ko\"",
@@ -2154,8 +2143,7 @@
   {
     "name": "UAB \"Vilkdara\" ir ko",
     "code": "285273860",
-    "address": "Vilkaviškio r. sav., Šeimenos sen., Mažųjų Būdežerių k., Kumečių g. 2, LT-70181",
-    "vatcode": "LT852738610"
+    "address": "Vilkaviškio r. sav., Šeimenos sen., Mažųjų Būdežerių k., Kumečių g. 2, LT-70181"
   },
   {
     "name": "UAB \"Vilniaus konservai ir ko\"",
@@ -2218,6 +2206,12 @@
     "name": "UAB \"Vytautas ir Ko\"",
     "code": "305293414",
     "address": "Kėdainiai, Aušros g. 24, LT-57161"
+  },
+  {
+    "name": "UAB \"Ąžuolytė ir Ko\"",
+    "code": "168475015",
+    "address": "Panevėžio r. sav., Ramygalos sen., Daukšynės k. 2, LT-38256",
+    "vatcode": "LT684750113"
   },
   {
     "name": "UAB \"ČEKAUSKAS IR KO\"",
@@ -2306,8 +2300,7 @@
   {
     "name": "UAB G.Kleiza ir ko",
     "code": "300087766",
-    "address": "Prienai, F. Martišiaus g. 31, LT-59118",
-    "vatcode": "LT100001747615"
+    "address": "Prienai, F. Martišiaus g. 31, LT-59118"
   },
   {
     "name": "UAB GPK ir ko",
@@ -2413,7 +2406,8 @@
   {
     "name": "UAB Žlibinai ir ko",
     "code": "307126855",
-    "address": "Plungės r. sav., Žlibinų sen., Žlibinų k., Žarėnų g. 59, LT-90261"
+    "address": "Plungės r. sav., Žlibinų sen., Žlibinų k., Žarėnų g. 59, LT-90261",
+    "vatcode": "LT100018544318"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"AVIKOS TEKSTILĖ\" IR KO",
@@ -2482,7 +2476,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"AUTOPASAULIS\" IR KO",
     "code": "124603164",
-    "address": "Vilnius, Konstitucijos pr. 23, LT-08105",
+    "address": "Vilniaus r. sav., Juodšilių sen., Prūdiškių k., Prūdiškių g. 19A, LT-13225",
     "vatcode": "LT246031610"
   },
   {

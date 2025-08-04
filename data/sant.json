@@ -719,6 +719,11 @@
     "address": "Kauno r. sav., Neveronių sen., Neveronių k., Davalgonių g. 37-2, LT-54482"
   },
   {
+    "name": "MB \"An santechnika\"",
+    "code": "307328020",
+    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Erdvės g. 18B-1, LT-54303"
+  },
+  {
     "name": "MB \"Dainiaus santechnika\"",
     "code": "304455913",
     "address": "Panevėžio r. sav., Upytės sen., Tarnagalos k., Krekenavos g. 35, LT-38291",
@@ -804,7 +809,13 @@
   {
     "name": "MB Palangos santechnika",
     "code": "306980094",
-    "address": "Palanga, Medvalakio g. 5-38, LT-00142"
+    "address": "Palanga, Medvalakio g. 5-38, LT-00142",
+    "vatcode": "LT100018566712"
+  },
+  {
+    "name": "MB Patikima santechnika",
+    "code": "307267471",
+    "address": "Ukmergė, Anykščių g. 1-25, LT-20182"
   },
   {
     "name": "MB SDA santechnika",
@@ -1106,7 +1117,7 @@
   {
     "name": "MB \"Santechrad\"",
     "code": "306018613",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Kalotės k., Tovės g. 3, LT-92275"
   },
   {
     "name": "UAB Santechsa",
@@ -1380,10 +1391,11 @@
   {
     "name": "MB Santinkla",
     "code": "306864798",
-    "address": "Vilnius, Architektų g. 14-60, LT-04120"
+    "address": "Vilnius, Architektų g. 14-60, LT-04120",
+    "vatcode": "LT100018635416"
   },
   {
-    "name": "MB \"Santinklai\"",
+    "name": "UAB \"Santinklai\"",
     "code": "305278572",
     "address": "Alytaus r. sav., Alovės sen., Alytaus k., Rožių g. 19, LT-64105",
     "vatcode": "LT100012703613"
@@ -1615,6 +1627,11 @@
     "address": "Vilnius, Lvivo g. 13-12, LT-09313"
   },
   {
+    "name": "MB Santva",
+    "code": "307253977",
+    "address": "Trakų r. sav., Senųjų Trakų sen., Senųjų Trakų k., Trakų g. 24, LT-21146"
+  },
+  {
     "name": "Garažų eksploatavimo bendrija \"SANTVARA-4\"",
     "code": "261594320",
     "address": "Kėdainiai, Chemikų g. 18A, LT-57423"
@@ -1745,7 +1762,8 @@
   {
     "name": "Viešoji įstaiga Šeimos santykių institutas",
     "code": "135809596",
-    "address": "Kaunas, L. Zamenhofo g. 9, LT-44287"
+    "address": "Kaunas, L. Zamenhofo g. 9, LT-44287",
+    "vatcode": "LT100018626013"
   },
   {
     "name": "Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto Alumni draugija",

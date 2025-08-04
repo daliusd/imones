@@ -50,19 +50,14 @@
     "address": "Klaipėda, Panevėžio g. 9-46, LT-92316"
   },
   {
-    "name": "Nepriklausoma teismo psichiatrijos tarnyba",
-    "code": "303048035",
-    "address": "Vilnius, Džiaugsmo g. 22, LT-11306"
-  },
-  {
-    "name": "Palmiros Rudalevičienės psichiatrijos kabinetas",
-    "code": "125106717",
-    "address": "Vilnius, P. Žadeikos g. 28-28, LT-06322"
-  },
-  {
     "name": "Rokiškio psichiatrijos ligoninės profesinė sąjunga \"Solidarumas\"",
     "code": "173745213",
     "address": "Rokiškis, Vytauto g. 47, LT-42100"
+  },
+  {
+    "name": "UAB Nepriklausoma teismo psichiatrijos tarnyba",
+    "code": "303048035",
+    "address": "Vilnius, Džiaugsmo g. 22, LT-11306"
   },
   {
     "name": "VIEŠOSIOS ĮSTAIGOS RESPUBLIKINĖS VILNIAUS PSICHIATRIJOS LIGONINĖS SVEIKATOS APSAUGOS DARBUOTOJŲ PROFESINĖ SĄJUNGA",
@@ -419,7 +414,8 @@
   {
     "name": "Psichoantropologijos bendrija",
     "code": "304469838",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100018614413"
   },
   {
     "name": "Psichodinaminės psichoterapijos studija, MB",
@@ -465,7 +461,7 @@
   {
     "name": "MB \"Mitybos psichologija\"",
     "code": "306208993",
-    "address": "Vilnius, Krivių g. 5, LT-01204"
+    "address": "Kaunas, Mirtų g. 12D, LT-46442"
   },
   {
     "name": "MB \"Psichologija ir psichoterapija\"",
@@ -1135,6 +1131,11 @@
     "name": "MB Nk psichoterapija ir mokymai",
     "code": "305908003",
     "address": "Vilnius, Subačiaus g. 10-17, LT-01302"
+  },
+  {
+    "name": "MB Psichoterapija",
+    "code": "307289208",
+    "address": "Vilnius, Kareivių g. 19-22, LT-09133"
   },
   {
     "name": "Patyriminė psichoterapija, MB",

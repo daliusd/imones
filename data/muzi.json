@@ -212,7 +212,7 @@
     "address": "Kretinga, Vilniaus g. 43, LT-97102"
   },
   {
-    "name": "Kupiškio etnografijos muziejus",
+    "name": "Kupiškio muziejus",
     "code": "188210864",
     "address": "Kupiškis, Gedimino g. 2, LT-40109"
   },
@@ -394,7 +394,8 @@
   {
     "name": "Panevėžio kraštotyros muziejus",
     "code": "190431446",
-    "address": "Panevėžys, Vasario 16-osios g. 23, LT-35185"
+    "address": "Panevėžys, Vasario 16-osios g. 23, LT-35185",
+    "vatcode": "LT100018527812"
   },
   {
     "name": "Pasvalio krašto muziejus",
@@ -520,7 +521,8 @@
   {
     "name": "Viešoji įstaiga I. Luckevičiaus baltarusių muziejus",
     "code": "110082694",
-    "address": "Vilnius, Raugyklos g. 25-201, LT-01140"
+    "address": "Vilnius, Raugyklos g. 25-201, LT-01140",
+    "vatcode": "LT100018582613"
   },
   {
     "name": "Viešoji įstaiga Kauno arkivyskupijos muziejus",
@@ -871,6 +873,11 @@
     "code": "304777526",
     "address": "Vilniaus r. sav., Dūkštų sen., Rusėnų k. 5, LT-14221",
     "vatcode": "LT100011968014"
+  },
+  {
+    "name": "MB \"Sąmoninga muzika\"",
+    "code": "307341085",
+    "address": "Vilnius, A. Kojelavičiaus g. 62, LT-11102"
   },
   {
     "name": "MB \"Tavo muzika\"",
@@ -1278,6 +1285,11 @@
     "address": "Ignalina, Atgimimo g. 30, LT-30119"
   },
   {
+    "name": "IĮ Muzikos ir poezijos dialogai",
+    "code": "307306561",
+    "address": "Klaipėdos r. sav., Priekulės sen., Derceklių k., Genių g. 49, LT-96387"
+  },
+  {
     "name": "JAUNIMO MUZIKOS KLUBAS ROCKMERGĖ",
     "code": "302447597",
     "address": "Ukmergė, Kauno g. 16A-1, LT-20114"
@@ -1503,6 +1515,12 @@
     "name": "MB Muzikos akademija",
     "code": "304244859",
     "address": "Zarasai, P. Širvio g. 24-18, LT-32125"
+  },
+  {
+    "name": "MB Muzikos estrada",
+    "code": "307255476",
+    "address": "Neringa, Gintaro Įlankos g. 8-2, LT-93102",
+    "vatcode": "LT100018642610"
   },
   {
     "name": "MUZIKOS IR MENO MOKYKLŲ VADOVŲ ASOCIACIJA",

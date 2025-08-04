@@ -810,7 +810,7 @@
   {
     "name": "EstateGuru Lietuva, UAB",
     "code": "305009401",
-    "address": "Vilnius, Juozo Balčikonio g. 9, LT-08247"
+    "address": "Vilnius, Lvivo g. 25, LT-09320"
   },
   {
     "name": "Europos studentų teisininkų asociacijos Lietuvos nacionalinė grupė ELSA Lietuva",
@@ -1238,7 +1238,7 @@
   {
     "name": "UAB \"CID Lietuva\"",
     "code": "302666623",
-    "address": "Vilnius, Tilto g. 1, LT-01101",
+    "address": "Vilnius, Aludarių g. 1, LT-01113",
     "vatcode": "LT100006850215"
   },
   {
@@ -1643,6 +1643,12 @@
     "code": "110582272",
     "address": "Kaišiadorių r. sav., Žiežmarių apylinkės sen., Mūro Strėvininkų k.",
     "vatcode": "LT105822716"
+  },
+  {
+    "name": "UAB \"OC VISION Lietuva\"",
+    "code": "111528911",
+    "address": "Vilnius, Gedimino pr. 3A-102, LT-01103",
+    "vatcode": "LT115289113"
   },
   {
     "name": "UAB \"ORLEN Service Lietuva\"",
@@ -2213,7 +2219,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"LUNDBECK LIETUVA\"",
     "code": "211628460",
-    "address": "Vilnius, Tilto g. 1, LT-01101",
+    "address": "Vilnius, Aludarių g. 1, LT-01113",
     "vatcode": "LT116284610"
   },
   {
@@ -4309,7 +4315,7 @@
   {
     "name": "Akciju sabiedriba \"Citadele banka\" Lietuvos filialas",
     "code": "304940934",
-    "address": "Vilnius, Upės g. 21-1, LT-08128"
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
   },
   {
     "name": "Akcinė bendrovė \"Lietuvos draudimas\"",
@@ -4519,6 +4525,12 @@
     "address": "Vilnius, Fermentų g. 10, LT-02244"
   },
   {
+    "name": "Asociacija LIETUVOS KREPŠINIS",
+    "code": "123921648",
+    "address": "Kaunas, Santakos g. 11, LT-44279",
+    "vatcode": "LT100005579118"
+  },
+  {
     "name": "Asociacija Lietuvos Esporto federacija",
     "code": "307166159",
     "address": "Kaunas, Kalniečių g. 247-67, LT-49340"
@@ -4603,11 +4615,6 @@
     "name": "BALT LOAD SIA - Lietuvos filialas",
     "code": "303267082",
     "address": "Kauno miesto savivaldybės teritorija"
-  },
-  {
-    "name": "BE Group OU Lietuvos filialas",
-    "code": "305776594",
-    "address": "Vilnius, T. Narbuto g. 5-1, LT-08106"
   },
   {
     "name": "BIG BROTHERS BIG SISTERS Lietuvos asociacija",
@@ -4939,7 +4946,7 @@
   {
     "name": "Bendra Lietuvos-JAV įmonė uždaroji akcinė bendrovė \"Bost-Baltik\"",
     "code": "210440950",
-    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Raguvos g. 1, LT-54360"
+    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Plačioji g. 4C, LT-54360"
   },
   {
     "name": "Bendra Lietuvos-Kinijos įmonė uždaroji akcinė bendrovė \"MONDLO\"",
@@ -5540,7 +5547,8 @@
   {
     "name": "Koncertinė įstaiga Lietuvos simfoninis pučiamųjų orkestras",
     "code": "190755551",
-    "address": "Vilnius, T. Ševčenkos g. 19A, LT-03111"
+    "address": "Vilnius, T. Ševčenkos g. 19A, LT-03111",
+    "vatcode": "LT100018601119"
   },
   {
     "name": "Koncertinė įstaiga Lietuvos valstybinis simfoninis orkestras",
@@ -5818,7 +5826,7 @@
   {
     "name": "LIETUVOS GENEALOGIJOS IR HERALDIKOS DRAUGIJA",
     "code": "300630639",
-    "address": "Kaunas, Laisvės al. 39, LT-44309"
+    "address": "Kaunas, Laisvės al. 39-1, LT-44309"
   },
   {
     "name": "LIETUVOS GENEALOGIJOS IR HERALDIKOS KOMISIJA",
@@ -6013,12 +6021,6 @@
     "name": "LIETUVOS KOSMETIKOS IR BUITINĖS CHEMIJOS GAMINTOJŲ ASOCIACIJA \"LIKOCHEMA\"",
     "code": "125373741",
     "address": "Vilnius, Vykinto g. 16, LT-08117"
-  },
-  {
-    "name": "LIETUVOS KREPŠINIO FEDERACIJA",
-    "code": "123921648",
-    "address": "Kaunas, Santakos g. 11, LT-44279",
-    "vatcode": "LT100005579118"
   },
   {
     "name": "LIETUVOS KREPŠINIO LYGA (LKL)",
@@ -6309,7 +6311,7 @@
   {
     "name": "LIETUVOS POVANDENINIO SPORTO FEDERACIJA",
     "code": "190780191",
-    "address": "Vilnius, Dūkštų g. 11-73, LT-07177"
+    "address": "Palanga, Sermiesčio g. 38, LT-00156"
   },
   {
     "name": "LIETUVOS PRAMOGINIŲ ŠOKIŲ ASOCIACIJA",
@@ -6832,6 +6834,12 @@
     "name": "Lietuvos Alzheimerio ligos asociacija (LALA)",
     "code": "195769544",
     "address": "Vilnius, Vasaros g. 5, LT-10309"
+  },
+  {
+    "name": "Lietuvos Angusų asociacija",
+    "code": "304919032",
+    "address": "Elektrėnų sav., Pastrėvio sen., Lunkiškių k. 3A, LT-21342",
+    "vatcode": "LT100017667116"
   },
   {
     "name": "Lietuvos Antrojo pasaulinio karo antihitlerinės koalicijos pusėje dalyvių Tauragės rajono organizacija",
@@ -7480,7 +7488,7 @@
   {
     "name": "Lietuvos Respublikos žvalgybos kontrolierių įstaiga",
     "code": "306316353",
-    "address": "Vilnius, Gedimino pr. 53, LT-01109"
+    "address": "Vilnius, Gedimino pr. 11, LT-01103"
   },
   {
     "name": "Lietuvos Restauratorių Asociacija",
@@ -9247,6 +9255,11 @@
     "address": "Vilnius, Birutės Marijos Gimbutienės g. 10, LT-10245"
   },
   {
+    "name": "Lietuvos ergoterapeutų draugija",
+    "code": "301618636",
+    "address": "Kaunas, Eivenių g. 2, LT-50161"
+  },
+  {
     "name": "Lietuvos esperantininkų sąjunga",
     "code": "191729221",
     "address": "Kauno miesto savivaldybės teritorija"
@@ -9483,7 +9496,7 @@
   {
     "name": "Lietuvos gaisrinės saugos asociacija",
     "code": "195729592",
-    "address": "Vilnius, Perkūnkiemio g. 2, LT-12126"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "Lietuvos galiūnų federacija",
@@ -10586,7 +10599,7 @@
   {
     "name": "Lietuvos ir Vokietijos uždaroji akcinė bendrovė \"DAJURA\"",
     "code": "210685540",
-    "address": "Vilnius, Žirmūnų g. 68, LT-09124",
+    "address": "Vilniaus r. sav., Riešės sen., Pašilių k., Pašilių g. 18, LT-14257",
     "vatcode": "LT106855416"
   },
   {
@@ -12007,11 +12020,6 @@
     "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Dvaro g. 33, LT-54465"
   },
   {
-    "name": "Lietuvos kuro durpių tiekėjų asociacija",
-    "code": "303667354",
-    "address": "Vilnius, Giedraičių g. 60A, LT-08212"
-  },
-  {
     "name": "Lietuvos kurortų asociacija",
     "code": "300659498",
     "address": "Birštonas, Jaunimo g. 2, LT-59206"
@@ -12458,7 +12466,7 @@
   {
     "name": "Lietuvos medžioklinių ir sportinių šunų klubas",
     "code": "306699859",
-    "address": "Palanga, Medvalakio g. 12-3, LT-00146"
+    "address": "Kretingos r. sav., Imbarės sen., Žeimių k., Kazimiero Olšausko g. 17, LT-97318"
   },
   {
     "name": "Lietuvos medžioklinių paukštinių šunų mėgėjų klubas",
@@ -12693,7 +12701,7 @@
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Lazdijų skyriaus Leipalingio medžiotojų būrelis",
     "code": "191545292",
-    "address": "Lazdijų r. sav., Veisiejų sen., Varnėnų k."
+    "address": "Druskininkų sav., Leipalingis, Merkinės g. 3, LT-67280"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Lazdijų skyriaus Paliepio medžiotojų būrelis",
@@ -12758,7 +12766,7 @@
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Skuodo medžiotojų skyrius",
     "code": "193286625",
-    "address": "Skuodas, J. Basanavičiaus g. 1, LT-98112"
+    "address": "Skuodas, Dariaus ir Girėno g. 31-34, LT-98119"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Tauragės skyriaus \"Dabrupinės\" medžiotojų būrelis",
@@ -15658,7 +15666,7 @@
   {
     "name": "Lietuvos studentų futbolo lyga",
     "code": "191972928",
-    "address": "Vilnius, Rinktinės g. 3, LT-09234"
+    "address": "Kaunas, Sporto g. 3, LT-44221"
   },
   {
     "name": "Lietuvos studentų krepšinio lyga",
@@ -15804,7 +15812,7 @@
   {
     "name": "Lietuvos sveikatos apsaugos profesinių sąjungų federacija",
     "code": "304840909",
-    "address": "Kaunas, Jotvingių g. 9-64, LT-48136"
+    "address": "Kaunas, Gedimino g. 33, LT-44311"
   },
   {
     "name": "Lietuvos sveikatos mokslų universitetas",
@@ -16679,7 +16687,7 @@
   {
     "name": "Lietuvos vyrų asociacija",
     "code": "306154104",
-    "address": "Vilnius, Raudonės g. 74, LT-12205"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "Lietuvos vėjo elektrinių asociacija",
@@ -16888,7 +16896,8 @@
   {
     "name": "Lietuvos šiuolaikinės penkiakovės federacija",
     "code": "191588888",
-    "address": "Vilnius, Žemaitės g. 6, LT-03117"
+    "address": "Vilnius, Žemaitės g. 6, LT-03117",
+    "vatcode": "LT100006705617"
   },
   {
     "name": "Lietuvos šnaucerių mylėtojų klubas",
@@ -16914,7 +16923,7 @@
   {
     "name": "Lietuvos šunų kinkinių sporto federacija",
     "code": "302549424",
-    "address": "Širvintų r. sav., Kernavės sen., Kryžiaukos I k. 8, LT-19170"
+    "address": "Širvintų r. sav."
   },
   {
     "name": "Lietuvos šv. kunigo J. Bosko Saleziečių draugija",
@@ -17634,7 +17643,7 @@
   {
     "name": "Mažosios Lietuvos reikalų taryba",
     "code": "191600956",
-    "address": "Vilnius, A. Jakšto g. 9, LT-01105"
+    "address": "Vilnius, Laisvės pr. 60, LT-05120"
   },
   {
     "name": "Mažosios Lietuvos saugomų teritorijų direkcija",
@@ -17824,6 +17833,11 @@
     "address": "Kaunas, Jonavos g. 60C, LT-44192"
   },
   {
+    "name": "PROOF SPACE PTE. LTD. LIETUVOS FILIALAS",
+    "code": "307285576",
+    "address": "Vilnius, Mėsinių g. 5, LT-01133"
+  },
+  {
     "name": "PROTECCION AUTOMATICA CONTRA INCENDIOS SA Lietuvos filialas",
     "code": "305196901",
     "address": "Vilnius, A. Goštauto g. 40B, LT-03163"
@@ -17997,7 +18011,7 @@
   {
     "name": "SIA \"Citadele Leasing\" Lietuvos filialas",
     "code": "302629475",
-    "address": "Vilnius, Upės g. 21-1, LT-08128"
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
   },
   {
     "name": "SIA \"GRUNDFOS PUMPS BALTIC\" LIETUVOS FILIALAS",
@@ -18117,7 +18131,7 @@
   {
     "name": "Siemens Energy Oy Lietuvos filialas",
     "code": "305427888",
-    "address": "Vilnius, J. Jasinskio g. 16C, LT-03163"
+    "address": "Vilnius, Lvivo g. 21A, LT-09313"
   },
   {
     "name": "Siemens Gamesa Renewable Energy Aktiebolag Lietuvos filialas",
@@ -18132,12 +18146,12 @@
   {
     "name": "Siemens Mobility Oy Lietuvos filialas",
     "code": "304833850",
-    "address": "Vilnius, J. Jasinskio g. 16C, LT-03163"
+    "address": "Vilnius, Lvivo g. 21A, LT-09313"
   },
   {
     "name": "Siemens Osakeyhtio Lietuvos filialas",
     "code": "302432264",
-    "address": "Vilnius, J. Jasinskio g. 16C, LT-03163"
+    "address": "Vilnius, Lvivo g. 21A, LT-09313"
   },
   {
     "name": "Skaisčiausios Mergelės Marijos Širdies dukterų kongregacijos Lietuvos vikariatas",
@@ -18252,7 +18266,7 @@
   {
     "name": "TURK HAVA YOLLARI Lietuvos filialas",
     "code": "303075897",
-    "address": "Vilnius, Rodūnios kel. 2-3, LT-02189"
+    "address": "Vilnius, Lvivo g. 21A, LT-09313"
   },
   {
     "name": "Tarptautinio vaikų labdaros ir paramos fondo \"Šansas\" (Baltarusijos Respublika) atstovybė Lietuvos Respublikoje",
@@ -19535,6 +19549,11 @@
     "name": "WORLD TRUSTED INVESTMENTS INC Lietuvos filialas",
     "code": "304142765",
     "address": "Vilnius, Veiverių g. 9B-1, LT-11346"
+  },
+  {
+    "name": "World ORT Lietuvos atstovybė",
+    "code": "307269593",
+    "address": "Vilnius, Konstitucijos pr. 21A, LT-08105"
   },
   {
     "name": "ZEFYR LIFE LTD Lietuvos filialas",

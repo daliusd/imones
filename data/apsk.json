@@ -772,11 +772,6 @@
     "vatcode": "LT100017521010"
   },
   {
-    "name": "MB Verslo įmonių apskaita",
-    "code": "306083155",
-    "address": "Šilutė, Aušros 4-asis tak. 1, LT-99163"
-  },
-  {
     "name": "MB Viena apskaita",
     "code": "306700820",
     "address": "Kaunas, Birštono g. 12, LT-44288"
@@ -789,7 +784,8 @@
   {
     "name": "Mažoji bendrija \"J apskaita\"",
     "code": "307196661",
-    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Laukių g. 7, LT-54358"
+    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Laukių g. 7, LT-54358",
+    "vatcode": "LT100018575610"
   },
   {
     "name": "Mažoji bendrija \"Maža apskaita\"",
@@ -1078,7 +1074,8 @@
   {
     "name": "UAB \"ETB Apskaita\"",
     "code": "307166198",
-    "address": "Klaipėda, S. Daukanto g. 24A-4, LT-92135"
+    "address": "Klaipėda, S. Daukanto g. 24A-4, LT-92135",
+    "vatcode": "LT100018518218"
   },
   {
     "name": "UAB \"Erdvi apskaita\"",
@@ -1477,7 +1474,8 @@
   {
     "name": "UAB Fintre apskaita",
     "code": "307224477",
-    "address": "Šilutės r. sav., Švėkšna, Žemaitės g. 9-7, LT-99385"
+    "address": "Šilutės r. sav., Švėkšna, Žemaitės g. 9-7, LT-99385",
+    "vatcode": "LT100018606019"
   },
   {
     "name": "UAB S.C.I. apskaita",
@@ -1500,6 +1498,11 @@
     "name": "UAB VERSLO APSKAITA",
     "code": "302492763",
     "address": "Vilnius, P. Žadeikos g. 1-3, LT-06319"
+  },
+  {
+    "name": "UAB Verslo įmonių apskaita",
+    "code": "306083155",
+    "address": "Šilutė, Aušros 4-asis tak. 1, LT-99163"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"APSKAITA IR TURTAS\"",
@@ -2421,7 +2424,7 @@
   {
     "name": "UAB \"Apskaitos kelias\"",
     "code": "302425113",
-    "address": "Vilniaus miesto savivaldybės teritorija"
+    "address": "Vilnius, Kalvarijų g. 135, LT-08248"
   },
   {
     "name": "UAB \"Apskaitos koncepcija\"",
@@ -2988,7 +2991,7 @@
   {
     "name": "MB \"Apskaityta\"",
     "code": "305631047",
-    "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Parko g. 8-18, LT-14164"
+    "address": "Marijampolė, Kauno g. 80-9, LT-68241"
   },
   {
     "name": "MB Apskaitą tvarkantis asmuo",
@@ -4064,6 +4067,11 @@
     "name": "VĮ \"Lietuvos paštas\" Vilniaus apskrities centrinio pašto Švenčionių rajono pašto darbuotojų profesinė sąjunga",
     "code": "178859135",
     "address": "Švenčionys, Vilniaus g. 18, LT-18123"
+  },
+  {
+    "name": "VšĮ \"Marijampolės apskrities romų centras\"",
+    "code": "307271975",
+    "address": "Marijampolės sav., Liudvinavo sen., Kūlokų k., Ūdrupio g. 16, LT-69172"
   },
   {
     "name": "VšĮ Alytaus apskrities vyrų krizių centras",

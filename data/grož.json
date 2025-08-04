@@ -77,6 +77,11 @@
     "address": "Kaunas, P. Lukšio g. 19-45, LT-49388"
   },
   {
+    "name": "Grožio studija Ritualas, MB",
+    "code": "307294073",
+    "address": "Gargždai, Pušų g. 46-12, LT-96144"
+  },
+  {
     "name": "IĮ \"Amberės grožio namai\"",
     "code": "305397904",
     "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Ąžuolų 2-asis tak. 7-2, LT-54464"
@@ -474,7 +479,8 @@
   {
     "name": "MB \"Grožio taškas\"",
     "code": "305200367",
-    "address": "Šiauliai, Lyros g. 7-48, LT-78286"
+    "address": "Šiauliai, Lyros g. 7-48, LT-78286",
+    "vatcode": "LT100018643619"
   },
   {
     "name": "MB \"Grožio technika\"",
@@ -761,6 +767,11 @@
     "vatcode": "LT100016758410"
   },
   {
+    "name": "MB Grožio drobė",
+    "code": "307324488",
+    "address": "Vilnius, Karaliaučiaus g. 29-103, LT-06245"
+  },
+  {
     "name": "MB Grožio elegija",
     "code": "306627190",
     "address": "Vilniaus r. sav., Nemėžio sen., Stankutiškių k., Viensėdžio g. 3, LT-13266"
@@ -959,6 +970,11 @@
     "address": "Vilniaus r. sav., Zujūnų sen., Gineitiškių k., Garnio g. 35, LT-14159"
   },
   {
+    "name": "MB MILANO Grožio studija",
+    "code": "307269554",
+    "address": "Klaipėda, Smiltelės g. 29-44, LT-94260"
+  },
+  {
     "name": "MB Martinos grožio studija \"Smaragdas\"",
     "code": "307146594",
     "address": "Kėdainiai, J. Basanavičiaus g. 106-12, LT-57365"
@@ -1069,6 +1085,11 @@
     "name": "MB Žaliakalnio grožio klinika",
     "code": "306718334",
     "address": "Kauno r. sav., Užliedžių sen., Vijūkų k., Saulės g. 10, LT-54314"
+  },
+  {
+    "name": "MB Živilės grožio namai",
+    "code": "307268000",
+    "address": "Kėdainiai, Mindaugo g. 12-72, LT-57454"
   },
   {
     "name": "MB Žvėryno grožio klinika",
@@ -1490,7 +1511,7 @@
   {
     "name": "UAB \"Grožio viršūnė\"",
     "code": "304403005",
-    "address": "Klaipėda, Reikjaviko g. 14-76, LT-94254",
+    "address": "Vilnius, Labdarių g. 7, LT-01120",
     "vatcode": "LT100010900116"
   },
   {
@@ -1912,6 +1933,11 @@
     "address": "Utenos r. sav., Leliūnų sen., Degulių k., Degulių g. 4, LT-28430"
   },
   {
+    "name": "MB AFEJA GROŽIS",
+    "code": "307241505",
+    "address": "Utena, Aušros g. 24-25, LT-28145"
+  },
+  {
     "name": "MB Estetikos studija \"Tikslas Grožis\"",
     "code": "306490090",
     "address": "Vilnius, Grūdų Sodų 6-oji g. 9, LT-11314",
@@ -2043,11 +2069,6 @@
     "code": "303196176",
     "address": "Kaunas, Savanorių pr. 451, LT-49183",
     "vatcode": "LT100015421518"
-  },
-  {
-    "name": "UAB \"Sveikata ir grožis\"",
-    "code": "302533039",
-    "address": "Kaunas, Taikos pr. 47-33, LT-50427"
   },
   {
     "name": "UAB \"Tavo masažas\" filialas \"Tavo grožis\"",

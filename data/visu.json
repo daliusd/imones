@@ -90,6 +90,11 @@
     "address": "Kaunas, Tuopų aklg. 20-1, LT-47222"
   },
   {
+    "name": "MB Gf visuals",
+    "code": "307312482",
+    "address": "Kaunas, Lubinų g. 33C, LT-47222"
+  },
+  {
     "name": "MB Kere visuals",
     "code": "307159015",
     "address": "Kaunas, K. Škirpos g. 4-37, LT-49212"
@@ -239,11 +244,6 @@
     "code": "170730042",
     "address": "Prienų r. sav., Naujosios Ūtos sen., Naujosios Ūtos k.",
     "vatcode": "LT100006404811"
-  },
-  {
-    "name": "J. Pilkienės visuomeninio maitinimo įmonė",
-    "code": "169161487",
-    "address": "Pasvalio r. sav., Pasvalio sen., Papyvesių k."
   },
   {
     "name": "Kartano visuomeninio maitinimo įmonė",
@@ -2266,7 +2266,8 @@
   {
     "name": "Viešoji įstaiga Visuomenės ir verslo plėtros institutas",
     "code": "304169851",
-    "address": "Marijampolė, Laisvės g. 16, LT-68306"
+    "address": "Marijampolė, Laisvės g. 16, LT-68306",
+    "vatcode": "LT100018535611"
   },
   {
     "name": "Viešoji įstaiga Visuomenės specialaus mokymo ir konsultavimo centras",

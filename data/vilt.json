@@ -498,6 +498,11 @@
     "address": "Klaipėda, Taikos pr. 11, LT-91135"
   },
   {
+    "name": "Ukrainiečių bendruomenė \"Vilties tiltas\"",
+    "code": "307283290",
+    "address": "Jurbarkas, Kauno g. 50-3, LT-74182"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"VILTIES PAŠVAISTĖ\"",
     "code": "123718384",
     "address": "Vilnius, Vilniaus g. 29-6, LT-01402"
@@ -688,12 +693,18 @@
   {
     "name": "VšĮ \"Vilties švyturys\"",
     "code": "192050878",
-    "address": "Kėdainių r. sav., Surviliškio sen., Kalnaberžės k., Ąžuolų g. 2, LT-58403"
+    "address": "Kėdainių r. sav., Surviliškio sen., Kalnaberžės k., Ąžuolų g. 2, LT-58403",
+    "vatcode": "LT100018582815"
   },
   {
     "name": "VšĮ \"Vilties žiburys\"",
     "code": "304710381",
     "address": "Jonavos r. sav., Upninkų sen., Kunigiškių k., Paširvinčio g. 7, LT-55491"
+  },
+  {
+    "name": "VšĮ Klaipėdos Vilties beisbolo akademija",
+    "code": "307286525",
+    "address": "Klaipėda, Pilies g. 3-8, LT-91233"
   },
   {
     "name": "VšĮ Vilties rankos",
@@ -1413,11 +1424,6 @@
     "address": "Kaunas, Liutauro aklg. 10-9, LT-50228"
   },
   {
-    "name": "L. Viltrakio individuali įmonė",
-    "code": "126033229",
-    "address": "Vilnius, A. Vivulskio g. 35-31, LT-03114"
-  },
-  {
     "name": "MB \"Viltransa\"",
     "code": "304716605",
     "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Aukštelkės k., Paparčių g. 13, LT-80180",
@@ -1478,7 +1484,8 @@
   {
     "name": "UAB \"Vilturtas\"",
     "code": "306416581",
-    "address": "Vilnius, Algirdo g. 31-400, LT-03219"
+    "address": "Vilnius, Algirdo g. 31-400, LT-03219",
+    "vatcode": "LT100018575217"
   },
   {
     "name": "UAB \"Viltuva\"",

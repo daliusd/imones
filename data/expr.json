@@ -207,6 +207,11 @@
     "address": "Alytaus r. sav., Alovės sen., Alytaus k., Takniškių g. 2C, LT-64101"
   },
   {
+    "name": "MB Vežu-Express",
+    "code": "307276506",
+    "address": "Kaunas, Vievio g. 1A-1, LT-44433"
+  },
+  {
     "name": "Mažoji bendrija Offshore express",
     "code": "306388705",
     "address": "Kupiškis, Gedimino g. 53-14, LT-40127"
@@ -467,7 +472,8 @@
   {
     "name": "UAB Cleaning express",
     "code": "307010288",
-    "address": "Vilniaus r. sav., Nemėžio sen., Klonių k., Rugiagėlių g. 10A, LT-13280"
+    "address": "Vilniaus r. sav., Nemėžio sen., Klonių k., Rugiagėlių g. 10A, LT-13280",
+    "vatcode": "LT100018642511"
   },
   {
     "name": "UAB Data Express EU",
@@ -543,12 +549,6 @@
     "vatcode": "LT100015765014"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"VISION EXPRESS\"",
-    "code": "111528911",
-    "address": "Vilnius, Gedimino pr. 3A-102, LT-01103",
-    "vatcode": "LT115289113"
-  },
-  {
     "name": "VšĮ Vasas Express",
     "code": "307112873",
     "address": "Ukmergės r. sav., Vidiškių sen., Šventupės k., A. Vienuolio g. 6-3, LT-20362"
@@ -573,6 +573,11 @@
     "name": "MB Expresslinelt",
     "code": "306153340",
     "address": "Alytaus r. sav., Miroslavo sen., Mankūnų k., Liepų g. 24, LT-64239"
+  },
+  {
+    "name": "UAB Expresslogistics24",
+    "code": "307314031",
+    "address": "Vilniaus m. sav., Grigiškės, Vilniaus g. 4B, LT-27101"
   },
   {
     "name": "UAB \"Expressor\"",

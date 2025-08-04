@@ -108,11 +108,6 @@
     "address": "Vilnius, Krivių g. 5, LT-01204"
   },
   {
-    "name": "D. Repčio turizmo ir paslaugų firma \"IN MEDIAS RES\"",
-    "code": "121849520",
-    "address": "Vilnius, Saulėtekio al. 51-77"
-  },
-  {
     "name": "IN DOT, UAB",
     "code": "303211952",
     "address": "Kaunas, Naručio g. 44-1, LT-51405",
@@ -173,7 +168,8 @@
   {
     "name": "MB \"11 in a row\"",
     "code": "306420302",
-    "address": "Klaipėda, Austėjos g. 8-1, LT-92350"
+    "address": "Klaipėda, Austėjos g. 8-1, LT-92350",
+    "vatcode": "LT100018675910"
   },
   {
     "name": "MB \"All in one trans\"",
@@ -310,6 +306,11 @@
     "vatcode": "LT100013394617"
   },
   {
+    "name": "MB \"Meta in silico\"",
+    "code": "307277241",
+    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Girios g. 9-8, LT-54307"
+  },
+  {
     "name": "MB \"Mindful in\"",
     "code": "307218741",
     "address": "Vilnius, M. Mažvydo g. 7-68, LT-06293"
@@ -363,7 +364,8 @@
   {
     "name": "MB All in AI Future",
     "code": "307159175",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+    "address": "Kaunas, Europos pr. 34-47, LT-46370",
+    "vatcode": "LT100018635012"
   },
   {
     "name": "MB Beauty in details LT",
@@ -497,8 +499,7 @@
   {
     "name": "Plug in, MB",
     "code": "306092211",
-    "address": "Kaunas, Brastos g. 24D-13, LT-47185",
-    "vatcode": "LT100015315910"
+    "address": "Kaunas, Brastos g. 24D-13, LT-47185"
   },
   {
     "name": "Redmark In, UAB",
