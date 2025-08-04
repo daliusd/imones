@@ -143,7 +143,8 @@
   {
     "name": "UAB Partevo",
     "code": "306658894",
-    "address": "Kaunas, Švenčionių g. 53, LT-45163"
+    "address": "Kaunas, Švenčionių g. 53, LT-45163",
+    "vatcode": "LT100018606412"
   },
   {
     "name": "MB Partfin",
@@ -236,11 +237,6 @@
     "address": "Vilnius, Šermukšnių g. 6A, LT-01106"
   },
   {
-    "name": "Partija \"Laisvė ir teisingumas\"",
-    "code": "195725238",
-    "address": "Vilnius, Vilniaus g. 22-4, LT-01402"
-  },
-  {
     "name": "Partija LIETUVA - VISŲ",
     "code": "302813361",
     "address": "Alytus, S. Dariaus ir S. Girėno g. 6B-11, LT-62137"
@@ -301,6 +297,11 @@
     "name": "UAB \"Partina\"",
     "code": "305991376",
     "address": "Vilnius, Laisvės pr. 60, LT-05120"
+  },
+  {
+    "name": "MB Partingas",
+    "code": "307247472",
+    "address": "Panevėžio r. sav., Panevėžio sen., Pažagienių k., Žagienės g. 7-14, LT-36222"
   },
   {
     "name": "UAB Partiqlar app",
@@ -466,7 +467,8 @@
   {
     "name": "MB PartLab",
     "code": "307213107",
-    "address": "Kaunas, Kukučių g. 39, LT-51338"
+    "address": "Kaunas, Kukučių g. 39, LT-51338",
+    "vatcode": "LT100018524717"
   },
   {
     "name": "UAB \"Partlandas\"",
@@ -623,7 +625,8 @@
   {
     "name": "MB Tech-partner",
     "code": "306036764",
-    "address": "Druskininkai, Merkinės g. 11-8, LT-66265"
+    "address": "Druskininkai, Merkinės g. 11-8, LT-66265",
+    "vatcode": "LT100018541616"
   },
   {
     "name": "MB Trust partner",
@@ -766,8 +769,7 @@
   {
     "name": "UAB \"Swedish Medcare HR Partner LT\"",
     "code": "304429402",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
-    "vatcode": "LT100011254512"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB \"e.partner\"",
@@ -822,6 +824,11 @@
     "name": "Vokietijos firmos \"BAUSCH-FRIEDMANN UND PARTNER GmbH\" atstovybė",
     "code": "110227816",
     "address": "Kaunas, Gedimino g. 47, LT-44242"
+  },
+  {
+    "name": "\"Partnera\", UAB",
+    "code": "307264482",
+    "address": "Kaunas, E. Volterio g. 126, LT-47275"
   },
   {
     "name": "UAB \"Partnera LT\"",
@@ -957,11 +964,6 @@
     "code": "306293125",
     "address": "Kaunas, E. Ožeškienės g. 45-1, LT-44254",
     "vatcode": "LT100016667211"
-  },
-  {
-    "name": "Advokatų profesinė bendrija \"Rimdeika ir partneriai\"",
-    "code": "305333385",
-    "address": "Vilnius, Vytenio g. 9-106, LT-03113"
   },
   {
     "name": "Advokatų profesinė bendrija \"Rūta Goliančik ir partneriai\"",
@@ -1327,8 +1329,7 @@
   {
     "name": "MB \"Lorensa ir partneriai\"",
     "code": "306190602",
-    "address": "Vilnius, Krivių g. 5, LT-01204",
-    "vatcode": "LT100015749719"
+    "address": "Vilnius, Krivių g. 5, LT-01204"
   },
   {
     "name": "MB \"Luna ir partneriai\"",
@@ -1720,11 +1721,6 @@
     "code": "304149051",
     "address": "Kaunas, Julijanavos g. 1E, LT-46350",
     "vatcode": "LT100011670012"
-  },
-  {
-    "name": "UAB \"Draudimo partneriai\"",
-    "code": "307129716",
-    "address": "Ukmergė, Gedimino g. 5-5, LT-20106"
   },
   {
     "name": "UAB \"Dupro partneriai\"",
@@ -2690,8 +2686,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Vilius ir partneriai\"",
     "code": "134174763",
-    "address": "Kaunas, Vydūno al. 43A, LT-50291",
-    "vatcode": "LT341747610"
+    "address": "Kaunas, Vydūno al. 43A, LT-50291"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Vygenta ir partneriai\"",
@@ -2720,6 +2715,11 @@
     "code": "183225175",
     "address": "Ukmergė, Deltuvos g. 43B, LT-20126",
     "vatcode": "LT100008804616"
+  },
+  {
+    "name": "Uždaroji akcinė draudimo brokerių bendrovė \"Draudimo partneriai\"",
+    "code": "307129716",
+    "address": "Ukmergė, Gedimino g. 5-5, LT-20106"
   },
   {
     "name": "Uždaroji akcinė draudimo brokerių bendrovė \"Rizikos partneriai\"",
@@ -4059,6 +4059,11 @@
     "name": "UAB SVK Partners",
     "code": "307174800",
     "address": "Vilnius, Vytauto Žalakevičiaus g. 4A-9, LT-10111"
+  },
+  {
+    "name": "UAB Sentina Partners",
+    "code": "307277526",
+    "address": "Vilnius, Architektų g. 56-101, LT-04111"
   },
   {
     "name": "UAB Shared service partners Lietuva",

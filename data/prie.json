@@ -123,11 +123,6 @@
     "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Gegliškių g. 5C, LT-14184"
   },
   {
-    "name": "I. Šleinotienės įmonė \"Prie Viešintos\"",
-    "code": "164778075",
-    "address": "Kupiškio r. sav., Kupiškio sen., Paketurių k., Bokšto g. 19, LT-40103"
-  },
-  {
     "name": "Individuali įmonė \"PRIE LAGŪNOS\"",
     "code": "301198538",
     "address": "Zarasų r. sav., Zarasų sen., Ditkūnų k., Pakrantės g. 4, LT-32104"
@@ -439,8 +434,7 @@
   {
     "name": "UAB \"PRIE LĖVENS\"",
     "code": "168962051",
-    "address": "Panevėžio r. sav., Panevėžio sen., Piniavos k., Lėvens g. 1A, LT-38415",
-    "vatcode": "LT689620515"
+    "address": "Panevėžio r. sav., Panevėžio sen., Piniavos k., Lėvens g. 1A, LT-38415"
   },
   {
     "name": "UAB \"PRIE ŽAROS\"",
@@ -729,11 +723,6 @@
     "name": "VšĮ \"Prie Raubonių malūno\"",
     "code": "305319909",
     "address": "Pasvalio r. sav., Krinčino sen., Pajiešmenių k., Jonkalnio g. 7-1, LT-39449"
-  },
-  {
-    "name": "Z. Benkevič individuali įmonė \"PRIE TRAKTO\"",
-    "code": "186145211",
-    "address": "Vilniaus r. sav., Nemėžio sen., Ašmenos Kelio k. 37"
   },
   {
     "name": "Ūkininkės A. Prunskuvienės individuali įmonė \"Prie Žeimenos\"",
@@ -1084,7 +1073,8 @@
   {
     "name": "MB \"Žingsniais priekyje\"",
     "code": "306583121",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100018583813"
   },
   {
     "name": "MB \"Judam į priekį\"",
@@ -1209,7 +1199,7 @@
   {
     "name": "Biliardo klubas \"Prienai\"",
     "code": "304289879",
-    "address": "Birštonas, Vaižganto g. 13, LT-59204"
+    "address": "Prienai, Statybininkų g. 6, LT-59131"
   },
   {
     "name": "Daugiabučio namo Liepų g. 11, Prienai savininkų bendrija",
@@ -2113,7 +2103,7 @@
   {
     "name": "UAB \"Objektų priešgaisriniai tyrimai\"",
     "code": "303486507",
-    "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Buivydiškių g. 43A, LT-14160",
+    "address": "Vilnius, Taikos g. 263B-18, LT-05265",
     "vatcode": "LT100009882512"
   },
   {
@@ -2443,6 +2433,11 @@
     "address": "Vilnius, Pagubės Sodų 9-oji g. 4, LT-14284"
   },
   {
+    "name": "Asociacija \"Prieštaktis\"",
+    "code": "307297030",
+    "address": "Jurbarko r. sav., Girdžių sen., Džiugų k. 3, LT-74246"
+  },
+  {
     "name": "VšĮ \"Prieštiltis\"",
     "code": "305860163",
     "address": "Klaipėda, Kuncų g. 16-30, LT-95204"
@@ -2494,7 +2489,8 @@
   {
     "name": "MB \"Buhalterinė priežiūra\"",
     "code": "307063287",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+    "address": "Kaunas, Europos pr. 34-47, LT-46370",
+    "vatcode": "LT100018676018"
   },
   {
     "name": "MB \"Burnos priežiūra\"",
@@ -2611,6 +2607,11 @@
     "name": "MB Pastatų priežiūra ir valdymas",
     "code": "305627981",
     "address": "Klaipėda, Debreceno g. 44-18, LT-94149"
+  },
+  {
+    "name": "MB Priežiūra statyboms",
+    "code": "307285971",
+    "address": "Klaipėda, Taikos pr. 135-31, LT-94251"
   },
   {
     "name": "MB Privati priežiūra namuose",
@@ -2870,11 +2871,6 @@
     "address": "Kaišiadorių r. sav., Kaišiadorių apylinkės sen., Gudienos k., Pavasario g. 26, LT-56106"
   },
   {
-    "name": "A. Totorio veterinarinės priežiūros įmonė",
-    "code": "264780860",
-    "address": "Kupiškio r. sav., Alizavos sen., Žaidelių k."
-  },
-  {
     "name": "Algimanto Žvirblio pirminės sveikatos priežiūros centras",
     "code": "151466570",
     "address": "Marijampolė, Sietyno g. 17, LT-68290"
@@ -3033,6 +3029,11 @@
     "name": "MB Sveikatos priežiūros akademija",
     "code": "307012086",
     "address": "Vilnius, Aguonų g. 6-10, LT-03213"
+  },
+  {
+    "name": "MB Sveikatos priežiūros auditas",
+    "code": "307254029",
+    "address": "Marijampolė, Kokolos g. 7-24, LT-68200"
   },
   {
     "name": "Medicininės priežiūros centras",

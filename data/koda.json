@@ -355,6 +355,11 @@
     "address": "Kauno r. sav., Taurakiemio sen., Piliuonos k., Pakraščio g. 1, LT-53189"
   },
   {
+    "name": "MB \"Remonto kodas\"",
+    "code": "307280757",
+    "address": "Vilnius, Įsruties g. 21-1, LT-06284"
+  },
+  {
     "name": "MB \"Rinkodaros kodas\"",
     "code": "305885273",
     "address": "Kaunas, Tvirtovės al. 83-8, LT-50154",
@@ -545,7 +550,8 @@
   {
     "name": "MB Plieno kodas",
     "code": "307158422",
-    "address": "Kupiškis, Alyvų g. 13, LT-40112"
+    "address": "Kupiškis, Alyvų g. 13, LT-40112",
+    "vatcode": "LT100018633117"
   },
   {
     "name": "MB Prieigos kodas",
@@ -838,7 +844,8 @@
   {
     "name": "UAB Gamtos kodas",
     "code": "300060776",
-    "address": "Vilniaus r. sav., Bezdonių sen., Bezdonių k., Užupio g. 53, LT-15203"
+    "address": "Vilniaus r. sav., Bezdonių sen., Bezdonių k., Užupio g. 53, LT-15203",
+    "vatcode": "LT100018585113"
   },
   {
     "name": "UAB Interneto kodas",
@@ -932,5 +939,10 @@
     "name": "UAB Kodatransport",
     "code": "306088953",
     "address": "Vilnius, Žirmūnų g. 70, LT-09124"
+  },
+  {
+    "name": "MB Kodaut",
+    "code": "307316609",
+    "address": "Klaipėdos r. sav., Sendvario sen., Baukštininkų k., Žiemos g. 25-2, LT-92402"
   }
 ]

@@ -177,7 +177,7 @@
   {
     "name": "Asociacija \"Flow team Klaipėda\"",
     "code": "306291754",
-    "address": "Klaipėda, Taikos pr. 7-43, LT-91134"
+    "address": "Klaipėda, Gluosnių skg. 3-55, LT-91250"
   },
   {
     "name": "Asociacija \"JCI Klaipėda\"",
@@ -2842,7 +2842,8 @@
   {
     "name": "Klaipėdos miesto regbio klubas \"Kuršiai\"",
     "code": "193177113",
-    "address": "Klaipėda, S. Šimkaus g. 2, LT-92128"
+    "address": "Klaipėda, S. Šimkaus g. 2, LT-92128",
+    "vatcode": "LT100018559316"
   },
   {
     "name": "Klaipėdos miesto savivaldybės Imanuelio Kanto viešoji biblioteka",
@@ -3601,11 +3602,6 @@
     "name": "Klaipėdos teosofinė draugija \"ŽMONIJOS BROLIJA\"",
     "code": "141964918",
     "address": "Klaipėda, Medžiotojų g. 2-4, LT-92123"
-  },
-  {
-    "name": "Klaipėdos teritorinė ligonių kasa",
-    "code": "188783981",
-    "address": "Klaipėda, Pievų Tako g. 38, LT-92236"
   },
   {
     "name": "Klaipėdos teritorinė muitinė",
@@ -4422,7 +4418,7 @@
   {
     "name": "UAB \"Klaipėdos dienraštis\"",
     "code": "302433291",
-    "address": "Klaipėda, Svajonės g. 40-14, LT-94101",
+    "address": "Klaipėda, Naujojo Sodo g. 1A-102, LT-92118",
     "vatcode": "LT100005127119"
   },
   {
@@ -4444,13 +4440,14 @@
   {
     "name": "UAB \"Klaipėdos ekspresai\"",
     "code": "303320001",
-    "address": "Klaipėda, Baltijos 5-oji g. 24, LT-92319",
+    "address": "Klaipėda, Medeinos g. 5-2, LT-92350",
     "vatcode": "LT100008622712"
   },
   {
     "name": "UAB \"Klaipėdos eurometras\"",
     "code": "303382565",
-    "address": "Plungė, S. Daukanto g. 24, LT-90165"
+    "address": "Plungė, S. Daukanto g. 24, LT-90165",
+    "vatcode": "LT100009795518"
   },
   {
     "name": "UAB \"Klaipėdos finartas\"",
@@ -4750,7 +4747,7 @@
   {
     "name": "UAB Klaipėdos investicinis fondas",
     "code": "303484965",
-    "address": "Klaipėdos miesto savivaldybės teritorija"
+    "address": "Klaipėda, J. Janonio g. 6B, LT-92252"
   },
   {
     "name": "UAB Klaipėdos jūrinis servisas",
@@ -5023,6 +5020,12 @@
     "vatcode": "LT103022113"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Klaipėdos aerouostas\"",
+    "code": "307299113",
+    "address": "Klaipėdos r. sav., Sendvario sen., Dirvupių k., Pramonės g. 14, LT-92498",
+    "vatcode": "LT100018679610"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Klaipėdos arena\"",
     "code": "302503804",
     "address": "Klaipėda, Dubysos g. 10-1, LT-93231",
@@ -5057,12 +5060,6 @@
     "code": "123814710",
     "address": "Klaipėda, H. Manto g. 31, LT-92236",
     "vatcode": "LT100001776417"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė Klaipėdos aerouostas",
-    "code": "163334217",
-    "address": "Klaipėdos r. sav., Sendvario sen., Dirvupių k.",
-    "vatcode": "LT633342113"
   },
   {
     "name": "Uždaroji akcinė bendrovė Klaipėdos regiono atliekų tvarkymo centras",
@@ -5174,11 +5171,6 @@
     "name": "Uždarosios akcinės bendrovės \"VERSITA\" Klaipėdos filialas",
     "code": "141734073",
     "address": "Klaipėda, Turgaus g. 10-37, LT-91247"
-  },
-  {
-    "name": "Uždarosios akcinės bendrovės \"Vaizba\" Klaipėdos filialas",
-    "code": "141050837",
-    "address": "Klaipėda, Jotvingių g. 5, LT-91261"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"ŽUKMĖ\" Klaipėdos filialas",
@@ -5514,6 +5506,11 @@
     "name": "VšĮ KLAIPĖDOS PALIATYVIOSIOS PAGALBOS IR SLAUGOS PRIEŽIŪROS TARNYBA",
     "code": "306178062",
     "address": "Klaipėda, Dragūnų g. 6-40, LT-92331"
+  },
+  {
+    "name": "VšĮ Klaipėdos Vilties beisbolo akademija",
+    "code": "307286525",
+    "address": "Klaipėda, Pilies g. 3-8, LT-91233"
   },
   {
     "name": "VšĮ Klaipėdos apskrities pagalbos vyrams centras",

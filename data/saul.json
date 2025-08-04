@@ -166,6 +166,11 @@
     "vatcode": "LT100016634911"
   },
   {
+    "name": "SAULEGRA, MB",
+    "code": "307304489",
+    "address": "Vilnius, Jonažolių g. 4-51, LT-04134"
+  },
+  {
     "name": "MB Sauleima",
     "code": "307106201",
     "address": "Alytus, Volungės g. 26-1, LT-63182"
@@ -189,7 +194,8 @@
   {
     "name": "MB Sauleksa",
     "code": "306660710",
-    "address": "Vilnius, Taikos g. 217-34, LT-05211"
+    "address": "Vilnius, Taikos g. 217-34, LT-05211",
+    "vatcode": "LT100018533010"
   },
   {
     "name": "UAB Saulekta",
@@ -542,11 +548,6 @@
     "address": "Kaunas, A. Fromo-Gužučio g. 13, LT-48487"
   },
   {
-    "name": "Sauliaus Gegiecko firma",
-    "code": "234502990",
-    "address": "Kaunas, Vasarvietės g. 8B, LT-44105"
-  },
-  {
     "name": "Sauliaus Giniočio individuali įmonė",
     "code": "301628573",
     "address": "Mažeikių r. sav., Reivyčių sen., Reivyčių k., Reivų g. 53, LT-89301",
@@ -557,21 +558,6 @@
     "code": "135564392",
     "address": "Kaunas, Šarkuvos g. 1-41, LT-48154",
     "vatcode": "LT355643917"
-  },
-  {
-    "name": "Sauliaus Jakimavičiaus individuali įmonė",
-    "code": "125213263",
-    "address": "Vilnius, Algimanto Petro Kavoliuko g. 22-170, LT-04327"
-  },
-  {
-    "name": "Sauliaus Jankevičiaus įmonė",
-    "code": "125489660",
-    "address": "Vilnius, Maišiagalos g. 34-29, LT-08213"
-  },
-  {
-    "name": "Sauliaus Jonuškos įmonė",
-    "code": "168667535",
-    "address": "Panevėžio r. sav., Karsakiškio sen., Karsakiškio k., Lėvens g. 21, LT-38462"
   },
   {
     "name": "Sauliaus Juknevičiaus IĮ \"Flagrum\"",
@@ -627,11 +613,6 @@
     "vatcode": "LT611240515"
   },
   {
-    "name": "Sauliaus Leinarto privati firma \"Barbakanas\"",
-    "code": "121618912",
-    "address": "Vilnius, Vaikų g. 5-5, LT-02207"
-  },
-  {
     "name": "Sauliaus Linarto įmonė",
     "code": "256909330",
     "address": "Jonavos r. sav., Kulvos sen., Ručiūnų k."
@@ -645,11 +626,6 @@
     "name": "Sauliaus Linkio įmonė \"Comlinksa\"",
     "code": "176628222",
     "address": "Šilalė, J. Basanavičiaus g. 23, LT-75124"
-  },
-  {
-    "name": "Sauliaus Lisausko įmonė",
-    "code": "225864990",
-    "address": "Vilnius, Filaretų g. 85-32"
   },
   {
     "name": "Sauliaus Maskaliūno įmonė \"Mažeikių nekilnojamasis turtas\"",
@@ -757,11 +733,6 @@
     "vatcode": "LT100003156112"
   },
   {
-    "name": "Sauliaus Svitojaus konsultacinė įmonė",
-    "code": "125701978",
-    "address": "Vilnius, Pylimo g. 38, LT-01136"
-  },
-  {
     "name": "Sauliaus Trimbelio individuali įmonė",
     "code": "300064753",
     "address": "Druskininkai, Veisiejų g. 30-28, LT-66243"
@@ -802,11 +773,6 @@
     "name": "Sauliaus Šileikos įmonė",
     "code": "125195160",
     "address": "Palanga, Malūno g. 3B, LT-00126"
-  },
-  {
-    "name": "Sauliaus Šiškos personalinė įmonė",
-    "code": "226318670",
-    "address": "Vilnius, Taikos g. 231-6, LT-05213"
   },
   {
     "name": "Sauliaus Špokevičiaus individuali įmonė",
@@ -873,11 +839,6 @@
     "address": "Biržai, Devynbalsių g. 4, LT-41164"
   },
   {
-    "name": "A. Saulienės įmonė",
-    "code": "187886747",
-    "address": "Zarasų r. sav., Antalieptė"
-  },
-  {
     "name": "Kaimų bendruomenė \"Saulietekis\"",
     "code": "300902676",
     "address": "Šilalės r. sav., Kvėdarnos sen., Grimzdų k., Kazimiero Jauniaus g. 56, LT-75341"
@@ -940,11 +901,6 @@
     "name": "Sporto klubas \"Saulininkas\"",
     "code": "301161582",
     "address": "Šiauliai, S. Lukauskio g. 5A, LT-76236"
-  },
-  {
-    "name": "R. Saulio individuali įmonė",
-    "code": "126271554",
-    "address": "Vilniaus m. sav."
   },
   {
     "name": "Saulio Gurausko IĮ",
@@ -1817,7 +1773,7 @@
   {
     "name": "UAB Išmani saulė",
     "code": "306051289",
-    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120",
+    "address": "Vilnius, Jankiškių g. 39-3, LT-02300",
     "vatcode": "LT100015235111"
   },
   {
@@ -1869,7 +1825,8 @@
   {
     "name": "UAB Šviečia saulė",
     "code": "305999647",
-    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308",
+    "vatcode": "LT100018565714"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Ryto saulė\"",
@@ -1936,7 +1893,8 @@
   {
     "name": "VšĮ Saulė namams",
     "code": "307025062",
-    "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Pasakų g. 5D-1, LT-14166"
+    "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Pasakų g. 5D-1, LT-14166",
+    "vatcode": "LT100018548714"
   },
   {
     "name": "VšĮ Šeimos centras \"Saulė\"",
@@ -2610,11 +2568,6 @@
     "address": "Plungė, Birutės g. 31, LT-90112"
   },
   {
-    "name": "S. Michejevienės įmonė \"Saulės stiklai\"",
-    "code": "126220620",
-    "address": "Vilnius, S. Stanevičiaus g. 72-43, LT-07112"
-  },
-  {
     "name": "SAULĖS INVESTICIJOS, UAB",
     "code": "302813639",
     "address": "Vilnius, Savanorių pr. 123A, LT-03150"
@@ -2668,7 +2621,8 @@
   {
     "name": "Saulės grąžos parkai 6, UAB",
     "code": "306282431",
-    "address": "Vilnius, Šeimyniškių g. 19B-301, LT-09233"
+    "address": "Vilnius, Šeimyniškių g. 19B-301, LT-09233",
+    "vatcode": "LT100018610219"
   },
   {
     "name": "Saulės grąžos parkai 7, UAB",
@@ -3635,7 +3589,8 @@
   {
     "name": "Viešoji įstaiga \"Saulės gojus\"",
     "code": "300038662",
-    "address": "Vilniaus r. sav., Šatrininkų sen., Grigaičių k., Juozapo Montvilo g. 29, LT-13126"
+    "address": "Vilniaus r. sav., Šatrininkų sen., Grigaičių k., Juozapo Montvilo g. 29, LT-13126",
+    "vatcode": "LT100018562911"
   },
   {
     "name": "Viešoji įstaiga \"Vilniaus rajono saulės parkas\"",

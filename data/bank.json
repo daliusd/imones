@@ -86,11 +86,6 @@
     "address": "Vilnius, T. Kosciuškos g. 34-101"
   },
   {
-    "name": "UAB \"Climate Finance Bank\"",
-    "code": "304539279",
-    "address": "Vilnius, Filaretų g. 99A, LT-01215"
-  },
-  {
     "name": "UAB \"Data Bank Group\"",
     "code": "302594572",
     "address": "Kaunas, Savanorių pr. 194, LT-44151",
@@ -110,6 +105,11 @@
     "name": "UAB \"NEU BANK\"",
     "code": "304909974",
     "address": "Vilnius, Konstitucijos pr. 7, LT-09308"
+  },
+  {
+    "name": "UAB \"SCOSTrade Bank\"",
+    "code": "304539279",
+    "address": "Vilnius, Filaretų g. 99A, LT-01215"
   },
   {
     "name": "UAB Artos Bank",
@@ -135,7 +135,7 @@
   {
     "name": "Akciju sabiedriba \"Citadele banka\" Lietuvos filialas",
     "code": "304940934",
-    "address": "Vilnius, Upės g. 21-1, LT-08128"
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
   },
   {
     "name": "UAB \"Bankai.lt\"",
@@ -496,7 +496,8 @@
   {
     "name": "UAB Enable Banking Lithuania",
     "code": "305596404",
-    "address": "Vilnius, Gynėjų g. 14-120, LT-01109"
+    "address": "Vilnius, Gynėjų g. 14-120, LT-01109",
+    "vatcode": "LT100018638410"
   },
   {
     "name": "UAB Open Banking Services LT",
@@ -603,6 +604,11 @@
     "address": "Kaunas, K. Donelaičio g. 60, LT-44248"
   },
   {
+    "name": "UAB Bankokas",
+    "code": "307254470",
+    "address": "Plungė, Laisvės g. 2B, LT-90163"
+  },
+  {
     "name": "UAB \"Bankoptica\"",
     "code": "302861324",
     "address": "Vilnius, Vytenio g. 22-301, LT-03207",
@@ -696,9 +702,9 @@
     "address": "Vilnius, Liepkalnio g. 1-22, LT-02103"
   },
   {
-    "name": "MB \"Bankroto procesai\"",
-    "code": "304404000",
-    "address": "Elektrėnų sav., Pastrėvio sen., Pastrėvio k., Elektrėnų g. 3, LT-21332"
+    "name": "MB Bankroto ir verslo konsultacijų centras",
+    "code": "302652787",
+    "address": "Kaunas, Gailutės g. 47, LT-45323"
   },
   {
     "name": "UAB \"BANKROTO DEPARTAMENTAS LT\"",
@@ -713,7 +719,7 @@
   {
     "name": "UAB \"BANKROTO LYDERIAI\"",
     "code": "302432410",
-    "address": "Vilnius, Kęstučio g. 47-15, LT-08124"
+    "address": "Vilnius, Krivių g. 5, LT-01204"
   },
   {
     "name": "UAB \"Bankroto Valdymas\"",
@@ -757,11 +763,6 @@
     "address": "Vilniaus r. sav., Nemenčinės sen., Radžiulių k., Krašto g. 19, LT-15132"
   },
   {
-    "name": "UAB \"Bankroto ir verslo konsultacijų centras\"",
-    "code": "302652787",
-    "address": "Kaunas, Gailutės g. 47, LT-45323"
-  },
-  {
     "name": "UAB \"Bankroto procesas\"",
     "code": "302727154",
     "address": "Vilnius, Kęstučio g. 47-15, LT-08124"
@@ -786,11 +787,6 @@
     "code": "135447357",
     "address": "Kaunas, A. Juozapavičiaus pr. 21, LT-45256",
     "vatcode": "LT354473515"
-  },
-  {
-    "name": "UAB Bankroto ir verslo konsultacijų centras Vilniaus filialas",
-    "code": "303005589",
-    "address": "Vilnius, Medeinos g. 35-68, LT-06137"
   },
   {
     "name": "UAB Skolų išieškojimo inspekcija prie Skolų ir bankroto departamento",

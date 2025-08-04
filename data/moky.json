@@ -807,6 +807,11 @@
     "address": "Kelmės r. sav., Kražių sen., Pašilės mstl."
   },
   {
+    "name": "Kelmės rajono Užvenčio Šatrijos Raganos pagrindinė mokykla",
+    "code": "190092914",
+    "address": "Kelmės r. sav., Užventis, P. Višinskio g. 5, LT-86343"
+  },
+  {
     "name": "Kelmės specialioji mokykla",
     "code": "190100485",
     "address": "Kelmė, Liolių g. 19, LT-86185"
@@ -1249,6 +1254,11 @@
     "address": "Klaipėda, Budelkiemio g. 11-56, LT-95241"
   },
   {
+    "name": "MB Prigimties mokykla",
+    "code": "307288985",
+    "address": "Vilniaus r. sav., Rudaminos sen., Jarmališkių k., Kviečių g. 4, LT-13241"
+  },
+  {
     "name": "MB Ražauskų saviugdos mokykla",
     "code": "305015233",
     "address": "Mažeikiai, Naftininkų g. 80-6, LT-89182"
@@ -1397,7 +1407,8 @@
   {
     "name": "Mokykla \"Art of Beauty\"",
     "code": "302424463",
-    "address": "Vilnius, Vingrių g. 15-1, LT-01141"
+    "address": "Vilnius, Vingrių g. 15-1, LT-01141",
+    "vatcode": "LT100018565119"
   },
   {
     "name": "Molėtų menų mokykla",
@@ -2463,7 +2474,7 @@
     "address": "Vilnius, Vilniaus g. 31, LT-01402"
   },
   {
-    "name": "Viešosios įstaigos \"Europos Humanitarinis Universitetas\" filialas EPAM skaitmeninės inžinerijos mokykla",
+    "name": "Viešosios įstaigos \"Europos Humanitarinis Universitetas\" filialas Skaitmeninių kompetencijų mokykla",
     "code": "306128006",
     "address": "Vilnius, Šeimyniškių g. 19-601, LT-09236"
   },
@@ -3812,7 +3823,7 @@
   {
     "name": "Balsių mokyklos tėvų asociacija",
     "code": "303215566",
-    "address": "Vilnius, Naujanerių g. 11, LT-14269"
+    "address": "Vilnius, Bubilo g. 8, LT-08400"
   },
   {
     "name": "Birštono meno mokyklos profesinė sąjunga \"Solidarumas\"",
@@ -4518,11 +4529,6 @@
     "address": "Vilnius, Savanorių pr. 74-91, LT-03149"
   },
   {
-    "name": "MB Haja mokymai",
-    "code": "306951630",
-    "address": "Vilnius, Krivių g. 5, LT-01204"
-  },
-  {
     "name": "MB Jokūbo Mokymai",
     "code": "306108982",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -4962,7 +4968,7 @@
   {
     "name": "Nacionalinė distancinio mokymo asociacija",
     "code": "135509428",
-    "address": "Kaunas, Laisvės al. 39, LT-44309"
+    "address": "Kaunas, Laisvės al. 39-1, LT-44309"
   },
   {
     "name": "Nacionalinė globėjų, įtėvių mokymo ir konsultavimo specialistų asociacija",
@@ -5006,11 +5012,6 @@
     "code": "190804895",
     "address": "Rokiškio r. sav., Rokiškio kaimiškoji sen., Kavoliškio k., Melioratorių g. 1A, LT-42345",
     "vatcode": "LT100017126813"
-  },
-  {
-    "name": "S. Grudienės įmonė \"PRIMUM ESSE\" Mokymo centras",
-    "code": "125318353",
-    "address": "Vilnius, Maironio g. 27-5, LT-01301"
   },
   {
     "name": "SIA \"DRMC\" filialas Lietuvoje \"Latvijos-Vokietijos profesinio mokymo centras\"",
@@ -5176,7 +5177,7 @@
   {
     "name": "Vertimų ir kalbų mokymo centras, IĮ",
     "code": "301070556",
-    "address": "Prienai, Vytauto g. 40, LT-59126"
+    "address": "Prienai, J. Brundzos g. 10-1, LT-59127"
   },
   {
     "name": "Viešoji įstaiga \"Automatizuoto projektavimo ir gamybos sistemų mokymo ir konsultacijos centras\"",
@@ -5624,7 +5625,8 @@
   {
     "name": "MB Mokymų oazė",
     "code": "306308584",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017479813"
   },
   {
     "name": "MB Mokymų vadyba",
@@ -5887,6 +5889,11 @@
     "name": "VšĮ \"Noriu mokytis\"",
     "code": "305734136",
     "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Dumblio g. 6, LT-30157"
+  },
+  {
+    "name": "VšĮ Gera mokytis",
+    "code": "307273531",
+    "address": "Molėtų r. sav., Čiulėnų sen., Giliųjų k. 1A, LT-33351"
   },
   {
     "name": "MB \"Mokytoja Veronika\"",

@@ -116,11 +116,6 @@
     "address": "Radviliškis, Jaunystės g. 2-19, LT-82164"
   },
   {
-    "name": "MB \"MG Ranga\"",
-    "code": "305679565",
-    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Pienių g. 5A-11, LT-54305"
-  },
-  {
     "name": "MB \"Mano ranga\"",
     "code": "306008455",
     "address": "Kaunas, Butrimonių g. 5, LT-50203"
@@ -228,6 +223,11 @@
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
+    "name": "MB Interjero ranga",
+    "code": "307266978",
+    "address": "Kauno r. sav., Akademija, Varžupio 3-oji g. 11, LT-53348"
+  },
+  {
     "name": "MB Kauno statybų ranga",
     "code": "305621836",
     "address": "Kaunas, J. Borutos g. 11-8, LT-46115"
@@ -241,7 +241,8 @@
   {
     "name": "MB Korys Ranga",
     "code": "306720965",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100018561711"
   },
   {
     "name": "MB Mariaus ranga",
@@ -429,7 +430,7 @@
   {
     "name": "UAB \"Gerbo ranga\"",
     "code": "304698071",
-    "address": "Vilnius, Sakalaičių Sodų 7-oji g. 19-1, LT-02216"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "UAB \"JFL Ranga\"",
@@ -719,7 +720,7 @@
   {
     "name": "UAB KONAS RANGA",
     "code": "306190698",
-    "address": "Vilnius, Jogailos g. 8-18, LT-01116",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
     "vatcode": "LT100015622317"
   },
   {
@@ -744,6 +745,11 @@
     "name": "UAB Rgs ranga",
     "code": "305754135",
     "address": "Vilnius, Jaunystės g. 81-1, LT-14121"
+  },
+  {
+    "name": "UAB Rofolio ranga",
+    "code": "307289044",
+    "address": "Kauno r. sav., Domeikavos sen., Smiltynų I k., Volungės g. 6, LT-54440"
   },
   {
     "name": "UAB Skandinaviška ranga",
@@ -950,8 +956,7 @@
   {
     "name": "Mažoji bendrija \"Uostamiesčio rangovas\"",
     "code": "305210137",
-    "address": "Klaipėda, Bandužių g. 21-6, LT-95228",
-    "vatcode": "LT100012716211"
+    "address": "Klaipėda, Bandužių g. 21-6, LT-95228"
   },
   {
     "name": "UAB \"Klaipėdos rangovas\"",

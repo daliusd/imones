@@ -655,14 +655,14 @@
     "address": "Neringa, Vilų g. 18-1R, LT-93102"
   },
   {
-    "name": "UAB \"Kalno parko namai\"",
-    "code": "304952096",
-    "address": "Vilnius, Švitrigailos g. 11A, LT-03228"
-  },
-  {
     "name": "UAB Kalno projektas",
     "code": "306026115",
     "address": "Vilnius, A. Goštauto g. 40B, LT-03163"
+  },
+  {
+    "name": "UAB Tauro kalno duona",
+    "code": "307333640",
+    "address": "Vilnius, Šiaurės g. 14-12, LT-11101"
   },
   {
     "name": "Vilniaus miesto Daugiabučio gyvenamojo namo Kalno g. 97 savininkų bendrija",
@@ -729,11 +729,6 @@
     "address": "Vilniaus r. sav., Nemenčinės sen., Kalnuotės V k. 3A, LT-15130"
   },
   {
-    "name": "P. Puzino įmonė \"Kalnuočiai\"",
-    "code": "147673517",
-    "address": "Panevėžys, Aguonų g. 140, LT-37452"
-  },
-  {
     "name": "Daugiabučių namų savininkų bendrija \"KALNUPĖ\"",
     "code": "141786860",
     "address": "Klaipėda, Kalnupės g. 15, LT-93254"
@@ -758,7 +753,8 @@
   {
     "name": "UAB \"Kalnusa\"",
     "code": "307104385",
-    "address": "Kretingos r. sav., Imbarės sen., Žvainių k., Piliakalnio g. 2, LT-97319"
+    "address": "Kretingos r. sav., Imbarės sen., Žvainių k., Piliakalnio g. 2, LT-97319",
+    "vatcode": "LT100018646916"
   },
   {
     "name": "Kalnutės studija, MB",
@@ -945,6 +941,11 @@
     "address": "Vilnius, Šeimyniškių g. 36-15, LT-09200"
   },
   {
+    "name": "MB \"Kalnų slėnis\"",
+    "code": "307281987",
+    "address": "Joniškio r. sav., Joniškio sen., Linkaičių k., Vingio g. 20, LT-84288"
+  },
+  {
     "name": "MB Kalnų karalius",
     "code": "306676650",
     "address": "Vilnius, Žirmūnų g. 73-16, LT-09112"
@@ -968,8 +969,7 @@
   {
     "name": "UAB \"Kalnų grupė\"",
     "code": "300040688",
-    "address": "Vilnius, Užupio g. 7-34, LT-01200",
-    "vatcode": "LT100011791718"
+    "address": "Vilnius, Užupio g. 7-34, LT-01200"
   },
   {
     "name": "UAB \"Kalnų miškas\"",

@@ -82,11 +82,6 @@
     "address": "Klaipėda, H. Manto g. 47, LT-92253"
   },
   {
-    "name": "R. Lukoševičiaus dizaino studija \"NAUJA LINIJA\"",
-    "code": "148143692",
-    "address": "Panevėžys, Naujamiesčio g. 65, LT-35160"
-  },
-  {
     "name": "UAB \"NAUJA ELEKTRA\"",
     "code": "302803584",
     "address": "Alytus, Margio g. 15, LT-62153",
@@ -183,6 +178,11 @@
     "code": "306079160",
     "address": "Vilnius, A. Goštauto g. 8-215, LT-01108",
     "vatcode": "LT100014970815"
+  },
+  {
+    "name": "UAB Nauja spalva",
+    "code": "307294550",
+    "address": "Vilnius, Moldovos g. 20-8, LT-11330"
   },
   {
     "name": "UAB Nauja spaustuvė",
@@ -458,7 +458,7 @@
   {
     "name": "Naujamiesčio klubas \"Menų sala\"",
     "code": "168956155",
-    "address": "Panevėžio r. sav., Naujamiesčio sen., Naujamiesčio k."
+    "address": "Panevėžio r. sav., Naujamiesčio sen., Naujamiesčio k., Kalnelio g. 2, LT-38343"
   },
   {
     "name": "Naujamiesčio piliečių draugija",
@@ -811,6 +811,11 @@
     "address": "Elektrėnų sav., Kazokiškių sen., Latvių k. 4, LT-21353"
   },
   {
+    "name": "VšĮ \"Naujas Kūrinys\"",
+    "code": "307312564",
+    "address": "Kaunas, Servitutų g. 28, LT-45134"
+  },
+  {
     "name": "VšĮ \"Naujas aspektas\"",
     "code": "305653289",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -1004,11 +1009,6 @@
     "code": "145198979",
     "address": "Šiauliai, Pramonės g. 2D, LT-78147",
     "vatcode": "LT451989716"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"NAUJASIS BRUKLINAS\"",
-    "code": "300536360",
-    "address": "Vilnius, Verkių g. 31D, LT-09108"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"NAUJASIS SOSTAPILIS\"",
@@ -1309,6 +1309,11 @@
     "address": "Vilnius, Santariškių g. 35-7, LT-08439"
   },
   {
+    "name": "Labdaros ir paramos fondas \"Naujieji horizontai\"",
+    "code": "307315471",
+    "address": "Vilnius, Krivių g. 5, LT-01204"
+  },
+  {
     "name": "MB Naujieji papildai",
     "code": "307004627",
     "address": "Vilnius, Girulių g. 10, LT-12112"
@@ -1600,7 +1605,8 @@
   {
     "name": "MB \"Kažkas naujo\"",
     "code": "305702291",
-    "address": "Plungė, S. Nėries g. 12, LT-90167"
+    "address": "Plungė, S. Nėries g. 12, LT-90167",
+    "vatcode": "LT100018600615"
   },
   {
     "name": "MB \"Nieko naujo\"",
@@ -2194,17 +2200,12 @@
   {
     "name": "Laimos Naujokaitienės individuali projektavimo įmonė",
     "code": "122181515",
-    "address": "Vilnius, Marijos Horodničienės g. 11, LT-08412"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "J. Naujokaičio individuali įmonė",
     "code": "302754710",
     "address": "Kaunas, Kalniečių g. 243-18, LT-49338"
-  },
-  {
-    "name": "Juozo Naujokaičio firma \"Inetana\"",
-    "code": "134051846",
-    "address": "Kaunas, Baltų pr. 69-10, LT-48227"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Naujokas\"",
@@ -2275,6 +2276,11 @@
     "name": "Naujos kartos mokslo ir verslo klasteris",
     "code": "302336440",
     "address": "Klaipėda, Nemuno g. 2, LT-91199"
+  },
+  {
+    "name": "Naujos kryptys MB",
+    "code": "307293498",
+    "address": "Vilnius, Eišiškių pl. 47-312, LT-02184"
   },
   {
     "name": "Naujos Ūtos medžiotojų būrelis",
@@ -2731,6 +2737,11 @@
     "name": "Vilniaus miesto Daugiabučio gyvenamojo namo Panevėžio g. 23 savininkų bendrija \"Naujystė\"",
     "code": "307005939",
     "address": "Vilnius, Panevėžio g. 23-14, LT-02165"
+  },
+  {
+    "name": "UAB Statau naują namą",
+    "code": "307283130",
+    "address": "Kaunas, Linažolių tak. 14, LT-45440"
   },
   {
     "name": "Anykščių naujų vėjų bendruomenė",
