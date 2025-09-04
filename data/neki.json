@@ -85,11 +85,6 @@
     "address": "Vilnius, M. Pretorijaus g. 3-14, LT-06227"
   },
   {
-    "name": "S. Balzario individuali įmonė \"NEKILNOJAMASIS TURTAS\"",
-    "code": "121068322",
-    "address": "Vilnius, Taikos g. 174-2, LT-05230"
-  },
-  {
     "name": "Sauliaus Maskaliūno įmonė \"Mažeikių nekilnojamasis turtas\"",
     "code": "166915035",
     "address": "Mažeikiai, Mindaugo g. 4-1, LT-89222"
@@ -104,6 +99,11 @@
     "name": "UAB \"Amsterdamo nekilnojamasis turtas\"",
     "code": "304723165",
     "address": "Vilnius, A. Juozapavičiaus g. 9A-126, LT-09311"
+  },
+  {
+    "name": "UAB \"BALTIJOS NEKILNOJAMASIS TURTAS\"",
+    "code": "302877517",
+    "address": "Kretingos r. sav., Žalgirio sen., Jokūbavo k., Klaipėdos g. 4A, LT-97210"
   },
   {
     "name": "UAB \"Centro kubas-Nekilnojamasis turtas\"",
@@ -393,7 +393,8 @@
   {
     "name": "Specialioji uždarojo tipo nekilnojamojo turto investicinė bendrovė AB \"Tewox\"",
     "code": "305733600",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
+    "address": "Vilnius, Jogailos g. 4, LT-01116",
+    "vatcode": "LT100018761512"
   },
   {
     "name": "UAB \"Centrinė nekilnojamojo turto birža\"",

@@ -153,11 +153,6 @@
     "address": "Vilnius, Gynėjų g. 14-79, LT-01109"
   },
   {
-    "name": "Advokatų profesinė bendrija \"Advokatų aljansas\"",
-    "code": "307207079",
-    "address": "Vilnius, Naugarduko g. 4-3, LT-01309"
-  },
-  {
     "name": "Advokatų profesinė bendrija \"Baltic Lex\"",
     "code": "304174962",
     "address": "Vilnius, Vytauto g. 33-14, LT-08119",
@@ -233,11 +228,6 @@
     "code": "304782078",
     "address": "Vilnius, A. Goštauto g. 8-219, LT-01108",
     "vatcode": "LT100011513219"
-  },
-  {
-    "name": "Advokatų profesinė bendrija \"D. Žvingilienės advokatų kontora\"",
-    "code": "300547887",
-    "address": "Kaunas, Kęstučio g. 87-33, LT-44299"
   },
   {
     "name": "Advokatų profesinė bendrija \"DD Law\"",
@@ -318,7 +308,8 @@
   {
     "name": "Advokatų profesinė bendrija \"HubLegal\"",
     "code": "307328515",
-    "address": "Vilnius, Vilniaus g. 31, LT-01402"
+    "address": "Vilnius, Vilniaus g. 31, LT-01402",
+    "vatcode": "LT100018735210"
   },
   {
     "name": "Advokatų profesinė bendrija \"InRight/Drobitko ir partneriai\"",
@@ -357,6 +348,11 @@
     "vatcode": "LT100005352719"
   },
   {
+    "name": "Advokatų profesinė bendrija \"KANDU Legal\"",
+    "code": "307403658",
+    "address": "Vilnius, Stasio Šilingo g. 112-2, LT-11317"
+  },
+  {
     "name": "Advokatų profesinė bendrija \"KPMG Law\"",
     "code": "304300674",
     "address": "Vilnius, Lvivo g. 101, LT-08104",
@@ -390,6 +386,12 @@
     "code": "304246867",
     "address": "Vilnius, A. Goštauto g. 40A, LT-03163",
     "vatcode": "LT100010214818"
+  },
+  {
+    "name": "Advokatų profesinė bendrija \"Leagus\"",
+    "code": "307379171",
+    "address": "Vilnius, Labdarių g. 5, LT-01120",
+    "vatcode": "LT100018751111"
   },
   {
     "name": "Advokatų profesinė bendrija \"Legal advisers\"",
@@ -510,10 +512,20 @@
     "vatcode": "LT100002489011"
   },
   {
+    "name": "Advokatų profesinė bendrija \"Petreikis, Gulla-Katauskė, Drąsutavičienė\"",
+    "code": "307207079",
+    "address": "Vilnius, Naugarduko g. 4-3, LT-01309"
+  },
+  {
     "name": "Advokatų profesinė bendrija \"Petrulionis ir Čobotas\"",
     "code": "305720994",
     "address": "Vilnius, Sporto g. 7-37, LT-09238",
     "vatcode": "LT100013915615"
+  },
+  {
+    "name": "Advokatų profesinė bendrija \"Praevo\"",
+    "code": "307358661",
+    "address": "Vilnius, Elniakampio g. 16-2, LT-10100"
   },
   {
     "name": "Advokatų profesinė bendrija \"Prevence\"",
@@ -776,7 +788,7 @@
   {
     "name": "Advokatų profesinė bendrija Dumčaitienė ir partneriai",
     "code": "304630907",
-    "address": "Kaunas, V. Putvinskio g. 62, LT-44211",
+    "address": "Kaunas, Kęstučio g. 30-2, LT-44311",
     "vatcode": "LT100011133218"
   },
   {
@@ -1096,6 +1108,11 @@
     "code": "305481925",
     "address": "Vilnius, Konstitucijos pr. 12, LT-09308",
     "vatcode": "LT100013025514"
+  },
+  {
+    "name": "D. Žvingilienės advokatų profesinė bendrija",
+    "code": "300547887",
+    "address": "Kaunas, Kęstučio g. 87-33, LT-44299"
   },
   {
     "name": "DEFENSIO advokatų profesinė bendrija",

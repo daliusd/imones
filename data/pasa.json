@@ -74,6 +74,11 @@
     "address": "Varėnos r. sav., Kaniavos sen., Dubičių k."
   },
   {
+    "name": "VšĮ Drakono Pasaga",
+    "code": "307407286",
+    "address": "Vilniaus r. sav., Riešės sen., Liubavo k., Briedžių g. 51A, LT-15143"
+  },
+  {
     "name": "VšĮ s/k Laimės pasaga",
     "code": "302758121",
     "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Pergalės g. 1-3, LT-14265"
@@ -368,6 +373,11 @@
     "address": "Anykščių r. sav., Andrioniškio sen., Sedeikių k., Sielių g. 18, LT-29331"
   },
   {
+    "name": "VšĮ Sengirė yra pasaka",
+    "code": "307400174",
+    "address": "Vilniaus r. sav., Juodšilių sen., Juodšilių k., A. Mickevičiaus g. 31, LT-14103"
+  },
+  {
     "name": "Šalčininkų lopšelis-darželis \"Pasaka\"",
     "code": "291408750",
     "address": "Šalčininkai, Vytauto g. 36, LT-17114"
@@ -380,7 +390,8 @@
   {
     "name": "Šviesų pasaka, MB",
     "code": "307071946",
-    "address": "Vilkaviškio r. sav., Virbalis, Vilniaus g. 28-2, LT-70386"
+    "address": "Vilkaviškio r. sav., Kybartai, J. Basanavičiaus g. 110, LT-70424",
+    "vatcode": "LT100018714319"
   },
   {
     "name": "Vilniaus lopšelis-darželis \"Pasakaitė\"",
@@ -503,6 +514,11 @@
     "name": "MB \"Pasakų namai\"",
     "code": "305016068",
     "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Ežero g. 6, LT-14265"
+  },
+  {
+    "name": "MB \"Pasakų namelis\"",
+    "code": "307345112",
+    "address": "Ukmergės r. sav., Vepriai, Pergalės g. 9A, LT-20283"
   },
   {
     "name": "MB \"Pasakų namukas\"",
@@ -1143,11 +1159,6 @@
     "address": "Kaunas, Šateikių g. 3, LT-48190"
   },
   {
-    "name": "A. Sinkevičiaus firma \"RYŠIŲ PASAULIS\"",
-    "code": "123567975",
-    "address": "Vilnius, Naujininkų g. 13-4, LT-02109"
-  },
-  {
     "name": "Alkotesterių Pasaulis UAB",
     "code": "303033656",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
@@ -1176,8 +1187,7 @@
   {
     "name": "I. Voroneckajos įmonė \"Irenos pasaulis\"",
     "code": "175033150",
-    "address": "Šalčininkai, A. Mickevičiaus g. 24B-2",
-    "vatcode": "LT750331515"
+    "address": "Šalčininkai, A. Mickevičiaus g. 24B-2"
   },
   {
     "name": "Individuali įmonė Rankų darbo pasaulis",
@@ -1823,11 +1833,6 @@
     "vatcode": "LT100007728914"
   },
   {
-    "name": "UAB \"MANO PASAULIS\"",
-    "code": "225465190",
-    "address": "Vilnius, Sėlių g. 18-30, LT-08124"
-  },
-  {
     "name": "UAB \"Magiškas blakstienų pasaulis\"",
     "code": "304072128",
     "address": "Vilnius, S. Stanevičiaus g. 2-3, LT-07129"
@@ -2172,11 +2177,6 @@
     "vatcode": "LT346958515"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Harmonijos pasaulis\"",
-    "code": "164582977",
-    "address": "Kretinga, J. Basanavičiaus g. 98, LT-97101"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Hidraulikos pasaulis\"",
     "code": "245602020",
     "address": "Klaipėda, Plieno g. 6, LT-95112",
@@ -2320,6 +2320,11 @@
     "address": "Klaipėda, Kretingos g. 8A-8, LT-92208"
   },
   {
+    "name": "VšĮ \"Vidinis vaiko pasaulis\"",
+    "code": "307384535",
+    "address": "Vilnius, J. Basanavičiaus g. 29A-406, LT-03109"
+  },
+  {
     "name": "VšĮ \"Šachmatų pasaulis\"",
     "code": "303178406",
     "address": "Vilnius, Gabijos g. 30-67, LT-06100"
@@ -2354,11 +2359,6 @@
     "name": "UAB Vaikai pasauliui",
     "code": "305888102",
     "address": "Vilnius, Visorių g. 12A-48, LT-08300"
-  },
-  {
-    "name": "VšĮ \"Namai pasauliui\"",
-    "code": "304645649",
-    "address": "Jonava, Kauno g. 93-16, LT-55179"
   },
   {
     "name": "MB Pasaulių angelai",

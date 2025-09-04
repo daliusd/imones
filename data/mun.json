@@ -1,10 +1,5 @@
 [
   {
-    "name": "A. Mun individuali įmonė",
-    "code": "120106325",
-    "address": "Vilnius, Pylimo g. 60-10, LT-01307"
-  },
-  {
     "name": "UAB \"Muna\"",
     "code": "301928617",
     "address": "Tauragė, Tilžės pl. 4J, LT-72147",
@@ -14,11 +9,6 @@
     "name": "MB \"Munai\"",
     "code": "305924114",
     "address": "Vilnius, Santariškių g. 101-1, LT-08465"
-  },
-  {
-    "name": "A. Jasiūno individuali įmonė \"MUNAS\"",
-    "code": "123312896",
-    "address": "Vilnius, Naugarduko g. 45-36, LT-03208"
   },
   {
     "name": "UAB MUNCHHAUSEN PRODUCTIONS",
@@ -85,7 +75,8 @@
   {
     "name": "MB Aqua mundi",
     "code": "306173841",
-    "address": "Vilnius, Krivių g. 5, LT-01204"
+    "address": "Vilnius, Krivių g. 5, LT-01204",
+    "vatcode": "LT100018755316"
   },
   {
     "name": "Salves mundi MB",
@@ -109,9 +100,15 @@
     "address": "Vilnius, J. Jasinskio g. 5-6, LT-01112"
   },
   {
+    "name": "VŠĮ \"MUSICA MUNDI\"",
+    "code": "134959792",
+    "address": "Kauno r. sav., Garliava, Jovarų g. 19, LT-53267",
+    "vatcode": "LT349597917"
+  },
+  {
     "name": "VšĮ ANIMA MUNDI ACADEMIA",
     "code": "300563336",
-    "address": "Šiauliai, Varpo g. 27-28, LT-76297"
+    "address": "Šiauliai, Varpo g. 29-37, LT-76240"
   },
   {
     "name": "VšĮ Sapientia Mundi",
@@ -243,6 +240,12 @@
     "code": "306652247",
     "address": "Joniškio r. sav., Joniškio sen., Linkaičių k., Gruzdžių g. 6, LT-84288",
     "vatcode": "LT100017540317"
+  },
+  {
+    "name": "UAB Munesta",
+    "code": "136020671",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
+    "vatcode": "LT360206716"
   },
   {
     "name": "MB \"Munet solutions\"",

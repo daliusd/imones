@@ -878,7 +878,8 @@
   {
     "name": "UAB Savas agro",
     "code": "307192645",
-    "address": "Pasvalio r. sav., Vaškų sen., Titkonių k., Ežero g. 5, LT-39376"
+    "address": "Pasvalio r. sav., Vaškų sen., Titkonių k., Ežero g. 5, LT-39376",
+    "vatcode": "LT100018773915"
   },
   {
     "name": "UAB Smart Agro",
@@ -923,7 +924,8 @@
   {
     "name": "Vk agro MB",
     "code": "305399047",
-    "address": "Lazdijų r. sav., Seirijų sen., Vainiūnų k., Veisiejų g. 12, LT-67231"
+    "address": "Lazdijų r. sav., Seirijų sen., Vainiūnų k., Veisiejų g. 12, LT-67231",
+    "vatcode": "LT100018692819"
   },
   {
     "name": "Ūkininkų kooperatinė bendrovė \"Šilgaliai Agro\"",
@@ -1118,7 +1120,7 @@
   {
     "name": "UAB \"Agroaukcionai\"",
     "code": "304164594",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kauno m. sav."
   },
   {
     "name": "MB \"Agroaukštaitija\"",
@@ -1473,7 +1475,8 @@
   {
     "name": "UAB \"Agroconsult NT\"",
     "code": "307207086",
-    "address": "Šiauliai, Radviliškio g. 53, LT-77103"
+    "address": "Šiauliai, Radviliškio g. 53, LT-77103",
+    "vatcode": "LT100018691619"
   },
   {
     "name": "MB \"Agroconviva\"",
@@ -1875,7 +1878,8 @@
   {
     "name": "MB \"Agroingvarr\"",
     "code": "307026972",
-    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263"
+    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263",
+    "vatcode": "LT100018815616"
   },
   {
     "name": "UAB \"Agroinkubacija\"",
@@ -2375,6 +2379,12 @@
     "address": "Klaipėda, Tilžės g. 60, LT-91108"
   },
   {
+    "name": "MB \"Agromaksas\"",
+    "code": "307388149",
+    "address": "Kazlų Rūdos sav., Kazlų Rūdos sen., Kvietiškio k., Kazio Griniaus g. 24, LT-69456",
+    "vatcode": "LT100018793813"
+  },
+  {
     "name": "Žemės ūkio bendrovė \"Agromanija\"",
     "code": "177223814",
     "address": "Šilutės r. sav., Juknaičių sen., Juknaičių k., Šilutės g. 8, LT-99331",
@@ -2716,11 +2726,6 @@
     "code": "304847387",
     "address": "Širvintų r. sav., Gelvonų sen., Lemantaučiznos vs. 5, LT-19215",
     "vatcode": "LT100015528315"
-  },
-  {
-    "name": "\"AgroPlius\" MB",
-    "code": "307328974",
-    "address": "Kaunas, T. Masiulio g. 12-11, LT-52372"
   },
   {
     "name": "UAB \"Agropliuso transportas\"",
@@ -3480,7 +3485,7 @@
   {
     "name": "MB Agroteo",
     "code": "307078887",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
+    "address": "Telšių r. sav., Varnių sen., Ožtakių k., Dumbrių g. 6, LT-88324",
     "vatcode": "LT100017600317"
   },
   {
@@ -3676,8 +3681,7 @@
   {
     "name": "UAB Agrovia",
     "code": "302853516",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
-    "vatcode": "LT100007130413"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Agrovija\"",

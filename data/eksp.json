@@ -161,11 +161,6 @@
     "vatcode": "LT100007381219"
   },
   {
-    "name": "UAB BALTIJOS TRANZITO EKSPEDICIJA",
-    "code": "302989893",
-    "address": "Vilkaviškio r. sav., Kybartai, Kudirkos Naumiesčio g. 1A-7, LT-70414"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"INTER VIAM\" EKSPEDICIJA",
     "code": "124388128",
     "address": "Vilnius, Lukiškių g. 5, LT-01108",
@@ -318,6 +313,11 @@
     "name": "Vaišnavų religinės kaimo bendruomenės ekologinis eksperimentinis ūkis",
     "code": "304437819",
     "address": "Vilnius, Veiverių g. 9B-62, LT-11346"
+  },
+  {
+    "name": "VšĮ Eksperimentinis teatras Somnium",
+    "code": "307313488",
+    "address": "Druskininkai, Vytauto g. 12-10, LT-66129"
   },
   {
     "name": "UAB \"Eksperimentinė kūrybinio mąstymo laboratorija\"",
@@ -617,7 +617,8 @@
   {
     "name": "MB Erdvių ekspertai",
     "code": "307065014",
-    "address": "Alytus, Daugų g. 1-123A, LT-62169"
+    "address": "Alytus, Daugų g. 1-123A, LT-62169",
+    "vatcode": "LT100018808613"
   },
   {
     "name": "MB Grindų Restauracijos Ekspertai",
@@ -1028,8 +1029,7 @@
   {
     "name": "UAB Durų ekspertai",
     "code": "306125202",
-    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120",
-    "vatcode": "LT100015407411"
+    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
   },
   {
     "name": "UAB HN Ekspertai",
@@ -1343,7 +1343,8 @@
   {
     "name": "UAB \"Finansų ekspertizė\"",
     "code": "300612541",
-    "address": "Vilnius, Žirmūnų g. 41-15, LT-09106"
+    "address": "Vilnius, Žirmūnų g. 41-15, LT-09106",
+    "vatcode": "LT100018809218"
   },
   {
     "name": "UAB \"Klaipėdos ekspertizė\"",
@@ -1710,11 +1711,6 @@
     "name": "Gyvenamųjų namų statybos ir eksploatacijos bendrija \"Saleks\"",
     "code": "300056105",
     "address": "Vilnius, Nadruvos g. 28, LT-06228"
-  },
-  {
-    "name": "R. Martinonio melioracijos įrenginių eksploatacijos įmonė \"MELIOEKS\"",
-    "code": "182813916",
-    "address": "Ukmergės r. sav., Taujėnai, Taikos g. 4, LT-20348"
   },
   {
     "name": "Riovonių garažų statybos ir eksploatacijos bendrija",
@@ -2454,7 +2450,7 @@
   {
     "name": "184-oji garažų statybos ir eksploatavimo bendrija",
     "code": "135360518",
-    "address": "Kaunas, Islandijos pl."
+    "address": "Kaunas, Islandijos pl. 85-22, LT-49175"
   },
   {
     "name": "185-oji garažų statybos ir eksploatavimo bendrija",
@@ -4286,7 +4282,7 @@
   {
     "name": "573-oji garažų statybos ir eksploatavimo bendrija",
     "code": "124758129",
-    "address": "Vilnius, Vilkpėdės g. 8A, LT-03151"
+    "address": "Vilnius, Vilkpėdės g. 15, LT-03151"
   },
   {
     "name": "574-oji garažų statybos ir eksploatavimo bendrija, reorganizuota iš 98-ojo garažų statybos ir eksploatavimo kooperatyvo",
@@ -7197,7 +7193,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Rūta\"",
     "code": "180744542",
-    "address": "Telšiai, Plungės g."
+    "address": "Telšiai, Plungės g. 39C, LT-87328"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"SANKRYŽA\"",
@@ -7208,11 +7204,6 @@
     "name": "Garažų statybos ir eksploatavimo bendrija \"SIGNALAS\"",
     "code": "181530833",
     "address": "Elektrėnų sav., Vievis, Vilniaus g. 88A, LT-21377"
-  },
-  {
-    "name": "Garažų statybos ir eksploatavimo bendrija \"SIRENA\"",
-    "code": "141782125",
-    "address": "Klaipėda, Balandžių g."
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"STATYBA\"",
@@ -7752,7 +7743,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šiaurys\"",
     "code": "135385667",
-    "address": "Kaunas, Žiemių g. 9A"
+    "address": "Kaunas, Pietų g. 9-10, LT-51306"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šilainiai-5\"",
@@ -8723,7 +8714,7 @@
   {
     "name": "Širvintų miesto Kalnalaukio garažų statybos ir eksploatavimo bendrija",
     "code": "178310275",
-    "address": "Širvintos, Kalnalaukio g."
+    "address": "Širvintos, Kalnalaukio g. 18A K6-2, LT-19108"
   },
   {
     "name": "Širvintų miesto garažų eksploatavimo bendrija Nr. 3",

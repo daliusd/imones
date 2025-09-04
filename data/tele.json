@@ -342,11 +342,6 @@
     "address": "Raseinių r. sav., Viduklės sen., Paupio k., Ateities g. 1B, LT-60333"
   },
   {
-    "name": "MB Telehealth consilium",
-    "code": "306736115",
-    "address": "Kaunas, K. Čerbulėno g. 25-9, LT-47239"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Teleintegracija\"",
     "code": "135835413",
     "address": "Kaunas, Draugystės g. 19, LT-51230"
@@ -372,6 +367,11 @@
     "code": "149693995",
     "address": "Alytus, Sporto g. 2, LT-62152",
     "vatcode": "LT496939917"
+  },
+  {
+    "name": "MB Teleking",
+    "code": "307403074",
+    "address": "Visaginas, Kosmoso g. 14-35, LT-31104"
   },
   {
     "name": "UAB \"Teleklinika\"",
@@ -729,7 +729,8 @@
   {
     "name": "UAB \"Telenorama\"",
     "code": "304084059",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100018432217"
   },
   {
     "name": "UAB \"TELENORDI\"",
@@ -837,12 +838,6 @@
     "name": "Teleskuop, UAB",
     "code": "307180130",
     "address": "Vilnius, Sausio 13-osios g. 11-7, LT-04345"
-  },
-  {
-    "name": "UAB \"Telesoftas\"",
-    "code": "300038071",
-    "address": "Kaunas, K. Donelaičio g. 60, LT-44248",
-    "vatcode": "LT100002947512"
   },
   {
     "name": "UAB \"Telesoftas\" darbuotojų profesinė sąjunga",
@@ -1060,11 +1055,6 @@
     "code": "173028813",
     "address": "Rokiškis, Aušros g. 49, LT-42131",
     "vatcode": "LT100003525219"
-  },
-  {
-    "name": "S. Žilionio personalinė radijo ir televizijos konsultacinė agentūra",
-    "code": "122698295",
-    "address": "Vilnius, Liepkalnio g. 69-12, LT-02120"
   },
   {
     "name": "Televizijos projektų agentūra, MB",

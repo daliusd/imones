@@ -38,6 +38,11 @@
     "vatcode": "LT100015464713"
   },
   {
+    "name": "MB \"Admilinkas\"",
+    "code": "307409682",
+    "address": "Vilnius, Eišiškių pl. 47-312, LT-02184"
+  },
+  {
     "name": "MB \"Admiliuksas\"",
     "code": "303212004",
     "address": "Vilnius, Kalvarijų g. 198-36, LT-08201"
@@ -90,11 +95,6 @@
     "code": "300940577",
     "address": "Klaipėda, Šilutės pl. 105, LT-95112",
     "vatcode": "LT100003368512"
-  },
-  {
-    "name": "UAB Partner admin",
-    "code": "306799496",
-    "address": "Vilnius, Kauno g. 16-297, LT-03212"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"ADMINA\"",
@@ -872,11 +872,6 @@
     "address": "Jonavos r. sav., Užusalių sen., Užusalių k."
   },
   {
-    "name": "Jonavos rajono savivaldybės administracijos darbuotojų profesinė sąjunga",
-    "code": "157013598",
-    "address": "Jonava, Žeimių g. 13, LT-55158"
-  },
-  {
     "name": "Jonavos rajono savivaldybės administracijos Šilų seniūnija",
     "code": "188612717",
     "address": "Jonavos r. sav., Šilų sen., Šilų k."
@@ -885,6 +880,11 @@
     "name": "Jonavos rajono savivaldybės administracijos Žeimių seniūnija",
     "code": "188612489",
     "address": "Jonavos r. sav., Žeimiai"
+  },
+  {
+    "name": "Jonavos rajono savivaldybės administracijos, viešųjų ir biudžetinių įstaigų darbuotojų profesinė sąjunga",
+    "code": "157013598",
+    "address": "Jonava, Žeimių g. 13, LT-55158"
   },
   {
     "name": "Joniškio rajono savivaldybės administracijos Gaižaičių seniūnija",
@@ -1127,6 +1127,11 @@
     "address": "Kaunas, Šv. Gertrūdos g. 7, LT-44290"
   },
   {
+    "name": "Kauno miesto savivaldybės administracijos filialas Žemosios Fredos seniūnija",
+    "code": "307352078",
+    "address": "Kaunas, Veiverių g. 132, LT-46337"
+  },
+  {
     "name": "Kauno rajono savivaldybės administracijos Akademijos seniūnija",
     "code": "188731041",
     "address": "Kauno r. sav., Akademija, Universiteto g. 8, LT-53345"
@@ -1289,12 +1294,12 @@
   {
     "name": "Kelmės rajono savivaldybės administracijos Kukečių seniūnija",
     "code": "188647789",
-    "address": "Kelmės r. sav., Kukečių sen., Kukečių k."
+    "address": "Kelmės r. sav., Kukečių sen., Kukečių k., Kukečių g. 30, LT-86429"
   },
   {
     "name": "Kelmės rajono savivaldybės administracijos Liolių seniūnija",
     "code": "188648738",
-    "address": "Kelmės r. sav., Lioliai"
+    "address": "Kelmės r. sav., Lioliai, Nepriklausomybės g. 47, LT-86232"
   },
   {
     "name": "Kelmės rajono savivaldybės administracijos Pakražančio seniūnija",
@@ -1319,7 +1324,7 @@
   {
     "name": "Kelmės rajono savivaldybės administracijos Vaiguvos seniūnija",
     "code": "188648161",
-    "address": "Kelmės r. sav., Vaiguvos sen., Vaiguvos k."
+    "address": "Kelmės r. sav., Vaiguvos sen., Vaiguvos k., Alyvų g. 10, LT-86404"
   },
   {
     "name": "Kelmės rajono savivaldybės administracijos darbuotojų profesinė sąjunga",
@@ -1329,7 +1334,7 @@
   {
     "name": "Kelmės rajono savivaldybės administracijos Šaukėnų seniūnija",
     "code": "188647974",
-    "address": "Kelmės r. sav., Šaukėnai, Juodlės g. 1, LT-86386"
+    "address": "Kelmės r. sav., Šaukėnai, Juodlės g. 2, LT-86386"
   },
   {
     "name": "Klaipėdos rajono savivaldybės administracijos Agluonėnų seniūnija",
@@ -2165,6 +2170,11 @@
     "name": "Raseinių rajono savivaldybės administracijos Viduklės seniūnija",
     "code": "188628326",
     "address": "Raseinių r. sav., Viduklė, Kęstučio g. 16, LT-60347"
+  },
+  {
+    "name": "Raseinių rajono savivaldybės administracijos darbuotojų profesinė sąjunga",
+    "code": "172417612",
+    "address": "Raseiniai, V. Kudirkos g. 5, LT-60150"
   },
   {
     "name": "Raseinių rajono savivaldybės administracijos Šiluvos seniūnija",
@@ -3807,11 +3817,6 @@
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
-    "name": "Nemokumo administravimo paslaugos UAB",
-    "code": "306032246",
-    "address": "Vilnius, Danės g. 2-4, LT-06235"
-  },
-  {
     "name": "Skolų administravimo asociacija",
     "code": "302546976",
     "address": "Vilnius, Pelesos g. 45-32, LT-02111"
@@ -3845,6 +3850,11 @@
     "name": "UAB \"Paskolų administravimo centras\"",
     "code": "305661357",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+  },
+  {
+    "name": "UAB \"Paskolų administravimo grupė\"",
+    "code": "307392005",
+    "address": "Vilnius, Gabijos g. 32, LT-06158"
   },
   {
     "name": "UAB \"Skolų administravimo centras\"",
@@ -4000,6 +4010,11 @@
     "vatcode": "LT100003339317"
   },
   {
+    "name": "MB Admintera",
+    "code": "307385181",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "UAB \"AdMinus\"",
     "code": "302707689",
     "address": "Vilnius, Rinktinės g. 13-113, LT-09201"
@@ -4078,7 +4093,8 @@
   {
     "name": "UAB \"Admitum\"",
     "code": "305973015",
-    "address": "Vilnius, Justiniškių g. 146, LT-06153"
+    "address": "Vilnius, Justiniškių g. 146, LT-06153",
+    "vatcode": "LT100018761119"
   },
   {
     "name": "UAB \"Admituras\"",

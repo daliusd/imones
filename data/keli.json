@@ -68,6 +68,11 @@
     "vatcode": "LT100016325711"
   },
   {
+    "name": "MB Geri keliai",
+    "code": "307389009",
+    "address": "Vilnius, Liongino Baliukevičiaus-Dzūko g. 108-47, LT-06300"
+  },
+  {
     "name": "UAB \"Autokausta keliai\"",
     "code": "302889996",
     "address": "Kaunas, Marvelės g. 199B, LT-46204",
@@ -200,7 +205,7 @@
   {
     "name": "\"Skorpiono kelias\" MB",
     "code": "305500980",
-    "address": "Kaunas, Taikos pr. 35-28, LT-50227"
+    "address": "Kauno m. sav."
   },
   {
     "name": "\"Trolių kelias\", MB",
@@ -393,7 +398,8 @@
   {
     "name": "Klubas \"Kario kelias\"",
     "code": "302343488",
-    "address": "Kaunas, Islandijos pl. 15, LT-49179"
+    "address": "Kaunas, Islandijos pl. 15, LT-49179",
+    "vatcode": "LT100018768318"
   },
   {
     "name": "Kooperatyvas \"Javo kelias\"",
@@ -700,9 +706,19 @@
     "vatcode": "LT100018381313"
   },
   {
+    "name": "MB Vaikų kelias",
+    "code": "307355989",
+    "address": "Vilnius, Gelvonų g. 17-5, LT-07139"
+  },
+  {
     "name": "MB Vilties kelias",
     "code": "307075364",
     "address": "Jurbarko r. sav., Viešvilė, Klaipėdos g. 81-2, LT-74235"
+  },
+  {
+    "name": "MB Šviesos Kelias LT",
+    "code": "307409547",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
     "name": "Mažeikių Sekminių bažnyčia \"Kristaus kelias\"",
@@ -802,6 +818,11 @@
     "code": "304491368",
     "address": "Kaunas, K. Būgos g. 10, LT-44327",
     "vatcode": "LT100010835213"
+  },
+  {
+    "name": "UAB \"Gurmano kelias\"",
+    "code": "307399932",
+    "address": "Ignalinos r. sav., Naujojo Daugėliškio sen., Mikalavo k., Plento g. 5, LT-30292"
   },
   {
     "name": "UAB \"IT Kelias\"",
@@ -1220,6 +1241,11 @@
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
   },
   {
+    "name": "Mažoji bendrija \"Keliaujantis kokteilis\"",
+    "code": "307365054",
+    "address": "Panevėžys, Ąžuolų g. 27, LT-35113"
+  },
+  {
     "name": "VšĮ \"Keliaujantys skoniai\"",
     "code": "305557935",
     "address": "Ukmergės r. sav., Pivonijos sen., Žuklių k., Ežero g. 3, LT-20232",
@@ -1584,7 +1610,7 @@
   {
     "name": "Sodininkų bendrija \"Kelininkas\"",
     "code": "193208772",
-    "address": "Vilnius, Žėručio g. 5-54, LT-04103"
+    "address": "Trakų r. sav., Lentvario sen., Vosyliukų k., Kelininkų 1-oji g. 18, LT-21402"
   },
   {
     "name": "Kelininkų veteranų klubas \"SANKRYŽA\"",
@@ -1730,7 +1756,8 @@
   {
     "name": "UAB \"Kelio vingiai\"",
     "code": "302719442",
-    "address": "Vilnius, Gerosios Vilties g. 42-11, LT-03143"
+    "address": "Vilniaus r. sav., Pagirių sen., Melekonių k., Juozo Lašinsko g. 42D, LT-14119",
+    "vatcode": "LT100008349112"
   },
   {
     "name": "UAB \"Kelio vizija\"",
@@ -2407,7 +2434,7 @@
   {
     "name": "MB Viva kelionės",
     "code": "305645207",
-    "address": "Alytus, Liškiavos g. 12, LT-62165"
+    "address": "Alytus, Pašilio g. 77, LT-62322"
   },
   {
     "name": "MB Žemaitijos kelionės",
@@ -2422,7 +2449,8 @@
   {
     "name": "Mažoji bendrija Epo kelionės",
     "code": "307099447",
-    "address": "Vilnius, Justiniškių g. 48-8, LT-05241"
+    "address": "Vilnius, Justiniškių g. 48-8, LT-05241",
+    "vatcode": "LT100018696014"
   },
   {
     "name": "UAB \"AKADEMINĖS KELIONĖS\"",
@@ -2687,11 +2715,6 @@
     "name": "Labdaros ir paramos fondas \"Svajonės keliu\"",
     "code": "306185181",
     "address": "Vilnius, Pasakų g. 2B, LT-10105"
-  },
-  {
-    "name": "Labdaros ir paramos fondas \"Šviesos keliu\"",
-    "code": "305874177",
-    "address": "Vilnius, Bajorų kel. 21-5, LT-08467"
   },
   {
     "name": "Labdaros ir paramos fondas Savo keliu",

@@ -201,7 +201,7 @@
   {
     "name": "UAB \"Karimo baltika\"",
     "code": "304084931",
-    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "Modiran Ideh Pardazane Karin Company Ltd. filialas",
@@ -373,6 +373,11 @@
     "address": "Vilnius, Pamėnkalnio g. 13, LT-01114"
   },
   {
+    "name": "UAB Kairių karinis miestelis",
+    "code": "306920745",
+    "address": "Kaunas, Draugystės g. 15A, LT-51227"
+  },
+  {
     "name": "Asociacija Karinių jūrų pajėgų karininkų klubas",
     "code": "300068545",
     "address": "Palanga, Birutės al. 46, LT-00135"
@@ -522,7 +527,8 @@
   {
     "name": "Klubas \"Kario kelias\"",
     "code": "302343488",
-    "address": "Kaunas, Islandijos pl. 15, LT-49179"
+    "address": "Kaunas, Islandijos pl. 15, LT-49179",
+    "vatcode": "LT100018768318"
   },
   {
     "name": "MB \"Kario menas\"",
@@ -640,14 +646,14 @@
     "address": "Panevėžys, Sietyno g. 5B, LT-35196"
   },
   {
-    "name": "Lietuvos kariuomenės Depų tarnyba",
-    "code": "188787855",
-    "address": "Vilnius, Savanorių pr. 8, LT-03116"
-  },
-  {
     "name": "Lietuvos kariuomenės Didžiojo Lietuvos etmono Jonušo Radvilos mokomasis pulkas",
     "code": "188728789",
     "address": "Jonavos r. sav., Ruklos sen., Ruklos k., Laumės g. 3, LT-55283"
+  },
+  {
+    "name": "Lietuvos kariuomenės Divizijos generolo Jono Sutkaus depų tarnyba",
+    "code": "188787855",
+    "address": "Vilnius, Savanorių pr. 8, LT-03116"
   },
   {
     "name": "Lietuvos kariuomenės Dr. Jono Basanavičiaus karo medicinos tarnyba",
