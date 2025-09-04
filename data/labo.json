@@ -64,6 +64,11 @@
     "address": "Kaunas, Europos pr. 122, LT-46351"
   },
   {
+    "name": "UAB \"Lucrosus labor\"",
+    "code": "307388042",
+    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+  },
+  {
     "name": "MB Amber Labora",
     "code": "305534840",
     "address": "Kauno r. sav., Karmėlavos sen., Naujasodžio k., Politechnikos g. 165, LT-44100"
@@ -251,11 +256,6 @@
     "name": "J. Skamarako dantų techniko laboratorija",
     "code": "174397044",
     "address": "Šakiai, V. Kudirkos g. 63, LT-71127"
-  },
-  {
-    "name": "Katkaus grafikos laboratorija",
-    "code": "121098276",
-    "address": "Vilnius, Tuskulėnų g. 46-14, LT-09209"
   },
   {
     "name": "Kosmetikos laboratorija, MB",
@@ -883,7 +883,8 @@
   {
     "name": "UAB Diagnostikos laboratorija",
     "code": "300598351",
-    "address": "Kaunas, Žemaičių pl. 37, LT-48178"
+    "address": "Kaunas, Žemaičių pl. 37, LT-48178",
+    "vatcode": "LT100018789916"
   },
   {
     "name": "UAB Dirbtinio intelekto laboratorija",
@@ -1024,7 +1025,8 @@
   {
     "name": "UAB Šypsenos laboratorija",
     "code": "304129173",
-    "address": "Vilnius, Raitininkų g. 4-104, LT-09236"
+    "address": "Vilnius, Raitininkų g. 4-104, LT-09236",
+    "vatcode": "LT100018814618"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"MIKROBANGŲ LABORATORIJA\"",

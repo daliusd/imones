@@ -46,7 +46,8 @@
   {
     "name": "UAB \"Parta IO\"",
     "code": "306064589",
-    "address": "Vilnius, Juozo Balčikonio g. 3, LT-08247"
+    "address": "Vilnius, Juozo Balčikonio g. 3, LT-08247",
+    "vatcode": "LT100018814719"
   },
   {
     "name": "UAB \"Partai\"",
@@ -440,7 +441,8 @@
   {
     "name": "MB Partizanų automobilių priežiūros centras",
     "code": "306615081",
-    "address": "Kaunas, Partizanų g. 190A, LT-50326"
+    "address": "Kaunas, Partizanų g. 190A, LT-50326",
+    "vatcode": "LT100018790516"
   },
   {
     "name": "Partizanų 102 DNSB",
@@ -646,6 +648,11 @@
     "vatcode": "LT100009028012"
   },
   {
+    "name": "Metodo Partner, MB",
+    "code": "307403099",
+    "address": "Vilnius, Ukmergės g. 306-19, LT-12102"
+  },
+  {
     "name": "SCS Partner UAB",
     "code": "302492457",
     "address": "Vilniaus miesto savivaldybės teritorija"
@@ -757,8 +764,7 @@
   {
     "name": "UAB \"Reservation partner LT\"",
     "code": "301711535",
-    "address": "Kaunas, Neries krant. 16, LT-48402",
-    "vatcode": "LT100004331014"
+    "address": "Kaunas, Neries krant. 16, LT-48402"
   },
   {
     "name": "UAB \"Smart Partner\"",
@@ -799,11 +805,6 @@
     "vatcode": "LT100017565012"
   },
   {
-    "name": "UAB Partner admin",
-    "code": "306799496",
-    "address": "Vilnius, Kauno g. 16-297, LT-03212"
-  },
-  {
     "name": "UAB SOLO Partner",
     "code": "302530979",
     "address": "Vilnius, J. Kubiliaus g. 4B-39, LT-08241"
@@ -811,7 +812,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"RÖDL & PARTNER\"",
     "code": "111646144",
-    "address": "Vilnius, Tilto g. 1, LT-01101",
+    "address": "Vilnius, Aludarių g. 1, LT-01113",
     "vatcode": "LT116461415"
   },
   {
@@ -828,7 +829,8 @@
   {
     "name": "\"Partnera\", UAB",
     "code": "307264482",
-    "address": "Kaunas, E. Volterio g. 126, LT-47275"
+    "address": "Kaunas, E. Volterio g. 126, LT-47275",
+    "vatcode": "LT100018745016"
   },
   {
     "name": "UAB \"Partnera LT\"",
@@ -850,8 +852,7 @@
   {
     "name": "\"Helmers ir partneriai\", UAB",
     "code": "303125040",
-    "address": "Klaipėda, Ramioji g. 7-2, LT-92226",
-    "vatcode": "LT100010459518"
+    "address": "Klaipėda, Ramioji g. 7-2, LT-92226"
   },
   {
     "name": "\"Inovatyvūs partneriai\", UAB",
@@ -1056,7 +1057,7 @@
   {
     "name": "Advokatų profesinė bendrija Dumčaitienė ir partneriai",
     "code": "304630907",
-    "address": "Kaunas, V. Putvinskio g. 62, LT-44211",
+    "address": "Kaunas, Kęstučio g. 30-2, LT-44311",
     "vatcode": "LT100011133218"
   },
   {
@@ -1318,8 +1319,7 @@
   {
     "name": "MB \"LGR partneriai\"",
     "code": "305625382",
-    "address": "Pasvalio r. sav., Saločių sen., Ąžuolpamūšės k., Dvaro g. 3, LT-39448",
-    "vatcode": "LT100016805315"
+    "address": "Pasvalio r. sav., Saločių sen., Ąžuolpamūšės k., Dvaro g. 3, LT-39448"
   },
   {
     "name": "MB \"Labanauskas ir partneriai\"",
@@ -1561,9 +1561,9 @@
     "vatcode": "LT100015678716"
   },
   {
-    "name": "T. Plungės firma \"Tauras ir partneriai\"",
+    "name": "T. Plungės firmos \"Tauras ir partneriai\", IĮ",
     "code": "135145280",
-    "address": "Kaunas, Pikulo g. 97, LT-48437"
+    "address": "Kaunas, Maironio g. 11, LT-44298"
   },
   {
     "name": "UAB \"AMB ir partneriai\"",
@@ -2203,7 +2203,7 @@
   {
     "name": "UAB \"TV partneriai\"",
     "code": "303161403",
-    "address": "Kaunas, A. Mackevičiaus g. 106-5, LT-44203",
+    "address": "Kaunas, Telšių g. 10-1, LT-44203",
     "vatcode": "LT100008105418"
   },
   {
@@ -2956,7 +2956,7 @@
   {
     "name": "MB It valdymo partneris",
     "code": "305975831",
-    "address": "Vilnius, Raitininkų g. 2B-42, LT-09232",
+    "address": "Vilnius, Šeškinės Sodų 3-ioji g. 11, LT-08343",
     "vatcode": "LT100014687619"
   },
   {
@@ -3461,6 +3461,12 @@
     "address": "Vilnius, Vingrių g. 3D-3, LT-01118"
   },
   {
+    "name": "Ebury Partners Lithuania UAB",
+    "code": "305689591",
+    "address": "Vilnius, Konstitucijos pr. 21B, LT-08105",
+    "vatcode": "LT100016177610"
+  },
+  {
     "name": "Evernord Partners UAB",
     "code": "303188119",
     "address": "Vilnius, Konstitucijos pr. 15-98, LT-09319",
@@ -3509,6 +3515,11 @@
     "code": "305672115",
     "address": "Vilnius, Šeškinės g. 49-44, LT-07159",
     "vatcode": "LT100013658418"
+  },
+  {
+    "name": "Lapas partners MB",
+    "code": "307398474",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Asset partners\"",
@@ -3561,6 +3572,11 @@
     "code": "306092421",
     "address": "Vilnius, Lvivo g. 13-12, LT-09313",
     "vatcode": "LT100015133613"
+  },
+  {
+    "name": "MB Axia partners",
+    "code": "307395033",
+    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "MB B partners",
@@ -4050,6 +4066,11 @@
     "vatcode": "LT100018169515"
   },
   {
+    "name": "UAB Partners InTech",
+    "code": "307387481",
+    "address": "Vilnius, Naugarduko g. 41B-110, LT-03227"
+  },
+  {
     "name": "UAB QUAY PARTNERS LT",
     "code": "304068980",
     "address": "Vilnius, Architektų g. 56-101, LT-04111",
@@ -4090,8 +4111,12 @@
   {
     "name": "UAB Trading Partners",
     "code": "305522489",
-    "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Šilo g. 15, LT-14266",
-    "vatcode": "LT100013085911"
+    "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Šilo g. 15, LT-14266"
+  },
+  {
+    "name": "UAB WayTwo partners",
+    "code": "307043199",
+    "address": "Panevėžys, Beržų g. 17-60, LT-36215"
   },
   {
     "name": "UAB Zinc Partners Lithuania",
@@ -4554,6 +4579,12 @@
     "address": "Kaišiadorių r. sav., Kaišiadorių apylinkės sen., Gudienos k., Vilniaus g. 20, LT-56106"
   },
   {
+    "name": "MB Ap auto parts",
+    "code": "304431321",
+    "address": "Vilniaus r. sav., Zujūnų sen., Platiniškių k., Adomo Mickevičiaus g. 135, LT-14167",
+    "vatcode": "LT100013739710"
+  },
+  {
     "name": "MB Arauto parts",
     "code": "306045279",
     "address": "Kelmės r. sav., Liolių sen., Daujočių k., Naujoji g. 4, LT-86237",
@@ -4594,9 +4625,10 @@
     "vatcode": "LT100016558811"
   },
   {
-    "name": "MB Fixson auto parts",
+    "name": "MB Fixon auto parts",
     "code": "307171925",
-    "address": "Kaunas, Veiverių g. 31-2, LT-46274"
+    "address": "Kaunas, Veiverių g. 31-2, LT-46274",
+    "vatcode": "LT100018734616"
   },
   {
     "name": "MB Holy parts",
@@ -4663,6 +4695,12 @@
     "name": "MB Top parts",
     "code": "306198111",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "MB Truck parts solutions",
+    "code": "307143580",
+    "address": "Vilniaus r. sav., Avižienių sen., Bajorų k., Mėtų g. 21A, LT-14182",
+    "vatcode": "LT100017755119"
   },
   {
     "name": "Mažoji bendrija Arka auto parts",

@@ -5,11 +5,6 @@
     "address": "Mažeikiai, Laisvės g. 7, LT-89222"
   },
   {
-    "name": "J. Krivo leidykla \"Saulabrolis\"",
-    "code": "123672022",
-    "address": "Vilnius, Laisvės pr. 43-89, LT-04339"
-  },
-  {
     "name": "MB Saulainis",
     "code": "307183984",
     "address": "Kelmės r. sav., Šaukėnų sen., Gabriejolės vs., Šiaulių g. 1, LT-86384"
@@ -168,7 +163,8 @@
   {
     "name": "SAULEGRA, MB",
     "code": "307304489",
-    "address": "Vilnius, Jonažolių g. 4-51, LT-04134"
+    "address": "Vilnius, Jonažolių g. 4-51, LT-04134",
+    "vatcode": "LT100018739516"
   },
   {
     "name": "MB Sauleima",
@@ -462,11 +458,6 @@
     "address": "Vilnius, J. Basanavičiaus g. 25-10, LT-03108"
   },
   {
-    "name": "Sauliaus Apavičiaus personalinė įmonė",
-    "code": "278275590",
-    "address": "Širvintos, Musninkų g. 23, LT-19125"
-  },
-  {
     "name": "Sauliaus Armonavičiaus įmonė",
     "code": "174437186",
     "address": "Vilnius, Dociškių g. 15-17, LT-06154"
@@ -528,8 +519,7 @@
   {
     "name": "Sauliaus Domarko individuali įmonė",
     "code": "300088957",
-    "address": "Plungė, Medingėnų g. 10, LT-90155",
-    "vatcode": "LT100002646111"
+    "address": "Plungė, Medingėnų g. 10, LT-90155"
   },
   {
     "name": "Sauliaus Dovydaičio individuali įmonė",
@@ -578,6 +568,11 @@
     "name": "Sauliaus Karpavičiaus IĮ",
     "code": "185331490",
     "address": "Vilkaviškio r. sav., Šeimenos sen., Didžiųjų Šelvių k., Saulės g. 9, LT-70194"
+  },
+  {
+    "name": "Sauliaus Kazlausko labdaros ir paramos fondas",
+    "code": "307395617",
+    "address": "Kelmės r. sav., Tytuvėnų apylinkių sen., Aukštiškių k. 10, LT-86454"
   },
   {
     "name": "Sauliaus Kerševičiaus personalinė įmonė",
@@ -671,11 +666,6 @@
     "vatcode": "LT612161113"
   },
   {
-    "name": "Sauliaus Ratkevičiaus firma",
-    "code": "122058879",
-    "address": "Vilnius, Rygos g. 17-8, LT-05239"
-  },
-  {
     "name": "Sauliaus Ravinsko IĮ",
     "code": "300149698",
     "address": "Vilnius, Žirmūnų g. 41-49, LT-09106"
@@ -763,11 +753,6 @@
     "name": "Sauliaus Zimnicko IĮ",
     "code": "307232292",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "Sauliaus ir Linos Žukų leidinio \"Baltos lankos\" redakcija",
-    "code": "120587047",
-    "address": "Vilnius, Šv. Ignoto g. 14-5, LT-01144"
   },
   {
     "name": "Sauliaus Šileikos įmonė",
@@ -1535,7 +1520,7 @@
   {
     "name": "MB \"Saulė Mija\"",
     "code": "304830473",
-    "address": "Vilnius, Gerosios Vilties g. 20-41, LT-03145"
+    "address": "Vilnius, I. Simonaitytės g. 8-41, LT-06294"
   },
   {
     "name": "MB \"Saulė plaukuose\"",
@@ -1878,7 +1863,8 @@
   {
     "name": "VšĮ Piliečių energijos bendrija Kaišiadorių saulė",
     "code": "306984032",
-    "address": "Vilnius, Ateities g. 5-86, LT-08305"
+    "address": "Vilnius, Ateities g. 5-86, LT-08305",
+    "vatcode": "LT100018731813"
   },
   {
     "name": "VšĮ Piliečių energijos bendrija Panerio saulė",
@@ -2434,6 +2420,12 @@
     "address": "Klaipėda, Nidos g. 46-65, LT-93207"
   },
   {
+    "name": "MB Saulės dovana",
+    "code": "306281824",
+    "address": "Kaunas, I. Kanto g. 18, LT-44296",
+    "vatcode": "LT100016057811"
+  },
+  {
     "name": "MB Saulės energija jums",
     "code": "306036611",
     "address": "Jonavos r. sav., Kulvos sen., Melnytėlės k. 1, LT-55100",
@@ -2606,7 +2598,8 @@
   {
     "name": "Saulės grąžos parkai 3, UAB",
     "code": "306282424",
-    "address": "Vilnius, Šeimyniškių g. 19B-301, LT-09233"
+    "address": "Vilnius, Šeimyniškių g. 19B-301, LT-09233",
+    "vatcode": "LT100018691417"
   },
   {
     "name": "Saulės grąžos parkai 4, UAB",
@@ -3256,7 +3249,7 @@
   {
     "name": "UAB \"Saulės šiluma\"",
     "code": "302490082",
-    "address": "Kaunas, Erškėčių g. 27, LT-47483",
+    "address": "Kaunas, Jotvingių g. 15-1, LT-48124",
     "vatcode": "LT100005378611"
   },
   {
@@ -3419,7 +3412,7 @@
   {
     "name": "UAB Saulės dukra",
     "code": "305683695",
-    "address": "Kaunas, Vaidilutės g. 6-1, LT-44320",
+    "address": "Kaunas, Pramonės pr. 4-1, LT-51329",
     "vatcode": "LT100016332411"
   },
   {
@@ -3966,7 +3959,7 @@
   {
     "name": "535-oji daugiabučio namo savininkų bendrija \"SAULĖTEKIS\"",
     "code": "124803631",
-    "address": "Vilnius, Žirmūnų g. 54-77, LT-09226"
+    "address": "Vilnius, Žirmūnų g. 54-48, LT-09226"
   },
   {
     "name": "764-oji daugiabučio namo savininkų bendrija \"SAULĖTEKIS\"",
@@ -4116,6 +4109,11 @@
     "code": "304002425",
     "address": "Alytus, S. Dariaus ir S. Girėno g. 1-19, LT-62137",
     "vatcode": "LT100009314910"
+  },
+  {
+    "name": "VŠĮ SAULĖTOS LANKOS",
+    "code": "307399868",
+    "address": "Kaunas, Lapkalnio g. 16, LT-47268"
   },
   {
     "name": "VšĮ \"Saulėtos idėjos\"",

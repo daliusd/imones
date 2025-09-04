@@ -26,6 +26,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "AD CarCare MB",
+    "code": "307410108",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "AD Comerus, MB",
     "code": "306163217",
     "address": "Vilnius, Gedvydžių g. 27-55, LT-06311"
@@ -161,7 +166,8 @@
   {
     "name": "MB \"Ad futurum\"",
     "code": "307277298",
-    "address": "Vilnius, Stanislovo Narutavičiaus g. 58, LT-11239"
+    "address": "Vilnius, Stanislovo Narutavičiaus g. 58, LT-11239",
+    "vatcode": "LT100018697813"
   },
   {
     "name": "MB \"Ad group\"",
@@ -224,6 +230,11 @@
     "name": "MB AD Construct",
     "code": "307131418",
     "address": "Ukmergės r. sav., Siesikai, Draugystės g. 13-3, LT-20316"
+  },
+  {
+    "name": "MB AD Energy",
+    "code": "307401109",
+    "address": "Vilnius, Kazimiero Jelskio g. 65-48, LT-04132"
   },
   {
     "name": "MB AD Facades",
@@ -609,7 +620,7 @@
   {
     "name": "UAB AD Autoservisas",
     "code": "302935778",
-    "address": "Kaunas, Elektrėnų g. 1R, LT-51191",
+    "address": "Kaunas, Elektrėnų g. 7C, LT-51192",
     "vatcode": "LT100007372218"
   },
   {
@@ -617,12 +628,6 @@
     "code": "306127089",
     "address": "Klaipėda, Budelkiemio g. 17-20, LT-95243",
     "vatcode": "LT100015671416"
-  },
-  {
-    "name": "UAB AD Recruitment",
-    "code": "306624543",
-    "address": "Klaipėda, Mogiliovo g. 14-37, LT-95234",
-    "vatcode": "LT100016564210"
   },
   {
     "name": "UAB AD TRANSPORT",
@@ -640,6 +645,12 @@
     "code": "305731243",
     "address": "Vilnius, Architektų g. 27-24, LT-04105",
     "vatcode": "LT100013953416"
+  },
+  {
+    "name": "UAB Ad solutions group",
+    "code": "306624543",
+    "address": "Klaipėda, Mogiliovo g. 14-37, LT-95234",
+    "vatcode": "LT100016564210"
   },
   {
     "name": "UAB Ad trade",
@@ -698,8 +709,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Ad markers\"",
     "code": "135946029",
-    "address": "Jonavos r. sav., Žeimiai, Sodų g. 13, LT-55384",
-    "vatcode": "LT359460219"
+    "address": "Jonavos r. sav., Žeimiai, Sodų g. 13, LT-55384"
   },
   {
     "name": "Viešoji įstaiga \"Ad libitum\"",

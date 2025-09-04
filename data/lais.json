@@ -157,7 +157,7 @@
   {
     "name": "Viešoji įstaiga \"Laisva mintis\"",
     "code": "302884262",
-    "address": "Šalčininkai, Statybininkų g. 4, LT-17126"
+    "address": "Švenčionių r. sav., Magūnų sen., Beregovkos vs. 1, LT-18160"
   },
   {
     "name": "VšĮ \"Laisva Ukraina\"",
@@ -279,7 +279,8 @@
   {
     "name": "Asociacija \"Laisvalaikio iniciatyvos\"",
     "code": "306081147",
-    "address": "Akmenės r. sav., Papilės sen., Kairiškių k., Parko g. 20, LT-85284"
+    "address": "Akmenės r. sav., Papilės sen., Kairiškių k., Parko g. 20, LT-85284",
+    "vatcode": "LT100018762510"
   },
   {
     "name": "Asociacija \"Lazdijų laisvalaikio klubas\"",
@@ -537,11 +538,6 @@
     "address": "Vilnius, Sorbų g. 3, LT-11330"
   },
   {
-    "name": "Pagyvenusios moters veiklos centro Kauno paslaugų ir laisvalaikio skyrius \"Juozapinė\"",
-    "code": "135479351",
-    "address": "Kaunas, A. Juozapavičiaus pr. 77, LT-45264"
-  },
-  {
     "name": "Panevėžio miesto laisvalaikio centras",
     "code": "191778713",
     "address": "Panevėžys, Šermukšnių g. 31, LT-35113"
@@ -740,7 +736,7 @@
   {
     "name": "Viešoji įstaiga \"Laisvalaikio mozaika\"",
     "code": "302651767",
-    "address": "Alytus, Putinų g. 66D, LT-62315"
+    "address": "Alytaus r. sav., Alytaus sen., Žaunieriškių k., Nemuno g. 7, LT-62187"
   },
   {
     "name": "Viešoji įstaiga Jaunimo laisvalaikio centras",
@@ -1132,6 +1128,11 @@
     "vatcode": "LT100016793318"
   },
   {
+    "name": "Laisvi skautai, VšĮ",
+    "code": "307402638",
+    "address": "Kauno r. sav., Zapyškio sen., Jadagonių k., Žemupio g. 8, LT-53401"
+  },
+  {
     "name": "MB \"Laisvi kiškiai\"",
     "code": "304436966",
     "address": "Vilnius, S. Žukausko g. 33, LT-09129"
@@ -1205,7 +1206,8 @@
   {
     "name": "MB Laisvo oro",
     "code": "307069984",
-    "address": "Vilnius, Paribio g. 14-46, LT-08101"
+    "address": "Vilnius, Paribio g. 14-46, LT-08101",
+    "vatcode": "LT100018711415"
   },
   {
     "name": "VšĮ Laisvo kapitalo institutas",
@@ -1322,7 +1324,8 @@
   {
     "name": "Viešoji įstaiga Laisvos visuomenės institutas",
     "code": "303081003",
-    "address": "Vilnius, M. K. Paco g. 4, LT-10309"
+    "address": "Vilnius, M. K. Paco g. 4, LT-10309",
+    "vatcode": "LT100018695914"
   },
   {
     "name": "Akcinės bendrovės \"Ekranas\" darbuotojų laisvosios profesinės sąjungos labdaros fondas",
@@ -1355,13 +1358,19 @@
   {
     "name": "UAB Laisvosios mokyklos institutas",
     "code": "304279657",
-    "address": "Vilnius, Odminių g. 10-10, LT-01122"
+    "address": "Vilnius, Odminių g. 10-10, LT-01122",
+    "vatcode": "LT100010221013"
   },
   {
     "name": "Viešoji įstaiga \"Lietuvos laisvosios rinkos institutas\"",
     "code": "110059496",
     "address": "Vilnius, Vilniaus g. 31, LT-01402",
     "vatcode": "LT100594917"
+  },
+  {
+    "name": "MB Laisvuma",
+    "code": "307397123",
+    "address": "Vilnius, Kalvarijų g. 174-24, LT-08205"
   },
   {
     "name": "UAB Laisvyda",
@@ -1450,6 +1459,11 @@
     "code": "305191886",
     "address": "Kaunas, Laisvės al. 27-13, LT-44311",
     "vatcode": "LT100012459418"
+  },
+  {
+    "name": "MB Inžinerinė laisvė",
+    "code": "307386080",
+    "address": "Šiauliai, S. Dariaus ir S. Girėno g. 18-48, LT-78248"
   },
   {
     "name": "MB Laukinė laisvė",

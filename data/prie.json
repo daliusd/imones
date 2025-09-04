@@ -149,11 +149,6 @@
     "address": "Utenos r. sav., Utenos sen., Droničėnų k., Pakrantės g. 1, LT-28424"
   },
   {
-    "name": "J. Valentinovič individuali firma \"Prie tilto\"",
-    "code": "122951841",
-    "address": "Vilnius, Liubarto g. 3, LT-08118"
-  },
-  {
     "name": "K. Aleknos įmonė \"Prie tilto\"",
     "code": "177143154",
     "address": "Šilutės r. sav., Saugų sen., Lankupių k., Minijos g. 1, LT-99374",
@@ -324,7 +319,7 @@
   {
     "name": "Nacionalinis transplantacijos biuras prie Sveikatos apsaugos ministerijos",
     "code": "193114935",
-    "address": "Vilnius, Santariškių g. 2, LT-08406"
+    "address": "Vilnius, Švitrigailos g. 42, LT-03209"
   },
   {
     "name": "Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos",
@@ -420,11 +415,6 @@
     "name": "Sodininkų bendrija \"Prie ŠILELIO\"",
     "code": "302521745",
     "address": "Šiaulių r. sav., Kuršėnai, Daugėlių g. 72-19, LT-81121"
-  },
-  {
-    "name": "Tatjanos Tirlikienės firma \"Prie Bražuolės\"",
-    "code": "123285787",
-    "address": "Vilnius, Minties g. 34-74, LT-09222"
   },
   {
     "name": "Tautinių mažumų departamentas prie Lietuvos Respublikos Vyriausybės",
@@ -701,8 +691,7 @@
   {
     "name": "Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos",
     "code": "300666165",
-    "address": "Vilnius, M. K. Paco g. 4, LT-10309",
-    "vatcode": "LT100003040210"
+    "address": "Vilnius, M. K. Paco g. 4, LT-10309"
   },
   {
     "name": "Vilniaus lopšelis-darželis \"Prie pasakų parko\"",
@@ -766,7 +755,8 @@
   {
     "name": "MB Prieauto",
     "code": "306694011",
-    "address": "Kretinga, Savanorių g. 24-10, LT-97110"
+    "address": "Kretinga, Savanorių g. 24-10, LT-97110",
+    "vatcode": "LT100018804116"
   },
   {
     "name": "Viešoji įstaiga Šventežerio jaunimo centras \"Priebėga\"",
@@ -911,6 +901,11 @@
     "name": "VIEŠIEJI INTERNETO PRIEIGOS TAŠKAI (VIPT)",
     "code": "300618195",
     "address": "Vilnius, S. Žukausko g. 18-30, LT-08234"
+  },
+  {
+    "name": "VšĮ Prieinama teisinė pagalba silpnesniam",
+    "code": "306149801",
+    "address": "Rietavas, L. Ivinskio g. 5, LT-90311"
   },
   {
     "name": "UAB \"Prieinamas finansavimas\"",
@@ -1079,12 +1074,18 @@
   {
     "name": "MB \"Judam į priekį\"",
     "code": "306896664",
-    "address": "Telšiai, S. Daukanto g. 31-28, LT-87104"
+    "address": "Telšiai, S. Daukanto g. 31-28, LT-87104",
+    "vatcode": "LT100018754610"
   },
   {
     "name": "VISUOMENINĖ JAUNIMO ORGANIZACIJA \"ŽINGSNIS Į PRIEKĮ\"",
     "code": "195766772",
     "address": "Vilnius, Taikos g. 39-32, LT-05260"
+  },
+  {
+    "name": "VšĮ \"Judėk į priekį\"",
+    "code": "307389500",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "V. Prielgausko šeimos gydytojo kabinetas, IĮ",
@@ -1515,18 +1516,8 @@
     "vatcode": "LT100010181414"
   },
   {
-    "name": "Prienų r. Balbieriškio pagrindinė mokykla",
-    "code": "190189338",
-    "address": "Prienų r. sav., Balbieriškis, Klevų g. 33, LT-59243"
-  },
-  {
-    "name": "Prienų r. Išlaužo pagrindinė mokykla",
-    "code": "190194851",
-    "address": "Prienų r. sav., Išlaužo sen., Išlaužo k., Mokyklos g. 1, LT-59305"
-  },
-  {
-    "name": "Prienų r. Jiezno gimnazija",
-    "code": "190881450",
+    "name": "Prienų r. Dzūkijos gimnazija",
+    "code": "307400085",
     "address": "Prienų r. sav., Jieznas, Vytauto g. 42, LT-59427"
   },
   {
@@ -1535,19 +1526,14 @@
     "address": "Prienų r. sav., Pakuonis, Sodų g. 36, LT-59317"
   },
   {
-    "name": "Prienų r. Skriaudžių pagrindinė mokykla",
-    "code": "190197819",
-    "address": "Prienų r. sav., Veiverių sen., Skriaudžių k., Jaunimo g. 5A, LT-59277"
-  },
-  {
-    "name": "Prienų r. Stakliškių gimnazija",
-    "code": "190192277",
-    "address": "Prienų r. sav., Stakliškių sen., Stakliškių k., Prienų g. 8, LT-59370"
-  },
-  {
-    "name": "Prienų r. Veiverių Tomo Žilinsko gimnazija",
-    "code": "190193030",
+    "name": "Prienų r. Suvalkijos gimnazija",
+    "code": "307400473",
     "address": "Prienų r. sav., Veiveriai, Kauno g. 29, LT-59292"
+  },
+  {
+    "name": "Prienų r. Užnemunės pagrindinė mokykla",
+    "code": "307399715",
+    "address": "Prienų r. sav., Išlaužo sen., Išlaužo k., Mokyklos g. 1, LT-59305"
   },
   {
     "name": "Prienų rajono Ašmintos kadastrinės vietovės kaimo bendruomenė \"Ošvenčia\"",
@@ -2606,7 +2592,7 @@
   {
     "name": "MB Pastatų priežiūra ir valdymas",
     "code": "305627981",
-    "address": "Klaipėda, Debreceno g. 44-18, LT-94149"
+    "address": "Klaipėdos r. sav., Priekulės sen., Gručeikių k., Tvenkinio 1-oji g. 15, LT-95399"
   },
   {
     "name": "MB Priežiūra statyboms",
@@ -2648,7 +2634,7 @@
   {
     "name": "Socialinė priežiūra namuose, VšĮ",
     "code": "307085390",
-    "address": "Vilnius, A. Šabaniausko g. 12-23, LT-08431"
+    "address": "Vilnius, Duonos Kalno g. 16, LT-12188"
   },
   {
     "name": "UAB \"APLINKOS PRIEŽIŪRA\"",
@@ -2767,7 +2753,8 @@
   {
     "name": "UAB \"Slauga ir priežiūra\"",
     "code": "305056778",
-    "address": "Kauno r. sav., Zapyškio sen., Dievogalos k., Vilemų g. 13, LT-53430"
+    "address": "Kauno r. sav., Zapyškio sen., Dievogalos k., Vilemų g. 13, LT-53430",
+    "vatcode": "LT100018745218"
   },
   {
     "name": "UAB \"Socialinė priežiūra\"",
@@ -2844,11 +2831,6 @@
     "code": "301147579",
     "address": "Vilnius, Verkių g. 29, LT-09108",
     "vatcode": "LT100007940119"
-  },
-  {
-    "name": "V. Zastarskienės individuali apskaitos paslaugų teikimo įmonė \"Priežiūra\"",
-    "code": "121613370",
-    "address": "Vilnius, Architektų g. 106-49, LT-04222"
   },
   {
     "name": "VĮ \"Kelių priežiūra\" profesinė sąjunga \"Solidarumas\"",
@@ -3007,7 +2989,8 @@
   {
     "name": "MB Partizanų automobilių priežiūros centras",
     "code": "306615081",
-    "address": "Kaunas, Partizanų g. 190A, LT-50326"
+    "address": "Kaunas, Partizanų g. 190A, LT-50326",
+    "vatcode": "LT100018790516"
   },
   {
     "name": "MB Pastatų priežiūros centras",

@@ -115,11 +115,6 @@
     "address": "Vilniaus r. sav., Riešės sen., Žudiškių k., Ežero g. 92, LT-14256"
   },
   {
-    "name": "G. Jakubauskienės leidykla \"Žodynas\"",
-    "code": "121628454",
-    "address": "Vilnius, Z. Sierakausko g. 34-10, LT-03105"
-  },
-  {
     "name": "MB \"Kalbų žodynas\"",
     "code": "304093542",
     "address": "Vilnius, Eitminų g. 12-35, LT-12111"
@@ -214,7 +209,8 @@
   {
     "name": "ŽŪB Žoliškis",
     "code": "307147970",
-    "address": "Panevėžio r. sav., Miežiškių sen., Pavašuokių I k. 5, LT-38135"
+    "address": "Panevėžio r. sav., Miežiškių sen., Pavašuokių I k. 5, LT-38135",
+    "vatcode": "LT100018716012"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Žolių namai\"",
@@ -229,9 +225,15 @@
     "vatcode": "LT766088716"
   },
   {
+    "name": "MB Žolnera",
+    "code": "307375504",
+    "address": "Vilnius, Girulių g. 10-201, LT-12112"
+  },
+  {
     "name": "MB \"Žolva\"",
     "code": "307127793",
-    "address": "Kauno r. sav., Garliava, Gedimino g. 25-35, LT-53255"
+    "address": "Kauno r. sav., Garliava, Gedimino g. 25-35, LT-53255",
+    "vatcode": "LT100018785913"
   },
   {
     "name": "MB Žolvita",

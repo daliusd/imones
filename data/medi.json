@@ -32,6 +32,11 @@
     "address": "Vilnius, A. Domaševičiaus g. 9, LT-01400"
   },
   {
+    "name": "\"POS Media Lithuania\" UAB",
+    "code": "307401600",
+    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144"
+  },
+  {
     "name": "\"Power Media\", UAB",
     "code": "302471274",
     "address": "Klaipėdos r. sav., Kretingalės sen., Stančių k., Mėtų g. 9, LT-96338",
@@ -521,7 +526,8 @@
   {
     "name": "MB ARM MEDIA",
     "code": "307281072",
-    "address": "Vilkaviškio r. sav., Kybartai, Kudirkos Naumiesčio g. 2, LT-70414"
+    "address": "Vilkaviškio r. sav., Kybartai, Kudirkos Naumiesčio g. 2, LT-70414",
+    "vatcode": "LT100018698212"
   },
   {
     "name": "MB AV Media",
@@ -601,6 +607,11 @@
     "address": "Vilnius, P. Vileišio g. 14-45, LT-10306"
   },
   {
+    "name": "MB Evola media",
+    "code": "307399957",
+    "address": "Vilnius, Dūkštų g. 16-76, LT-07173"
+  },
+  {
     "name": "MB ExWorks media",
     "code": "305709282",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
@@ -658,7 +669,8 @@
   {
     "name": "MB Media spoon",
     "code": "306069885",
-    "address": "Kaunas, Savanorių pr. 78-1, LT-44147"
+    "address": "Kaunas, Savanorių pr. 78-1, LT-44147",
+    "vatcode": "LT100018747416"
   },
   {
     "name": "MB Media style",
@@ -1009,7 +1021,7 @@
   {
     "name": "UAB \"Diena Media News\"",
     "code": "133348410",
-    "address": "Kaunas, I. Kanto g. 18, LT-44296",
+    "address": "Kaunas, K. Donelaičio g. 24-1, LT-44239",
     "vatcode": "LT333484113"
   },
   {
@@ -1257,7 +1269,7 @@
   {
     "name": "UAB \"REKKO MEDIA\"",
     "code": "302474441",
-    "address": "Vilnius, Kapsų g. 32-137, LT-02167"
+    "address": "Vilnius, Ukmergės g. 219-1, LT-07152"
   },
   {
     "name": "UAB \"Reprise Media\"",
@@ -1740,6 +1752,11 @@
     "address": "Vilnius, Vytenio g. 9-106, LT-03113"
   },
   {
+    "name": "World Association of Polish Media Abroad, MB",
+    "code": "307409725",
+    "address": "Vilnius, Vėtrungių g. 107-104, LT-12117"
+  },
+  {
     "name": "UAB Mediabrands digital",
     "code": "305739877",
     "address": "Vilnius, Antano Tumėno g. 4, LT-01110",
@@ -1958,12 +1975,6 @@
     "vatcode": "LT100005567619"
   },
   {
-    "name": "UAB \"Mediapark digital group\"",
-    "code": "306982960",
-    "address": "Vilnius, Gedimino pr. 27, LT-01104",
-    "vatcode": "LT100017207712"
-  },
-  {
     "name": "VšĮ \"Mediapressa\"",
     "code": "301815733",
     "address": "Vilnius, Algirdo g. 22-1, LT-03218",
@@ -2165,7 +2176,8 @@
   {
     "name": "UAB \"Austri medica\"",
     "code": "303159295",
-    "address": "Vilnius, Kalvarijų g. 99A, LT-08219"
+    "address": "Vilnius, Kalvarijų g. 99A, LT-08219",
+    "vatcode": "LT100018726110"
   },
   {
     "name": "UAB \"BIJON medica\"",
@@ -2359,12 +2371,13 @@
   {
     "name": "Iris medical UAB",
     "code": "306295165",
-    "address": "Vilnius, Naugarduko g. 62-109, LT-03203"
+    "address": "Vilnius, Naugarduko g. 62-109, LT-03203",
+    "vatcode": "LT100018803713"
   },
   {
     "name": "J&E Medical Solutions UAB",
     "code": "306153785",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kauno m. sav."
   },
   {
     "name": "JSC MEDICAL, UAB",
@@ -2640,6 +2653,11 @@
     "name": "UAB PWMC \"Extreme medical service\"",
     "code": "305917447",
     "address": "Vilnius, Laisvės pr. 60, LT-05120"
+  },
+  {
+    "name": "UAB Pulsetto Medical",
+    "code": "307352039",
+    "address": "Vilnius, Aludarių g. 1, LT-01113"
   },
   {
     "name": "UAB Sirona Medical",
@@ -2969,6 +2987,11 @@
     "vatcode": "LT100009987510"
   },
   {
+    "name": "UAB \"Petro Kalinauskio medicininis kabinetas\"",
+    "code": "279400260",
+    "address": "Tauragė, Dariaus ir Girėno g. 30, LT-72245"
+  },
+  {
     "name": "V. Buržminsko medicininis sveikatos tikrinimo centras \"ALVIMEDA\"",
     "code": "125523778",
     "address": "Vilnius, Santariškių g. 79-8, LT-08457"
@@ -3054,7 +3077,7 @@
   {
     "name": "Viešoji įstaiga Alytaus medicininės reabilitacijos ir sporto centras",
     "code": "250124650",
-    "address": "Alytus, Pramonės g. 9, LT-62175"
+    "address": "Alytus, Energetikų g. 12, LT-62175"
   },
   {
     "name": "Viešoji įstaiga Klaipėdos medicininės slaugos ligoninė",
@@ -3505,11 +3528,6 @@
     "address": "Kauno r. sav., Domeikavos sen., Varluvos k., Gilių 1-asis tak. 7, LT-54341"
   },
   {
-    "name": "Petro Kalinauskio medicinos kabinetas",
-    "code": "279400260",
-    "address": "Tauragė, Dariaus ir Girėno g. 30, LT-72245"
-  },
-  {
     "name": "Pirmosios medicinos pagalbos asociacija",
     "code": "306335019",
     "address": "Trakų r. sav., Lentvario sen., Žemųjų Semeniukų k., Šaltinių g. 3, LT-21403"
@@ -3532,7 +3550,8 @@
   {
     "name": "S. Keršansko medicinos centras \"Rūpestis\"",
     "code": "151132357",
-    "address": "Marijampolė, V. Kudirkos g. 5, LT-68176"
+    "address": "Vilnius, Viršuliškių g. 34-20, LT-05112",
+    "vatcode": "LT511323515"
   },
   {
     "name": "Santaros klinikų medicinos darbuotojų profesinė sąjunga",
@@ -3765,6 +3784,11 @@
     "address": "Šiaulių r. sav., Raudėnų sen., Dirvonėnų k., Juozo Ruzgio g. 1, LT-81309"
   },
   {
+    "name": "UAB \"Panemunės medicinos namai\"",
+    "code": "307398182",
+    "address": "Kaunas, A. Smetonos al. 55A, LT-45316"
+  },
+  {
     "name": "UAB \"SALVIJOS\" MEDICINOS CENTRAS",
     "code": "110165745",
     "address": "Klaipėda, H. Manto g. 2, LT-92138",
@@ -3795,6 +3819,11 @@
   {
     "name": "UAB BALTUPIŲ ŠEIMOS MEDICINOS CENTRAS",
     "code": "125228728",
+    "address": "Vilnius, P. Žadeikos g. 11-7, LT-06324"
+  },
+  {
+    "name": "UAB Balsių šeimos medicinos centras",
+    "code": "300005737",
     "address": "Vilnius, P. Žadeikos g. 11-7, LT-06324"
   },
   {
@@ -4080,11 +4109,6 @@
     "address": "Kaunas, Tirkiliškių g. 51, LT-46460"
   },
   {
-    "name": "Viešoji įstaiga Balsių šeimos medicinos centras",
-    "code": "300005737",
-    "address": "Vilnius, P. Žadeikos g. 11-7, LT-06324"
-  },
-  {
     "name": "Viešoji įstaiga Integruojančios medicinos ir sveikatingumo centras",
     "code": "304392427",
     "address": "Vilnius, Traidenio g. 6-6, LT-08119"
@@ -4276,9 +4300,15 @@
     "address": "Vilnius, Naugarduko g. 76, LT-03203"
   },
   {
+    "name": "Medicos Group, MB",
+    "code": "307404137",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "UAB \"MedicPartners\"",
     "code": "301790949",
-    "address": "Šiauliai, Dvaro g. 121, LT-76210"
+    "address": "Šiauliai, Dvaro g. 121, LT-76210",
+    "vatcode": "LT100018790415"
   },
   {
     "name": "UAB \"MedicPartners\" Šiaulių filialas",
@@ -5660,10 +5690,14 @@
     "vatcode": "LT732252219"
   },
   {
+    "name": "MB Mediko",
+    "code": "307395656",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "UAB \"Mediko ekosportas\"",
     "code": "303187049",
-    "address": "Vilnius, Mūrinės Vokės g. 7-3, LT-25140",
-    "vatcode": "LT100008382818"
+    "address": "Vilnius, Mūrinės Vokės g. 7-3, LT-25140"
   },
   {
     "name": "UAB \"Medikodas\"",
@@ -5803,7 +5837,8 @@
   {
     "name": "UAB Medilanas",
     "code": "306623548",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100018791716"
   },
   {
     "name": "MB Medilex consulting",
@@ -6015,7 +6050,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"MEDINILĖ\"",
     "code": "141325799",
-    "address": "Klaipėda, Kretingos g. 197, LT-92330",
+    "address": "Klaipėda, Galinio Pylimo g. 7-13, LT-91230",
     "vatcode": "LT413257917"
   },
   {
@@ -6829,7 +6864,7 @@
   {
     "name": "UAB \"Drūtas medis\"",
     "code": "302419391",
-    "address": "Kauno r. sav., Užliedžių sen., Sausinės k., Sausinės g. 15, LT-54312",
+    "address": "Kaunas, Baltų pr. 99-68, LT-48206",
     "vatcode": "LT100004820515"
   },
   {
@@ -7043,7 +7078,8 @@
   {
     "name": "UAB \"Pažinimo medis\"",
     "code": "300556726",
-    "address": "Vilnius, K. Kalinausko g. 13, LT-03107"
+    "address": "Vilnius, K. Kalinausko g. 13, LT-03107",
+    "vatcode": "LT100018705118"
   },
   {
     "name": "UAB \"Petro medis\"",
@@ -7397,7 +7433,8 @@
   {
     "name": "UAB \"Medisoma\"",
     "code": "307050076",
-    "address": "Kaunas, Miško g. 23, LT-44313"
+    "address": "Kaunas, Miško g. 23, LT-44313",
+    "vatcode": "LT100018745914"
   },
   {
     "name": "Medison Pharma Lithuania UAB",
@@ -7554,7 +7591,7 @@
   {
     "name": "UAB \"Arcus medius\"",
     "code": "303366899",
-    "address": "Vilnius, Olandų g. 50-118, LT-01211"
+    "address": "Vilnius, Kazio Bizausko g. 92-1, LT-11317"
   },
   {
     "name": "UAB \"MEDIVA\"",

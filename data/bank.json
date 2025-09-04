@@ -144,11 +144,6 @@
     "vatcode": "LT100014058516"
   },
   {
-    "name": "\"NT bankas\" IĮ",
-    "code": "305760088",
-    "address": "Kaunas, A. Juozapavičiaus pr. 27A-44, LT-45258"
-  },
-  {
     "name": "AB \"Mano bankas\"",
     "code": "112043081",
     "address": "Vilnius, S. Moniuškos g. 27, LT-08115",
@@ -209,7 +204,8 @@
   {
     "name": "MB \"Miltų bankas\"",
     "code": "305810993",
-    "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Lietaus g. 4, LT-37175"
+    "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Lietaus g. 4, LT-37175",
+    "vatcode": "LT100018755215"
   },
   {
     "name": "MB \"Naminis bankas\"",
@@ -221,6 +217,11 @@
     "name": "MB \"Renginių bankas LT\"",
     "code": "304953091",
     "address": "Vilnius, Kalvarijų g. 166A-4, LT-08205"
+  },
+  {
+    "name": "MB NT bankas",
+    "code": "305760088",
+    "address": "Kaunas, A. Juozapavičiaus pr. 27A-44, LT-45258"
   },
   {
     "name": "MB Skaitmeninio turto bankas",
@@ -606,7 +607,8 @@
   {
     "name": "UAB Bankokas",
     "code": "307254470",
-    "address": "Plungė, Laisvės g. 2B, LT-90163"
+    "address": "Plungė, Laisvės g. 2B, LT-90163",
+    "vatcode": "LT100018738619"
   },
   {
     "name": "UAB \"Bankoptica\"",
@@ -870,7 +872,8 @@
   {
     "name": "UAB Banksale",
     "code": "302470845",
-    "address": "Vilnius, Islandijos g. 6, LT-01117"
+    "address": "Vilnius, Islandijos g. 6, LT-01117",
+    "vatcode": "LT100005105815"
   },
   {
     "name": "Bendra Lietuvos-Vokietijos įmonė uždaroji akcinė bendrovė \"BANKSERVIS\"",

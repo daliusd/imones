@@ -121,11 +121,6 @@
     "address": "Alytus, Likiškėlių g. 8-3, LT-63161"
   },
   {
-    "name": "A. Versecko firma \"ELTALIO PROJEKTAI\"",
-    "code": "122682348",
-    "address": "Vilnius, S. Konarskio g. 24-89, LT-03127"
-  },
-  {
     "name": "A. Versecko individuali įmonė",
     "code": "223134010",
     "address": "Vilnius, S. Stanevičiaus g. 7-63, LT-07131"
@@ -156,12 +151,6 @@
     "code": "304002368",
     "address": "Vilnius, Pašilaičių g. 16A-2, LT-06113",
     "vatcode": "LT100009317914"
-  },
-  {
-    "name": "UAB \"VERSERA\"",
-    "code": "304490960",
-    "address": "Kaunas, Draugystės g. 9A-4, LT-51285",
-    "vatcode": "LT100014512015"
   },
   {
     "name": "UAB \"Verserma\"",
@@ -646,8 +635,7 @@
   {
     "name": "MDR Verslas, UAB",
     "code": "302460833",
-    "address": "Vilnius, Svajonių g. 1-23, LT-10103",
-    "vatcode": "LT100005046614"
+    "address": "Vilnius, Svajonių g. 1-23, LT-10103"
   },
   {
     "name": "Mažoji bendrija Smulkusis verslas",
@@ -751,7 +739,8 @@
   {
     "name": "UAB \"Dzūkijos verslas\"",
     "code": "149718929",
-    "address": "Alytus, Lelijų g. 89, LT-62146"
+    "address": "Alytus, Lelijų g. 89, LT-62146",
+    "vatcode": "LT497189219"
   },
   {
     "name": "UAB \"EKOPRIEMONIŲ VERSLAS\"",
@@ -1045,7 +1034,7 @@
   {
     "name": "UAB \"UOSTAMIESČIO VERSLAS\"",
     "code": "141512090",
-    "address": "Klaipėda, Danės g. 9, LT-92117",
+    "address": "Klaipėda, Danės g. 9-34, LT-92117",
     "vatcode": "LT415120917"
   },
   {
@@ -1812,11 +1801,6 @@
     "address": "Biržai, J. Janonio g. 2, LT-41148"
   },
   {
-    "name": "Brigitos Vinclovienės individuali verslo įmonė",
-    "code": "186117614",
-    "address": "Vilnius, Piliakalnio g. 6-5, LT-06229"
-  },
-  {
     "name": "Civilinės ir verslo teisės paslaugų biuras \"LEX AETERNA\", VŠĮ",
     "code": "191778485",
     "address": "Panevėžys, Laisvės a. 1, LT-35175"
@@ -1911,7 +1895,8 @@
   {
     "name": "Joniškio turizmo ir verslo informacijos centras",
     "code": "300053529",
-    "address": "Joniškis, Žemaičių g. 9, LT-84147"
+    "address": "Joniškis, Žemaičių g. 9, LT-84147",
+    "vatcode": "LT100018712918"
   },
   {
     "name": "K. Kubertavičiaus įmonė TURTO, VERSLO VERTINIMO IR AUDITO BIURAS",
@@ -2456,7 +2441,7 @@
   {
     "name": "MB \"Verslo planeta\"",
     "code": "304237850",
-    "address": "Vilnius, Perkūnkiemio g. 5, LT-12129",
+    "address": "Vilniaus m. sav.",
     "vatcode": "LT100010465613"
   },
   {
@@ -2786,7 +2771,8 @@
   {
     "name": "MB Verslo filosofija",
     "code": "307073751",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
+    "vatcode": "LT100018704019"
   },
   {
     "name": "MB Verslo guolis",
@@ -2813,7 +2799,8 @@
   {
     "name": "MB Verslo informacijos ir paslaugų centras",
     "code": "305348960",
-    "address": "Šilutės r. sav., Šilutės sen., Pagrynių k., Aušros g. 23-4, LT-99159"
+    "address": "Šilutės r. sav., Šilutės sen., Pagrynių k., Aušros g. 23-4, LT-99159",
+    "vatcode": "LT100018691518"
   },
   {
     "name": "MB Verslo inovacijos",
@@ -2823,7 +2810,8 @@
   {
     "name": "MB Verslo jungtys",
     "code": "307182028",
-    "address": "Vilnius, Kazio Ulvydo g. 11-407, LT-08355"
+    "address": "Vilnius, Kazio Ulvydo g. 11-407, LT-08355",
+    "vatcode": "LT100018805518"
   },
   {
     "name": "MB Verslo kopa",
@@ -2903,7 +2891,8 @@
   {
     "name": "MB Verslo spektras",
     "code": "306183682",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100018824211"
   },
   {
     "name": "MB Verslo tinklas",
@@ -3051,11 +3040,6 @@
     "code": "190977872",
     "address": "Radviliškis, Gedimino g. 81, LT-82168",
     "vatcode": "LT909778716"
-  },
-  {
-    "name": "Reklamos verslo grupė, UAB",
-    "code": "301741610",
-    "address": "Vilniaus r. sav., Kalvelių sen., Ropėnų k., Ropėnų g. 14, LT-13145"
   },
   {
     "name": "Rokiškio verslo klubas",
@@ -4060,13 +4044,20 @@
   {
     "name": "UAB \"Verslo ir investicijų konsultacijos\"",
     "code": "301150098",
-    "address": "Vilnius, Santariškių g. 109A-21, LT-08465"
+    "address": "Vilnius, Santariškių g. 109A-21, LT-08465",
+    "vatcode": "LT100018715615"
   },
   {
     "name": "UAB \"Verslo katalogai\"",
     "code": "303824866",
     "address": "Kaunas, Ratnyčios g. 2B, LT-44466",
     "vatcode": "LT100015698014"
+  },
+  {
+    "name": "UAB \"Verslo ketvertas\"",
+    "code": "307385587",
+    "address": "Vilnius, Dociškių g. 15-34, LT-06152",
+    "vatcode": "LT100018809813"
   },
   {
     "name": "UAB \"Verslo klasė NT\"",
@@ -5008,8 +4999,7 @@
   {
     "name": "UAB Verslo reversas",
     "code": "304094103",
-    "address": "Vilnius, Kedrų g. 7-101, LT-03116",
-    "vatcode": "LT100009777116"
+    "address": "Vilnius, Kedrų g. 7-101, LT-03116"
   },
   {
     "name": "UAB Verslo simuliacijos",
@@ -5076,8 +5066,7 @@
   {
     "name": "UAB Šeimyniškių verslo centras",
     "code": "300012169",
-    "address": "Vilnius, Šeimyniškių g. 21B, LT-09236",
-    "vatcode": "LT100000905213"
+    "address": "Vilnius, Šeimyniškių g. 21B, LT-09236"
   },
   {
     "name": "Ukmergės technologijų ir verslo mokykla",
@@ -5346,6 +5335,11 @@
     "vatcode": "LT100009470114"
   },
   {
+    "name": "Verslo grupė. LT UAB",
+    "code": "301741610",
+    "address": "Vilniaus r. sav., Kalvelių sen., Ropėnų k., Ropėnų g. 14, LT-13145"
+  },
+  {
     "name": "Verslo imigrantų ir investuotojų asociacija",
     "code": "305669585",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
@@ -5360,6 +5354,11 @@
     "code": "305654576",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
     "vatcode": "LT100015385215"
+  },
+  {
+    "name": "Verslo inkubatorius, UAB",
+    "code": "307385110",
+    "address": "Vilniaus r. sav., Sudervės sen., Sudervės k., Riešės g. 2A, LT-14201"
   },
   {
     "name": "Verslo ir lyderystės akademija \"In corpore\"",
@@ -5458,11 +5457,6 @@
     "name": "Verslo žurnalistų klubas",
     "code": "301170108",
     "address": "Vilnius, Perkūnkiemio g. 11-81, LT-12114"
-  },
-  {
-    "name": "Viešoji įstaiga \"Ekonominė verslo apsauga\"",
-    "code": "135646341",
-    "address": "Kaunas, V. Krėvės pr. 53-219, LT-50358"
   },
   {
     "name": "Viešoji įstaiga \"Elektroninio verslo ir inovacijų plėtros agentūra\"",
@@ -5621,7 +5615,7 @@
   {
     "name": "Viešoji įstaiga Vilniaus verslo kolegija",
     "code": "191807983",
-    "address": "Vilnius, Kalvarijų g. 129-401, LT-08221"
+    "address": "Vilnius, Vytenio g. 9-101, LT-03113"
   },
   {
     "name": "Viešoji įstaiga Visuomenės ir verslo plėtros institutas",
@@ -5978,7 +5972,7 @@
   {
     "name": "MB \"Programų sistemos verslui\"",
     "code": "305242003",
-    "address": "Vilnius, Ryliškių g. 4C-2, LT-14187",
+    "address": "Kauno r. sav., Ringaudų sen., Bajorų k., Čiurlių g. 8, LT-53368",
     "vatcode": "LT100012726118"
   },
   {
@@ -6546,6 +6540,11 @@
     "address": "Prienai, Kęstučio g. 45, LT-59129"
   },
   {
+    "name": "MB \"Versmeta\"",
+    "code": "307386689",
+    "address": "Kupiškio r. sav., Šimonių sen., Migonių k., Vedrupio g. 51A, LT-40355"
+  },
+  {
     "name": "MB \"Versminta\"",
     "code": "306484582",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -6919,9 +6918,9 @@
     "address": "Prienų r. sav., Išlaužo sen., Pačiudiškių k. 11, LT-59102"
   },
   {
-    "name": "J. Versockienės personalinė įmonė",
-    "code": "124176591",
-    "address": "Vilnius, Architektų g. 178-38, LT-04205"
+    "name": "MB \"GAMA VERSO\"",
+    "code": "307402773",
+    "address": "Kaunas, Armališkių g. 3T, LT-45474"
   },
   {
     "name": "MB Versoda",
@@ -7014,11 +7013,6 @@
     "code": "302452288",
     "address": "Vilnius, S. Žukausko g. 4, LT-08244",
     "vatcode": "LT100005127917"
-  },
-  {
-    "name": "UAB \"Versum Credo Consulting\"",
-    "code": "302570361",
-    "address": "Kaunas, Taikos pr. 41-43, LT-50225"
   },
   {
     "name": "Mažoji bendrija Versumo",

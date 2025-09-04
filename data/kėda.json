@@ -26,11 +26,6 @@
     "address": "Kėdainiai, Liaudies g. 5-38, LT-57411"
   },
   {
-    "name": "Kėdainiai - visų",
-    "code": "307000098",
-    "address": "Kėdainių r. sav., Kėdainių miesto sen., Janušavos k., Janušavos g. 131, LT-57330"
-  },
-  {
     "name": "SPORTO KLUBAS \"VKK KĖDAINIAI\"",
     "code": "302761975",
     "address": "Kėdainiai, P. Lukšio g. 5-57, LT-57197"
@@ -44,6 +39,11 @@
     "name": "VšĮ GENAS KĖDAINIAI",
     "code": "306283387",
     "address": "Kėdainių r. sav., Pelėdnagių sen., Pelėdnagių k., Saulės g. 2, LT-58165"
+  },
+  {
+    "name": "Aktyvių kėdainiečių organizacija",
+    "code": "307000098",
+    "address": "Kėdainių r. sav., Kėdainių miesto sen., Janušavos k., Janušavos g. 131, LT-57330"
   },
   {
     "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Kėdainių filialas",
@@ -300,7 +300,8 @@
   {
     "name": "Kėdainių krašto kredito unija",
     "code": "300583851",
-    "address": "Kėdainiai, Josvainių g. 5, LT-57269"
+    "address": "Kėdainiai, Josvainių g. 5, LT-57269",
+    "vatcode": "LT100018704614"
   },
   {
     "name": "Kėdainių krašto krepšinio mėgėjų asociacija",

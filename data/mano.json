@@ -203,6 +203,11 @@
     "address": "Vilniaus r. sav., Paberžės sen., Paberžės k., Vilniaus g. 15A, LT-14273"
   },
   {
+    "name": "MB \"Mano Geo\"",
+    "code": "307404475",
+    "address": "Kaunas, Laisvės al. 110, LT-44253"
+  },
+  {
     "name": "MB \"Mano Graikija\"",
     "code": "304842461",
     "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Gaisų g. 3A-3, LT-14158"
@@ -234,7 +239,8 @@
   {
     "name": "MB \"Mano Paryžius\"",
     "code": "305097718",
-    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Didžioji g. 1-4, LT-54123"
+    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Didžioji g. 1-4, LT-54123",
+    "vatcode": "LT100012289911"
   },
   {
     "name": "MB \"Mano Skveras\"",
@@ -293,7 +299,7 @@
   {
     "name": "MB \"Mano buhalteris\"",
     "code": "305322638",
-    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Vandžiogalos pl. 104-29, LT-54358",
+    "address": "Kauno r. sav., Ringaudų sen., Miriniškių k., Laurų g. 26-2, LT-53368",
     "vatcode": "LT100017157319"
   },
   {
@@ -558,11 +564,6 @@
     "address": "Vilniaus r. sav., Maišiagalos sen., Melkio k., Sabutos g. 64, LT-14245"
   },
   {
-    "name": "MB \"Mano strategija\"",
-    "code": "304995927",
-    "address": "Vilnius, Vinco Kudirkos g. 5A, LT-03105"
-  },
-  {
     "name": "MB \"Mano sveikata\"",
     "code": "303302124",
     "address": "Klaipėda, Dailidžių g. 49, LT-92307"
@@ -630,7 +631,8 @@
   {
     "name": "MB Kur mano namai",
     "code": "307174597",
-    "address": "Vilnius, Jurgaičių g. 71, LT-06272"
+    "address": "Vilnius, Jurgaičių g. 71, LT-06272",
+    "vatcode": "LT100018723510"
   },
   {
     "name": "MB Mano Era",
@@ -663,8 +665,7 @@
   {
     "name": "MB Mano apdailos darbai",
     "code": "306021723",
-    "address": "Akmenės r. sav.",
-    "vatcode": "LT100015672515"
+    "address": "Akmenės r. sav."
   },
   {
     "name": "MB Mano augintiniai",
@@ -941,11 +942,6 @@
     "address": "Vilnius, Panerių g. 11, LT-03209"
   },
   {
-    "name": "UAB \"MANO PASAULIS\"",
-    "code": "225465190",
-    "address": "Vilnius, Sėlių g. 18-30, LT-08124"
-  },
-  {
     "name": "UAB \"MANO TERRA\"",
     "code": "163366026",
     "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Dauparų k., Vingio g. 16, LT-96169",
@@ -1029,7 +1025,7 @@
   {
     "name": "UAB \"Mano daktaras\"",
     "code": "303085208",
-    "address": "Vilnius, Naugarduko g. 3-301, LT-03231",
+    "address": "Vilnius, Kęstučio g. 25-1, LT-08121",
     "vatcode": "LT100007884316"
   },
   {
@@ -1855,7 +1851,8 @@
   {
     "name": "UAB \"Manovitė\"",
     "code": "306990569",
-    "address": "Panevėžio r. sav., Karsakiškio sen., Naujikų k., Vingio g. 22, LT-38443"
+    "address": "Panevėžio r. sav., Karsakiškio sen., Naujikų k., Vingio g. 22, LT-38443",
+    "vatcode": "LT100018816311"
   },
   {
     "name": "MB \"Manoza LT\"",

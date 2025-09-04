@@ -133,12 +133,6 @@
     "vatcode": "LT100007866318"
   },
   {
-    "name": "Komiko teatras",
-    "code": "134959792",
-    "address": "Kauno r. sav., Garliava, Jovarų g. 19, LT-53267",
-    "vatcode": "LT349597917"
-  },
-  {
     "name": "Lietuvos nacionalinis dramos teatras",
     "code": "190753924",
     "address": "Vilnius, Gedimino pr. 4, LT-01103"
@@ -178,11 +172,6 @@
     "name": "MB Teatras \"Arbatvakariai\"",
     "code": "306185092",
     "address": "Vilnius, Liepkalnio g. 12-5A, LT-02103"
-  },
-  {
-    "name": "Mataičio \"Lietuvių folkloro teatras\"",
-    "code": "121448812",
-    "address": "Vilnius, J. Basanavičiaus g. 13, LT-03108"
   },
   {
     "name": "N. Bižanaitės teatras \"PARŠIUKAS IKARAS\"",
@@ -233,7 +222,8 @@
   {
     "name": "Solo teatras",
     "code": "304901917",
-    "address": "Vilnius, Žuvėdrų g. 49, LT-10103"
+    "address": "Vilnius, Žuvėdrų g. 49, LT-10103",
+    "vatcode": "LT100018750012"
   },
   {
     "name": "Teatras \"MENS PUBLICA\", VšĮ",
@@ -482,6 +472,11 @@
     "address": "Širvintos, Sodų g. 22, LT-19127"
   },
   {
+    "name": "VšĮ Aktorių teatras",
+    "code": "307358280",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
+  },
+  {
     "name": "VšĮ Alytaus lėlių teatras \"Aitvaras\"",
     "code": "193297835",
     "address": "Alytus, Rotušės a. 2, LT-62141"
@@ -500,6 +495,11 @@
     "name": "VšĮ Didysis mados teatras",
     "code": "304606411",
     "address": "Vilnius, Kalvarijų g. 182-18, LT-08203"
+  },
+  {
+    "name": "VšĮ Eksperimentinis teatras Somnium",
+    "code": "307313488",
+    "address": "Druskininkai, Vytauto g. 12-10, LT-66129"
   },
   {
     "name": "VšĮ Improvizacijos teatras",
@@ -604,7 +604,8 @@
   {
     "name": "VšĮ Šeiko šokio teatras",
     "code": "302897135",
-    "address": "Neringa, Vilų g. 12-13, LT-93102"
+    "address": "Neringa, Vilų g. 12-13, LT-93102",
+    "vatcode": "LT100018687514"
   },
   {
     "name": "VšĮ Šiaulių teatras vaikams \"BIRBIRONAS\"",
@@ -881,7 +882,8 @@
   {
     "name": "UAB Teatro turtas",
     "code": "307093782",
-    "address": "Vilnius, Teatro g. 9B-19, LT-03107"
+    "address": "Vilnius, Teatro g. 9B-19, LT-03107",
+    "vatcode": "LT100018810110"
   },
   {
     "name": "VILNIAUS LENKŲ TEATRO STUDIJA",

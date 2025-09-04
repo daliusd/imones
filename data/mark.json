@@ -217,8 +217,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Ad markers\"",
     "code": "135946029",
-    "address": "Jonavos r. sav., Žeimiai, Sodų g. 13, LT-55384",
-    "vatcode": "LT359460219"
+    "address": "Jonavos r. sav., Žeimiai, Sodų g. 13, LT-55384"
   },
   {
     "name": "UAB \"Markesa\"",
@@ -265,7 +264,8 @@
   {
     "name": "MB \"AIJ-MARKET\"",
     "code": "307198833",
-    "address": "Marijampolės sav., Mokolų sen., Mokolų k., Vyturių g. 52, LT-68461"
+    "address": "Marijampolės sav., Mokolų sen., Mokolų k., Mokyklos g. 3B, LT-68461",
+    "vatcode": "LT100018720313"
   },
   {
     "name": "MB \"Auto Market Logistic\"",
@@ -377,6 +377,11 @@
     "address": "Vilnius, Juozo Rutkausko g. 25-40, LT-05132"
   },
   {
+    "name": "MB Synth market",
+    "code": "307404219",
+    "address": "Vilnius, Šv. Stepono g. 7, LT-01139"
+  },
+  {
     "name": "Market Pay Denmark Aps filialas",
     "code": "305831350",
     "address": "Vilnius, Vilniaus g. 37-102, LT-01119"
@@ -467,7 +472,7 @@
   {
     "name": "UAB \"MARKET RATS\"",
     "code": "302561024",
-    "address": "Vilnius, Pamėnkalnio g. 17, LT-01114",
+    "address": "Vilnius, Ateities g. 25B, LT-06326",
     "vatcode": "LT100006941010"
   },
   {
@@ -583,6 +588,11 @@
     "name": "UAB Autobela market",
     "code": "302649047",
     "address": "Vilniaus r. sav., Riešės sen., Jadvygiškių k., Molėtų pl. 172, LT-14258"
+  },
+  {
+    "name": "UAB Brukne Market",
+    "code": "307407279",
+    "address": "Mažeikiai, Gedimino g. 9-5, LT-89113"
   },
   {
     "name": "UAB Digital property market",
@@ -738,6 +748,11 @@
     "vatcode": "LT100016184714"
   },
   {
+    "name": "MB \"NMR Marketing Services\"",
+    "code": "307379673",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB \"No Drama Marketing\"",
     "code": "307134656",
     "address": "Kaunas, Taikos pr. 67-11, LT-50436"
@@ -866,7 +881,7 @@
   {
     "name": "Mažoji bendrija Baltic events and marketing",
     "code": "307007623",
-    "address": "Biržų r. sav., Nemunėlio Radviliškis, Aušros g. 6-13, LT-41444",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
     "vatcode": "LT100017265619"
   },
   {
@@ -1077,7 +1092,8 @@
   {
     "name": "MB Estetiškas marketingas",
     "code": "307113637",
-    "address": "Vilnius, Keramikų g. 68A, LT-10255"
+    "address": "Vilnius, Keramikų g. 68A, LT-10255",
+    "vatcode": "LT100018780418"
   },
   {
     "name": "MB Finansai ir marketingas",
@@ -1103,7 +1119,8 @@
   {
     "name": "MB Marketingas kitaip",
     "code": "307072980",
-    "address": "Klaipėdos r. sav., Sendvario sen., Gvildžių k., Sominio g. 9, LT-92336"
+    "address": "Klaipėdos r. sav., Sendvario sen., Gvildžių k., Sominio g. 9, LT-92336",
+    "vatcode": "LT100018825714"
   },
   {
     "name": "MB Marketingas visiems",
@@ -1164,11 +1181,6 @@
     "name": "Asociacija \"Pramonės ir marketingo biznio centras\"",
     "code": "134292039",
     "address": "Kaunas, K. Donelaičio g. 62, LT-44248"
-  },
-  {
-    "name": "G. Buslavičiaus marketingo centras",
-    "code": "122180947",
-    "address": "Vilnius, Minties g. 30-57, LT-09223"
   },
   {
     "name": "Lietuvos marketingo asociacija",
@@ -2063,10 +2075,5 @@
     "code": "305918595",
     "address": "Trakų r. sav., Senųjų Trakų sen., Senųjų Trakų k., Plačioji g. 31, LT-21146",
     "vatcode": "LT100014454317"
-  },
-  {
-    "name": "Danutės Markūnienės personali įmonė \"Datur\"",
-    "code": "121290472",
-    "address": "Vilnius, Architektų g. 79-1, LT-04208"
   }
 ]

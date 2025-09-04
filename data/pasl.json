@@ -33,6 +33,11 @@
     "address": "Vilnius, Pavilnionių g. 43-67, LT-12100"
   },
   {
+    "name": "MB Miško Paslaptis",
+    "code": "307404703",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+  },
+  {
     "name": "MB Norvegų paslaptis",
     "code": "306235691",
     "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Vėjo g. 12-2, LT-91276",
@@ -260,7 +265,8 @@
   {
     "name": "MB \"Teisinė paslauga\"",
     "code": "306347644",
-    "address": "Vilnius, Santariškių g. 119-19, LT-08465"
+    "address": "Vilnius, Santariškių g. 119-19, LT-08465",
+    "vatcode": "LT100018770410"
   },
   {
     "name": "MB \"VHM paslauga\"",
@@ -480,6 +486,11 @@
     "name": "Socialines paslaugas teikiančių įstaigų vadovų profesinė sąjunga",
     "code": "306092880",
     "address": "Panevėžio r. sav., Paįstrio sen., Gegužinės k., Pakaušių g. 18, LT-38428"
+  },
+  {
+    "name": "UAB \"Paslaugenta\"",
+    "code": "307377487",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
   },
   {
     "name": "MB \"Paslaugera\"",
@@ -1011,7 +1022,7 @@
   {
     "name": "MB \"Js paslaugos\"",
     "code": "306018200",
-    "address": "Šiauliai, Dvaro g. 53-1, LT-76344"
+    "address": "Šiauliai, Varpo g. 35-69, LT-76239"
   },
   {
     "name": "MB \"Karališkos paslaugos\"",
@@ -1581,6 +1592,11 @@
     "vatcode": "LT100015840116"
   },
   {
+    "name": "MB Aukštos kokybės paslaugos",
+    "code": "307401130",
+    "address": "Telšių r. sav., Ryškėnų sen., Ryškėnų k., Liepų g. 1, LT-87430"
+  },
+  {
     "name": "MB Auto estetika ir reklamos paslaugos",
     "code": "305655831",
     "address": "Vilnius, Ramybės g. 4-70, LT-02103"
@@ -1708,7 +1724,8 @@
   {
     "name": "MB Iva paslaugos",
     "code": "306693308",
-    "address": "Kėdainiai, Žydų g. 7, LT-57256"
+    "address": "Kėdainiai, Žydų g. 7, LT-57256",
+    "vatcode": "LT100018768812"
   },
   {
     "name": "MB Jono paslaugos",
@@ -1894,7 +1911,8 @@
   {
     "name": "MB Terapinės paslaugos",
     "code": "305819145",
-    "address": "Vilniaus r. sav., Avižienių sen., Saldenės k., Saldenės g. 23-2, LT-14186"
+    "address": "Vilniaus r. sav., Avižienių sen., Saldenės k., Saldenės g. 23-2, LT-14186",
+    "vatcode": "LT100018778416"
   },
   {
     "name": "MB Testavimo paslaugos",
@@ -2007,11 +2025,6 @@
     "code": "306284717",
     "address": "Vilnius, Jonažolių g. 11-167, LT-04135",
     "vatcode": "LT100016510716"
-  },
-  {
-    "name": "Nemokumo administravimo paslaugos UAB",
-    "code": "306032246",
-    "address": "Vilnius, Danės g. 2-4, LT-06235"
   },
   {
     "name": "Perkraustymo paslaugos MB",
@@ -2989,12 +3002,6 @@
     "vatcode": "LT100014160413"
   },
   {
-    "name": "UAB Pramonės paslaugos",
-    "code": "302823544",
-    "address": "Vilnius, Smolensko g. 6, LT-03201",
-    "vatcode": "LT100007025219"
-  },
-  {
     "name": "UAB Siauruko paslaugos",
     "code": "306958062",
     "address": "Šilutės r. sav., Žemaičių Naumiestis, Mindaugo g. 5, LT-99205",
@@ -3129,11 +3136,6 @@
     "address": "Kauno r. sav., Domeikavos sen., Šakių k., Stumbro g. 13, LT-47413"
   },
   {
-    "name": "V. Žitkevičiaus firma \"RINKOTYROS PASLAUGOS\"",
-    "code": "124408577",
-    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
-  },
-  {
     "name": "Viešoji įstaiga \"Jurbarko socialinės paslaugos\"",
     "code": "303557121",
     "address": "Jurbarkas, Vydūno g. 56C, LT-74112"
@@ -3171,7 +3173,7 @@
   {
     "name": "VšĮ \"Draugiškos paslaugos\"",
     "code": "303371184",
-    "address": "Kauno r. sav., Samylų sen., Gervėnupio k., Ąžuolyno g. 10, LT-53162"
+    "address": "Kaunas, Siūlų g. 5-2, LT-45196"
   },
   {
     "name": "VšĮ \"Gerovės paslaugos\"",
@@ -3701,12 +3703,6 @@
     "address": "Klaipėda, Nidos g. 56-158, LT-93191"
   },
   {
-    "name": "Edmundo Botyriaus paslaugų įmonė",
-    "code": "265825760",
-    "address": "Marijampolės sav., Liudvinavas, Vasaros g. 8, LT-69170",
-    "vatcode": "LT658257610"
-  },
-  {
     "name": "Edvardo Ilginio paslaugų įmonė",
     "code": "179305459",
     "address": "Tauragės r. sav., Skaudvilė, Sodų g. 24, LT-73438",
@@ -3722,11 +3718,6 @@
     "name": "Egidijaus Stankevičiaus paslaugų įmonė",
     "code": "136045482",
     "address": "Kaunas, Žalioji g. 10, LT-44198"
-  },
-  {
-    "name": "Eimanto Žebrausko prekybos ir paslaugų įmonė",
-    "code": "165744389",
-    "address": "Marijampolės sav., Liudvinavo sen., Padovinio k."
   },
   {
     "name": "Elektros paslaugų profesinė sąjunga",
@@ -3772,11 +3763,6 @@
     "name": "G. Mačiulskio paslaugų įmonė",
     "code": "141306717",
     "address": "Klaipėda, Reikjaviko g. 10-37, LT-94253"
-  },
-  {
-    "name": "G. Paugos leidybos ir paslaugų firma \"LYRA\"",
-    "code": "220274480",
-    "address": "Vilnius, Aušros Vartų g. 5, LT-01304"
   },
   {
     "name": "G. Ulickienės odontologijos paslaugų IĮ",
@@ -3863,11 +3849,6 @@
     "address": "Prienų r. sav., Balbieriškis, Jaunimo g. 42, LT-59242"
   },
   {
-    "name": "I. Sidzikauskienės komercinė mokslinių-inžinerinių paslaugų firma \"ODIZA\"",
-    "code": "120399643",
-    "address": "Vilnius, Dailidžių g. 30, LT-01210"
-  },
-  {
     "name": "Ignalinos rajono socialinių paslaugų centras",
     "code": "304835851",
     "address": "Ignalina, Ligoninės g. 13, LT-30112"
@@ -3907,11 +3888,6 @@
     "name": "Individuali V. Balakausko ryšių paslaugų įmonė \"TELBA\"",
     "code": "121235650",
     "address": "Vilnius, Žolyno g. 11C-2, LT-10209"
-  },
-  {
-    "name": "Individuali V. E. Mačiulskienės prekybos ir paslaugų įmonė",
-    "code": "122834610",
-    "address": "Vilnius, Riovonių g. 47, LT-03154"
   },
   {
     "name": "IĮ \"D. Škerbos paslaugų įmonė\"",
@@ -4199,11 +4175,6 @@
     "address": "Kretinga, Muitinės g. 12, LT-97156"
   },
   {
-    "name": "K. Kinerto foto paslaugų įmonė",
-    "code": "183213582",
-    "address": "Ukmergė, Kęstučio a. 8, LT-20130"
-  },
-  {
     "name": "K. Latako paslaugų įmonė",
     "code": "163530397",
     "address": "Kretinga, Vytauto g. 26A, LT-97131",
@@ -4278,11 +4249,6 @@
     "name": "Kretingos socialinių paslaugų centras",
     "code": "190278395",
     "address": "Kretinga, Klaipėdos g. 133C, LT-97156"
-  },
-  {
-    "name": "Krukonienės technologinių paslaugų firma \"EGVA\"",
-    "code": "121179319",
-    "address": "Vilnius, Viršuliškių g. 95-46, LT-05114"
   },
   {
     "name": "Kupiškio socialinių paslaugų centras",
@@ -4672,7 +4638,8 @@
   {
     "name": "MB Verslo informacijos ir paslaugų centras",
     "code": "305348960",
-    "address": "Šilutės r. sav., Šilutės sen., Pagrynių k., Aušros g. 23-4, LT-99159"
+    "address": "Šilutės r. sav., Šilutės sen., Pagrynių k., Aušros g. 23-4, LT-99159",
+    "vatcode": "LT100018691518"
   },
   {
     "name": "MB Vilniaus teisinių paslaugų ir mediacijos biuras",
@@ -4703,11 +4670,6 @@
     "name": "Medicinos paslaugų firma \"ARLAIDA\"",
     "code": "141455038",
     "address": "Klaipėda, Vaidaugų g. 9-1, LT-95220"
-  },
-  {
-    "name": "Miklaševičiaus paslaugų firma",
-    "code": "122344193",
-    "address": "Vilnius, S. Stanevičiaus g. 56-57, LT-07117"
   },
   {
     "name": "Molėtų paslaugų šeimai centras",
@@ -4758,11 +4720,6 @@
     "name": "PLUNGĖS SOCIALINIŲ PASLAUGŲ CENTRAS",
     "code": "271759610",
     "address": "Plungė, Mendeno g. 4, LT-90143"
-  },
-  {
-    "name": "Pagyvenusios moters veiklos centro Kauno paslaugų ir laisvalaikio skyrius \"Juozapinė\"",
-    "code": "135479351",
-    "address": "Kaunas, A. Juozapavičiaus pr. 77, LT-45264"
   },
   {
     "name": "Pakruojo nestacionarių socialinių paslaugų centras",
@@ -4901,11 +4858,6 @@
     "address": "Plungė, A. Vaišvilos g. 4-1, LT-90126"
   },
   {
-    "name": "R. Palaimos prekybos ir paslaugų įmonė",
-    "code": "121521356",
-    "address": "Vilnius, Vinco Kudirkos g. 9-52, LT-03105"
-  },
-  {
     "name": "R. Pliuškienės paslaugų įmonė",
     "code": "170048942",
     "address": "Rietavo sav., Tverai, Aitros g. 10, LT-90282"
@@ -5013,11 +4965,6 @@
     "name": "Rolando Vernicko paslaugų įmonė",
     "code": "151425036",
     "address": "Marijampolė, Sporto g. 2-18, LT-68238"
-  },
-  {
-    "name": "Roličiaus paslaugų firma",
-    "code": "121765225",
-    "address": "Vilnius, Ozo g. 28-29, LT-07197"
   },
   {
     "name": "Romo Kurmilevičiaus paslaugų įmonė",
@@ -5709,19 +5656,9 @@
     "address": "Klaipėda, Lūžų g. 5-45, LT-95239"
   },
   {
-    "name": "V. Jankoic paslaugų firma",
-    "code": "121829457",
-    "address": "Vilnius, Sodžiaus g. 13, LT-11117"
-  },
-  {
     "name": "V. Jautako paslaugų-komercinė įmonė",
     "code": "170021895",
     "address": "Rietavas, Daržų g. 7A, LT-90315"
-  },
-  {
-    "name": "V. Kaminsko intelektualių paslaugų įmonė \"DIVORA\"",
-    "code": "121880252",
-    "address": "Vilnius, Žirmūnų g. 47-110, LT-09107"
   },
   {
     "name": "V. Malakausko paslaugų komercinė įmonė",
@@ -5748,11 +5685,6 @@
     "name": "V. Vaičiulio veterinarinių paslaugų įmonė",
     "code": "164140158",
     "address": "Kretingos r. sav., Imbarės sen., Erlėnų k., Salantų g. 38-2, LT-97316"
-  },
-  {
-    "name": "V. Zastarskienės individuali apskaitos paslaugų teikimo įmonė \"Priežiūra\"",
-    "code": "121613370",
-    "address": "Vilnius, Architektų g. 106-49, LT-04222"
   },
   {
     "name": "V. Černiaus turto vertinimo paslaugų įmonė",
@@ -6200,11 +6132,6 @@
     "name": "Širvintų rajono savivaldybės socialinių paslaugų centras",
     "code": "278326070",
     "address": "Širvintos, P. Cvirkos g. 13, LT-19121"
-  },
-  {
-    "name": "Špakovo individuali paslaugų įmonė \"Skydas\"",
-    "code": "120458223",
-    "address": "Vilnius, Taikos g. 63-25, LT-05234"
   },
   {
     "name": "Švenčionių rajono socialinių paslaugų centras",

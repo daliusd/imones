@@ -10,11 +10,6 @@
     "address": "Tauragė, Skalbyklos g. 13, LT-72217"
   },
   {
-    "name": "A. Davydenkos įmonė \"ŠVAROS OAZĖ\"",
-    "code": "122460212",
-    "address": "Vilnius, Genių g. 21-52, LT-11216"
-  },
-  {
     "name": "Apšvietos oazė MB",
     "code": "306367255",
     "address": "Kaunas, Sabalkalnio g. 10, LT-46126"
@@ -52,11 +47,6 @@
     "address": "Akmenės r. sav., Akmenė, Stadiono g. 5-25, LT-85374"
   },
   {
-    "name": "MB \"Dantų oazė\"",
-    "code": "303163112",
-    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Smilgių g. 5-2, LT-92343"
-  },
-  {
     "name": "MB \"Girkalių oazė\"",
     "code": "306969361",
     "address": "Klaipėdos r. sav., Kretingalės sen., Girkalių k., Nemirsetos g. 33, LT-92371",
@@ -65,12 +55,14 @@
   {
     "name": "MB \"Grožio oazė\"",
     "code": "303108564",
-    "address": "Kaunas, Šiaurės pr. 13-25, LT-49192"
+    "address": "Kaunas, Šiaurės pr. 13-25, LT-49192",
+    "vatcode": "LT100018790617"
   },
   {
     "name": "MB \"IT oazė\"",
     "code": "305704221",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100018808217"
   },
   {
     "name": "MB \"Jolantos vilties oazė\"",
@@ -112,6 +104,11 @@
     "name": "MB \"Pusiasalio oazė\"",
     "code": "307134567",
     "address": "Elektrėnų sav., Elektrėnų sen., Geibonių k., Vyturių g. 6, LT-26135"
+  },
+  {
+    "name": "MB \"Pušų oazė\"",
+    "code": "307406088",
+    "address": "Vilnius, Ozo g. 41-81, LT-07171"
   },
   {
     "name": "MB \"Sodinukų oazė\"",
@@ -247,6 +244,11 @@
     "code": "306069390",
     "address": "Mažeikiai, Tylioji g. 4-10, LT-89306",
     "vatcode": "LT100015946818"
+  },
+  {
+    "name": "UAB \"Dantų oazė\"",
+    "code": "303163112",
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Smilgių g. 5-2, LT-92343"
   },
   {
     "name": "UAB \"Harmonijos oazė\"",
@@ -386,6 +388,11 @@
     "code": "133097082",
     "address": "Kaunas, Baltų pr. 16, LT-48190",
     "vatcode": "LT100005425718"
+  },
+  {
+    "name": "UAB Levandų oazė",
+    "code": "307349477",
+    "address": "Biržų r. sav., Vabalninko sen., Mockūnų k., Dvaro g. 10A, LT-41323"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"GĖLIŲ OAZĖ\"",

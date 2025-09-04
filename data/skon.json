@@ -64,8 +64,7 @@
   {
     "name": "MB \"Užupio skoniai\"",
     "code": "306088106",
-    "address": "Vilnius, Užupio g. 16-16, LT-01203",
-    "vatcode": "LT100015082615"
+    "address": "Vilnius, Užupio g. 16-16, LT-01203"
   },
   {
     "name": "MB \"Šalčio skoniai\"",
@@ -343,7 +342,8 @@
   {
     "name": "MB Itališko skonio dėžutė",
     "code": "307210659",
-    "address": "Vilnius, Perkūnkiemio g. 15-65, LT-12119"
+    "address": "Vilnius, Perkūnkiemio g. 15-65, LT-12119",
+    "vatcode": "LT100018730119"
   },
   {
     "name": "MB Lietuviška skonio harmonija",
@@ -640,11 +640,6 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
-    "name": "\"Meilės skonis\", UAB",
-    "code": "304736561",
-    "address": "Klaipėda, Ringelio g. 45, LT-92346"
-  },
-  {
     "name": "Asociacija \"Geras gyvenimo skonis\"",
     "code": "307321474",
     "address": "Skuodas, Vilniaus g. 21, LT-98111"
@@ -800,13 +795,17 @@
   {
     "name": "MB \"Ypatingas skonis\"",
     "code": "304268778",
-    "address": "Panevėžys, Statybininkų g. 32-11, LT-37327",
-    "vatcode": "LT100013984315"
+    "address": "Panevėžys, Statybininkų g. 32-11, LT-37327"
   },
   {
     "name": "MB Arabiškas skonis",
     "code": "306635835",
     "address": "Kėdainiai, Žemaitės g. 26-3, LT-57193"
+  },
+  {
+    "name": "MB Dienos skonis",
+    "code": "307398015",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
   },
   {
     "name": "MB Graikijos skonis",
@@ -886,6 +885,11 @@
     "name": "Mažoji bendrija Laužo skonis",
     "code": "305710605",
     "address": "Kaišiadorys, Gedimino g. 121-59, LT-56143"
+  },
+  {
+    "name": "Medaus skonis, MB",
+    "code": "307384631",
+    "address": "Vilnius, Vytauto g. 2-3, LT-08118"
   },
   {
     "name": "Skonis ir transportas, UAB",
@@ -1113,6 +1117,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB \"Skonių gurmanai\"",
+    "code": "307388544",
+    "address": "Vilniaus r. sav., Nemėžio sen., Didžiasalio k., Bitininkų g. 36-1, LT-13264"
+  },
+  {
     "name": "MB \"Skonių mozaika\"",
     "code": "305712257",
     "address": "Trakų r. sav., Lentvario sen., Valų k., Kanarėlių g. 13, LT-21421"
@@ -1180,6 +1189,11 @@
     "name": "Mažoji bendrija \"Skonių lobiai\"",
     "code": "306160445",
     "address": "Kretinga, Tiekėjų g. 28-501, LT-97123"
+  },
+  {
+    "name": "Mažoji bendrija \"Tarp skonių\"",
+    "code": "307408032",
+    "address": "Klaipėda, Kauno g. 23-64, LT-91160"
   },
   {
     "name": "UAB \"Skonių paslaptys\"",

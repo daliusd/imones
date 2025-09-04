@@ -59,7 +59,8 @@
   {
     "name": "MB Kirstuko Mokslas",
     "code": "307159816",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100018715912"
   },
   {
     "name": "MB Raketų mokslas",
@@ -230,7 +231,8 @@
   {
     "name": "Lietuvos jaunųjų mokslininkų sąjunga",
     "code": "195766815",
-    "address": "Vilnius, J. Basanavičiaus g. 6, LT-01118"
+    "address": "Vilnius, J. Basanavičiaus g. 6, LT-01118",
+    "vatcode": "LT100018703717"
   },
   {
     "name": "Lietuvos lenkų mokslininkų draugija",
@@ -246,6 +248,11 @@
     "name": "Lietuvos mokslininkų sąjungos Panevėžio skyrius \"NEVĖŽIS\"",
     "code": "248165960",
     "address": "Panevėžys, Klaipėdos g. 3, LT-35199"
+  },
+  {
+    "name": "Lietuvos sporto mokslininkų asociacija",
+    "code": "307389048",
+    "address": "Kaunas, Sporto g. 6, LT-44221"
   },
   {
     "name": "TARPTAUTINĖ LIETUVOS MOKSLININKŲ IR INTELIGENTŲ ASOCIACIJA \"KŪRYBA\"",
@@ -285,11 +292,6 @@
     "address": "Vilnius, Gedimino pr. 24-10, LT-01103"
   },
   {
-    "name": "A. Smetonio mokslinis techninis centras",
-    "code": "121521160",
-    "address": "Vilnius, Žemynos g. 35-14, LT-06131"
-  },
-  {
     "name": "Bendra Lietuvos ir Lenkijos įmonė uždaroji akcinė bendrovė \"TRANSPORTO MOKSLINIS TIRIAMASIS CENTRAS\"",
     "code": "110578384",
     "address": "Vilnius, J. Basanavičiaus g. 28, LT-03224"
@@ -304,11 +306,6 @@
     "code": "120375749",
     "address": "Vilnius, Laisvės pr. 123-62, LT-06118",
     "vatcode": "LT203757414"
-  },
-  {
-    "name": "I. Sidzikauskienės komercinė mokslinių-inžinerinių paslaugų firma \"ODIZA\"",
-    "code": "120399643",
-    "address": "Vilnius, Dailidžių g. 30, LT-01210"
   },
   {
     "name": "LIETUVOS MOKSLINIŲ BIBLIOTEKŲ ASOCIACIJA",
@@ -795,6 +792,11 @@
     "address": "Vilnius, Blindžių g. 20-4, LT-08110"
   },
   {
+    "name": "MB Mokslo Olimpas",
+    "code": "307395161",
+    "address": "Vilniaus r. sav., Avižienių sen., Aukštųjų Rusokų vs., Dainų g. 8, LT-14248"
+  },
+  {
     "name": "MB Mokslo bitės",
     "code": "306143442",
     "address": "Šakių r. sav., Kidulių sen., Kidulių k., Nemuno g. 104, LT-71400"
@@ -808,6 +810,11 @@
     "name": "MB Mokslo guru",
     "code": "306336548",
     "address": "Vilnius, Olimpiečių g. 3C-26, LT-09235"
+  },
+  {
+    "name": "MB Mokslo lyga",
+    "code": "307394006",
+    "address": "Kaunas, R. Kalantos g. 169B-16, LT-52326"
   },
   {
     "name": "MB Mokslo tinklas",

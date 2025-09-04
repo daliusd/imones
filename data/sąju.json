@@ -70,11 +70,6 @@
     "address": "Panevėžys, J. Janonio g. 12, LT-35101"
   },
   {
-    "name": "AB \"Anykščių vynas\" profesinė sąjunga",
-    "code": "154273612",
-    "address": "Anykščiai, Dariaus ir Girėno g. 8, LT-29131"
-  },
-  {
     "name": "AB \"Anykščių vynas\" profesinė sąjunga \"SOLIDARUMAS\"",
     "code": "154301595",
     "address": "Anykščiai, Dariaus ir Girėno g. 8, LT-29131"
@@ -1321,11 +1316,6 @@
     "address": "Vilnius, Žirmūnų g. 116-19, LT-09125"
   },
   {
-    "name": "Jaunųjų europiečių sąjunga",
-    "code": "305470067",
-    "address": "Šiaulių r. sav., Kuršėnai, Gintaro g. 33, LT-81135"
-  },
-  {
     "name": "Jiezno žmonių su negalia sąjunga",
     "code": "303265996",
     "address": "Prienų r. sav., Jieznas, Vilniaus g. 5-4, LT-59428"
@@ -1356,7 +1346,7 @@
     "address": "Jonava, Chemikų g. 136, LT-55222"
   },
   {
-    "name": "Jonavos rajono savivaldybės administracijos darbuotojų profesinė sąjunga",
+    "name": "Jonavos rajono savivaldybės administracijos, viešųjų ir biudžetinių įstaigų darbuotojų profesinė sąjunga",
     "code": "157013598",
     "address": "Jonava, Žeimių g. 13, LT-55158"
   },
@@ -2705,7 +2695,8 @@
   {
     "name": "Lietuvos jaunųjų mokslininkų sąjunga",
     "code": "195766815",
-    "address": "Vilnius, J. Basanavičiaus g. 6, LT-01118"
+    "address": "Vilnius, J. Basanavičiaus g. 6, LT-01118",
+    "vatcode": "LT100018703717"
   },
   {
     "name": "Lietuvos jaunųjų ugniagesių sąjunga",
@@ -2786,7 +2777,8 @@
   {
     "name": "Lietuvos krikščionių darbuotojų profesinė sąjunga",
     "code": "305844134",
-    "address": "Vilnius, Savičiaus g. 13-17, LT-01127"
+    "address": "Vilnius, Savičiaus g. 13-17, LT-01127",
+    "vatcode": "LT100018690015"
   },
   {
     "name": "Lietuvos kriminalinės policijos biuro profesinė sąjunga",
@@ -4058,6 +4050,11 @@
     "address": "Kaunas, Pramonės pr. 4, LT-51329"
   },
   {
+    "name": "Profesinė sąjunga \"GLOBAL WORKERS ALLIANCE\"",
+    "code": "307407247",
+    "address": "Klaipėda, H. Manto g. 6-14, LT-92133"
+  },
+  {
     "name": "Profesinė sąjunga \"Kelio ženklai\"",
     "code": "185332635",
     "address": "Vilkaviškio r. sav., Pilviškiai, Geležinkelio g."
@@ -4233,7 +4230,7 @@
     "address": "Raseiniai, Stonų g. 23, LT-60171"
   },
   {
-    "name": "Raseinių rajono savivaldybės darbuotojų profesinė sąjunga",
+    "name": "Raseinių rajono savivaldybės administracijos darbuotojų profesinė sąjunga",
     "code": "172417612",
     "address": "Raseiniai, V. Kudirkos g. 5, LT-60150"
   },
@@ -4330,7 +4327,7 @@
   {
     "name": "Rokiškio rajono ūkininkų sąjunga",
     "code": "302713699",
-    "address": "Rokiškis, Sąjūdžio a. 1, LT-42136"
+    "address": "Rokiškis, J. Biliūno g. 2, LT-42105"
   },
   {
     "name": "Rokiškio socialinės paramos centro darbuotojų profesinė sąjunga",
@@ -8691,11 +8688,6 @@
     "name": "Lietuvos profesinės sąjungos \"Solidarumas\" darbuotojų profesinė sąjunga",
     "code": "301541976",
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
-  },
-  {
-    "name": "Lietuvos rašytojų sąjungos Klaipėdos skyrius",
-    "code": "193434262",
-    "address": "Klaipėda, Aukštoji g. 9, LT-91246"
   },
   {
     "name": "Lietuvos rašytojų sąjungos literatūros fondas",

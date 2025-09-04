@@ -803,6 +803,11 @@
     "vatcode": "LT100016615118"
   },
   {
+    "name": "UAB Kairių karinis miestelis",
+    "code": "306920745",
+    "address": "Kaunas, Draugystės g. 15A, LT-51227"
+  },
+  {
     "name": "Viešoji įstaiga \"Kaladėlių miestelis\"",
     "code": "304140305",
     "address": "Vilnius, Eišiškių Sodų 6-oji g. 6, LT-02194"
@@ -853,11 +858,6 @@
     "address": "Alytus, Ulonų g. 10-22, LT-62156"
   },
   {
-    "name": "Palionio firma \"Miestelėnai\"",
-    "code": "122081696",
-    "address": "Vilnius, Taikos g. 8-72, LT-05255"
-  },
-  {
     "name": "UAB \"Miestietis\"",
     "code": "303041425",
     "address": "Panevėžys, Respublikos g. 9-9, LT-35199"
@@ -903,11 +903,6 @@
     "name": "Akmenės miesto Klykolių gatvės daugiabučio namo Nr. 40 savininkų bendrija",
     "code": "303024792",
     "address": "Akmenės r. sav., Akmenė, Klykolių g. 40-12, LT-85362"
-  },
-  {
-    "name": "Akmenės miesto Stadiono g. 16 daugiabučio namo savininkų bendrija \"Aštuonetas\"",
-    "code": "153259780",
-    "address": "Akmenės r. sav., Akmenės sen., Akmenės I k."
   },
   {
     "name": "Akmenės miesto Stadiono g. 9 daugiabučio namo savininkų bendrija",
@@ -2031,6 +2026,11 @@
     "name": "Kauno miesto savivaldybės administracijos filialas Žaliakalnio seniūnija",
     "code": "302710265",
     "address": "Kaunas, Šv. Gertrūdos g. 7, LT-44290"
+  },
+  {
+    "name": "Kauno miesto savivaldybės administracijos filialas Žemosios Fredos seniūnija",
+    "code": "307352078",
+    "address": "Kaunas, Veiverių g. 132, LT-46337"
   },
   {
     "name": "Kauno miesto savivaldybės kontrolės ir audito tarnyba",
@@ -3197,11 +3197,6 @@
     "name": "Naujosios Akmenės miesto Darbininkų g. 4 daugiabučio namo savininkų bendrija",
     "code": "153270339",
     "address": "Naujoji Akmenė, Darbininkų g. 4, LT-85115"
-  },
-  {
-    "name": "Naujosios Akmenės miesto Nepriklausomybės g. 26 daugiabučio namo savininkų bendrija",
-    "code": "153245275",
-    "address": "Naujoji Akmenė, Nepriklausomybės al. 26, LT-85129"
   },
   {
     "name": "Naujosios Akmenės miesto Ramučių g. 39 daugiabučio namo savininkų bendrija",
@@ -5872,7 +5867,7 @@
   {
     "name": "Širvintų miesto Kalnalaukio garažų statybos ir eksploatavimo bendrija",
     "code": "178310275",
-    "address": "Širvintos, Kalnalaukio g."
+    "address": "Širvintos, Kalnalaukio g. 18A K6-2, LT-19108"
   },
   {
     "name": "Širvintų miesto garažų eksploatavimo bendrija Nr. 3",

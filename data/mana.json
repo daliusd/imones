@@ -105,7 +105,7 @@
   {
     "name": "\"Guhring Werkzeug Management Projekte GmbH\" filialas \"Guhring Baltic\"",
     "code": "301793443",
-    "address": "Vilnius, Daugėliškio g. 32A, LT-09300"
+    "address": "Vilnius, Daugėliškio g. 32A-103, LT-09300"
   },
   {
     "name": "\"SJ INVESTMENT MANAGEMENT\" MB",
@@ -127,7 +127,8 @@
   {
     "name": "4P Capital Management UAB",
     "code": "304558094",
-    "address": "Vilnius, Antakalnio g. 17, LT-10312"
+    "address": "Vilnius, Antakalnio g. 17, LT-10312",
+    "vatcode": "LT100018748717"
   },
   {
     "name": "AMIC Energy Management GmbH Vilniaus filialas",
@@ -431,6 +432,11 @@
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
+    "name": "MB Caprion Capital Management",
+    "code": "307345016",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "MB Dėjus construction management",
     "code": "306326155",
     "address": "Vilnius, Mykolo Marcinkevičiaus g. 11-10, LT-08433"
@@ -516,6 +522,11 @@
     "name": "MB Wealth management",
     "code": "306353654",
     "address": "Vilnius, Žemynos g. 3-50, LT-06126"
+  },
+  {
+    "name": "MV Asset management, UAB",
+    "code": "307401123",
+    "address": "Vilnius, M. Jankaus g. 10-23, LT-06237"
   },
   {
     "name": "Management consulting group, UAB",
@@ -909,7 +920,7 @@
   {
     "name": "UAB \"EC & PM (Engineering Consulting & Project Management)\"",
     "code": "302790254",
-    "address": "Kaunas, Žemaičių g. 31-326, LT-44175"
+    "address": "Kaunas, S. Daukanto g. 3-90, LT-44306"
   },
   {
     "name": "UAB \"ED Management\"",
@@ -1009,7 +1020,8 @@
   {
     "name": "UAB \"LORDS LB ASSET MANAGEMENT\"",
     "code": "301849625",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
+    "address": "Vilnius, Jogailos g. 4, LT-01116",
+    "vatcode": "LT100004336610"
   },
   {
     "name": "UAB \"LST Management\"",
@@ -1051,12 +1063,6 @@
     "name": "UAB \"MC Wealth Management\"",
     "code": "302328002",
     "address": "Vilnius, M. K. Paco g. 4, LT-10309"
-  },
-  {
-    "name": "UAB \"MV GROUP Asset Management\"",
-    "code": "304145213",
-    "address": "Vilnius, Aukštaičių g. 7, LT-11341",
-    "vatcode": "LT100009848916"
   },
   {
     "name": "UAB \"Management and Consulting Services\"",
@@ -1595,8 +1601,7 @@
   {
     "name": "MB \"Mada manaip\"",
     "code": "305018083",
-    "address": "Kauno r. sav., Samylų sen., Gervėnupio k., Pušų tak. 1, LT-53164",
-    "vatcode": "LT100018680714"
+    "address": "Kauno r. sav., Samylų sen., Gervėnupio k., Pušų tak. 1, LT-53164"
   },
   {
     "name": "MB Manamana",

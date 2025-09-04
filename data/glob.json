@@ -22,11 +22,6 @@
     "address": "Prienai, Panemunės g. 28, LT-59116"
   },
   {
-    "name": "J. V. Naruševičiaus personalinė tarpininkavimo firma \"Globa\"",
-    "code": "120123050",
-    "address": "Vilnius, M. Daukšos g. 5-18, LT-02101"
-  },
-  {
     "name": "LIETUVOS SOCIALINĖS GLOBOS PASLAUGŲ GAVĖJŲ ASOCIACIJOS \"MANO GLOBA\" Kauno miesto filialas",
     "code": "306979658",
     "address": "Kaunas, Slankų g. 30, LT-46383"
@@ -430,7 +425,8 @@
   {
     "name": "Global staffing solutions, UAB",
     "code": "307281147",
-    "address": "Klaipėda, Tiltų g. 19, LT-91249"
+    "address": "Klaipėda, Tiltų g. 19, LT-91249",
+    "vatcode": "LT100018776218"
   },
   {
     "name": "Global world consulting agency, Mažoji bendrija",
@@ -448,6 +444,11 @@
     "code": "306125622",
     "address": "Vilniaus r. sav., Sudervės sen., Sudervės k., Riešės g. 2A, LT-14201",
     "vatcode": "LT100016100713"
+  },
+  {
+    "name": "Horizons Global Technology Lithuania UAB",
+    "code": "307411014",
+    "address": "Vilnius, Vito Gerulaičio g. 10-101, LT-08200"
   },
   {
     "name": "Individuali įmonė \"SV Global\"",
@@ -850,6 +851,11 @@
     "name": "Pishonhead Global, UAB",
     "code": "306108014",
     "address": "Vilnius, Žalgirio g. 90-100, LT-09303"
+  },
+  {
+    "name": "Profesinė sąjunga \"GLOBAL WORKERS ALLIANCE\"",
+    "code": "307407247",
+    "address": "Klaipėda, H. Manto g. 6-14, LT-92133"
   },
   {
     "name": "R3T Global UAB",
@@ -1276,8 +1282,7 @@
   {
     "name": "UAB \"SD Global group\"",
     "code": "306167692",
-    "address": "Klaipėda, Liepojos g. 24-12, LT-92298",
-    "vatcode": "LT100015726619"
+    "address": "Klaipėda, Liepojos g. 24-12, LT-92298"
   },
   {
     "name": "UAB \"STS Global\"",
@@ -1299,6 +1304,11 @@
     "name": "UAB \"Smartmed Global\"",
     "code": "304033424",
     "address": "Trakų r. sav., Lentvaris, Kęstučio g. 1, LT-25144"
+  },
+  {
+    "name": "UAB \"Stellar Global\"",
+    "code": "307382484",
+    "address": "Vilnius, Žalgirio g. 90-100, LT-09303"
   },
   {
     "name": "UAB \"Swift immigration global\"",
@@ -1654,7 +1664,7 @@
   {
     "name": "WITTY GLOBAL UAB",
     "code": "305433923",
-    "address": "Vilnius, Jogailos g. 9, LT-01116"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "Xpay Global, UAB",
@@ -1805,6 +1815,11 @@
     "address": "Vilnius, Laisvės pr. 60, LT-05120"
   },
   {
+    "name": "Globalmind center, UAB",
+    "code": "307394262",
+    "address": "Visagino sav., Visagino sav., Petriškės k., Elektrinės g. 1-1, LT-31152"
+  },
+  {
     "name": "UAB \"GLOBALMOTO\"",
     "code": "303042687",
     "address": "Vilnius, Latvių g. 19A-7, LT-08113"
@@ -1843,11 +1858,6 @@
     "name": "Globalt, UAB",
     "code": "302440880",
     "address": "Vilnius, Laisvės pr. 60, LT-05120"
-  },
-  {
-    "name": "UAB \"GLOBALTA\"",
-    "code": "301238819",
-    "address": "Vilnius, Rygos g. 33-24, LT-05220"
   },
   {
     "name": "UAB GlobalTips Europe",
@@ -2139,11 +2149,6 @@
     "vatcode": "LT345124219"
   },
   {
-    "name": "V. Globio personalinė įmonė \"Vaikra\"",
-    "code": "135497189",
-    "address": "Kaunas, Pašilės g. 52-17, LT-51355"
-  },
-  {
     "name": "Mažoji bendrija \"Globira\"",
     "code": "307069386",
     "address": "Vilnius, Konstitucijos pr. 9-55, LT-09308"
@@ -2161,7 +2166,8 @@
   {
     "name": "MB \"Globita\"",
     "code": "304993292",
-    "address": "Klaipėdos r. sav., Priekulės sen., Derceklių k., Žaibų g. 23, LT-96384"
+    "address": "Klaipėdos r. sav., Priekulės sen., Derceklių k., Žaibų g. 23, LT-96384",
+    "vatcode": "LT100012129713"
   },
   {
     "name": "UAB \"GlobiTrans\"",
@@ -2196,7 +2202,8 @@
   {
     "name": "UAB Globopay",
     "code": "305996882",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100018806819"
   },
   {
     "name": "A. Bumbulienės individuali įmonė \"GLOBOS VAISTINĖ\"",
@@ -2996,6 +3003,11 @@
     "address": "Trakai, Birutės g. 7, LT-21106"
   },
   {
+    "name": "UAB Globos ir augimo centras",
+    "code": "307132192",
+    "address": "Vilnius, Santariškių g. 75-34, LT-08457"
+  },
+  {
     "name": "Ukmergės globos centras",
     "code": "190990058",
     "address": "Ukmergė, Vilniaus g. 87, LT-20170"
@@ -3004,11 +3016,6 @@
     "name": "Ukmergės rajono Jasiuliškių socialinės globos namų darbuotojų profesinė sąjunga",
     "code": "183241756",
     "address": "Ukmergės r. sav., Vidiškių sen., Jasiuliškio k."
-  },
-  {
-    "name": "Utenos rajono savivaldybės Leliūnų socialinės globos namai",
-    "code": "300653972",
-    "address": "Utenos r. sav., Leliūnai, Liepų g. 1, LT-28361"
   },
   {
     "name": "Utenos socialinės globos namai",

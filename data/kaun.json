@@ -160,12 +160,6 @@
     "vatcode": "LT100011482713"
   },
   {
-    "name": "HHH Kaunas, UAB",
-    "code": "307016280",
-    "address": "Kaunas, Islandijos pl. 32B, LT-47446",
-    "vatcode": "LT100018635719"
-  },
-  {
     "name": "J. van VLIET (Kaunas) Cash & Carry, UAB",
     "code": "302924397",
     "address": "Vilnius, Meistrų g. 14, LT-02190",
@@ -273,7 +267,7 @@
   {
     "name": "MB Autoparts Kaunas",
     "code": "306628844",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
     "vatcode": "LT100017167013"
   },
   {
@@ -332,7 +326,14 @@
   {
     "name": "Tenacity Kaunas, MB",
     "code": "306348536",
-    "address": "Kaunas, Miško g. 10-1, LT-44321"
+    "address": "Kaunas, Miško g. 10-1, LT-44321",
+    "vatcode": "LT100018812016"
+  },
+  {
+    "name": "UAB \"3H Kaunas\"",
+    "code": "307016280",
+    "address": "Kaunas, Islandijos pl. 32B, LT-47446",
+    "vatcode": "LT100018635719"
   },
   {
     "name": "UAB \"Alseka Kaunas\"",
@@ -2269,6 +2270,11 @@
     "address": "Kaunas, Pramonės pr. 95-12, LT-50350"
   },
   {
+    "name": "Kauno badmintono klubas",
+    "code": "307403512",
+    "address": "Kaunas, Draugystės g. 19D, LT-51231"
+  },
+  {
     "name": "Kauno balandžių klubas",
     "code": "306196085",
     "address": "Kaunas, Europos pr. 122, LT-46351"
@@ -3658,6 +3664,11 @@
     "name": "Kauno miesto savivaldybės administracijos filialas Žaliakalnio seniūnija",
     "code": "302710265",
     "address": "Kaunas, Šv. Gertrūdos g. 7, LT-44290"
+  },
+  {
+    "name": "Kauno miesto savivaldybės administracijos filialas Žemosios Fredos seniūnija",
+    "code": "307352078",
+    "address": "Kaunas, Veiverių g. 132, LT-46337"
   },
   {
     "name": "Kauno miesto savivaldybės kontrolės ir audito tarnyba",
@@ -5963,7 +5974,8 @@
   {
     "name": "MB Kauno gatvės",
     "code": "307069653",
-    "address": "Prienai, Kęstučio g. 91D, LT-59142"
+    "address": "Prienai, Kęstučio g. 91D, LT-59142",
+    "vatcode": "LT100018797614"
   },
   {
     "name": "MB Kauno kaminukas",
@@ -6091,11 +6103,6 @@
     "name": "PETRO MECHANIKA S.A. Kauno filialas",
     "code": "302729949",
     "address": "Kaunas, Laisvės al. 47A-6, LT-44309"
-  },
-  {
-    "name": "Pagyvenusios moters veiklos centro Kauno paslaugų ir laisvalaikio skyrius \"Juozapinė\"",
-    "code": "135479351",
-    "address": "Kaunas, A. Juozapavičiaus pr. 77, LT-45264"
   },
   {
     "name": "Patalpų savininkų bendrija \"KAUNO 30\"",
@@ -6749,8 +6756,7 @@
   {
     "name": "UAB KAUNO RATAI",
     "code": "302613179",
-    "address": "Kauno miesto savivaldybės teritorija",
-    "vatcode": "LT100011354718"
+    "address": "Kauno miesto savivaldybės teritorija"
   },
   {
     "name": "UAB Kauno Logistikos Centras",
@@ -6784,7 +6790,8 @@
   {
     "name": "UAB Kauno bitė",
     "code": "306682016",
-    "address": "Vilnius, Lvivo g. 25-701, LT-09320"
+    "address": "Vilnius, Lvivo g. 25-701, LT-09320",
+    "vatcode": "LT100018735412"
   },
   {
     "name": "UAB Kauno butų ūkio darbuotojų profesinė sąjunga",
@@ -6834,7 +6841,8 @@
   {
     "name": "UAB Kauno langai ir durys",
     "code": "307316559",
-    "address": "Kaunas, Bivylių g. 16-2, LT-47271"
+    "address": "Kaunas, Bivylių g. 16-2, LT-47271",
+    "vatcode": "LT100018690812"
   },
   {
     "name": "UAB Kauno miesto paslaugų centras",
@@ -7393,7 +7401,8 @@
   {
     "name": "Viešoji įstaiga \"Kauno bienalė\"",
     "code": "302751123",
-    "address": "Kaunas, Šv. Gertrūdos g. 27-6, LT-44284"
+    "address": "Kaunas, Šv. Gertrūdos g. 27-6, LT-44284",
+    "vatcode": "LT100018804610"
   },
   {
     "name": "Viešoji įstaiga \"Kauno jogos namai\"",

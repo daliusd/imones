@@ -22,6 +22,11 @@
     "vatcode": "LT100013202518"
   },
   {
+    "name": "UAB Assemio",
+    "code": "307407610",
+    "address": "Klaipėda, Nidos g. 9-52, LT-93192"
+  },
+  {
     "name": "UAB \"Assensus\"",
     "code": "125620825",
     "address": "Vilnius, Kaštonų g. 4-23",
@@ -171,6 +176,11 @@
     "address": "Vilnius, Trinapolio g. 3-94, LT-08337"
   },
   {
+    "name": "MV Asset management, UAB",
+    "code": "307401123",
+    "address": "Vilnius, M. Jankaus g. 10-23, LT-06237"
+  },
+  {
     "name": "Mil asset, MB",
     "code": "306523626",
     "address": "Vilniaus r. sav., Dūkštų sen., Verkšionių k., Neries Kilpų g. 31-2, LT-14232",
@@ -295,7 +305,8 @@
   {
     "name": "UAB \"LORDS LB ASSET MANAGEMENT\"",
     "code": "301849625",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
+    "address": "Vilnius, Jogailos g. 4, LT-01116",
+    "vatcode": "LT100004336610"
   },
   {
     "name": "UAB \"Litcapital Asset Management\"",
@@ -307,12 +318,6 @@
     "code": "304778400",
     "address": "Vilnius, S. Žukausko g. 49, LT-09131",
     "vatcode": "LT100011548817"
-  },
-  {
-    "name": "UAB \"MV GROUP Asset Management\"",
-    "code": "304145213",
-    "address": "Vilnius, Aukštaičių g. 7, LT-11341",
-    "vatcode": "LT100009848916"
   },
   {
     "name": "UAB \"Nextury Asset Management\"",
@@ -394,8 +399,7 @@
   {
     "name": "UAB G27 Asset",
     "code": "305563183",
-    "address": "Kaunas, Gedimino g. 27, LT-44319",
-    "vatcode": "LT100013458011"
+    "address": "Kaunas, Gedimino g. 27, LT-44319"
   },
   {
     "name": "UAB Green Asset",
