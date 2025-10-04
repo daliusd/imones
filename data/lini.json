@@ -341,6 +341,11 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Mažojo Londono g. 44-14, LT-92359"
   },
   {
+    "name": "MB Linija",
+    "code": "307437653",
+    "address": "Kaunas, Girios g. 21A, LT-47266"
+  },
+  {
     "name": "MB Meno linija",
     "code": "307025226",
     "address": "Panevėžys, Girelės g. 7A, LT-37450"
@@ -358,7 +363,8 @@
   {
     "name": "MB Plento linija",
     "code": "306045585",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100018953110"
   },
   {
     "name": "MB SM Linija",
@@ -506,11 +512,6 @@
     "name": "UAB \"CNC Linija\"",
     "code": "305072088",
     "address": "Vilniaus r. sav., Nemėžio sen., Kuprioniškių k., Vilties g. 11, LT-13279"
-  },
-  {
-    "name": "UAB \"D LINIJA\"",
-    "code": "303038016",
-    "address": "Panevėžys, Beržų g. 44, LT-36144"
   },
   {
     "name": "UAB \"Danties linija plius\"",
@@ -862,11 +863,6 @@
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
   },
   {
-    "name": "UAB \"Tikslo linija\"",
-    "code": "300142508",
-    "address": "Kaunas, Medvėgalio g. 31-43, LT-44454"
-  },
-  {
     "name": "UAB \"Tvarkos linija\"",
     "code": "300939557",
     "address": "Vilnius, Kaukysos g. 18-1, LT-11342",
@@ -1097,11 +1093,6 @@
     "name": "VšĮ Linijinių šokių mokykla \"LINEDANCE LT\"",
     "code": "302644235",
     "address": "Vilnius, Verkių g. 5A-43, LT-08218"
-  },
-  {
-    "name": "IĮ \"Darbo linijos\"",
-    "code": "303155877",
-    "address": "Kaunas, Europos pr. 122, LT-46351"
   },
   {
     "name": "MB \"77 linijos\"",

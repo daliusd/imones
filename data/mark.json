@@ -220,6 +220,11 @@
     "address": "Jonavos r. sav., Žeimiai, Sodų g. 13, LT-55384"
   },
   {
+    "name": "MB MARKERTA",
+    "code": "307440247",
+    "address": "Šakiai, J. Basanavičiaus g. 79, LT-71108"
+  },
+  {
     "name": "UAB \"Markesa\"",
     "code": "300636834",
     "address": "Panevėžys, Ramygalos g. 46-12, LT-36230"
@@ -379,7 +384,8 @@
   {
     "name": "MB Synth market",
     "code": "307404219",
-    "address": "Vilnius, Šv. Stepono g. 7, LT-01139"
+    "address": "Vilnius, Šv. Stepono g. 7, LT-01139",
+    "vatcode": "LT100018840213"
   },
   {
     "name": "Market Pay Denmark Aps filialas",
@@ -455,8 +461,7 @@
   {
     "name": "UAB \"Electronics Market\"",
     "code": "304424063",
-    "address": "Vilnius, Vilkpėdės g. 22, LT-03151",
-    "vatcode": "LT100016192614"
+    "address": "Vilnius, Vilkpėdės g. 22, LT-03151"
   },
   {
     "name": "UAB \"Inter Market\"",
@@ -611,9 +616,9 @@
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
   },
   {
-    "name": "UAB TV Market",
-    "code": "305864311",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "name": "UAB Seafood Market LT",
+    "code": "307454581",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Glass market\"",
@@ -737,11 +742,6 @@
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
-    "name": "MB \"Hampstead Marketing\"",
-    "code": "305602775",
-    "address": "Vilnius, Jurgio Baltrušaičio g. 9-146, LT-06145"
-  },
-  {
     "name": "MB \"Locale marketing\"",
     "code": "305811173",
     "address": "Vilnius, Kazimiero Jelskio g. 65-14, LT-04132",
@@ -862,11 +862,6 @@
     "name": "MB Schema marketing agency",
     "code": "306229158",
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
-  },
-  {
-    "name": "MB Stork marketing",
-    "code": "306544307",
-    "address": "Vilnius, Gelvonų g. 26-47, LT-07147"
   },
   {
     "name": "MB VS marketing",
@@ -1037,11 +1032,6 @@
     "name": "Uždaroji akcinė bendrovė \"BALT MARKETING\"",
     "code": "141010928",
     "address": "Klaipėda, Taikos pr. 52C, LT-91184"
-  },
-  {
-    "name": "VMware International Marketing Limited Lietuvos filialas",
-    "code": "305892129",
-    "address": "Vilnius, Gedimino pr. 44A-201, LT-01110"
   },
   {
     "name": "Viešoji įstaiga Innovative marketing solutions",
@@ -1218,7 +1208,8 @@
   {
     "name": "MB Noru kūrybinio marketingo agentūra",
     "code": "306973580",
-    "address": "Vilnius, Šeimyniškių g. 18-1, LT-09312"
+    "address": "Vilnius, Šeimyniškių g. 18-1, LT-09312",
+    "vatcode": "LT100018944313"
   },
   {
     "name": "Mažoji bendrija \"Marketingo partneriai\"",

@@ -400,11 +400,6 @@
     "address": "Kaunas, Hipodromo g. 13, LT-45130"
   },
   {
-    "name": "VšĮ Respublikinės Panevėžio ligoninės darbuotojų profesinė sąjunga",
-    "code": "304062358",
-    "address": "Panevėžio r. sav., Velžio sen., Staniūnų k., Dvaro g. 3, LT-38121"
-  },
-  {
     "name": "VšĮ Respublikinės Šiaulių ligoninės Psichiatrijos klinikos darbuotojų profesinė sąjunga",
     "code": "302470681",
     "address": "Šiauliai, M. K. Čiurlionio g. 12, LT-76304"
@@ -765,6 +760,11 @@
     "address": "Kaunas, Vytauto pr. 60-19, LT-44237"
   },
   {
+    "name": "Lietuvos Respublikos lygių galimybių kontrolieriaus tarnyba",
+    "code": "188735591",
+    "address": "Vilnius, S. Konarskio g. 35, LT-03123"
+  },
+  {
     "name": "Lietuvos Respublikos odontologų rūmai",
     "code": "300038139",
     "address": "Vilnius, Palangos g. 2-7, LT-01117"
@@ -853,7 +853,8 @@
   {
     "name": "Lietuvos Respublikos turto ir verslo vertintojų rūmai",
     "code": "307108985",
-    "address": "Vilnius, Konstitucijos pr. 23, LT-08105"
+    "address": "Vilnius, Konstitucijos pr. 23, LT-08105",
+    "vatcode": "LT100018845719"
   },
   {
     "name": "Lietuvos Respublikos užsienio reikalų ministerija",

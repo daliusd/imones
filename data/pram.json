@@ -256,11 +256,6 @@
     "address": "Vilnius, Kryžiokų g. 468, LT-08422"
   },
   {
-    "name": "IĮ \"Bepročio pramogos\"",
-    "code": "303305437",
-    "address": "Kaunas, J. Naujalio g. 31, LT-48332"
-  },
-  {
     "name": "MB \"7 pramogos\"",
     "code": "304874039",
     "address": "Vilnius, Saracėnų g. 3, LT-09302"
@@ -278,7 +273,8 @@
   {
     "name": "MB \"Bent pramogos\"",
     "code": "306094778",
-    "address": "Prienų r. sav., Balbieriškio sen., Mardosų k., Pašilės g. 11, LT-59240"
+    "address": "Prienų r. sav., Balbieriškio sen., Mardosų k., Pašilės g. 11, LT-59240",
+    "vatcode": "LT100018911811"
   },
   {
     "name": "MB \"Brolių pramogos\"",
@@ -310,19 +306,20 @@
   {
     "name": "MB \"Jūsų pramogos\"",
     "code": "305130381",
-    "address": "Šiauliai, Varpo g. 55A-8, LT-76239",
+    "address": "Šiauliai, Kreivoji g. 37, LT-78109",
     "vatcode": "LT100012678717"
   },
   {
     "name": "MB \"Keturračių pramogos\"",
     "code": "307092812",
-    "address": "Kaunas, Elniaragių tak. 15, LT-51336",
+    "address": "Kaunas, Vytenio g. 18-25, LT-48418",
     "vatcode": "LT100017742016"
   },
   {
     "name": "MB \"Pramogos Trakuose\"",
     "code": "305744244",
-    "address": "Trakų r. sav., Trakų sen., Glitų k., Glitų g. 12, LT-21101"
+    "address": "Trakų r. sav., Trakų sen., Glitų k., Glitų g. 12, LT-21101",
+    "vatcode": "LT100014380118"
   },
   {
     "name": "MB \"Pramogos kaime\"",
@@ -1520,6 +1517,11 @@
     "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
+    "name": "Lietuvos gynybos ir kosmoso pramonės asociacija",
+    "code": "304153975",
+    "address": "Vilnius, Mokslininkų g. 2A, LT-08412"
+  },
+  {
     "name": "Lietuvos gynybos ir saugumo pramonės asociacija",
     "code": "303252536",
     "address": "Vilnius, L. Stuokos-Gucevičiaus g. 9, LT-01122",
@@ -1569,7 +1571,7 @@
   {
     "name": "Lietuvos prekybos, pramonės ir amatų rūmų asociacija",
     "code": "110069070",
-    "address": "Vilnius, Vašingtono a. 1, LT-01108",
+    "address": "Vilnius, J. Jasinskio g. 14B-102, LT-01112",
     "vatcode": "LT100690716"
   },
   {
@@ -1632,11 +1634,6 @@
     "name": "Nacionalinė farmacijos pramonės asociacija",
     "code": "300553096",
     "address": "Kaunas, Pažaislio g. 18, LT-45362"
-  },
-  {
-    "name": "Nacionalinė gynybos pramonės asociacija",
-    "code": "304153975",
-    "address": "Vilnius, Mokslininkų g. 2A, LT-08412"
   },
   {
     "name": "Panevėžio prekybos, pramonės ir amatų rūmai",
@@ -1849,11 +1846,6 @@
     "name": "UAB Pramranga",
     "code": "306779928",
     "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
-  },
-  {
-    "name": "UAB \"Pramtech\"",
-    "code": "300085060",
-    "address": "Kaunas, Kęstučio g. 16A, LT-44311"
   },
   {
     "name": "UAB Pramteka",

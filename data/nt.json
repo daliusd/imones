@@ -63,6 +63,12 @@
     "address": "Marijampolė, V. Kudirkos g. 24, LT-68306"
   },
   {
+    "name": "Alta Nt, MB",
+    "code": "307416029",
+    "address": "Kaunas, Tyrulių g. 30, LT-46302",
+    "vatcode": "LT100018875014"
+  },
+  {
     "name": "BIOVELA NT, UAB",
     "code": "305493393",
     "address": "Vilnius, Viršuliškių skg. 34-1, LT-05132",
@@ -218,9 +224,15 @@
     "vatcode": "LT100011415915"
   },
   {
+    "name": "MB \"Dekorvila NT\"",
+    "code": "306717638",
+    "address": "Vilnius, Naujakiemio g. 18, LT-08314"
+  },
+  {
     "name": "MB \"Digital NT\"",
     "code": "306622193",
-    "address": "Vilnius, Olandų g. 10A-5, LT-01100"
+    "address": "Vilnius, Olandų g. 10A-5, LT-01100",
+    "vatcode": "LT100018894717"
   },
   {
     "name": "MB \"Doma NT\"",
@@ -320,6 +332,11 @@
     "name": "MB \"Karužis NT\"",
     "code": "306697801",
     "address": "Vilnius, Kalvarijų g. 46-5, LT-09304"
+  },
+  {
+    "name": "MB \"Kastelum NT\"",
+    "code": "307413392",
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "MB \"Komercinis NT\"",
@@ -777,13 +794,8 @@
   {
     "name": "MB Amberti NT",
     "code": "306361494",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Vinkšnėnų k., V. Bielskio g. 111C, LT-76151",
+    "address": "Šiauliai, Plungės g. 50, LT-76150",
     "vatcode": "LT100016832019"
-  },
-  {
-    "name": "MB Artema NT",
-    "code": "306269843",
-    "address": "Šalčininkai, Girininkų g. 37-2, LT-17121"
   },
   {
     "name": "MB Atria NT",
@@ -946,7 +958,8 @@
   {
     "name": "MB NT Flipai",
     "code": "307193989",
-    "address": "Kaunas, Partizanų g. 156-68, LT-50328"
+    "address": "Kaunas, Partizanų g. 156-68, LT-50328",
+    "vatcode": "LT100018871415"
   },
   {
     "name": "MB NT HERMIS",
@@ -1256,7 +1269,8 @@
   {
     "name": "MB nt inžinerija",
     "code": "306975001",
-    "address": "Vilnius, Gilužio g. 51-10, LT-06239"
+    "address": "Vilnius, Gilužio g. 51-10, LT-06239",
+    "vatcode": "LT100018964913"
   },
   {
     "name": "MB Šarkis nt",
@@ -1580,11 +1594,6 @@
     "address": "Klaipėda, Taikos pr. 101D, LT-94198"
   },
   {
-    "name": "UAB \"Dekorvila NT\"",
-    "code": "306717638",
-    "address": "Vilnius, Naujakiemio g. 18, LT-08314"
-  },
-  {
     "name": "UAB \"Deltos NT\"",
     "code": "304446177",
     "address": "Vilnius, Trakų g. 16-9, LT-01132"
@@ -1642,7 +1651,7 @@
   {
     "name": "UAB \"E1 NT\"",
     "code": "305596678",
-    "address": "Vilnius, Savanorių pr. 1-63, LT-03116",
+    "address": "Vilnius, Lvivo g. 25-702, LT-09320",
     "vatcode": "LT100014009417"
   },
   {
@@ -1923,11 +1932,6 @@
     "code": "304447966",
     "address": "Šiauliai, Metalistų g. 6B, LT-78107",
     "vatcode": "LT100010673617"
-  },
-  {
-    "name": "UAB \"Lemon NT\"",
-    "code": "305863259",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB \"Liepų NT\"",
@@ -3009,6 +3013,12 @@
     "address": "Kaunas, Darbininkų g. 6-3, LT-44141"
   },
   {
+    "name": "UAB \"Vasario NT\"",
+    "code": "163552511",
+    "address": "Gargždai, Vasario 16-osios g. 21A, LT-96124",
+    "vatcode": "LT635525113"
+  },
+  {
     "name": "UAB \"Veino NT\"",
     "code": "303301264",
     "address": "Neringa, Vilų g. 8, LT-93102",
@@ -3246,7 +3256,8 @@
   {
     "name": "UAB MIESTO NT",
     "code": "302717345",
-    "address": "Kaunas, Benediktinių g. 45-2, LT-44262"
+    "address": "Kaunas, Benediktinių g. 45-2, LT-44262",
+    "vatcode": "LT100012623218"
   },
   {
     "name": "UAB MLEZ NT",
@@ -3380,6 +3391,12 @@
     "code": "306136818",
     "address": "Vilnius, Oršos g. 5-99, LT-09300",
     "vatcode": "LT100015380214"
+  },
+  {
+    "name": "UAB P19 NT",
+    "code": "307426016",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319",
+    "vatcode": "LT100018939014"
   },
   {
     "name": "UAB PLIUS NT",

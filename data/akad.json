@@ -178,6 +178,11 @@
     "address": "Vilnius, Smėlio g. 2-9, LT-10324"
   },
   {
+    "name": "Fortūnos akademija VšĮ",
+    "code": "307414672",
+    "address": "Druskininkų sav., Leipalingio sen., Černiauskų k., Ežerų g. 6, LT-67281"
+  },
+  {
     "name": "Futbolo akademija \"Ainiai\"",
     "code": "305390176",
     "address": "Kaunas, Lubinų g. 107-2, LT-47222"
@@ -409,11 +414,6 @@
     "address": "Alytus, Naujoji g. 3, LT-62119"
   },
   {
-    "name": "MB \"Miesto akademija\"",
-    "code": "303036428",
-    "address": "Kaunas, Radvilėnų pl. 5-19, LT-50264"
-  },
-  {
     "name": "MB \"Mini akademija\"",
     "code": "304878105",
     "address": "Vilnius, Arnavos g. 20, LT-06283"
@@ -579,7 +579,7 @@
   {
     "name": "MB Energetikų mokymų akademija",
     "code": "306389159",
-    "address": "Joniškis, Mokyklos g. 13, LT-84152"
+    "address": "Kaunas, Rudmenos g. 30-2, LT-52193"
   },
   {
     "name": "MB Euklido akademija",
@@ -697,7 +697,7 @@
   {
     "name": "MB Muzikos akademija",
     "code": "304244859",
-    "address": "Zarasai, P. Širvio g. 24-18, LT-32125"
+    "address": "Vilnius, Naujininkų g. 7-10, LT-02109"
   },
   {
     "name": "MB MŪZŲ akademija",
@@ -744,7 +744,8 @@
   {
     "name": "MB Rai akademija",
     "code": "304055723",
-    "address": "Vilnius, Antakalnio g. 51-32, LT-10325"
+    "address": "Vilnius, Antakalnio g. 51-32, LT-10325",
+    "vatcode": "LT100018613314"
   },
   {
     "name": "MB Raidos akademija",
@@ -1326,7 +1327,8 @@
   {
     "name": "UAB Septyni Šeši teniso akademija",
     "code": "307194468",
-    "address": "Vilniaus r. sav., Riešės sen., Jadvygiškių k., Alksnynų g. 4, LT-14258"
+    "address": "Vilniaus r. sav., Riešės sen., Jadvygiškių k., Alksnynų g. 4, LT-14258",
+    "vatcode": "LT100018861115"
   },
   {
     "name": "UAB Sveikatinimo akademija",
@@ -1463,6 +1465,11 @@
     "name": "Viešoji įstaiga \"FLAMENCO AKADEMIJA\"",
     "code": "300858048",
     "address": "Vilnius, Architektų g. 64A-4, LT-04110"
+  },
+  {
+    "name": "Viešoji įstaiga \"Fizinio aktyvumo ir sporto akademija\"",
+    "code": "307445066",
+    "address": "Ignalinos r. sav., Linkmenų sen., Krivasalio k., Žiliuko g. 19, LT-30216"
   },
   {
     "name": "Viešoji įstaiga \"Futbolo akademija Dainava\"",
@@ -1971,7 +1978,7 @@
   {
     "name": "VšĮ \"Tarptautinė Tradicinės Tibeto medicinos akademija\"",
     "code": "303021305",
-    "address": "Vilnius, Gerosios Vilties g. 4-53, LT-03134"
+    "address": "Radviliškio r. sav., Baisogalos sen., Pakiršinio k., Taikos g. 4-39, LT-82298"
   },
   {
     "name": "VšĮ \"Teatras Kaukių akademija\"",
@@ -1995,6 +2002,11 @@
     "vatcode": "LT100013345518"
   },
   {
+    "name": "VšĮ \"Veiklos akademija\"",
+    "code": "307435517",
+    "address": "Vilnius, Girulių g. 10, LT-12112"
+  },
+  {
     "name": "VšĮ \"Vidmanto Valio akademija\"",
     "code": "306388865",
     "address": "Vilnius, Paberžės g. 16-16, LT-07155"
@@ -2008,6 +2020,11 @@
     "name": "VšĮ \"Žalgirio plaukimo akademija\"",
     "code": "306129072",
     "address": "Kaunas, Karaliaus Mindaugo pr. 50, ŽALGIRIO arena, LT-44334"
+  },
+  {
+    "name": "VšĮ 76 teniso akademija",
+    "code": "307426692",
+    "address": "Vilniaus r. sav., Riešės sen., Jadvygiškių k., Alksnynų g. 4, LT-14258"
   },
   {
     "name": "VšĮ A. Narbekovo futbolo akademija",
@@ -2648,6 +2665,11 @@
     "address": "Vilnius, Fabijoniškių g. 5C-96, LT-06335"
   },
   {
+    "name": "VšĮ Žvejų Akademija",
+    "code": "307442732",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
     "name": "Įtraukties akademija",
     "code": "307077696",
     "address": "Utena, Aušros g. 34-4, LT-28146"
@@ -2900,11 +2922,6 @@
     "name": "Akademinio Jaunimo Mokslinė Draugija \"Modusas\"",
     "code": "302590143",
     "address": "Kauno r. sav., Akademija, Universiteto g. 10, LT-53361"
-  },
-  {
-    "name": "Akademinio džiazo asociacija",
-    "code": "306485588",
-    "address": "Kretinga, J. Basanavičiaus g. 18, LT-97125"
   },
   {
     "name": "Akademinio žemaičių jaunimo korporacija \"Samogitia\"",

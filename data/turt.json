@@ -345,6 +345,11 @@
     "address": "Vilkaviškio r. sav., Gižų sen., Gižų k., K. Baršausko g. 11, LT-70314"
   },
   {
+    "name": "MB Se turtas",
+    "code": "307439031",
+    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Arkos g. 16-9, LT-14180"
+  },
+  {
     "name": "MB Smart turtas",
     "code": "305831375",
     "address": "Klaipėda, Kuosų g. 20-145, LT-91187",
@@ -623,7 +628,8 @@
   {
     "name": "UAB \"ELTJ turtas\"",
     "code": "307396555",
-    "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Beržų g. 7, LT-14266"
+    "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Beržų g. 7, LT-14266",
+    "vatcode": "LT100018844614"
   },
   {
     "name": "UAB \"Edrimo nekilnojamasis turtas\"",
@@ -640,11 +646,6 @@
     "name": "UAB \"Ežero turtas\"",
     "code": "305850856",
     "address": "Vilnius, Savanorių pr. 1-63, LT-03116"
-  },
-  {
-    "name": "UAB \"Finansinis turtas\"",
-    "code": "307163444",
-    "address": "Kėdainiai, Birutės g. 4, LT-57177"
   },
   {
     "name": "UAB \"Fonbergo turtas\"",
@@ -1016,6 +1017,11 @@
     "vatcode": "LT100014920314"
   },
   {
+    "name": "UAB \"Realtrust turtas\"",
+    "code": "307415518",
+    "address": "Neringa, G. D. Kuverto g. 17C-9, LT-93127"
+  },
+  {
     "name": "UAB \"Riešuto namų turtas\"",
     "code": "303395751",
     "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228",
@@ -1290,7 +1296,7 @@
   {
     "name": "UAB \"Vytenio turtas\"",
     "code": "304912080",
-    "address": "Vilnius, Vytauto Žalakevičiaus g. 4C-26, LT-10111"
+    "address": "Vilnius, Antano Tumėno g. 4-7, LT-01110"
   },
   {
     "name": "UAB \"Zemvaldos turtas 1\"",
@@ -1431,7 +1437,7 @@
   {
     "name": "UAB DNT TURTAS",
     "code": "300071502",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Karklės k., Placio g. 1, LT-92383",
+    "address": "Klaipėda, S. Daukanto g. 34, LT-92143",
     "vatcode": "LT100001453217"
   },
   {
@@ -1439,6 +1445,11 @@
     "code": "306004777",
     "address": "Kaunas, Savanorių pr. 226, LT-50198",
     "vatcode": "LT100014850612"
+  },
+  {
+    "name": "UAB KM Turtas",
+    "code": "307419057",
+    "address": "Alytus, Gardino g. 30, LT-62154"
   },
   {
     "name": "UAB Kurorto nekilnojamasis turtas",
@@ -1697,7 +1708,8 @@
   {
     "name": "\"Turto valda\", UAB",
     "code": "304612414",
-    "address": "Vilnius, Verkių g. 29, LT-09108"
+    "address": "Vilnius, Verkių g. 29, LT-09108",
+    "vatcode": "LT100011130617"
   },
   {
     "name": "Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnyba prie Lietuvos Respublikos finansų ministerijos",
@@ -1748,7 +1760,8 @@
   {
     "name": "Lietuvos Respublikos turto ir verslo vertintojų rūmai",
     "code": "307108985",
-    "address": "Vilnius, Konstitucijos pr. 23, LT-08105"
+    "address": "Vilnius, Konstitucijos pr. 23, LT-08105",
+    "vatcode": "LT100018845719"
   },
   {
     "name": "Lietuvos nekilnojamojo turto brokerių asociacija",
@@ -2523,7 +2536,7 @@
   {
     "name": "UAB \"ŠIAULIŲ NEKILNOJAMOJO TURTO AGENTŪRA\"",
     "code": "300861539",
-    "address": "Šiauliai, Dvaro g. 53-1, LT-76344"
+    "address": "Šiauliai, Verdulių g. 2, LT-78102"
   },
   {
     "name": "UAB \"Šiaulių turto nuoma\"",

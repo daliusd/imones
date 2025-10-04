@@ -436,12 +436,6 @@
     "vatcode": "LT100016006312"
   },
   {
-    "name": "MB \"Fortis consensus\"",
-    "code": "305147886",
-    "address": "Klaipėda, Kretingos g. 55-28, LT-92300",
-    "vatcode": "LT100016784117"
-  },
-  {
     "name": "MB \"Fortis insectum\"",
     "code": "305423669",
     "address": "Vilnius, Žalgirio g. 137-39, LT-08217"
@@ -452,14 +446,14 @@
     "address": "Kauno r. sav., Samylų sen., Samylų k., Rožyno g. 10, LT-53153"
   },
   {
-    "name": "MB \"Nodus fortis\"",
-    "code": "304270633",
-    "address": "Kaunas, V. Krėvės pr. 114A-13, LT-50315"
-  },
-  {
     "name": "MB Draco fortis",
     "code": "306250736",
     "address": "Klaipėda, Rokiškio g. 20-2, LT-92308"
+  },
+  {
+    "name": "MB Fortis Statyba",
+    "code": "307451681",
+    "address": "Kaunas, Jonvabalių tak. 16, LT-52177"
   },
   {
     "name": "MB Fortis capital",
@@ -480,8 +474,7 @@
   {
     "name": "UAB \"Esse fortis\"",
     "code": "304614899",
-    "address": "Rokiškis, Vilties g. 22-13, LT-42159",
-    "vatcode": "LT100011154816"
+    "address": "Rokiškis, Vilties g. 22-13, LT-42159"
   },
   {
     "name": "UAB \"Fortis 12\"",
@@ -499,6 +492,12 @@
     "name": "UAB \"Fortis axis\"",
     "code": "304075117",
     "address": "Vilnius, Upės g. 5, LT-09308"
+  },
+  {
+    "name": "UAB \"Fortis consensus\"",
+    "code": "305147886",
+    "address": "Klaipėda, Kretingos g. 55-28, LT-92300",
+    "vatcode": "LT100016784117"
   },
   {
     "name": "UAB \"Fortis group\"",
@@ -704,7 +703,7 @@
   {
     "name": "UAB Fortola",
     "code": "306986396",
-    "address": "Palanga, Vanagupės g. 9B-6, LT-00171",
+    "address": "Palanga, Vytauto g. 4 K1-9, LT-00101",
     "vatcode": "LT100017167518"
   },
   {
@@ -1129,6 +1128,11 @@
     "address": "Kėdainių r. sav., Dotnuvos sen., Vainotiškių k., Ežero g. 17-6, LT-58346"
   },
   {
+    "name": "Fortūnos akademija VšĮ",
+    "code": "307414672",
+    "address": "Druskininkų sav., Leipalingio sen., Černiauskų k., Ežerų g. 6, LT-67281"
+  },
+  {
     "name": "MB \"Fortūnos\"",
     "code": "306714389",
     "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Žaibo g. 1, LT-53277"
@@ -1151,7 +1155,8 @@
   {
     "name": "UAB \"Fortūnos lapė\"",
     "code": "304489837",
-    "address": "Vilnius, J. Jasinskio g. 16, LT-03163"
+    "address": "Vilnius, J. Jasinskio g. 16, LT-03163",
+    "vatcode": "LT100016183312"
   },
   {
     "name": "UAB \"Fortūnos žirgai\"",

@@ -314,11 +314,6 @@
     "vatcode": "LT100009735110"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Mano šeimai\"",
-    "code": "305838658",
-    "address": "Vilnius, Konservatorijos Sodų 1-oji g. 11, LT-10152"
-  },
-  {
     "name": "Vaikui ir šeimai, UAB",
     "code": "305793686",
     "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Mėtų g. 13, LT-14166",
@@ -724,6 +719,11 @@
     "vatcode": "LT100016766714"
   },
   {
+    "name": "MB \"Šeimos fondai\"",
+    "code": "307434116",
+    "address": "Vilniaus r. sav., Zujūnų sen., Gineitiškių k., Sakmių g. 3-2, LT-14159"
+  },
+  {
     "name": "MB \"Šeimos gidas\"",
     "code": "304173091",
     "address": "Vilnius, Vokiečių g. 3-10A, LT-01130",
@@ -1094,11 +1094,6 @@
     "vatcode": "LT100008575414"
   },
   {
-    "name": "UAB Aukštaičių šeimos klinika",
-    "code": "148514838",
-    "address": "Panevėžys, Stoties g. 49-6, LT-35105"
-  },
-  {
     "name": "UAB BALTUPIŲ ŠEIMOS MEDICINOS CENTRAS",
     "code": "125228728",
     "address": "Vilnius, P. Žadeikos g. 11-7, LT-06324"
@@ -1152,6 +1147,11 @@
     "name": "UAB PILĖNŲ ŠEIMOS MEDICINOS CENTRAS",
     "code": "148358677",
     "address": "Panevėžys, Dainavos g. 22-2, LT-36243"
+  },
+  {
+    "name": "UAB Paliatyvios pagalbos ir šeimos sveikatos centras",
+    "code": "302646859",
+    "address": "Klaipėda, Jūros g. 4, LT-92118"
   },
   {
     "name": "UAB Panemunės šeimos sveikatos centras",
@@ -1248,6 +1248,11 @@
     "name": "UAB ŠEIMOS TEISĖS CENTRAS",
     "code": "125642145",
     "address": "Vilnius, Šeimyniškių g. 22, LT-09312"
+  },
+  {
+    "name": "UAB Šeimos Suši",
+    "code": "307437621",
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
   },
   {
     "name": "UAB Šeimos alėja",
@@ -1407,7 +1412,7 @@
   {
     "name": "Viešoji įstaiga \"Vilnelės šeimos klinika\"",
     "code": "306348251",
-    "address": "Vilnius, Aukštaičių g. 2-9, LT-11341",
+    "address": "Vilnius, Aukštaičių g. 2, LT-11341",
     "vatcode": "LT100016538015"
   },
   {
@@ -1485,7 +1490,8 @@
   {
     "name": "Viešoji įstaiga Ukmergės šeimos centras",
     "code": "304430479",
-    "address": "Ukmergė, Vytauto g. 105D, LT-20184"
+    "address": "Ukmergė, Vytauto g. 105D, LT-20184",
+    "vatcode": "LT100018831719"
   },
   {
     "name": "Viešoji įstaiga Šeimos gerovės centras",
@@ -1597,11 +1603,6 @@
     "name": "VšĮ \"Šeimos laikas\"",
     "code": "305047925",
     "address": "Kaunas, A. Juozapavičiaus pr. 27-33, LT-45258"
-  },
-  {
-    "name": "VšĮ Paliatyvios pagalbos ir šeimos sveikatos centras",
-    "code": "302646859",
-    "address": "Klaipėda, Jūros g. 4, LT-92118"
   },
   {
     "name": "VšĮ Vaiko teisių į šeimos ryšius gynimo centras",
@@ -1781,11 +1782,6 @@
     "address": "Rokiškio r. sav., Juodupės sen., Lukštų k., Lukštų g. 4, LT-42495"
   },
   {
-    "name": "Audronės šeimyna",
-    "code": "302576880",
-    "address": "Kaunas, Purienų g. 27-1, LT-50141"
-  },
-  {
     "name": "Aušros ir Alfredo Tijūnaičių šeimyna \"AUŠRA\"",
     "code": "306506089",
     "address": "Šiauliai, Šaukėnų g. 27, LT-77119"
@@ -1799,6 +1795,11 @@
     "name": "Bitučių šeimyna",
     "code": "305652917",
     "address": "Jonavos r. sav., Bukonių sen., Bukonių k., Garniškių g. 13, LT-55416"
+  },
+  {
+    "name": "Butanavičių šeimyna",
+    "code": "307441000",
+    "address": "Šakių r. sav., Lekėčių sen., Šiuoriškių k. 1A, LT-71221"
   },
   {
     "name": "D. Jasukynienės šeimyna",
@@ -2051,6 +2052,11 @@
     "address": "Jurbarko r. sav., Šimkaičių sen., Paulių k., Miško g. 16, LT-74335"
   },
   {
+    "name": "Šeimyna \"Pipiras\"",
+    "code": "302576880",
+    "address": "Šakių r. sav., Lekėčiai, Draugystės g. 42A, LT-71224"
+  },
+  {
     "name": "Šeimyna \"Po angelo sparnu\"",
     "code": "302528145",
     "address": "Biržų r. sav., Parovėjos sen., Latvelių k., Girios g. 6, LT-41460"
@@ -2275,7 +2281,8 @@
   {
     "name": "LIETUVOS DIDŽIOSIOS KUNIGAIKŠTIENĖS BIRUTĖS KARININKŲ ŠEIMŲ MOTERŲ VILNIAUS DRAUGIJA",
     "code": "293186120",
-    "address": "Vilnius, Pamėnkalnio g. 13, LT-01114"
+    "address": "Vilnius, Pamėnkalnio g. 13, LT-01114",
+    "vatcode": "LT100018935911"
   },
   {
     "name": "Lietuvos didžiosios kunigaikštienės Birutės Alytaus įgulos karininkų šeimų moterų draugija",

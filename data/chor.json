@@ -35,12 +35,6 @@
     "address": "Jurbarkas, V. Kudirkos g. 25, LT-74138"
   },
   {
-    "name": "CHORAS \"BEL CANTO\"",
-    "code": "302424901",
-    "address": "Vilnius, Vilniaus g. 39-1, LT-01119",
-    "vatcode": "LT100018648710"
-  },
-  {
     "name": "Choras \"Artyn\"",
     "code": "304769892",
     "address": "Vilnius, Fabijoniškių g. 61-21, LT-07110"
@@ -69,6 +63,12 @@
     "name": "Eglės moterų choras",
     "code": "300105082",
     "address": "Vilnius, Vilniaus g. 22, LT-01402"
+  },
+  {
+    "name": "ISM CHORAS \"BEL CANTO\"",
+    "code": "302424901",
+    "address": "Vilnius, Vilniaus g. 39-1, LT-01119",
+    "vatcode": "LT100018648710"
   },
   {
     "name": "Kauno akademinio jaunimo choras",
@@ -129,7 +129,8 @@
   {
     "name": "Koncertinė įstaiga Šiaulių valstybinis kamerinis choras \"Polifonija\"",
     "code": "188200756",
-    "address": "Šiauliai, Aušros al. 15, LT-76300"
+    "address": "Šiauliai, Aušros al. 15, LT-76300",
+    "vatcode": "LT100018916711"
   },
   {
     "name": "Kultūros centro choras \"Jurbarko lelija\"",
@@ -220,11 +221,6 @@
     "name": "Viešoji įstaiga \"SAKALO\" CHORAS",
     "code": "124542423",
     "address": "Vilnius, Treniotos g. 5-5, LT-08121"
-  },
-  {
-    "name": "Viešoji įstaiga Anykščių kamerinis choras \"Salve Cantus\"",
-    "code": "154299525",
-    "address": "Anykščiai, Vilniaus g. 13, LT-29145"
   },
   {
     "name": "Viešoji įstaiga Berniukų ir jaunuolių choras \"Ąžuoliukas\"",

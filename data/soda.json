@@ -1,10 +1,5 @@
 [
   {
-    "name": "A. G. Vaičiuškos firma \"Barupės sodai\"",
-    "code": "156871220",
-    "address": "Jonavos r. sav., Žeimių sen., Kuigalių k."
-  },
-  {
     "name": "Akcinė bendrovė \"Ažuožerių sodai\"",
     "code": "154157789",
     "address": "Anykščių r. sav., Anykščių sen., Ažuožerių k.",
@@ -389,6 +384,11 @@
     "vatcode": "LT100017214816"
   },
   {
+    "name": "VšĮ Senjoro sodai",
+    "code": "307447672",
+    "address": "Kauno r. sav., Vilkija, Vydūno al. 10-1, LT-54229"
+  },
+  {
     "name": "Zarasų rajono susivienijimas \"Sodai\"",
     "code": "191068179",
     "address": "Zarasai, Sinagogos g. 1A, LT-32106"
@@ -466,11 +466,6 @@
     "name": "Gausos sodas, MB",
     "code": "305763102",
     "address": "Vilnius, Kražių g. 9-9, LT-01108"
-  },
-  {
-    "name": "Kaimo bendruomenė \"Senelių sodas\"",
-    "code": "305818730",
-    "address": "Šalčininkų r. sav., Eišiškės, Gegužės a. 8-2, LT-17174"
   },
   {
     "name": "Klaipėdos zoologijos sodas",
@@ -606,6 +601,11 @@
     "address": "Kėdainiai, J. Basanavičiaus g. 148-45, LT-57373"
   },
   {
+    "name": "MB Sesių sodas",
+    "code": "307415482",
+    "address": "Vilnius, Visorių g. 12-19, LT-08300"
+  },
+  {
     "name": "MB Sodas ir sodininkas",
     "code": "306158608",
     "address": "Vilnius, Latvių g. 15-15, LT-08123",
@@ -625,7 +625,8 @@
   {
     "name": "Mažoji bendrija \"Pilnatvės Sodas\"",
     "code": "307393018",
-    "address": "Klaipėda, Danės g. 33-13, LT-92108"
+    "address": "Klaipėda, Danės g. 33-13, LT-92108",
+    "vatcode": "LT100018931715"
   },
   {
     "name": "Mažoji bendrija Budos sodas",

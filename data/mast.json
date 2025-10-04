@@ -110,11 +110,6 @@
     "vatcode": "LT100011501518"
   },
   {
-    "name": "A brand master UAB",
-    "code": "305801581",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
     "name": "BIG MASTER LT, MB",
     "code": "304233827",
     "address": "Šalčininkų r. sav., Baltoji Vokė, Geležinkelio g. 3G, LT-17234",
@@ -133,7 +128,8 @@
   {
     "name": "MB \"Concrete master PRO\"",
     "code": "306383964",
-    "address": "Šiauliai, Vytauto g. 147-18, LT-76341"
+    "address": "Šiauliai, Vytauto g. 147-18, LT-76341",
+    "vatcode": "LT100018868314"
   },
   {
     "name": "MB \"Fleet Master Services\"",
@@ -164,6 +160,11 @@
     "name": "MB A.TENNIS MASTER",
     "code": "305610619",
     "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Karališkas tak. 18A, LT-92343"
+  },
+  {
+    "name": "MB AP Master",
+    "code": "307419648",
+    "address": "Vilnius, Laisvės pr. 42-59, LT-04341"
   },
   {
     "name": "MB BUILDING MASTER",
@@ -480,6 +481,16 @@
     "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105"
   },
   {
+    "name": "MB \"Masterproject\"",
+    "code": "307445059",
+    "address": "Panevėžys, Parko g. 63-3, LT-37305"
+  },
+  {
+    "name": "MB MasteRREAL",
+    "code": "307416118",
+    "address": "Klaipėdos r. sav., Priekulės sen., Žiaukų k., Minijos g. 92, LT-96366"
+  },
+  {
     "name": "Heat masters MB",
     "code": "305777244",
     "address": "Ukmergės r. sav., Veprių sen., Kultuvėnų k., Dvaro g. 26, LT-20265",
@@ -644,6 +655,11 @@
     "address": "Vilnius, Fizikų g. 12-54, LT-08447"
   },
   {
+    "name": "UAB Mastersel",
+    "code": "307424990",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+  },
+  {
     "name": "UAB Masterstyle Academy",
     "code": "306362411",
     "address": "Kaunas, Partizanų g. 216-77, LT-50319",
@@ -710,7 +726,8 @@
   {
     "name": "\"MASTRO Group\", UAB",
     "code": "304461528",
-    "address": "Vilnius, Sietyno g. 13, LT-04310"
+    "address": "Vilnius, Sietyno g. 13, LT-04310",
+    "vatcode": "LT100010740617"
   },
   {
     "name": "MB Mastro IT",

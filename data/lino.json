@@ -26,11 +26,6 @@
     "address": "Kazlų Rūdos sav., Kazlų Rūdos sen., Selemos k., Kazio Griniaus g. 21, LT-69457"
   },
   {
-    "name": "I. Gokienės IĮ \"LINO DOVANOS\"",
-    "code": "302599815",
-    "address": "Panevėžio r. sav., Panevėžio sen., Bernatonių k., Sanžilės 1-oji g. 7, LT-35302"
-  },
-  {
     "name": "IĮ \"Lino Putriaus veterinarinių paslaugų įmonė\"",
     "code": "170691493",
     "address": "Prienų r. sav., Balbieriškis, Kovo 8-osios g. 19, LT-59241"
@@ -267,7 +262,8 @@
   {
     "name": "UAB \"Lino žiedas\"",
     "code": "303013269",
-    "address": "Marijampolė, R. Juknevičiaus g. 7-19, LT-68184"
+    "address": "Marijampolė, R. Juknevičiaus g. 7-19, LT-68184",
+    "vatcode": "LT100007554812"
   },
   {
     "name": "UAB Lino krautuvėlė",
@@ -289,11 +285,6 @@
     "name": "VšĮ Lino Karaliūno džiazo klubas",
     "code": "303299938",
     "address": "Panevėžys, Molainių g. 72-22, LT-37149"
-  },
-  {
-    "name": "UAB Linobara",
-    "code": "303038347",
-    "address": "Kaunas, Savanorių pr. 280, LT-50201"
   },
   {
     "name": "MB \"Linobusas\"",
@@ -373,7 +364,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Linolitas\"",
     "code": "133791822",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Rinkūnų k.",
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Rinkūnų k., Jiesios g. 17, LT-53280",
     "vatcode": "LT337918219"
   },
   {
@@ -571,11 +562,6 @@
     "address": "Kėdainių r. sav., Josvainiai, Nevėžio g. 14, LT-58185"
   },
   {
-    "name": "Linos Mažintienės įmonė",
-    "code": "134548780",
-    "address": "Kaunas, Kalniečių g. 186-432, LT-50109"
-  },
-  {
     "name": "Linos Naruševičiūtės individuali įmonė",
     "code": "302247785",
     "address": "Jonavos r. sav., Žeimių sen., Kuigalių k., Darbininkų g. 2, LT-55367",
@@ -601,6 +587,11 @@
     "name": "Linos Urbonavičiūtės individuali įmonė",
     "code": "125675960",
     "address": "Vilnius, Šiltnamių g. 26, LT-04130"
+  },
+  {
+    "name": "Linos mind and mood mokymai",
+    "code": "307443599",
+    "address": "Panevėžys, Molainių g. 64-28, LT-37148"
   },
   {
     "name": "Linos Šliažienės individuali įmonė",
@@ -710,5 +701,10 @@
     "code": "306514118",
     "address": "Kaišiadorių r. sav., Rumšiškių sen., Karčiupio k., Pušyno g. 6, LT-56326",
     "vatcode": "LT100016380613"
+  },
+  {
+    "name": "Viešoji įstaiga Linozauras",
+    "code": "307453547",
+    "address": "Šiauliai, Ežero g. 68, LT-76244"
   }
 ]

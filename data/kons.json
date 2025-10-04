@@ -351,6 +351,11 @@
     "address": "Vilnius, J. Basanavičiaus g. 27, LT-03109"
   },
   {
+    "name": "Konstanto, UAB",
+    "code": "307431586",
+    "address": "Vilnius, Taikos g. 77-45, LT-05217"
+  },
+  {
     "name": "Vilniaus r. Nemenčinės Konstanto Parčevskio gimnazija",
     "code": "191315971",
     "address": "Vilniaus r. sav., Nemenčinė, A. Mickevičiaus g. 20, LT-15170"
@@ -701,6 +706,11 @@
     "address": "Vilniaus r. sav., Paberžės sen., Lygialaukio k., Vilniaus g. 75-4, LT-14273"
   },
   {
+    "name": "MB Metalo konstrukcijos",
+    "code": "307451578",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+  },
+  {
     "name": "MB Modulinės konstrukcijos",
     "code": "306367757",
     "address": "Akmenės r. sav., Akmenės sen., Agluonų k., Dvaro g. 8, LT-85474",
@@ -853,11 +863,6 @@
     "code": "302679243",
     "address": "Vilnius, Rudens g. 34, LT-01214",
     "vatcode": "LT100006476516"
-  },
-  {
-    "name": "UAB \"Skoda konstrukcijos\"",
-    "code": "305762655",
-    "address": "Vilnius, Santariškių g. 75-34, LT-08457"
   },
   {
     "name": "UAB \"Statinio konstrukcijos\"",
@@ -1035,7 +1040,8 @@
   {
     "name": "UAB Konstrukcijų projektavimas konpro",
     "code": "307160238",
-    "address": "Vilnius, Rokantiškių Sodų 7-oji g. 24, LT-10252"
+    "address": "Vilnius, Rokantiškių Sodų 7-oji g. 24, LT-10252",
+    "vatcode": "LT100018891914"
   },
   {
     "name": "UAB Statinių konstrukcijų projektavimo biuras",
@@ -1267,7 +1273,8 @@
   {
     "name": "UAB Konsul",
     "code": "307117475",
-    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Bajorų g. 9, LT-97179"
+    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Bajorų g. 9, LT-97179",
+    "vatcode": "LT100018874510"
   },
   {
     "name": "IĮ \"KONSULA\"",
@@ -1338,11 +1345,6 @@
     "code": "306145201",
     "address": "Vilnius, Pavilnionių g. 53-36, LT-12144",
     "vatcode": "LT100015335612"
-  },
-  {
-    "name": "MB \"PEN Konsultacija\"",
-    "code": "305450698",
-    "address": "Kaunas, Partizanų g. 216-77, LT-50319"
   },
   {
     "name": "MB \"Pirmoji vaikų konsultacija\"",
@@ -1623,6 +1625,11 @@
     "name": "MB \"Biomedicininės konsultacijos\"",
     "code": "305253601",
     "address": "Kaunas, Kalniečių g. 180-407, LT-50138"
+  },
+  {
+    "name": "MB \"DB konsultacijos\"",
+    "code": "307441993",
+    "address": "Alytus, Likiškėlių g. 74-35, LT-63359"
   },
   {
     "name": "MB \"Dažymo konsultacijos\"",
@@ -2256,8 +2263,7 @@
   {
     "name": "Mažoji bendrija Ep verslo konsultacijos",
     "code": "306667256",
-    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Girios g. 24-8, LT-54307",
-    "vatcode": "LT100016632814"
+    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Girios g. 24-8, LT-54307"
   },
   {
     "name": "Mažoji bendrija RS konsultacijos",
@@ -2289,6 +2295,11 @@
     "name": "TAG KONSULTACIJOS, UAB",
     "code": "300585973",
     "address": "Vilnius, Tolminkiemio g. 23-49, LT-06212"
+  },
+  {
+    "name": "Tvarumo konsultacijos, MB",
+    "code": "307447544",
+    "address": "Vilnius, P. Žadeikos g. 11-27, LT-06324"
   },
   {
     "name": "UAB \"APSKAITOS IR MOKESČIŲ KONSULTACIJOS\"",
@@ -2391,7 +2402,8 @@
   {
     "name": "UAB \"Europos konsultacijos\"",
     "code": "303356086",
-    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144",
+    "vatcode": "LT100018914019"
   },
   {
     "name": "UAB \"Gjp konsultacijos\"",
@@ -2843,6 +2855,11 @@
     "address": "Vilnius, Pylimo g. 63-27, LT-01137"
   },
   {
+    "name": "MB \"Teisinių konsultacijų ir paslaugų biuras\"",
+    "code": "307430484",
+    "address": "Vilnius, Erfurto g. 33-7, LT-04226"
+  },
+  {
     "name": "MB \"Verslo konsultacijų projektai\"",
     "code": "304440306",
     "address": "Neringa, Vilų g. 36A-45, LT-93102",
@@ -3101,7 +3118,7 @@
   {
     "name": "VšĮ \"Teisinių konsultacijų centras\"",
     "code": "302424125",
-    "address": "Vilnius, Taikos g. 35-28, LT-05260"
+    "address": "Vilnius, Laisvės pr. 78B-244, LT-05263"
   },
   {
     "name": "VšĮ \"Žurnalistinių tyrimų ir konsultacijų grupė\"",
@@ -3133,7 +3150,8 @@
   {
     "name": "MB Gydytojo A. Čebatoriaus konsultacinis kabinetas",
     "code": "304510306",
-    "address": "Alytaus r. sav., Alovės sen., Alytaus k., Sodininkų g. 5, LT-64100"
+    "address": "Alytaus r. sav., Alovės sen., Alytaus k., Sodininkų g. 5, LT-64100",
+    "vatcode": "LT100018959412"
   },
   {
     "name": "Romualdo Blaževičiaus darbų saugos konsultacinis biuras",
@@ -3522,7 +3540,7 @@
   {
     "name": "UAB \"Finansų konsultantas\"",
     "code": "302473108",
-    "address": "Klaipėda, Danės g. 6-403, LT-92109",
+    "address": "Klaipėda, H. Manto g. 40-1, LT-92233",
     "vatcode": "LT100010639819"
   },
   {

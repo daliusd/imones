@@ -36,11 +36,6 @@
     "address": "Kretinga, Savanorių g. 30-6, LT-97110"
   },
   {
-    "name": "A. Liaudinskienės stomatologinis kabinetas",
-    "code": "152055013",
-    "address": "Druskininkai, Eglės g. 1, LT-66251"
-  },
-  {
     "name": "A. Maskolenkaitės odontologijos kabinetas",
     "code": "300105876",
     "address": "Telšiai, Gedimino g. 2-2, LT-87134"
@@ -226,11 +221,6 @@
     "address": "Panevėžys, Kranto g. 9A-3, LT-35173"
   },
   {
-    "name": "G. Šabūnienės stomatologijos kabinetas",
-    "code": "172361067",
-    "address": "Raseiniai, Ramonų g. 13, LT-60116"
-  },
-  {
     "name": "Gintauto terapinis kabinetas",
     "code": "187820359",
     "address": "Zarasai, Sėlių a. 20-2, LT-32109"
@@ -394,11 +384,6 @@
     "name": "IĮ Gydytojo A. Kaleinikovo kabinetas",
     "code": "303357512",
     "address": "Vilnius, Šnipiškių g. 2-4, LT-09309"
-  },
-  {
-    "name": "IĮ Henrietos kabinetas",
-    "code": "302940889",
-    "address": "Pasvalys, Vilniaus g. 16-3, LT-39148"
   },
   {
     "name": "IĮ I. Jonušienės akių ligų kabinetas",
@@ -642,11 +627,6 @@
     "address": "Alytus, Likiškėlių g. 15-26, LT-63168"
   },
   {
-    "name": "MB \"Gyd. Arantos B-G kabinetas\"",
-    "code": "306391676",
-    "address": "Mažeikiai, P. Matulionio g. 38-9, LT-89214"
-  },
-  {
     "name": "MB \"Ingridos endobiogenikos kabinetas\"",
     "code": "307186158",
     "address": "Vilnius, Raitininkų g. 4-138, LT-09236"
@@ -687,11 +667,6 @@
     "address": "Marijampolė, J. Ambrazevičiaus-Brazaičio g. 25-22, LT-68154"
   },
   {
-    "name": "MB Alsėdžių odontologijos kabinetas",
-    "code": "305406125",
-    "address": "Plungės r. sav., Alsėdžiai, Draugystės g. 4, LT-90471"
-  },
-  {
     "name": "MB Aušrelės Kaminskienės medicinos kabinetas",
     "code": "161585270",
     "address": "Kėdainiai, J. Basanavičiaus g. 77-27, LT-57279"
@@ -724,7 +699,8 @@
   {
     "name": "MB Gydytojo A. Čebatoriaus konsultacinis kabinetas",
     "code": "304510306",
-    "address": "Alytaus r. sav., Alovės sen., Alytaus k., Sodininkų g. 5, LT-64100"
+    "address": "Alytaus r. sav., Alovės sen., Alytaus k., Sodininkų g. 5, LT-64100",
+    "vatcode": "LT100018959412"
   },
   {
     "name": "MB Gydytojo Benjamino Čižiūno kabinetas",
@@ -970,7 +946,7 @@
   {
     "name": "UAB \"A. MEDINYTĖS ODONTOLOGIJOS KABINETAS\"",
     "code": "126088745",
-    "address": "Vilnius, Architektų g. 25-51, LT-04105"
+    "address": "Vilnius, Šaltinių g. 1-21, LT-03218"
   },
   {
     "name": "UAB \"Ados ortodontijos kabinetas\"",
@@ -1013,11 +989,6 @@
     "address": "Kaišiadorių r. sav., Žiežmariai, Žalgirio g. 2-1, LT-56235"
   },
   {
-    "name": "UAB \"Mosėdžio odontologijos kabinetas\"",
-    "code": "304959863",
-    "address": "Skuodo r. sav., Mosėdis, Šačių g. 2-2A, LT-98268"
-  },
-  {
     "name": "UAB \"Petro Kalinauskio medicininis kabinetas\"",
     "code": "279400260",
     "address": "Tauragė, Dariaus ir Girėno g. 30, LT-72245"
@@ -1041,6 +1012,11 @@
     "name": "UAB A. Kiudulienės kabinetas",
     "code": "167366059",
     "address": "Mažeikių r. sav., Viekšniai, Kalno g. 2, LT-89493"
+  },
+  {
+    "name": "UAB Alsėdžių odontologijos kabinetas",
+    "code": "305406125",
+    "address": "Plungės r. sav., Alsėdžiai, Draugystės g. 4, LT-90471"
   },
   {
     "name": "UAB Anos ginekologijos kabinetas",
@@ -1285,7 +1261,8 @@
   {
     "name": "MB \"Kėdė kabinete\"",
     "code": "305251995",
-    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
+    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120",
+    "vatcode": "LT100018877616"
   },
   {
     "name": "UAB \"KABINK\"",

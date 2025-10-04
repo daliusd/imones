@@ -35,7 +35,8 @@
   {
     "name": "Apskaita ir buhalterija, MB",
     "code": "307204649",
-    "address": "Kaunas, Kovo 11-osios g. 100-15, LT-50407"
+    "address": "Kaunas, Kovo 11-osios g. 100-15, LT-50407",
+    "vatcode": "LT100018837112"
   },
   {
     "name": "BDO auditas ir apskaita, UAB",
@@ -131,7 +132,7 @@
   {
     "name": "MB \"Apskaita ir balansas verslui\"",
     "code": "306978111",
-    "address": "Anykščių r. sav., Anykščių sen., Burbiškio k., Parko g. 8, LT-29211"
+    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
   },
   {
     "name": "MB \"Apskaita ir konsultavimas\"",
@@ -287,12 +288,18 @@
   {
     "name": "MB \"Finansų apskaita ir mokesčiai\"",
     "code": "304438860",
-    "address": "Vilniaus r. sav., Zujūnų sen., Medviediškių k., Medviediškių g. 14, LT-14207"
+    "address": "Vilniaus r. sav., Zujūnų sen., Medviediškių k., Medviediškių g. 14, LT-14207",
+    "vatcode": "LT100018937216"
   },
   {
     "name": "MB \"G apskaita\"",
     "code": "306062378",
     "address": "Vilnius, Šilo g. 19-28, LT-10317"
+  },
+  {
+    "name": "MB \"Gera apskaita\"",
+    "code": "126403372",
+    "address": "Vilnius, Visorių g. 36D, LT-08340"
   },
   {
     "name": "MB \"I-APSKAITA\"",
@@ -598,6 +605,11 @@
     "address": "Vilniaus r. sav., Marijampolio sen., Rakonių k., Pirtininkų g. 1, LT-13244"
   },
   {
+    "name": "MB EP-apskaita",
+    "code": "307418560",
+    "address": "Kaunas, Laisvės al. 110, LT-44253"
+  },
+  {
     "name": "MB Eg apskaita",
     "code": "306658232",
     "address": "Kretinga, Žalioji g. 12-80, LT-97145"
@@ -634,6 +646,11 @@
     "code": "304210376",
     "address": "Kaunas, Maironio g. 13-9, LT-44298",
     "vatcode": "LT100017623215"
+  },
+  {
+    "name": "MB IG Apskaita",
+    "code": "307454492",
+    "address": "Vilnius, Kalvarijų g. 272-17, LT-08339"
   },
   {
     "name": "MB Jb apskaita",
@@ -1122,11 +1139,6 @@
     "address": "Vilniaus r. sav., Zujūnų sen., Gineitiškių k., Gineitiškių g. 6, LT-14159"
   },
   {
-    "name": "UAB \"Gera apskaita\"",
-    "code": "126403372",
-    "address": "Vilnius, Visorių g. 36D, LT-08340"
-  },
-  {
     "name": "UAB \"Higso apskaita\"",
     "code": "306009087",
     "address": "Vilnius, Žirmūnų g. 139, LT-09120",
@@ -1308,6 +1320,11 @@
     "name": "UAB \"Svarbi apskaita\"",
     "code": "304404527",
     "address": "Šilutė, Cintjoniškių g. 14-24, LT-99123"
+  },
+  {
+    "name": "UAB \"Svari apskaita\"",
+    "code": "306672164",
+    "address": "Vilnius, Saltoniškių g. 54-30, LT-08106"
   },
   {
     "name": "UAB \"TIKSLI APSKAITA\"",
@@ -2399,7 +2416,7 @@
   {
     "name": "UAB \"Apskaitos ir finansų grupė\"",
     "code": "302504977",
-    "address": "Alytus, Statybininkų g. 32-35, LT-63418"
+    "address": "Alytaus r. sav., Daugų sen., Kančėnų k., Dusmenų g. 21, LT-64133"
   },
   {
     "name": "UAB \"Apskaitos ir mokesčių menas\"",
@@ -4078,11 +4095,6 @@
     "name": "Šiaulių apskrities Armėnų bendruomenė",
     "code": "193453768",
     "address": "Šiauliai, Sevastopolio g. 3B, LT-78318"
-  },
-  {
-    "name": "Šiaulių apskrities Kuršėnų miškų urėdijos profsąjungos organizacija",
-    "code": "193320732",
-    "address": "Šiaulių r. sav., Kuršėnai, Gedimino g. 4, LT-81181"
   },
   {
     "name": "Šiaulių apskrities Povilo Višinskio viešoji biblioteka",

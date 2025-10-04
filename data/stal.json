@@ -112,11 +112,6 @@
     "address": "Tauragė, Respublikos g. 2, LT-72255"
   },
   {
-    "name": "UAB \"Atviras stalas\"",
-    "code": "303073451",
-    "address": "Vilnius, Šv. Stepono g. 8-2, LT-01138"
-  },
-  {
     "name": "UAB \"Saldus stalas\"",
     "code": "305245138",
     "address": "Pagėgių sav., Pagėgių sen., Panemunės m., K. Donelaičio g. 16, LT-99276",
@@ -341,6 +336,11 @@
     "name": "MB \"Stalius LT\"",
     "code": "306685044",
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
+  },
+  {
+    "name": "MB \"Stalius gyvena garsiai\"",
+    "code": "307441751",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB Algirdas stalius dailidė",
@@ -807,7 +807,8 @@
   {
     "name": "MB Staloža",
     "code": "307004520",
-    "address": "Kaunas, Jiestrakio g. 22-2, LT-46142"
+    "address": "Kaunas, Jiestrakio g. 22-2, LT-46142",
+    "vatcode": "LT100018926910"
   },
   {
     "name": "MB \"Stalsera\"",

@@ -975,11 +975,6 @@
     "vatcode": "LT675567515"
   },
   {
-    "name": "Lietuvos kariuomenės Karinių jūrų pajėgų Uosto ir priekrantės gynybos tarnyba",
-    "code": "304218049",
-    "address": "Klaipėda, Naujoji Uosto g. 24, LT-92244"
-  },
-  {
     "name": "Priekrantės verslinės ir rekreacinės žuvininkystės asociacija",
     "code": "300765505",
     "address": "Palanga, Prieplaukos g. 26, LT-00305"
@@ -1470,11 +1465,6 @@
     "vatcode": "LT100016344213"
   },
   {
-    "name": "Prienų lopšelis-darželis \"Gintarėlis\"",
-    "code": "190213141",
-    "address": "Prienai, Statybininkų g. 17, LT-59136"
-  },
-  {
     "name": "Prienų lopšelis-darželis \"Pasaka\"",
     "code": "290213480",
     "address": "Prienai, F. Vaitkaus g. 4, LT-59113"
@@ -1519,11 +1509,6 @@
     "name": "Prienų r. Dzūkijos gimnazija",
     "code": "307400085",
     "address": "Prienų r. sav., Jieznas, Vytauto g. 42, LT-59427"
-  },
-  {
-    "name": "Prienų r. Pakuonio pagrindinė mokykla",
-    "code": "190189523",
-    "address": "Prienų r. sav., Pakuonis, Sodų g. 36, LT-59317"
   },
   {
     "name": "Prienų r. Suvalkijos gimnazija",
@@ -1652,11 +1637,6 @@
     "address": "Prienai, Laisvės a. 12, LT-59126"
   },
   {
-    "name": "Prienų rajono savivaldybės kūno kultūros ir sporto centras",
-    "code": "190203567",
-    "address": "Prienai, Pramonės g. 20, LT-59145"
-  },
-  {
     "name": "Prienų rajono savivaldybės priešgaisrinė tarnyba",
     "code": "170773823",
     "address": "Prienai, Statybininkų g. 6, LT-59131"
@@ -1706,6 +1686,11 @@
     "name": "Prienų rajono-Birštono diabeto klubas \"Versmė\"",
     "code": "190161189",
     "address": "Birštonas, Birutės g. 10A, LT-59217"
+  },
+  {
+    "name": "Prienų sporto centras",
+    "code": "190203567",
+    "address": "Prienai, Pramonės g. 20, LT-59145"
   },
   {
     "name": "Prienų stalo teniso klubas",
@@ -1948,7 +1933,8 @@
   {
     "name": "MB Prieskoninė",
     "code": "307071864",
-    "address": "Vilnius, Mindaugo g. 27-5, LT-03210"
+    "address": "Vilnius, Mindaugo g. 27-5, LT-03210",
+    "vatcode": "LT100018895816"
   },
   {
     "name": "UAB \"PRIESKONIUKAS\"",
@@ -2600,11 +2586,6 @@
     "address": "Klaipėda, Taikos pr. 135-31, LT-94251"
   },
   {
-    "name": "MB Privati priežiūra namuose",
-    "code": "306706182",
-    "address": "Mažeikiai, P. Vileišio g. 4-47, LT-89220"
-  },
-  {
     "name": "MB Statinių priežiūra ir koordinavimas",
     "code": "306307105",
     "address": "Klaipėda, Naujakiemio g. 6-113, LT-94188",
@@ -2800,11 +2781,6 @@
     "address": "Trakų r. sav., Trakų sen., Jovariškių k., Vėjo g. 37A, LT-21101"
   },
   {
-    "name": "UAB \"Virtuvių priežiūra\"",
-    "code": "305774159",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
-  },
-  {
     "name": "UAB Kompleksinė priežiūra",
     "code": "307043480",
     "address": "Kaunas, Elektrėnų g. 8N-87, LT-51221",
@@ -2946,12 +2922,6 @@
     "vatcode": "LT100011937110"
   },
   {
-    "name": "MB \"Namų priežiūros tarnyba\"",
-    "code": "305607480",
-    "address": "Kaunas, Kęstučio g. 27-108, LT-44312",
-    "vatcode": "LT100016931310"
-  },
-  {
     "name": "MB \"Orlaivių techninės priežiūros inžinerija\"",
     "code": "304501481",
     "address": "Kaunas, Kleboniškio g. 18-2, LT-44104"
@@ -2959,7 +2929,8 @@
   {
     "name": "MB \"Priežiūros sprendimai\"",
     "code": "306970883",
-    "address": "Vilnius, L. Giros g. 82-2, LT-06315"
+    "address": "Vilnius, L. Giros g. 82-2, LT-06315",
+    "vatcode": "LT100018854011"
   },
   {
     "name": "MB \"Statybų priežiūros paslaugos\"",
@@ -2984,7 +2955,7 @@
   {
     "name": "MB Langų priežiūros centras",
     "code": "305120405",
-    "address": "Panevėžio r. sav., Upytės sen., Ėriškių k., Palivarko g. 23, LT-38270"
+    "address": "Vilnius, Kuosų g. 9-R18, LT-10312"
   },
   {
     "name": "MB Partizanų automobilių priežiūros centras",
@@ -3117,6 +3088,12 @@
     "address": "Vilnius, Gedimino pr. 20, LT-01103"
   },
   {
+    "name": "UAB \"Namų priežiūros tarnyba\"",
+    "code": "305607480",
+    "address": "Kaunas, Kęstučio g. 27-108, LT-44312",
+    "vatcode": "LT100016931310"
+  },
+  {
     "name": "UAB \"Prekių priežiūros ir rinkodaros paslaugos\"",
     "code": "303203635",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
@@ -3228,11 +3205,6 @@
     "code": "259945310",
     "address": "Kauno r. sav., Vilkija, Bažnyčios g. 23, LT-54227",
     "vatcode": "LT599453113"
-  },
-  {
-    "name": "Viešoji įstaiga Alytaus miesto savivaldybės pirminės sveikatos priežiūros centras",
-    "code": "150066452",
-    "address": "Alytus, Jiezno g. 2, LT-62212"
   },
   {
     "name": "Viešoji įstaiga Alytaus rajono savivaldybės pirminės sveikatos priežiūros centras",

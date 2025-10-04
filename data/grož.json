@@ -40,6 +40,11 @@
     "address": "Kaunas, P. Vaičaičio g. 14A-2, LT-50285"
   },
   {
+    "name": "GROŽIO BALANSAS, MB",
+    "code": "307417234",
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+  },
+  {
     "name": "Grožio investicijos, MB",
     "code": "305851118",
     "address": "Vilnius, Bazilijonų g. 3-49, LT-01304"
@@ -105,11 +110,6 @@
     "name": "IĮ \"MEN Grožio salonas\"",
     "code": "302998860",
     "address": "Vilniaus r. sav., Bezdonys, Vėtrungės g. 8A, LT-15202"
-  },
-  {
-    "name": "IĮ Agnės grožio studija",
-    "code": "304315605",
-    "address": "Šiaulių r. sav., Gruzdžiai, Šiaulių g. 3-33, LT-81418"
   },
   {
     "name": "IĮ Animo Grožio Studija",
@@ -363,8 +363,7 @@
   {
     "name": "MB \"Grožio mada\"",
     "code": "305161583",
-    "address": "Klaipėda, Varpų g. 21-12, LT-94279",
-    "vatcode": "LT100012377813"
+    "address": "Klaipėda, Varpų g. 21-12, LT-94279"
   },
   {
     "name": "MB \"Grožio mineralas\"",
@@ -657,7 +656,8 @@
   {
     "name": "MB Artumo grožio namai",
     "code": "307159517",
-    "address": "Vilnius, Sniego g. 7-4, LT-02109"
+    "address": "Vilnius, Sniego g. 7-4, LT-02109",
+    "vatcode": "LT100018850715"
   },
   {
     "name": "MB As grožio klinika",
@@ -1061,11 +1061,6 @@
     "name": "MB grožio namai \"Tulasis\"",
     "code": "304182133",
     "address": "Klaipėda, I. Kanto g. 44-15, LT-92238"
-  },
-  {
-    "name": "MB grožio salonas \"Aurea\"",
-    "code": "303748863",
-    "address": "Panevėžys, Molainių g. 58-45, LT-37146"
   },
   {
     "name": "MB grožio studija \"Juodasis deimantas\"",
@@ -1905,11 +1900,6 @@
     "address": "Klaipėdos miesto savivaldybės teritorija"
   },
   {
-    "name": "MB \"Retas grožis\"",
-    "code": "303468911",
-    "address": "Kaunas, Linkuvos g. 55-512, LT-48327"
-  },
-  {
     "name": "MB \"Stiklo grožis\"",
     "code": "305179446",
     "address": "Vilniaus r. sav., Nemenčinės sen., Nemenčinės II k., Tvenkinio g. 1, LT-15165"
@@ -1995,6 +1985,11 @@
     "code": "304817853",
     "address": "Vilnius, S. Stanevičiaus g. 72-27, LT-07112",
     "vatcode": "LT100014465211"
+  },
+  {
+    "name": "Mažoji bendrija Širdal grožis",
+    "code": "307434130",
+    "address": "Vilnius, Švitrigailos g. 1-35, LT-03110"
   },
   {
     "name": "UAB \"Beribis grožis\"",

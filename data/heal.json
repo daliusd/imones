@@ -22,6 +22,11 @@
     "address": "Vilnius, Vilkpėdės g. 9-97, LT-03157"
   },
   {
+    "name": "MB Total healing",
+    "code": "307424517",
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+  },
+  {
     "name": "UAB Healing art",
     "code": "306369701",
     "address": "Vilnius, Perkūnkiemio g. 49-61, LT-12144",
@@ -79,8 +84,7 @@
   {
     "name": "MB \"2AM Health\"",
     "code": "305858098",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
-    "vatcode": "LT100014404512"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "MB European Health and Medical Consultants EHMC",
@@ -214,7 +218,8 @@
   {
     "name": "UAB AIM Health",
     "code": "307399925",
-    "address": "Vilnius, Kviečių g. 2-107, LT-08418"
+    "address": "Vilnius, Kviečių g. 2-107, LT-08418",
+    "vatcode": "LT100018851410"
   },
   {
     "name": "UAB Amia Health",
@@ -372,11 +377,6 @@
     "address": "Klaipėda, Liepų g. 64, LT-92101"
   },
   {
-    "name": "UAB Healtho",
-    "code": "306437611",
-    "address": "Vilnius, Deltuvos g. 31-19, LT-08100"
-  },
-  {
     "name": "MB \"Healthy Habit LT\"",
     "code": "305950002",
     "address": "Kaunas, Kleboniškio g. 18-2, LT-44104"
@@ -424,10 +424,5 @@
     "code": "303454922",
     "address": "Vilnius, J. Jasinskio g. 16B, LT-03163",
     "vatcode": "LT100009179911"
-  },
-  {
-    "name": "UAB Healthy spread",
-    "code": "305718908",
-    "address": "Vilnius, Žirmūnų g. 131-6, LT-09120"
   }
 ]
