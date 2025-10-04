@@ -39,17 +39,13 @@
   {
     "name": "UAB KSBD GRUP",
     "code": "307180618",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100018860218"
   },
   {
     "name": "UUAB \"RDV grup\" filialas",
     "code": "300536816",
     "address": "Kaunas, Raudondvario pl. 164, LT-47173"
-  },
-  {
-    "name": "UAB \"Grupas\"",
-    "code": "304774487",
-    "address": "Kaunas, Maironio g. 6-1, LT-44302"
   },
   {
     "name": "MB Ps grupe",
@@ -214,7 +210,8 @@
   {
     "name": "MB Gelingen gruppe",
     "code": "306110022",
-    "address": "Klaipėda, Kretingos g. 27-19, LT-92301"
+    "address": "Klaipėda, Kretingos g. 27-19, LT-92301",
+    "vatcode": "LT100018862113"
   },
   {
     "name": "UAB EURO TRANS GRUPPE",
@@ -263,8 +260,7 @@
   {
     "name": "\"Elito maisto grupė\", UAB",
     "code": "304998994",
-    "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Pušų g. 5, LT-14266",
-    "vatcode": "LT100012460310"
+    "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Pušų g. 5, LT-14266"
   },
   {
     "name": "\"GG Grupė\", UAB",
@@ -428,14 +424,14 @@
     "address": "Naujoji Akmenė, V. Kudirkos g. 27, LT-85145"
   },
   {
+    "name": "Alytaus asmenų su negalia savitarpio pagalbos savanorių grupė \"Gaja\"",
+    "code": "150093296",
+    "address": "Alytus, Pulko g. 80-12, LT-62133"
+  },
+  {
     "name": "Alytaus miesto vietos veiklos grupė",
     "code": "304045184",
     "address": "Alytus, Rotušės a. 4, LT-62141"
-  },
-  {
-    "name": "Alytaus neįgaliųjų savitarpio pagalbos savanorių grupė \"Gaja\"",
-    "code": "150093296",
-    "address": "Alytus, Žuvinto g. 7-2, LT-62351"
   },
   {
     "name": "Alytaus rajono vietos veiklos grupė",
@@ -596,11 +592,6 @@
     "name": "Druskininkų vietos veiklos grupė",
     "code": "302297973",
     "address": "Druskininkai, Vilniaus al. 18, LT-66119"
-  },
-  {
-    "name": "Eismo inovacijų grupė, VšĮ",
-    "code": "305623431",
-    "address": "Kaunas, J. I. Kraševskio g. 22A, LT-50281"
   },
   {
     "name": "Elektrėnų miesto vietos veiklos grupė",
@@ -1202,6 +1193,12 @@
     "address": "Klaipėda, Vytauto g. 16-21, LT-92133"
   },
   {
+    "name": "MB \"Menų grupė\"",
+    "code": "304292786",
+    "address": "Prienų r. sav., Stakliškių sen., Vyšniūnų k., Šermukšnių g. 5, LT-59403",
+    "vatcode": "LT100017162214"
+  },
+  {
     "name": "MB \"Mido verslo grupė\"",
     "code": "304030652",
     "address": "Kretinga, Topolių aklg. 1-16, LT-97115"
@@ -1801,12 +1798,6 @@
     "address": "Vilnius, Jonažolių g. 9, LT-04139"
   },
   {
-    "name": "MB Statybininkų grupė",
-    "code": "306018773",
-    "address": "Kaunas, J. Tūbelio g. 12A, LT-47492",
-    "vatcode": "LT100015167719"
-  },
-  {
     "name": "MB Statybos projektų grupė",
     "code": "305931646",
     "address": "Kauno r. sav., Ringaudų sen., Virbališkių k., Lakštingalų g. 27, LT-53458",
@@ -1842,7 +1833,8 @@
   {
     "name": "MB Uno grupė",
     "code": "305038050",
-    "address": "Vilnius, Lūkesčių g. 32, LT-04125"
+    "address": "Vilnius, Lūkesčių g. 32, LT-04125",
+    "vatcode": "LT100018946915"
   },
   {
     "name": "MB Vizualizacijų grupė",
@@ -2435,7 +2427,7 @@
   {
     "name": "UAB \"Apskaitos ir finansų grupė\"",
     "code": "302504977",
-    "address": "Alytus, Statybininkų g. 32-35, LT-63418"
+    "address": "Alytaus r. sav., Daugų sen., Kančėnų k., Dusmenų g. 21, LT-64133"
   },
   {
     "name": "UAB \"Argeanos grupė\"",
@@ -2537,11 +2529,6 @@
     "name": "UAB \"Avipos grupė\"",
     "code": "302295399",
     "address": "Klaipėda, Alytaus g. 19, LT-92308"
-  },
-  {
-    "name": "UAB \"Azijos ramioji grupė LT\"",
-    "code": "305907111",
-    "address": "Vilnius, Girulių g. 5, LT-12124"
   },
   {
     "name": "UAB \"Azijos verslo grupė\"",
@@ -2672,7 +2659,7 @@
   {
     "name": "UAB \"Boros grupė\"",
     "code": "304891864",
-    "address": "Vilnius, Tuskulėnų g. 28-3, LT-09211",
+    "address": "Vilnius, M. K. Paco g. 4, LT-10309",
     "vatcode": "LT100011847919"
   },
   {
@@ -3859,7 +3846,7 @@
   {
     "name": "UAB \"Pamario grupė\"",
     "code": "302310805",
-    "address": "Klaipėda, Dovo Zauniaus g. 53-34, LT-92349",
+    "address": "Klaipėdos r. sav., Sendvario sen., Kalnuvėnų k., Kaukėnų g. 12, LT-92321",
     "vatcode": "LT100004592917"
   },
   {
@@ -3996,7 +3983,7 @@
   {
     "name": "UAB \"RD GRUPĖ\"",
     "code": "302546588",
-    "address": "Kaunas, Vasarvietės g. 19A, LT-44105",
+    "address": "Kaunas, Savanorių pr. 290, LT-49473",
     "vatcode": "LT100005622413"
   },
   {
@@ -4020,11 +4007,6 @@
     "name": "UAB \"RM grupė\"",
     "code": "304536354",
     "address": "Ukmergė, Vytauto g. 61-14, LT-20112"
-  },
-  {
-    "name": "UAB \"RT grupė\"",
-    "code": "305683745",
-    "address": "Vilnius, Kernavės g. 70-2, LT-08216"
   },
   {
     "name": "UAB \"RTA grupė\"",
@@ -4075,12 +4057,6 @@
     "name": "UAB \"Rimvelos Ūkio Grupė\"",
     "code": "302790101",
     "address": "Vilnius, S. Žukausko g. 4-95, LT-08244"
-  },
-  {
-    "name": "UAB \"Rypo grupė\"",
-    "code": "304923582",
-    "address": "Kaunas, Kęstučio g. 37-14, LT-44307",
-    "vatcode": "LT100011910210"
   },
   {
     "name": "UAB \"SAULĖS PARKŲ VYSTYMO GRUPĖ\"",
@@ -4245,11 +4221,6 @@
     "vatcode": "LT100017344915"
   },
   {
-    "name": "UAB \"Spaustuvių grupė\"",
-    "code": "305764599",
-    "address": "Vilnius, Švitrigailos g. 11G-100, LT-03228"
-  },
-  {
     "name": "UAB \"Sporto grupė\"",
     "code": "304209858",
     "address": "Panevėžys, Bijūnų g. 121-4, LT-37458"
@@ -4268,7 +4239,7 @@
   {
     "name": "UAB \"Sporto vystymo grupė\"",
     "code": "126182116",
-    "address": "Vilnius, Neužmirštuolių g. 2-24, LT-04123"
+    "address": "Vilnius, Kirtimų g. 47B, LT-02244"
   },
   {
     "name": "UAB \"Sprendimų valdymo grupė\"",
@@ -4280,6 +4251,12 @@
     "code": "303832432",
     "address": "Vilniaus r. sav., Juodšilių sen., Valčiūnų k., Draugystės g. 42, LT-13220",
     "vatcode": "LT100009318317"
+  },
+  {
+    "name": "UAB \"Statybininkų grupė\"",
+    "code": "306018773",
+    "address": "Kaunas, J. Tūbelio g. 12A, LT-47492",
+    "vatcode": "LT100015167719"
   },
   {
     "name": "UAB \"Statybos projektų valdymo grupė\"",
@@ -4548,6 +4525,11 @@
     "vatcode": "LT100001323511"
   },
   {
+    "name": "UAB \"Velo grupė\"",
+    "code": "307448105",
+    "address": "Vilnius, Metalo g. 19A, LT-02190"
+  },
+  {
     "name": "UAB \"Verslo Partnerių Grupė\"",
     "code": "302582673",
     "address": "Vilnius, Saltoniškių g. 54-64, LT-08106",
@@ -4660,6 +4642,11 @@
     "address": "Kaunas, Medvėgalio g. 31-14, LT-44454"
   },
   {
+    "name": "UAB \"Įmonių turgaus grupė\"",
+    "code": "307437055",
+    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+  },
+  {
     "name": "UAB \"Šiaurės miškų grupė\"",
     "code": "304773008",
     "address": "Panevėžys, A. Baranausko g. 19, LT-37459"
@@ -4697,11 +4684,6 @@
     "code": "304003356",
     "address": "Kaunas, Simno g. 9, LT-46365",
     "vatcode": "LT100017674310"
-  },
-  {
-    "name": "UAB AP Statybos Grupė",
-    "code": "306021520",
-    "address": "Vilnius, Krokuvos g. 53-3, LT-09306"
   },
   {
     "name": "UAB ARD Grupė",
@@ -4762,11 +4744,6 @@
     "code": "304718531",
     "address": "Vilnius, Gurių Sodų 23-ioji g. 5, LT-11316",
     "vatcode": "LT100012039613"
-  },
-  {
-    "name": "UAB Big 7 grupė",
-    "code": "305716177",
-    "address": "Kauno miesto savivaldybės teritorija"
   },
   {
     "name": "UAB Biotechnologijos grupė",
@@ -5152,8 +5129,7 @@
   {
     "name": "UAB RGJ Grupė",
     "code": "305839087",
-    "address": "Radviliškis, Dariaus ir Girėno g. 103A, LT-82141",
-    "vatcode": "LT100015998114"
+    "address": "Radviliškis, Dariaus ir Girėno g. 103A, LT-82141"
   },
   {
     "name": "UAB RIKO grupė",
@@ -5432,11 +5408,6 @@
     "vatcode": "LT100002233911"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Baltijos biznio grupė\"",
-    "code": "132874471",
-    "address": "Kaunas, P. Plechavičiaus g. 27-22, LT-49209"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Baltijos paslaugų grupė\"",
     "code": "302529507",
     "address": "Kretinga, Palangos g. 30C, LT-97123",
@@ -5462,7 +5433,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"FINANSININKŲ GRUPĖ\"",
     "code": "124944233",
-    "address": "Vilnius, Verkių g. 25C-1, LT-08223",
+    "address": "Vilnius, Ukmergės g. 369A, LT-12142",
     "vatcode": "LT249442314"
   },
   {
@@ -5944,11 +5915,6 @@
     "address": "Zarasai, Aukštaičių g. 4, LT-32107"
   },
   {
-    "name": "Įmonių grupė \"ALITA\", AB",
-    "code": "302444238",
-    "address": "Alytus, Miškininkų g. 17, LT-62200"
-  },
-  {
     "name": "Šakių krašto vietos veiklos grupė",
     "code": "300589612",
     "address": "Šakiai, Bažnyčios g. 4 K1, LT-71115"
@@ -6051,7 +6017,7 @@
   {
     "name": "109-oji I-os grupės garažų eksploatavimo bendrija Radviliškio g.",
     "code": "145493919",
-    "address": "Šiauliai, Radviliškio g."
+    "address": "Šiauliai, Užmiesčio g. 29, LT-76273"
   },
   {
     "name": "5 FCI Grupės klubas",

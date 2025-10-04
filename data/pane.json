@@ -160,6 +160,11 @@
     "address": "Rokiškio r. sav., Panemunėlio sen., Panemunėlio glž. st., Stoties g. 4, LT-42325"
   },
   {
+    "name": "\"Panemunės Keliai\"",
+    "code": "307414576",
+    "address": "Kauno r. sav., Vilkija, Vydūno al. 12-5, LT-54229"
+  },
+  {
     "name": "Alytaus Panemunės progimnazija",
     "code": "191056771",
     "address": "Alytus, A. Jonyno g. 10, LT-62372"
@@ -225,11 +230,6 @@
     "address": "Pagėgių sav., Pagėgių sen., Panemunės m., Mokyklos g. 20A, LT-99274"
   },
   {
-    "name": "Panemunės kelio bendruomenė",
-    "code": "305688817",
-    "address": "Jurbarko r. sav., Skirsnemunės sen., Pilies I k., Vytėnų g. 43, LT-74464"
-  },
-  {
     "name": "Panemunės pienas, UAB",
     "code": "306242807",
     "address": "Jurbarko r. sav., Jurbarkų sen., Klišių k., Vytauto Didžiojo g. 101, LT-74196",
@@ -289,8 +289,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Panemunės pušaitė\"",
     "code": "134004177",
-    "address": "Kaunas, S. Žukausko g. 33-5, LT-49249",
-    "vatcode": "LT340041716"
+    "address": "Kaunas, S. Žukausko g. 33-5, LT-49249"
   },
   {
     "name": "Viešoji įstaiga \"Žemosios Panemunės dvaras\"",
@@ -376,11 +375,6 @@
     "code": "302530057",
     "address": "Vilnius, Kareivių g. 11B, LT-09133",
     "vatcode": "LT100006842719"
-  },
-  {
-    "name": "AB \"LIETUVOS GELEŽINKELIAI\" PANERIŲ STOTIES DARBUOTOJŲ PROFESINĖ SĄJUNGA",
-    "code": "125535556",
-    "address": "Vilnius, Agrastų g. 5, LT-02243"
   },
   {
     "name": "Bendruomenė \"Aukštųjų Panerių viltis\"",
@@ -672,11 +666,6 @@
     "name": "Lietuvos ir Prancūzijos asociacijos Panevėžio skyrius",
     "code": "191565551",
     "address": "Panevėžys, Klaipėdos g. 3, LT-35199"
-  },
-  {
-    "name": "Lietuvos judėjimas \"Černobylis\" Panevėžio miesto ir rajono komitetas",
-    "code": "193437753",
-    "address": "Panevėžys, Utenos g. 25-3"
   },
   {
     "name": "Lietuvos kariuomenės kūrėjų savanorių sąjungos karaliaus Mindaugo Panevėžio apskrities skyrius",
@@ -1193,11 +1182,6 @@
     "name": "Panevėžio airsoft klubas",
     "code": "305826595",
     "address": "Panevėžys, Beržų g. 21-56, LT-36215"
-  },
-  {
-    "name": "Panevėžio aklųjų ir silpnaregių vaikų globos bendrija \"Žvilgsnis\"",
-    "code": "191565932",
-    "address": "Panevėžys, Staniūnų g. 66, LT-36142"
   },
   {
     "name": "Panevėžio apskaitos centras",
@@ -2952,12 +2936,6 @@
     "vatcode": "LT100008136912"
   },
   {
-    "name": "UAB \"Panevėžio odontologai\"",
-    "code": "147894736",
-    "address": "Panevėžys, Laisvės a. 16, LT-35200",
-    "vatcode": "LT478947314"
-  },
-  {
     "name": "UAB \"Panevėžio projektas\"",
     "code": "147684531",
     "address": "Panevėžys, Smėlynės g. 2C, LT-35143",
@@ -3255,11 +3233,6 @@
     "address": "Rokiškis, Jūžintų g. 3, LT-42150"
   },
   {
-    "name": "Valstybės įmonės Valstybinio žemėtvarkos instituto Panevėžio filialo darbuotojų profesinė sąjunga",
-    "code": "148329825",
-    "address": "Panevėžys, Respublikos g. 63, LT-35159"
-  },
-  {
     "name": "Viešoji įstaiga \"PANEVĖŽIO PYNIMĖLIS\"",
     "code": "148245487",
     "address": "Panevėžys, V. Alanto g. 17B, LT-36249"
@@ -3431,11 +3404,6 @@
     "address": "Panevėžys, Upytės g. 3, LT-35248"
   },
   {
-    "name": "VšĮ Respublikinės Panevėžio ligoninės darbuotojų profesinė sąjunga",
-    "code": "304062358",
-    "address": "Panevėžio r. sav., Velžio sen., Staniūnų k., Dvaro g. 3, LT-38121"
-  },
-  {
     "name": "Šiaulių regioninio valstybės archyvo Panevėžio filialas",
     "code": "304440110",
     "address": "Panevėžys, M. Valančiaus g. 3, LT-35168"
@@ -3575,7 +3543,8 @@
   {
     "name": "Viešoji įstaiga Futbolo klubas \"PANEVĖŽYS\"",
     "code": "303686874",
-    "address": "Panevėžys, Elektronikos g. 12-1, LT-35116"
+    "address": "Panevėžys, Elektronikos g. 12-1, LT-35116",
+    "vatcode": "LT100018925317"
   },
   {
     "name": "Viešoji įstaiga futbolo akademija \"Panevėžys\"",

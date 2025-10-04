@@ -176,11 +176,6 @@
     "address": "Vilnius, Lvivo g. 25-702, LT-09320"
   },
   {
-    "name": "BILOND HOLDING, UAB",
-    "code": "305704659",
-    "address": "Vilnius, Gynėjų g. 14-65, LT-01109"
-  },
-  {
     "name": "BIOVELA HOLDING, UAB",
     "code": "302809402",
     "address": "Vilnius, Viršuliškių skg. 34-1, LT-05132",
@@ -215,7 +210,8 @@
   {
     "name": "Biomapas Holding UAB",
     "code": "307018648",
-    "address": "Kaunas, K. Donelaičio g. 60, LT-44248"
+    "address": "Kaunas, K. Donelaičio g. 60, LT-44248",
+    "vatcode": "LT100018882219"
   },
   {
     "name": "CUBE Holding, UAB",
@@ -296,11 +292,6 @@
     "name": "Estilita Holding, UAB",
     "code": "307076270",
     "address": "Vilnius, Šaltupio g. 9C, LT-02300"
-  },
-  {
-    "name": "Eurofins Food Testing Baltics Holding UAB",
-    "code": "306465183",
-    "address": "Vilnius, Kauno g. 1A, LT-01314"
   },
   {
     "name": "Exacaster Holding UAB",
@@ -487,8 +478,7 @@
   {
     "name": "MB \"Personnel Solutions Holding\"",
     "code": "307081004",
-    "address": "Vilnius, Latvių g. 38-17, LT-08113",
-    "vatcode": "LT100017584816"
+    "address": "Vilnius, Latvių g. 38-17, LT-08113"
   },
   {
     "name": "MB \"Pro holding\"",
@@ -505,6 +495,11 @@
     "name": "MB 609 holding",
     "code": "306404757",
     "address": "Kauno r. sav., Domeikavos sen., Varluvos k., Žemygalos g. 6, LT-54341"
+  },
+  {
+    "name": "MB Jm Holding",
+    "code": "307436989",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "MB R1M Holding",
@@ -556,7 +551,8 @@
   {
     "name": "NAVA Holding, UAB",
     "code": "307050158",
-    "address": "Marijampolė, V. Kudirkos g. 24, LT-68306"
+    "address": "Marijampolė, V. Kudirkos g. 24, LT-68306",
+    "vatcode": "LT100018902610"
   },
   {
     "name": "NC Holding UAB",
@@ -590,6 +586,12 @@
     "name": "Nordicon Holding, UAB",
     "code": "307130896",
     "address": "Klaipėda, Austėjos g. 1B-6, LT-92350"
+  },
+  {
+    "name": "OKI Holding UAB",
+    "code": "305376739",
+    "address": "Vilnius, Lvivo g. 21A, LT-09313",
+    "vatcode": "LT100014365911"
   },
   {
     "name": "OP Holding, UAB",
@@ -849,6 +851,11 @@
     "vatcode": "LT100015186119"
   },
   {
+    "name": "UAB \"GLL Holding\"",
+    "code": "307440254",
+    "address": "Vilnius, Kalvarijų g. 137D-28, LT-08248"
+  },
+  {
     "name": "UAB \"Global Baltik Holding\"",
     "code": "306141459",
     "address": "Vilnius, Žirmūnų g. 57-50, LT-09110"
@@ -1066,11 +1073,6 @@
     "vatcode": "LT100017420319"
   },
   {
-    "name": "UAB \"Precise holding\"",
-    "code": "305709574",
-    "address": "Vilnius, Upės g. 23-1, LT-08128"
-  },
-  {
     "name": "UAB \"RC Holding\"",
     "code": "302864249",
     "address": "Vilnius, Islandijos g. 6, LT-01117"
@@ -1192,7 +1194,8 @@
   {
     "name": "UAB \"Trust Project Services Holding\"",
     "code": "304835997",
-    "address": "Klaipėda, Dubysos g. 58C-6, LT-94107"
+    "address": "Klaipėda, Dubysos g. 58C-6, LT-94107",
+    "vatcode": "LT100018902217"
   },
   {
     "name": "UAB \"Urban Investment Holding\"",
@@ -1279,6 +1282,11 @@
     "address": "Vilnius, Vinco Kudirkos g. 22-12, LT-01113"
   },
   {
+    "name": "UAB DAM holding",
+    "code": "307436220",
+    "address": "Vilnius, Kalvarijų Sodų 8-oji g. 9, LT-08315"
+  },
+  {
     "name": "UAB Darius Zubas Holding",
     "code": "305363909",
     "address": "Vilnius, Subačiaus g. 5, LT-01302"
@@ -1288,6 +1296,11 @@
     "code": "306166277",
     "address": "Vilnius, Konstitucijos pr. 21C, LT-08105",
     "vatcode": "LT100015886518"
+  },
+  {
+    "name": "UAB ELITAZ holding",
+    "code": "307044479",
+    "address": "Vilnius, Aukštaičių g. 5-170, LT-11341"
   },
   {
     "name": "UAB EURASIA HOLDING PVT",
@@ -1467,6 +1480,11 @@
     "address": "Skuodas, Vilniaus g. 38-21, LT-98118"
   },
   {
+    "name": "UAB N.E.V HOLDING",
+    "code": "307418076",
+    "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105"
+  },
+  {
     "name": "UAB NATIVO Holding",
     "code": "306951114",
     "address": "Vilnius, Antano Tumėno g. 4, LT-01109"
@@ -1495,7 +1513,8 @@
   {
     "name": "UAB Padriezai Holding",
     "code": "306296089",
-    "address": "Neringa, G. D. Kuverto g. 9-15, LT-93124"
+    "address": "Neringa, G. D. Kuverto g. 9-15, LT-93124",
+    "vatcode": "LT100018897116"
   },
   {
     "name": "UAB Phasianus Holding",
@@ -1570,7 +1589,8 @@
   {
     "name": "UAB Tabe Holding",
     "code": "303336087",
-    "address": "Jonava, Vytauto g. 6, LT-55175"
+    "address": "Kaunas, Savanorių pr. 196-10, LT-50186",
+    "vatcode": "LT100008830211"
   },
   {
     "name": "UAB Talut holding",
@@ -1713,9 +1733,15 @@
     "vatcode": "LT100018126819"
   },
   {
+    "name": "MB LDK holdingas",
+    "code": "307449680",
+    "address": "Vilnius, Savanorių pr. 6A-68, LT-03116"
+  },
+  {
     "name": "Sb holdingas UAB",
     "code": "305820628",
-    "address": "Kaunas, Savanorių pr. 314A-1, LT-49452"
+    "address": "Kaunas, Savanorių pr. 314A-1, LT-49452",
+    "vatcode": "LT100018883217"
   },
   {
     "name": "UAB \"AAA HOLDINGAS\"",
@@ -2081,6 +2107,11 @@
     "address": "Vilnius, Girulių g. 10, LT-12112"
   },
   {
+    "name": "MB Silent horizon advisory and holdings",
+    "code": "307440539",
+    "address": "Klaipėda, Malūnininkų g. 2-32, LT-92248"
+  },
+  {
     "name": "Mudrex TR Holdings UAB",
     "code": "306070243",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -2111,12 +2142,6 @@
     "name": "Revolut Holdings Europe UAB",
     "code": "305820090",
     "address": "Vilnius, Konstitucijos pr. 21B, LT-08105"
-  },
-  {
-    "name": "SKV Holdings, UAB",
-    "code": "305376739",
-    "address": "Vilnius, Lvivo g. 25-702, LT-09320",
-    "vatcode": "LT100014365911"
   },
   {
     "name": "ST Holdings UAB",
@@ -2313,15 +2338,14 @@
     "address": "Kaunas, S. Daukanto g. 17-2A, LT-44305"
   },
   {
+    "name": "UAB Antero Holdings",
+    "code": "307418101",
+    "address": "Vilnius, Konstitucijos pr. 7, LT-09308"
+  },
+  {
     "name": "UAB Arden Holdings",
     "code": "305730166",
     "address": "Kaunas, V. Krėvės pr. 77-47, LT-50360"
-  },
-  {
-    "name": "UAB BBN Cargo Airlines Holdings",
-    "code": "305903305",
-    "address": "Klaipėda, Baltijos pr. 123-48, LT-93224",
-    "vatcode": "LT100014435714"
   },
   {
     "name": "UAB Blue Ant Holdings",

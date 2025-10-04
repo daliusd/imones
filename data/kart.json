@@ -81,11 +81,6 @@
     "address": "Vilnius, Visorių g. 16-67, LT-08300"
   },
   {
-    "name": "VšĮ \"Kart fanai\"",
-    "code": "302582933",
-    "address": "Šiauliai, K. Korsako g. 20-15, LT-78369"
-  },
-  {
     "name": "VšĮ Baltic Kart",
     "code": "303028698",
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
@@ -296,12 +291,13 @@
   {
     "name": "MB \"Kartalina\"",
     "code": "304863861",
-    "address": "Alytus, Naujoji g. 54-19, LT-62382"
+    "address": "Alytaus m. sav."
   },
   {
     "name": "UAB \"Kartalis\"",
     "code": "306029830",
-    "address": "Vilnius, J. Franko g. 16-13, LT-08431"
+    "address": "Vilnius, J. Franko g. 16-13, LT-08431",
+    "vatcode": "LT100018848814"
   },
   {
     "name": "UAB \"Kartalli\"",
@@ -834,6 +830,11 @@
     "vatcode": "LT100013849714"
   },
   {
+    "name": "MB \"Dirbam kartu\"",
+    "code": "307448087",
+    "address": "Kaunas, Siūlų g. 5-2, LT-45196"
+  },
+  {
     "name": "MB \"Dirbk kartu\"",
     "code": "305808330",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -889,7 +890,7 @@
   {
     "name": "MB Kartu su saule",
     "code": "306188213",
-    "address": "Vilnius, Antakalnio g. 55-9, LT-10325"
+    "address": "Vilniaus r. sav., Riešės sen., Asiūklės vs., Asiūklės g. 4, LT-14256"
   },
   {
     "name": "MB Likime kartu",
@@ -901,6 +902,12 @@
     "name": "MB Menas kartu",
     "code": "305669126",
     "address": "Vilniaus r. sav., Avižienių sen., Lindiniškių k., Vijoklių g. 21B, LT-14181"
+  },
+  {
+    "name": "MB Saldžiai Kartu",
+    "code": "307414754",
+    "address": "Alytus, Pramonės g. 31C, LT-62175",
+    "vatcode": "LT100018883812"
   },
   {
     "name": "MB Tvaru kartu",

@@ -48,11 +48,6 @@
     "vatcode": "LT100014418310"
   },
   {
-    "name": "IĮ \"El Amal\"",
-    "code": "305809350",
-    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Centrinė g. 2B, LT-54464"
-  },
-  {
     "name": "IĮ \"El. ranga\"",
     "code": "303917007",
     "address": "Vilkaviškio r. sav., Keturvalakiai, Tūrupio g. 4, LT-70321"
@@ -83,6 +78,11 @@
     "name": "MB \"El. kontaktas\"",
     "code": "304400443",
     "address": "Kaunas, S. Žukausko g. 27-32, LT-49250"
+  },
+  {
+    "name": "MB Aivaro el prekyba",
+    "code": "307435008",
+    "address": "Vilnius, A. Kojelavičiaus g. 60-5, LT-11102"
   },
   {
     "name": "MB EL ARM EL",
@@ -145,7 +145,8 @@
   {
     "name": "Mažoji bendrija El pablo",
     "code": "306068915",
-    "address": "Utenos r. sav., Sudeikiai, Klevų g. 15, LT-28405"
+    "address": "Utenos r. sav., Sudeikiai, Klevų g. 15, LT-28405",
+    "vatcode": "LT100018949819"
   },
   {
     "name": "OOO \"EL PI\" atstovybė Lietuvoje",

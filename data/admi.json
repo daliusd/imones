@@ -48,6 +48,12 @@
     "address": "Vilnius, Kalvarijų g. 198-36, LT-08201"
   },
   {
+    "name": "Admin pro, MB",
+    "code": "307422295",
+    "address": "Kaunas, Laisvės al. 21, LT-44311",
+    "vatcode": "LT100018961616"
+  },
+  {
     "name": "Eisfeld Admin UAB",
     "code": "306968003",
     "address": "Vilnius, Konstitucijos pr. 21A, LT-08105"
@@ -260,7 +266,8 @@
   {
     "name": "Klaipėdos miesto savivaldybės administracija",
     "code": "188710823",
-    "address": "Klaipėda, Liepų g. 11, LT-92138"
+    "address": "Klaipėda, Liepų g. 11, LT-92138",
+    "vatcode": "LT887108219"
   },
   {
     "name": "Klaipėdos rajono savivaldybės administracija",
@@ -1319,7 +1326,7 @@
   {
     "name": "Kelmės rajono savivaldybės administracijos Užvenčio seniūnija",
     "code": "188648019",
-    "address": "Kelmės r. sav., Užventis, Kražių g. 11, LT-86345"
+    "address": "Kelmės r. sav., Užventis, P. Višinskio g. 10, LT-86343"
   },
   {
     "name": "Kelmės rajono savivaldybės administracijos Vaiguvos seniūnija",
@@ -1604,7 +1611,7 @@
   {
     "name": "Marijampolės savivaldybės administracijos Liudvinavo seniūnija",
     "code": "188620774",
-    "address": "Marijampolės sav., Liudvinavas, Liepų g. 22, LT-69171"
+    "address": "Marijampolės sav., Liudvinavas, Vytauto g. 6, LT-69170"
   },
   {
     "name": "Marijampolės savivaldybės administracijos Marijampolės miesto seniūnija",
@@ -1795,11 +1802,6 @@
     "name": "Pakruojo rajono savivaldybės administracijos Rozalimo seniūnija",
     "code": "188693975",
     "address": "Pakruojo r. sav., Rozalimas, Sodžiaus g. 2A, LT-83247"
-  },
-  {
-    "name": "Pakruojo rajono savivaldybės administracijos darbuotojų profesinė sąjunga",
-    "code": "303994516",
-    "address": "Pakruojis, P. Mašioto g. 9-8, LT-83143"
   },
   {
     "name": "Pakruojo rajono savivaldybės administracijos Žeimelio seniūnija",
@@ -3615,6 +3617,11 @@
     "address": "Klaipėda, Baltijos pr. 99-22, LT-94116"
   },
   {
+    "name": "MB \"Paramų administravimas\"",
+    "code": "307429037",
+    "address": "Vilnius, Joneikiškių g. 30, LT-14287"
+  },
+  {
     "name": "MB \"Personalo administravimas\"",
     "code": "304396048",
     "address": "Vilniaus r. sav., Bezdonys, Miško g. 4A, LT-15202"
@@ -3633,7 +3640,7 @@
   {
     "name": "MB \"Įmonių administravimas\"",
     "code": "304295768",
-    "address": "Kaunas, Gailutės g. 47, LT-45323"
+    "address": "Kauno m. sav."
   },
   {
     "name": "MB Projektų administravimas",
@@ -3681,11 +3688,6 @@
     "name": "UAB \"Komunalinis administravimas\"",
     "code": "300501726",
     "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Italų g. 18, LT-92359"
-  },
-  {
-    "name": "UAB \"Mažasis administravimas\"",
-    "code": "305567947",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
     "name": "UAB \"NT Administravimas\"",
@@ -3755,6 +3757,11 @@
     "code": "305438475",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
     "vatcode": "LT100013496014"
+  },
+  {
+    "name": "UAB Statyba ir administravimas",
+    "code": "307448475",
+    "address": "Kretingos r. sav., Žalgirio sen., Jokūbavo k., Klaipėdos g. 4A, LT-97210"
   },
   {
     "name": "Asociacija \"Viešojo administravimo akademinis centras\"",

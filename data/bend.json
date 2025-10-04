@@ -965,11 +965,6 @@
     "address": "Klaipėda, Minijos g. 180, LT-93269"
   },
   {
-    "name": "Bendros Lietuvos ir Vokietijos įmonės UAB \"Eternit Akmenė\" darbininkų sąjunga",
-    "code": "153245460",
-    "address": "Naujoji Akmenė, J. Dalinkevičiaus g. 2, LT-85118"
-  },
-  {
     "name": "Bendros Lietuvos ir Vokietijos įmonės uždarosios akcinės bendrovės \"MONDUS\" Kėdainių filialas",
     "code": "110762861",
     "address": "Kėdainiai, J. Basanavičiaus g. 51, LT-57283"
@@ -1120,6 +1115,11 @@
     "name": "Viešoji įstaiga Kelmės rajono bendrosios praktikos gydytojų centras",
     "code": "262771930",
     "address": "Kelmė, A. Mackevičiaus g. 10, LT-86135"
+  },
+  {
+    "name": "UAB \"Bendrosta\"",
+    "code": "307447569",
+    "address": "Kretingos r. sav., Žalgirio sen., Jokūbavo k., Klaipėdos g. 4A, LT-97210"
   },
   {
     "name": "Bendrovių ir institucijų teisininkų asociacija",
@@ -1861,11 +1861,6 @@
     "name": "GYVENTOJŲ BENDRUOMENĖS CENTRAS \"ŠUOJA\"",
     "code": "168969035",
     "address": "Panevėžio r. sav., Smilgių sen., Vanaginės k."
-  },
-  {
-    "name": "Garliavos bendruomenės centras \"Gaida\"",
-    "code": "300569271",
-    "address": "Kauno r. sav., Garliava, Liepų g. 17, LT-53239"
   },
   {
     "name": "Garliavos kaimiškos bendruomenės centras",
@@ -2787,8 +2782,7 @@
   },
   {
     "name": "Sintautų bendruomenės labdaros ir paramos fondas",
-    "code": "300037336",
-    "address": "Šakių r. sav., Sintautai, P. Vaičaičio g. 34-2, LT-71336"
+    "code": "300037336"
   },
   {
     "name": "Sirutiškio bendruomenės centras",
@@ -3491,7 +3485,8 @@
   {
     "name": "MB Bendway",
     "code": "307083311",
-    "address": "Vilnius, Girulių g. 10, LT-12112"
+    "address": "Vilnius, Girulių g. 10, LT-12112",
+    "vatcode": "LT100018849711"
   },
   {
     "name": "D. Bendžienės prekybos įmonė",

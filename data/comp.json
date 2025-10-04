@@ -184,6 +184,11 @@
     "address": "Vilnius, Upės g. 23, LT-08128"
   },
   {
+    "name": "Baltic Tower Company, UAB",
+    "code": "307415094",
+    "address": "Vilnius, Upės g. 23-1, LT-08128"
+  },
+  {
     "name": "Baltic building company, MB",
     "code": "306718882",
     "address": "Klaipėda, Tauralaukio g. 10C, LT-92347",
@@ -217,7 +222,8 @@
   {
     "name": "Easy company, MB",
     "code": "307180358",
-    "address": "Vilnius, Skroblų g. 12-54, LT-03142"
+    "address": "Vilnius, Skroblų g. 12-54, LT-03142",
+    "vatcode": "LT100018881311"
   },
   {
     "name": "El Mokhtari distribution company UAB",
@@ -767,11 +773,6 @@
     "vatcode": "LT452984113"
   },
   {
-    "name": "UAB \"AK company\"",
-    "code": "145860952",
-    "address": "Šiauliai, Tilžės g. 43-31, LT-78206"
-  },
-  {
     "name": "UAB \"AOG Company\"",
     "code": "302464785",
     "address": "Klaipėda, Jurginų g. 1, LT-91202",
@@ -971,12 +972,6 @@
     "code": "300146741",
     "address": "Kaunas, Šiaurės pr. 25-47, LT-49194",
     "vatcode": "LT100001953713"
-  },
-  {
-    "name": "UAB \"FEK company\"",
-    "code": "302715337",
-    "address": "Vilnius, Ukmergės g. 239-302, LT-07100",
-    "vatcode": "LT100007652719"
   },
   {
     "name": "UAB \"FS COMPANY\"",
@@ -1630,11 +1625,6 @@
     "address": "Kaunas, K. Donelaičio g. 53-1"
   },
   {
-    "name": "VšĮ \"Competo\"",
-    "code": "305885647",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Compex\"",
     "code": "149609417",
     "address": "Alytus, Aukštoji g. 25, LT-62109",
@@ -1755,11 +1745,6 @@
     "vatcode": "LT100018691215"
   },
   {
-    "name": "UAB Complyon Lithuania",
-    "code": "305677781",
-    "address": "Vilnius, Gynėjų g. 4-333, LT-01109"
-  },
-  {
     "name": "UAB \"ComplyTech\"",
     "code": "304952993",
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
@@ -1868,7 +1853,8 @@
   {
     "name": "MB \"AB composites\"",
     "code": "305879110",
-    "address": "Šiauliai, Vytauto g. 147-18, LT-76341"
+    "address": "Šiauliai, Vytauto g. 147-18, LT-76341",
+    "vatcode": "LT100018964318"
   },
   {
     "name": "MB Emix Composites",

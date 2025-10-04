@@ -148,6 +148,11 @@
     "address": "Šiauliai, Serbentų g. 6, LT-76275"
   },
   {
+    "name": "MB \"Valstata\"",
+    "code": "307432510",
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
     "name": "UAB Valsteda",
     "code": "305514446",
     "address": "Panevėžys, Stoties g. 42, LT-35106"
@@ -325,11 +330,6 @@
     "address": "Klaipėda, Minijos g. 153, LT-93185"
   },
   {
-    "name": "Valstybės įmonės Valstybinio žemėtvarkos instituto Panevėžio filialo darbuotojų profesinė sąjunga",
-    "code": "148329825",
-    "address": "Panevėžys, Respublikos g. 63, LT-35159"
-  },
-  {
     "name": "Vilniaus pilių valstybinio kultūrinio rezervato direkcija",
     "code": "300038598",
     "address": "Vilnius, T. Kosciuškos g. 30, LT-01100"
@@ -380,7 +380,8 @@
   {
     "name": "Koncertinė įstaiga Šiaulių valstybinis kamerinis choras \"Polifonija\"",
     "code": "188200756",
-    "address": "Šiauliai, Aušros al. 15, LT-76300"
+    "address": "Šiauliai, Aušros al. 15, LT-76300",
+    "vatcode": "LT100018916711"
   },
   {
     "name": "Lietuvos Respublikos valstybinis patentų biuras",
@@ -433,7 +434,8 @@
   {
     "name": "Valstybinis Šiaulių dramos teatras",
     "code": "190755170",
-    "address": "Šiauliai, Tilžės g. 155, LT-76297"
+    "address": "Šiauliai, Tilžės g. 155, LT-76297",
+    "vatcode": "LT100018905014"
   },
   {
     "name": "Radviliškio rajono valstybinių įstaigų darbuotojų profesinė sąjunga",
@@ -727,6 +729,11 @@
     "address": "Alytus, Jotvingių g. 10-1, LT-62116"
   },
   {
+    "name": "Asociacija \"INŽINERIJOS STUDENTAI - VALSTYBĖS AMBASADORIAI\"",
+    "code": "307442668",
+    "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Obelyno g. 3, LT-14182"
+  },
+  {
     "name": "Darbuotojų ir valstybės tarnautojų profesinė sąjunga",
     "code": "302701501",
     "address": "Vilnius, Geležinkelio g. 3-14A, LT-02100"
@@ -1012,11 +1019,6 @@
     "address": "Kaišiadorių r. sav., Pravieniškių sen., Pravieniškių k., Pašulių g. 14, LT-56369"
   },
   {
-    "name": "Valstybės įmonės \"Visagino energija\" darbininkų sąjunga",
-    "code": "155986593",
-    "address": "Visaginas, Parko g. 14, LT-31140"
-  },
-  {
     "name": "Valstybės įmonės Ignalinos atominės elektrinės apsaugos rinktinės darbininkų sąjunga",
     "code": "255964740",
     "address": "Ignalinos r. sav., Rimšės sen., Drūkšinių k."
@@ -1030,11 +1032,6 @@
     "name": "Valstybės įmonės Radviliškio miškų urėdijos profesinė sąjunga",
     "code": "271660950",
     "address": "Radviliškis, Šiaulių g. 31, LT-82142"
-  },
-  {
-    "name": "Valstybės įmonės Valstybinio žemėtvarkos instituto Panevėžio filialo darbuotojų profesinė sąjunga",
-    "code": "148329825",
-    "address": "Panevėžys, Respublikos g. 63, LT-35159"
   },
   {
     "name": "Viešoji įstaiga Valstybės institucijų kalbų centras",

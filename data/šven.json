@@ -58,7 +58,8 @@
   {
     "name": "UAB Šventaragis",
     "code": "307396509",
-    "address": "Vilnius, L. Stuokos-Gucevičiaus g. 9-5, LT-01122"
+    "address": "Vilnius, L. Stuokos-Gucevičiaus g. 9-5, LT-01122",
+    "vatcode": "LT100018883116"
   },
   {
     "name": "Kauno miesto laisvųjų mūrininkų ložė \"Šventas Jonas\"",
@@ -327,11 +328,6 @@
     "address": "Vilnius, Jogailos g. 7-14, LT-01116"
   },
   {
-    "name": "Asociacija \"Šventorkalnis\"",
-    "code": "304102048",
-    "address": "Plungės r. sav., Plateliai, Liepijų g. 26, LT-90420"
-  },
-  {
     "name": "Šventos Klaros seserų vienuolynas",
     "code": "192092261",
     "address": "Kretinga, Mėguvos g. 34, LT-97140"
@@ -518,11 +514,6 @@
     "code": "302748209",
     "address": "Molėtai, Inturkės skg. 5, LT-33137",
     "vatcode": "LT100006978312"
-  },
-  {
-    "name": "Asociacija \"Atgailos ir Šventumo tarnystė\"",
-    "code": "305771259",
-    "address": "Vilnius, Krokuvos g. 53-3, LT-09306"
   },
   {
     "name": "ŠIAULIŲ RAJONO SODININKŲ BENDRIJA \"ŠVENTUPIS\"",
@@ -959,8 +950,12 @@
   {
     "name": "UAB \"Švenčionių solar\"",
     "code": "302791192",
-    "address": "Vilnius, Krivių g. 5, LT-01204",
-    "vatcode": "LT100007308510"
+    "address": "Vilnius, Krivių g. 5, LT-01204"
+  },
+  {
+    "name": "UAB Švenčionių mediena",
+    "code": "307445479",
+    "address": "Vilnius, Perkūnkiemio g. 49-119, LT-12144"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"ŠVENČIONIŲ VAISTAŽOLĖS\"",
@@ -1020,11 +1015,6 @@
     "address": "Švenčionių r. sav., Pabradė, Vilniaus g. 108A-41, LT-18178"
   },
   {
-    "name": "Švenčionių Juliaus Siniaus meno mokykla",
-    "code": "190512065",
-    "address": "Švenčionys, Lentupio g. 3, LT-18126"
-  },
-  {
     "name": "Švenčionių Visų Šventųjų parapija",
     "code": "191305710",
     "address": "Švenčionys, Laisvės a. 5, LT-18111"
@@ -1053,11 +1043,6 @@
     "name": "Švenčionių krašto totorių bendruomenė",
     "code": "304150954",
     "address": "Švenčionys, Adutiškio g. 171, LT-18109"
-  },
-  {
-    "name": "Švenčionių lopšelis-darželis \"Gandriukas\"",
-    "code": "190503582",
-    "address": "Švenčionys, Sodų g. 30, LT-18126"
   },
   {
     "name": "Švenčionių medžiotojų būrelis",
@@ -1111,19 +1096,9 @@
     "address": "Švenčionių r. sav., Pabradė, Vilniaus g. 43, LT-18177"
   },
   {
-    "name": "Švenčionių r. Pabradės meno mokykla",
-    "code": "190511878",
-    "address": "Švenčionių r. sav., Pabradė, Vilniaus g. 8, LT-18177"
-  },
-  {
     "name": "Švenčionių r. Švenčionėlių Karaliaus Mindaugo gimnazija",
     "code": "305613992",
     "address": "Švenčionių r. sav., Švenčionėliai, Mokyklos g. 24-3, LT-18220"
-  },
-  {
-    "name": "Švenčionių r. Švenčionėlių meno mokykla",
-    "code": "190511910",
-    "address": "Švenčionių r. sav., Švenčionėliai, Kaltanėnų g. 3, LT-18209"
   },
   {
     "name": "Švenčionių rajono Kaltanėnų kaimo bendruomenė",
@@ -1154,6 +1129,11 @@
     "name": "Švenčionių rajono medžiotojų ir žvejų draugija",
     "code": "300552464",
     "address": "Švenčionys, Lentupio g. 55, LT-18126"
+  },
+  {
+    "name": "Švenčionių rajono meno mokykla",
+    "code": "307412034",
+    "address": "Švenčionys, Lentupio g. 3, LT-18126"
   },
   {
     "name": "Švenčionių rajono meno mylėtojų draugija",
@@ -1397,11 +1377,6 @@
     "name": "Švenčionių r. Švenčionėlių Karaliaus Mindaugo gimnazija",
     "code": "305613992",
     "address": "Švenčionių r. sav., Švenčionėliai, Mokyklos g. 24-3, LT-18220"
-  },
-  {
-    "name": "Švenčionių r. Švenčionėlių meno mokykla",
-    "code": "190511910",
-    "address": "Švenčionių r. sav., Švenčionėliai, Kaltanėnų g. 3, LT-18209"
   },
   {
     "name": "Švenčionių rajono savivaldybės administracijos Švenčionėlių seniūnija",

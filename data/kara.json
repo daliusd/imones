@@ -120,11 +120,6 @@
     "vatcode": "LT100004958710"
   },
   {
-    "name": "UAB Šakotis karalaitis",
-    "code": "306504095",
-    "address": "Šilutė, Dariaus ir Girėno g. 18B-231, LT-99131"
-  },
-  {
     "name": "MB \"Karale\"",
     "code": "306651782",
     "address": "Šilalės r. sav., Kvėdarna, P. Cvirkos g. 2, LT-75344",
@@ -613,7 +608,8 @@
   {
     "name": "MB \"Karalienės karalystė\"",
     "code": "305166908",
-    "address": "Širvintų r. sav., Musninkai, Pieninės g. 14, LT-19185"
+    "address": "Širvintų r. sav., Musninkai, Pieninės g. 14, LT-19185",
+    "vatcode": "LT100018863414"
   },
   {
     "name": "Naujosios Vilnios Švč. M. Marijos Taikos Karalienės parapija",
@@ -857,7 +853,8 @@
   {
     "name": "MB \"Du karališkieji gurmanai\"",
     "code": "306971661",
-    "address": "Klaipėda, Kuosų g. 20-75, LT-91187"
+    "address": "Klaipėda, Kuosų g. 20-75, LT-91187",
+    "vatcode": "LT100018964711"
   },
   {
     "name": "MB Karališko standarto agentūra",
@@ -1011,7 +1008,8 @@
   {
     "name": "MB \"Karalienės karalystė\"",
     "code": "305166908",
-    "address": "Širvintų r. sav., Musninkai, Pieninės g. 14, LT-19185"
+    "address": "Širvintų r. sav., Musninkai, Pieninės g. 14, LT-19185",
+    "vatcode": "LT100018863414"
   },
   {
     "name": "MB Dovanų karalystė",
@@ -1065,7 +1063,8 @@
   {
     "name": "UAB Gėrimų karalystė",
     "code": "307144013",
-    "address": "Kauno r. sav., Ringaudų sen., Virbališkių k., Žalioji g. 1, LT-53458"
+    "address": "Kauno r. sav., Ringaudų sen., Virbališkių k., Žalioji g. 1, LT-53458",
+    "vatcode": "LT100018944111"
   },
   {
     "name": "Viešoji įstaiga \"MUZIKOS KARALYSTĖ\"",
@@ -1103,6 +1102,11 @@
     "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Karalyčios g. 9-35, LT-30156"
   },
   {
+    "name": "UAB \"Karamela\"",
+    "code": "307438602",
+    "address": "Kaunas, Europos pr. 122, LT-46351"
+  },
+  {
     "name": "MB Karameli",
     "code": "307125529",
     "address": "Vilnius, Parko g. 23, LT-11205"
@@ -1125,9 +1129,9 @@
     "vatcode": "LT100012687517"
   },
   {
-    "name": "UAB \"Karamelė LT\"",
-    "code": "304347065",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+    "name": "MB Karamelė ir kava",
+    "code": "307438538",
+    "address": "Vilnius, Linkmenų g. 58-279, LT-08217"
   },
   {
     "name": "UAB \"Tavo karamelė\"",
@@ -1143,8 +1147,7 @@
   {
     "name": "MB \"Karamelės oazė\"",
     "code": "305604986",
-    "address": "Alytus, Vilniaus g. 16, LT-62112",
-    "vatcode": "LT100014147618"
+    "address": "Alytus, Vilniaus g. 16, LT-62112"
   },
   {
     "name": "UAB Karamija",
@@ -1441,7 +1444,7 @@
   {
     "name": "Vilniaus miesto Kyokushin karate federacija",
     "code": "303197381",
-    "address": "Vilnius, Žirnių g. 4A, LT-02120"
+    "address": "Vilnius, Erfurto g. 36-4, LT-04100"
   },
   {
     "name": "Vilniaus miesto Rytų kovos menų sporto klubas \"KARATE DO\"",
@@ -1502,6 +1505,11 @@
     "name": "Anykščių karatė sporto klubas",
     "code": "154281484",
     "address": "Anykščiai, K. Ladigos g. 23-2, LT-29130"
+  },
+  {
+    "name": "Asociacija Karatė sporto klubas \"Zarasai Shotokan\"",
+    "code": "307437532",
+    "address": "Zarasai, P. Širvio g. 36-5, LT-32125"
   },
   {
     "name": "JKA Lietuvos karatė asociacija",

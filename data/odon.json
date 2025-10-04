@@ -82,12 +82,6 @@
     "address": "Ukmergė, Deltuvos g. 6-31, LT-20120"
   },
   {
-    "name": "UAB \"Panevėžio odontologai\"",
-    "code": "147894736",
-    "address": "Panevėžys, Laisvės a. 16, LT-35200",
-    "vatcode": "LT478947314"
-  },
-  {
     "name": "UAB Tavo odontologai",
     "code": "305556502",
     "address": "Kaunas, A. Juozapavičiaus pr. 13D-5, LT-45252"
@@ -127,11 +121,6 @@
     "name": "Individuali įmonė \"Pocevičiaus odontologija\"",
     "code": "300128864",
     "address": "Šalčininkai, A. Mickevičiaus g. 16-19, LT-17108"
-  },
-  {
-    "name": "IĮ \"AS odontologija\"",
-    "code": "302546595",
-    "address": "Tauragė, J. Tumo-Vaižganto g. 118-72, LT-72265"
   },
   {
     "name": "IĮ \"Kubilių odontologija\"",
@@ -183,6 +172,11 @@
     "name": "MB \"Šeimos odontologija\"",
     "code": "304914156",
     "address": "Skuodas, Dariaus ir Girėno g. 3-2, LT-98117"
+  },
+  {
+    "name": "MB Marat mazynskij odontologija",
+    "code": "307442579",
+    "address": "Visaginas, Tarybų g. 6-21, LT-31136"
   },
   {
     "name": "MB Mk šeimos odontologija",
@@ -357,7 +351,8 @@
   {
     "name": "Docento J. Jonaičio odontologijos klinika, UAB",
     "code": "235086210",
-    "address": "Kaunas, Partizanų g. 14A, LT-50211"
+    "address": "Kaunas, Partizanų g. 14A, LT-50211",
+    "vatcode": "LT100018890119"
   },
   {
     "name": "Doros Vasarytės odontologijos klinika, MB",
@@ -520,11 +515,6 @@
     "address": "Mažeikiai, Pavenčių g. 5-3, LT-89186"
   },
   {
-    "name": "IĮ V. Martynaitienės odontologijos klinika",
-    "code": "135019239",
-    "address": "Kaunas, R. Kalantos g. 127-3, LT-52312"
-  },
-  {
     "name": "IĮ V. Niauros odontologijos kabinetas",
     "code": "121832396",
     "address": "Vilnius, M. K. Čiurlionio g. 2-8, LT-03104"
@@ -640,11 +630,6 @@
     "name": "MB \"Vaidos odontologijos klinika\"",
     "code": "306964617",
     "address": "Telšiai, Tulpių g. 2-39, LT-87126"
-  },
-  {
-    "name": "MB Alsėdžių odontologijos kabinetas",
-    "code": "305406125",
-    "address": "Plungės r. sav., Alsėdžiai, Draugystės g. 4, LT-90471"
   },
   {
     "name": "MB GK odontologijos klinika",
@@ -891,7 +876,7 @@
   {
     "name": "UAB \"A. MEDINYTĖS ODONTOLOGIJOS KABINETAS\"",
     "code": "126088745",
-    "address": "Vilnius, Architektų g. 25-51, LT-04105"
+    "address": "Vilnius, Šaltinių g. 1-21, LT-03218"
   },
   {
     "name": "UAB \"Aukštaitijos odontologijos namai\"",
@@ -1024,11 +1009,6 @@
     "name": "UAB \"Modestos odontologijos kabinetas\"",
     "code": "158939392",
     "address": "Kaišiadorių r. sav., Žiežmariai, Žalgirio g. 2-1, LT-56235"
-  },
-  {
-    "name": "UAB \"Mosėdžio odontologijos kabinetas\"",
-    "code": "304959863",
-    "address": "Skuodo r. sav., Mosėdis, Šačių g. 2-2A, LT-98268"
   },
   {
     "name": "UAB \"Nemuno odontologijos centras\"",
@@ -1195,6 +1175,11 @@
     "address": "Vilnius, Ateities g. 9C, LT-08304"
   },
   {
+    "name": "UAB Alsėdžių odontologijos kabinetas",
+    "code": "305406125",
+    "address": "Plungės r. sav., Alsėdžiai, Draugystės g. 4, LT-90471"
+  },
+  {
     "name": "UAB Andriaus Anisimenkovo odontologijos klinika",
     "code": "302873508",
     "address": "Mažeikiai, Naftininkų g. 76-1, LT-89182"
@@ -1294,18 +1279,14 @@
   {
     "name": "UAB Gyvūnų odontologijos centras",
     "code": "307341975",
-    "address": "Vilnius, Lvivo g. 21A, LT-09313"
+    "address": "Vilnius, Lvivo g. 21A, LT-09313",
+    "vatcode": "LT100018945412"
   },
   {
     "name": "UAB Implantologijos ir odontologijos klinika \"Šypsena\"",
     "code": "304067946",
     "address": "Vilnius, Didžioji g. 20-27, LT-01128",
     "vatcode": "LT100017917411"
-  },
-  {
-    "name": "UAB InMedica odontologijos centras",
-    "code": "300895662",
-    "address": "Panevėžys, Stoties g. 49-6, LT-35105"
   },
   {
     "name": "UAB Indrės Grigaitienės odontologijos klinika",
@@ -1443,11 +1424,6 @@
     "code": "302543955",
     "address": "Vilnius, M. K. Čiurlionio g. 19, LT-03104",
     "vatcode": "LT100018115410"
-  },
-  {
-    "name": "UAB Odontologijos klinika \"Danta\"",
-    "code": "305916263",
-    "address": "Klaipėda, Vingio g. 14, LT-95193"
   },
   {
     "name": "UAB Odontologijos klinika \"Edenta\"",
@@ -1610,7 +1586,8 @@
   {
     "name": "UAB Užupio odontologijos centras",
     "code": "300144929",
-    "address": "Vilnius, Krivių g. 5-98, LT-01204"
+    "address": "Vilnius, Krivių g. 5-98, LT-01204",
+    "vatcode": "LT100018935213"
   },
   {
     "name": "UAB VAIDOS MORKŪNAITĖS ODONTOLOGIJOS KABINETAS",

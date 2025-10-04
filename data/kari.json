@@ -10,6 +10,11 @@
     "address": "Biržai, Vilniaus g. 113-30, LT-41115"
   },
   {
+    "name": "Asociacija Generolo Povilo Plechavičiaus kariai",
+    "code": "307441598",
+    "address": "Vilnius, Naugarduko g. 43-36, LT-03208"
+  },
+  {
     "name": "Bėgimo klubas \"Šviesos kariai\"",
     "code": "302597223",
     "address": "Vilnius, Odminių g. 8, LT-01122"
@@ -180,7 +185,8 @@
   {
     "name": "MB Karimas MJ",
     "code": "307293701",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100018881614"
   },
   {
     "name": "UAB \"Karimas\"",
@@ -310,7 +316,8 @@
   {
     "name": "LIETUVOS DIDŽIOSIOS KUNIGAIKŠTIENĖS BIRUTĖS KARININKŲ ŠEIMŲ MOTERŲ VILNIAUS DRAUGIJA",
     "code": "293186120",
-    "address": "Vilnius, Pamėnkalnio g. 13, LT-01114"
+    "address": "Vilnius, Pamėnkalnio g. 13, LT-01114",
+    "vatcode": "LT100018935911"
   },
   {
     "name": "Lietuvos atsargos karininkų sąjunga",
@@ -388,6 +395,11 @@
     "address": "Kaunas, Antanavos g. 9-9, LT-46273"
   },
   {
+    "name": "Lietuvos kariuomenės Karinių jūrų pajėgų Generolo Kazimiero Nestoro Sapiegos fuzilierių batalionas",
+    "code": "304218049",
+    "address": "Klaipėda, Vėtros g. 3A, LT-92277"
+  },
+  {
     "name": "Lietuvos kariuomenės Karinių jūrų pajėgų Jūros ir pakrančių stebėjimo tarnyba",
     "code": "304216952",
     "address": "Klaipėda, Naujoji Uosto g. 24, LT-92244"
@@ -410,11 +422,6 @@
   {
     "name": "Lietuvos kariuomenės Karinių jūrų pajėgų Mokymo centras",
     "code": "304217926",
-    "address": "Klaipėda, Naujoji Uosto g. 24, LT-92244"
-  },
-  {
-    "name": "Lietuvos kariuomenės Karinių jūrų pajėgų Uosto ir priekrantės gynybos tarnyba",
-    "code": "304218049",
     "address": "Klaipėda, Naujoji Uosto g. 24, LT-92244"
   },
   {
@@ -579,6 +586,11 @@
     "address": "Pasvalio r. sav., Joniškėlio apylinkių sen., Joniškėlio k., Plytinės g. 4B-26, LT-39301"
   },
   {
+    "name": "UAB Karitex K",
+    "code": "307428095",
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+  },
+  {
     "name": "UAB \"Karitransa\"",
     "code": "304072391",
     "address": "Vilnius, Salininkų g. 40, LT-02213",
@@ -671,6 +683,11 @@
     "address": "Vilnius, Kapsų g. 44, LT-02182"
   },
   {
+    "name": "Lietuvos kariuomenės Karinių jūrų pajėgų Generolo Kazimiero Nestoro Sapiegos fuzilierių batalionas",
+    "code": "304218049",
+    "address": "Klaipėda, Vėtros g. 3A, LT-92277"
+  },
+  {
     "name": "Lietuvos kariuomenės Karinių jūrų pajėgų Jūros ir pakrančių stebėjimo tarnyba",
     "code": "304216952",
     "address": "Klaipėda, Naujoji Uosto g. 24, LT-92244"
@@ -693,11 +710,6 @@
   {
     "name": "Lietuvos kariuomenės Karinių jūrų pajėgų Mokymo centras",
     "code": "304217926",
-    "address": "Klaipėda, Naujoji Uosto g. 24, LT-92244"
-  },
-  {
-    "name": "Lietuvos kariuomenės Karinių jūrų pajėgų Uosto ir priekrantės gynybos tarnyba",
-    "code": "304218049",
     "address": "Klaipėda, Naujoji Uosto g. 24, LT-92244"
   },
   {
@@ -913,7 +925,7 @@
   {
     "name": "Lietuvos kariuomenės Pėstininkų brigados \"Geležinis Vilkas\" Lietuvos didžiojo kunigaikščio Algirdo pėstininkų batalionas",
     "code": "188745361",
-    "address": "Jonavos r. sav., Rukla, Karaliaus Mindaugo g. 11"
+    "address": "Jonavos r. sav., Jonavos sen., Ruklos k., Karaliaus Mindaugo g. 11, LT-55283"
   },
   {
     "name": "Lietuvos kariuomenės Pėstininkų brigados \"Geležinis Vilkas\" vadovybė",

@@ -69,6 +69,11 @@
     "address": "Vilnius, J. Basanavičiaus g. 18, LT-03224"
   },
   {
+    "name": "An cargo, MB",
+    "code": "307443574",
+    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Centrinė g. 2B, LT-54464"
+  },
+  {
     "name": "Automatic cargo inspection, UAB",
     "code": "306255270",
     "address": "Vilnius, Laisvės pr. 60, LT-05120",
@@ -138,13 +143,19 @@
   {
     "name": "Infinity cargo, UAB",
     "code": "307404920",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112"
+    "address": "Vilnius, Girulių g. 10-201, LT-12112",
+    "vatcode": "LT100018907510"
   },
   {
     "name": "IĮ AAJZ Cargo transportation",
     "code": "305671853",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
     "vatcode": "LT100016078410"
+  },
+  {
+    "name": "MB \"Cargo path\"",
+    "code": "307443318",
+    "address": "Mažeikių r. sav., Tirkšliai, Strazdelio g. 14, LT-89329"
   },
   {
     "name": "MB \"Cargo transport\"",
@@ -299,6 +310,11 @@
     "address": "Kretingos r. sav., Žalgirio sen., Jokūbavo k., Klaipėdos g. 4A, LT-97210"
   },
   {
+    "name": "MB Rent cargo",
+    "code": "307433523",
+    "address": "Vilniaus r. sav., Rukainių sen., Arklėnų k., Arklėnų g. 14, LT-13202"
+  },
+  {
     "name": "MB Swift Cargo",
     "code": "306484080",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
@@ -405,7 +421,8 @@
   {
     "name": "UAB \"CARGO SPEDITION\"",
     "code": "302720035",
-    "address": "Vilnius, Ulonų g. 5, LT-08240"
+    "address": "Vilnius, Ulonų g. 5, LT-08240",
+    "vatcode": "LT100006773218"
   },
   {
     "name": "UAB \"CARGO WAGONS\"",
@@ -583,6 +600,12 @@
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
+    "name": "UAB \"JAT Cargo\"",
+    "code": "302892501",
+    "address": "Klaipėda, Skautų g. 5, LT-92282",
+    "vatcode": "LT100013313913"
+  },
+  {
     "name": "UAB \"JUMBO CARGO\"",
     "code": "135665313",
     "address": "Vilniaus r. sav., Rukainių sen., Bareikiškių k.",
@@ -615,7 +638,7 @@
   {
     "name": "UAB \"Kings Cargo\"",
     "code": "304964771",
-    "address": "Kretingos r. sav., Žalgirio sen., Rubulių k., Pamiškės g. 10, LT-97348",
+    "address": "Klaipėda, Taikos pr. 5-315, LT-91133",
     "vatcode": "LT100012540514"
   },
   {
@@ -627,8 +650,7 @@
   {
     "name": "UAB \"Lion cargo\"",
     "code": "306341958",
-    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Gimtinės g. 11-6, LT-54303",
-    "vatcode": "LT100016458411"
+    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Gimtinės g. 11-6, LT-54303"
   },
   {
     "name": "UAB \"MTE cargo\"",
@@ -739,12 +761,6 @@
     "code": "304909643",
     "address": "Vilnius, Žemaitės g. 22-7, LT-03201",
     "vatcode": "LT100011909115"
-  },
-  {
-    "name": "UAB BBN Cargo Airlines Holdings",
-    "code": "305903305",
-    "address": "Klaipėda, Baltijos pr. 123-48, LT-93224",
-    "vatcode": "LT100014435714"
   },
   {
     "name": "UAB Baltic Cargo Delivery Services",
@@ -863,7 +879,8 @@
   {
     "name": "UAB MS cargo",
     "code": "307197578",
-    "address": "Kalvarijos sav., Liubavo sen., Asavos k., Kalno g. 3, LT-69285"
+    "address": "Kalvarijos sav., Liubavo sen., Asavos k., Kalno g. 3, LT-69285",
+    "vatcode": "LT100018850816"
   },
   {
     "name": "UAB Multitrans cargo",
@@ -1089,6 +1106,11 @@
     "code": "303241486",
     "address": "Tauragė, Radastų g. 14, LT-72186",
     "vatcode": "LT100008372619"
+  },
+  {
+    "name": "MB \"Cargoplius\"",
+    "code": "307455637",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "Cargopoint.lt, UAB",

@@ -133,6 +133,11 @@
     "address": "Klaipėda, Naikupės g. 17-22, LT-93204"
   },
   {
+    "name": "MB Rojesta",
+    "code": "307443161",
+    "address": "Šalčininkų r. sav., Baltosios Vokės sen., Rūdninkų k., Užupio g. 6, LT-17237"
+  },
+  {
     "name": "MB \"Rojeta\"",
     "code": "306933632",
     "address": "Vilnius, Girulių g. 5, LT-12124"
@@ -235,7 +240,8 @@
   {
     "name": "MB \"Mokesčių rojus\"",
     "code": "303373139",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103",
+    "vatcode": "LT100018951417"
   },
   {
     "name": "MB \"Raudonmedžio rojus\"",
@@ -428,12 +434,6 @@
     "address": "Telšiai, Žvejeliškės g. 10, LT-87423"
   },
   {
-    "name": "UAB \"MADOS ROJUS\"",
-    "code": "300126354",
-    "address": "Vilnius, Viršuliškių g. 87-110, LT-05114",
-    "vatcode": "LT100001766712"
-  },
-  {
     "name": "UAB \"Mažasis rojus\"",
     "code": "136060057",
     "address": "Kaunas, Laisvės al. 84, LT-44250",
@@ -539,10 +539,5 @@
     "name": "MB Rojuspagalvojus",
     "code": "306085843",
     "address": "Vilnius, J. Basanavičiaus g. 16A-126A, LT-03224"
-  },
-  {
-    "name": "UAB \"Rojūsta\"",
-    "code": "301061557",
-    "address": "Gargždai, Dariaus ir Girėno g. 7-14, LT-96143"
   }
 ]

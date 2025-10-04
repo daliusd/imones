@@ -26,11 +26,6 @@
     "address": "Vilnius, Virginijaus Druskio g. 10-138, LT-04304"
   },
   {
-    "name": "MB Renginių garsai",
-    "code": "306575135",
-    "address": "Anykščių r. sav., Kurklių sen., Antaplaštakio k. 1A, LT-29243"
-  },
-  {
     "name": "MB Širdies garsai",
     "code": "306435731",
     "address": "Vilnius, Salomėjos Nėries g. 107-63, LT-12117"
@@ -247,8 +242,7 @@
   {
     "name": "UAB \"Gyvas garsas\"",
     "code": "305084521",
-    "address": "Vilniaus r. sav., Zujūnų sen., Maskoliškių k., Česlovo Milošo g. 24, LT-14176",
-    "vatcode": "LT100012274610"
+    "address": "Vilniaus r. sav., Zujūnų sen., Maskoliškių k., Česlovo Milošo g. 24, LT-14176"
   },
   {
     "name": "UAB \"Jautrus garsas\"",
@@ -308,6 +302,11 @@
     "code": "306670551",
     "address": "Panevėžys, Ramygalos g. 66-2, LT-36229",
     "vatcode": "LT100017439612"
+  },
+  {
+    "name": "MB \"Stalius gyvena garsiai\"",
+    "code": "307441751",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Švęskim garsiai\"",
@@ -422,7 +421,8 @@
   {
     "name": "MB \"Garso kultūra\"",
     "code": "305222417",
-    "address": "Kaišiadorys, Kriaučiškių 3-asis tak. 4, LT-56132"
+    "address": "Kaišiadorys, Kriaučiškių 3-asis tak. 4, LT-56132",
+    "vatcode": "LT100018949516"
   },
   {
     "name": "MB \"Garso laukas\"",
@@ -579,7 +579,7 @@
   {
     "name": "Viešoji įstaiga \"Garso servisas\"",
     "code": "166920363",
-    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Svajonių g. 34, LT-81498"
+    "address": "Šiauliai, Aušros al. 15A, LT-76300"
   },
   {
     "name": "Viešoji įstaiga \"Nepriklausomi garso režisieriai\"",
@@ -605,7 +605,8 @@
   {
     "name": "MB \"Garsonita\"",
     "code": "305167038",
-    "address": "Kauno r. sav., Rokų sen., Vingytės k., Upėtakių g. 23, LT-46162"
+    "address": "Kauno r. sav., Rokų sen., Vingytės k., Upėtakių g. 23, LT-46162",
+    "vatcode": "LT100018905514"
   },
   {
     "name": "VšĮ \"Garsovaizdis\"",
