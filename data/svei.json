@@ -100,8 +100,13 @@
   {
     "name": "MB Sveika prekyba",
     "code": "307122337",
-    "address": "Vilnius, Gabijos g. 49-16, LT-06101",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319",
     "vatcode": "LT100018835015"
+  },
+  {
+    "name": "MB Sveika sruoga",
+    "code": "307475910",
+    "address": "Mažeikiai, Gamyklos g. 13-5, LT-89109"
   },
   {
     "name": "Mažoji bendrija \"Sveika nuodėmė\"",
@@ -135,6 +140,11 @@
     "code": "302891221",
     "address": "Vilnius, Labdarių g. 7, LT-01120",
     "vatcode": "LT100008985417"
+  },
+  {
+    "name": "UAB \"Sveika investicija\"",
+    "code": "307460082",
+    "address": "Kaunas, Jonavos g. 282, LT-44131"
   },
   {
     "name": "UAB \"Sveika kosmetika\"",
@@ -499,7 +509,8 @@
   {
     "name": "MB Sveikasesu",
     "code": "307430534",
-    "address": "Gargždai, Pievų g. 35A-1, LT-96113"
+    "address": "Gargždai, Pievų g. 35A-1, LT-96113",
+    "vatcode": "LT100019052716"
   },
   {
     "name": "MB \"Sveikasrovė\"",
@@ -1196,15 +1207,15 @@
     "address": "Klaipėdos r. sav., Priekulės sen., Dituvos k., Kuršių g. 6-3, LT-96357"
   },
   {
-    "name": "UAB Sveikatingumo ir terapijos studija",
-    "code": "304168201",
-    "address": "Vilnius, Lazdynėlių g. 26-27, LT-04126"
-  },
-  {
-    "name": "UAB Sveikatingumo ir terapijos studija LT",
+    "name": "UAB SVEIKATINGUMO IR TERAPIJOS KLINIKA",
     "code": "306144658",
     "address": "Vilnius, Lazdynėlių g. 26-27, LT-04126",
     "vatcode": "LT100015916816"
+  },
+  {
+    "name": "UAB Sveikatingumo ir terapijos studija",
+    "code": "304168201",
+    "address": "Vilnius, Lazdynėlių g. 26-27, LT-04126"
   },
   {
     "name": "UAB Sveikatingumo laboratorija",
@@ -1888,7 +1899,8 @@
   {
     "name": "Lietuvos Respublikos sveikatos apsaugos ministerija",
     "code": "188603472",
-    "address": "Vilnius, Vilniaus g. 33, LT-01402"
+    "address": "Vilnius, Vilniaus g. 33, LT-01402",
+    "vatcode": "LT100001082215"
   },
   {
     "name": "Lietuvos Sveikatos mokslų universiteto profesorių klubas",
@@ -3627,11 +3639,6 @@
     "address": "Kauno r. sav., Kačerginė, Juozo Zikaro g. 14, LT-53449"
   },
   {
-    "name": "Viešosios įstaigos Lietuvos sveikatos mokslų universiteto Kauno ligoninės filialas P. Mažylio gimdymo namai",
-    "code": "302621635",
-    "address": "Kaunas, V. Putvinskio g. 3, LT-44242"
-  },
-  {
     "name": "Viešosios įstaigos Marijampolės greitosios medicinos pagalbos stoties sveikatos apsaugos darbuotojų profesinė sąjunga",
     "code": "301842972",
     "address": "Marijampolė, P. Kriaučiūno g. 2, LT-68298"
@@ -3714,7 +3721,8 @@
   {
     "name": "VšĮ \"Psichikos sveikatos perspektyvos\"",
     "code": "125446837",
-    "address": "Vilnius, Vasaros g. 3, LT-10309"
+    "address": "Vilnius, Vasaros g. 3, LT-10309",
+    "vatcode": "LT100018997314"
   },
   {
     "name": "VšĮ \"Psichologinės ir emocinės sveikatos centras\"",
@@ -4391,7 +4399,8 @@
   {
     "name": "Lietuvos sveikuolių sąjunga",
     "code": "191616227",
-    "address": "Palanga, Vytauto g. 74, LT-00132"
+    "address": "Palanga, Vytauto g. 74, LT-00132",
+    "vatcode": "LT100019042012"
   },
   {
     "name": "Marijampolės sveikuolių klubas \"Prana\"",

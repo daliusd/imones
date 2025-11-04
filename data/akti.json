@@ -41,11 +41,6 @@
     "address": "Vilnius, Liudviko Zamenhofo g. 3, LT-06332"
   },
   {
-    "name": "Scania Finans Aktiebolag Lietuvos filialas",
-    "code": "302554624",
-    "address": "Vilnius, Lentvario g. 14B, LT-02300"
-  },
-  {
     "name": "Siemens Gamesa Renewable Energy Aktiebolag Lietuvos filialas",
     "code": "304431022",
     "address": "Vilnius, J. Jasinskio g. 16C, LT-03163"
@@ -89,13 +84,20 @@
   {
     "name": "MB \"Aktila\"",
     "code": "307439095",
-    "address": "Prienų r. sav., Balbieriškis, Klevų g. 25-31, LT-59243"
+    "address": "Prienų r. sav., Balbieriškis, Klevų g. 25-31, LT-59243",
+    "vatcode": "LT100019022210"
   },
   {
     "name": "UAB \"Šiaulių Aktila\"",
     "code": "300136989",
     "address": "Šiauliai, Tilžės g. 28, LT-78228",
     "vatcode": "LT100001892011"
+  },
+  {
+    "name": "UAB \"Aktimus\"",
+    "code": "307481354",
+    "address": "Klaipėda, Sūkurio g. 14, LT-92282",
+    "vatcode": "LT100019100215"
   },
   {
     "name": "UAB \"AKTIN\"",

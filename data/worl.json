@@ -99,6 +99,11 @@
     "address": "Marijampolės sav., Patašinės sen., Trakiškių k., Sodžiaus g. 15, LT-69491"
   },
   {
+    "name": "MB Domo World",
+    "code": "307475846",
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+  },
+  {
     "name": "MB Kiki world",
     "code": "305741650",
     "address": "Klaipėda, Taikos pr. 87-30, LT-94159"
@@ -111,7 +116,8 @@
   {
     "name": "MB Sauna world",
     "code": "307447804",
-    "address": "Kauno r. sav., Garliava, Juozo Lukšos g. 14, LT-53256"
+    "address": "Kauno r. sav., Garliava, Juozo Lukšos g. 14, LT-53256",
+    "vatcode": "LT100019008214"
   },
   {
     "name": "MB Sd world",
@@ -122,11 +128,6 @@
     "name": "MB UBE WORLD",
     "code": "307169707",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
-  },
-  {
-    "name": "MB WORLD TRANSPORT",
-    "code": "305612716",
-    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Sodų g. 23-111, LT-13271"
   },
   {
     "name": "MB What world eats",
@@ -248,8 +249,7 @@
   {
     "name": "UAB \"Stock world\"",
     "code": "306642840",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
-    "vatcode": "LT100016664512"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB \"WORLD CONNECT\"",
@@ -572,7 +572,7 @@
   {
     "name": "UAB Worldwide Laser Periodontics",
     "code": "304093300",
-    "address": "Kaunas, Savanorių pr. 109, LT-44208"
+    "address": "Kauno m. sav."
   },
   {
     "name": "UAB Worldwide Security Service",

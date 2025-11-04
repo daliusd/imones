@@ -176,7 +176,8 @@
   {
     "name": "MB Automatinių greičio dėžių profas",
     "code": "307154865",
-    "address": "Kauno r. sav., Karmėlava, Baldininkų g. 3, LT-54448"
+    "address": "Kauno r. sav., Karmėlava, Baldininkų g. 3, LT-54448",
+    "vatcode": "LT100019036018"
   },
   {
     "name": "MB Profas LT",
@@ -564,11 +565,6 @@
     "address": "Vilnius, Panerių g. 43, LT-03202"
   },
   {
-    "name": "Alytaus apskrities profesinių sąjungų centras",
-    "code": "193486483",
-    "address": "Alytus, Pulko g. 21, LT-62135"
-  },
-  {
     "name": "Anykščių rajono švietimo darbuotojų profesinių sąjungų susivienijimas",
     "code": "301300548",
     "address": "Anykščiai, J. Biliūno g. 31, LT-29111"
@@ -739,11 +735,6 @@
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
   },
   {
-    "name": "Lietuvos žemės ūkio darbuotojų profesinių sąjungų federacija",
-    "code": "290582680",
-    "address": "Vilnius, J. Basanavičiaus g. 29A, LT-03109"
-  },
-  {
     "name": "Lietuvos žemės ūkio darbuotojų profesinių sąjungų federacijos AB \"Šiaulėnų gyvulininkystės kompleksas\" profesinė sąjunga",
     "code": "171491766",
     "address": "Radviliškio r. sav., Šiaulėnai"
@@ -868,6 +859,11 @@
     "name": "Profesinių sąjungų susivienijimas \"Socialinė alternatyva\"",
     "code": "302525925",
     "address": "Vilnius, J. Jasinskio g. 9, LT-01112"
+  },
+  {
+    "name": "Regionų profesinių sąjungų federacija",
+    "code": "290582680",
+    "address": "Vilnius, J. Basanavičiaus g. 29A, LT-03109"
   },
   {
     "name": "Transporto darbuotojų profesinių sąjungų federacija",
@@ -1092,11 +1088,6 @@
   {
     "name": "Jungtinės profesinės sąjungos šakinis padalinys Lietuvos apskričių ir savivaldybių darbuotojų profesinė sąjunga",
     "code": "302419085",
-    "address": "Kaunas, Gedimino g. 33, LT-44311"
-  },
-  {
-    "name": "Jungtinės profesinės sąjungos šakinis padalinys Lietuvos bibliotekininkų sąjunga",
-    "code": "302497148",
     "address": "Kaunas, Gedimino g. 33, LT-44311"
   },
   {
@@ -1768,6 +1759,12 @@
     "address": "Klaipėdos r. sav., Dovilų sen., Šiūparių k., Pozingių g. 71, LT-96165"
   },
   {
+    "name": "VšĮ \"Kelias link profesionalo\"",
+    "code": "307464604",
+    "address": "Vilniaus r. sav., Zujūnų sen., Salotės k., Salotės g. 8A, LT-14169",
+    "vatcode": "LT100019055811"
+  },
+  {
     "name": "\"Profesionalus septynetas\", UAB",
     "code": "302775010",
     "address": "Vilnius, Žirmūnų g. 68, LT-09124",
@@ -1829,7 +1826,7 @@
   {
     "name": "MB \"Profesionalūs programavimo sprendimai\"",
     "code": "306039714",
-    "address": "Klaipėda, Eitkūnų g. 25C-41, LT-92349",
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Alnos g. 38, LT-92441",
     "vatcode": "LT100014819718"
   },
   {
@@ -2075,6 +2072,11 @@
     "vatcode": "LT100018334510"
   },
   {
+    "name": "MB Evershine professionals",
+    "code": "307475643",
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
     "name": "UAB \"WELDING PROFESSIONALS\"",
     "code": "304473167",
     "address": "Vilnius, Žirmūnų g. 79-60, LT-09112",
@@ -2252,11 +2254,6 @@
     "code": "148399916",
     "address": "Panevėžys, Savitiškio g. 10E-2, LT-37370",
     "vatcode": "LT483999113"
-  },
-  {
-    "name": "Profibygg UAB",
-    "code": "306722471",
-    "address": "Vilnius, Girulių g. 10, LT-12112"
   },
   {
     "name": "Viešoji įstaiga \"Proficanis\"",
@@ -2955,6 +2952,11 @@
     "vatcode": "LT100008922318"
   },
   {
+    "name": "UAB Profna",
+    "code": "307481105",
+    "address": "Kretingos r. sav., Žalgirio sen., Jokūbavo k., Klaipėdos g. 4A, LT-97210"
+  },
+  {
     "name": "MB Profomedia",
     "code": "307121064",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -2983,7 +2985,7 @@
   {
     "name": "UAB PROFORTA",
     "code": "302501529",
-    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Vanaginės g. 69, LT-14263"
+    "address": "Vilnius, Dangeručio g. 33-8, LT-14332"
   },
   {
     "name": "UAB ProFruit Machinery",
@@ -2997,14 +2999,20 @@
     "address": "Klaipėda, Mogiliovo g. 5-20, LT-95249"
   },
   {
+    "name": "UAB \"Profstata\"",
+    "code": "307461647",
+    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+  },
+  {
     "name": "Profstate, MB",
     "code": "306281176",
     "address": "Kaunas, Technikumo g. 24C, LT-46450"
   },
   {
-    "name": "AB \"Lifosa\" profsąjunga",
-    "code": "161612956",
-    "address": "Kėdainiai, Juodkiškio g. 50, LT-57232"
+    "name": "\"Profstatyba\" MB",
+    "code": "307463801",
+    "address": "Vilnius, Architektų g. 118-52, LT-04218",
+    "vatcode": "LT100019009717"
   },
   {
     "name": "AB \"ŠATRIJA\" profsąjunga",
@@ -3265,6 +3273,11 @@
     "code": "300014152",
     "address": "Vilnius, P. Vileišio g. 27A-3, LT-10205",
     "vatcode": "LT100001518710"
+  },
+  {
+    "name": "MB \"Idea profuturo\"",
+    "code": "307475390",
+    "address": "Palanga, Ganyklų g. 6-3, LT-00127"
   },
   {
     "name": "MB HVAC profy",

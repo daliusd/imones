@@ -35,7 +35,8 @@
   {
     "name": "MB \"Aštuoni keliai\"",
     "code": "307159855",
-    "address": "Kaunas, Taikos pr. 106A, LT-51167"
+    "address": "Kaunas, Taikos pr. 106A, LT-51167",
+    "vatcode": "LT100019006813"
   },
   {
     "name": "MB \"Grūdo keliai\"",
@@ -225,8 +226,7 @@
   {
     "name": "\"Trolių kelias\", MB",
     "code": "305264633",
-    "address": "Vilnius, Dariaus ir Girėno g. 113A, LT-02199",
-    "vatcode": "LT100016370414"
+    "address": "Vilnius, Dariaus ir Girėno g. 44, LT-02188"
   },
   {
     "name": "Asociacija \"Baltijos kelias\"",
@@ -638,6 +638,11 @@
     "vatcode": "LT100016454812"
   },
   {
+    "name": "MB Baltas kelias",
+    "code": "307464593",
+    "address": "Molėtų r. sav., Čiulėnų sen., Rudilių k., Kaimynų g. 2, LT-33171"
+  },
+  {
     "name": "MB Brokerio kelias",
     "code": "307180582",
     "address": "Vilnius, Justiniškių g. 39-14, LT-05127"
@@ -672,6 +677,11 @@
     "code": "306963084",
     "address": "Kaunas, Islandijos pl. 25B, LT-49178",
     "vatcode": "LT100018047512"
+  },
+  {
+    "name": "MB Mados kelias",
+    "code": "307470977",
+    "address": "Klaipėda, Tiltų g. 19, LT-91249"
   },
   {
     "name": "MB Odos kelias",
@@ -1049,6 +1059,11 @@
     "vatcode": "LT100017073415"
   },
   {
+    "name": "UAB Patikimas kelias",
+    "code": "307480779",
+    "address": "Šiaulių r. sav., Kuršėnai, Sodo g. 11, LT-81178"
+  },
+  {
     "name": "UAB Visas kelias",
     "code": "148006398",
     "address": "Panevėžys, Ramygalos g. 125, LT-36209",
@@ -1165,6 +1180,12 @@
     "vatcode": "LT100012718510"
   },
   {
+    "name": "VšĮ \"Kelias link profesionalo\"",
+    "code": "307464604",
+    "address": "Vilniaus r. sav., Zujūnų sen., Salotės k., Salotės g. 8A, LT-14169",
+    "vatcode": "LT100019055811"
+  },
+  {
     "name": "VšĮ \"Kelias vienija\"",
     "code": "305656036",
     "address": "Panevėžio r. sav., Naujamiestis, M. Valančiaus g. 6, LT-38335"
@@ -1238,7 +1259,7 @@
   {
     "name": "VšĮ Socialinis kelias",
     "code": "307451635",
-    "address": "Kaunas, Kęstučio g. 3-1, LT-44320"
+    "address": "Kaunas, S. Daukanto g. 3-68, LT-44306"
   },
   {
     "name": "Žvejų klubas \"Žvejo kelias\"",
@@ -1292,11 +1313,6 @@
     "name": "Asociacija \"Keliauk, kad keistum\"",
     "code": "304654858",
     "address": "Vilkaviškio r. sav., Kybartai, Darvino g. 32-2, LT-70435"
-  },
-  {
-    "name": "MB \"Keliauk su manim\"",
-    "code": "305649401",
-    "address": "Vilnius, Ernesto Galvanausko g. 13-2, LT-11311"
   },
   {
     "name": "MB Keliauk ir pramogauk",
@@ -1672,7 +1688,8 @@
   {
     "name": "Kelio sprendimai, MB",
     "code": "307127252",
-    "address": "Vilnius, Šv. Stepono g. 33-85, LT-01312"
+    "address": "Vilnius, Šv. Stepono g. 33-85, LT-01312",
+    "vatcode": "LT100018993019"
   },
   {
     "name": "Kelio, UAB",
@@ -2906,6 +2923,11 @@
     "name": "MB Kelių ir gatvių projektavimas",
     "code": "306099070",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "MB Kelių transportas",
+    "code": "307472992",
+    "address": "Lazdijų r. sav., Krosna, Alytaus g. 54, LT-67443"
   },
   {
     "name": "Panevėžio apskrities kelių ir autotransporto darbuotojų profesinių sąjungų susivienijimas",

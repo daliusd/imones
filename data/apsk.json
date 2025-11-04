@@ -130,11 +130,6 @@
     "address": "Raseinių r. sav., Paliepių sen., Slabados k., Pavasario g. 14, LT-60109"
   },
   {
-    "name": "MB \"Apskaita ir balansas verslui\"",
-    "code": "306978111",
-    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
-  },
-  {
     "name": "MB \"Apskaita ir konsultavimas\"",
     "code": "304746908",
     "address": "Vilniaus r. sav., Nemenčinė, Šilo g. 11, LT-15173"
@@ -244,7 +239,8 @@
   {
     "name": "MB \"DNS bendrijų apskaita\"",
     "code": "303543488",
-    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Danės g. 11A, LT-92442"
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Danės g. 11A, LT-92442",
+    "vatcode": "LT100019111112"
   },
   {
     "name": "MB \"Deira ir apskaita\"",
@@ -546,7 +542,8 @@
   {
     "name": "MB Apskaita",
     "code": "306177238",
-    "address": "Vilnius, Bajorų kel. 19-58, LT-08446"
+    "address": "Vilnius, Bajorų kel. 19-58, LT-08446",
+    "vatcode": "LT100019108917"
   },
   {
     "name": "MB Apskaita 2x2",
@@ -1333,11 +1330,6 @@
     "vatcode": "LT252738113"
   },
   {
-    "name": "UAB \"TMD apskaita\"",
-    "code": "302332431",
-    "address": "Vilnius, Kaukų g. 50A-1, LT-08400"
-  },
-  {
     "name": "UAB \"Tatjanos buhalterinė apskaita\"",
     "code": "300655927",
     "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Šilo g. 7, LT-14266"
@@ -1968,7 +1960,8 @@
   {
     "name": "MB \"Apskaitos nata\"",
     "code": "306981506",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
+    "vatcode": "LT100019099611"
   },
   {
     "name": "MB \"Apskaitos paslauga\"",
@@ -2222,11 +2215,6 @@
     "name": "MB Nesuk galvos dėl apskaitos",
     "code": "307031275",
     "address": "Šilutė, Nemuno g. 17A-2, LT-99149"
-  },
-  {
-    "name": "MB Vilniaus apskaitos biuras",
-    "code": "304781738",
-    "address": "Alytus, Varėnos g. 29-106, LT-62166"
   },
   {
     "name": "Mažoji bendrija \"Apskaitos menė\"",
@@ -2668,7 +2656,8 @@
   {
     "name": "UAB \"Audito ir apskaitos praktika\"",
     "code": "300071922",
-    "address": "Alytus, Ligoninės g. 9-3, LT-62114"
+    "address": "Alytus, Ligoninės g. 9-3, LT-62114",
+    "vatcode": "LT100001670916"
   },
   {
     "name": "UAB \"Audito ir apskaitos sistemos\"",
@@ -2861,6 +2850,12 @@
     "vatcode": "LT100007792212"
   },
   {
+    "name": "UAB Sostinės apskaitos centras",
+    "code": "300589644",
+    "address": "Vilnius, Žirmūnų g. 130-50, LT-09126",
+    "vatcode": "LT100002596515"
+  },
+  {
     "name": "UAB Vakarų apskaitos biuras",
     "code": "304192362",
     "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Sparnų g. 18, LT-91276"
@@ -2939,7 +2934,7 @@
   {
     "name": "Verslo apskaitos grupė, UAB",
     "code": "304048636",
-    "address": "Širvintų r. sav., Kernavės sen., Pakalniškių k., Kernavės g. 1, LT-19170",
+    "address": "Vilniaus r. sav., Zujūnų sen., Platiniškių k., Adomo Mickevičiaus g. 99B-2, LT-14171",
     "vatcode": "LT100009470114"
   },
   {
@@ -3192,11 +3187,6 @@
     "address": "Alytus, Ulonų g. 33A, LT-62161"
   },
   {
-    "name": "Alytaus apskrities profesinių sąjungų centras",
-    "code": "193486483",
-    "address": "Alytus, Pulko g. 21, LT-62135"
-  },
-  {
     "name": "Alytaus apskrities sporto klubas \"Daisotra\"",
     "code": "193203273",
     "address": "Alytus, Kepyklos g. 15, LT-62117"
@@ -3265,7 +3255,7 @@
   {
     "name": "Kauno apskrities beisbolo klubas",
     "code": "293584590",
-    "address": "Kaunas, Raudondvario pl. 93, LT-47184"
+    "address": "Kaunas, K. Donelaičio g. 79-3, LT-44249"
   },
   {
     "name": "Kauno apskrities butų savininkų teisių gynimo asociacija",

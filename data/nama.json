@@ -621,6 +621,11 @@
     "address": "Telšių r. sav., Tryškių sen., Dūseikių k., Stoties g. 14, LT-88188"
   },
   {
+    "name": "Edukacijos ir kūrybos namai",
+    "code": "307483191",
+    "address": "Vilniaus r. sav., Riešės sen., Raudondvario k., Žirgų g. 18-6, LT-14257"
+  },
+  {
     "name": "Eko gamybos namai, MB",
     "code": "307132089",
     "address": "Vilnius, Kernavės g. 4-R51, LT-09300"
@@ -835,11 +840,6 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Sodų g. 14, LT-92406"
   },
   {
-    "name": "Ivetos saulės namai, IĮ",
-    "code": "305651224",
-    "address": "Šakiai, P. Vaičaičio g. 14, LT-71113"
-  },
-  {
     "name": "IĮ \"Amberės grožio namai\"",
     "code": "305397904",
     "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Ąžuolų 2-asis tak. 7-2, LT-54464"
@@ -966,8 +966,7 @@
   {
     "name": "Kalnų namai, UAB",
     "code": "306041569",
-    "address": "Kaunas, Bernatonių g. 29, LT-47268",
-    "vatcode": "LT100015590618"
+    "address": "Kaunas, Bernatonių g. 29, LT-47268"
   },
   {
     "name": "Kaltinėnų parapijos senelių globos namai",
@@ -1121,6 +1120,11 @@
     "name": "Labdaros ir paramos fondas \"Žmogaus namai\"",
     "code": "305226682",
     "address": "Vilnius, Upinės g. 12, LT-08456"
+  },
+  {
+    "name": "Labdaros ir paramos fondas Besišypsantys namai",
+    "code": "307479702",
+    "address": "Kaunas, Tvirtovės al. 88C-2, LT-50185"
   },
   {
     "name": "Labdaros ir paramos fondas Širvintų parapijos globos namai",
@@ -1318,7 +1322,7 @@
   {
     "name": "MB \"Blizga namai\"",
     "code": "306387044",
-    "address": "Vilnius, Girulių g. 18-40, LT-12122"
+    "address": "Vilniaus r. sav., Bezdonių sen., Vilkiškių k., Pakalnės g. 8, LT-15206"
   },
   {
     "name": "MB \"Blizgantys namai\"",
@@ -1719,6 +1723,11 @@
     "address": "Panevėžys, J. Janonio g. 30A, LT-35289"
   },
   {
+    "name": "MB \"Pitos namai\"",
+    "code": "307485623",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB \"Pokyčių namai\"",
     "code": "306662540",
     "address": "Klaipėda, Kooperacijos g. 3-31, LT-91253",
@@ -1768,8 +1777,7 @@
   {
     "name": "MB \"Rožių namai\"",
     "code": "304054856",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228",
-    "vatcode": "LT100014474917"
+    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "MB \"SIPAVIČIŲ NAMAI\"",
@@ -2087,6 +2095,11 @@
     "address": "Vilnius, Žygio g. 95A-33, LT-08241"
   },
   {
+    "name": "MB Bars namai",
+    "code": "307479314",
+    "address": "Vilnius, Kauno g. 16-211, LT-03212"
+  },
+  {
     "name": "MB Bitės namai",
     "code": "305983810",
     "address": "Alytaus r. sav., Nemunaičio sen., Užupių k., Miškininkų g. 33, LT-64201",
@@ -2255,6 +2268,11 @@
     "name": "MB Inetos namai",
     "code": "303307534",
     "address": "Birštonas, Svarainių g. 13, LT-59215"
+  },
+  {
+    "name": "MB Inovatyvūs namai",
+    "code": "307468976",
+    "address": "Kaunas, Kulvos g. 14A-4, LT-48493"
   },
   {
     "name": "MB Insi grozio namai",
@@ -2602,7 +2620,8 @@
   {
     "name": "MB Pavilkijo senelių globos namai",
     "code": "307126969",
-    "address": "Šakių r. sav., Lekėčių sen., Mikytų k., Liepų g. 16, LT-71222"
+    "address": "Šakių r. sav., Lekėčių sen., Mikytų k., Liepų g. 16, LT-71222",
+    "vatcode": "LT100018993412"
   },
   {
     "name": "MB Pieno namai",
@@ -2633,8 +2652,7 @@
   {
     "name": "MB Pulo namai",
     "code": "305830679",
-    "address": "Vilnius, Aguonų g. 8E-10, LT-03213",
-    "vatcode": "LT100014236518"
+    "address": "Vilnius, Aguonų g. 8E-10, LT-03213"
   },
   {
     "name": "MB RJ siuvimo namai",
@@ -3120,11 +3138,6 @@
     "address": "Plungė, Birutės g. 4, LT-90113"
   },
   {
-    "name": "Poilsio namų statybos bendrija \"Svečių namai\"",
-    "code": "300600973",
-    "address": "Varėnos r. sav., Merkinė, Kauno g. 29, LT-65335"
-  },
-  {
     "name": "Poilsio paskirties patalpų savininkų bendrija \"Mėguvos namai\"",
     "code": "306448198",
     "address": "Palanga, Mėguvos g. 9-20, LT-00305"
@@ -3195,11 +3208,6 @@
     "code": "307092342",
     "address": "Vilnius, Broniaus Kazio Balučio g. 15E, LT-11311",
     "vatcode": "LT100018311117"
-  },
-  {
-    "name": "SOS kačių globos namai VŠĮ",
-    "code": "307051228",
-    "address": "Skuodo r. sav., Skuodo sen., Didžiųjų Rūšupių k., Liepų g. 4, LT-98104"
   },
   {
     "name": "Salako socialinės globos namai",
@@ -3342,8 +3350,7 @@
   {
     "name": "UAB \"Aliejaus namai\"",
     "code": "304434164",
-    "address": "Kaunas, S. Banaičio g. 60B, LT-47267",
-    "vatcode": "LT100015235010"
+    "address": "Kaunas, S. Banaičio g. 60B, LT-47267"
   },
   {
     "name": "UAB \"Alkos namai\"",
@@ -3530,6 +3537,11 @@
     "code": "305020344",
     "address": "Vilnius, J. Basanavičiaus g. 17-8, LT-03108",
     "vatcode": "LT100012195415"
+  },
+  {
+    "name": "UAB \"Cora namai\"",
+    "code": "307459500",
+    "address": "Panevėžys, Įmonių g. 5D-3, LT-35101"
   },
   {
     "name": "UAB \"DG Paupio verslo namai\"",
@@ -3938,6 +3950,11 @@
     "address": "Vilnius, Pylimo g. 22A, LT-01118"
   },
   {
+    "name": "UAB \"Lorus namai\"",
+    "code": "307483348",
+    "address": "Vilnius, A. Smetonos g. 8-7, LT-01115"
+  },
+  {
     "name": "UAB \"Lux\" namai",
     "code": "305022548",
     "address": "Vilnius, S. Stanevičiaus g. 53-69, LT-07104",
@@ -4168,7 +4185,7 @@
   {
     "name": "UAB \"Osetinų namai\"",
     "code": "306246143",
-    "address": "Vilnius, Savanorių pr. 1-63, LT-03116",
+    "address": "Vilnius, Švitrigailos g. 11M, LT-03228",
     "vatcode": "LT100017479712"
   },
   {
@@ -4315,6 +4332,11 @@
     "code": "304745891",
     "address": "Vilnius, Verkių g. 30B, LT-08221",
     "vatcode": "LT100018164014"
+  },
+  {
+    "name": "UAB \"Projektų namai\"",
+    "code": "307477473",
+    "address": "Palanga, Kunigiškių g. 6, LT-00169"
   },
   {
     "name": "UAB \"Puodžių namai\"",
@@ -4552,6 +4574,11 @@
     "code": "303473919",
     "address": "Elektrėnų sav., Semeliškių sen., Subartėnų k., Ežero g. 16, LT-21343",
     "vatcode": "LT100009398618"
+  },
+  {
+    "name": "UAB \"TOKO NAMAI\"",
+    "code": "302332431",
+    "address": "Vilnius, Kaukų g. 50A-1, LT-08400"
   },
   {
     "name": "UAB \"TV namai\"",
@@ -4920,7 +4947,8 @@
   {
     "name": "UAB Aterna laidojimo namai",
     "code": "307431141",
-    "address": "Vilnius, A. Rotundo g. 5-101, LT-01400"
+    "address": "Vilnius, A. Rotundo g. 5-101, LT-01400",
+    "vatcode": "LT100018992919"
   },
   {
     "name": "UAB Baltarusijos prekybos namai",
@@ -4991,18 +5019,14 @@
   {
     "name": "UAB Gaja kavos namai",
     "code": "307118787",
-    "address": "Kaunas, Jotvingių g. 14-37, LT-48163"
+    "address": "Kaunas, Jotvingių g. 14-37, LT-48163",
+    "vatcode": "LT100019109017"
   },
   {
     "name": "UAB Gervuogių namai",
     "code": "307004157",
     "address": "Vilnius, Baltasis skg. 8-2, LT-01204",
     "vatcode": "LT100018655312"
-  },
-  {
-    "name": "UAB Giedrės buhalterijos namai",
-    "code": "307056104",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB Gojaus namai",
@@ -5052,6 +5076,11 @@
     "name": "UAB Kėkštų namai",
     "code": "307421542",
     "address": "Ignalinos r. sav., Didžiasalio sen., Navikų k., Kalno g. 18A-8, LT-30150"
+  },
+  {
+    "name": "UAB LY namai",
+    "code": "307479232",
+    "address": "Palanga, Vaivorykštės g. 15D, LT-00168"
   },
   {
     "name": "UAB Laidojimo namai \"Saulėlydis\"",
@@ -5125,13 +5154,12 @@
   {
     "name": "UAB NT VERSLO NAMAI",
     "code": "304847896",
-    "address": "Kaunas, Savanorių pr. 127-1, LT-44146",
-    "vatcode": "LT100013295114"
+    "address": "Kaunas, Savanorių pr. 127-1, LT-44146"
   },
   {
     "name": "UAB Namai",
     "code": "305925636",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Teleičių k., Žilvičių g. 17-25, LT-53273",
+    "address": "Kaunas, Kampiškių g. 3-1A, LT-45306",
     "vatcode": "LT100015597615"
   },
   {
@@ -5381,6 +5409,11 @@
     "code": "181684849",
     "address": "Trakų r. sav., Lentvaris, Mokyklos g. 2, LT-25118",
     "vatcode": "LT100005947418"
+  },
+  {
+    "name": "UAB Vilniaus sporto namai",
+    "code": "307480754",
+    "address": "Vilnius, Ozo g. 14A, LT-08200"
   },
   {
     "name": "UAB Virtuvės namai",
@@ -5854,6 +5887,11 @@
     "address": "Varėna, Transporto g. 5, LT-65205"
   },
   {
+    "name": "Vasaros namai, UAB",
+    "code": "307481557",
+    "address": "Vilniaus r. sav., Mickūnų sen., Galgių k., M. Koperniko g. 25, LT-13100"
+  },
+  {
     "name": "Veisiejų socialinės globos namai",
     "code": "188720212",
     "address": "Lazdijų r. sav., Veisiejų sen., Kailinių k., Ryto g. 15, LT-67336"
@@ -6166,11 +6204,6 @@
     "address": "Marijampolė, P. Kriaučiūno g. 13, LT-68298"
   },
   {
-    "name": "Viešosios įstaigos Lietuvos sveikatos mokslų universiteto Kauno ligoninės filialas P. Mažylio gimdymo namai",
-    "code": "302621635",
-    "address": "Kaunas, V. Putvinskio g. 3, LT-44242"
-  },
-  {
     "name": "Viksvų Namai, UAB",
     "code": "307418090",
     "address": "Vilniaus r. sav., Bezdonių sen., Kreivėnų vs., Žeimenos 12-oji g. 1, LT-15200",
@@ -6399,6 +6432,11 @@
     "address": "Kauno r. sav., Garliavos apylinkių sen., Tvarkiškių k., Smiltynės g. 7, LT-53285"
   },
   {
+    "name": "VšĮ \"Kavarsko Šv. Jono globos namai\"",
+    "code": "307474979",
+    "address": "Anykščių r. sav., Kavarskas, P. Cvirkos g. 25, LT-29260"
+  },
+  {
     "name": "VšĮ \"Kazlų Rūdos slaugos ir socialinės globos namai\"",
     "code": "305466909",
     "address": "Kazlų Rūda, Maironio g. 40, LT-69409"
@@ -6613,6 +6651,11 @@
     "address": "Vilniaus r. sav., Paberžės sen., Paberžės k., Lauko g. 2, LT-14273"
   },
   {
+    "name": "VšĮ Akmenės rajono gyvūnų mylėtojų namai",
+    "code": "307461750",
+    "address": "Naujoji Akmenė, Respublikos g. 6-51, LT-85151"
+  },
+  {
     "name": "VšĮ Art deco namai",
     "code": "306276599",
     "address": "Kaunas, Vytauto pr. 2, LT-44356"
@@ -6641,6 +6684,11 @@
     "name": "VšĮ BALNINKŲ ŠV. VYSKUPO STANISLOVO PARAPIJOS SENELIŲ GLOBOS NAMAI",
     "code": "302667554",
     "address": "Kaunas, Upelio g. 16, LT-45322"
+  },
+  {
+    "name": "VšĮ Bendri namai",
+    "code": "307483266",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
   },
   {
     "name": "VšĮ Deltuvos senelių globos namai",
@@ -6742,7 +6790,7 @@
   {
     "name": "VšĮ Lukenskų namai",
     "code": "305406659",
-    "address": "Ukmergės r. sav., Veprių sen., Kultuvėnų k., Ateities g. 1, LT-20265"
+    "address": "Kaunas, Priekulės g. 3-1, LT-48269"
   },
   {
     "name": "VšĮ Miesto idėjų namai",
@@ -6854,7 +6902,8 @@
   {
     "name": "VšĮ Vaišnavų kultūros namai Gauranga",
     "code": "307448137",
-    "address": "Vilnius, Raugyklos g. 23-7, LT-01140"
+    "address": "Vilnius, Raugyklos g. 23-7, LT-01140",
+    "vatcode": "LT100019007115"
   },
   {
     "name": "VšĮ Viktorijos grožio namai",
@@ -7460,11 +7509,6 @@
     "address": "Kauno r. sav., Garliavos apylinkių sen., Seniavos k., Laurų g. 3, LT-53275"
   },
   {
-    "name": "MB \"Liuks namas\"",
-    "code": "304717931",
-    "address": "Ukmergė, Aguonų g. 13, LT-20171"
-  },
-  {
     "name": "MB \"Mano namas\"",
     "code": "305805327",
     "address": "Klaipėdos r. sav., Kretingalės sen., Stančių k., Šv. Kotrynos g. 31, LT-96338"
@@ -7477,7 +7521,8 @@
   {
     "name": "MB \"Mėsos namas\"",
     "code": "305586837",
-    "address": "Jonava, Riešutų g. 9, LT-55133"
+    "address": "Jonava, Riešutų g. 9, LT-55133",
+    "vatcode": "LT100018994410"
   },
   {
     "name": "MB \"Namas ir tu\"",
@@ -7560,8 +7605,7 @@
   {
     "name": "MB \"Šeimos namas\"",
     "code": "305991860",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Teleičių k., Jazminų g. 13, LT-53273",
-    "vatcode": "LT100015786118"
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Teleičių k., Jazminų g. 13, LT-53273"
   },
   {
     "name": "MB \"Šiltas ir jaukus namas\"",
@@ -7635,6 +7679,12 @@
     "name": "MB Nendrėtas namas",
     "code": "307123994",
     "address": "Kaunas, Baltų pr. 137-19, LT-48201"
+  },
+  {
+    "name": "MB Pajūrio namas",
+    "code": "307460730",
+    "address": "Klaipėda, Taikos pr. 20-403, LT-91224",
+    "vatcode": "LT100019025910"
   },
   {
     "name": "MB Plieno namas",

@@ -93,11 +93,6 @@
     "vatcode": "LT100015120611"
   },
   {
-    "name": "UAB \"Park group\"",
-    "code": "305728208",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "UAB \"Smart Park Baltic\"",
     "code": "302728637",
     "address": "Palanga, Kapsų g. 9-3, LT-00129"
@@ -489,7 +484,7 @@
   {
     "name": "MB \"Investicijų parkas\"",
     "code": "304290326",
-    "address": "Klaipėda, J. Janonio g. 6B, LT-92252",
+    "address": "Klaipėdos m. sav.",
     "vatcode": "LT100010576817"
   },
   {
@@ -562,7 +557,8 @@
   {
     "name": "MB Brinko parkas",
     "code": "307453077",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100019036218"
   },
   {
     "name": "MB Džiaugsmo parkas",
@@ -711,7 +707,7 @@
   {
     "name": "UAB \"GLC LOGISTIKOS PARKAS\"",
     "code": "302325508",
-    "address": "Vilnius, A. Vivulskio g. 7-1, LT-03162",
+    "address": "Vilnius, Lvivo g. 21-101, LT-09309",
     "vatcode": "LT100004603310"
   },
   {
@@ -952,7 +948,7 @@
   {
     "name": "UAB \"Telšių vėjo parkas\"",
     "code": "304954738",
-    "address": "Vilnius, J. Jasinskio g. 16B, LT-03163",
+    "address": "Vilnius, Lvivo g. 21-101, LT-09309",
     "vatcode": "LT100013693517"
   },
   {
@@ -1169,8 +1165,7 @@
   {
     "name": "UAB Vilniaus saulės parkas",
     "code": "306138897",
-    "address": "Vilnius, Jočionių g. 13, LT-02300",
-    "vatcode": "LT100016789612"
+    "address": "Vilnius, Jočionių g. 13, LT-02300"
   },
   {
     "name": "UAB Vėjų technologijų parkas",
@@ -1580,11 +1575,6 @@
     "address": "Klaipėda, Debreceno g. 58A, LT-93279"
   },
   {
-    "name": "Daugiabučių namų savininkų bendrija \"PARKELIS\"",
-    "code": "302559977",
-    "address": "Raseiniai, Partizanų g. 14A-2, LT-60179"
-  },
-  {
     "name": "MB \"Pramogų parkelis\"",
     "code": "306991023",
     "address": "Rokiškio r. sav., Rokiškio kaimiškoji sen., Zybolių k., Zybolių g. 1, LT-42340"
@@ -1812,6 +1802,11 @@
     "name": "Daugiabučių namų savininkų bendrija \"Parko namai\"",
     "code": "305468899",
     "address": "Kaunas, Krėvos g. 10-30, LT-44237"
+  },
+  {
+    "name": "Daugiabučių namų savininkų bendrija Parko pakrantė",
+    "code": "307483476",
+    "address": "Klaipėda, Mokyklos g. 10, LT-91256"
   },
   {
     "name": "Dzūkijos nacionalinio parko ir Čepkelių valstybinio gamtinio rezervato direkcija",

@@ -358,7 +358,8 @@
   {
     "name": "Saulės draugai, MB",
     "code": "307448977",
-    "address": "Vilnius, Tarandės g. 34A, LT-14188"
+    "address": "Vilnius, Tarandės g. 34A, LT-14188",
+    "vatcode": "LT100019002711"
   },
   {
     "name": "UAB \"Irena ir draugai\"",
@@ -539,8 +540,7 @@
   {
     "name": "MB \"Girios draugas\"",
     "code": "307091621",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
-    "vatcode": "LT100017680012"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Meistro draugas\"",
@@ -828,7 +828,7 @@
   {
     "name": "VšĮ \"Drauge linksmiau\"",
     "code": "304889386",
-    "address": "Šiaulių r. sav., Kuršėnai, Daugėlių g. 82-28, LT-81119"
+    "address": "Šiaulių r. sav., Kuršėnai, J. Basanavičiaus g. 8-18, LT-81156"
   },
   {
     "name": "VšĮ \"Drauge stipriau\"",
@@ -2056,6 +2056,11 @@
     "address": "Lazdijų r. sav., Lazdijų sen., Dumblio k., Ežerų g. 49, LT-67166"
   },
   {
+    "name": "Lazdijų rajono asmenų su negalia draugija",
+    "code": "193110538",
+    "address": "Lazdijai, Vilniaus g. 1, LT-67106"
+  },
+  {
     "name": "Lazdijų rajono bibliotekininkų draugija",
     "code": "302548913",
     "address": "Lazdijai, Seinų g. 1, LT-67113"
@@ -2064,11 +2069,6 @@
     "name": "Lazdijų rajono bitininkų draugija",
     "code": "165221289",
     "address": "Lazdijai, Maironio g. 20, LT-67104"
-  },
-  {
-    "name": "Lazdijų rajono neįgaliųjų draugija",
-    "code": "193110538",
-    "address": "Lazdijai, Vilniaus g. 1, LT-67106"
   },
   {
     "name": "Lenkijos bičiulių Tauragėje draugija",
@@ -2205,7 +2205,7 @@
   {
     "name": "Lietuvos bajorų karališkosios sąjungos Klaipėdos krašto bajorų draugija",
     "code": "193318133",
-    "address": "Kretinga, Vilniaus g. 20, LT-97104"
+    "address": "Plungės r. sav., Nausodžio sen., Prūsalių k., Kaštonų al. 6, LT-90101"
   },
   {
     "name": "Lietuvos bendrosios praktikos gydytojų draugija",
@@ -4895,7 +4895,7 @@
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Lazdijų skyriaus Seirijų medžiotojų būrelis",
     "code": "191543850",
-    "address": "Lazdijų r. sav., Seirijai, A. Žmuidzinavičiaus g. 36, LT-67228"
+    "address": "Lazdijų r. sav., Seirijų sen., Miesto Kolonijos k., Sagavo g. 1, LT-67228"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Lazdijų skyrius",
@@ -5000,7 +5000,7 @@
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Trakų skyriaus Vievio medžiotojų būrelis",
     "code": "193160936",
-    "address": "Elektrėnai, Pergalės g. 55-12, LT-26124"
+    "address": "Elektrėnų sav., Kazokiškių sen., Zabarijos k., Grabijolų g. 1, LT-21353"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Trakų skyrius",
@@ -5340,11 +5340,6 @@
     "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
   },
   {
-    "name": "UAB \"Draugiškas grožis\"",
-    "code": "304585440",
-    "address": "Prienai, Vytauto g. 31-37, LT-59124"
-  },
-  {
     "name": "UAB \"Draugiškas vėjas\"",
     "code": "305943424",
     "address": "Vilnius, Kalvarijų g. 166A-4, LT-08205",
@@ -5381,6 +5376,11 @@
     "name": "VšĮ Draugiški autizmui",
     "code": "306079872",
     "address": "Vilnius, Gabijos g. 2B-17, LT-12103"
+  },
+  {
+    "name": "Aktyvaus draugiško laisvalaikio asociacija",
+    "code": "307481347",
+    "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Samanynės g. 44, LT-14180"
   },
   {
     "name": "VšĮ \"Draugiškos paslaugos\"",
@@ -5548,7 +5548,7 @@
   {
     "name": "Garažų statybos ir eksploatvimo bendrija \"Draugystė\"",
     "code": "180747467",
-    "address": "Telšiai, J. Biliūno g."
+    "address": "Telšiai, J. Biliūno g. 5B, LT-87317"
   },
   {
     "name": "Joniškio miesto Medžiotojų g. 5a daugiabučio namo savininkų bendrija \"Draugystė\"",
@@ -5907,6 +5907,11 @@
     "code": "302251634",
     "address": "Vilnius, Linksmoji g. 123-33, LT-11234",
     "vatcode": "LT100007968613"
+  },
+  {
+    "name": "Draugų namų savininkų bendrija",
+    "code": "307479481",
+    "address": "Vilnius, Draugų g. 14, LT-10230"
   },
   {
     "name": "Geras draugų klubas",

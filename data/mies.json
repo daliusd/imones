@@ -18,11 +18,6 @@
     "vatcode": "LT100012063410"
   },
   {
-    "name": "\"Žaliasis miestas\", UAB",
-    "code": "303700854",
-    "address": "Vilnius, V. A. Graičiūno g. 10, LT-02244"
-  },
-  {
     "name": "Asociacija \"Istorinis miestas\"",
     "code": "305062934",
     "address": "Vilnius, Jogailos g. 4, LT-01116"
@@ -110,8 +105,7 @@
   {
     "name": "MB \"Kūrybos miestas\"",
     "code": "304434335",
-    "address": "Mažeikiai, Šaltinėlio g. 6, LT-89142",
-    "vatcode": "LT100016885111"
+    "address": "Mažeikiai, Šaltinėlio g. 6, LT-89142"
   },
   {
     "name": "MB \"MOBILUS MIESTAS VLN\"",
@@ -206,6 +200,12 @@
     "code": "304429441",
     "address": "Vilnius, Veiverių g. 9C, LT-11346",
     "vatcode": "LT100011627417"
+  },
+  {
+    "name": "UAB \"Bangos miestas\"",
+    "code": "303526909",
+    "address": "Gargždai, Laugalių g. 9, LT-96178",
+    "vatcode": "LT100017794513"
   },
   {
     "name": "UAB \"Dantukų miestas\"",
@@ -307,6 +307,11 @@
     "code": "306689256",
     "address": "Kaunas, A. Juozapavičiaus pr. 82A, LT-45214",
     "vatcode": "LT100016788210"
+  },
+  {
+    "name": "UAB Plėtros miestas",
+    "code": "307487841",
+    "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Pasakų g. 5D-1, LT-14166"
   },
   {
     "name": "UAB Titanų miestas",
@@ -411,11 +416,6 @@
     "name": "Daugiabučio namo Ramučių g. 40, Naujosios Akmenės mieste savininkų bendrija",
     "code": "301277544",
     "address": "Naujoji Akmenė, Ramučių g. 40-9, LT-85186"
-  },
-  {
-    "name": "Daugiabučio namo Respublikos g. Nr. 6, Naujosios Akmenės mieste savininkų bendrija",
-    "code": "300869799",
-    "address": "Naujoji Akmenė, Respublikos g. 6-97, LT-85151"
   },
   {
     "name": "Daugiabučio namo Stadiono g. Nr. 13, Akmenės mieste savininkų bendrija",
@@ -901,11 +901,6 @@
     "address": "Vilnius, Kęstučio g. 9-21, LT-08118"
   },
   {
-    "name": "Akmenės miesto Klykolių gatvės daugiabučio namo Nr. 40 savininkų bendrija",
-    "code": "303024792",
-    "address": "Akmenės r. sav., Akmenė, Klykolių g. 40-12, LT-85362"
-  },
-  {
     "name": "Akmenės miesto Stadiono g. 9 daugiabučio namo savininkų bendrija",
     "code": "300100605",
     "address": "Akmenės r. sav., Akmenė, Stadiono g. 9-20, LT-85374"
@@ -1266,11 +1261,6 @@
     "address": "Biržai, Kaštonų g. 15A-21, LT-41155"
   },
   {
-    "name": "Biržų miesto Kilučių g. 11 daugiabučio namo savininkų bendrija",
-    "code": "155312445",
-    "address": "Biržai, Kilučių g. 11-2, LT-41154"
-  },
-  {
     "name": "Biržų miesto Kęstučio g. 13 daugiabučio namo savininkų bendrija",
     "code": "155318284",
     "address": "Biržai, Kęstučio g. 13, LT-41136"
@@ -1351,11 +1341,6 @@
     "address": "Biržai, Rotušės g. 7, LT-41174"
   },
   {
-    "name": "Biržų miesto S. Nėries g. 8 daugiabučio namo savininkų bendrija",
-    "code": "155317410",
-    "address": "Biržai, S. Nėries g. 8, LT-41176"
-  },
-  {
     "name": "Biržų miesto Skratiškių g. 10 daugiabučio namo savininkų bendrija",
     "code": "155320883",
     "address": "Biržai, Skratiškių g. 10, LT-41156"
@@ -1404,11 +1389,6 @@
     "name": "Biržų miesto Vilniaus g. 47a gyvenamojo namo savininkų bendrija",
     "code": "154895735",
     "address": "Biržai, Vilniaus g. 47A-10, LT-41149"
-  },
-  {
-    "name": "Biržų miesto Vilniaus g. 56 gyvenamojo namo savininkų bendrija",
-    "code": "154892810",
-    "address": "Biržai, Vilniaus g. 56-23, LT-41118"
   },
   {
     "name": "Biržų miesto Vilniaus g. 57a daugiabučio namo savininkų bendrija",
@@ -1691,11 +1671,6 @@
     "address": "Šiauliai, Tilžės g. 36, LT-78205"
   },
   {
-    "name": "Daugiabučio namo Joniškio miesto Vilniaus g. 29 savininkų bendrija",
-    "code": "302524168",
-    "address": "Joniškis, Vilniaus g. 29-22, LT-84159"
-  },
-  {
     "name": "Daugiabučio namo Miesto aikštė 7 savininkų bendrija",
     "code": "302514341",
     "address": "Joniškis, Miesto a. 7-6, LT-84144"
@@ -1940,7 +1915,7 @@
   {
     "name": "Kauno miesto laisvųjų mūrininkų ložė \"Šventas Jonas\"",
     "code": "300602006",
-    "address": "Kaunas, Savanorių pr. 363A, LT-51480"
+    "address": "Kaunas, A. Juozapavičiaus pr. 104, LT-45112"
   },
   {
     "name": "Kauno miesto musulmonų religinė bendruomenė",
@@ -2072,11 +2047,6 @@
     "name": "Kazlų Rūdos miesto vietos veiklos grupė",
     "code": "304077591",
     "address": "Kazlų Rūda, Atgimimo g. 12, LT-69443"
-  },
-  {
-    "name": "Kelmės miesto Vilties g. 14 daugiabučio gyvenamojo namo savininkų bendrija",
-    "code": "303067982",
-    "address": "Kelmė, Vilties g. 14-21, LT-86188"
   },
   {
     "name": "Kelmės miesto bendruomenė",
@@ -2356,7 +2326,7 @@
   {
     "name": "Klaipėdos miesto medžiotojų ir žvejų klubas \"Šateikiai\"",
     "code": "193221296",
-    "address": "Klaipėda, Šilutės pl. 51, LT-94105"
+    "address": "Klaipėda, Sodų g. 4, LT-92228"
   },
   {
     "name": "Klaipėdos miesto meninės gimnastikos sporto klubas \"Ars viva\"",
@@ -2640,16 +2610,6 @@
     "name": "Kupiškio miesto bendruomenė \"Kupiškis\"",
     "code": "306121944",
     "address": "Kupiškis, Taikos g. 5-38, LT-40125"
-  },
-  {
-    "name": "Kupiškio miesto garažų bendrija \"Elektronas\"",
-    "code": "160187356",
-    "address": "Kupiškis, Stoties g. 34, LT-40134"
-  },
-  {
-    "name": "Kupiškio miesto garažų bendrija \"Ežeras\"",
-    "code": "260188110",
-    "address": "Kupiškis, Lauko g. 78, LT-40108"
   },
   {
     "name": "Kupiškio miesto garažų bendrija \"Motoras\"",
@@ -3141,6 +3101,12 @@
     "address": "Klaipėda, Rumpiškės g. 6, LT-91131"
   },
   {
+    "name": "Miesto aplinkos plėtra ir darna, UAB",
+    "code": "304037725",
+    "address": "Vilnius, Vytenio g. 46, LT-03229",
+    "vatcode": "LT100010860618"
+  },
+  {
     "name": "Miesto bažnyčia",
     "code": "192079367",
     "address": "Klaipėda, Vilties g. 9-2, LT-92227"
@@ -3176,11 +3142,6 @@
     "address": "Molėtai, Vilniaus g. 44-2, LT-33140"
   },
   {
-    "name": "Naujosios Akmenės miesto Darbininkų g. 4 daugiabučio namo savininkų bendrija",
-    "code": "153270339",
-    "address": "Naujoji Akmenė, Darbininkų g. 4, LT-85115"
-  },
-  {
     "name": "Naujosios Akmenės miesto Ramučių g. 39 daugiabučio namo savininkų bendrija",
     "code": "300116050",
     "address": "Naujoji Akmenė, Ramučių g. 39-20, LT-85183"
@@ -3209,11 +3170,6 @@
     "name": "Naujosios Akmenės miesto daugiabučio namo Respublikos g. 3A, savininkų bendrija",
     "code": "153249487",
     "address": "Naujoji Akmenė, Respublikos g. 3A, LT-85149"
-  },
-  {
-    "name": "Naujosios Akmenės miesto garažų eksploatavimo bendrija \"Centras\"",
-    "code": "153253418",
-    "address": "Naujoji Akmenė, Lazdynų Pelėdos g. 4, LT-85122"
   },
   {
     "name": "Naujosios Akmenės miesto garažų eksploatavimo bendrija \"Eibučiai\"",
@@ -3574,11 +3530,6 @@
     "address": "Panevėžio r. sav., Ramygala, Panevėžio g. 6-2, LT-38261"
   },
   {
-    "name": "Ramygalos miesto garažų statybos ir eksploatavimo bendrija Nr. 3 Kaštonų gatvėje",
-    "code": "168939049",
-    "address": "Panevėžio r. sav., Ramygala, Kaštonų g. 4, LT-38264"
-  },
-  {
     "name": "Ramygalos miesto-Garuckų kaimo bendruomenė",
     "code": "168983946",
     "address": "Panevėžio r. sav., Ramygala, Dariaus ir Girėno g. 27, LT-38260"
@@ -3663,11 +3614,6 @@
     "name": "Simno miesto garažų statybos ir eksploatavimo bendrija \"Drena\" Nr. 2",
     "code": "153732169",
     "address": "Alytaus r. sav., Simnas, Melioratorių g. 24, LT-64307"
-  },
-  {
-    "name": "Simno miesto garažų statybos ir eksploatavimo bendrija \"Drena\" Nr.1",
-    "code": "253730870",
-    "address": "Alytaus r. sav., Simnas, Melioratorių g. 18, LT-64307"
   },
   {
     "name": "Simno miesto garažų statybos ir eksploatavimo bendrija Nr.1",
@@ -4113,6 +4059,11 @@
     "vatcode": "LT100012623218"
   },
   {
+    "name": "UAB Miesto apartamentai",
+    "code": "307476713",
+    "address": "Vilnius, Smolensko g. 10D-26, LT-03201"
+  },
+  {
     "name": "UAB Miesto desertai",
     "code": "305698238",
     "address": "Marijampolė, Gedimino g. 5-2, LT-68307"
@@ -4475,7 +4426,8 @@
   {
     "name": "Viešoji įstaiga \"Vilniaus Miesto Opera\"",
     "code": "302817107",
-    "address": "Vilnius, Ašmenos g. 8, LT-01135"
+    "address": "Vilnius, Ašmenos g. 8, LT-01135",
+    "vatcode": "LT100019108311"
   },
   {
     "name": "Viešoji įstaiga \"Vilniaus miesto parkai\"",
@@ -4892,11 +4844,6 @@
     "address": "Vilnius, Paupio g. 13B-20, LT-01201"
   },
   {
-    "name": "Vilniaus miesto Daugiabučių namų Gėlių g. 5C ir 5D savininkų bendrija \"Gėlių 5\"",
-    "code": "303266870",
-    "address": "Vilnius, Gėlių g. 5C-9, LT-01137"
-  },
-  {
     "name": "Vilniaus miesto Fabijoniškių g. 90 namo savininkų bendrija",
     "code": "306737950",
     "address": "Vilnius, Fabijoniškių g. 90-48, LT-07100"
@@ -5015,6 +4962,11 @@
     "name": "Vilniaus miesto daugiabučio gyvenamojo namo Literatų g. 5 savininkų bendrija \"L5\"",
     "code": "303916880",
     "address": "Vilnius, Literatų g. 5-13, LT-01125"
+  },
+  {
+    "name": "Vilniaus miesto daugiabučio gyvenamojo namo Pylimo g. 9 savininkų bendrija",
+    "code": "307476503",
+    "address": "Vilnius, Pylimo g. 9-13, LT-01118"
   },
   {
     "name": "Vilniaus miesto daugiabučio gyvenamojo namo Sėlių g. 34 savininkų bendrija",
@@ -5838,11 +5790,6 @@
     "address": "Širvintos, J. Janonio g. 36, LT-19116"
   },
   {
-    "name": "Širvintų miesto garažų eksploatavimo bendrija Nr. 8",
-    "code": "178313951",
-    "address": "Širvintos, Giminių g. 1, LT-19117"
-  },
-  {
     "name": "Širvintų miesto garažų statybos ir eksploatavimo bendrija Nr. 1",
     "code": "178312326",
     "address": "Širvintos, J. Janonio g. 22, LT-19116"
@@ -5960,7 +5907,7 @@
   {
     "name": "VšĮ \"Žaisti miestą\"",
     "code": "306644617",
-    "address": "Vilnius, Rinktinės g. 45-56, LT-09206"
+    "address": "Vilnius, Tyzenhauzų g. 12-38, LT-02108"
   },
   {
     "name": "LIETUVOS MIESTŲ APŠVIETIMO ĮMONIŲ ASOCIACIJA",

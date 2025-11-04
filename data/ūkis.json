@@ -211,12 +211,6 @@
     "address": "Alytaus r. sav., Daugų sen., Pavarčių k. 1, LT-64184"
   },
   {
-    "name": "MB \"Saulės ūkis\"",
-    "code": "302873458",
-    "address": "Vilnius, Kazio Borutos g. 26-56, LT-08335",
-    "vatcode": "LT100007190114"
-  },
-  {
     "name": "MB \"Vaškių ūkis\"",
     "code": "305832146",
     "address": "Šakių r. sav., Sintautai, Darbininkų g. 8A, LT-71337"
@@ -264,7 +258,7 @@
   {
     "name": "MB Dzidų žuvininkystės ūkis",
     "code": "304997967",
-    "address": "Šiauliai, Radviliškio g. 16, LT-76274"
+    "address": "Šiauliai, Vėtrungės g. 108, LT-78305"
   },
   {
     "name": "MB Edvino ūkis",
@@ -301,7 +295,8 @@
   {
     "name": "MB Lelių ūkis",
     "code": "307270581",
-    "address": "Vilnius, Kanklių g. 6-4, LT-10321"
+    "address": "Vilnius, Kanklių g. 6-4, LT-10321",
+    "vatcode": "LT100019079415"
   },
   {
     "name": "MB Lietuviškas ūkis",
@@ -321,8 +316,7 @@
   {
     "name": "MB Lukšių ūkis LT",
     "code": "305167091",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
-    "vatcode": "LT100015022510"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "MB Lėlytės ūkis",
@@ -737,6 +731,12 @@
     "code": "164144174",
     "address": "Kretingos r. sav., Darbėnų sen., Grūšlaukės k., Peldžių g. 29, LT-97290",
     "vatcode": "LT100003389212"
+  },
+  {
+    "name": "UAB \"Saulės ūkis\"",
+    "code": "302873458",
+    "address": "Vilnius, Kazio Borutos g. 26-56, LT-08335",
+    "vatcode": "LT100007190114"
   },
   {
     "name": "UAB \"Saviečių ūkis\"",
@@ -1367,6 +1367,11 @@
     "code": "303324715",
     "address": "Šiaulių r. sav., Kairių sen., Žadžiūnų k., Gudelių g. 30-2, LT-80103",
     "vatcode": "LT100008740919"
+  },
+  {
+    "name": "ŽŪB Grey ūkis",
+    "code": "307487065",
+    "address": "Kaišiadorių r. sav., Kruonis, Oginskių g. 16, LT-56319"
   },
   {
     "name": "ŽŪB Grūduvos ekologinis ūkis",

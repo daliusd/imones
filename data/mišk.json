@@ -661,8 +661,7 @@
   {
     "name": "UAB \"Tverų miškas\"",
     "code": "170102219",
-    "address": "Rietavo sav., Tverai, Varnių g. 5, LT-90282",
-    "vatcode": "LT701022113"
+    "address": "Rietavo sav., Tverai, Varnių g. 5, LT-90282"
   },
   {
     "name": "UAB \"Tylus miškas\"",
@@ -716,7 +715,8 @@
   {
     "name": "UAB LLG Miškas",
     "code": "307204581",
-    "address": "Vilnius, Kirtimų g. 2, LT-02300"
+    "address": "Vilnius, Kirtimų g. 2, LT-02300",
+    "vatcode": "LT100019077711"
   },
   {
     "name": "UAB Medrola miškas",
@@ -845,7 +845,7 @@
   {
     "name": "Mažoji bendrija \"Mes miške\"",
     "code": "306282292",
-    "address": "Kaišiadorių r. sav., Pravieniškių sen., Aleksandruvkos k., Pušyno g. 19, LT-56366",
+    "address": "Kaunas, Garažų g. 23-2, LT-50315",
     "vatcode": "LT100016270710"
   },
   {
@@ -980,6 +980,11 @@
     "name": "Miškininkystės ir inžinerijos profesinė sąjunga",
     "code": "306628698",
     "address": "Kauno r. sav., Samylų sen., Girionių k., Liepų g. 1-1, LT-53101"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė Varėnos miškininkystės projektai",
+    "code": "307476161",
+    "address": "Varėnos r. sav., Jakėnų sen., Kalėnų k., Gervių g. 8, LT-65418"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Miškininkų - 6\"",
@@ -1202,11 +1207,6 @@
     "name": "Daugiabučio namo savininkų bendrija \"Miško gėlė\"",
     "code": "301592846",
     "address": "Klaipėda, Kretingos g. 43, LT-92303"
-  },
-  {
-    "name": "Daugiabučio namo savininkų bendrija \"Miško svaja\"",
-    "code": "300052968",
-    "address": "Neringa, Ievos Kalno g. 26, LT-93103"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Miško vartai\"",
@@ -2081,7 +2081,7 @@
   {
     "name": "UAB \"Miško valdymas\"",
     "code": "304678802",
-    "address": "Kauno r. sav., Samylų sen., Gervėnupio k., Ąžuolyno g. 10, LT-53162"
+    "address": "Kauno r. sav."
   },
   {
     "name": "UAB \"Miško veja\"",
@@ -2610,7 +2610,7 @@
   {
     "name": "UAB \"Mabos miškų brokeriai\"",
     "code": "303376263",
-    "address": "Kauno r. sav., Samylų sen., Gervėnupio k., Ąžuolyno g. 10, LT-53162"
+    "address": "Kauno r. sav."
   },
   {
     "name": "UAB \"Miškų broliai\"",

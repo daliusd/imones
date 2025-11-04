@@ -861,6 +861,11 @@
     "address": "Pakruojo r. sav., Rozalimo sen., Vismantų k., Ąžuolo g. 2, LT-83241"
   },
   {
+    "name": "IĮ R. Strumskio veterinarijos įmonė",
+    "code": "169147295",
+    "address": "Pasvalio r. sav., Joniškėlis, G. Petkevičaitės-Bitės g. 3, LT-39303"
+  },
+  {
     "name": "IĮ Rimo Ribinsko veterinarijos tarnyba",
     "code": "175706515",
     "address": "Šiaulių r. sav., Gruzdžiai, Jaunimo g. 6-31, LT-81422"
@@ -1069,11 +1074,6 @@
     "address": "Tauragės r. sav., Skaudvilės sen., Pasuvirkščio k. 2, LT-73403"
   },
   {
-    "name": "R. Strumskio veterinarijos įmonė",
-    "code": "169147295",
-    "address": "Pasvalio r. sav., Joniškėlis, Birutės g. 49, LT-39308"
-  },
-  {
     "name": "R. Tamulio veterinarijos paslaugų įmonė",
     "code": "183719761",
     "address": "Utenos r. sav., Kuktiškių sen., Šlapių k."
@@ -1253,7 +1253,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS VETERINARIJOS KLINIKINĖ LIGONINĖ\"",
     "code": "122772692",
-    "address": "Vilnius, A. Kojelavičiaus g. 150A, LT-11106"
+    "address": "Vilnius, A. Kojelavičiaus g. 150A, LT-11106",
+    "vatcode": "LT100019034516"
   },
   {
     "name": "Uždaroji akcinė bendrovė Jakovo veterinarijos centras",
@@ -1827,8 +1828,7 @@
   {
     "name": "Uždaroji akcinė bendrovė Šalčininkų veterinarinė vaistinė",
     "code": "174967284",
-    "address": "Šalčininkai, Kaštonų g. 1A, LT-17111",
-    "vatcode": "LT100004369112"
+    "address": "Šalčininkai, Kaštonų g. 1A, LT-17111"
   },
   {
     "name": "V. Šiaudvyčio veterinarinė klinika",
