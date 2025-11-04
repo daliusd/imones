@@ -508,8 +508,7 @@
   {
     "name": "MB \"IPA Trade\"",
     "code": "306600318",
-    "address": "Vilniaus r. sav., Avižienių sen., Bajorų k., Mėtų g. 21A, LT-14182",
-    "vatcode": "LT100016376110"
+    "address": "Vilniaus r. sav., Avižienių sen., Bajorų k., Mėtų g. 21A, LT-14182"
   },
   {
     "name": "MB \"Intro Trade\"",
@@ -524,7 +523,8 @@
   {
     "name": "MB \"L-trade\"",
     "code": "306313485",
-    "address": "Kaunas, Raudondvario pl. 182, LT-47149"
+    "address": "Kaunas, Raudondvario pl. 182, LT-47149",
+    "vatcode": "LT100019044019"
   },
   {
     "name": "MB \"LMFA Trade\"",
@@ -541,6 +541,11 @@
     "name": "MB \"Mobo trade\"",
     "code": "305683421",
     "address": "Kaunas, Lendrūnų tak. 9, LT-45451"
+  },
+  {
+    "name": "MB \"Moty trade\"",
+    "code": "307458099",
+    "address": "Kauno r. sav., Samylų sen., Laumėnų k., Beržų al. 1, LT-53118"
   },
   {
     "name": "MB \"Nolt trade\"",
@@ -561,7 +566,8 @@
   {
     "name": "MB \"Parcels trade\"",
     "code": "307089556",
-    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Girių g. 3-1, LT-14199"
+    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Girių g. 3-1, LT-14199",
+    "vatcode": "LT100019029510"
   },
   {
     "name": "MB \"RG Trade Group\"",
@@ -641,6 +647,11 @@
     "address": "Vilnius, Lazdynėlių g. 34A-14, LT-04126"
   },
   {
+    "name": "MB AS trade",
+    "code": "307483241",
+    "address": "Šiauliai, Vytauto g. 147-18, LT-76341"
+  },
+  {
     "name": "MB Aj Trade",
     "code": "306688617",
     "address": "Šiauliai, Vytauto g. 43-27, LT-77140",
@@ -672,7 +683,7 @@
   {
     "name": "MB Balt Invest Trade",
     "code": "306241648",
-    "address": "Vilnius, Eišiškių pl. 47-312, LT-02184",
+    "address": "Vilniaus r. sav., Nemėžio sen., Daržininkų k., Minsko pl. 108, LT-13264",
     "vatcode": "LT100015878416"
   },
   {
@@ -815,7 +826,8 @@
   {
     "name": "MB Nowo trade",
     "code": "307029744",
-    "address": "Prienai, Vytauto g. 11A, LT-59124"
+    "address": "Prienai, Vytauto g. 11A, LT-59124",
+    "vatcode": "LT100019000317"
   },
   {
     "name": "MB Ok trade",
@@ -1872,8 +1884,7 @@
   {
     "name": "UAB \"Tenders Trade Group\"",
     "code": "304419842",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
-    "vatcode": "LT100014946217"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "UAB \"Terra Trade\"",
@@ -2132,12 +2143,6 @@
     "name": "UAB ERUN BALTIC TRADE",
     "code": "302787137",
     "address": "Vilnius, Pramonės g. 97, LT-11115"
-  },
-  {
-    "name": "UAB Ekochemeta trade",
-    "code": "307078257",
-    "address": "Kauno r. sav., Ringaudų sen., Tabariškių k., Gėlių g. 89, LT-53330",
-    "vatcode": "LT100018114916"
   },
   {
     "name": "UAB FE trade",
@@ -2513,6 +2518,11 @@
     "address": "Klaipėda, Ragainės g. 5C K1-2, LT-92196"
   },
   {
+    "name": "UAB \"Tradelink Europe\"",
+    "code": "307472540",
+    "address": "Kaunas, Islandijos pl. 95-57, LT-49176"
+  },
+  {
     "name": "UAB Tradelitas",
     "code": "307186507",
     "address": "Vilnius, P. Žadeikos g. 3-31, LT-06319"
@@ -2833,6 +2843,11 @@
     "name": "Social TradeX, UAB",
     "code": "306157666",
     "address": "Vilnius, Lvivo g. 25-104, LT-09320"
+  },
+  {
+    "name": "UAB TRADEX BALTIC",
+    "code": "307467671",
+    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "MB Tradiala",
@@ -3189,8 +3204,7 @@
   {
     "name": "CASS TRADING, UAB",
     "code": "304316956",
-    "address": "Vilnius, Saltoniškių g. 31, LT-08106",
-    "vatcode": "LT100013528218"
+    "address": "Vilnius, Saltoniškių g. 31, LT-08106"
   },
   {
     "name": "CENTRAL ELECTRICAL TRADING L.L.C. Vilniaus filialas",
@@ -3270,8 +3284,7 @@
   {
     "name": "Hoeksteen trading 2, UAB",
     "code": "305916562",
-    "address": "Kauno miesto savivaldybės teritorija",
-    "vatcode": "LT100015459111"
+    "address": "Kauno miesto savivaldybės teritorija"
   },
   {
     "name": "Influx Trading, UAB",
@@ -3373,6 +3386,12 @@
     "name": "LESTEL TRADING LIMITED atstovybė Lietuvoje",
     "code": "305226771",
     "address": "Vilnius, Šv. Stepono g. 5, LT-01139"
+  },
+  {
+    "name": "Lb trading, MB",
+    "code": "307457638",
+    "address": "Vilnius, Palydovo g. 110, LT-11121",
+    "vatcode": "LT100019058614"
   },
   {
     "name": "Lionsgate General Trading UAB",
@@ -3527,8 +3546,7 @@
   {
     "name": "MB \"SHENDO TRADING\"",
     "code": "306175276",
-    "address": "Šiauliai, Vytauto g. 147-18, LT-76341",
-    "vatcode": "LT100015695615"
+    "address": "Šiauliai, Vytauto g. 147-18, LT-76341"
   },
   {
     "name": "MB \"Sky links jewellery trading\"",
@@ -3615,7 +3633,7 @@
   {
     "name": "MB Amm trading",
     "code": "306624333",
-    "address": "Marijampolė, Geležinkelio g. 142-5, LT-68275"
+    "address": "Marijampolės sav."
   },
   {
     "name": "MB Baltic trading product group",
@@ -3892,11 +3910,6 @@
     "name": "UAB \"Aria trading\"",
     "code": "306662711",
     "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
-  },
-  {
-    "name": "UAB \"Asiana Trading Alliance\"",
-    "code": "304825654",
-    "address": "Marijampolė, Gedimino g. 85, LT-68113"
   },
   {
     "name": "UAB \"Automotive Trading Group\"",
@@ -4420,7 +4433,8 @@
   {
     "name": "UAB AMT Trading",
     "code": "306128593",
-    "address": "Vilnius, Verkių g. 46, LT-09117"
+    "address": "Vilnius, Verkių g. 46, LT-09117",
+    "vatcode": "LT100015265214"
   },
   {
     "name": "UAB Al Noor Trading",
@@ -4642,7 +4656,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"MUC TRADING\"",
     "code": "111533673",
-    "address": "Vilnius, Jonažolių g. 17, LT-04136",
+    "address": "Panevėžys, Lėkiškio g. 6A, LT-35289",
     "vatcode": "LT115336716"
   },
   {

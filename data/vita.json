@@ -205,7 +205,7 @@
   {
     "name": "UAB \"Numero Vita\"",
     "code": "306315689",
-    "address": "Kaunas, Laisvės al. 35-26, LT-44311"
+    "address": "Kaunas, Nemuno g. 17-6, LT-44295"
   },
   {
     "name": "UAB \"Orto Vita\"",
@@ -306,7 +306,8 @@
   {
     "name": "UAB Bravo vita",
     "code": "305968235",
-    "address": "Kaunas, Taikos pr. 112, LT-51160"
+    "address": "Kaunas, Taikos pr. 112, LT-51160",
+    "vatcode": "LT100019069216"
   },
   {
     "name": "UAB Nova vita klinika",
@@ -323,6 +324,11 @@
     "name": "UAB Vita NT",
     "code": "306362596",
     "address": "Kaunas, P. Plechavičiaus g. 6-92, LT-49301"
+  },
+  {
+    "name": "UAB Vita constructa",
+    "code": "307476777",
+    "address": "Vilnius, Rinktinės g. 42-2C, LT-09316"
   },
   {
     "name": "UAB Vita simplex klinika",
@@ -562,8 +568,7 @@
   {
     "name": "MB Vitaero",
     "code": "306142664",
-    "address": "Vilniaus r. sav., Zujūnų sen., Papiškių k., Balandžių g. 34, LT-06292",
-    "vatcode": "LT100015309613"
+    "address": "Vilniaus r. sav., Zujūnų sen., Papiškių k., Balandžių g. 34, LT-06292"
   },
   {
     "name": "UAB \"Vitafa\"",
@@ -942,11 +947,6 @@
     "vatcode": "LT100008367915"
   },
   {
-    "name": "MB \"Vitalite Plus\"",
-    "code": "305794724",
-    "address": "Vilnius, Baltupio g. 83-15, LT-08308"
-  },
-  {
     "name": "MB \"Vitality Tech Forge\"",
     "code": "306712598",
     "address": "Vilniaus r. sav., Riešės sen., Raudondvario k., Žirgų g. 18-6, LT-14257"
@@ -1221,7 +1221,8 @@
   {
     "name": "MB Vitarent",
     "code": "307068708",
-    "address": "Kaunas, K. Škirpos g. 6-31, LT-49212"
+    "address": "Kaunas, K. Škirpos g. 6-31, LT-49212",
+    "vatcode": "LT100019032015"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Vitaresta\"",

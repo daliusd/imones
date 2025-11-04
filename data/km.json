@@ -1,5 +1,10 @@
 [
   {
+    "name": "UAB KM+CLINIC",
+    "code": "306250309",
+    "address": "Vilnius, Kauno g. 35-24, LT-03229"
+  },
+  {
     "name": "UAB KM35",
     "code": "304531446",
     "address": "Vilnius, A. Rotundo g. 5-102, LT-01400",
@@ -52,11 +57,6 @@
     "name": "MB KM Solutions",
     "code": "306197803",
     "address": "Vilnius, Liepkalnio g. 69-14, LT-02120"
-  },
-  {
-    "name": "MB KM projektai",
-    "code": "304756560",
-    "address": "Vilnius, Kalvarijų g. 112-3, LT-08211"
   },
   {
     "name": "MB Km juvelyrika",
@@ -122,7 +122,8 @@
   {
     "name": "UAB KM Turtas",
     "code": "307419057",
-    "address": "Alytus, Gardino g. 30, LT-62154"
+    "address": "Alytus, Gardino g. 30, LT-62154",
+    "vatcode": "LT100018991416"
   },
   {
     "name": "VšĮ \"1000 km lenktynės\"",
@@ -342,5 +343,10 @@
     "name": "UAB Kmynas",
     "code": "302777011",
     "address": "Elektrėnai, Trakų g. 21-8, LT-26116"
+  },
+  {
+    "name": "UAB Kmyninė",
+    "code": "305693312",
+    "address": "Ukmergės r. sav., Veprių sen., Kultuvėnų k., Dvaro g. 5, LT-20265"
   }
 ]

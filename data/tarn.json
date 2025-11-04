@@ -137,11 +137,6 @@
     "address": "Utena, Utenio a. 4, LT-28241"
   },
   {
-    "name": "Valstybinio turizmo departamento prie Ūkio ministerijos darbuotojų ir valstybės tarnautojų profesinė sąjunga",
-    "code": "303861850",
-    "address": "Vilnius, Gedimino pr. 38, LT-01104"
-  },
-  {
     "name": "Valstybinės maisto ir veterinarijos tarnybos valstybės tarnautojų ir darbuotojų profesinė sąjunga",
     "code": "305440533",
     "address": "Anykščiai, Žiburio g. 13-9, LT-29120"
@@ -342,7 +337,8 @@
   {
     "name": "Fortis saugos tarnyba, MB",
     "code": "307296989",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100019099016"
   },
   {
     "name": "G. Jautakio veterinarinė tarnyba",
@@ -534,6 +530,11 @@
     "name": "Kauno rajono pedagoginė psichologinė tarnyba",
     "code": "305838448",
     "address": "Kauno r. sav., Garliava, Vytauto g. 65-4, LT-53258"
+  },
+  {
+    "name": "Kauno rajono priešgaisrinė saugos tarnyba",
+    "code": "160448564",
+    "address": "Kauno r. sav., Garliava, Stasio Lozoraičio g. 17D, LT-53228"
   },
   {
     "name": "Kazlų Rūdos pedagoginė psichologinė tarnyba",
@@ -1123,7 +1124,7 @@
   {
     "name": "UAB Pastatų serviso tarnyba",
     "code": "304772867",
-    "address": "Kaunas, Skuodo g. 4C-1, LT-45198",
+    "address": "Kaunas, Skuodo g. 2F, LT-45204",
     "vatcode": "LT100011594911"
   },
   {
@@ -1345,11 +1346,6 @@
     "code": "234935550",
     "address": "Kaunas, Rotušės a. 14A, LT-44279",
     "vatcode": "LT349355515"
-  },
-  {
-    "name": "Viešoji įstaiga Kauno rajono priešgaisrinė saugos tarnyba",
-    "code": "160448564",
-    "address": "Kauno r. sav., Garliava, Stasio Lozoraičio g. 17D, LT-53228"
   },
   {
     "name": "Viešoji įstaiga Lietuvos žemės ūkio konsultavimo tarnyba",
@@ -2059,7 +2055,8 @@
   {
     "name": "VšĮ SOTAS (Socialinės tarnystės savanoriai)",
     "code": "195746022",
-    "address": "Vilnius, Mildos g. 11-3, LT-10311"
+    "address": "Vilnius, Mildos g. 11-3, LT-10311",
+    "vatcode": "LT100018989010"
   },
   {
     "name": "Tarnėnų kaimo bendruomenė",

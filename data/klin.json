@@ -562,7 +562,8 @@
   {
     "name": "MB \"Šypsenos klinika\"",
     "code": "306326319",
-    "address": "Kauno r. sav., Užliedžių sen., Romainių Kaimelės k., Romainių g. 200, LT-54306"
+    "address": "Kauno r. sav., Užliedžių sen., Romainių Kaimelės k., Romainių g. 200, LT-54306",
+    "vatcode": "LT100019032913"
   },
   {
     "name": "MB A. Pilypo klinika",
@@ -604,7 +605,8 @@
   {
     "name": "MB Bokšto klinika",
     "code": "305114384",
-    "address": "Kaunas, Partizanų g. 216-77, LT-50319"
+    "address": "Kaunas, Partizanų g. 216-77, LT-50319",
+    "vatcode": "LT100012410617"
   },
   {
     "name": "MB Burnos higienos klinika",
@@ -1019,7 +1021,8 @@
   {
     "name": "MB Time klinika",
     "code": "307437482",
-    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Parko g. 13-1, LT-14198"
+    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Parko g. 13-1, LT-14198",
+    "vatcode": "LT100019043818"
   },
   {
     "name": "MB Tomos kineziterapijos klinika",
@@ -1889,7 +1892,8 @@
   {
     "name": "UAB A. Stasiulio reabilitacijos klinika",
     "code": "300135855",
-    "address": "Klaipėda, H. Manto g. 36-3, LT-92233"
+    "address": "Klaipėda, H. Manto g. 36-3, LT-92233",
+    "vatcode": "LT100018974719"
   },
   {
     "name": "UAB A. Šimkaus klinika \"Therapia scientifica\"",
@@ -1909,7 +1913,7 @@
   {
     "name": "UAB Andriaus Anisimenkovo odontologijos klinika",
     "code": "302873508",
-    "address": "Mažeikiai, Naftininkų g. 76-1, LT-89182"
+    "address": "Mažeikiai, Pavasario g. 41A, LT-89162"
   },
   {
     "name": "UAB Angelijos Kubilienės odontologijos klinika",
@@ -1920,6 +1924,11 @@
     "name": "UAB AngiON Klinika",
     "code": "306023489",
     "address": "Vilnius, Lietaus g. 45, LT-04125"
+  },
+  {
+    "name": "UAB Armedika klinika",
+    "code": "307484628",
+    "address": "Kaunas, Savanorių pr. 125, LT-44146"
   },
   {
     "name": "UAB Aukštaitijos implantologijos klinika",
@@ -2537,7 +2546,7 @@
   {
     "name": "UAB Rokiškio odontologijos klinika",
     "code": "304315555",
-    "address": "Rokiškis, Parko g. 28-1, LT-42126"
+    "address": "Rokiškis, Respublikos g. 60, LT-42129"
   },
   {
     "name": "UAB Rolandos Markevičiūtės odontologijos klinika",
@@ -2558,6 +2567,12 @@
     "name": "UAB SDC klinika",
     "code": "304989582",
     "address": "Vilnius, Kalvarijų g. 128A-2, LT-08210"
+  },
+  {
+    "name": "UAB SVEIKATINGUMO IR TERAPIJOS KLINIKA",
+    "code": "306144658",
+    "address": "Vilnius, Lazdynėlių g. 26-27, LT-04126",
+    "vatcode": "LT100015916816"
   },
   {
     "name": "UAB Salantų odontologijos klinika \"Barbora\"",
@@ -2726,7 +2741,7 @@
   {
     "name": "UAB WLP klinika",
     "code": "304173650",
-    "address": "Kaunas, Savanorių pr. 109, LT-44208"
+    "address": "Kauno m. sav."
   },
   {
     "name": "UAB Zanavykų klinika",
@@ -3120,7 +3135,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS VETERINARIJOS KLINIKINĖ LIGONINĖ\"",
     "code": "122772692",
-    "address": "Vilnius, A. Kojelavičiaus g. 150A, LT-11106"
+    "address": "Vilnius, A. Kojelavičiaus g. 150A, LT-11106",
+    "vatcode": "LT100019034516"
   },
   {
     "name": "Viešoji įstaiga Vilniaus miesto klinikinė ligoninė",
@@ -3386,11 +3402,6 @@
     "name": "MB \"Klinkerio sprendimai\"",
     "code": "306722973",
     "address": "Kaunas, Hipodromo g. 36-78, LT-45135"
-  },
-  {
-    "name": "MB \"Klinkerio vilkai\"",
-    "code": "306420697",
-    "address": "Klaipėda, Lūžų g. 5-62, LT-95239"
   },
   {
     "name": "MB Klinkerio asai",

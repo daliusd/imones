@@ -126,11 +126,6 @@
     "address": "Vilnius, Antakalnio g. 18B-3, LT-10308"
   },
   {
-    "name": "Alytaus lopšelis-darželis \"Pasaka\"",
-    "code": "191052755",
-    "address": "Alytus, Vingio g. 7A, LT-63219"
-  },
-  {
     "name": "DNSB \"Čiurlionio pasaka\"",
     "code": "307022536",
     "address": "Vilnius, M. K. Čiurlionio g. 11-2, LT-03104"
@@ -458,6 +453,11 @@
     "address": "Varėna, Dzūkų g. 11, LT-65173"
   },
   {
+    "name": "Viešoji įstaiga Pasakos kinas",
+    "code": "307476923",
+    "address": "Vilnius, P. Vileišio g. 10E-11, LT-10307"
+  },
+  {
     "name": "VšĮ \"Pasakotojai\"",
     "code": "304285585",
     "address": "Radviliškio r. sav., Aukštelkų sen., Aukštelkų k., Žalioji g. 8, LT-82486"
@@ -755,7 +755,7 @@
   {
     "name": "MB \"Pasaulio Baldai\"",
     "code": "303009630",
-    "address": "Vilnius, A. Vivulskio g. 16-11, LT-03115"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "MB \"Pasaulio komercija\"",
@@ -946,8 +946,7 @@
   {
     "name": "UAB \"Pasaulio maistas\"",
     "code": "303341515",
-    "address": "Vilnius, Blindžių g. 17A-7, LT-08111",
-    "vatcode": "LT100008691715"
+    "address": "Vilnius, Blindžių g. 17A-7, LT-08111"
   },
   {
     "name": "UAB \"Pasaulio optika\"",
@@ -1547,6 +1546,11 @@
     "vatcode": "LT100017192418"
   },
   {
+    "name": "MB Spurgyčių pasaulis",
+    "code": "307474477",
+    "address": "Klaipėda, Ragainės g. 14A-21, LT-92196"
+  },
+  {
     "name": "MB Sr pasaulis",
     "code": "307178460",
     "address": "Kretingos r. sav., Imbarės sen., Bargalio k., Darbėnų g. 1, LT-97311",
@@ -1622,11 +1626,6 @@
     "code": "125650398",
     "address": "Vilnius, Kalvarijų g. 286-30, LT-08317",
     "vatcode": "LT100001208915"
-  },
-  {
-    "name": "UAB \"Azijos pasaulis\"",
-    "code": "304027948",
-    "address": "Vilnius, Skroblų g. 25-118, LT-03141"
   },
   {
     "name": "UAB \"Baltijos koralų pasaulis\"",
@@ -2072,7 +2071,7 @@
   {
     "name": "UAB Filtrų pasaulis",
     "code": "306224976",
-    "address": "Vilnius, Mokslininkų g. 2, LT-08412",
+    "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Sedulų g. 2-10, LT-14183",
     "vatcode": "LT100016282613"
   },
   {
@@ -2267,7 +2266,8 @@
   {
     "name": "VšĮ \"Dainų pasaulis\"",
     "code": "305142864",
-    "address": "Klaipėda, Rumpiškės g. 32-15, LT-91147"
+    "address": "Klaipėda, Rumpiškės g. 32-15, LT-91147",
+    "vatcode": "LT100019096516"
   },
   {
     "name": "VšĮ \"Draugų pasaulis\"",
@@ -2363,8 +2363,7 @@
   {
     "name": "MB \"Grindų Pasaulyje\"",
     "code": "306662818",
-    "address": "Kelmės r. sav., Šaukėnų sen., Aunuvėnų k., Luokės g. 26, LT-86369",
-    "vatcode": "LT100016597711"
+    "address": "Kelmės r. sav., Šaukėnų sen., Aunuvėnų k., Luokės g. 26, LT-86369"
   },
   {
     "name": "MB \"Žvejybos pasaulyje\"",

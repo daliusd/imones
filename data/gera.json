@@ -20,6 +20,11 @@
     "address": "Kaunas, Trakų g. 7-9, LT-44236"
   },
   {
+    "name": "Gera mokykla MB",
+    "code": "307469601",
+    "address": "Vilnius, Šiaurės Sodų 6-oji g. 40, LT-11123"
+  },
+  {
     "name": "IĮ \"Gera praktika\"",
     "code": "302941286",
     "address": "Vilnius, Mykolo Marcinkevičiaus g. 19-14, LT-08433",
@@ -226,7 +231,8 @@
   {
     "name": "UAB \"Gera ferma\"",
     "code": "306670786",
-    "address": "Vilnius, Krivių g. 5, LT-01204"
+    "address": "Vilnius, Krivių g. 5, LT-01204",
+    "vatcode": "LT100019053714"
   },
   {
     "name": "UAB \"Gera forma\"",
@@ -943,8 +949,7 @@
   {
     "name": "Mažoji bendrija \"Geras gyvenimas\"",
     "code": "304406738",
-    "address": "Vilniaus miesto savivaldybės teritorija",
-    "vatcode": "LT100015768917"
+    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "Mažoji bendrija \"Geras kadras\"",
@@ -1245,11 +1250,6 @@
     "code": "141399949",
     "address": "Klaipėda, Laukininkų g. 34-3, LT-95149",
     "vatcode": "LT100000829315"
-  },
-  {
-    "name": "Labdaros ir paramos fondas \"Gerasis Ruonis\"",
-    "code": "303011439",
-    "address": "Vilnius, Naujakurių g. 13, LT-10220"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"GERASIS AITVARAS\"",

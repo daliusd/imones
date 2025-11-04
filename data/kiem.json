@@ -25,11 +25,6 @@
     "address": "Vilnius, Subačiaus g. 17-1, LT-01300"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija \"KIEMAS\"",
-    "code": "177486765",
-    "address": "Šilutė, Tilžės g. 21, LT-99142"
-  },
-  {
     "name": "Daugiabučio namo savininkų bendrija \"Mano kiemas\"",
     "code": "300503410",
     "address": "Klaipėda, Kretingos g. 55-26, LT-92300"
@@ -138,6 +133,12 @@
     "address": "Klaipėda, Taikos pr. 57-53, LT-91153"
   },
   {
+    "name": "MB \"Tvarkingas kiemas\"",
+    "code": "305714728",
+    "address": "Kaunas, Demokratų g. 37-43, LT-48495",
+    "vatcode": "LT100015354215"
+  },
+  {
     "name": "MB \"Virtualus kiemas\"",
     "code": "304891704",
     "address": "Šiauliai, Voveriškių g. 41-1, LT-78143"
@@ -166,7 +167,8 @@
   {
     "name": "MB Mažas kiemas",
     "code": "306206597",
-    "address": "Kaunas, Pakalnės g. 15B, LT-47160"
+    "address": "Kaunas, Pakalnės g. 15B, LT-47160",
+    "vatcode": "LT100019023914"
   },
   {
     "name": "MB Statybų kiemas",
@@ -252,12 +254,6 @@
     "address": "Kaunas, Bituko g. 3A, LT-52366"
   },
   {
-    "name": "UAB \"Tvarkingas kiemas\"",
-    "code": "305714728",
-    "address": "Kaunas, Demokratų g. 37-43, LT-48495",
-    "vatcode": "LT100015354215"
-  },
-  {
     "name": "UAB \"Vidinis kiemas\"",
     "code": "304059561",
     "address": "Vilnius, Ramybės g. 4-70, LT-02103",
@@ -272,7 +268,7 @@
   {
     "name": "UAB \"Šviesus kiemas\"",
     "code": "304724317",
-    "address": "Varėnos r. sav., Merkinė, Vilniaus g. 12, LT-65330"
+    "address": "Druskininkai, Birutės g. 7, LT-66111"
   },
   {
     "name": "UAB Jaukus kiemas",
@@ -594,7 +590,8 @@
   {
     "name": "MB Projektai kiemui",
     "code": "306480580",
-    "address": "Vilnius, Helsinkio g. 62-1, LT-06298"
+    "address": "Vilnius, Helsinkio g. 62-1, LT-06298",
+    "vatcode": "LT100018999215"
   },
   {
     "name": "Viešoji įstaiga \"Mūsų kiemui\"",

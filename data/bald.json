@@ -517,7 +517,7 @@
   {
     "name": "MB \"Pasaulio Baldai\"",
     "code": "303009630",
-    "address": "Vilnius, A. Vivulskio g. 16-11, LT-03115"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "MB \"Pasvalio baldai\"",
@@ -838,7 +838,8 @@
   {
     "name": "MB Grg baldai",
     "code": "306635924",
-    "address": "Gargždai, Turgaus g. 28-25, LT-96129"
+    "address": "Gargždai, Turgaus g. 28-25, LT-96129",
+    "vatcode": "LT100018971916"
   },
   {
     "name": "MB Igro baldai",
@@ -912,6 +913,12 @@
     "address": "Vilniaus rajono savivaldybės teritorija"
   },
   {
+    "name": "MB Mokko baldai",
+    "code": "307462521",
+    "address": "Klaipėda, Eitkūnų g. 12, LT-92196",
+    "vatcode": "LT100019042618"
+  },
+  {
     "name": "MB Muf baldai",
     "code": "306365375",
     "address": "Vilnius, Mykolo Velykio g. 9D, LT-11239"
@@ -960,6 +967,11 @@
     "vatcode": "LT100014280212"
   },
   {
+    "name": "MB Ramo baldai",
+    "code": "307457499",
+    "address": "Panevėžys, Nemuno g. 64-103, LT-35191"
+  },
+  {
     "name": "MB S.A baldai",
     "code": "306321286",
     "address": "Kupiškis, Slavinčiškio g. 16, LT-40118"
@@ -972,7 +984,7 @@
   {
     "name": "MB Tryse baldai",
     "code": "306879647",
-    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., K. Bielinio g. 6, LT-54465",
+    "address": "Kaunas, Žeimenos g. 147D-5, LT-49329",
     "vatcode": "LT100017085610"
   },
   {
@@ -1156,11 +1168,6 @@
     "code": "186746888",
     "address": "Vilnius, Žalgirio g. 114, LT-09300",
     "vatcode": "LT867468811"
-  },
-  {
-    "name": "UAB \"Alksnio baldai ir Co\"",
-    "code": "300009080",
-    "address": "Klaipėda, Laukininkų g. 21-17, LT-95177"
   },
   {
     "name": "UAB \"Alsvejos baldai\"",
@@ -1440,8 +1447,7 @@
   {
     "name": "UAB \"Gama baldai\"",
     "code": "303082265",
-    "address": "Šiauliai, Šakių g. 29, LT-76361",
-    "vatcode": "LT100007806617"
+    "address": "Šiauliai, Šakių g. 29, LT-76361"
   },
   {
     "name": "UAB \"Garliavos baldai\"",
@@ -2137,6 +2143,11 @@
     "vatcode": "LT100016818317"
   },
   {
+    "name": "MB Projektas baldams",
+    "code": "307460513",
+    "address": "Kaunas, Marių g. 11-16, LT-52252"
+  },
+  {
     "name": "MB Baldandtall",
     "code": "307102313",
     "address": "Vilnius, Žaliųjų Ežerų g. 13-70, LT-08407"
@@ -2231,19 +2242,13 @@
   {
     "name": "MB BALDEKSIMA",
     "code": "305427112",
-    "address": "Kaišiadorių r. sav.",
-    "vatcode": "LT100013054810"
+    "address": "Kaišiadorių r. sav."
   },
   {
     "name": "UAB \"Baldeksita\"",
     "code": "300009931",
     "address": "Kaunas, Savanorių pr. 363, LT-51480",
     "vatcode": "LT100000899911"
-  },
-  {
-    "name": "UAB \"Baldekus\"",
-    "code": "304492826",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "MB \"Baldelita\"",
@@ -2274,7 +2279,8 @@
   {
     "name": "Mažoji bendrija BALDENTAS",
     "code": "122747529",
-    "address": "Vilnius, Olandų g. 9-1"
+    "address": "Vilnius, Olandų g. 9-1",
+    "vatcode": "LT227475219"
   },
   {
     "name": "UAB \"BALDENĖ\"",
@@ -2378,6 +2384,11 @@
     "code": "305931863",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
     "vatcode": "LT100015412710"
+  },
+  {
+    "name": "Baldilė, MB",
+    "code": "307469633",
+    "address": "Kretingos r. sav., Žalgirio sen., Raguviškių k., Lanko g. 1, LT-97160"
   },
   {
     "name": "UAB \"Baldina\"",
@@ -2739,7 +2750,7 @@
   {
     "name": "UAB \"Baldvida\"",
     "code": "306966536",
-    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+    "address": "Vilnius, Girulių g. 10, LT-12112"
   },
   {
     "name": "UAB \"BALDVIKA\"",
@@ -2855,7 +2866,8 @@
   {
     "name": "MB \"Baldų kodas\"",
     "code": "307038871",
-    "address": "Vilnius, Jonažolių g. 3-13, LT-04134"
+    "address": "Vilnius, Jonažolių g. 3-13, LT-04134",
+    "vatcode": "LT100019051314"
   },
   {
     "name": "MB \"Baldų komisas ir...\"",
@@ -2896,8 +2908,7 @@
   {
     "name": "MB \"Baldų tvirtovė\"",
     "code": "305916338",
-    "address": "Panevėžys, Panendrės g. 14B, LT-35271",
-    "vatcode": "LT100014427511"
+    "address": "Panevėžys, Panendrės g. 14B, LT-35271"
   },
   {
     "name": "MB \"Baldų vizija\"",
@@ -2959,6 +2970,11 @@
     "name": "MB \"Noriu baldų\"",
     "code": "304178569",
     "address": "Kaunas, Šiaurės pr. 8C, LT-49155"
+  },
+  {
+    "name": "MB Baldų Broliai",
+    "code": "307482495",
+    "address": "Vilnius, Apkasų g. 31-48, LT-08226"
   },
   {
     "name": "MB Baldų duomenys",
@@ -3394,6 +3410,12 @@
     "code": "306256269",
     "address": "Plungė, Salantų g. 3, LT-90115",
     "vatcode": "LT100015774215"
+  },
+  {
+    "name": "UAB Baldų garanto grupė",
+    "code": "303390074",
+    "address": "Kauno r. sav., Karmėlava, Baldininkų g. 23-2, LT-54448",
+    "vatcode": "LT100008984517"
   },
   {
     "name": "UAB Baldų kampas",

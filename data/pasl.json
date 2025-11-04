@@ -17,6 +17,11 @@
     "address": "Jurbarko r. sav., Veliuona, Vytauto g. 35, LT-74440"
   },
   {
+    "name": "MB Paslaptingi skoniai",
+    "code": "307476243",
+    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+  },
+  {
     "name": "MB \"Grožio paslaptis\"",
     "code": "304137704",
     "address": "Kauno r. sav., Samylų sen., Laumėnų k., Beržų g. 2, LT-53135",
@@ -129,11 +134,6 @@
     "code": "304535875",
     "address": "Šiauliai, Sevastopolio g. 13-50, LT-78296",
     "vatcode": "LT100011881717"
-  },
-  {
-    "name": "UAB \"Skonių paslaptys\"",
-    "code": "305936650",
-    "address": "Kaunas, Europos pr. 122, LT-46351"
   },
   {
     "name": "UAB \"Tekstilės paslaptys\"",
@@ -1163,6 +1163,11 @@
     "vatcode": "LT100017453719"
   },
   {
+    "name": "MB \"Novalta paslaugos\"",
+    "code": "307471520",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+  },
+  {
     "name": "MB \"Olgos paslaugos\"",
     "code": "304705174",
     "address": "Vilnius, Rygos g. 24-6, LT-05223"
@@ -1452,6 +1457,11 @@
     "vatcode": "LT100011645314"
   },
   {
+    "name": "MB \"Valymo paslaugos Daivita\"",
+    "code": "307480900",
+    "address": "Prienų r. sav., Veiverių sen., Byliškių k., Centrinis tak. 5, LT-59286"
+  },
+  {
     "name": "MB \"Verslo paslaugos paprastai\"",
     "code": "306263922",
     "address": "Trakai, Žvejų g. 8, LT-21123"
@@ -1674,12 +1684,14 @@
   {
     "name": "MB Elektriko paslaugos",
     "code": "306655236",
-    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Pienių g. 2, LT-54126"
+    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Pienių g. 2, LT-54126",
+    "vatcode": "LT100018984010"
   },
   {
     "name": "MB Emg traliuko ir ekskavatoriaus paslaugos",
     "code": "306066953",
-    "address": "Kėdainių r. sav., Surviliškio sen., Kalnaberžės k., Beržų g. 30A, LT-58403"
+    "address": "Kėdainių r. sav., Surviliškio sen., Kalnaberžės k., Beržų g. 30A, LT-58403",
+    "vatcode": "LT100019024519"
   },
   {
     "name": "MB Finansinės ir valdymo paslaugos",
@@ -1752,7 +1764,7 @@
   {
     "name": "MB L&K buhalterinės paslaugos",
     "code": "306048122",
-    "address": "Marijampolė, Kauno g. 66-50, LT-68246"
+    "address": "Kalvarija, J. Kubiliaus g. 6, LT-69203"
   },
   {
     "name": "MB LTP paslaugos",
@@ -1936,13 +1948,17 @@
   {
     "name": "MB Vertimo paslaugos 24",
     "code": "306154054",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
-    "vatcode": "LT100015418316"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "MB Vindikacijos paslaugos",
     "code": "305616013",
     "address": "Kazlų Rūdos sav., Kazlų Rūdos sen., Bagotosios k., Šilo g. 37-1, LT-69381"
+  },
+  {
+    "name": "MB Vs paslaugos",
+    "code": "307486561",
+    "address": "Šiauliai, Spindulio g. 5-27B, LT-76163"
   },
   {
     "name": "MB Įmonių finansų paslaugos",
@@ -2032,6 +2048,11 @@
     "name": "Pucilausko taksi paslaugos MB",
     "code": "151123689",
     "address": "Marijampolė, Suvalkiečių g. 5-6, LT-68227"
+  },
+  {
+    "name": "STK paslaugos, MB",
+    "code": "307464636",
+    "address": "Vilnius, Genių g. 27-21, LT-11217"
   },
   {
     "name": "Samde paslaugos, MB",
@@ -2653,7 +2674,7 @@
   {
     "name": "UAB \"Personalo paslaugos\"",
     "code": "304458254",
-    "address": "Vilnius, Justiniškių g. 56-6, LT-05244",
+    "address": "Vilnius, Lvivo g. 13-12, LT-09313",
     "vatcode": "LT100012789913"
   },
   {
@@ -4251,11 +4272,6 @@
     "vatcode": "LT714532917"
   },
   {
-    "name": "Kęstučio Macijausko paslaugų įmonė",
-    "code": "179399597",
-    "address": "Tauragė, Respublikos g. 4-15, LT-72255"
-  },
-  {
     "name": "L. Danielos paslaugų įmonė",
     "code": "271712870",
     "address": "Plungės r. sav., Nausodžio sen., Varkalių k., Žemaičių g. 24, LT-90105"
@@ -4563,8 +4579,7 @@
   {
     "name": "MB Paslaugų artelė",
     "code": "304589353",
-    "address": "Kauno r. sav., Garliava, A. Baranausko g. 13A, LT-53260",
-    "vatcode": "LT100012494315"
+    "address": "Kauno r. sav., Garliava, A. Baranausko g. 13A, LT-53260"
   },
   {
     "name": "MB Paslaugų ir pramogų klubas",
@@ -4606,7 +4621,8 @@
   {
     "name": "MB Teisinių paslaugų linija",
     "code": "307012264",
-    "address": "Kauno r. sav., Raudondvario sen., Didvyrių k., Laumžirgių g. 7, LT-54113"
+    "address": "Kauno r. sav., Raudondvario sen., Didvyrių k., Laumžirgių g. 7, LT-54113",
+    "vatcode": "LT100018974113"
   },
   {
     "name": "MB Teisės ir verslo paslaugų centras",
@@ -5609,7 +5625,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Paslaugų aibė\"",
     "code": "159424413",
-    "address": "Kaišiadorių r. sav., Kaišiadorių apylinkės sen., Gudienos k., Žaslių g. 34, LT-56115"
+    "address": "Kaišiadorių r. sav., Žiežmariai, Sodų g. 20-11, LT-56233"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Socialinių paslaugų tarnyba\"",

@@ -169,7 +169,8 @@
   {
     "name": "MB \"Baldų kodas\"",
     "code": "307038871",
-    "address": "Vilnius, Jonažolių g. 3-13, LT-04134"
+    "address": "Vilnius, Jonažolių g. 3-13, LT-04134",
+    "vatcode": "LT100019051314"
   },
   {
     "name": "MB \"Darnus kodas\"",
@@ -369,7 +370,8 @@
   {
     "name": "MB \"Saugus kodas\"",
     "code": "306897531",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+    "address": "Kaunas, Europos pr. 34-47, LT-46370",
+    "vatcode": "LT100019086115"
   },
   {
     "name": "MB \"Sniego kodas\"",
@@ -441,6 +443,11 @@
     "code": "306278657",
     "address": "Pasvalys, Svalios g. 15, LT-39152",
     "vatcode": "LT100017952712"
+  },
+  {
+    "name": "MB Augimo kodas",
+    "code": "303790378",
+    "address": "Vilnius, Burbiškių g. 40-6, LT-02198"
   },
   {
     "name": "MB Baldo kodas",
@@ -626,12 +633,14 @@
   {
     "name": "MB Šviesos Kodas",
     "code": "307087480",
-    "address": "Anykščių r. sav., Anykščių sen., Ažuožerių k., Sturtupio g. 13-1, LT-29171"
+    "address": "Anykščių r. sav., Anykščių sen., Ažuožerių k., Sturtupio g. 13-1, LT-29171",
+    "vatcode": "LT100019062410"
   },
   {
     "name": "UAB \"Aistės kodas\"",
     "code": "302681618",
-    "address": "Vilniaus r. sav., Nemenčinės sen., Pučkalaukio k., Nemenčinės g. 149D, LT-15183"
+    "address": "Vilniaus r. sav., Nemenčinės sen., Pučkalaukio k., Nemenčinės g. 149D, LT-15183",
+    "vatcode": "LT100011973510"
   },
   {
     "name": "UAB \"Aprangos kodas\"",
@@ -926,6 +935,11 @@
     "address": "Šiauliai, Tilžės g. 31A-17, LT-78229"
   },
   {
+    "name": "MB Kodaslab",
+    "code": "307476802",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+  },
+  {
     "name": "UAB Kodatra",
     "code": "306033024",
     "address": "Vilnius, Santariškių g. 75-34, LT-08457"
@@ -935,11 +949,6 @@
     "code": "306045724",
     "address": "Vilnius, Kryžiokų g. 453, LT-08422",
     "vatcode": "LT100015186412"
-  },
-  {
-    "name": "UAB Kodatransport",
-    "code": "306088953",
-    "address": "Vilnius, Žirmūnų g. 70, LT-09124"
   },
   {
     "name": "MB Kodaut",

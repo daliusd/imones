@@ -458,6 +458,11 @@
     "address": "Vilnius, Manufaktūrų g. 31-6, LT-11342"
   },
   {
+    "name": "Virtualus podiumas, MB",
+    "code": "307483444",
+    "address": "Vilnius, Kapsų g. 11-29, LT-02169"
+  },
+  {
     "name": "MB \"Realios virtualybės technologijos\"",
     "code": "305467765",
     "address": "Vilnius, Mokslininkų g. 2A, LT-08412"
@@ -518,7 +523,8 @@
   {
     "name": "Cloud virtuoso, MB",
     "code": "306291359",
-    "address": "Kaunas, Mosėdžio g. 28C, LT-48186"
+    "address": "Kaunas, Mosėdžio g. 28C, LT-48186",
+    "vatcode": "LT100019074414"
   },
   {
     "name": "MB \"Virtuosos\"",
@@ -562,7 +568,7 @@
   {
     "name": "UAB Statybos virtuozai",
     "code": "305595551",
-    "address": "Vilniaus m. sav., Grigiškių m., Vokės Sodų g. 3, LT-27126",
+    "address": "Vilniaus m. sav., Grigiškės, Santakos g. 17, LT-27127",
     "vatcode": "LT100013372919"
   },
   {
@@ -723,6 +729,11 @@
     "address": "Vilniaus r. sav., Riešės sen., Raudondvario k., Žirgų g. 18-6, LT-14257"
   },
   {
+    "name": "MB \"Uzbekiška virtuvė\"",
+    "code": "307475305",
+    "address": "Klaipėda, Medžiotojų g. 8-19, LT-92240"
+  },
+  {
     "name": "MB \"Veronikos virtuvė\"",
     "code": "305739820",
     "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
@@ -742,11 +753,6 @@
     "code": "304619914",
     "address": "Ignalinos r. sav., Kazitiškio sen., Gubavėlės k. 1, LT-30242",
     "vatcode": "LT100015546015"
-  },
-  {
-    "name": "MB \"Šilkinė virtuvė\"",
-    "code": "305864813",
-    "address": "Ukmergė, Pilėnų g. 2, LT-20143"
   },
   {
     "name": "MB \"Šviesos virtuvė\"",
@@ -830,11 +836,6 @@
     "code": "302540845",
     "address": "Vilnius, Gedimino pr. 27, LT-01104",
     "vatcode": "LT100005627111"
-  },
-  {
-    "name": "UAB \"Didžioji virtuvė\"",
-    "code": "304928946",
-    "address": "Vilnius, Vyšnių g. 6-36, LT-02173"
   },
   {
     "name": "UAB \"Egipto virtuvė\"",
@@ -1090,8 +1091,7 @@
   {
     "name": "MB Virtuvės klubas",
     "code": "306693938",
-    "address": "Vilnius, Krivių g. 5, LT-01204",
-    "vatcode": "LT100016880413"
+    "address": "Vilnius, Krivių g. 5, LT-01204"
   },
   {
     "name": "UAB \"Azijos virtuvės\"",
