@@ -101,6 +101,12 @@
     "vatcode": "LT355988219"
   },
   {
+    "name": "Baltic Green Compute Center UAB",
+    "code": "307475262",
+    "address": "Pakruojo r. sav., Linkuvos sen., Pamūšio k., Liepų g. 39, LT-83451",
+    "vatcode": "LT100019056113"
+  },
+  {
     "name": "Baltic Sea Region Business and Innovation Center, VšĮ",
     "code": "302309849",
     "address": "Vilnius, J. Galvydžio g. 5, LT-08236"
@@ -152,7 +158,7 @@
   {
     "name": "KR Business Center UAB",
     "code": "306717378",
-    "address": "Vilnius, Vinciūniškių Sodų 7-oji g. 14, LT-10241"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "MB \"Integrative center of psychology and psychotherapy VIA VITAE\"",
@@ -199,18 +205,14 @@
   {
     "name": "MB Ultrasound center",
     "code": "306047636",
-    "address": "Kaunas, Kalnų g. 56A-11, LT-47142"
+    "address": "Kaunas, Kalnų g. 56A-11, LT-47142",
+    "vatcode": "LT100019217317"
   },
   {
     "name": "MD Impex service center UAB",
     "code": "111526860",
     "address": "Vilnius, Metalo g. 13A, LT-02190",
     "vatcode": "LT115268610"
-  },
-  {
-    "name": "PREMIUM BUSINESS CENTER LIMITED atstovybė",
-    "code": "111910715",
-    "address": "Vilnius, S. Stanevičiaus g. 50-44, LT-07116"
   },
   {
     "name": "Poseidon Innovation Center VšĮ",
@@ -282,7 +284,8 @@
   {
     "name": "UAB \"Klaipeda Competence Center\"",
     "code": "307384784",
-    "address": "Klaipėda, Danės g. 15, LT-92117"
+    "address": "Klaipėda, Danės g. 15, LT-92117",
+    "vatcode": "LT100019140812"
   },
   {
     "name": "UAB \"MB Partners Center\"",
@@ -411,6 +414,11 @@
     "address": "Vilnius, Geležinio Vilko g. 18A, LT-08126"
   },
   {
+    "name": "UAB ST Center",
+    "code": "307509152",
+    "address": "Vilnius, Gurių Sodų 33-ioji g. 18, LT-11316"
+  },
+  {
     "name": "UAB Turkish KEBAB Center",
     "code": "306269156",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -424,11 +432,6 @@
     "name": "Viešoji įstaiga \"Study and consulting center\"",
     "code": "302475696",
     "address": "Vilnius, P. Vileišio g. 11-49, LT-10307"
-  },
-  {
-    "name": "Vokietijos firmos \"PCW-Packing-Center-Wilnsdorf GmbH\" atstovybė",
-    "code": "110238645",
-    "address": "Vilnius, Miglos g. 33-16, LT-08101"
   },
   {
     "name": "VšĮ \"Anthropos strength and conditioning center\"",
@@ -734,6 +737,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "IG Centre LT UAB",
+    "code": "307503637",
+    "address": "Vilkaviškio r. sav., Kybartų sen., Gudkaimio k., Dvaro g. 20-2, LT-70455"
+  },
+  {
     "name": "JAV firmos \"ART-HAPPENING CENTRE OF AMERICA\" atstovybė",
     "code": "210238450",
     "address": "Vilnius, Maironio g. 13, LT-01124"
@@ -856,11 +864,6 @@
     "name": "VšĮ European Immigration Centre for International Youth",
     "code": "307266743",
     "address": "Vilnius, Girulių g. 5, LT-12124"
-  },
-  {
-    "name": "Centrex Fintech Solutions, UAB",
-    "code": "306118948",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
     "name": "Centric IT Solutions Lithuania UAB",
@@ -987,12 +990,6 @@
     "vatcode": "LT336070415"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Vilniaus centrinis knygynas\"",
-    "code": "122251839",
-    "address": "Vilnius, Gedimino pr. 13, LT-01103",
-    "vatcode": "LT222518314"
-  },
-  {
     "name": "VšĮ Centrinis vertimo biuras",
     "code": "304353659",
     "address": "Anykščiai, J. Biliūno g. 28-6, LT-29117"
@@ -1085,7 +1082,7 @@
   {
     "name": "Tautos ir teisingumo sąjunga (centristai, tautininkai)",
     "code": "195725380",
-    "address": "Vilnius, Kaštonų g. 3, LT-01107"
+    "address": "Vilnius, Kaštonų g. 3-1A, LT-01107"
   },
   {
     "name": "Šilalės centristai",
@@ -1263,6 +1260,11 @@
   {
     "name": "Kauno miesto savivaldybės administracijos filialas Centro seniūnija",
     "code": "302710137",
+    "address": "Kaunas, Šv. Gertrūdos g. 7, LT-44290"
+  },
+  {
+    "name": "Kauno miesto savivaldybės administracijos filialas Centro-Žaliakalnio seniūnija",
+    "code": "307507226",
     "address": "Kaunas, Šv. Gertrūdos g. 7, LT-44290"
   },
   {
@@ -1716,7 +1718,8 @@
   {
     "name": "VIEŠOJI ĮSTAIGA PANEVĖŽIO KATECHETIKOS CENTRO KNYGYNAS",
     "code": "148398814",
-    "address": "Panevėžys, Upytės g. 3, LT-35248"
+    "address": "Panevėžys, Upytės g. 3, LT-35248",
+    "vatcode": "LT100005125910"
   },
   {
     "name": "VIEŠOSIOS ĮSTAIGOS MARIJAMPOLĖS PIRMINĖS SVEIKATOS PRIEŽIŪROS CENTRO PROFESINĖ SĄJUNGA",
@@ -1952,11 +1955,6 @@
     "name": "VšĮ Pakruojo raj. Pirminės sveikatos priežiūros centro darbuotojų profesinė sąjunga \"Solidarumas\"",
     "code": "305088562",
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
-  },
-  {
-    "name": "VšĮ Vaikų užimtumo centro \"Diena kitaip\" filialas",
-    "code": "304367979",
-    "address": "Šilutė, Lietuvininkų g. 16A-3, LT-99184"
   },
   {
     "name": "VšĮ Švenčionių rajono sveikatos centro profesinė sąjunga \"Solidarumas\"",

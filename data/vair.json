@@ -248,11 +248,6 @@
     "address": "Šiauliai, Pramonės g. 3, LT-78137"
   },
   {
-    "name": "Ukmergės miesto garažų statybos ir eksploatavimo bendrija \"Vairas\"",
-    "code": "183119154",
-    "address": "Ukmergė, Vytauto g. 104, LT-20187"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Naujas vairas\"",
     "code": "184096598",
     "address": "Utenos r. sav., Leliūnų sen., Ažudėlių k. 5, LT-28431",
@@ -311,6 +306,11 @@
     "name": "UAB \"Vairavimas\"",
     "code": "302814463",
     "address": "Vilnius, Panerių g. 11, LT-03209"
+  },
+  {
+    "name": "UAB Eco vairavimas",
+    "code": "307506366",
+    "address": "Vilnius, Pylimo g. 32-16, LT-01135"
   },
   {
     "name": "Individuali įmonė vairavimo mokykla \"Bičiulių ratas\"",
@@ -691,7 +691,8 @@
   {
     "name": "UAB \"Vairo sprendimas\"",
     "code": "302442080",
-    "address": "Vilnius, Talino g. 77, LT-05200"
+    "address": "Vilnius, Talino g. 77, LT-05200",
+    "vatcode": "LT100019189514"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Vairola\"",
@@ -937,8 +938,7 @@
   },
   {
     "name": "UAB \"VISAGINO VAIRUOTOJŲ RUOŠIMO CENTRAS\"",
-    "code": "302855887",
-    "address": "Visaginas, Vilties g. 1, LT-31118"
+    "code": "302855887"
   },
   {
     "name": "UAB A. Žukausko vairuotojų ruošimo centras \"VRC\"",

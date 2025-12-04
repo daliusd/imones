@@ -125,12 +125,14 @@
   {
     "name": "MB \"Five Food\"",
     "code": "305934222",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100019148613"
   },
   {
     "name": "MB \"Food 4 u\"",
     "code": "307417177",
-    "address": "Kaunas, V. Taujenio g. 23A, LT-52281"
+    "address": "Kaunas, V. Taujenio g. 23A, LT-52281",
+    "vatcode": "LT100019235719"
   },
   {
     "name": "MB \"Food experiments\"",
@@ -176,24 +178,20 @@
     "vatcode": "LT100017484719"
   },
   {
-    "name": "MB \"Janosik Food and Catering LLC\"",
-    "code": "306640654",
-    "address": "Vilnius, Girulių g. 5, LT-12124"
-  },
-  {
     "name": "MB \"KIT.food\"",
     "code": "306750570",
     "address": "Vilnius, Labdarių g. 6A-18, LT-01120"
   },
   {
-    "name": "MB \"KOR Food\"",
-    "code": "305673103",
-    "address": "Kaunas, B. Sruogos g. 6, LT-50250"
-  },
-  {
     "name": "MB \"M Food\"",
     "code": "307046213",
     "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Grikių g. 12, LT-91295"
+  },
+  {
+    "name": "MB \"MIH Lithuanian food group\"",
+    "code": "306621910",
+    "address": "Kaunas, Liucijanavos g. 105A-1, LT-47246",
+    "vatcode": "LT100017070713"
   },
   {
     "name": "MB \"MIN CHA food LT\"",
@@ -204,7 +202,8 @@
   {
     "name": "MB \"Milis food\"",
     "code": "307443994",
-    "address": "Telšiai, Padurbinio g. 30, LT-87422"
+    "address": "Telšiai, Padurbinio g. 30, LT-87422",
+    "vatcode": "LT100019234611"
   },
   {
     "name": "MB \"Nord food\"",
@@ -328,12 +327,6 @@
     "address": "Kaunas, Raudondvario pl. 184-3, LT-47149"
   },
   {
-    "name": "MB Simple food",
-    "code": "305777237",
-    "address": "Kaunas, A. Juozapavičiaus pr. 99-7, LT-45266",
-    "vatcode": "LT100014104715"
-  },
-  {
     "name": "MB Simra Food",
     "code": "307431091",
     "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Lietaus g. 2, LT-92343",
@@ -383,11 +376,6 @@
     "code": "306626786",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
     "vatcode": "LT100017033517"
-  },
-  {
-    "name": "Privačios ribotos atsakomybės akcinės bendrovės BALTIC FOOD & BEVERAGES filialas",
-    "code": "111885048",
-    "address": "Vilnius, S. Konarskio g. 49, LT-03123"
   },
   {
     "name": "REATON FOOD, UAB",
@@ -445,6 +433,11 @@
     "name": "UAB \"Caspian food\"",
     "code": "305268553",
     "address": "Vilnius, Treniotos g. 2-12, LT-08121"
+  },
+  {
+    "name": "UAB \"Diet food\"",
+    "code": "307430776",
+    "address": "Vilnius, Veiverių g. 9B-62, LT-11346"
   },
   {
     "name": "UAB \"Food Ideas\"",
@@ -560,6 +553,12 @@
     "code": "303462470",
     "address": "Visaginas, Festivalio g. 10, LT-31144",
     "vatcode": "LT100009161515"
+  },
+  {
+    "name": "UAB \"Simple food\"",
+    "code": "305777237",
+    "address": "Kaunas, A. Juozapavičiaus pr. 99-7, LT-45266",
+    "vatcode": "LT100014104715"
   },
   {
     "name": "UAB \"TbilVil food\"",
@@ -699,8 +698,7 @@
   {
     "name": "Baltic foodchem MB",
     "code": "307073908",
-    "address": "Vilnius, Elniakampio g. 6-3, LT-10100",
-    "vatcode": "LT100019022018"
+    "address": "Vilnius, Elniakampio g. 6-3, LT-10100"
   },
   {
     "name": "MB \"Elegant foodie\"",
@@ -747,7 +745,8 @@
   {
     "name": "UAB \"Foodlex\"",
     "code": "305366264",
-    "address": "Klaipėda, Kalnupės g. 21-143, LT-93187"
+    "address": "Klaipėda, Kalnupės g. 21-143, LT-93187",
+    "vatcode": "LT100012813617"
   },
   {
     "name": "Foodlogistics, UAB",
@@ -967,8 +966,11 @@
   {
     "name": "MB Foodsolution",
     "code": "306280099",
-    "address": "Šilutė, Klaipėdos g. 2-2, LT-99115",
-    "vatcode": "LT100016468711"
+    "address": "Šilutė, Klaipėdos g. 2-2, LT-99115"
+  },
+  {
+    "name": "MB Foodspot",
+    "code": "305490365"
   },
   {
     "name": "IĮ \"Foodstuff service\"",

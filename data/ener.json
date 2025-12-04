@@ -98,8 +98,7 @@
   {
     "name": "UAB \"Energas Group\"",
     "code": "305618943",
-    "address": "Telšiai, Kauno g. 21, LT-87170",
-    "vatcode": "LT100013392610"
+    "address": "Telšiai, Kauno g. 21, LT-87170"
   },
   {
     "name": "MB \"Energatech\"",
@@ -411,7 +410,7 @@
   {
     "name": "Sodininkų bendrija \"ENERGETIKAS\"",
     "code": "191497399",
-    "address": "Vilnius, Gvazdikų g. 62A"
+    "address": "Vilnius, Kairėnės g. 31, LT-10247"
   },
   {
     "name": "Sodininkų bendrija \"Energetikas\"",
@@ -724,7 +723,8 @@
   {
     "name": "Vandenilio energetikos asociacija",
     "code": "300563329",
-    "address": "Kaunas, Breslaujos g. 3, LT-44403"
+    "address": "Kaunas, Breslaujos g. 3, LT-44403",
+    "vatcode": "LT100019229018"
   },
   {
     "name": "Viešoji įstaiga Kauno regioninė energetikos agentūra",
@@ -1199,11 +1199,6 @@
     "name": "Energija į gyvenimą MB",
     "code": "306772129",
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
-  },
-  {
-    "name": "Garažų statybos ir eksploatavimo bendrija \"Energija\"",
-    "code": "154894633",
-    "address": "Biržai 5-8"
   },
   {
     "name": "Gryna Energija, UAB",
@@ -1931,8 +1926,7 @@
   {
     "name": "UAB \"Saulės vėjo energija\"",
     "code": "302499430",
-    "address": "Mažeikių r. sav., Šerkšnėnų sen., Ketūnų k., Lentpjūvės g. 70, LT-89358",
-    "vatcode": "LT100007955319"
+    "address": "Mažeikių r. sav., Šerkšnėnų sen., Ketūnų k., Lentpjūvės g. 70, LT-89358"
   },
   {
     "name": "UAB \"Sklypo energija\"",
@@ -2005,7 +1999,7 @@
   {
     "name": "UAB \"Švari Energija\"",
     "code": "302311113",
-    "address": "Kaunas, Ateities pl. 2B, LT-52322",
+    "address": "Kaunas, Ateities g. 2B, LT-52322",
     "vatcode": "LT100007137915"
   },
   {
@@ -2419,6 +2413,11 @@
     "address": "Klaipėda, Naikupės g. 12A-37, LT-93255"
   },
   {
+    "name": "MB Energijos Architektai",
+    "code": "307498649",
+    "address": "Vilnius, Betono aklg. 5-3, LT-03153"
+  },
+  {
     "name": "MB Energijos Ekspertai",
     "code": "307141622",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
@@ -2439,6 +2438,12 @@
     "code": "305677653",
     "address": "Vilnius, Lentvario g. 89, LT-25128",
     "vatcode": "LT100018070719"
+  },
+  {
+    "name": "MB Energijos meistrai",
+    "code": "307499879",
+    "address": "Gargždai, Vakaro g. 13, LT-96156",
+    "vatcode": "LT100019224814"
   },
   {
     "name": "MB Energijos namai",
@@ -2758,7 +2763,8 @@
   {
     "name": "VšĮ \"Energijos bendrija\"",
     "code": "306700208",
-    "address": "Šilutės r. sav., Rusnė, Neringos g. 57E, LT-99349"
+    "address": "Šilutės r. sav., Rusnė, Neringos g. 57E, LT-99349",
+    "vatcode": "LT100019259413"
   },
   {
     "name": "VšĮ \"Pamario energijos grupė\"",
@@ -2768,7 +2774,8 @@
   {
     "name": "VšĮ Energijos kvantas",
     "code": "307043929",
-    "address": "Klaipėda, Kuosų g. 20-55, LT-91187"
+    "address": "Klaipėda, Kuosų g. 20-55, LT-91187",
+    "vatcode": "LT100019162215"
   },
   {
     "name": "VšĮ Piliečių energijos bendrija Domeikavos saulė",
@@ -2817,6 +2824,11 @@
     "address": "Vilnius, Kęstučio g. 5-4, LT-08118"
   },
   {
+    "name": "Žalios energijos bendrija",
+    "code": "307507048",
+    "address": "Tauragė, Respublikos g. 2, LT-72255"
+  },
+  {
     "name": "UAB \"Energika\"",
     "code": "303917434",
     "address": "Kaunas, Atramos g. 2, LT-47174",
@@ -2837,7 +2849,8 @@
   {
     "name": "VšĮ Energingas",
     "code": "307043181",
-    "address": "Kaunas, P. Plechavičiaus g. 17-1, LT-49303"
+    "address": "Kaunas, P. Plechavičiaus g. 17-1, LT-49303",
+    "vatcode": "LT100019174219"
   },
   {
     "name": "UAB \"Energingi sprendimai\"",
@@ -2964,12 +2977,6 @@
     "code": "305768619",
     "address": "Vilnius, Lentvario g. 1, LT-02300",
     "vatcode": "LT100014423519"
-  },
-  {
-    "name": "UAB \"EKOLOGINĖS ENERGO SISTEMOS\"",
-    "code": "300045678",
-    "address": "Vilnius, Ukrainos Didvyrių g. 1-15, LT-08113",
-    "vatcode": "LT100001152119"
   },
   {
     "name": "UAB \"ENERGO VENTUM\"",
@@ -3201,6 +3208,11 @@
     "code": "303793367",
     "address": "Vilniaus r. sav., Nemėžio sen., Motiejiškių k., Agrastų g. 1, LT-13266",
     "vatcode": "LT100014462419"
+  },
+  {
+    "name": "MB Energora",
+    "code": "307506213",
+    "address": "Klaipėdos r. sav., Sendvario sen., Klausmylių vs., Piliarožių g. 68, LT-91291"
   },
   {
     "name": "UAB Energoritmas",
@@ -3710,7 +3722,8 @@
   {
     "name": "MB Conditra energy",
     "code": "307427075",
-    "address": "Kaunas, Įkalnės aklg. 1-7, LT-47163"
+    "address": "Kaunas, Įkalnės aklg. 1-7, LT-47163",
+    "vatcode": "LT100019150011"
   },
   {
     "name": "MB Cosmo energy",
@@ -3751,6 +3764,11 @@
     "code": "306327225",
     "address": "Alytus, Šaltinių g. 5-36, LT-62347",
     "vatcode": "LT100016232415"
+  },
+  {
+    "name": "MB Foxsolar energy",
+    "code": "307496267",
+    "address": "Vilniaus r. sav., Nemenčinė, Šv. Mykolo g. 6-9, LT-15173"
   },
   {
     "name": "MB Golden energy bio",
@@ -3842,6 +3860,11 @@
     "name": "Monster Energy Europe Limited filialas",
     "code": "302735471",
     "address": "Vilnius, Vito Gerulaičio g. 10-101, LT-08200"
+  },
+  {
+    "name": "N&K Energy, UAB",
+    "code": "307503498",
+    "address": "Vilnius, P. Lukšio g. 7, LT-08221"
   },
   {
     "name": "NextGen Energy, UAB",
@@ -4040,7 +4063,7 @@
   {
     "name": "UAB \"Energy ON\"",
     "code": "306145361",
-    "address": "Kaunas, V. Krėvės pr. 26A-2, LT-50412",
+    "address": "Kaunas, V. Krėvės pr. 129, LT-50312",
     "vatcode": "LT100015307213"
   },
   {
@@ -4568,7 +4591,8 @@
   {
     "name": "UAB S&W Energy",
     "code": "305709058",
-    "address": "Neringa, Kopų g. 5-8, LT-93122"
+    "address": "Neringa, Kopų g. 5-8, LT-93122",
+    "vatcode": "LT100019133110"
   },
   {
     "name": "UAB SAFE energy",
@@ -4665,7 +4689,8 @@
   {
     "name": "VDC energy solutions MB",
     "code": "307435976",
-    "address": "Vilnius, Manufaktūrų g. 27-19, LT-11342"
+    "address": "Vilnius, Manufaktūrų g. 27-19, LT-11342",
+    "vatcode": "LT100019189419"
   },
   {
     "name": "VEESLA Energy, UAB",
@@ -4836,7 +4861,8 @@
   {
     "name": "UAB Enermina",
     "code": "306659829",
-    "address": "Pagėgių sav., Stoniškių sen., Naujapievių k. 5, LT-99305"
+    "address": "Pagėgių sav., Stoniškių sen., Naujapievių k. 5, LT-99305",
+    "vatcode": "LT100019198216"
   },
   {
     "name": "UAB \"Enero\"",

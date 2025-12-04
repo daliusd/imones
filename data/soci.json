@@ -310,11 +310,6 @@
     "address": "Kaunas, Seniavos pl. 8G, LT-46386"
   },
   {
-    "name": "VšĮ \"Socialiniai ir ekonominiai projektai\"",
-    "code": "302583686",
-    "address": "Vilnius, Švitrigailos g. 5-21, LT-03110"
-  },
-  {
     "name": "VšĮ \"Socialiniai meno projektai\"",
     "code": "302954401",
     "address": "Vilnius, Architektų g. 115-60, LT-04211"
@@ -384,7 +379,8 @@
   {
     "name": "SOCIALINIO TVARUMO AKADEMIJA",
     "code": "304443188",
-    "address": "Klaipėda, Budelkiemio g. 4-71, LT-95251"
+    "address": "Klaipėda, Budelkiemio g. 4-71, LT-95251",
+    "vatcode": "LT100019250016"
   },
   {
     "name": "Socialinio draudimo darbuotojų profesinė sąjunga",
@@ -416,11 +412,6 @@
     "code": "305163488",
     "address": "Pagėgių sav., Vilkyškiai, Johaneso Bobrovskio g. 10-2, LT-99254",
     "vatcode": "LT100013666217"
-  },
-  {
-    "name": "Socialinio verslo plėtros fondas",
-    "code": "305535611",
-    "address": "Marijampolės sav., Sasnavos sen., Puskelnių k., Liepų g. 4, LT-68104"
   },
   {
     "name": "Utenos socialinio draudimo darbuotojų profesinė sąjunga",
@@ -736,6 +727,11 @@
     "name": "Krikščioniškų socialinių iniciatyvų Forumas",
     "code": "305552710",
     "address": "Vilnius, Šeškinės g. 65, LT-07163"
+  },
+  {
+    "name": "Kupiškio r. šv. Kazimiero socialinių paslaugų namai",
+    "code": "302287534",
+    "address": "Kupiškio r. sav., Kupiškio sen., Paketurių k., Bokšto g. 21, LT-40103"
   },
   {
     "name": "Kupiškio socialinių paslaugų centras",
@@ -1099,13 +1095,8 @@
   {
     "name": "Viešoji įstaiga \"Socialinių projektų centras\"",
     "code": "301985543",
-    "address": "Vilnius, Laisvės pr. 125, LT-06118",
+    "address": "Vilnius, Jurgio Baltrušaičio g. 1A-102, LT-06118",
     "vatcode": "LT100004575115"
-  },
-  {
-    "name": "Viešoji įstaiga \"Socialinių-ekologinių programų ir iniciatyvų centras\"",
-    "code": "304175861",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "Viešoji įstaiga Alytaus miesto socialinių paslaugų centras",
@@ -1359,11 +1350,6 @@
     "name": "Žmogaus teisių ir socialinių reikalų centras",
     "code": "305850137",
     "address": "Klaipėda, Medžiotojų g. 8-11, LT-92240"
-  },
-  {
-    "name": "VšĮ Socialinno",
-    "code": "305961618",
-    "address": "Kauno r. sav., Lapių sen., Masteikių k., Šėtos g. 11, LT-54427"
   },
   {
     "name": "Asociacija \"Teisinė ir socialinė pagalba\"",
@@ -2081,7 +2067,8 @@
   {
     "name": "Viešoji įstaiga KLAIPĖDOS SOCIALINĖS IR PSICHOLOGINĖS PAGALBOS CENTRAS",
     "code": "142120224",
-    "address": "Klaipėda, Smilčių g. 6, LT-92277"
+    "address": "Klaipėda, Smilčių g. 6, LT-92277",
+    "vatcode": "LT100019214413"
   },
   {
     "name": "Viešoji įstaiga Kazlų Rūdos socialinės paramos centras",

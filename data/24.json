@@ -140,11 +140,6 @@
     "address": "Vilnius, Erfurto g. 24-1, LT-04115"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija \"J. Biliūno 24\"",
-    "code": "171765473",
-    "address": "Plungė, J. Biliūno g. 24, LT-90122"
-  },
-  {
     "name": "Daugiabučio namo savininkų bendrija \"Oginskio g. 24\"",
     "code": "300079157",
     "address": "Vilnius, M. K. Oginskio g. 24-3, LT-10219"
@@ -312,7 +307,7 @@
   {
     "name": "MB \"Transportas 24\"",
     "code": "305954449",
-    "address": "Vilnius, Eišiškių pl. 47-312, LT-02184",
+    "address": "Kaišiadorių r. sav., Palomenės sen., Šukiškių k. 7, LT-56101",
     "vatcode": "LT100017105013"
   },
   {
@@ -376,6 +371,11 @@
     "address": "Kaunas, Užnerio g. 81N, LT-47492"
   },
   {
+    "name": "MB Operatorius 24",
+    "code": "307510012",
+    "address": "Akmenės r. sav., Venta, Bausko g. 7-49E, LT-85327"
+  },
+  {
     "name": "MB Oplis 24",
     "code": "306323216",
     "address": "Vilnius, Krokuvos g. 53-3, LT-09306"
@@ -385,6 +385,10 @@
     "code": "307061254",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
     "vatcode": "LT100017498517"
+  },
+  {
+    "name": "MB Srautas 24",
+    "code": "305567153"
   },
   {
     "name": "MB Stiklai 24",
@@ -540,10 +544,11 @@
   {
     "name": "UAB Autobid 24",
     "code": "305744251",
-    "address": "Elektrėnai, Obenių skg. 2, LT-26108"
+    "address": "Elektrėnai, Obenių skg. 2, LT-26108",
+    "vatcode": "LT100019152611"
   },
   {
-    "name": "UAB Bangų 24",
+    "name": "UAB B 24",
     "code": "307479093",
     "address": "Klaipėda, Bangų g. 24, LT-91251"
   },
@@ -557,6 +562,11 @@
     "code": "302628373",
     "address": "Kazlų Rūdos sav., Kazlų Rūdos sen., Gulioniškės k. 4, LT-69387",
     "vatcode": "LT100007125013"
+  },
+  {
+    "name": "UAB Kadras 24",
+    "code": "307506334",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
   },
   {
     "name": "UAB Karjeras 24",

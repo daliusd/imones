@@ -127,6 +127,11 @@
     "vatcode": "LT100017623810"
   },
   {
+    "name": "MB VV Komercija",
+    "code": "307491537",
+    "address": "Rokiškio r. sav., Kamajų sen., Pašilės k. 1, LT-42280"
+  },
+  {
     "name": "Mažoji bendrija \"Šiaurės komercija\"",
     "code": "306285089",
     "address": "Joniškio r. sav., Rudiškių sen., Žmirklių k., Ąžuolo g. 1A, LT-84277"
@@ -324,8 +329,7 @@
   {
     "name": "MB Elektroninės komercijos agentūra",
     "code": "304961960",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
-    "vatcode": "LT100013279415"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
   },
   {
     "name": "MB Komercijos pasaulis",
@@ -490,12 +494,6 @@
     "address": "Klaipėda, Vyturio g. 19-16, LT-95184"
   },
   {
-    "name": "A. Daukinčio gamybinė-komercinė įmonė",
-    "code": "170019481",
-    "address": "Plungės r. sav., Alsėdžiai, Draugystės g. 19, LT-90471",
-    "vatcode": "LT700194811"
-  },
-  {
     "name": "A. Galdiko gamybinė- komercinė įmonė",
     "code": "169955412",
     "address": "Plungė, Lankos g. 51, LT-90154",
@@ -510,7 +508,8 @@
   {
     "name": "A. Joniko komercinė firma \"Cerera\"",
     "code": "140206952",
-    "address": "Klaipėda, Kretingos g. 106, LT-92334"
+    "address": "Klaipėda, Kretingos g. 106, LT-92334",
+    "vatcode": "LT402069515"
   },
   {
     "name": "A. Jurkaičio komercinė įmonė \"Aras\"",
@@ -553,7 +552,8 @@
   {
     "name": "A. Pauliaus komercinė firma",
     "code": "152614762",
-    "address": "Palanga, Žilvičių g. 1, LT-00169"
+    "address": "Palanga, Žilvičių g. 1, LT-00169",
+    "vatcode": "LT100019148210"
   },
   {
     "name": "A. Pučinsko komercinė firma",
@@ -615,11 +615,6 @@
     "vatcode": "LT624950515"
   },
   {
-    "name": "Algimanto Gavėnios komercinė firma",
-    "code": "179343545",
-    "address": "Tauragė, D. Poškos g. 20, LT-72300"
-  },
-  {
     "name": "Algio Bručo komercinė firma",
     "code": "149676921",
     "address": "Alytus, M. K. Čiurlionio g. 2A, LT-62154"
@@ -657,11 +652,6 @@
     "name": "B. Vyšniauskienės komercinė įmonė",
     "code": "169930569",
     "address": "Plungės r. sav., Babrungo sen., Glaudžių k., Dvaro g. 6A-4, LT-90107"
-  },
-  {
-    "name": "Birutės Aleknienės komercinė IĮ",
-    "code": "144386241",
-    "address": "Šiauliai, Vilniaus g. 155-21, LT-76352"
   },
   {
     "name": "D. JANČAUSKIENĖS KOMERCINĖ FIRMA",
@@ -817,6 +807,12 @@
     "name": "IĮ \"V. Gintausko komercinė įmonė\"",
     "code": "153252469",
     "address": "Naujoji Akmenė, Respublikos g. 14-72, LT-85162"
+  },
+  {
+    "name": "IĮ A. Daukinčio gamybinė-komercinė įmonė",
+    "code": "170019481",
+    "address": "Plungės r. sav., Alsėdžiai, Draugystės g. 19, LT-90471",
+    "vatcode": "LT700194811"
   },
   {
     "name": "IĮ A. Uznio gamybinė-komercinė įmonė",
@@ -979,7 +975,7 @@
   {
     "name": "K. Galdiko gamybinė-komercinė individuali įmonė \"Vidora\"",
     "code": "170016229",
-    "address": "Plungė, Telšių g. 64, LT-90164",
+    "address": "Plungė, Birutės g. 44, LT-90112",
     "vatcode": "LT700162219"
   },
   {
@@ -1432,11 +1428,6 @@
     "vatcode": "LT706872610"
   },
   {
-    "name": "Komercinės bendrovės \"HANELL CONSULT\" atstovybė",
-    "code": "110271570",
-    "address": "Vilnius, Ukmergės g. 210-81, LT-07166"
-  },
-  {
     "name": "Rusijos gamybinės komercinės bendrijos su ribota atsakomybe \"VNV-VOS\" filialas \"MODITA\"",
     "code": "110176040",
     "address": "Kaunas, Verkių g. 32-70"
@@ -1510,6 +1501,10 @@
     "code": "302539775",
     "address": "Ukmergės r. sav., Vidiškių sen., Šaukavos k., Sodų g. 23, LT-20102",
     "vatcode": "LT100005609810"
+  },
+  {
+    "name": "UAB \"Komerus\"",
+    "code": "305283929"
   },
   {
     "name": "UAB Komerza",

@@ -1127,7 +1127,8 @@
   {
     "name": "UAB H s suvirinimo darbai",
     "code": "307480708",
-    "address": "Kelmės r. sav., Kukečių sen., Jautmalkės II k. 2, LT-86431"
+    "address": "Kelmės r. sav., Kukečių sen., Jautmalkės II k. 2, LT-86431",
+    "vatcode": "LT100019137618"
   },
   {
     "name": "UAB Kauno apdailos darbai",
@@ -1198,7 +1199,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Elektros darbai\"",
     "code": "133619018",
-    "address": "Kaunas, Jonavos g. 62A, LT-44192",
+    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Gamybos g. 10, LT-54465",
     "vatcode": "LT336190113"
   },
   {
@@ -1337,11 +1338,6 @@
     "name": "MB Nuobodus darbas",
     "code": "305967165",
     "address": "Vilnius, Gedimino pr. 54A-3, LT-01110"
-  },
-  {
-    "name": "MB Saugus darbas",
-    "code": "307019045",
-    "address": "Zarasų r. sav., Salako sen., Nečeskų k. 2, LT-32210"
   },
   {
     "name": "Mažoji bendrija \"Darbas plius\"",
@@ -2113,8 +2109,7 @@
   },
   {
     "name": "Lietuvos darbo federacijos Druskininkų skyrius",
-    "code": "152153315",
-    "address": "Druskininkai, Liškiavos g. 31-5, LT-66283"
+    "code": "152153315"
   },
   {
     "name": "Lietuvos darbo federacijos Ignalinos skyrius",
@@ -2804,18 +2799,8 @@
     "address": "Vilnius, Gerovės g. 29-1A, LT-11220"
   },
   {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Autoūkio filialas",
-    "code": "302248798",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
     "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Biržų filialas",
     "code": "302324420",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Jonavos filialas",
-    "code": "302598909",
     "address": "Vilnius, Vytauto g. 14, LT-08118"
   },
   {
@@ -2824,48 +2809,8 @@
     "address": "Vilnius, Vytauto g. 14, LT-08118"
   },
   {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Jurbarko filialas",
-    "code": "302248766",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Kaišiadorių filialas",
-    "code": "302427420",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Kretingos filialas",
-    "code": "302324370",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Kėdainių filialas",
-    "code": "302458405",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Marijampolės filialas",
-    "code": "302080610",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Mažeikių filialas",
-    "code": "302324630",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Molėtų filialas",
-    "code": "302248741",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
     "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Pasvalio filialas",
     "code": "302080553",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Plungės filialas",
-    "code": "302324317",
     "address": "Vilnius, Vytauto g. 14, LT-08118"
   },
   {
@@ -2874,68 +2819,8 @@
     "address": "Vilnius, Vytauto g. 14, LT-08118"
   },
   {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Raseinių filialas",
-    "code": "302458469",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Rokiškio filialas",
-    "code": "302248734",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Skuodo filialas",
-    "code": "302324484",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Tauragės filialas",
-    "code": "302324573",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Telšių filialas",
-    "code": "302324662",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Ukmergės filialas",
-    "code": "302248677",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Varėnos filialas",
-    "code": "302341754",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Vilkaviškio filialas",
-    "code": "302324609",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
     "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Vilniaus filialas",
     "code": "302248759",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Šakių filialas",
-    "code": "302324655",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Šalčininkų filialas",
-    "code": "302324566",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Širvintų filialas",
-    "code": "302248773",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Švenčionių filialas",
-    "code": "302248780",
     "address": "Vilnius, Vytauto g. 14, LT-08118"
   },
   {
@@ -3022,11 +2907,6 @@
     "name": "Achemos darbuotojų profesinė sąjunga",
     "code": "291391240",
     "address": "Jonavos r. sav., Ruklos sen., Jonalaukio k."
-  },
-  {
-    "name": "Akcinės bendrovės \"Ekranas\" darbuotojų laisvosios profesinės sąjungos labdaros fondas",
-    "code": "192003775",
-    "address": "Panevėžys, Elektronikos g. 1, LT-35116"
   },
   {
     "name": "Akcinės bendrovės \"Kauno energija\" darbuotojų profesinė sąjunga",
@@ -3501,7 +3381,7 @@
   {
     "name": "Kalvarijos savivaldybės kultūros darbuotojų profesinė sąjunga",
     "code": "300620940",
-    "address": "Kalvarijos sav., Sangrūdos sen., Sangrūdos k., Kalno g. 1, LT-69265"
+    "address": "Kalvarijos sav., Kalvarijos sen., Tarprubežių k., Mokyklos g. 30, LT-69307"
   },
   {
     "name": "Karaliaus Mindaugo profesinio mokymo centro darbuotojų profesinė sąjunga",
@@ -4755,7 +4635,7 @@
     "address": "Mažeikių r. sav., Seda, Dariaus ir Girėno g. 16, LT-89383"
   },
   {
-    "name": "Skandinaviska Enskilda Banken AB, Vilnius filialo darbuotojų profesinė sąjunga",
+    "name": "Skandinaviska Enskilda Banken AB, Vilniaus filialo darbuotojų profesinė sąjunga",
     "code": "305475388",
     "address": "Vilnius, Vito Gerulaičio g. 10, LT-08200"
   },
@@ -5792,7 +5672,7 @@
   {
     "name": "VšĮ Kaišiadorių ligoninės darbuotojų profesinė sąjunga \"Solidarumas\"",
     "code": "305979616",
-    "address": "Kaišiadorių r. sav., Žiežmarių apylinkės sen., Strošiūnų k., Pušyno g. 6, LT-56203"
+    "address": "Kaišiadorys, Beržyno g. 27, LT-56172"
   },
   {
     "name": "VšĮ Karoliniškių poliklinikos sveikatos apsaugos darbuotojų profesinė sąjunga",
@@ -6229,12 +6109,14 @@
   {
     "name": "MB \"Darbų Kompleksas\"",
     "code": "306358249",
-    "address": "Klaipėdos r. sav., Sendvario sen., Mazūriškių k., Šventakiemio g. 7A, LT-92376"
+    "address": "Klaipėdos r. sav., Sendvario sen., Mazūriškių k., Šventakiemio g. 7A, LT-92376",
+    "vatcode": "LT100019157312"
   },
   {
     "name": "MB \"Darbų guru\"",
     "code": "307138252",
-    "address": "Kauno r. sav., Samylų sen., Gervėnupio k., Sodų al. 2, LT-53164"
+    "address": "Kauno r. sav., Samylų sen., Gervėnupio k., Sodų al. 2, LT-53164",
+    "vatcode": "LT100019250611"
   },
   {
     "name": "MB \"Darbų namai\"",

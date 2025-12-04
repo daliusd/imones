@@ -408,6 +408,11 @@
     "address": "Vilniaus r. sav., Riešės sen., Pranciškonių vs., Gilių 7-oji g. 12, LT-15150"
   },
   {
+    "name": "Sveikas saldumas MB",
+    "code": "307507991",
+    "address": "Radviliškis, Saulėtekio g. 17, LT-82163"
+  },
+  {
     "name": "Sveikas šuolis, MB",
     "code": "305862196",
     "address": "Kaunas, Ašigalio g. 5-8, LT-49159"
@@ -663,7 +668,7 @@
   {
     "name": "Sveikata be vaistų MB",
     "code": "306694424",
-    "address": "Vilniaus r. sav., Maišiagalos sen., Masionių vs., Gardenijų g. 1 K27-1, LT-14200"
+    "address": "Vilnius, Paribio g. 33-1, LT-08102"
   },
   {
     "name": "UAB \"Jūsų sveikata\"",
@@ -1311,7 +1316,8 @@
   {
     "name": "VšĮ Sporto ir sveikatingumo centras \"Atėnai\"",
     "code": "304093503",
-    "address": "Šilutė, Parko g. 5, LT-99184"
+    "address": "Šilutė, Parko g. 5, LT-99184",
+    "vatcode": "LT100019240816"
   },
   {
     "name": "VšĮ Sporto ir sveikatingumo klubas \"Favoritas\"",
@@ -1523,11 +1529,6 @@
     "name": "VšĮ Edukacijos ir sveikatinimo programų paramos centras",
     "code": "304074983",
     "address": "Ignalinos r. sav., Kazitiškio sen., Ažvinčių k., Miškiniškės g. 11, LT-30252"
-  },
-  {
-    "name": "VšĮ Ignalinos sveikatinimo centras",
-    "code": "304408461",
-    "address": "Ignalina, Turistų g. 30, LT-30138"
   },
   {
     "name": "VšĮ Nacionalinis sporto ir sveikatinimo institutas",
@@ -2256,7 +2257,7 @@
   {
     "name": "Mažoji bendrija \"Sveikatos magistrai\"",
     "code": "306717442",
-    "address": "Vilnius, Saulėtekio al. 48A-25, LT-10228"
+    "address": "Vilnius, Mokslininkų g. 3-1, LT-08411"
   },
   {
     "name": "Mažoji bendrija \"Sveikatos sprendimai\"",
@@ -2636,7 +2637,7 @@
   {
     "name": "UAB \"Sveikatos avilys\"",
     "code": "306310158",
-    "address": "Vilnius, Algirdo g. 25, LT-03219",
+    "address": "Vilnius, Meistrų g. 8A, LT-02190",
     "vatcode": "LT100015927216"
   },
   {
@@ -3830,6 +3831,11 @@
     "address": "Vilnius, Antakalnio g. 51-29, LT-10325"
   },
   {
+    "name": "VšĮ Sveikatos Misterija",
+    "code": "307510770",
+    "address": "Marijampolė, Jono Dailidės g. 9A, LT-68176"
+  },
+  {
     "name": "VšĮ Sveikatos centras \"Amžinoji sandora\"",
     "code": "302326186",
     "address": "Kaunas, Partizanų g. 38E-12, LT-49489"
@@ -4249,7 +4255,8 @@
   {
     "name": "MB \"Sveikos odos formulė\"",
     "code": "306988746",
-    "address": "Alytaus r. sav., Alytaus sen., Likiškėlių k., Tėviškės g. 9F, LT-62442"
+    "address": "Alytaus r. sav., Alytaus sen., Likiškėlių k., Tėviškės g. 9F, LT-62442",
+    "vatcode": "LT100019233914"
   },
   {
     "name": "MB Sveikos ląstelės klinika",

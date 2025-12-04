@@ -175,6 +175,11 @@
     "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
+    "name": "MB \"Baltas turtas\"",
+    "code": "307493641",
+    "address": "Kauno r. sav., Ringaudų sen., Miriniškių k., Laurų g. 18-1, LT-53368"
+  },
+  {
     "name": "MB \"Ilgalaikis turtas\"",
     "code": "306117472",
     "address": "Vilnius, Viršupio Sodų 17-oji g. 16, LT-10230",
@@ -469,6 +474,11 @@
     "name": "TURTAS IŠSIMOKĖTINAI, VšĮ",
     "code": "302735877",
     "address": "Vilnius, Gurelių g. 95, LT-25124"
+  },
+  {
+    "name": "Turtas ir objektai, MB",
+    "code": "307505143",
+    "address": "Vilnius, Vilniaus g. 28-201, LT-01402"
   },
   {
     "name": "UAB \"AD turtas\"",
@@ -1446,6 +1456,12 @@
     "vatcode": "LT100001453217"
   },
   {
+    "name": "UAB Dv turtas",
+    "code": "307499733",
+    "address": "Kaunas, Šv. Gertrūdos g. 51-21, LT-44283",
+    "vatcode": "LT100019231716"
+  },
+  {
     "name": "UAB K turtas",
     "code": "306004777",
     "address": "Kaunas, Savanorių pr. 226, LT-50198",
@@ -1472,6 +1488,12 @@
     "name": "UAB Lio nekilnojamasis turtas",
     "code": "306991450",
     "address": "Vilnius, Literatų g. 9-31, LT-01125"
+  },
+  {
+    "name": "UAB MV Turtas",
+    "code": "307495980",
+    "address": "Šilutės r. sav., Saugų sen., Saugų k., Mažosios Lietuvos g. 3, LT-99402",
+    "vatcode": "LT100019254019"
   },
   {
     "name": "UAB Modus solar turtas",
@@ -1520,7 +1542,8 @@
   {
     "name": "UAB VPŠ turtas",
     "code": "307482011",
-    "address": "Kaunas, Karaliūnų g. 17, LT-47488"
+    "address": "Kaunas, Karaliūnų g. 17, LT-47488",
+    "vatcode": "LT100019122811"
   },
   {
     "name": "UAB Vaistija turtas",
@@ -1642,11 +1665,6 @@
     "vatcode": "LT100010380318"
   },
   {
-    "name": "Prancūzijos bendrovės su ribota turtine atsakomybe \"DERFI INTERNATIONAL\" atstovybė",
-    "code": "110250252",
-    "address": "Vilnius, Trakų g. 13-1, LT-01132"
-  },
-  {
     "name": "Vokietijos įmonės su ribota turtine atsakomybe \"FABA Import Export\" atstovybė",
     "code": "110248949",
     "address": "Vilnius, Rinktinės g. 21-84, LT-09202"
@@ -1693,11 +1711,6 @@
     "name": "Ribotos turtinės atsakomybės bendrovės \"MARYLEBONE PROPERTIES LIMITED\" atstovybė",
     "code": "110245643",
     "address": "Vilnius, Aludarių g. 1, LT-01113"
-  },
-  {
-    "name": "Vokietijos ribotos turtinės atsakomybės bendrovės \"WAMHOFF GmbH\" atstovybė",
-    "code": "110232610",
-    "address": "Kaunas, Kuršių g. 50-21, LT-48139"
   },
   {
     "name": "MB \"Turtle Group\"",
@@ -1761,11 +1774,6 @@
     "name": "K. Jasinsko turto vertinimo IĮ",
     "code": "158302381",
     "address": "Jurbarkas, Gedimino g. 13A-6, LT-74163"
-  },
-  {
-    "name": "K. Kubertavičiaus įmonė TURTO, VERSLO VERTINIMO IR AUDITO BIURAS",
-    "code": "151339384",
-    "address": "Marijampolė, Laisvės g. 7, LT-68299"
   },
   {
     "name": "LIETUVOS NEKILNOJAMOJO TURTO VERSLO ASOCIACIJA",
@@ -1954,7 +1962,7 @@
   {
     "name": "MB Turto projektai",
     "code": "307149131",
-    "address": "Vilniaus r. sav., Zujūnų sen., Gudelių k., Senųjų Gudelių g. 29, LT-14168"
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
     "name": "MB Turto sprendimas",
@@ -2179,7 +2187,7 @@
   {
     "name": "UAB \"Nekilnojamojo turto parkas\"",
     "code": "304515933",
-    "address": "Vilnius, Laisvės pr. 125, LT-06118"
+    "address": "Vilnius, Jurgio Baltrušaičio g. 1A-102, LT-06118"
   },
   {
     "name": "UAB \"Nekilnojamojo turto paslaugos\"",
@@ -2279,12 +2287,6 @@
     "name": "UAB \"Tikroji turto kaina\" Šiaulių filialas",
     "code": "302243609",
     "address": "Šiauliai, Vasario 16-osios g. 55, LT-76296"
-  },
-  {
-    "name": "UAB \"Turto Valdyba Verslininkams\"",
-    "code": "307192848",
-    "address": "Vilnius, Gelvonų g. 20-64, LT-07148",
-    "vatcode": "LT100019093814"
   },
   {
     "name": "UAB \"Turto akademija\"",
@@ -2802,8 +2804,7 @@
   },
   {
     "name": "MB \"Turtus\"",
-    "code": "304087564",
-    "address": "Vilnius, Juodvarnių Sodų 16-oji g. 6, LT-10235"
+    "code": "304087564"
   },
   {
     "name": "UAB \"TURTUS VERTUS\"",

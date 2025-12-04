@@ -182,7 +182,7 @@
   {
     "name": "UAB \"Vilners\"",
     "code": "304279529",
-    "address": "Vilnius, Laisvės pr. 125, LT-06118"
+    "address": "Vilnius, Jurgio Baltrušaičio g. 1A-102, LT-06118"
   },
   {
     "name": "MB Vilnertina",
@@ -587,6 +587,11 @@
     "name": "BABY ROSS FLOWERS L.L.C Vilniaus filialas",
     "code": "304369040",
     "address": "Vilnius, Geležinio Vilko g. 7-1A, LT-03131"
+  },
+  {
+    "name": "Bendrija \"Vilniaus 155\"",
+    "code": "307507219",
+    "address": "Šiauliai, Vilniaus g. 155-19, LT-76352"
   },
   {
     "name": "Bendrovės su ribota atsakomybe \"TEKHINVEST\" Vilniaus filialas",
@@ -1925,6 +1930,11 @@
   {
     "name": "Skandinaviska Enskilda Banken AB, Vilniaus filialas",
     "code": "301925546",
+    "address": "Vilnius, Vito Gerulaičio g. 10, LT-08200"
+  },
+  {
+    "name": "Skandinaviska Enskilda Banken AB, Vilniaus filialo darbuotojų profesinė sąjunga",
+    "code": "305475388",
     "address": "Vilnius, Vito Gerulaičio g. 10, LT-08200"
   },
   {
@@ -3414,12 +3424,6 @@
     "vatcode": "LT215741417"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Vilniaus centrinis knygynas\"",
-    "code": "122251839",
-    "address": "Vilnius, Gedimino pr. 13, LT-01103",
-    "vatcode": "LT222518314"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Vilniaus ginklai\"",
     "code": "133469668",
     "address": "Kaunas, Kęstučio g. 58-2, LT-44304",
@@ -3434,7 +3438,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Vilniaus hidroprojektas\"",
     "code": "121896961",
-    "address": "Vilnius, Kalvarijų g. 129-402, LT-08221"
+    "address": "Vilnius, Kalvarijų g. 129-402, LT-08221",
+    "vatcode": "LT100000030812"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Vilniaus kometa\"",
@@ -3481,8 +3486,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Vilniaus valda\"",
     "code": "300107012",
-    "address": "Vilnius, Trinapolio g. 11, LT-08338",
-    "vatcode": "LT100001864413"
+    "address": "Vilnius, Trinapolio g. 11, LT-08338"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Vilniaus viešasis transportas\"",
@@ -3522,11 +3526,6 @@
     "name": "Uždarosios akcinės bendrovės \"AREVITA\" Vilniaus filialas",
     "code": "124109653",
     "address": "Vilnius, Naugarduko g. 41, LT-03227"
-  },
-  {
-    "name": "Uždarosios akcinės bendrovės \"DEGARDA\" Vilniaus filialas",
-    "code": "124635735",
-    "address": "Vilnius, Veprių g. 8-2"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"Derėžnyčia\" Vilniaus filialas",
@@ -3655,6 +3654,11 @@
     "code": "224544770",
     "address": "Vilnius, Trakų g. 2-15, LT-01132",
     "vatcode": "LT100006741714"
+  },
+  {
+    "name": "VIEŠOJI ĮSTAIGA VILNIAUS PETANKĖS KLUBAS \"SOSTINĖ\"",
+    "code": "307501180",
+    "address": "Vilnius, Ūmėdžių g. 72-16, LT-02302"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA VILNIAUS ROTUŠĖ",
@@ -3863,7 +3867,8 @@
   {
     "name": "VILNIAUS KREDITO UNIJA",
     "code": "112043996",
-    "address": "Vilnius, T. Narbuto g. 5-1, LT-08106"
+    "address": "Vilnius, T. Narbuto g. 5-1, LT-08106",
+    "vatcode": "LT100019119519"
   },
   {
     "name": "VILNIAUS KREPŠINIO KLUBAS \"GABIJA\"",
@@ -5042,7 +5047,7 @@
   {
     "name": "Vilniaus Antakalnio gatvės daugiabučio namo Nr. 58 savininkų bendrija",
     "code": "302700100",
-    "address": "Vilnius, Antakalnio g. 58-38, LT-10303"
+    "address": "Vilnius, Antakalnio g. 58-4, LT-10303"
   },
   {
     "name": "Vilniaus Antakalnio gimnazija",
@@ -5137,17 +5142,12 @@
   {
     "name": "Vilniaus Bočių bendrija",
     "code": "193267272",
-    "address": "Vilnius, Kaštonų g. 3, LT-01107"
+    "address": "Vilnius, Kaštonų g. 3-1A, LT-01107"
   },
   {
     "name": "Vilniaus Broniaus Jonušo muzikos mokykla",
     "code": "191662370",
     "address": "Vilnius, Dariaus ir Girėno g. 16, LT-02169"
-  },
-  {
-    "name": "Vilniaus COASTAL STORAGE & TRANSPORTATION LTD filialas",
-    "code": "305163787",
-    "address": "Vilnius, Eišiškių pl. 47-312, LT-02184"
   },
   {
     "name": "Vilniaus Emilijos Pliaterytės progimnazija",
@@ -5853,6 +5853,11 @@
     "address": "Vilnius, V. Šopeno g. 3, LT-01313"
   },
   {
+    "name": "Vilniaus atvirasis jaunimo centras \"22 bendra būtis\"",
+    "code": "307508787",
+    "address": "Vilnius, Vilniaus g. 22-3, LT-01402"
+  },
+  {
     "name": "Vilniaus atviro vandens plaukimo klubas \"GRYBŠNIS\"",
     "code": "305903294",
     "address": "Vilnius, S. Stanevičiaus g. 31-20, LT-07132"
@@ -5993,7 +5998,8 @@
   {
     "name": "Vilniaus dizaino kolegija",
     "code": "111960928",
-    "address": "Vilnius, Akmenų g. 3, LT-03106"
+    "address": "Vilnius, Akmenų g. 3, LT-03106",
+    "vatcode": "LT100019126318"
   },
   {
     "name": "Vilniaus drakonų valčių irklavimo klubas",
@@ -7602,11 +7608,6 @@
     "address": "Vilnius, Pylimo g. 9-13, LT-01118"
   },
   {
-    "name": "Vilniaus miesto daugiabučio gyvenamojo namo Sėlių g. 34 savininkų bendrija",
-    "code": "304507648",
-    "address": "Vilnius, Sėlių g. 34-2, LT-08125"
-  },
-  {
     "name": "Vilniaus miesto daugiabučio gyvenamojo namo T. Vrublevskio g. 4 savininkų bendrija",
     "code": "304392523",
     "address": "Vilnius, T. Vrublevskio g. 4-16, LT-01143"
@@ -7860,7 +7861,7 @@
   {
     "name": "Vilniaus miesto savivaldybės administracijos Šeškinės seniūnija",
     "code": "188650618",
-    "address": "Vilnius, Ukmergės g. 220, LT-07157"
+    "address": "Vilnius, Ukmergės g. 220-201, LT-07157"
   },
   {
     "name": "Vilniaus miesto savivaldybės administracijos Šnipiškių seniūnija",
@@ -8079,7 +8080,7 @@
   {
     "name": "Vilniaus pilių valstybinio kultūrinio rezervato direkcija",
     "code": "300038598",
-    "address": "Vilnius, T. Kosciuškos g. 30, LT-01100"
+    "address": "Vilnius, A. Goštauto g. 9, LT-01108"
   },
   {
     "name": "Vilniaus pirkliai, MB",
@@ -9207,7 +9208,7 @@
   {
     "name": "Vilniaus vaikų ir jaunimo klubas \"Verdenė\"",
     "code": "191664193",
-    "address": "Vilnius, Ukmergės g. 220, LT-07157"
+    "address": "Vilnius, Ukmergės g. 220-201, LT-07157"
   },
   {
     "name": "Vilniaus vaikų ir jaunimo klubas \"Šatrija\"",
@@ -9756,9 +9757,19 @@
     "address": "Joniškis, A. Varno g. 19, LT-84158"
   },
   {
+    "name": "VšĮ Vilniaus Labirintas",
+    "code": "307498478",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "VšĮ Vilniaus Sporto Akademija \"FUTURE\"",
     "code": "306495080",
     "address": "Vilnius, Bajorų Sodų 17-oji g. 13, LT-08426"
+  },
+  {
+    "name": "VšĮ Vilniaus Tinklinio Mokykla",
+    "code": "306320056",
+    "address": "Vilnius, Sibiro g. 6, LT-11347"
   },
   {
     "name": "VšĮ Vilniaus Valdorfo Atviroji mokykla",
@@ -10900,11 +10911,6 @@
     "address": "Vilnius, Sporto g. 12-4, LT-09238"
   },
   {
-    "name": "Daugiabučio namo Svajonių g. 10, Vilniuje savininkų bendrija",
-    "code": "302473930",
-    "address": "Vilnius, Svajonių g. 10-1, LT-10103"
-  },
-  {
     "name": "Daugiabučio namo Sėlių g. 29/2, Vilniuje savininkų bendrija",
     "code": "301519677",
     "address": "Vilnius, Sėlių g. 29-32, LT-08125"
@@ -11235,11 +11241,6 @@
     "address": "Vilnius, Ukmergės g. 300H-31, LT-06146"
   },
   {
-    "name": "EWEC AG atstovybė Vilniuje",
-    "code": "111907548",
-    "address": "Vilnius, Rodūnios kel. 2, LT-02189"
-  },
-  {
     "name": "Eitminų g. 12 namo Vilniuje savininkų bendrija",
     "code": "304880519",
     "address": "Vilnius, Eitminų g. 12-32, LT-12111"
@@ -11434,11 +11435,6 @@
     "name": "Namo Kapsų g. 38 Vilniuje savininkų bendrija",
     "code": "304981518",
     "address": "Vilnius, Kapsų g. 38-101, LT-02168"
-  },
-  {
-    "name": "Namo Kareivių g. 2B Vilniuje savininkų bendrija",
-    "code": "304708213",
-    "address": "Vilnius, Kareivių g. 2B-103, LT-08248"
   },
   {
     "name": "Namo Kauno g. 10 Vilniuje bendrija",
@@ -11951,7 +11947,7 @@
   {
     "name": "DB Engineering & Consulting GmbH filialas Vilnius",
     "code": "300145358",
-    "address": "Vilnius, J. Basanavičiaus g. 7, LT-01118"
+    "address": "Vilnius, Ukmergės g. 126, LT-08100"
   },
   {
     "name": "DEREIF Vilnius Konstitucijos UAB",
@@ -12437,16 +12433,6 @@
     "vatcode": "LT100017997914"
   },
   {
-    "name": "SLEIDAS LTD filialas \"SLEIDAS VILNIUS\"",
-    "code": "111880115",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
-    "name": "Skandinaviska Enskilda Banken AB, Vilnius filialo darbuotojų profesinė sąjunga",
-    "code": "305475388",
-    "address": "Vilnius, Vito Gerulaičio g. 10, LT-08200"
-  },
-  {
     "name": "Sodininkų bendrija \"Vilnius\"",
     "code": "300071025",
     "address": "Trakų r. sav., Lentvario sen., Vosyliukų k., Vynuogių g. 18, LT-21427"
@@ -12890,7 +12876,7 @@
   {
     "name": "UAB \"TPI Vilnius\"",
     "code": "300584266",
-    "address": "Vilnius, Jurgio Matulaičio a. 7-2, LT-05111",
+    "address": "Vilnius, Fabijoniškių g. 24A, LT-07100",
     "vatcode": "LT100002545510"
   },
   {

@@ -466,11 +466,6 @@
     "vatcode": "LT100011511010"
   },
   {
-    "name": "MB \"Saugi informacija\"",
-    "code": "306167977",
-    "address": "Kaunas, Partizanų g. 216-77, LT-50319"
-  },
-  {
     "name": "MB \"Saugi veikla\"",
     "code": "305888134",
     "address": "Vilnius, Apkasų g. 27-21, LT-08226"
@@ -1048,6 +1043,11 @@
     "address": "Vilnius, A. Vivulskio g. 11, LT-03162"
   },
   {
+    "name": "Saugos tarnyba \"VASAKNOS\"",
+    "code": "307492703",
+    "address": "Zarasų r. sav., Dusetų sen., Vasaknų k., Sudeikių g. 6, LT-32311"
+  },
+  {
     "name": "Savanoriški saugos būriai",
     "code": "302463765",
     "address": "Šiauliai, Tilžės g. 148, LT-76350"
@@ -1523,7 +1523,7 @@
   {
     "name": "MB \"Saugumo strategija\"",
     "code": "305826588",
-    "address": "Vilnius, Virginijaus Druskio g. 1-200, LT-04307",
+    "address": "Neringa, Preilos g. 39C-12, LT-93129",
     "vatcode": "LT100014285415"
   },
   {
@@ -1585,6 +1585,11 @@
     "name": "UAB \"Statybų saugumo garantas\"",
     "code": "303558376",
     "address": "Pagėgių sav., Vilkyškių sen., Barzūnų k. 12, LT-99253"
+  },
+  {
+    "name": "UAB Kibernetinio saugumo grupė",
+    "code": "306369256",
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "UAB Transporto saugumo centras",
@@ -1751,11 +1756,6 @@
     "address": "Vilnius, Žygio g. 90, LT-08242"
   },
   {
-    "name": "MB Saugus darbas",
-    "code": "307019045",
-    "address": "Zarasų r. sav., Salako sen., Nečeskų k. 2, LT-32210"
-  },
-  {
     "name": "MB Saugus grožis",
     "code": "305977184",
     "address": "Vilnius, Ilgalaukio g. 7-2, LT-02120"
@@ -1772,15 +1772,15 @@
     "vatcode": "LT100017454212"
   },
   {
+    "name": "Saugus kapitalas MB",
+    "code": "307504625",
+    "address": "Kaunas, Vytenio g. 20-53, LT-48421"
+  },
+  {
     "name": "UAB \"Saugus eismas\"",
     "code": "300110439",
     "address": "Kaunas, Kuršių g. 14-24, LT-48147",
     "vatcode": "LT100001767519"
-  },
-  {
-    "name": "UAB \"Saugus pasaulis\"",
-    "code": "305330880",
-    "address": "Kaunas, Chemijos g. 27B, LT-51332"
   },
   {
     "name": "UAB \"Saugus vairavimas\"",
@@ -1917,7 +1917,7 @@
   {
     "name": "VšĮ \"Saugūs kartu\"",
     "code": "306688706",
-    "address": "Šiauliai, Vytauto g. 110-20, LT-76345"
+    "address": "Pakruojo r. sav., Guostagalio sen., Degėsių k., Saulės g. 8, LT-83395"
   },
   {
     "name": "Asociacija \"Už saugų automobilį Lietuvoje\"",

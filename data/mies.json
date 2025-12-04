@@ -309,6 +309,11 @@
     "vatcode": "LT100016788210"
   },
   {
+    "name": "UAB Jaukus miestas",
+    "code": "307499936",
+    "address": "Vilnius, J. Jasinskio g. 14B-102, LT-01112"
+  },
+  {
     "name": "UAB Plėtros miestas",
     "code": "307487841",
     "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Pasakų g. 5D-1, LT-14166"
@@ -431,11 +436,6 @@
     "name": "Daugiabučio namo Ventos g. 34, Ventos mieste savininkų bendrija",
     "code": "301206586",
     "address": "Akmenės r. sav., Venta, Ventos g. 34-6, LT-85313"
-  },
-  {
-    "name": "Labdaros ir paramos fondas \"Žaliuok, mano mieste\"",
-    "code": "303332021",
-    "address": "Klaipėda, H. Manto g. 40-4, LT-92233"
   },
   {
     "name": "MB \"Mieste kužda\"",
@@ -1818,6 +1818,11 @@
     "address": "Jurbarkas, Kauno g. 25, LT-74122"
   },
   {
+    "name": "KAUNO MIESTO IKIMOKYKLINIO UGDYMO ĮSTAIGŲ VADOVŲ ASOCIACIJA",
+    "code": "193293776",
+    "address": "Kaunas, Šarkuvos g. 24, LT-48171"
+  },
+  {
     "name": "KLAIPĖDOS APSKRITIES IR MIESTO FUTBOLO FEDERACIJA",
     "code": "193428028",
     "address": "Klaipėda, Gintaro g. 9-3, LT-92241"
@@ -1866,6 +1871,11 @@
     "name": "Kauno miesto Aleksoto vietos veiklos grupė",
     "code": "304084529",
     "address": "Kaunas, Veiverių g. 132, LT-46337"
+  },
+  {
+    "name": "Kauno miesto Daugiabučio gyvenamojo namo Gričiupio g. 7 savininkų bendrija DNSB \"Gričiupio 7\"",
+    "code": "307495642",
+    "address": "Kaunas, Gričiupio g. 7, LT-51372"
   },
   {
     "name": "Kauno miesto Daugiabučio gyvenamojo namo Klevų g. 3 savininkų bendrija \"Trys Klevai\"",
@@ -1959,6 +1969,11 @@
     "address": "Kaunas, Šv. Gertrūdos g. 7, LT-44290"
   },
   {
+    "name": "Kauno miesto savivaldybės administracijos filialas Centro-Žaliakalnio seniūnija",
+    "code": "307507226",
+    "address": "Kaunas, Šv. Gertrūdos g. 7, LT-44290"
+  },
+  {
     "name": "Kauno miesto savivaldybės administracijos filialas Dainavos seniūnija",
     "code": "302710297",
     "address": "Kaunas, V. Krėvės pr. 41A-1, LT-49442"
@@ -1974,6 +1989,11 @@
     "address": "Kaunas, Gričiupio g. 11-101, LT-51375"
   },
   {
+    "name": "Kauno miesto savivaldybės administracijos filialas Panemunės - Šančių seniūnija",
+    "code": "307508997",
+    "address": "Kaunas, Vaidoto g. 115, LT-45390"
+  },
+  {
     "name": "Kauno miesto savivaldybės administracijos filialas Panemunės seniūnija",
     "code": "302710379",
     "address": "Kaunas, Vaidoto g. 115, LT-45390"
@@ -1981,6 +2001,11 @@
   {
     "name": "Kauno miesto savivaldybės administracijos filialas Petrašiūnų seniūnija",
     "code": "302710272",
+    "address": "Kaunas, T. Masiulio g. 10, LT-52372"
+  },
+  {
+    "name": "Kauno miesto savivaldybės administracijos filialas Petrašiūnų-Gričiupio seniūnija",
+    "code": "307508470",
     "address": "Kaunas, T. Masiulio g. 10, LT-52372"
   },
   {
@@ -2935,8 +2960,7 @@
   {
     "name": "MB \"Miesto kurjeris\"",
     "code": "303752858",
-    "address": "Vilniaus r. sav., Mickūnų sen., Galgių k., Centrinė g. 40, LT-13104",
-    "vatcode": "LT100011291110"
+    "address": "Vilniaus r. sav., Mickūnų sen., Galgių k., Centrinė g. 40, LT-13104"
   },
   {
     "name": "MB \"Miesto lizdas\"",
@@ -3711,11 +3735,6 @@
     "address": "Telšiai, Turgaus a. 7, LT-87122"
   },
   {
-    "name": "Trakų miesto Daugiabučio gyvenamojo namo Vytauto g. 74 savininkų bendrija \"Vytauto Trakai\"",
-    "code": "304832403",
-    "address": "Trakai, Vytauto g. 74-13, LT-21116"
-  },
-  {
     "name": "Trakų miesto garažų bendrija \"Žibintas\"",
     "code": "181687610",
     "address": "Trakai, Vilniaus g. 15A-99, LT-21118"
@@ -3910,8 +3929,7 @@
   {
     "name": "UAB \"Miesto puota LT\"",
     "code": "304110881",
-    "address": "Kaunas, Kęstučio g. 57-10, LT-44303",
-    "vatcode": "LT100009729511"
+    "address": "Kaunas, Kęstučio g. 57-10, LT-44303"
   },
   {
     "name": "UAB \"Miesto raida\"",
@@ -4061,7 +4079,8 @@
   {
     "name": "UAB Miesto apartamentai",
     "code": "307476713",
-    "address": "Vilnius, Smolensko g. 10D-26, LT-03201"
+    "address": "Vilnius, Smolensko g. 10D-26, LT-03201",
+    "vatcode": "LT100019196815"
   },
   {
     "name": "UAB Miesto desertai",
@@ -4132,11 +4151,6 @@
     "name": "Ukmergės miesto garažų statybos ir eksploatavimo bendrija \"Rida\"",
     "code": "183119720",
     "address": "Ukmergė, Dariaus ir Girėno g."
-  },
-  {
-    "name": "Ukmergės miesto garažų statybos ir eksploatavimo bendrija \"Vairas\"",
-    "code": "183119154",
-    "address": "Ukmergė, Vytauto g. 104, LT-20187"
   },
   {
     "name": "Ukmergės miesto garažų statybos ir eksploatavimo bendrija \"Vienybė\"",
@@ -4969,11 +4983,6 @@
     "address": "Vilnius, Pylimo g. 9-13, LT-01118"
   },
   {
-    "name": "Vilniaus miesto daugiabučio gyvenamojo namo Sėlių g. 34 savininkų bendrija",
-    "code": "304507648",
-    "address": "Vilnius, Sėlių g. 34-2, LT-08125"
-  },
-  {
     "name": "Vilniaus miesto daugiabučio gyvenamojo namo T. Vrublevskio g. 4 savininkų bendrija",
     "code": "304392523",
     "address": "Vilnius, T. Vrublevskio g. 4-16, LT-01143"
@@ -5227,7 +5236,7 @@
   {
     "name": "Vilniaus miesto savivaldybės administracijos Šeškinės seniūnija",
     "code": "188650618",
-    "address": "Vilnius, Ukmergės g. 220, LT-07157"
+    "address": "Vilnius, Ukmergės g. 220-201, LT-07157"
   },
   {
     "name": "Vilniaus miesto savivaldybės administracijos Šnipiškių seniūnija",

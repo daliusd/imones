@@ -124,11 +124,6 @@
     "address": "Šiauliai, Vytauto g. 134-2, LT-76335"
   },
   {
-    "name": "MB \"Prekių perlas\"",
-    "code": "306645548",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
-  },
-  {
     "name": "MB \"Prekių sistema\"",
     "code": "304973813",
     "address": "Kaunas, Taikos pr. 98, LT-51176",
@@ -835,7 +830,8 @@
   {
     "name": "MB \"Vakarų prekyba\"",
     "code": "306333096",
-    "address": "Klaipėda, H. Manto g. 76, LT-92222"
+    "address": "Klaipėda, H. Manto g. 76, LT-92222",
+    "vatcode": "LT100019197319"
   },
   {
     "name": "MB \"Vilniaus grožio ir sveikatos prekyba\"",
@@ -1416,6 +1412,11 @@
     "code": "142054984",
     "address": "Klaipėda, Taikos pr. 15, LT-91135",
     "vatcode": "LT420549811"
+  },
+  {
+    "name": "UAB \"AVIZO prekyba\"",
+    "code": "307497077",
+    "address": "Šiauliai, Parko g. 3, LT-76196"
   },
   {
     "name": "UAB \"AVS prekyba\"",
@@ -2453,8 +2454,7 @@
   {
     "name": "UAB \"Targirės prekyba\"",
     "code": "302577847",
-    "address": "Šiaulių r. sav., Bubių sen., Mekių k., Bazilionų g. 11A, LT-80163",
-    "vatcode": "LT100005840919"
+    "address": "Šiaulių r. sav., Bubių sen., Mekių k., Bazilionų g. 11A, LT-80163"
   },
   {
     "name": "UAB \"Tauro prekyba\"",
@@ -2638,7 +2638,7 @@
   {
     "name": "UAB Dažų prekyba",
     "code": "135853774",
-    "address": "Kaunas, Ateities pl. 4B, LT-52322",
+    "address": "Kaunas, Ateities g. 4B, LT-52322",
     "vatcode": "LT358537716"
   },
   {
@@ -3112,7 +3112,7 @@
   {
     "name": "R. Skieruvienės prekybinė firma",
     "code": "141095330",
-    "address": "Klaipėda, Sandėlių g. 30, LT-95107",
+    "address": "Klaipėda, Sandėlių g. 30-3, LT-95107",
     "vatcode": "LT410953314"
   },
   {
@@ -4097,7 +4097,7 @@
   {
     "name": "MB Prekybos horizontai",
     "code": "305909112",
-    "address": "Kėdainių r. sav., Pelėdnagių sen., Pelėdnagių k., V. Koncevičiaus g. 8-17, LT-58160",
+    "address": "Kėdainių r. sav.",
     "vatcode": "LT100014470218"
   },
   {
@@ -4457,11 +4457,6 @@
     "vatcode": "LT828064917"
   },
   {
-    "name": "Stasio Liudvinavičiaus prekybos įmonė",
-    "code": "265841960",
-    "address": "Marijampolės sav., Marijampolės sen., Meškučių k."
-  },
-  {
     "name": "Stasio Vyto prekybos įmonė",
     "code": "167575532",
     "address": "Molėtų r. sav., Luokesos sen., Kanapelkos k."
@@ -4636,8 +4631,7 @@
   {
     "name": "UAB \"Prekybos laivytė\"",
     "code": "304775870",
-    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Aukštkiemių g. 1, LT-92360",
-    "vatcode": "LT100011479114"
+    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Aukštkiemių g. 1, LT-92360"
   },
   {
     "name": "UAB \"Prekybos linija\"",
@@ -4660,11 +4654,6 @@
     "code": "304131886",
     "address": "Vilnius, Gedimino pr. 10-5, LT-01103",
     "vatcode": "LT100009849510"
-  },
-  {
-    "name": "UAB \"Prekybos parko projektų plėtra\"",
-    "code": "304846659",
-    "address": "Vilnius, Gedimino pr. 10-5, LT-01103"
   },
   {
     "name": "UAB \"Prekybos parko projektų vystymas\"",
@@ -4848,7 +4837,7 @@
   {
     "name": "UAB Prekybos centras \"Puriena\"",
     "code": "268413210",
-    "address": "Panevėžys, Rožių g. 74, LT-37463",
+    "address": "Panevėžys, Rožių g. 74-2, LT-37463",
     "vatcode": "LT684132113"
   },
   {
@@ -5228,7 +5217,8 @@
   {
     "name": "Vidmanto Stadaliaus prekybos įmonė",
     "code": "151375658",
-    "address": "Marijampolė, Kauno g. 75-49, LT-68182"
+    "address": "Marijampolė, Kauno g. 75-49, LT-68182",
+    "vatcode": "LT100019172313"
   },
   {
     "name": "Vido Strimaičio paslaugų ir prekybos įmonė",

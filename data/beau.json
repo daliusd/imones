@@ -76,11 +76,6 @@
     "address": "Kaunas, Blindžių g. 4, LT-46356"
   },
   {
-    "name": "Beauty Cat, UAB",
-    "code": "307423995",
-    "address": "Vilnius, Mergelės g. 11, LT-12189"
-  },
-  {
     "name": "Beauty in the BOX UAB",
     "code": "306066444",
     "address": "Vilnius, Gynėjų g. 4-333, LT-01109"
@@ -133,6 +128,11 @@
     "name": "MB \"After hours beauty\"",
     "code": "306703923",
     "address": "Vilnius, S. Žukausko g. 45-13, LT-09131"
+  },
+  {
+    "name": "MB \"Akila beauty\"",
+    "code": "307498186",
+    "address": "Vilnius, Grūdų g. 33, LT-11302"
   },
   {
     "name": "MB \"Amber beauty\"",
@@ -188,7 +188,8 @@
   {
     "name": "MB \"Beauty Space\"",
     "code": "307021733",
-    "address": "Vilnius, Jurgio Lebedžio g. 1-1004, LT-08353"
+    "address": "Vilnius, Jurgio Lebedžio g. 1-1004, LT-08353",
+    "vatcode": "LT100019250319"
   },
   {
     "name": "MB \"Beauty and Co\"",
@@ -365,7 +366,8 @@
   {
     "name": "MB BA HOI BEAUTY",
     "code": "307156510",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019214918"
   },
   {
     "name": "MB BEAUTY DAY",
@@ -609,6 +611,11 @@
     "name": "MB Vanilla house of beauty",
     "code": "307061603",
     "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Elnio g. 27, LT-53277"
+  },
+  {
+    "name": "MB Vivi beauty",
+    "code": "307488701",
+    "address": "Kaunas, K. Baršausko g. 92-29, LT-51442"
   },
   {
     "name": "Mažoji bendrija Beauty era",
@@ -874,8 +881,7 @@
   {
     "name": "Beautybean, MB",
     "code": "306339494",
-    "address": "Ukmergė, Alytaus g. 25, LT-20175",
-    "vatcode": "LT100016083215"
+    "address": "Ukmergė, Alytaus g. 25, LT-20175"
   },
   {
     "name": "MB Beautyfor LT",

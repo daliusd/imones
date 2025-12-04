@@ -432,6 +432,11 @@
     "address": "Vilniaus r. sav., Mickūnai, Vilniaus g. 16B, LT-13116"
   },
   {
+    "name": "MB AA Capital",
+    "code": "307510973",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "MB AM Capital",
     "code": "307481500",
     "address": "Kaunas, Alytaus g. 47B, LT-47119"
@@ -577,9 +582,19 @@
     "address": "Vilnius, Mileišiškių Sodų 2-oji g. 8, LT-10211"
   },
   {
+    "name": "MB SVM Capital",
+    "code": "307498097",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+  },
+  {
     "name": "MB Sequestered Capital",
     "code": "306418080",
     "address": "Vilnius, Pašilaičių g. 1-61, LT-06115"
+  },
+  {
+    "name": "MB Summit Real Capital",
+    "code": "307504803",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
     "name": "MB Urbon capital",
@@ -842,11 +857,6 @@
     "name": "SLB capital UAB",
     "code": "306879490",
     "address": "Vilnius, Šv. Stepono g. 7, LT-01139"
-  },
-  {
-    "name": "Sapnas Capital UAB",
-    "code": "307273061",
-    "address": "Vilnius, Konstitucijos pr. 15-258, LT-09319"
   },
   {
     "name": "Slanina Capital, UAB",
@@ -1229,7 +1239,8 @@
   {
     "name": "UAB \"Iron Wolf Capital Management\"",
     "code": "304711768",
-    "address": "Vilnius, Naugarduko g. 3-301, LT-03231"
+    "address": "Vilnius, Naugarduko g. 3-301, LT-03231",
+    "vatcode": "LT100019136912"
   },
   {
     "name": "UAB \"Iterum Capital\"",
@@ -1401,6 +1412,12 @@
     "code": "306317537",
     "address": "Vilnius, Laisvės pr. 60, LT-05120",
     "vatcode": "LT100018838615"
+  },
+  {
+    "name": "UAB \"Prospera Capital\"",
+    "code": "307139589",
+    "address": "Kaunas, Ringuvos g. 65A, LT-45245",
+    "vatcode": "LT100017774811"
   },
   {
     "name": "UAB \"R capital\"",
@@ -1716,7 +1733,7 @@
   {
     "name": "UAB Capital Real Estate",
     "code": "300653680",
-    "address": "Vilnius, Konstitucijos pr. 23, LT-08105",
+    "address": "Vilnius, Žalgirio g. 114, LT-09300",
     "vatcode": "LT100002986116"
   },
   {
@@ -1858,6 +1875,11 @@
     "vatcode": "LT100015726911"
   },
   {
+    "name": "UAB GemVault Capital",
+    "code": "307501935",
+    "address": "Vilnius, Girulių g. 20, LT-12123"
+  },
+  {
     "name": "UAB Gimas capital",
     "code": "306632846",
     "address": "Vilnius, Pakalnučių g. 6, LT-04123",
@@ -1985,7 +2007,8 @@
   {
     "name": "UAB Maar capital",
     "code": "307207015",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019150312"
   },
   {
     "name": "UAB Meraki Capital",
@@ -2192,13 +2215,19 @@
   {
     "name": "UAB Vid capital",
     "code": "307404055",
-    "address": "Alytus, Naujoji g. 74-41, LT-62386"
+    "address": "Alytus, Naujoji g. 74-41, LT-62386",
+    "vatcode": "LT100019273510"
   },
   {
     "name": "UAB West Capital Group",
     "code": "145113466",
     "address": "Šiauliai, Naujo Ryto tak. 2-62, LT-78204",
     "vatcode": "LT451134610"
+  },
+  {
+    "name": "UAB Wise Capital Solutions",
+    "code": "307490595",
+    "address": "Vilnius, Perkūnkiemio g. 14, LT-12118"
   },
   {
     "name": "UAB Wolf Capital",
@@ -2274,6 +2303,11 @@
     "address": "Klaipėda, Liubeko g. 17-18A, LT-94283"
   },
   {
+    "name": "VOCO Capital, UAB",
+    "code": "307510813",
+    "address": "Vilnius, Polocko g. 2-40, LT-01204"
+  },
+  {
     "name": "VšĮ motociklininkų klubas \"Capital\"",
     "code": "304994921",
     "address": "Vilniaus r. sav., Zujūnų sen., Balandiškių k., Balandiškių g. 16, LT-14176"
@@ -2308,7 +2342,7 @@
   {
     "name": "SE Capitalia filialas Lietuvoje",
     "code": "304914672",
-    "address": "Vilnius, Smolensko g. 10B, LT-03201"
+    "address": "Vilnius, Manufaktūrų g. 20-231, LT-11342"
   },
   {
     "name": "UAB \"CAPITALICA ASSET MANAGEMENT\"",
@@ -2399,7 +2433,7 @@
   {
     "name": "UAB \"Calculus capitis\"",
     "code": "302735795",
-    "address": "Vilnius, L. Giros g. 74-5, LT-06322",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
     "vatcode": "LT100006699619"
   },
   {

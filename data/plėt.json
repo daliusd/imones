@@ -53,6 +53,11 @@
     "address": "Vilnius, A. Vivulskio g. 23-6, LT-03114"
   },
   {
+    "name": "MB \"Garso plėtra\"",
+    "code": "307506640",
+    "address": "Vilnius, Šv. Stepono g. 7, LT-01139"
+  },
+  {
     "name": "MB \"IT plėtra\"",
     "code": "305172149",
     "address": "Vilnius, Dociškių g. 16-12, LT-05271"
@@ -119,8 +124,7 @@
   },
   {
     "name": "UAB \"INSARIS IR PLĖTRA\"",
-    "code": "300135104",
-    "address": "Vilnius, Kalvarijų g. 37-4, LT-09313"
+    "code": "300135104"
   },
   {
     "name": "UAB \"Infrastruktūros plėtra\"",
@@ -179,11 +183,6 @@
     "code": "305641988",
     "address": "Vilnius, M. Katkaus g. 2B-12, LT-09219",
     "vatcode": "LT100013532619"
-  },
-  {
-    "name": "UAB \"Prekybos parko projektų plėtra\"",
-    "code": "304846659",
-    "address": "Vilnius, Gedimino pr. 10-5, LT-01103"
   },
   {
     "name": "UAB \"STATYBŲ PLĖTRA\"",
@@ -269,11 +268,6 @@
     "vatcode": "LT100017261515"
   },
   {
-    "name": "Paramos omnikratijos plėtrai fondas",
-    "code": "305557668",
-    "address": "Vilnius, Pylimo g. 61-7, LT-01137"
-  },
-  {
     "name": "UAB \"Sprendimai verslo plėtrai\"",
     "code": "302470382",
     "address": "Lazdijų r. sav., Veisiejų sen., Stankūnų k. 1, LT-67332",
@@ -334,7 +328,7 @@
   {
     "name": "EDUCATIO: plėtros ir ugdymo institutas",
     "code": "302487346",
-    "address": "Vilniaus r. sav., Riešės sen., Žalesos k., Kalnų g. 22-2, LT-15143"
+    "address": "Vilniaus r. sav."
   },
   {
     "name": "Inovacijų ir plėtros centras, UAB",
@@ -432,7 +426,8 @@
   {
     "name": "MB Ela plėtros grupė",
     "code": "307286062",
-    "address": "Vilnius, Žvalgų g. 7-31, LT-08337"
+    "address": "Vilnius, Žvalgų g. 7-31, LT-08337",
+    "vatcode": "LT100019206412"
   },
   {
     "name": "MB Inovatyvūs plėtros projektai",
@@ -512,11 +507,6 @@
     "vatcode": "LT100015793413"
   },
   {
-    "name": "Socialinio verslo plėtros fondas",
-    "code": "305535611",
-    "address": "Marijampolės sav., Sasnavos sen., Puskelnių k., Liepų g. 4, LT-68104"
-  },
-  {
     "name": "Sporto plėtros klubas \"Matrica\"",
     "code": "306705027",
     "address": "Panevėžys, Vilties g. 6-11, LT-35131"
@@ -530,6 +520,11 @@
     "name": "TRAKŲ TURIZMO PLĖTROS ASOCIACIJA \"TRAKŲ EŽERAI\"",
     "code": "302745387",
     "address": "Vilnius, Žirmūnų g. 62-32, LT-09100"
+  },
+  {
+    "name": "Tarptautinis infrastruktūros plėtros institutas VšĮ",
+    "code": "307491544",
+    "address": "Vilnius, J. Jasinskio g. 16, LT-03163"
   },
   {
     "name": "Tarptautinės Plėtros ir Iniciatyvų paramos fondas",
@@ -810,11 +805,6 @@
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
-    "name": "Viešoji įstaiga Ignalinos atominės elektrinės regiono plėtros agentūra",
-    "code": "155641921",
-    "address": "Ignalina, Ateities g. 23, LT-30121"
-  },
-  {
     "name": "Viešoji įstaiga Kauno regiono plėtros agentūra",
     "code": "135695071",
     "address": "Kaunas, Gedimino g. 56-1, LT-44242"
@@ -938,8 +928,7 @@
   },
   {
     "name": "VšĮ Automotosporto ugdymo ir plėtros centras",
-    "code": "304104483",
-    "address": "Vilnius, Olandų g. 7-1, LT-01100"
+    "code": "304104483"
   },
   {
     "name": "VšĮ Imigrantų verslo plėtros centras",
