@@ -343,6 +343,11 @@
     "vatcode": "LT100007395713"
   },
   {
+    "name": "MB Amore House",
+    "code": "307510845",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
+  },
+  {
     "name": "MB Archi house",
     "code": "307183977",
     "address": "Kaunas, Siūlų g. 5-2, LT-45196",
@@ -448,9 +453,16 @@
     "address": "Kaunas, Katpėdžių tak. 8, LT-45440"
   },
   {
+    "name": "MB JEN House",
+    "code": "307494177",
+    "address": "Molėtų r. sav., Luokesos sen., Ažubalių k., Moletūno g. 15A, LT-33103",
+    "vatcode": "LT100019173412"
+  },
+  {
     "name": "MB Jonas House",
     "code": "307464547",
-    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Samanų g. 8-1, LT-14263"
+    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Samanų g. 8-1, LT-14263",
+    "vatcode": "LT100019186515"
   },
   {
     "name": "MB Kame house",
@@ -575,9 +587,16 @@
     "vatcode": "LT100016064511"
   },
   {
+    "name": "MB Trio House",
+    "code": "307475312",
+    "address": "Utena, Bokšto g. 57, LT-28175",
+    "vatcode": "LT100019105115"
+  },
+  {
     "name": "MB Urbo House",
     "code": "306341552",
-    "address": "Klaipėda, Panevėžio g. 9-54, LT-92316"
+    "address": "Klaipėda, Panevėžio g. 9-54, LT-92316",
+    "vatcode": "LT100019118218"
   },
   {
     "name": "MB Vanilla house of beauty",
@@ -829,7 +848,8 @@
   {
     "name": "UAB \"House to Home\"",
     "code": "307409700",
-    "address": "Kaunas, Užnerio g. 51G, LT-47491"
+    "address": "Kaunas, Užnerio g. 51G, LT-47491",
+    "vatcode": "LT100019111917"
   },
   {
     "name": "UAB \"INN HOUSE\"",
@@ -851,7 +871,13 @@
   {
     "name": "UAB \"Indigo House\"",
     "code": "303039876",
-    "address": "Šiauliai, Bačiūnų g. 12M, LT-77110"
+    "address": "Šiauliai, Bačiūnų g. 12M, LT-77110",
+    "vatcode": "LT100007681117"
+  },
+  {
+    "name": "UAB \"Insta House\"",
+    "code": "307504109",
+    "address": "Vilnius, V. Šopeno g. 3-12, LT-01313"
   },
   {
     "name": "UAB \"Invest House\"",
@@ -1232,6 +1258,12 @@
     "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Bajorų g. 3A, LT-14265"
   },
   {
+    "name": "UAB Žuvėdra house",
+    "code": "307024067",
+    "address": "Vilnius, Fabijoniškių g. 5C-1031, LT-06335",
+    "vatcode": "LT100017322914"
+  },
+  {
     "name": "UPSIDE DOWN HOUSE EUROPE UAB",
     "code": "306186600",
     "address": "Vilnius, Lvivo g. 25-104, LT-09320"
@@ -1250,7 +1282,8 @@
   {
     "name": "Uždaroji akcinė bendrovė Alder smoke house",
     "code": "306993437",
-    "address": "Kauno r. sav., Domeikavos sen., Voškonių k., Rytmečio g. 10, LT-54346"
+    "address": "Kauno r. sav., Domeikavos sen., Voškonių k., Rytmečio g. 10, LT-54346",
+    "vatcode": "LT100019190311"
   },
   {
     "name": "Uždaroji akcinė bendrovė Bn house kits",

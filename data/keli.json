@@ -198,7 +198,8 @@
   {
     "name": "VšĮ \"Žemaitijos keliais\"",
     "code": "305278387",
-    "address": "Plungės r. sav., Babrungo sen., Jėrubaičių k., Liepų g. 9, LT-90105"
+    "address": "Plungės r. sav., Babrungo sen., Jėrubaičių k., Liepų g. 9, LT-90105",
+    "vatcode": "LT100019114114"
   },
   {
     "name": "UAB \"Keliakiemis\"",
@@ -653,11 +654,6 @@
     "address": "Vilnius, Santariškių g. 75-34, LT-08457"
   },
   {
-    "name": "MB Hanzos kelias",
-    "code": "306685005",
-    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
-  },
-  {
     "name": "MB Kelias į apskaitą",
     "code": "305566852",
     "address": "Kėdainių r. sav., Gudžiūnai, Gėlių g. 5, LT-58276"
@@ -666,6 +662,11 @@
     "name": "MB Kelias į dvasingumą",
     "code": "306279257",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+  },
+  {
+    "name": "MB Kelias į nirvana",
+    "code": "307509355",
+    "address": "Marijampolės sav., Liudvinavo sen., Liudvinavo k., Dovinės 18-oji g. 6, LT-69172"
   },
   {
     "name": "MB Kelias į tikslą",
@@ -1242,6 +1243,11 @@
     "address": "Telšiai, Dariaus ir Girėno g. 20-1, LT-87343"
   },
   {
+    "name": "VšĮ \"Žvaigždės kelias\"",
+    "code": "307489479",
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
     "name": "VšĮ Budo kelias",
     "code": "307098007",
     "address": "Vilnius, Kalvarijų g. 138-77, LT-08209"
@@ -1698,8 +1704,7 @@
   },
   {
     "name": "Laimės kelio mokykla",
-    "code": "304218234",
-    "address": "Vilnius, Mykolo Marcinkevičiaus g. 17-15, LT-08433"
+    "code": "304218234"
   },
   {
     "name": "MB \"Gero kelio transportas\"",
@@ -1972,11 +1977,6 @@
     "code": "303109456",
     "address": "Vilnius, Blindžių g. 19-14, LT-08111",
     "vatcode": "LT100008045612"
-  },
-  {
-    "name": "MB \"Kelionių kvapai\"",
-    "code": "305903629",
-    "address": "Vilnius, Girulių g. 10, LT-12112"
   },
   {
     "name": "MB \"Kelionių lagaminas\"",
@@ -2256,6 +2256,11 @@
     "name": "MB Kelionė",
     "code": "306931332",
     "address": "Vilnius, K. Semenavičiaus g. 11-1, LT-10251"
+  },
+  {
+    "name": "MB Kelionė į save",
+    "code": "307501091",
+    "address": "Telšiai, Sedos g. 34A, LT-87101"
   },
   {
     "name": "MB Skaičių kelionė",
@@ -2607,7 +2612,7 @@
   {
     "name": "UAB NoriuNoriu kelionės",
     "code": "306126037",
-    "address": "Vilnius, Žygio g. 97A, LT-08236",
+    "address": "Vilnius, J. Jasinskio g. 16, LT-03163",
     "vatcode": "LT100015205614"
   },
   {
@@ -2868,11 +2873,6 @@
     "address": "Telšių r. sav., Tryškių sen., Sukančių k."
   },
   {
-    "name": "Inžinerinių tinklų, gyvenamųjų namų, ūkinių pastatų, kelių bei kitų bendro naudojimo objektų statybos bei eksploatavimo bendrija \"Miglė\"",
-    "code": "186493584",
-    "address": "Vilniaus r. sav., Avižienių sen., Riešės k."
-  },
-  {
     "name": "Jūra iki kelių, MB",
     "code": "307126314",
     "address": "Vilnius, Aludarių g. 2-41, LT-01113",
@@ -2927,7 +2927,8 @@
   {
     "name": "MB Kelių transportas",
     "code": "307472992",
-    "address": "Lazdijų r. sav., Krosna, Alytaus g. 54, LT-67443"
+    "address": "Lazdijų r. sav., Krosna, Alytaus g. 54, LT-67443",
+    "vatcode": "LT100019199910"
   },
   {
     "name": "Panevėžio apskrities kelių ir autotransporto darbuotojų profesinių sąjungų susivienijimas",

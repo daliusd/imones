@@ -24,7 +24,8 @@
   {
     "name": "IĮ Misija Švara",
     "code": "306974515",
-    "address": "Vilnius, Verkių g. 39-451, LT-09109"
+    "address": "Vilnius, Verkių g. 39-451, LT-09109",
+    "vatcode": "LT100019121016"
   },
   {
     "name": "MB \"A-Z Švara\"",
@@ -113,12 +114,6 @@
     "code": "304559787",
     "address": "Vilnius, Gabijos g. 69-3, LT-06103",
     "vatcode": "LT100010998914"
-  },
-  {
-    "name": "MB \"Top švara\"",
-    "code": "304817910",
-    "address": "Telšiai, Žalgirio g. 7, LT-87118",
-    "vatcode": "LT100013522612"
   },
   {
     "name": "MB \"Vaidos švara\"",
@@ -268,6 +263,11 @@
     "name": "MB Tvari švara",
     "code": "305725137",
     "address": "Prienai, Stadiono g. 4-45, LT-59134"
+  },
+  {
+    "name": "MB Švara pro",
+    "code": "307505079",
+    "address": "Zarasų r. sav., Zarasų sen., Šaulių k., Vilties g. 5-7, LT-32102"
   },
   {
     "name": "MB Švara visiems",
@@ -634,7 +634,7 @@
   {
     "name": "UAB \"Švari Energija\"",
     "code": "302311113",
-    "address": "Kaunas, Ateities pl. 2B, LT-52322",
+    "address": "Kaunas, Ateities g. 2B, LT-52322",
     "vatcode": "LT100007137915"
   },
   {
@@ -1055,6 +1055,11 @@
     "address": "Panevėžys, Nendrės g. 18-3, LT-36245"
   },
   {
+    "name": "MB Švaros impulsas",
+    "code": "307506786",
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Karališkių g. 10, LT-92437"
+  },
+  {
     "name": "MB Švaros kompanija",
     "code": "306127712",
     "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Puodžiūnų g. 9, LT-92400",
@@ -1274,6 +1279,10 @@
     "vatcode": "LT100009725517"
   },
   {
+    "name": "UAB \"Švaros magas\"",
+    "code": "302741645"
+  },
+  {
     "name": "UAB \"Švaros meistrai\"",
     "code": "126069620",
     "address": "Vilnius, Verkių g. 37-4, LT-09109",
@@ -1339,7 +1348,7 @@
   {
     "name": "UAB \"Švaros uostas\"",
     "code": "304196396",
-    "address": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Taikos pr. 117-4, LT-94231",
     "vatcode": "LT100010004414"
   },
   {
@@ -1512,6 +1521,11 @@
     "name": "MB Švarus ir laimingas",
     "code": "305901681",
     "address": "Rietavo sav., Rietavo sen., Giliogirio k., Marijono Kavecko g. 22, LT-90300"
+  },
+  {
+    "name": "MB Švarus pasirinkimas",
+    "code": "307505428",
+    "address": "Panevėžio r. sav., Paįstrio sen., Šeškų k., Šeškų g. 9, LT-38419"
   },
   {
     "name": "MB Švarus paviršius",

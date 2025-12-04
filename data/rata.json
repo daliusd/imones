@@ -880,11 +880,6 @@
     "vatcode": "LT100015276411"
   },
   {
-    "name": "MB \"Rasos ratas\"",
-    "code": "304142320",
-    "address": "Vilnius, S. Fino g. 6-3, LT-09305"
-  },
-  {
     "name": "MB \"Ratas kvadratas\"",
     "code": "305257699",
     "address": "Vilnius, Kauno g. 36-106, LT-03202",
@@ -921,6 +916,11 @@
     "name": "MB \"Užburtas ratas\"",
     "code": "306580082",
     "address": "Vilnius, Laisvės pr. 37-23, LT-04339"
+  },
+  {
+    "name": "MB Gamtos ratas",
+    "code": "307505339",
+    "address": "Kelmės r. sav., Užvenčio sen., Labūnavos k., Labūnavos g. 7, LT-86327"
   },
   {
     "name": "MB Inovacijų ratas",
@@ -1294,7 +1294,8 @@
   {
     "name": "MB Ratatuinis",
     "code": "307471488",
-    "address": "Panevėžys, Stoties g. 43-22, LT-35105"
+    "address": "Panevėžys, Stoties g. 43-22, LT-35105",
+    "vatcode": "LT100019134815"
   },
   {
     "name": "UAB \"RATAURA\"",

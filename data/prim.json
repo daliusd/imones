@@ -171,11 +171,6 @@
     "address": "Vilnius, Justiniškių g. 62A-201, LT-05239"
   },
   {
-    "name": "IĮ PrimaDent",
-    "code": "155908064",
-    "address": "Vilnius, Trinapolio g. 9C, LT-08337"
-  },
-  {
     "name": "Mažoji bendrija \"Primadenta\"",
     "code": "303094666",
     "address": "Vilnius, Elniakampio g. 10-6, LT-10100",
@@ -189,7 +184,8 @@
   {
     "name": "UAB Primadona butikas",
     "code": "307449602",
-    "address": "Druskininkų sav., Leipalingio sen., Snaigupės k., Kloniškių g. 15, LT-66382"
+    "address": "Druskininkų sav., Leipalingio sen., Snaigupės k., Kloniškių g. 15, LT-66382",
+    "vatcode": "LT100019271116"
   },
   {
     "name": "Viešoji įstaiga Lėlių operos teatras PRIMADONA",
@@ -209,7 +205,8 @@
   {
     "name": "MB Primarket LT",
     "code": "307474107",
-    "address": "Prienų r. sav., Prienų sen., Liepaloto k., Lelijų g. 7, LT-59103"
+    "address": "Prienų r. sav., Prienų sen., Liepaloto k., Lelijų g. 7, LT-59103",
+    "vatcode": "LT100019214013"
   },
   {
     "name": "MB Specialist-Level Primary Care Solutions",
@@ -265,6 +262,11 @@
     "address": "Vilnius, Estų g. 36C, LT-11330"
   },
   {
+    "name": "MB \"Prime Align\"",
+    "code": "307492653",
+    "address": "Šakių r. sav., Kudirkos Naumiestis, Tilto g. 10-6, LT-71318"
+  },
+  {
     "name": "MB \"Prime Motors\"",
     "code": "306014198",
     "address": "Vilnius, Gelvonų g. 18-19, LT-07148",
@@ -305,9 +307,19 @@
     "vatcode": "LT100016461613"
   },
   {
+    "name": "MB Prime Barbers",
+    "code": "307498535",
+    "address": "Vilnius, Vydūno g. 18-14, LT-06205"
+  },
+  {
     "name": "MB Prime Bild",
     "code": "307404532",
     "address": "Vilnius, Kaukysos g. 18-10, LT-11342"
+  },
+  {
+    "name": "MB Prime Stone Properties",
+    "code": "307503231",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
     "name": "MB Prime care services",
@@ -351,11 +363,6 @@
     "name": "PRIME Athlete Management, UAB",
     "code": "305428641",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "Prime Cdex UAB",
-    "code": "306008359",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "Prime brands UAB",
@@ -442,6 +449,12 @@
     "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Indrajos g. 20, LT-14263"
   },
   {
+    "name": "UAB \"Prime investments\"",
+    "code": "306991201",
+    "address": "Vilnius, Gedimino pr. 37, LT-01110",
+    "vatcode": "LT100017224510"
+  },
+  {
     "name": "UAB \"Prime phones\"",
     "code": "306685119",
     "address": "Kauno m. sav."
@@ -451,6 +464,11 @@
     "code": "304392644",
     "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228",
     "vatcode": "LT100011250214"
+  },
+  {
+    "name": "UAB \"Prime technologies\"",
+    "code": "307497376",
+    "address": "Vilnius, Įsruties g. 25-22, LT-06284"
   },
   {
     "name": "UAB \"Shila prime\"",
@@ -485,6 +503,11 @@
     "vatcode": "LT100017003313"
   },
   {
+    "name": "UAB Prime Mart Lithuania",
+    "code": "307499950",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
     "name": "UAB Prime Rent",
     "code": "305437188",
     "address": "Vilnius, Konstitucijos pr. 7, LT-09308",
@@ -511,7 +534,8 @@
   {
     "name": "UAB Prime hills",
     "code": "307464045",
-    "address": "Vilnius, Linkmenų g. 5-72, LT-09300"
+    "address": "Vilnius, Linkmenų g. 5-72, LT-09300",
+    "vatcode": "LT100019190816"
   },
   {
     "name": "UAB Prime parduotuvė",
@@ -541,12 +565,6 @@
     "vatcode": "LT100013455410"
   },
   {
-    "name": "UAB \"PrimeAthletic\"",
-    "code": "306991201",
-    "address": "Vilnius, Gedimino pr. 37, LT-01110",
-    "vatcode": "LT100017224510"
-  },
-  {
     "name": "UAB PrimeAuto Service",
     "code": "306386907",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
@@ -571,7 +589,7 @@
   {
     "name": "MB PrimeFix Solutions",
     "code": "306657785",
-    "address": "Vilnius, Žygio g. 97-R2, LT-08236",
+    "address": "Vilniaus m. sav.",
     "vatcode": "LT100016996910"
   },
   {

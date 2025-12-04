@@ -21,11 +21,6 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Mažojo Londono g. 44, LT-92359"
   },
   {
-    "name": "DNSB \"Šilutės vila\"",
-    "code": "302274661",
-    "address": "Šilutė, Vilų g. 2-3, LT-99130"
-  },
-  {
     "name": "IĮ \"Tavo vila\"",
     "code": "150048778",
     "address": "Alytus, Topolių g. 4-11, LT-63341"
@@ -34,6 +29,11 @@
     "name": "IĮ Korfo vila",
     "code": "302677609",
     "address": "Vilniaus r. sav., Marijampolio sen., Parudaminio k., Mlodianovskių g. 2, LT-13224"
+  },
+  {
+    "name": "MB \"Baltijos vila\"",
+    "code": "307499509",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Grožio vila\"",
@@ -320,11 +320,6 @@
     "vatcode": "LT100008563219"
   },
   {
-    "name": "UAB \"Vilaja\"",
-    "code": "300595145",
-    "address": "Kaunas, Šiaurės pr. 22-34, LT-49222"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"VILAKRA\"",
     "code": "122902698",
     "address": "Vilnius, Justiniškių g. 103-63, LT-05253",
@@ -390,6 +385,11 @@
     "code": "305084560",
     "address": "Vilnius, Bajorų kel. 9A-13, LT-08466",
     "vatcode": "LT100014460614"
+  },
+  {
+    "name": "UAB \"Vilantus\"",
+    "code": "307503516",
+    "address": "Vilnius, Šv. Stepono g. 33-121, LT-01312"
   },
   {
     "name": "UAB \"Vilanus\"",
@@ -484,7 +484,8 @@
   {
     "name": "MB Vilaspo",
     "code": "307132370",
-    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319",
+    "vatcode": "LT100019233813"
   },
   {
     "name": "Mažoji bendrija VilasPro projektai",

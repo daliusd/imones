@@ -185,11 +185,6 @@
     "address": "Klaipėda, Ryšininkų g. 6-40, LT-91117"
   },
   {
-    "name": "A. Januškos firma \"Hidroteras\"",
-    "code": "168979296",
-    "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Melioratorių g. 1-24, LT-38186"
-  },
-  {
     "name": "A. Jančiukyno firma \"Arjanta\"",
     "code": "159997726",
     "address": "Kauno r. sav., Neveronių sen., Neveronių k., Karmėlavos g. 3, LT-54484",
@@ -198,7 +193,8 @@
   {
     "name": "A. Joniko komercinė firma \"Cerera\"",
     "code": "140206952",
-    "address": "Klaipėda, Kretingos g. 106, LT-92334"
+    "address": "Klaipėda, Kretingos g. 106, LT-92334",
+    "vatcode": "LT402069515"
   },
   {
     "name": "A. Jočio firma \"SARTŪRA\"",
@@ -333,7 +329,7 @@
   {
     "name": "A. Megelinsko firma \"Sąranga\"",
     "code": "159855794",
-    "address": "Kauno r. sav., Garliava, K. Donelaičio g. 56, LT-53257"
+    "address": "Kaunas, Laivelių g. 4, LT-52245"
   },
   {
     "name": "A. Mikalausko firma \"Gelžė\"",
@@ -387,7 +383,8 @@
   {
     "name": "A. Pauliaus komercinė firma",
     "code": "152614762",
-    "address": "Palanga, Žilvičių g. 1, LT-00169"
+    "address": "Palanga, Žilvičių g. 1, LT-00169",
+    "vatcode": "LT100019148210"
   },
   {
     "name": "A. Pavasario firma",
@@ -499,8 +496,7 @@
   },
   {
     "name": "A. Vilimo firma \"Milada\"",
-    "code": "147064612",
-    "address": "Panevėžys, Klaipėdos g. 134-34, LT-37377"
+    "code": "147064612"
   },
   {
     "name": "A. Virbalo komercinė firma",
@@ -629,11 +625,6 @@
     "name": "Alekso Kairio firma",
     "code": "134215288",
     "address": "Kauno r. sav., Taurakiemio sen., Piliuonos k., Gėlių g. 8, LT-53185"
-  },
-  {
-    "name": "Algimanto Gavėnios komercinė firma",
-    "code": "179343545",
-    "address": "Tauragė, D. Poškos g. 20, LT-72300"
   },
   {
     "name": "Algimanto Norviliaus firma",
@@ -1465,11 +1456,6 @@
     "code": "134092095",
     "address": "Kaunas, Studentų g. 12-67, LT-50243",
     "vatcode": "LT340920917"
-  },
-  {
-    "name": "Egidijaus Vilčinsko firma",
-    "code": "134140946",
-    "address": "Kauno r. sav., Ringaudų sen., Kazliškių k., Pakalnės g. 1, LT-53366"
   },
   {
     "name": "Eglės Kavoliūnienės firma",
@@ -2316,6 +2302,11 @@
     "address": "Marijampolė, Sporto g. 46, LT-68110"
   },
   {
+    "name": "IĮ Egidijaus Vilčinsko firma",
+    "code": "134140946",
+    "address": "Elektrėnų sav., Semeliškių sen., Zaulcų k., Paupio g. 21A, LT-21300"
+  },
+  {
     "name": "IĮ Eglės Saukevičienės projektavimo firma",
     "code": "124284325",
     "address": "Vilnius, Viršuliškių g. 61-44, LT-05124"
@@ -2531,6 +2522,12 @@
     "address": "Širvintų r. sav., Jauniūnų sen., Meiliūnų k., Kernavės g. 23, LT-19160"
   },
   {
+    "name": "IĮ R. Antanaičio firma \"Nikstas\"",
+    "code": "174379217",
+    "address": "Šakiai, V. Kudirkos g. 11E, LT-71124",
+    "vatcode": "LT743792113"
+  },
+  {
     "name": "IĮ R. Berkaus firma \"Gėlutis\"",
     "code": "134189466",
     "address": "Kaunas, Jonavos g. 68, LT-44191",
@@ -2685,6 +2682,12 @@
     "vatcode": "LT589276515"
   },
   {
+    "name": "IĮ Vygento Ličio firma \"Evita\"",
+    "code": "120010775",
+    "address": "Vilnius, J. Basanavičiaus g. 35, LT-03109",
+    "vatcode": "LT200107716"
+  },
+  {
     "name": "IĮ Vytauto Minkelio firma \"HELIONAS\"",
     "code": "149706193",
     "address": "Alytus, Merkinės g. 17A, LT-62233",
@@ -2821,8 +2824,7 @@
   {
     "name": "J. Lingio firma",
     "code": "180336117",
-    "address": "Telšių r. sav., Tryškių sen., Ubiškės mstl., Levenčių g. 6, LT-88188",
-    "vatcode": "LT803361113"
+    "address": "Telšių r. sav., Tryškių sen., Ubiškės mstl., Levenčių g. 6, LT-88188"
   },
   {
     "name": "J. MINGAILIENĖS FIRMA \"CEMITAS\"",
@@ -3712,12 +3714,6 @@
     "address": "Kaunas, Prancūzų g. 5, LT-44439"
   },
   {
-    "name": "R. Antanaičio firma \"Nikstas\"",
-    "code": "174379217",
-    "address": "Šakiai, V. Kudirkos g. 11E, LT-71124",
-    "vatcode": "LT743792113"
-  },
-  {
     "name": "R. Auglio firma \"Prie paparčio\"",
     "code": "167550493",
     "address": "Molėtų r. sav., Alanta, Ukmergės g. 8, LT-33312",
@@ -4007,7 +4003,7 @@
   {
     "name": "R. Skieruvienės prekybinė firma",
     "code": "141095330",
-    "address": "Klaipėda, Sandėlių g. 30, LT-95107",
+    "address": "Klaipėda, Sandėlių g. 30-3, LT-95107",
     "vatcode": "LT410953314"
   },
   {
@@ -4354,7 +4350,8 @@
   {
     "name": "S. Paškausko firma \"Amir\"",
     "code": "151118546",
-    "address": "Marijampolės sav., Marijampolės sen., Baraginės k., Juozo Montvilos g. 14, LT-69491"
+    "address": "Marijampolės sav., Marijampolės sen., Baraginės k., Juozo Montvilos g. 14, LT-69491",
+    "vatcode": "LT511185419"
   },
   {
     "name": "S. Rudžionio firma \"Rustava\"",
@@ -5376,12 +5373,6 @@
     "address": "Alytus, Naujoji g. 54, LT-62382"
   },
   {
-    "name": "Vygento Ličio firma \"Evita\"",
-    "code": "120010775",
-    "address": "Vilnius, J. Basanavičiaus g. 35-7, LT-03109",
-    "vatcode": "LT200107716"
-  },
-  {
     "name": "Vytauto Daukšos firma",
     "code": "134954717",
     "address": "Kaunas, Technikumo g. 44, LT-46455"
@@ -5506,8 +5497,7 @@
   {
     "name": "MB \"Firmesa\"",
     "code": "306686979",
-    "address": "Palanga, Kontininkų g. 3B K8, LT-00171",
-    "vatcode": "LT100017224813"
+    "address": "Palanga, Kontininkų g. 3B K8, LT-00171"
   },
   {
     "name": "UAB \"Firmeta\"",
@@ -5568,11 +5558,6 @@
     "address": "Vilnius, Kedrų g. 6-209, LT-03120"
   },
   {
-    "name": "Anglijos firmos \"HUMBER MARINE SERVICES LIMITED\" atstovybė",
-    "code": "210221020",
-    "address": "Kaunas, Kuršėnų g. 32-19, LT-48483"
-  },
-  {
     "name": "Anglijos firmos \"RANK XEROX Limited\" atstovybė",
     "code": "110228156",
     "address": "Vilnius, Gedimino pr. 31-101"
@@ -5613,11 +5598,6 @@
     "address": "Kaunas, Laisvės al. 98-53"
   },
   {
-    "name": "Belgijos firmos \"M & S INTERNATIONAL NV\" atstovybė",
-    "code": "110215080",
-    "address": "Vilnius, Musninkų g. 18-37, LT-07183"
-  },
-  {
     "name": "Bulgarijos Respublikos firmos \"BALKANCAR\" atstovybė",
     "code": "110218386",
     "address": "Vilniaus miesto savivaldybės teritorija"
@@ -5626,11 +5606,6 @@
     "name": "D. Britanijos firmos \"BINGHAM ENTERPRISES LIMITED\" atstovybė",
     "code": "110226148",
     "address": "Vilnius, Taikos g. 55-11, LT-05247"
-  },
-  {
-    "name": "Danijos firmos \"ERIK AAEN SHIPPING A/S (LTD)\" atstovybė",
-    "code": "110220647",
-    "address": "Vilnius, Vilniaus g. 9-34, LT-01102"
   },
   {
     "name": "Danijos firmos \"VELUX INTERNATIONAL A/S\" atstovybė",
@@ -5656,11 +5631,6 @@
     "name": "Firmos \"FARBEX, INC\" filialas",
     "code": "111488694",
     "address": "Kėdainiai, S. Jaugelio Telegos g. 21-40, LT-57253"
-  },
-  {
-    "name": "Firmos \"GLOBAL FOREST PRODUCTS LIMITED\" atstovybė",
-    "code": "110287222",
-    "address": "Vilnius, Fabijoniškių g. 43-65, LT-07119"
   },
   {
     "name": "Firmos \"KARL JUNGEBECKER GMBH & CO\" atstovybė",
@@ -5908,16 +5878,6 @@
     "address": "Vilnius, A. Vienuolio g. 6-25, LT-01104"
   },
   {
-    "name": "Norvegijos firmos \"IPA EAST WEST A.S.\" atstovybė",
-    "code": "110214021",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
-    "name": "Norvegijos firmos \"NOR METALL AS\" atstovybė",
-    "code": "110224325",
-    "address": "Vilnius, Gedimino pr. 37, LT-01109"
-  },
-  {
     "name": "Olandijos firmos \"B.I.T. BLOCQ INTERNATIONAL TRADING B.V.\" atstovybė",
     "code": "110234433",
     "address": "Vilnius, Žirmūnų g. 21-37, LT-09102"
@@ -5926,21 +5886,6 @@
     "name": "Prancūzijos firmos \"BERLIOZ & CO\" atstovybė",
     "code": "110234586",
     "address": "Vilnius, Kalvarijų g. 276-36, LT-08316"
-  },
-  {
-    "name": "Prancūzijos firmos \"BPS AGENCE NEGOCE INTERNATIONAL\" atstovybė",
-    "code": "110211826",
-    "address": "Kaunas, Šiaurės pr. 41-14, LT-49199"
-  },
-  {
-    "name": "Prancūzijos firmos \"LYONNAISE DES EAUX\" atstovybė",
-    "code": "110228494",
-    "address": "Vilnius, Bukčių g. 18B"
-  },
-  {
-    "name": "Prancūzijos firmos \"SHAMPROCK-REINSURERS REPRESENTATIVES\" atstovybė",
-    "code": "110265521",
-    "address": "Kaunas, Skirmanto g. 10, LT-48352"
   },
   {
     "name": "Privačios firmos \"KEJA\" filialas",
@@ -5986,16 +5931,6 @@
     "name": "Suomijos firmos \"HACKMAN CATERTEC OY AB\" atstovybė",
     "code": "110230189",
     "address": "Vilnius, Lukiškių g. 3, LT-01108"
-  },
-  {
-    "name": "Suomijos firmos \"KODAK OY\" atstovybė",
-    "code": "110267725",
-    "address": "Vilnius, Vytenio g. 9, LT-03113"
-  },
-  {
-    "name": "Suomijos firmos \"OY DANFOSS AB\" atstovybė",
-    "code": "110223038",
-    "address": "Vilnius, Pamėnkalnio g. 13, LT-01114"
   },
   {
     "name": "T. Plungės firmos \"Tauras ir partneriai\", IĮ",
@@ -6128,16 +6063,6 @@
     "address": "Vilnius, A. Juozapavičiaus g. 9A, LT-09311"
   },
   {
-    "name": "Vokietijos firmos \"Ludwig Breyer-HANDELS-KONTOR GmbH\" atstovybė",
-    "code": "110205734",
-    "address": "Vilnius, Filaretų g. 73A, LT-01214"
-  },
-  {
-    "name": "Vokietijos firmos \"MABRE HANDELSKONTOR GmbH\" atstovybė",
-    "code": "110206640",
-    "address": "Vilnius, Gedimino pr. 23, LT-01103"
-  },
-  {
     "name": "Vokietijos firmos \"MISTRAL LOGISTIK INTERNATIONALE SPEDITIONSGESELLSCHAFT MBH\" filialas",
     "code": "111455064",
     "address": "Klaipėda, Jūrininkų pr. 38-35"
@@ -6151,26 +6076,6 @@
     "name": "Vokietijos firmos \"OST-WEST\" atstovybė",
     "code": "210209370",
     "address": "Vilnius, Viršuliškių g. 23-42, LT-05106"
-  },
-  {
-    "name": "Vokietijos firmos \"PCW-Packing-Center-Wilnsdorf GmbH\" atstovybė",
-    "code": "110238645",
-    "address": "Vilnius, Miglos g. 33-16, LT-08101"
-  },
-  {
-    "name": "Vokietijos firmos \"POPSPED SPEDITIONS GmbH\" filialas",
-    "code": "110204785",
-    "address": "Klaipėda, Liepojos g. 90, LT-92329"
-  },
-  {
-    "name": "Vokietijos firmos \"REGALE LADEN J. HASSLINGER GmbH\" atstovybė",
-    "code": "110216410",
-    "address": "Kaunas, S. Žukausko g. 11-32, LT-49345"
-  },
-  {
-    "name": "Vokietijos firmos \"REINHOLD HESS GmbH & Co. KG\" atstovybė",
-    "code": "110222655",
-    "address": "Kaunas, Gedimino g. 47, LT-44242"
   },
   {
     "name": "Vokietijos firmos \"SAITAS Handels GmbH\" atstovybė",
@@ -6198,11 +6103,6 @@
     "address": "Klaipėda, Liepojos g. 16-22, LT-92297"
   },
   {
-    "name": "Vokietijos firmos \"UNICONSULT UNIVERSAL TRANSPORT CONSULTING GmbH\" atstovybė",
-    "code": "110257421",
-    "address": "Vilnius, Pamėnkalnio g. 36-4A, LT-01114"
-  },
-  {
     "name": "Vokietijos firmos \"Udo Maehnert-Export-Import-Handel\" atstovybė",
     "code": "110238798",
     "address": "Vilnius, Žėručio g. 21-46, LT-04104"
@@ -6216,11 +6116,6 @@
     "name": "Vokietijos firmos \"VOYOU IMPORT-EXPORT GmbH\" atstovybė",
     "code": "110224478",
     "address": "Vilnius, Metalo g. 4, LT-02190"
-  },
-  {
-    "name": "Vokietijos firmos \"WURSTER & DIETZ GmbH & Co. MASCHINENFABRIK\" atstovybė",
-    "code": "110222840",
-    "address": "Kaunas, Gedimino g. 47, LT-44242"
   },
   {
     "name": "Vokietijos firmos \"fairform GmbH. Objektų ir mugių statyba. Pilnas servisas\" atstovybė",
@@ -6297,11 +6192,6 @@
     "name": "BALTIJOS IŠORINĖS REKLAMOS FIRMŲ ASOCIACIJA",
     "code": "124658680",
     "address": "Vilnius, Klaipėdos g. 1, LT-01118"
-  },
-  {
-    "name": "Danijos firmų \"Deruda International A/S\", \"Palle Christensen Aps.\", \"I.C.C. & C.\" atstovybė",
-    "code": "110211445",
-    "address": "Vilnius"
   },
   {
     "name": "Vokietijos Meklenburgo-Pomeranijos žemės firmų atstovybė",

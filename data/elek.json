@@ -252,6 +252,12 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB Elektra 123",
+    "code": "307502649",
+    "address": "Vilnius, Bitininkų g. 6A-122, LT-08438",
+    "vatcode": "LT100019280411"
+  },
+  {
     "name": "MB Elektra 24",
     "code": "306237393",
     "address": "Panevėžys, Vilniaus g. 55-2, LT-36101",
@@ -753,6 +759,11 @@
     "vatcode": "LT100015856819"
   },
   {
+    "name": "UAB Elektrinių priežiūra",
+    "code": "307504148",
+    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Švedės g. 52, LT-81490"
+  },
+  {
     "name": "Vėjo elektrinių statyba, UAB",
     "code": "306081154",
     "address": "Vilnius, Konstitucijos pr. 15-3, LT-09319"
@@ -829,7 +840,7 @@
   {
     "name": "UAB Gudžių saulės elektrinė",
     "code": "305990573",
-    "address": "Prienų r. sav., Prienų sen., Naravų k., Kalnų g. 16, LT-59108"
+    "address": "Kaunas, Ašigalio g. 5-45, LT-49159"
   },
   {
     "name": "UAB MI saulės elektrinė 1",
@@ -932,11 +943,6 @@
     "name": "Valstybės įmonės Ignalinos atominės elektrinės nepriklausoma profsąjunga",
     "code": "190869462",
     "address": "Ignalinos r. sav., Rimšės sen., Drūkšinių k."
-  },
-  {
-    "name": "Viešoji įstaiga Ignalinos atominės elektrinės regiono plėtros agentūra",
-    "code": "155641921",
-    "address": "Ignalina, Ateities g. 23, LT-30121"
   },
   {
     "name": "MB \"Elektrionas\"",
@@ -1312,7 +1318,8 @@
   {
     "name": "MB \"Elektromarket LT\"",
     "code": "307016259",
-    "address": "Kaunas, Ašmenos 1-oji g. 10A-6, LT-44499"
+    "address": "Kaunas, Ašmenos 1-oji g. 10A-6, LT-44499",
+    "vatcode": "LT100019231413"
   },
   {
     "name": "UAB \"Elektromatas\"",
@@ -1430,11 +1437,6 @@
     "name": "Daugiabučių namų savininkų bendrija \"Elektronas\"",
     "code": "180753744",
     "address": "Telšiai, Lygumų g. 48-11, LT-87126"
-  },
-  {
-    "name": "Garažų savininkų bendrija \"Elektronas\"",
-    "code": "302822823",
-    "address": "Kauno r. sav., Neveronių sen., Neveronių k., Krašto g. 9, LT-54477"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Elektronas\"",
@@ -1925,8 +1927,7 @@
   {
     "name": "MB Elektroninės komercijos agentūra",
     "code": "304961960",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
-    "vatcode": "LT100013279415"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
   },
   {
     "name": "MB Elektroninės prekybos studija",
@@ -2025,6 +2026,11 @@
     "name": "TSRS firmos \"ELEKTROPRESSCENTR\" (\"El-Presscentr\") atstovybė",
     "code": "110208844",
     "address": "Vilnius, S. Konarskio g. 24-99, LT-03127"
+  },
+  {
+    "name": "MB Elektroprime",
+    "code": "307500573",
+    "address": "Kaunas, V. Krėvės pr. 78-32, LT-50394"
   },
   {
     "name": "Elektroprojektai, MB",
@@ -2390,6 +2396,12 @@
     "code": "306219776",
     "address": "Vilnius, Taikos g. 225A-21, LT-05212",
     "vatcode": "LT100015661711"
+  },
+  {
+    "name": "MB Elektros pulsas",
+    "code": "307488498",
+    "address": "Kaunas, Marių g. 1-3, LT-52264",
+    "vatcode": "LT100019238915"
   },
   {
     "name": "MB Elektros sala",
@@ -2776,7 +2788,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Elektros darbai\"",
     "code": "133619018",
-    "address": "Kaunas, Jonavos g. 62A, LT-44192",
+    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Gamybos g. 10, LT-54465",
     "vatcode": "LT336190113"
   },
   {
@@ -2799,7 +2811,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Elektrosauga\"",
     "code": "144620979",
-    "address": "Šiauliai, Ežero g. 8, LT-77141",
+    "address": "Šiauliai, Žalgirio g. 4, LT-77138",
     "vatcode": "LT446209716"
   },
   {
@@ -2823,11 +2835,6 @@
     "code": "222714380",
     "address": "Vilnius, Erfurto g. 32, LT-04100",
     "vatcode": "LT227143811"
-  },
-  {
-    "name": "UAB ELEKTROSIMA",
-    "code": "302521873",
-    "address": "Vilnius, Kalvarijų g. 182-61, LT-08203"
   },
   {
     "name": "UAB \"Elektrosita\"",
@@ -3008,7 +3015,8 @@
   {
     "name": "NordSpace Elektrėnai, UAB",
     "code": "307151723",
-    "address": "Vilnius, Mozūriškių g. 21, LT-06298"
+    "address": "Vilnius, Mozūriškių g. 21, LT-06298",
+    "vatcode": "LT100019197813"
   },
   {
     "name": "UAB \"DG UP Elektrėnai\"",

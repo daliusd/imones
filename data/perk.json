@@ -82,7 +82,8 @@
   {
     "name": "Perku kartu, UAB",
     "code": "307345653",
-    "address": "Kaišiadorių r. sav., Kruonio sen., Kalvių k., Miško g. 21, LT-56283"
+    "address": "Kaišiadorių r. sav., Kruonio sen., Kalvių k., Miško g. 21, LT-56283",
+    "vatcode": "LT100019112118"
   },
   {
     "name": "UAB \"Perku parduodu\"",
@@ -256,7 +257,8 @@
   {
     "name": "MB Perkūnija",
     "code": "307135523",
-    "address": "Kaunas, Siūlų g. 5-2, LT-45196"
+    "address": "Kaunas, Siūlų g. 5-2, LT-45196",
+    "vatcode": "LT100019199113"
   },
   {
     "name": "\"Perkūnijos\" pirties mokykla, VšĮ",
@@ -272,11 +274,6 @@
     "name": "Asociacija \"PERKŪNKALNIS\"",
     "code": "302666826",
     "address": "Alytaus r. sav., Daugų sen., Pocelonių k., Mokyklos g. 27, LT-64146"
-  },
-  {
-    "name": "Daugiabučių namų savininkų bendrija \"Perkūnkiemio namai\"",
-    "code": "304845774",
-    "address": "Vilnius, Perkūnkiemio g. 31-102, LT-12136"
   },
   {
     "name": "UAB \"Perkūnkiemio verslo centras\"",
@@ -364,9 +361,20 @@
     "vatcode": "LT100013778419"
   },
   {
+    "name": "Mažoji bendrija Perkūno sėkla",
+    "code": "307495471",
+    "address": "Vilnius, Algimanto Petro Kavoliuko g. 20, LT-04326",
+    "vatcode": "LT100019247117"
+  },
+  {
     "name": "Paviešečių kaimo Panevėžio raj. Perkūno, Gabijos, Austėjos, Žemynos, Slenkstainio gatvių gyvenamųjų namų statybos bendrija",
     "code": "300575274",
     "address": "Panevėžys, J. Janonio g. 5, LT-35101"
+  },
+  {
+    "name": "Privačių namų kvartalo bendrija \"Perkūno dvaras\"",
+    "code": "307491665",
+    "address": "Klaipėda, Perkūno g. 6, LT-92350"
   },
   {
     "name": "Tautinės muzikos kūrėjų susivienijimas \"Perkūno sakmės\"",
