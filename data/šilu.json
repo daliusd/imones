@@ -50,7 +50,8 @@
   {
     "name": "MB \"Inovatyvi šiluma\"",
     "code": "307066746",
-    "address": "Vilniaus r. sav., Nemėžio sen., Kuprioniškių k., Daumanto g. 11-2, LT-13279"
+    "address": "Vilniaus r. sav., Nemėžio sen., Kuprioniškių k., Daumanto g. 11-2, LT-13279",
+    "vatcode": "LT100019324911"
   },
   {
     "name": "MB \"Jauki šiluma\"",
@@ -201,10 +202,6 @@
     "code": "302490082",
     "address": "Kaunas, Jotvingių g. 15-1, LT-48124",
     "vatcode": "LT100005378611"
-  },
-  {
-    "name": "UAB \"Saulėta šiluma plius\"",
-    "code": "302938571"
   },
   {
     "name": "UAB \"Šiluma Jums\"",
@@ -932,11 +929,6 @@
     "address": "Šilutė, Kęstučio g. 8-1, LT-99180"
   },
   {
-    "name": "Asociacija Šilutės šaulių kuopa",
-    "code": "303220264",
-    "address": "Šilutė, Dariaus ir Girėno g. 18B-114, LT-99131"
-  },
-  {
     "name": "Futbolo klubas \"Šilutės veteranas\"",
     "code": "301675092",
     "address": "Šilutė, Ramučių g. 1I, LT-99151"
@@ -1269,9 +1261,14 @@
     "address": "Šilutė, Atgimimo al. 4-3, LT-99134"
   },
   {
+    "name": "VšĮ Šilutės laidojimo namai",
+    "code": "302783975"
+  },
+  {
     "name": "ŠILUTĖS KREDITO UNIJA",
     "code": "112041116",
-    "address": "Šilutė, Lietuvininkų g. 32, LT-99179"
+    "address": "Šilutė, Lietuvininkų g. 32, LT-99179",
+    "vatcode": "LT120411113"
   },
   {
     "name": "ŠILUTĖS ŠAMAI",
@@ -1327,6 +1324,10 @@
     "name": "Šilutės bokso klubas \"Kovotojas\"",
     "code": "177331081",
     "address": "Šilutė, Rusnės g. 8, LT-99185"
+  },
+  {
+    "name": "Šilutės diabeto klubas \"Margainis\"",
+    "code": "303097395"
   },
   {
     "name": "Šilutės dziudo klubas \"KUMIKATA\"",
@@ -1699,11 +1700,6 @@
     "address": "Šilutė, Lietuvininkų g. 6, LT-99185"
   },
   {
-    "name": "Šilutės rajono seniūnaičių asociacija",
-    "code": "303531404",
-    "address": "Šilutės r. sav., Gardamo sen., Jaunių k. 2, LT-99418"
-  },
-  {
     "name": "Šilutės rajono verslininkų asociacija",
     "code": "306124545",
     "address": "Šilutė, Tilžės g. 24, LT-99168"
@@ -1722,6 +1718,10 @@
     "name": "Šilutės rajono švietimo pagalbos tarnyba",
     "code": "195175748",
     "address": "Šilutė, K. Kalinausko g. 10, LT-99130"
+  },
+  {
+    "name": "Šilutės rajono žemės ūkio bendrovė \"GIRNOS\"",
+    "code": "177103583"
   },
   {
     "name": "Šilutės rajono žemės ūkio bendrovė \"Pagryniai\"",

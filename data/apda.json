@@ -65,7 +65,7 @@
   {
     "name": "MB \"Apdaila ar\"",
     "code": "305718349",
-    "address": "Raseiniai, V. Grybo g. 30-3, LT-60116",
+    "address": "Raseinių r. sav., Pagojukų sen., Trankinių k. 7, LT-60462",
     "vatcode": "LT100014848913"
   },
   {
@@ -227,7 +227,8 @@
   {
     "name": "MB \"Senamiesčio Apdaila\"",
     "code": "306124171",
-    "address": "Kaunas, Partizanų g. 216-77, LT-50319"
+    "address": "Kaunas, Partizanų g. 216-77, LT-50319",
+    "vatcode": "LT100019383412"
   },
   {
     "name": "MB \"T&T APDAILA\"",
@@ -323,8 +324,7 @@
   {
     "name": "MB Apdaila kitaip",
     "code": "305860117",
-    "address": "Vilnius, Ateities Sodų 4-oji g. 40, LT-11104",
-    "vatcode": "LT100015416118"
+    "address": "Vilnius, Ateities Sodų 4-oji g. 40, LT-11104"
   },
   {
     "name": "MB Apdaila lt",
@@ -356,17 +356,13 @@
   {
     "name": "MB Grąžtas ir Teptukas Apdaila",
     "code": "307419979",
-    "address": "Vilniaus r. sav., Riešės sen., Ažulaukės k., Girijos 3-ioji g. 11, LT-15142"
+    "address": "Vilniaus r. sav., Riešės sen., Ažulaukės k., Girijos 3-ioji g. 11, LT-15142",
+    "vatcode": "LT100019361216"
   },
   {
     "name": "MB Gv apdaila",
     "code": "306305905",
     "address": "Pasvalys, Biržų g. 25, LT-39143"
-  },
-  {
-    "name": "MB HAMA apdaila",
-    "code": "307294034",
-    "address": "Kaunas, J. Mateikos g. 17-1, LT-50275"
   },
   {
     "name": "MB INOS APDAILA",
@@ -681,6 +677,10 @@
     "vatcode": "LT356643610"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"KIEMO APDAILA\"",
+    "code": "186255825"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Medžio apdaila\"",
     "code": "123403851",
     "address": "Vilnius, Verkių g. 44, LT-09117",
@@ -691,6 +691,12 @@
     "code": "173108298",
     "address": "Rokiškis, Miškininkų g. 3, LT-42150",
     "vatcode": "LT731082917"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė Lux apdaila",
+    "code": "304140180",
+    "address": "Vilnius, Eitminų g. 21-9, LT-12131",
+    "vatcode": "LT100016940511"
   },
   {
     "name": "MB \"Sprendimai apdailai\"",
@@ -709,9 +715,14 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "IĮ \"Apdailita\"",
+    "code": "300148799"
+  },
+  {
     "name": "MB Apdailita LT",
     "code": "306287866",
-    "address": "Telšių r. sav., Ryškėnų sen., Užgirių k., Klevo Sodų 4-oji g. 11, LT-87418"
+    "address": "Telšių r. sav., Ryškėnų sen., Užgirių k., Klevo Sodų 4-oji g. 11, LT-87418",
+    "vatcode": "LT100019369619"
   },
   {
     "name": "UAB Apdailitas",
@@ -1103,6 +1114,10 @@
     "name": "UAB \"Apdaira\"",
     "code": "304928355",
     "address": "Vilnius, Architektų g. 160-24, LT-04202"
+  },
+  {
+    "name": "V. Lukausko įmonė \"Apdaira\"",
+    "code": "140077710"
   },
   {
     "name": "UAB \"Apdara\"",

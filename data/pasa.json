@@ -309,6 +309,12 @@
     "address": "Vilnius, Kalvarijų g. 10-2, LT-09309"
   },
   {
+    "name": "UAB Kino Pasaka",
+    "code": "300620545",
+    "address": "Vilnius, S. Stanevičiaus g. 96-31, LT-07103",
+    "vatcode": "LT100004680314"
+  },
+  {
     "name": "UAB Saulės pasaka",
     "code": "302841898",
     "address": "Klaipėda, Vienybės g. 11A, LT-92279"
@@ -323,12 +329,6 @@
     "code": "135508479",
     "address": "Kaunas, Savanorių pr. 124, LT-44148",
     "vatcode": "LT355084716"
-  },
-  {
-    "name": "Viešoji įstaiga \"KINO PASAKA\"",
-    "code": "300620545",
-    "address": "Vilnius, Aukštaičių g. 6-104, LT-11341",
-    "vatcode": "LT100004680314"
   },
   {
     "name": "Viešoji įstaiga \"Senelės pasaka\"",
@@ -660,11 +660,6 @@
     "address": "Vilnius, Barboros Radvilaitės g. 1, LT-01124"
   },
   {
-    "name": "Lietuvos Antrojo pasaulinio karo antihitlerinės koalicijos pusėje dalyvių Tauragės rajono organizacija",
-    "code": "191150338",
-    "address": "Tauragė, Respublikos g. 6, LT-72255"
-  },
-  {
     "name": "Lietuvos Antrojo pasaulinio karo antihitlerinės koalicijos pusėje dalyvių rėmimo fondas",
     "code": "192009080",
     "address": "Vilnius, Pamėnkalnio g. 13, LT-01114"
@@ -704,6 +699,10 @@
     "name": "Pasaulinės paukštininkystės mokslo asociacijos Lietuvos skyrius",
     "code": "190748891",
     "address": "Vilnius, Studentų g. 39, LT-08106"
+  },
+  {
+    "name": "Viešoji įstaiga Pasaulinės lietuvių vaikų literatūros asociacijos leidykla \"Lietuviška vaikų knyga\"",
+    "code": "123976979"
   },
   {
     "name": "D. Graužinio įmonė \"Pasaulio tinklas\"",
@@ -1153,6 +1152,10 @@
     "address": "Kaunas, Šateikių g. 3, LT-48190"
   },
   {
+    "name": "\"Teta pasaulis\", UAB",
+    "code": "304909629"
+  },
+  {
     "name": "Alkotesterių Pasaulis UAB",
     "code": "303033656",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
@@ -1229,6 +1232,10 @@
     "name": "IĮ \"VEGE pasaulis\"",
     "code": "302534970",
     "address": "Šalčininkų r. sav., Baltoji Vokė, T. Kosciuškos g. 4-4, LT-17234"
+  },
+  {
+    "name": "J. Novikovos personalinė įmonė \"TIKRAS GĖLIŲ PASAULIS\"",
+    "code": "122392430"
   },
   {
     "name": "J. Ziberkienės firma \"Gyvūnijos pasaulis\"",
@@ -1316,6 +1323,10 @@
     "name": "MB \"Kaljanų Pasaulis\"",
     "code": "305726075",
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
+  },
+  {
+    "name": "MB \"Kieno pasaulis\"",
+    "code": "305084172"
   },
   {
     "name": "MB \"Kitoks pasaulis\"",
@@ -1595,6 +1606,10 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Linkoniškių g. 18, LT-92439"
   },
   {
+    "name": "R. Penkauskienės studija \"Menų pasaulis\"",
+    "code": "134715247"
+  },
+  {
     "name": "Stebuklingas dantų pasaulis, MB",
     "code": "305888725",
     "address": "Kauno r. sav., Karmėlavos sen., Naujasodžio k., Vytauto g. 62, LT-44101"
@@ -1696,8 +1711,7 @@
   },
   {
     "name": "UAB \"Fasado pasaulis\"",
-    "code": "305976303",
-    "address": "Vilnius, Sietyno g. 8E, LT-04304"
+    "code": "305976303"
   },
   {
     "name": "UAB \"Gintaro pasaulis\"",
@@ -2102,6 +2116,10 @@
     "address": "Vilnius, Buivydiškių g. 2-83, LT-07192"
   },
   {
+    "name": "UAB Saulės pasaulis",
+    "code": "302866467"
+  },
+  {
     "name": "UAB Saulėtas pasaulis",
     "code": "305965278",
     "address": "Vilnius, Girulių g. 5, LT-12124",
@@ -2200,6 +2218,10 @@
     "vatcode": "LT417215716"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Stiklo pasaulis\"",
+    "code": "122048760"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Verslo pasaulis\"",
     "code": "134828818",
     "address": "Kaunas, Žemaičių pl. 67, LT-48103",
@@ -2234,14 +2256,13 @@
     "address": "Vilnius, Panerių g. 37, LT-03209"
   },
   {
+    "name": "Viešoji įstaiga \"EDG pasaulis\"",
+    "code": "302303472"
+  },
+  {
     "name": "Viešoji įstaiga \"Mažylio pasaulis\"",
     "code": "302976910",
     "address": "Kauno r. sav., Užliedžių sen., Vijūkų k., Mėtų g. 4, LT-54306"
-  },
-  {
-    "name": "Viešoji įstaiga \"Mažųjų pasaulis\"",
-    "code": "302832664",
-    "address": "Klaipėda, Kretingos g. 177, LT-92330"
   },
   {
     "name": "Viešoji įstaiga Pasaulis senjorams",
@@ -2257,6 +2278,10 @@
     "name": "Visuomeninė organizacija \"Senjorų pasaulis\"",
     "code": "305198980",
     "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Tvenkinių g. 27, LT-14166"
+  },
+  {
+    "name": "VŠĮ \"Teatro pasaulis\"",
+    "code": "302571812"
   },
   {
     "name": "VšĮ \"Bėgimo pasaulis\"",
@@ -2288,6 +2313,10 @@
     "name": "VšĮ \"Meno ir švietimo pasaulis\"",
     "code": "303203286",
     "address": "Visaginas, Statybininkų g. 5-16, LT-31137"
+  },
+  {
+    "name": "VšĮ \"Meno pasaulis\"",
+    "code": "302548767"
   },
   {
     "name": "VšĮ \"Mes vaikai - mes pasaulis\"",
@@ -2358,7 +2387,8 @@
   {
     "name": "MB Pasaulių angelai",
     "code": "307175471",
-    "address": "Radviliškis, Jaunystės g. 22-34, LT-82165"
+    "address": "Radviliškis, Jaunystės g. 22-34, LT-82165",
+    "vatcode": "LT100019405518"
   },
   {
     "name": "MB \"Grindų Pasaulyje\"",
@@ -2459,6 +2489,10 @@
     "code": "300542580",
     "address": "Vilnius, A. Smetonos g. 5, LT-01115",
     "vatcode": "LT100002671415"
+  },
+  {
+    "name": "Viešoji įstaiga \"Meno pasažas\"",
+    "code": "300131045"
   },
   {
     "name": "G. Pasažausko firma \"Nautara\"",

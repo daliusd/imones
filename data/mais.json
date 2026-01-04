@@ -82,6 +82,10 @@
     "address": "Vilnius, Antakalnio g. 24, LT-10305"
   },
   {
+    "name": "IĮ \"LINKSMAS MAISTAS\"",
+    "code": "301128867"
+  },
+  {
     "name": "IĮ Lafa maistas",
     "code": "302914346",
     "address": "Raseiniai, Vilniaus g. 103, LT-60171",
@@ -156,6 +160,10 @@
     "address": "Alytaus r. sav., Miroslavo sen., Bendrių k., Olakalnio g. 18, LT-64234"
   },
   {
+    "name": "MB \"Gatvės maistas\"",
+    "code": "304166620"
+  },
+  {
     "name": "MB \"Geros nuotaikos maistas\"",
     "code": "305723015",
     "address": "Vilniaus r. sav., Bezdonių sen., Aukštuolės k., Vakaro 2-oji g. 10, LT-15250"
@@ -180,6 +188,10 @@
     "name": "MB \"Maistas aktyviems\"",
     "code": "306465315",
     "address": "Vilnius, Bajorų kel. 3-35, LT-08459"
+  },
+  {
+    "name": "MB \"Maistas ant ratų\"",
+    "code": "304159184"
   },
   {
     "name": "MB \"Maistas dabar\"",
@@ -230,6 +242,10 @@
     "code": "306727123",
     "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Akacijų g. 79-1, LT-13268",
     "vatcode": "LT100017333718"
+  },
+  {
+    "name": "MB \"Šefo maistas\"",
+    "code": "304291862"
   },
   {
     "name": "MB \"Žalias maistas\"",
@@ -285,6 +301,10 @@
     "name": "MB Partis maistas",
     "code": "307008344",
     "address": "Kėdainių r. sav., Pelėdnagių sen., Nociūnų k., Pėdžių g. 29, LT-58148"
+  },
+  {
+    "name": "MB Ramunės naminis maistas",
+    "code": "305661421"
   },
   {
     "name": "MB Skanus maistas",
@@ -344,8 +364,7 @@
   {
     "name": "UAB \"Greitas maistas\"",
     "code": "300575790",
-    "address": "Kėdainiai, Radvilų g. 11, LT-57254",
-    "vatcode": "LT100002462615"
+    "address": "Kėdainiai, Radvilų g. 11, LT-57254"
   },
   {
     "name": "UAB \"Inovatyvus maistas\"",
@@ -528,6 +547,11 @@
     "vatcode": "LT100016512813"
   },
   {
+    "name": "UAB NE MAISTAS",
+    "code": "307523472",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "UAB Palangos maistas",
     "code": "306302332",
     "address": "Vilnius, Jonažolių g. 19-52, LT-04140",
@@ -598,8 +622,7 @@
   {
     "name": "MB Maistech",
     "code": "306626971",
-    "address": "Vilnius, Liepyno g. 9-26, LT-08108",
-    "vatcode": "LT100016460817"
+    "address": "Vilnius, Liepyno g. 9-26, LT-08108"
   },
   {
     "name": "IĮ \"Maisteka\"",
@@ -609,7 +632,8 @@
   {
     "name": "MB Maistelis",
     "code": "307038469",
-    "address": "Kaunas, Neries krant. 5-14, LT-48344"
+    "address": "Kaunas, Neries krant. 5-14, LT-48344",
+    "vatcode": "LT100019353814"
   },
   {
     "name": "UAB \"Maistena\"",
@@ -667,8 +691,7 @@
   {
     "name": "\"Maisto sūkurys\", MB",
     "code": "305060698",
-    "address": "Vilnius, Girulių g. 10, LT-12112",
-    "vatcode": "LT100012750211"
+    "address": "Vilnius, Girulių g. 10, LT-12112"
   },
   {
     "name": "Asociacija \"Lietuvos maisto pramonė\"",
@@ -1176,6 +1199,10 @@
     "address": "Vilnius, Žalgirio g. 114, LT-09300"
   },
   {
+    "name": "UAB \"Maisto rinka\"",
+    "code": "302244561"
+  },
+  {
     "name": "UAB \"Maisto saugos biuras\"",
     "code": "142157913",
     "address": "Kaunas, Vytauto pr. 3-4, LT-44354",
@@ -1221,6 +1248,10 @@
     "code": "304535875",
     "address": "Šiauliai, Sevastopolio g. 13-50, LT-78296",
     "vatcode": "LT100011881717"
+  },
+  {
+    "name": "UAB \"Vengriško maisto ir gėrimų ambasados\" darbuotojų profesinė sąjunga \"Csarda\"",
+    "code": "301171085"
   },
   {
     "name": "UAB Greitojo maisto tarnyba",
@@ -1292,6 +1323,10 @@
     "address": "Šalčininkų r. sav., Dieveniškės, Vilniaus g. 46, LT-17139"
   },
   {
+    "name": "V. Chitrajos maisto produktų gamybos įmonė",
+    "code": "140073847"
+  },
+  {
     "name": "Valstybinė maisto ir veterinarijos tarnyba",
     "code": "188601279",
     "address": "Vilnius, Siesikų g. 19, LT-07170",
@@ -1323,6 +1358,10 @@
     "address": "Vilnius, Kauno g. 1A, LT-01314"
   },
   {
+    "name": "Viešoji įstaiga Maisto ir žemės ūkio produktų sertifikavimo centras",
+    "code": "300568333"
+  },
+  {
     "name": "UAB \"MaistoLAB23\"",
     "code": "306368777",
     "address": "Palanga, Kontininkų g. 3B K8, LT-00171",
@@ -1350,6 +1389,11 @@
     "name": "MB Dėmesys maistui",
     "code": "306347231",
     "address": "Plungės r. sav., Platelių sen., Laumalenkų k., Plungės g. 1, LT-90419"
+  },
+  {
+    "name": "Mokslas maistui, MB",
+    "code": "307515333",
+    "address": "Kėdainių r. sav., Vilainių sen., Lančiūnavos k., Liepų al. 31, LT-58437"
   },
   {
     "name": "UAB \"Aistra maistui\"",

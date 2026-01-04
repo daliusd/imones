@@ -56,6 +56,10 @@
     "address": "Klaipėda, Sportininkų g. 17-45, LT-92263"
   },
   {
+    "name": "Asociacija \"Tremties vaikai\"",
+    "code": "301245653"
+  },
+  {
     "name": "Asociacija \"Vilniaus lietaus vaikai\"",
     "code": "305366887",
     "address": "Vilnius, T. Narbuto g. 5-1, LT-08106"
@@ -99,6 +103,10 @@
     "name": "Labdaros ir paramos fondas \"Ateities vaikai\"",
     "code": "304198543",
     "address": "Akmenės r. sav., Venta, S. Daukanto g. 7, LT-85322"
+  },
+  {
+    "name": "Labdaros ir paramos fondas \"Aukščiausiojo vaikai\"",
+    "code": "304795378"
   },
   {
     "name": "Labdaros ir paramos fondas \"Dainorėlių vaikai\"",
@@ -194,6 +202,11 @@
     "address": "Biržai, J. Basanavičiaus g. 11, LT-41168"
   },
   {
+    "name": "MB \"Mylimukų darželio vaikai\"",
+    "code": "307526080",
+    "address": "Vilnius, Žirmūnų g. 70C-77, LT-09134"
+  },
+  {
     "name": "MB \"Pievų vaikai\"",
     "code": "303440851",
     "address": "Klaipėdos r. sav., Sendvario sen., Klipščių k., Trakėnų g. 9, LT-92339"
@@ -253,6 +266,10 @@
     "name": "UAB \"Herojaus vaikai\"",
     "code": "306638660",
     "address": "Kaunas, Gedimino g. 10, LT-44318"
+  },
+  {
+    "name": "UAB \"Mauglis ir vaikai\"",
+    "code": "302304510"
   },
   {
     "name": "UAB Vaikai pasauliui",
@@ -496,6 +513,10 @@
     "name": "Labdaros ir paramos fondas \"Pagalbos alkstantiems vaikams misija\"",
     "code": "301498891",
     "address": "Kaunas, Antanavos g. 20-40, LT-46279"
+  },
+  {
+    "name": "Labdaros ir paramos fondas \"Sportas vaikams\"",
+    "code": "301730457"
   },
   {
     "name": "Labdaros ir paramos fondas \"Visagino vaikams\"",
@@ -929,6 +950,10 @@
     "address": "Vilnius, Labdarių g. 8, LT-01120"
   },
   {
+    "name": "Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos darbuotojų profesinė sąjunga",
+    "code": "303500960"
+  },
+  {
     "name": "Viešoji įstaiga \"Vaiko labui\"",
     "code": "125966250",
     "address": "Vilnius, M. Katkaus g. 44, LT-09217"
@@ -1052,6 +1077,10 @@
     "name": "Šeimos ir vaiko gerovės centro profesinė sąjunga \"Solidarumas\"",
     "code": "303957521",
     "address": "Klaipėda, Debreceno g. 48, LT-94149"
+  },
+  {
+    "name": "MB \"Vaikobilis\"",
+    "code": "304431549"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"VAIKOMA\"",
@@ -1372,7 +1401,8 @@
   {
     "name": "MB \"Vaikystės orbita\"",
     "code": "306673711",
-    "address": "Trakai, Gedimino g. 26A, LT-21118"
+    "address": "Trakai, Gedimino g. 26A, LT-21118",
+    "vatcode": "LT100019363610"
   },
   {
     "name": "MB \"Vaikystės pasaka\"",
@@ -1629,6 +1659,10 @@
     "name": "Biudžetinė įstaiga Vilniaus Žolyno vaikų socialinės globos namai",
     "code": "190987980",
     "address": "Vilnius, Džiaugsmo g. 45, LT-11302"
+  },
+  {
+    "name": "D. Šrubos VAIKŲ MADOS CENTRAS",
+    "code": "125578041"
   },
   {
     "name": "Didžiasalio vaikų globos ir socialinės paramos šeimai centras",
@@ -2400,6 +2434,10 @@
     "vatcode": "LT100013941917"
   },
   {
+    "name": "UAB \"Vaikų terapijos klinika\"",
+    "code": "305634552"
+  },
+  {
     "name": "UAB Vaikų ir jaunimo klinika \"Empatija\"",
     "code": "305582949",
     "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Debesų g. 1, LT-14180"
@@ -2516,6 +2554,10 @@
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Neries g. 16, LT-54370"
   },
   {
+    "name": "VAIKŲ IR JAUNIMO MENINĖS SAVIRAIŠKOS CENTRAS",
+    "code": "125098537"
+  },
+  {
     "name": "VIEŠOJI ĮSTAIGA VILNIAUS VAIKŲ IR JAUNIMO DAILĖS MOKYKLA",
     "code": "125813151",
     "address": "Vilnius, Tilto g. 7-13, LT-01101"
@@ -2549,11 +2591,6 @@
     "name": "Vaikų dienos centras \"Kulverstukas\"",
     "code": "302325604",
     "address": "Panevėžys, Kniaudiškių g. 22-9, LT-37119"
-  },
-  {
-    "name": "Vaikų dienos centras \"Svajonių laivas\"",
-    "code": "124709356",
-    "address": "Vilnius, Gedvydžių g. 31-65, LT-06310"
   },
   {
     "name": "Vaikų dienos centras \"Šaltinis\"",
@@ -2621,6 +2658,10 @@
     "address": "Vilnius, Jogailos g. 4, LT-01116"
   },
   {
+    "name": "Vaikų ir jaunimo sporto klubas \"Klevas\"",
+    "code": "193040890"
+  },
+  {
     "name": "Vaikų ir jaunimo tinklinio sporto klubas \"Smiltė\"",
     "code": "303686917",
     "address": "Klaipėda, Taikos pr. 120C-42, LT-94285"
@@ -2629,6 +2670,10 @@
     "name": "Vaikų ir paauglių socialinis centras",
     "code": "300594171",
     "address": "Vilniaus r. sav., Nemenčinė, Švenčionių g. 18A, LT-15168"
+  },
+  {
+    "name": "Vaikų ir suaugusiųjų centras",
+    "code": "305195475"
   },
   {
     "name": "Vaikų istorijos, MB",
@@ -2706,6 +2751,10 @@
     "address": "Vilnius, A. Vivulskio g. 12D-18, LT-03221"
   },
   {
+    "name": "Vaikų socialinės reabilitacijos centras",
+    "code": "160330975"
+  },
+  {
     "name": "Vaikų sporto klubas \"Gytariai\"",
     "code": "145323094",
     "address": "Šiauliai, Kviečių g. 7, LT-78399"
@@ -2714,6 +2763,10 @@
     "name": "Vaikų stalo teniso sporto klubas \"Kretingos erelis\"",
     "code": "302470560",
     "address": "Kretinga, Klaipėdos g. 39B, LT-97154"
+  },
+  {
+    "name": "Vaikų teatras \"KRASNAJA KURICA\"",
+    "code": "191854890"
   },
   {
     "name": "Vaikų teatro mokyklėlė",
@@ -2829,6 +2882,10 @@
     "vatcode": "LT904681811"
   },
   {
+    "name": "Viešoji įstaiga Kauno vaikų krepšinio mokykla",
+    "code": "135986657"
+  },
+  {
     "name": "Viešoji įstaiga Krikščioniškas vaikų darželis",
     "code": "302848907",
     "address": "Vilnius, Vydūno g. 20-43, LT-06205"
@@ -2873,6 +2930,10 @@
     "name": "Viešoji įstaiga Panevėžio vaikų dienos užimtumo centras",
     "code": "148537598",
     "address": "Panevėžys, M. Tiškevičiaus g. 15, LT-35143"
+  },
+  {
+    "name": "Viešoji įstaiga Pasaulinės lietuvių vaikų literatūros asociacijos leidykla \"Lietuviška vaikų knyga\"",
+    "code": "123976979"
   },
   {
     "name": "Viešoji įstaiga Sostinės vaikų ir jaunimo centras",
@@ -3406,6 +3467,10 @@
     "address": "Vilnius, Rūko g. 19A, LT-04126"
   },
   {
+    "name": "VšĮ Šiaulių vaikų darželis \"Angelų lopšys\"",
+    "code": "306080974"
+  },
+  {
     "name": "Įkvėpimo oazė, UAB filialas \"Gabių vaikų akademija\"",
     "code": "302660104",
     "address": "Vilnius, Žygio g. 97A-101"
@@ -3434,5 +3499,9 @@
     "name": "Švenčionių gatvės vaikų futbolo klubas \"Kūna\"",
     "code": "178992228",
     "address": "Švenčionys, Švenčionėlių g. 30-306, LT-18112"
+  },
+  {
+    "name": "ŽEMAIČIŲ KULTŪROS, AKADEMINIO JAUNIMO IR VAIKŲ PARAMOS FONDAS",
+    "code": "192034678"
   }
 ]

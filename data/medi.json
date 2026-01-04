@@ -121,11 +121,6 @@
     "address": "Vilnius, Švitrigailos g. 7-413, LT-03110"
   },
   {
-    "name": "Beta Media, UAB",
-    "code": "302527342",
-    "address": "Vilnius, Savanorių pr. 178A, LT-03154"
-  },
-  {
     "name": "Black Book Media UAB",
     "code": "306697121",
     "address": "Kaunas, I. Kanto g. 18-R16, LT-44296"
@@ -233,6 +228,10 @@
     "address": "Panevėžys, Nemuno g. 72-24, LT-35190"
   },
   {
+    "name": "IĮ \"NEW MEDIA CHANNEL\"",
+    "code": "300579194"
+  },
+  {
     "name": "IĮ Apex Media",
     "code": "306144957",
     "address": "Vilnius, Kareivių g. 11-413, LT-09133"
@@ -256,7 +255,8 @@
   {
     "name": "Lacus media MB",
     "code": "307452541",
-    "address": "Vilniaus r. sav., Mickūnų sen., Ližiškių k., Švendrų g. 46-1, LT-13100"
+    "address": "Vilniaus r. sav., Mickūnų sen., Ližiškių k., Švendrų g. 46-1, LT-13100",
+    "vatcode": "LT100019355619"
   },
   {
     "name": "Laurio media, MB",
@@ -606,7 +606,8 @@
   {
     "name": "MB Caries media",
     "code": "306560090",
-    "address": "Vilnius, A. Rotundo g. 2-5, LT-01400"
+    "address": "Vilnius, A. Rotundo g. 2-5, LT-01400",
+    "vatcode": "LT100019406917"
   },
   {
     "name": "MB Consell media group",
@@ -815,7 +816,8 @@
   {
     "name": "MB Spyglio media",
     "code": "307160494",
-    "address": "Druskininkai, Veisiejų g. 11-17, LT-66211"
+    "address": "Druskininkai, Veisiejų g. 11-17, LT-66211",
+    "vatcode": "LT100019308112"
   },
   {
     "name": "MB Suited media",
@@ -1021,6 +1023,14 @@
     "code": "304759364",
     "address": "Vilnius, Laisvės pr. 60-1107, LT-05120",
     "vatcode": "LT100011435819"
+  },
+  {
+    "name": "UAB \"Ambient media\"",
+    "code": "300040695"
+  },
+  {
+    "name": "UAB \"B&L MEDIA HOLDING\"",
+    "code": "300051332"
   },
   {
     "name": "UAB \"BALTIC MEDIA GROUP\"",
@@ -1229,7 +1239,7 @@
   {
     "name": "UAB \"Media klubas\"",
     "code": "302485605",
-    "address": "Vilnius, Šeimyniškių g. 21B, LT-09236",
+    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Miglės g. 12, LT-14263",
     "vatcode": "LT100005517316"
   },
   {
@@ -1433,6 +1443,10 @@
     "name": "UAB GM MEDIA INVEST",
     "code": "304604392",
     "address": "Vilnius, Pylimo g. 11-4, LT-01118"
+  },
+  {
+    "name": "UAB Glaveckaitė Media",
+    "code": "302645579"
   },
   {
     "name": "UAB Green Light Media Ltd",
@@ -1701,11 +1715,6 @@
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Neries g. 26B-3, LT-54365"
   },
   {
-    "name": "VšĮ \"Salva Media\"",
-    "code": "302475618",
-    "address": "Vilnius, Pramonės g. 97-401, LT-11115"
-  },
-  {
     "name": "VšĮ \"Sostinės media\"",
     "code": "303167064",
     "address": "Vilnius, Gedimino pr. 50, LT-01110",
@@ -1881,6 +1890,10 @@
     "vatcode": "LT100009559115"
   },
   {
+    "name": "Mediafon Telco Solutions, UAB",
+    "code": "304420570"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"MEDIAFON\"",
     "code": "124424581",
     "address": "Vilnius, Olimpiečių g. 1-31, LT-09235",
@@ -1931,15 +1944,9 @@
     "vatcode": "LT100018623614"
   },
   {
-    "name": "Viešoji įstaiga \"Medialita\"",
-    "code": "124540372",
-    "address": "Vilnius, Tauro g. 18-4, LT-03106"
-  },
-  {
     "name": "UAB \"MEDIALOGAS\"",
     "code": "301674663",
-    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Sodų g. 6, LT-54303",
-    "vatcode": "LT100005112616"
+    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Sodų g. 6, LT-54303"
   },
   {
     "name": "UAB \"Vendo Mediam\"",
@@ -2006,7 +2013,6 @@
   {
     "name": "UAB \"MEDIAPARK\"",
     "code": "302536163",
-    "address": "Vilnius, Gedimino pr. 27, LT-01104",
     "vatcode": "LT100005567619"
   },
   {
@@ -3057,6 +3063,10 @@
     "address": "Vilniaus r. sav., Marijampolio sen., Terešiškių k., Aitvarų 1-oji g. 27, LT-13226"
   },
   {
+    "name": "P. Stonkaus medicininių paslaugų įmonė \"Monada\"",
+    "code": "169702722"
+  },
+  {
     "name": "R. Masiliūnienės medicininių paslaugų įmonė \"Altermeda\"",
     "code": "159623746",
     "address": "Kaunas, V. Putvinskio g. 12-2, LT-44212"
@@ -3196,6 +3206,10 @@
     "address": "Kauno r. sav., Samylų sen., Laumėnų k., Beržų g. 16, LT-53135"
   },
   {
+    "name": "Gintaro Vaitkevičiaus medicinos paslaugų įmonė",
+    "code": "155322934"
+  },
+  {
     "name": "Greitosios medicinos pagalbos tarnyba",
     "code": "235042580",
     "address": "Kaunas, Pramonės pr. 33, LT-51271"
@@ -3245,6 +3259,10 @@
     "name": "Integralios medicinos centras, UAB",
     "code": "300855707",
     "address": "Jonavos r. sav., Ruklos sen., Ruklos k., Paupio g. 40-2, LT-55283"
+  },
+  {
+    "name": "IĮ \"Darbo medicinos konsultacinis centras\"",
+    "code": "220252060"
   },
   {
     "name": "IĮ Almanto Viruišio sporto medicinos ir reabilitacijos klinika",
@@ -3403,6 +3421,10 @@
     "address": "Kaunas, Raudondvario pl. 150, LT-47174"
   },
   {
+    "name": "MB \"Godos Aštrauskaitės medicinos praktika\"",
+    "code": "305485471"
+  },
+  {
     "name": "MB \"Kėdainių medicinos kabinetas\"",
     "code": "161589863",
     "address": "Kėdainiai, J. Basanavičiaus g. 77-27, LT-57279"
@@ -3427,6 +3449,10 @@
     "name": "MB \"Medicinos rūbai\"",
     "code": "305903091",
     "address": "Vilniaus r. sav., Mickūnai, Vilniaus g. 37-4, LT-13116"
+  },
+  {
+    "name": "MB \"Medicinos studija\"",
+    "code": "304294545"
   },
   {
     "name": "MB \"Sorella medicinos namai\"",
@@ -3721,11 +3747,6 @@
     "vatcode": "LT100001220218"
   },
   {
-    "name": "UAB \"Medicinos namai šeimai\"",
-    "code": "303352497",
-    "address": "Tauragė, J. Tumo-Vaižganto g. 118-2, LT-72265"
-  },
-  {
     "name": "UAB \"Medicinos namai\"",
     "code": "124363274",
     "address": "Tauragė, J. Tumo-Vaižganto g. 118-2, LT-72265",
@@ -3842,6 +3863,10 @@
     "vatcode": "LT100006211115"
   },
   {
+    "name": "UAB \"Vilniaus medicinos namai\"",
+    "code": "304114673"
+  },
+  {
     "name": "UAB \"Žemaitijos medicinos centras\"",
     "code": "300648459",
     "address": "Plungė, J. Tumo-Vaižganto g. 112, LT-90142",
@@ -3919,10 +3944,6 @@
     "name": "UAB MEDICINOS CENTRAS \"LORAVITA\"",
     "code": "302295748",
     "address": "Klaipėda, Ligoninės g. 13-8, LT-92131"
-  },
-  {
-    "name": "UAB MEDICINOS TYRIMŲ IR KONSULTACIJŲ CENTRAS",
-    "code": "125856366"
   },
   {
     "name": "UAB Manualinės medicinos klinika",
@@ -4069,12 +4090,6 @@
     "address": "Vilnius, Saltoniškių g. 29, LT-08106"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"SK IMPEKS MEDICINOS DIAGNOSTIKOS CENTRAS\"",
-    "code": "111508848",
-    "address": "Vilnius, V. Grybo g. 32, LT-10318",
-    "vatcode": "LT115088412"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS MEDICINOS SERVISAS\"",
     "code": "123070311",
     "address": "Vilnius, Mindaugo g. 16-53, LT-03225",
@@ -4129,6 +4144,10 @@
     "vatcode": "LT100010905611"
   },
   {
+    "name": "Viešoji įstaiga \"LAIVITĖS\" MEDICINOS CENTRAS",
+    "code": "142053359"
+  },
+  {
     "name": "Viešoji įstaiga \"Medicinos mintis\"",
     "code": "126414778",
     "address": "Vilnius, V. Grybo g. 32, LT-10318"
@@ -4162,36 +4181,6 @@
     "name": "Viešoji įstaiga Plungės rajono greitosios medicinos pagalbos Lietuvos sveikatos apsaugos darbuotojų profesinė sąjunga",
     "code": "300552806",
     "address": "Plungė, A. Jucio g. 55-46, LT-90149"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Batėgalos medicinos punktas",
-    "code": "190322849",
-    "address": "Jonavos r. sav., Kulvos sen., Batėgalos k., Rodžių g. 12, LT-55343"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Išorų medicinos punktas",
-    "code": "190325763",
-    "address": "Jonavos r. sav., Užusalių sen., Išorų k., Saulėtekio g. 2, LT-55328"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Kulvos medicinos punktas",
-    "code": "191390867",
-    "address": "Jonavos r. sav., Kulvos sen., Kulvos k., Tarybų g. 6-5, LT-55350"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Užusalių medicinos punktas",
-    "code": "190325578",
-    "address": "Jonavos r. sav., Užusalių sen., Užusalių k., Taikos g. 27, LT-55333"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Čičinų medicinos punktas",
-    "code": "190322991",
-    "address": "Jonavos r. sav., Kulvos sen., Čičinų k., Sodo g. 4, LT-55243"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Šilų medicinos punktas",
-    "code": "190323221",
-    "address": "Jonavos r. sav., Šilų sen., Šilų k., Lokio g. 5, LT-55463"
   },
   {
     "name": "Viešosios įstaigos Krikščionių medicinos centro Vilniaus filialas",
@@ -4611,8 +4600,7 @@
   {
     "name": "MB \"ŠIAURĖS MEDIENA\"",
     "code": "307003938",
-    "address": "Rokiškis, Pramonės g. 5, LT-42150",
-    "vatcode": "LT100017309816"
+    "address": "Rokiškis, Pramonės g. 5, LT-42150"
   },
   {
     "name": "MB Mediena pro",
@@ -4695,6 +4683,14 @@
     "name": "UAB \"Dainavos mediena\"",
     "code": "303063432",
     "address": "Alytus, Seirijų g. 3, LT-62116"
+  },
+  {
+    "name": "UAB \"Daliktos mediena\"",
+    "code": "136061344"
+  },
+  {
+    "name": "UAB \"Dotnuvos mediena\"",
+    "code": "303984881"
   },
   {
     "name": "UAB \"Dovydo mediena\"",
@@ -5014,6 +5010,10 @@
     "address": "Rokiškio r. sav., Obelių sen., Aleksandravėlės k., Zarasų g. 3, LT-42242"
   },
   {
+    "name": "UAB \"Dzūkijos medienos gaminiai\"",
+    "code": "304423132"
+  },
+  {
     "name": "UAB \"Dzūkijos medienos grupė\"",
     "code": "306436452",
     "address": "Alytus, Naujoji g. 29, LT-62175"
@@ -5203,10 +5203,6 @@
     "code": "155310818",
     "address": "Biržų r. sav., Parovėjos sen., Medeikių k., Biržų g. 62, LT-41461",
     "vatcode": "LT553108113"
-  },
-  {
-    "name": "UAB \"Medihub group\"",
-    "code": "306071039"
   },
   {
     "name": "Asociacija \"GPB medija\"",
@@ -5618,6 +5614,10 @@
     "address": "Kaunas, Islandijos pl. 95-57, LT-49176"
   },
   {
+    "name": "VšĮ \"Medijų edukacija\"",
+    "code": "303589902"
+  },
+  {
     "name": "VšĮ \"Medijų inovacijos\"",
     "code": "306672883",
     "address": "Kaunas, Savanorių pr. 235-28, LT-50184"
@@ -5658,6 +5658,10 @@
     "code": "303575653",
     "address": "Vilnius, Verkių g. 29A, LT-09108",
     "vatcode": "LT100009398315"
+  },
+  {
+    "name": "UAB \"Proto medika\"",
+    "code": "303424053"
   },
   {
     "name": "UAB Medikadenta",
@@ -5774,6 +5778,10 @@
     "address": "Vilnius, M. Mironaitės g. 14-44, LT-04229"
   },
   {
+    "name": "IĮ \"Mediksa\"",
+    "code": "300569111"
+  },
+  {
     "name": "MB Medikson",
     "code": "306704637",
     "address": "Vilnius, Krivių g. 5-89, LT-01204"
@@ -5848,6 +5856,10 @@
     "name": "Ukmergės medikų asociacija \"Sveikatos akademija\"",
     "code": "304206367",
     "address": "Ukmergė, Plytinės g. 9, LT-20196"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"MEDIKŲ ŽINIŲ LEIDYKLA\"",
+    "code": "124572758"
   },
   {
     "name": "Viešoji įstaiga \"Medikų konsultacijos\"",
@@ -5944,6 +5956,10 @@
     "vatcode": "LT100008397019"
   },
   {
+    "name": "R. Medimienės parduotuvė-baras",
+    "code": "162517023"
+  },
+  {
     "name": "UAB \"MEDIMPEKS\"",
     "code": "302944510",
     "address": "Kaunas, Viduklės g. 5-7, LT-48275"
@@ -5974,7 +5990,7 @@
   {
     "name": "IĮ Medinera LT",
     "code": "302627741",
-    "address": "Vilnius, Pramonės g. 97-401, LT-11115"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "MB Medinfra",
@@ -6101,6 +6117,10 @@
     "code": "300821587",
     "address": "Kaunas, Technikos g. 18P-2, LT-51211",
     "vatcode": "LT100003371217"
+  },
+  {
+    "name": "V. Medinienės įmonė",
+    "code": "280877230"
   },
   {
     "name": "ŽŪB \"Medinila\"",
@@ -6408,6 +6428,10 @@
     "address": "Vilnius, Šaltinių g. 1-21, LT-03218"
   },
   {
+    "name": "Dariaus Gudelevičiaus įmonė \"Medinė gegnė\"",
+    "code": "165760436"
+  },
+  {
     "name": "MB \"Medinė laimė\"",
     "code": "304516818",
     "address": "Panevėžys, Respublikos g. 28-10, LT-35174",
@@ -6586,6 +6610,10 @@
     "name": "Mediqcenter MB",
     "code": "306136978",
     "address": "Vilnius, Girulių g. 10, LT-12112"
+  },
+  {
+    "name": "R. Širvinsko privati įmonė \"MEDIRAS\"",
+    "code": "120479160"
   },
   {
     "name": "MB Medirent",
@@ -6815,6 +6843,10 @@
     "name": "MB Brolių medis",
     "code": "307503128",
     "address": "Kauno r. sav., Zapyškio sen., Dievogalos k., Apynėlio g. 41, LT-53423"
+  },
+  {
+    "name": "MB Dvejetainis medis",
+    "code": "305483972"
   },
   {
     "name": "MB Gralio medis",
@@ -7162,6 +7194,10 @@
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
+    "name": "UAB \"Plungės medis\"",
+    "code": "169848823"
+  },
+  {
     "name": "UAB \"RG Medis\"",
     "code": "162543865",
     "address": "Vilnius, Buivydiškių g. 12A-201, LT-07194",
@@ -7471,7 +7507,7 @@
   {
     "name": "VšĮ Idėjų medis",
     "code": "302619157",
-    "address": "Molėtų r. sav., Alantos sen., Tomiluvkos k. 3, LT-33310"
+    "address": "Molėtų r. sav., Luokesos sen., Golbos k. 6, LT-33166"
   },
   {
     "name": "Žvėryno medis",
@@ -7600,7 +7636,8 @@
   {
     "name": "UAB Si Meditalk Export",
     "code": "306721661",
-    "address": "Vilnius, Gurių Sodų 33-ioji g. 18, LT-11316"
+    "address": "Vilnius, Gurių Sodų 33-ioji g. 18, LT-11316",
+    "vatcode": "LT100019323913"
   },
   {
     "name": "VšĮ Meditatyvi mada",
@@ -7693,5 +7730,9 @@
     "name": "A. Medišauskienės individuali įmonė",
     "code": "300132001",
     "address": "Kaunas, Kalvarijos g. 9, LT-46349"
+  },
+  {
+    "name": "K. Medišausko įmonė",
+    "code": "147666661"
   }
 ]

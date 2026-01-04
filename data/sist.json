@@ -116,7 +116,8 @@
   {
     "name": "MB Šildymo sistema",
     "code": "307059901",
-    "address": "Šilutės r. sav., Žemaičių Naumiestis, Žemaitės g. 6, LT-99205"
+    "address": "Šilutės r. sav., Žemaičių Naumiestis, Žemaitės g. 6, LT-99205",
+    "vatcode": "LT100019354419"
   },
   {
     "name": "Roberto Šertvyčio automatizuotų informacinių sistemų komanditinė ūkinė bendrija \"AIVA SISTEMA\"",
@@ -167,6 +168,10 @@
     "code": "304171927",
     "address": "Vilnius, Smėlio g. 27-18, LT-10323",
     "vatcode": "LT100013134913"
+  },
+  {
+    "name": "UAB \"JPR sistema\"",
+    "code": "300022170"
   },
   {
     "name": "UAB \"Karbonteko sistema\"",
@@ -222,6 +227,10 @@
     "name": "Uždaroji akcinė bendrovė \"DVEJYBINĖ SISTEMA\"",
     "code": "123943349",
     "address": "Vilnius, Taikos g. 253-36, LT-05214"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"NAUJOJI SISTEMA\"",
+    "code": "120024757"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Parex brokerių sistema\"",
@@ -346,6 +355,10 @@
     "address": "Vilnius, Perkūnkiemio g. 55-77, LT-12144"
   },
   {
+    "name": "\"Lygiavimo elektroninio monitoringo sistemos\", UAB",
+    "code": "301291533"
+  },
+  {
     "name": "\"Mokėjimo sistemos\", UAB",
     "code": "303303169",
     "address": "Vilnius, T. Ševčenkos g. 19, LT-03111"
@@ -363,8 +376,7 @@
   {
     "name": "\"Strauja\"-saugios sistemos, UAB",
     "code": "302579976",
-    "address": "Kaunas, Karo Ligoninės g. 10-6, LT-44345",
-    "vatcode": "LT100005855019"
+    "address": "Kaunas, Karo Ligoninės g. 10-6, LT-44345"
   },
   {
     "name": "\"Ventiliavimo sistemos\", UAB",
@@ -778,6 +790,10 @@
     "vatcode": "LT100017682513"
   },
   {
+    "name": "MB \"Statybų sistemos\"",
+    "code": "304148572"
+  },
+  {
     "name": "MB \"Svajonių pilių sistemos\"",
     "code": "305638248",
     "address": "Vilnius, Uosių Sodų 14-oji g. 6, LT-11129"
@@ -798,12 +814,6 @@
     "code": "305633436",
     "address": "Kaunas, Girios g. 40 K3, LT-47338",
     "vatcode": "LT100017811910"
-  },
-  {
-    "name": "MB \"Verslo vadybos sistemos\"",
-    "code": "305048685",
-    "address": "Šiauliai, S. Dariaus ir S. Girėno g. 30-72, LT-78311",
-    "vatcode": "LT100012269019"
   },
   {
     "name": "MB \"Verslo valdymo sistemos ir konsultavimas\"",
@@ -899,7 +909,8 @@
   {
     "name": "MB SPS SISTEMOS",
     "code": "307479079",
-    "address": "Gargždai, J. Janonio g. 22-16, LT-96133"
+    "address": "Gargždai, J. Janonio g. 22-16, LT-96133",
+    "vatcode": "LT100019298111"
   },
   {
     "name": "MB Sistemos",
@@ -915,6 +926,12 @@
     "name": "MB Sveikatos Sistemos",
     "code": "307149971",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
+    "name": "MB VV sistemos",
+    "code": "305048685",
+    "address": "Šiauliai, S. Dariaus ir S. Girėno g. 30-72, LT-78311",
+    "vatcode": "LT100012269019"
   },
   {
     "name": "MB Virtualios realybės sistemos",
@@ -1093,6 +1110,10 @@
     "vatcode": "LT864965410"
   },
   {
+    "name": "UAB \"Aukštuminės sistemos KL\"",
+    "code": "300055747"
+  },
+  {
     "name": "UAB \"Automatinio valdymo sistemos\"",
     "code": "304254885",
     "address": "Vilnius, Gabijos g. 32-103, LT-06158",
@@ -1214,6 +1235,10 @@
     "vatcode": "LT100011167414"
   },
   {
+    "name": "UAB \"Duomenų perdavimo sistemos\"",
+    "code": "300040994"
+  },
+  {
     "name": "UAB \"Duomenų sistemos\"",
     "code": "304077876",
     "address": "Kaunas, Samanų tak. 10, LT-47299",
@@ -1252,6 +1277,10 @@
     "name": "UAB \"EPAM SISTEMOS\" Kauno filialas",
     "code": "306109664",
     "address": "Kaunas, Savanorių pr. 346, LT-49428"
+  },
+  {
+    "name": "UAB \"ESBS finansavimo sistemos\"",
+    "code": "300072020"
   },
   {
     "name": "UAB \"ET Interneto sistemos\"",
@@ -1321,6 +1350,10 @@
     "code": "304915710",
     "address": "Vilnius, M. K. Oginskio g. 24-9, LT-10219",
     "vatcode": "LT100011969310"
+  },
+  {
+    "name": "UAB \"Grid sistemos\"",
+    "code": "302846386"
   },
   {
     "name": "UAB \"H2 Sistemos\"",
@@ -1512,6 +1545,10 @@
     "code": "303352579",
     "address": "Kaunas, Mosėdžio g. 64-5, LT-47112",
     "vatcode": "LT100015525012"
+  },
+  {
+    "name": "UAB \"MEA Sistemos\"",
+    "code": "300558563"
   },
   {
     "name": "UAB \"MERITS elektroninės sistemos\"",
@@ -2059,6 +2096,10 @@
     "vatcode": "LT100017154415"
   },
   {
+    "name": "UAB MB Sistemos",
+    "code": "302846393"
+  },
+  {
     "name": "UAB Nelinijinės sistemos laboratorija",
     "code": "304588493",
     "address": "Palanga, Virbališkės tak. 3J-7, LT-00127"
@@ -2108,6 +2149,10 @@
     "code": "300088028",
     "address": "Vilnius, Kalvarijų g. 125B, LT-08221",
     "vatcode": "LT100001621017"
+  },
+  {
+    "name": "UŽDAROJI AKCINĖ BENDROVĖ \"AUKŠTUMINIŲ ĮRENGIMŲ SISTEMOS\"",
+    "code": "125486550"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"ALIARMO SISTEMOS\"",
@@ -2258,6 +2303,10 @@
     "vatcode": "LT239148314"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Rinkos skatinimo sistemos\"",
+    "code": "125374081"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"SOBO\" SISTEMOS",
     "code": "141699398",
     "address": "Klaipėda, L. Giros g. 4, LT-92221",
@@ -2322,6 +2371,14 @@
     "vatcode": "LT350617410"
   },
   {
+    "name": "V. Gotos firma \"BRŪKŠNINIŲ KODŲ SISTEMOS\"",
+    "code": "225345230"
+  },
+  {
+    "name": "V. Kubiliaus tikroji ūkinė bendrija \"Instaliacinės sistemos\"",
+    "code": "134559652"
+  },
+  {
     "name": "Vejos sistemos MB",
     "code": "305795406",
     "address": "Prienų r. sav., Balbieriškio sen., Nešeikių k., Pašilės g. 2, LT-59240",
@@ -2364,6 +2421,10 @@
     "address": "Šalčininkai, Vilniaus g. 50, LT-17116"
   },
   {
+    "name": "Šiaulių m. socialinės apsaugos sistemos darbuotojų profesinė sąjunga",
+    "code": "302453283"
+  },
+  {
     "name": "UAB \"Sistemus\"",
     "code": "304972711",
     "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Jonažolių g. 2, LT-14162",
@@ -2389,6 +2450,10 @@
     "name": "Alkos melioracijos sistemų naudotojų asociacija",
     "code": "304216265",
     "address": "Šilutės r. sav., Šilutės sen., Gaidelių k."
+  },
+  {
+    "name": "Alytaus rajono melioracijos sistemų naudotojų asociacija \"Daugų drenažas\"",
+    "code": "302484250"
   },
   {
     "name": "Angirių melioracijos sistemų naudotojų asociacija",
@@ -2741,9 +2806,8 @@
     "address": "Akmenės r. sav., Naujosios Akmenės kaimiškoji sen., Sablauskių k., Žalioji g. 34, LT-85273"
   },
   {
-    "name": "Melioracijos sistemų ir hidrotechninių statinių naudotojų asociacija \"Kesiai\"",
-    "code": "303166126",
-    "address": "Akmenės r. sav., Akmenė, K. Kasakausko g. 14, LT-85367"
+    "name": "Mažučių kaimo melioracijos sistemų naudotojų asociacija",
+    "code": "302449032"
   },
   {
     "name": "Melioracijos sistemų naudotojų asociacija \"Agruva\"",
@@ -2794,11 +2858,6 @@
     "name": "Melioracijos sistemų naudotojų asociacija \"Daugėlaičiai\"",
     "code": "306079185",
     "address": "Radviliškio r. sav., Radviliškio sen., Varnionių k., Klevų g. 24, LT-82107"
-  },
-  {
-    "name": "Melioracijos sistemų naudotojų asociacija \"Drena\"",
-    "code": "304085887",
-    "address": "Švenčionių r. sav., Magūnų sen., Prienų k., Smėlio g. 25, LT-18159"
   },
   {
     "name": "Melioracijos sistemų naudotojų asociacija \"Dubiniai\"",
@@ -3046,11 +3105,6 @@
     "address": "Akmenės r. sav., Kruopių sen., Pagervių k. 5, LT-85212"
   },
   {
-    "name": "Melioracijos sistemų naudotojų asociacija \"Sudargas\"",
-    "code": "302583615",
-    "address": "Šakiai, V. Kudirkos g. 59A, LT-71126"
-  },
-  {
     "name": "Melioracijos sistemų naudotojų asociacija \"Sudargo melioracija\"",
     "code": "304184038",
     "address": "Šakiai, V. Kudirkos g. 11D, LT-71124"
@@ -3084,6 +3138,10 @@
     "name": "Melioracijos sistemų naudotojų asociacija \"Upyna\"",
     "code": "306456387",
     "address": "Telšių r. sav., Upynos sen., Upynos k., Naujoji g. 1D, LT-88227"
+  },
+  {
+    "name": "Melioracijos sistemų naudotojų asociacija \"Vaitiekupis\"",
+    "code": "302583565"
   },
   {
     "name": "Melioracijos sistemų naudotojų asociacija \"Vepriai\"",
@@ -3194,6 +3252,10 @@
     "name": "Paražnių kaimo melioracijos sistemų naudotojų asociacija",
     "code": "305776103",
     "address": "Vilkaviškio r. sav., Pilviškių sen., Mažučių k., Vilkaviškio g. 27, LT-70478"
+  },
+  {
+    "name": "Pasvalio rajono Saločių kadastrinės vietovės melioracijos sistemų naudotojų asociacija",
+    "code": "302527602"
   },
   {
     "name": "Pasvalio rajono melioracijos sistemų naudotojų asociacija \"Tetirvinai\"",
@@ -3478,10 +3540,6 @@
     "address": "Telšių r. sav., Tryškių sen., Ubiškės mstl., D. Bubėno g. 23, LT-88188"
   },
   {
-    "name": "Užbalių kaimo melioracijos sistemų naudotojų asociacija",
-    "code": "302519107"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"INTELEKTUALIŲ RESURSŲ SISTEMŲ KONSULTANTAI\"",
     "code": "124135395",
     "address": "Vilnius, Kęstučio g. 19-3, LT-08119"
@@ -3591,6 +3649,11 @@
     "name": "MB \"Sigma sisters\"",
     "code": "307079003",
     "address": "Palanga, Monciškės g. 24A-3, LT-00166"
+  },
+  {
+    "name": "MB \"Sisters tea house\"",
+    "code": "307520533",
+    "address": "Alytus, Likiškėlių g. 80-6, LT-63359"
   },
   {
     "name": "MB Digital sisters",

@@ -82,11 +82,6 @@
     "address": "Vilnius, Pramonės g. 97, LT-11115"
   },
   {
-    "name": "UAB \"Gabija Business Park\"",
-    "code": "302324107",
-    "address": "Vilnius, Žirgo g. 2-65, LT-10221"
-  },
-  {
     "name": "UAB \"Nord Wind Park\"",
     "code": "306084944",
     "address": "Vilnius, Laisvės pr. 10, LT-04215",
@@ -303,7 +298,8 @@
   {
     "name": "UAB 7 parkai",
     "code": "306074665",
-    "address": "Vilnius, Švitrigailos g. 8-205, LT-03223"
+    "address": "Vilnius, Švitrigailos g. 8-205, LT-03223",
+    "vatcode": "LT100019298313"
   },
   {
     "name": "UAB Saulės grąžos parkai 2",
@@ -894,6 +890,14 @@
     "address": "Vilnius, Jogailos g. 4, LT-01116"
   },
   {
+    "name": "UAB \"Saulės Elektrinių parkas\"",
+    "code": "302802735"
+  },
+  {
+    "name": "UAB \"Saulės Energijos Centro parkas\"",
+    "code": "302802799"
+  },
+  {
     "name": "UAB \"Sausių logistikos parkas\"",
     "code": "305725048",
     "address": "Vilniaus m. sav., Grigiškių m., Vilniaus g. 4B, LT-27101",
@@ -1096,6 +1100,10 @@
     "code": "306084093",
     "address": "Kaunas, Šėtos g. 11-1, LT-47114",
     "vatcode": "LT100015045711"
+  },
+  {
+    "name": "UAB Klaipėdos taksi parkas",
+    "code": "301532265"
   },
   {
     "name": "UAB Liuteronų parkas",
@@ -1397,6 +1405,10 @@
     "vatcode": "LT228967515"
   },
   {
+    "name": "Viešoji įstaiga \"Liepiškių technologijų parkas\"",
+    "code": "301075553"
+  },
+  {
     "name": "Viešoji įstaiga \"Meno parkas\"",
     "code": "135932570",
     "address": "Kaunas, Rotušės a. 27, LT-44279",
@@ -1581,6 +1593,10 @@
     "vatcode": "LT100008617110"
   },
   {
+    "name": "R. Sakalausko įmonė \"Parketas\"",
+    "code": "132721949"
+  },
+  {
     "name": "Sporto klubas \"KRUOJOS PARKETAS\"",
     "code": "300010798",
     "address": "Pakruojo r. sav., Klovainių sen., Petrašiūnų k., Stoties g. 21, LT-83477"
@@ -1703,10 +1719,6 @@
     "vatcode": "LT100013997519"
   },
   {
-    "name": "\"Auto Moto Parko bistro\", IĮ",
-    "code": "305619746"
-  },
-  {
     "name": "\"Parko slėnio\" bendrija",
     "code": "304722615",
     "address": "Druskininkai, Klonio g. 4, LT-66102"
@@ -1750,7 +1762,7 @@
   {
     "name": "DNSB \"Parko apartamentai\"",
     "code": "304566358",
-    "address": "Kaunas, Šeštokų g. 45B-9, LT-46426"
+    "address": "Kaunas, Šeštokų g. 45A-10, LT-46426"
   },
   {
     "name": "Daugiabučio gyvenamojo namo Parko al. 2A, Plungėje savininkų bendrija",
@@ -2146,6 +2158,10 @@
     "address": "Vilnius, Tilto g. 3-4, LT-01101"
   },
   {
+    "name": "UAB \"Parko dalys\"",
+    "code": "304956543"
+  },
+  {
     "name": "UAB \"Parko ežero apartamentai\"",
     "code": "304404534",
     "address": "Klaipėda, Liepų g. 83, LT-92195",
@@ -2232,6 +2248,10 @@
     "address": "Vilnius, Gedimino pr. 10-13, LT-01103"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Parko aidas\"",
+    "code": "252649910"
+  },
+  {
     "name": "Uždarosios akcinės bendrovės Biržų autobusų parko profesinė sąjunga \"Solidarumas\"",
     "code": "255285860",
     "address": "Biržai, J. Basanavičiaus g. 56, LT-41164"
@@ -2270,6 +2290,11 @@
     "name": "VšĮ \"Parko studija\"",
     "code": "306966397",
     "address": "Molėtų r. sav., Alanta, Parko g. 3-1, LT-33315"
+  },
+  {
+    "name": "VšĮ Parko Sevilis",
+    "code": "307529799",
+    "address": "Vilnius, Parko g. 21-201, LT-11205"
   },
   {
     "name": "VšĮ Parko galerija",

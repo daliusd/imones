@@ -182,10 +182,6 @@
     "address": "Klaipėda, Slėnio g. 1, LT-92335"
   },
   {
-    "name": "VšĮ \"Tvari šeima\"",
-    "code": "304193076"
-  },
-  {
     "name": "VšĮ Tvari energetikos bendrija",
     "code": "306377751",
     "address": "Vilnius, Dysnos g. 7-12, LT-01135"
@@ -409,6 +405,10 @@
     "address": "Klaipėdos r. sav., Kretingalė, Klevų g. 22, LT-96333"
   },
   {
+    "name": "Partija Tvarka ir teisingumas",
+    "code": "195724517"
+  },
+  {
     "name": "UAB \"Apskaitos tvarka\"",
     "code": "302977916",
     "address": "Vilnius, Girulių g. 11-20, LT-12125",
@@ -444,7 +444,8 @@
   {
     "name": "MB Apskaitą tvarkantis asmuo",
     "code": "305587953",
-    "address": "Vilnius, Bitėnų g. 3C-17, LT-06236"
+    "address": "Vilnius, Bitėnų g. 3C-17, LT-06236",
+    "vatcode": "LT100019300510"
   },
   {
     "name": "Melioracijos sistemų naudotojų asociacija \"Tvarkantė\"",
@@ -968,6 +969,10 @@
     "vatcode": "LT100015722919"
   },
   {
+    "name": "UAB TVartas",
+    "code": "301295713"
+  },
+  {
     "name": "MB Tvartu",
     "code": "305923215",
     "address": "Vilnius, Arnavos g. 11, LT-06283"
@@ -1281,7 +1286,7 @@
   {
     "name": "MB \"Tvarūs namai\"",
     "code": "305944597",
-    "address": "Vilnius, Subačiaus g. 20-17, LT-01300"
+    "address": "Kretingos r. sav., Žalgirio sen., Baublių k., Mokyklos g. 14, LT-97200"
   },
   {
     "name": "MB \"Tvarūs projektai\"",

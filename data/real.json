@@ -45,14 +45,18 @@
   {
     "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė Groa Real Estate Fund I, UAB",
     "code": "304447891",
-    "address": "Vilnius, Dominikonų g. 9-5, LT-01131",
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
     "vatcode": "LT100014057619"
   },
   {
     "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė Groa Real Estate Opportunity Fund, UAB",
     "code": "306105096",
-    "address": "Vilnius, Dominikonų g. 9-5, LT-01131",
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
     "vatcode": "LT100017365110"
+  },
+  {
+    "name": "IĮ \"DRJ Real Estate\"",
+    "code": "125191297"
   },
   {
     "name": "IĮ L.J. Real Wood",
@@ -136,6 +140,11 @@
     "address": "Vilnius, Smolensko g. 33-10, LT-03201"
   },
   {
+    "name": "MB Prime real estate solutions",
+    "code": "307513108",
+    "address": "Kaunas, Partizanų g. 110-71, LT-50341"
+  },
+  {
     "name": "MB REAL ESTATE ŠIAULIAI",
     "code": "306864734",
     "address": "Šiauliai, Gegužių g. 61-35, LT-78333"
@@ -195,7 +204,8 @@
   {
     "name": "MB Real solutions",
     "code": "307114109",
-    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Vandžiogalos pl. 104-52, LT-54358"
+    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Vandžiogalos pl. 104-52, LT-54358",
+    "vatcode": "LT100019323015"
   },
   {
     "name": "MB Real urban",
@@ -339,7 +349,8 @@
   {
     "name": "UAB \"BIR Real Estate\"",
     "code": "307502492",
-    "address": "Birštonas, Algirdo g. 22, LT-59204"
+    "address": "Birštonas, Algirdo g. 22, LT-59204",
+    "vatcode": "LT100019350910"
   },
   {
     "name": "UAB \"BS Real Estate\"",
@@ -376,7 +387,8 @@
   {
     "name": "UAB \"DRU South Real Estate\"",
     "code": "307502097",
-    "address": "Druskininkai, Eglės g. 1, LT-66251"
+    "address": "Druskininkai, Eglės g. 1, LT-66251",
+    "vatcode": "LT100019333315"
   },
   {
     "name": "UAB \"Digital real estate\"",
@@ -488,6 +500,11 @@
     "address": "Kaunas, Pramonės pr. 46A, LT-50302"
   },
   {
+    "name": "UAB \"Olo Real Estate\"",
+    "code": "307520953",
+    "address": "Vilnius, Krivių g. 5, LT-01204"
+  },
+  {
     "name": "UAB \"Orion Real Estate\"",
     "code": "307463630",
     "address": "Panevėžys, Beržų g. 17-60, LT-36215"
@@ -572,6 +589,10 @@
     "vatcode": "LT100004999112"
   },
   {
+    "name": "UAB \"Real Welders\"",
+    "code": "305684377"
+  },
+  {
     "name": "UAB \"Real West logistics\"",
     "code": "306119669",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
@@ -642,7 +663,8 @@
   {
     "name": "UAB \"ZURICH REAL ESTATE\"",
     "code": "306696215",
-    "address": "Panevėžio r. sav., Miežiškių sen., Nibragalio k., Ringužio g. 9, LT-38135"
+    "address": "Panevėžio r. sav., Miežiškių sen., Nibragalio k., Ringužio g. 9, LT-38135",
+    "vatcode": "LT100019320010"
   },
   {
     "name": "UAB Apex Real Estate",
@@ -664,7 +686,8 @@
   {
     "name": "UAB Domus real estate",
     "code": "307358323",
-    "address": "Vilnius, V. Smakausko g. 38-1, LT-14193"
+    "address": "Vilnius, V. Smakausko g. 38-1, LT-14193",
+    "vatcode": "LT100019350416"
   },
   {
     "name": "UAB FAMO Real Estate",
@@ -699,11 +722,6 @@
     "code": "302733552",
     "address": "Vilnius, Račių g. 12-1, LT-03156",
     "vatcode": "LT100007757110"
-  },
-  {
-    "name": "UAB North Europe real estate development fund II",
-    "code": "307510959",
-    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
   },
   {
     "name": "UAB REAL TASTE",
@@ -806,8 +824,13 @@
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"EIKA REAL ESTATE FUND\"",
     "code": "304959653",
-    "address": "Vilnius, A. Goštauto g. 40B, LT-03163",
+    "address": "Vilnius, J. Jasinskio g. 2, LT-01112",
     "vatcode": "LT100014657415"
+  },
+  {
+    "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"North Europe real estate development fund II\"",
+    "code": "307510959",
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB Riverside real estate fund",
@@ -836,6 +859,10 @@
     "code": "306046986",
     "address": "Kupiškio r. sav., Kupiškio sen., Aleksandrijos k., Pramonės g. 2, LT-40335",
     "vatcode": "LT100014851711"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"REALATA\"",
+    "code": "110835761"
   },
   {
     "name": "UAB \"REALAUTO\"",
@@ -1099,6 +1126,10 @@
     "vatcode": "LT100004536815"
   },
   {
+    "name": "L. Zalevskajos žuvies rūkymo ir realizavimo įmonė",
+    "code": "152724080"
+  },
+  {
     "name": "S. Pociaus gintaro apdirbimo ir realizavimo įmonė",
     "code": "152720783",
     "address": "Neringa, Taikos g. 14-41, LT-93121"
@@ -1154,11 +1185,6 @@
     "name": "VŠĮ \"Gerbti - Saugoti - Realizuoti\"",
     "code": "306094874",
     "address": "Vilnius, Laisvės pr. 60, LT-05120"
-  },
-  {
-    "name": "Asgard: Realm of Esports, MB",
-    "code": "306364608",
-    "address": "Kėdainiai, Respublikos g. 40-53, LT-57407"
   },
   {
     "name": "MB \"Renovated realm\"",
@@ -1265,6 +1291,10 @@
     "code": "306699065",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
     "vatcode": "LT100017068812"
+  },
+  {
+    "name": "MB \"Realtoris\"",
+    "code": "304352354"
   },
   {
     "name": "MB \"Eco Green Realtors\"",
@@ -1389,11 +1419,6 @@
     "vatcode": "LT100018339914"
   },
   {
-    "name": "UAB \"ANDRUM Realty Development\"",
-    "code": "304415872",
-    "address": "Vilnius, Bičiulių g. 21, LT-02236"
-  },
-  {
     "name": "UAB \"AURA Realty\"",
     "code": "304409104",
     "address": "Vilnius, Jankiškių g. 52, LT-02300"
@@ -1439,6 +1464,10 @@
     "code": "300653506",
     "address": "Vilniaus m. sav.",
     "vatcode": "LT100003780618"
+  },
+  {
+    "name": "UAB \"SCANDINAVIAN REALTY & INVESTMENT\"",
+    "code": "300513632"
   },
   {
     "name": "UAB Baltic Realty",

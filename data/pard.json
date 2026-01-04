@@ -70,8 +70,7 @@
   {
     "name": "MB Pardavimai pigiau",
     "code": "306681626",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
-    "vatcode": "LT100017061217"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "MB Pardavimai rinkodara dizainas",
@@ -167,6 +166,10 @@
     "address": "Vilnius, Gedimino pr. 45-4, LT-01109"
   },
   {
+    "name": "IĮ \"Pardavimo akademija\"",
+    "code": "300635198"
+  },
+  {
     "name": "MB \"Pardavimo asistentas\"",
     "code": "304751271",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
@@ -198,6 +201,10 @@
     "name": "UAB \"Turto pardavimo paslaugos\"",
     "code": "302310602",
     "address": "Vilnius, Noragiškių g. 13-6, LT-08410"
+  },
+  {
+    "name": "Vytauto Bulbenkos žvejybos priemonių gamybos ir pardavimo įmonė",
+    "code": "182756059"
   },
   {
     "name": "Didinam pardavimus, IĮ",
@@ -271,11 +278,6 @@
     "name": "MB Pardavimų Guru",
     "code": "305471646",
     "address": "Kaunas, J. Grušo g. 6-10, LT-48265"
-  },
-  {
-    "name": "MB Pardavimų Linija",
-    "code": "307266540",
-    "address": "Šiauliai, Paukščių tak. 6-5, LT-78166"
   },
   {
     "name": "MB Pardavimų klubas",
@@ -405,11 +407,6 @@
     "address": "Vilnius, I. Kanto al. 24-1, LT-06215"
   },
   {
-    "name": "\"Amazon\" pardavėjų asociacija",
-    "code": "305119456",
-    "address": "Vilniaus m. sav., Grigiškių m., Žalioji g. 2-6, LT-27102"
-  },
-  {
     "name": "Europoje eksploatuojamų transporto priemonių pardavėjų ir naudotojų asociacija",
     "code": "305142565",
     "address": "Kaunas, Taikos pr. 141B, LT-51134"
@@ -531,11 +528,6 @@
     "address": "Vilnius, Kirtimų g. 49B, LT-02244"
   },
   {
-    "name": "MB Parduotuvių priežiūra",
-    "code": "306196103",
-    "address": "Joniškis, Medžiotojų g. 15A-3, LT-84116"
-  },
-  {
     "name": "UAB \"Restoranų ir parduotuvių ranga\"",
     "code": "305094120",
     "address": "Vilnius, S. Žukausko g. 45-15, LT-09131",
@@ -546,6 +538,18 @@
     "code": "306247715",
     "address": "Vilnius, Krivių g. 5, LT-01204",
     "vatcode": "LT100015702319"
+  },
+  {
+    "name": "A. Ališauskienės parduotuvė",
+    "code": "153671047"
+  },
+  {
+    "name": "A. Armakavičienės parduotuvė",
+    "code": "154821770"
+  },
+  {
+    "name": "A. Atkočaičio parduotuvė",
+    "code": "162439471"
   },
   {
     "name": "A. Gecevičienės parduotuvė",
@@ -580,6 +584,10 @@
     "vatcode": "LT665563917"
   },
   {
+    "name": "Algimos Morkūnienės parduotuvė",
+    "code": "158891175"
+  },
+  {
     "name": "Audronės Stankevičienės parduotuvė",
     "code": "172406021",
     "address": "Raseinių r. sav., Betygalos sen., Steponkaimio k."
@@ -592,7 +600,7 @@
   {
     "name": "D. Buožiūtės parduotuvė",
     "code": "153066888",
-    "address": "Akmenės r. sav., Akmenės sen., Agluonų k.",
+    "address": "Akmenės r. sav., Akmenės sen., Agluonų k., Beržų g. 2, LT-85474",
     "vatcode": "LT530668811"
   },
   {
@@ -606,6 +614,10 @@
     "code": "247750110",
     "address": "Panevėžys, Nidos g. 18, LT-35195",
     "vatcode": "LT477501113"
+  },
+  {
+    "name": "D. Tankevičienės parduotuvė",
+    "code": "154153577"
   },
   {
     "name": "D. Šeštakauskienės parduotuvė",
@@ -636,6 +648,10 @@
     "vatcode": "LT685833811"
   },
   {
+    "name": "E. Mažeikienės parduotuvė",
+    "code": "133609248"
+  },
+  {
     "name": "Edmundo Ignatavičiaus parduotuvė",
     "code": "172355541",
     "address": "Raseinių r. sav., Girkalnis, Šėtupio g. 40A, LT-60313",
@@ -656,6 +672,10 @@
     "code": "172335859",
     "address": "Raseiniai, Dubysos g. 14-3, LT-60147",
     "vatcode": "LT723358515"
+  },
+  {
+    "name": "Hanusauskienės parduotuvė",
+    "code": "152514071"
   },
   {
     "name": "I. Bakaitienės parduotuvė \"Versmė\"",
@@ -795,6 +815,10 @@
     "vatcode": "LT530885811"
   },
   {
+    "name": "Joanos Vainilavičienės komiso parduotuvė \"Aitvaras\"",
+    "code": "157529166"
+  },
+  {
     "name": "Jono Keciorio parduotuvė \"Linas\"",
     "code": "271239620",
     "address": "Radviliškis, Birutės g. 14, LT-82130"
@@ -930,10 +954,18 @@
     "vatcode": "LT100016540213"
   },
   {
+    "name": "Marės Liutkevičienės parduotuvė",
+    "code": "185192293"
+  },
+  {
     "name": "Nerijaus Čiužo parduotuvė",
     "code": "170710011",
     "address": "Prienai, Vytauto g. 7, LT-59114",
     "vatcode": "LT707100113"
+  },
+  {
+    "name": "O. Toliušienės parduotuvė",
+    "code": "163652636"
   },
   {
     "name": "Onos Katinienės parduotuvė",
@@ -947,10 +979,18 @@
     "address": "Panevėžys, Molainių g. 78-5, LT-37151"
   },
   {
+    "name": "P. Kostino parduotuvė \"Šarlota\"",
+    "code": "183641177"
+  },
+  {
     "name": "R. Lapėnienės parduotuvė \"Žirnis\"",
     "code": "169128170",
     "address": "Pasvalys, Vilniaus g. 59-35, LT-39181",
     "vatcode": "LT691281716"
+  },
+  {
+    "name": "R. Medimienės parduotuvė-baras",
+    "code": "162517023"
   },
   {
     "name": "R. Urbono individualios įmonės \"Batas\" parduotuvė",
@@ -984,6 +1024,10 @@
     "code": "153035832",
     "address": "Mažeikių r. sav., Viekšnių sen., Palnosų k., Kviečių g. 16, LT-89482",
     "vatcode": "LT530358314"
+  },
+  {
+    "name": "Sporto klubo \"Ūla\" parduotuvė",
+    "code": "184523018"
   },
   {
     "name": "St. Zaluska parduotuvė",
@@ -1057,6 +1101,10 @@
     "vatcode": "LT100012664810"
   },
   {
+    "name": "V. Cesiūno parduotuvė",
+    "code": "172318219"
+  },
+  {
     "name": "V. Gargasienės parduotuvė",
     "code": "162443936",
     "address": "Kelmės r. sav., Kražiai, M. Valančiaus g. 26, LT-86274",
@@ -1079,6 +1127,10 @@
     "address": "Raseiniai, Vytauto Didžiojo g. 23-13, LT-60128"
   },
   {
+    "name": "V. Urbono parduotuvė",
+    "code": "162422422"
+  },
+  {
     "name": "V. Šablavinsko parduotuvė \"Eglė\"",
     "code": "172240877",
     "address": "Raseiniai, Vilniaus g. 95, LT-60170"
@@ -1090,9 +1142,25 @@
     "vatcode": "LT852203515"
   },
   {
+    "name": "Valentinos Liutkevičius parduotuvė",
+    "code": "167553799"
+  },
+  {
+    "name": "Vido Lukoševičiaus parduotuvė",
+    "code": "285265760"
+  },
+  {
+    "name": "Viliaus Klimčiausko parduotuvė",
+    "code": "185284012"
+  },
+  {
     "name": "Vilmos Varnienės parduotuvė",
     "code": "168591482",
     "address": "Panevėžio r. sav., Vadoklių sen., Jotainių k., Jotainių g. 18, LT-38218"
+  },
+  {
+    "name": "Vinco Stalioraičio parduotuvė \"Upė\"",
+    "code": "185207119"
   },
   {
     "name": "Z. Armonienės parduotuvė",

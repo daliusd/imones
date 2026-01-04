@@ -1,11 +1,5 @@
 [
   {
-    "name": "KŪB \"Mana investicinė bendrovė\"",
-    "code": "307316114",
-    "address": "Kaunas, Gedimino g. 46-4, LT-44240",
-    "vatcode": "LT100019040510"
-  },
-  {
     "name": "MB \"Data Mana\"",
     "code": "305866198",
     "address": "Klaipėda, Pušyno g. 33A-19, LT-92265"
@@ -82,6 +76,12 @@
     "code": "306672552",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
     "vatcode": "LT100019031118"
+  },
+  {
+    "name": "Uždarojo tipo informuotiesiems investuotojams skirta KŪB \"Mana investicinė bendrovė\"",
+    "code": "307316114",
+    "address": "Kaunas, Gedimino g. 46-4, LT-44240",
+    "vatcode": "LT100019040510"
   },
   {
     "name": "MANAB UAB",
@@ -170,6 +170,10 @@
     "vatcode": "LT100009825019"
   },
   {
+    "name": "BALTIC MANAGEMENT EXPERT, UAB",
+    "code": "302948455"
+  },
+  {
     "name": "BAMA Beniusyte Artist Management Agency",
     "code": "306964485",
     "address": "Vilnius, Viršuliškių g. 45-38, LT-05102",
@@ -179,11 +183,6 @@
     "name": "BLF Management, UAB",
     "code": "305663194",
     "address": "Vilnius, Žalgirio g. 112-1, LT-09300"
-  },
-  {
-    "name": "BOW Ship Management UAB",
-    "code": "304032411",
-    "address": "Vilnius, Bitininkų g. 1C-66, LT-08310"
   },
   {
     "name": "Bid management MB",
@@ -217,7 +216,8 @@
   {
     "name": "Conex Consulting & Project Management UAB",
     "code": "306688695",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100019383614"
   },
   {
     "name": "D. Britanijos Virginijos salų Tarptautinės biznio kompanijos \"RASENDALE MANAGEMENT Ltd\" atstovybė",
@@ -304,7 +304,7 @@
   {
     "name": "Husky management, UAB",
     "code": "304632139",
-    "address": "Trakų r. sav., Lentvario sen., Užukampio k., Svajonių aklg. 5-1, LT-25143",
+    "address": "Trakų r. sav., Trakų sen., Varnikų k., Žemaitės g. 5B, LT-21142",
     "vatcode": "LT100011160013"
   },
   {
@@ -949,8 +949,12 @@
   {
     "name": "UAB \"Eika Asset Management\"",
     "code": "304094078",
-    "address": "Vilnius, A. Goštauto g. 40A, LT-03163",
+    "address": "Vilnius, J. Jasinskio g. 2, LT-01112",
     "vatcode": "LT100018142417"
+  },
+  {
+    "name": "UAB \"F. International Asset Management\"",
+    "code": "302540642"
   },
   {
     "name": "UAB \"Finance Management\"",
@@ -1162,10 +1166,19 @@
     "address": "Vilnius, Algirdo g. 31-400, LT-03219"
   },
   {
+    "name": "UAB \"SK Asset Management\"",
+    "code": "307511840",
+    "address": "Vilnius, Vytauto Žalakevičiaus g. 29-12, LT-10109"
+  },
+  {
     "name": "UAB \"SV Asset Management\"",
     "code": "301534704",
     "address": "Vilnius, Bokšto g. 10-7, LT-01126",
     "vatcode": "LT100003895410"
+  },
+  {
+    "name": "UAB \"Sales Management\"",
+    "code": "302423265"
   },
   {
     "name": "UAB \"Scandinavian Industrial Waste Management\"",
@@ -1181,7 +1194,8 @@
   {
     "name": "UAB \"Transport management STV\"",
     "code": "307496712",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100019355013"
   },
   {
     "name": "UAB \"UPSIDE MANAGEMENT\"",
@@ -1224,7 +1238,8 @@
   {
     "name": "UAB \"ZeroSum Asset Management\"",
     "code": "304793904",
-    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
+    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400",
+    "vatcode": "LT100019374716"
   },
   {
     "name": "UAB 4 asset management",
@@ -1279,6 +1294,10 @@
     "code": "305433909",
     "address": "Vilnius, Lvivo g. 25-104, LT-09320",
     "vatcode": "LT100012934313"
+  },
+  {
+    "name": "UAB Baltic Management Group, International",
+    "code": "300589772"
   },
   {
     "name": "UAB Bsv management",
@@ -1652,6 +1671,14 @@
     "address": "Kaunas, Vaižganto g. 17-1, LT-44230"
   },
   {
+    "name": "N. Mananikovos firma",
+    "code": "126306934"
+  },
+  {
+    "name": "UŽDAROJI AKCINĖ BENDROVĖ \"MANARA\"",
+    "code": "120779752"
+  },
+  {
     "name": "UAB Manarta",
     "code": "307040534",
     "address": "Šiauliai, Lyros g. 6-3, LT-78330",
@@ -1693,11 +1720,6 @@
     "name": "UAB \"MANATY\"",
     "code": "302328899",
     "address": "Vilnius, Naugarduko g. 102, LT-03160"
-  },
-  {
-    "name": "Všį Kritinio mąstymo institutas \"Aš manau\"",
-    "code": "305740502",
-    "address": "Trakų r. sav., Lentvario sen., Stirnių k., Saidės g. 8-8, LT-21401"
   },
   {
     "name": "MB \"Manauda\"",

@@ -78,6 +78,11 @@
     "address": "Ukmergės rajono savivaldybės teritorija"
   },
   {
+    "name": "Asociacija \"Žemaitijos meistrai\"",
+    "code": "307527481",
+    "address": "Telšiai, Sedos g. 27A, LT-87113"
+  },
+  {
     "name": "Civinity meistrai, UAB",
     "code": "306025216",
     "address": "Vilnius, Naugarduko g. 98, LT-03160",
@@ -97,6 +102,10 @@
     "name": "Istorijų meistrai, MB",
     "code": "307506067",
     "address": "Vilnius, Tekliūnų g. 11A, LT-14193"
+  },
+  {
+    "name": "IĮ \"Ugnies meistrai\"",
+    "code": "300549589"
   },
   {
     "name": "IĮ Gėlių meistrai",
@@ -174,7 +183,8 @@
   {
     "name": "MB \"Erdvės meistrai\"",
     "code": "307063853",
-    "address": "Kėdainiai, Mindaugo g. 16-61, LT-57458"
+    "address": "Kėdainiai, Mindaugo g. 16-61, LT-57458",
+    "vatcode": "LT100019313310"
   },
   {
     "name": "MB \"Grindinio meistrai\"",
@@ -237,11 +247,6 @@
     "name": "MB \"Meistrai statyboms\"",
     "code": "306373258",
     "address": "Kaunas, Partizanų g. 216-77, LT-50319"
-  },
-  {
-    "name": "MB \"Modernių durų meistrai\"",
-    "code": "307085579",
-    "address": "Vilnius, Birželio 23-iosios g. 13-60, LT-03206"
   },
   {
     "name": "MB \"Pajūrio meistrai\"",
@@ -512,6 +517,10 @@
     "name": "UAB \"AUTO MEISTRAI\"",
     "code": "300002118",
     "address": "Panevėžys, Kniaudiškių g. 51-12, LT-37134"
+  },
+  {
+    "name": "UAB \"Akmens meistrai\"",
+    "code": "300138328"
   },
   {
     "name": "UAB \"Apdailos Meistrai\"",
@@ -879,7 +888,7 @@
   {
     "name": "MB \"Apsaugos meistras\"",
     "code": "307007712",
-    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263",
+    "address": "Vilnius, Savanorių pr. 65A, LT-03149",
     "vatcode": "LT100017285018"
   },
   {
@@ -1037,6 +1046,10 @@
     "name": "Nagingas meistras, MB",
     "code": "307064229",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+  },
+  {
+    "name": "Navicko, Giedraičio ir Bugailiškio TŪB \"SAVAS MEISTRAS\"",
+    "code": "302247600"
   },
   {
     "name": "UAB \"BETONO MEISTRAS\"",
@@ -1352,8 +1365,7 @@
   {
     "name": "MB Meistro vizija",
     "code": "305548808",
-    "address": "Šiauliai, Lyros g. 22-72, LT-78274",
-    "vatcode": "LT100015807911"
+    "address": "Šiauliai, Lyros g. 22-72, LT-78274"
   },
   {
     "name": "UAB \"Meistro kodas\"",
@@ -1410,6 +1422,10 @@
     "code": "302442479",
     "address": "Vilnius, Birelių Sodų 8-oji g. 17, LT-14282",
     "vatcode": "LT100006937811"
+  },
+  {
+    "name": "UAB \"Meistruva\"",
+    "code": "300664424"
   },
   {
     "name": "MB \"Tvari meistrystė\"",

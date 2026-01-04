@@ -303,6 +303,10 @@
     "address": "Anykščių r. sav., Kurkliai, Šviesos g. 15, LT-29234"
   },
   {
+    "name": "Anykščių rajono Levaniškio kaimo bendruomenė",
+    "code": "154331243"
+  },
+  {
     "name": "Anykščių rajono Mačionių kaimo bendruomenė",
     "code": "254334920",
     "address": "Anykščių r. sav., Skiemonių sen., Mačionių k."
@@ -371,11 +375,6 @@
     "name": "Anykščių rajono dirbančiųjų profesinė sąjunga \"Solidarumas\"",
     "code": "154300155",
     "address": "Anykščiai, Vilniaus g. 13, LT-29145"
-  },
-  {
-    "name": "Anykščių rajono literatų klubas \"Marčiupys\"",
-    "code": "154297474",
-    "address": "Anykščiai, J. Biliūno g. 35, LT-29111"
   },
   {
     "name": "Anykščių rajono medžiotojų klubas \"Debeikiai\"",
@@ -573,6 +572,10 @@
     "code": "154170683",
     "address": "Anykščių r. sav., Anykščių sen., Elmininkų I k.",
     "vatcode": "LT541706811"
+  },
+  {
+    "name": "Anykščių rajono žemės ūkio bendrovė \"Lanka\"",
+    "code": "154178420"
   },
   {
     "name": "Anykščių rajono žemės ūkio bendrovė \"Naujonys\"",
@@ -827,7 +830,7 @@
   {
     "name": "UAB \"Anykščių daržovės\"",
     "code": "304412207",
-    "address": "Kėdainiai, Chemikų g. 3-13, LT-57419",
+    "address": "Anykščiai, A. Vienuolio g. 32, LT-29149",
     "vatcode": "LT100010522010"
   },
   {
@@ -937,6 +940,11 @@
     "address": "Anykščių r. sav., Kavarsko sen., Dabužių I k."
   },
   {
+    "name": "Viešoji įstaiga \"Anykščių kraštas\"",
+    "code": "307517170",
+    "address": "Anykščių r. sav., Viešintos, Vytauto g. 56, LT-29322"
+  },
+  {
     "name": "Viešoji įstaiga \"Anykščių televizijos ir informacijos centras\"",
     "code": "300140119",
     "address": "Anykščiai, J. Biliūno g. 10-2, LT-29114"
@@ -949,7 +957,8 @@
   {
     "name": "Viešoji įstaiga Anykščių menų inkubatorius-menų studija",
     "code": "302054537",
-    "address": "Anykščiai, J. Biliūno g. 53, LT-29110"
+    "address": "Anykščiai, J. Biliūno g. 53, LT-29110",
+    "vatcode": "LT100019286814"
   },
   {
     "name": "Viešoji įstaiga Anykščių rajono savivaldybės ligoninė",

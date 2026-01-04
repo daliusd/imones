@@ -113,10 +113,20 @@
     "address": "Marijampolė, Vytauto g. 62, LT-68284"
   },
   {
+    "name": "Guru baldai, UAB",
+    "code": "305466072",
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100013146019"
+  },
+  {
     "name": "Horeca Baldai UAB",
     "code": "306096252",
     "address": "Vilnius, Konstitucijos pr. 26, LT-08131",
     "vatcode": "LT100015785917"
+  },
+  {
+    "name": "IĮ \"Arlinos baldai\"",
+    "code": "300887676"
   },
   {
     "name": "IĮ \"Europos baldai\"",
@@ -369,12 +379,6 @@
     "vatcode": "LT100016392617"
   },
   {
-    "name": "MB \"Guru baldai\"",
-    "code": "305466072",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
-    "vatcode": "LT100013146019"
-  },
-  {
     "name": "MB \"Havus baldai\"",
     "code": "306294316",
     "address": "Vilniaus r. sav., Sudervės sen., Rastinėnų k., Mėtų 2-oji g. 4, LT-14209"
@@ -582,6 +586,10 @@
     "name": "MB \"Reikalingi ir stilingi baldai\"",
     "code": "304942351",
     "address": "Lazdijų r. sav., Lazdijų sen., Karužų k., Jazminų g. 4, LT-67401"
+  },
+  {
+    "name": "MB \"Rūtos baldai\"",
+    "code": "303042388"
   },
   {
     "name": "MB \"SK baldai\"",
@@ -1685,6 +1693,10 @@
     "address": "Vilnius, Pragiedrulių Sodų 3-ioji g. 8, LT-10246"
   },
   {
+    "name": "UAB \"PVA baldai\"",
+    "code": "302339109"
+  },
+  {
     "name": "UAB \"Palangos baldai\"",
     "code": "304157190",
     "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Vėjo g. 12-2, LT-91276",
@@ -1865,6 +1877,22 @@
     "vatcode": "LT100004942512"
   },
   {
+    "name": "UAB \"TECHNOLITAS BALDAI\" KŪB \"DROŽLIŲ PLOKŠTĖ\"",
+    "code": "225643390"
+  },
+  {
+    "name": "UAB \"TECHNOLITAS BALDAI\" KŪB \"METALO DROŽLĖ\"",
+    "code": "125643432"
+  },
+  {
+    "name": "UAB \"TECHNOLITAS BALDAI\" KŪB \"METALO LAKŠTAS\"",
+    "code": "125643247"
+  },
+  {
+    "name": "UAB \"TECHNOLITAS BALDAI\" KŪB \"METANOMAS\"",
+    "code": "125660734"
+  },
+  {
     "name": "UAB \"TG baldai\"",
     "code": "302839107",
     "address": "Kaunas, Chemijos g. 17A, LT-51332",
@@ -1890,6 +1918,11 @@
     "name": "UAB \"Tėvų baldai\"",
     "code": "304879171",
     "address": "Šilutės r. sav., Saugų sen., Petrelių k., Kukorų g. 27-2, LT-99407"
+  },
+  {
+    "name": "UAB \"Uno baldai\"",
+    "code": "307511819",
+    "address": "Vilnius, Savanorių pr. 50-43, LT-03136"
   },
   {
     "name": "UAB \"VOLUI baldai\"",
@@ -2044,6 +2077,10 @@
     "vatcode": "LT566675811"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Baltic baldai\"",
+    "code": "160445073"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Gintaro baldai\"",
     "code": "174593071",
     "address": "Klaipėda, Akmenų g. 12, LT-92347",
@@ -2078,6 +2115,10 @@
     "code": "144578238",
     "address": "Šiauliai, Aido g. 10, LT-78258",
     "vatcode": "LT445782314"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"ŠIUOLAIKINIAI BALDAI\"",
+    "code": "123850941"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"Kriūkų baldai\" profesinė sąjunga",
@@ -2139,6 +2180,10 @@
     "code": "306712160",
     "address": "Kėdainių r. sav., Dotnuvos sen., Vainotiškių k., Ežero g. 10, LT-58337",
     "vatcode": "LT100016818317"
+  },
+  {
+    "name": "UAB \"Baldakimas\"",
+    "code": "135798687"
   },
   {
     "name": "MB Projektas baldams",
@@ -2213,7 +2258,8 @@
   {
     "name": "UAB \"BALDEGA\"",
     "code": "307114536",
-    "address": "Ignalinos r. sav., Ignalinos sen., Pašvoginės k. 3, LT-30143"
+    "address": "Ignalinos r. sav., Ignalinos sen., Pašvoginės k. 3, LT-30143",
+    "vatcode": "LT100019409813"
   },
   {
     "name": "MB Baldeila",
@@ -2669,6 +2715,10 @@
     "vatcode": "LT797598610"
   },
   {
+    "name": "IĮ \"Baldsvaja\"",
+    "code": "300046641"
+  },
+  {
     "name": "MB \"Baldturas\"",
     "code": "305965381",
     "address": "Alytaus r. sav., Alytaus sen., Miklusėnų k., Pavasario g. 98, LT-62475",
@@ -2690,6 +2740,10 @@
     "code": "306069344",
     "address": "Alytaus r. sav., Alovės sen., Kaniūkų k., Apynių g. 10, LT-64104",
     "vatcode": "LT100015304612"
+  },
+  {
+    "name": "K. Grigaitienės firma \"Balduma\"",
+    "code": "151386149"
   },
   {
     "name": "MB \"Baldumatas\"",
@@ -2816,7 +2870,7 @@
   {
     "name": "LIETUVOS BALDŲ KLASTERIS",
     "code": "302506070",
-    "address": "Vilnius, Pramonės g. 97-401, LT-11115"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "Lietuvos baldų ir medžio apdirbimo įmonių darbuotojų profesinė sąjunga",
@@ -2907,11 +2961,6 @@
     "name": "MB \"Baldų sprendimai\"",
     "code": "306629348",
     "address": "Utena, Garažų g. 1B-232, LT-28139"
-  },
-  {
-    "name": "MB \"Baldų surinkėjas\"",
-    "code": "305970624",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
   },
   {
     "name": "MB \"Baldų tvirtovė\"",

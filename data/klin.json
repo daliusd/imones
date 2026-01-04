@@ -68,6 +68,10 @@
     "address": "Vilnius, Didlaukio g. 51A, LT-08303"
   },
   {
+    "name": "A. Petkevičiaus klinika",
+    "code": "135530956"
+  },
+  {
     "name": "A. Sirtautienės klinika",
     "code": "171760017",
     "address": "Plungė, Telšių g. 13, LT-90162"
@@ -527,6 +531,11 @@
     "address": "Šiaulių r. sav., Kuršėnai, Gėlių g. 8, LT-81182"
   },
   {
+    "name": "MB \"VDC klinika\"",
+    "code": "307527983",
+    "address": "Vilnius, Gabijos g. 40-53, LT-06157"
+  },
+  {
     "name": "MB \"Vaidos odontologijos klinika\"",
     "code": "306964617",
     "address": "Telšiai, Tulpių g. 2-39, LT-87126"
@@ -564,6 +573,11 @@
     "code": "306326319",
     "address": "Kauno r. sav., Užliedžių sen., Romainių Kaimelės k., Romainių g. 200, LT-54306",
     "vatcode": "LT100019032913"
+  },
+  {
+    "name": "MB A. Neimonienės odontologijos klinika",
+    "code": "169967158",
+    "address": "Plungė, Gandingos g. 15-1, LT-90131"
   },
   {
     "name": "MB A. Pilypo klinika",
@@ -1015,7 +1029,8 @@
   {
     "name": "MB TRS klinika",
     "code": "307358095",
-    "address": "Vilnius, Vokiečių g. 28-4, LT-01130"
+    "address": "Vilnius, Vokiečių g. 28-4, LT-01130",
+    "vatcode": "LT100019294613"
   },
   {
     "name": "MB Teatro klinika",
@@ -1222,17 +1237,16 @@
   {
     "name": "Mokslo tyrimų ir inovacijų klinika, UAB",
     "code": "305839607",
-    "address": "Vilnius, Č. Sugiharos g. 7-47, LT-05115"
-  },
-  {
-    "name": "N. Dungveckienės šeimos klinika",
-    "code": "158349317",
-    "address": "Jurbarko r. sav., Veliuona, Veliuonėlės g. 5, LT-74441"
+    "address": "Vilnius, Perkūnkiemio g. 18-52, LT-12121"
   },
   {
     "name": "Naugarduko odontologijos klinika, MB",
     "code": "305142647",
     "address": "Vilnius, Naugarduko g. 8-18, LT-01309"
+  },
+  {
+    "name": "Odontologijos klinika \"Aukselis\", UAB",
+    "code": "304300578"
   },
   {
     "name": "Odontologijos klinika \"Gikeda\", UAB",
@@ -1649,7 +1663,7 @@
   {
     "name": "UAB \"ORTOPEDIJOS PASLAUGŲ KLINIKA\"",
     "code": "302792910",
-    "address": "Širvintų r. sav., Kernavės sen., Pakalniškių k., Kernavės g. 1, LT-19170",
+    "address": "Vilnius, Laisvės pr. 77-100, LT-06122",
     "vatcode": "LT100007272314"
   },
   {
@@ -1722,6 +1736,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "UAB \"Rietavo šeimos klinika\"",
+    "code": "307511986",
+    "address": "Rietavas, Paupio g. 1A, LT-90313"
+  },
+  {
     "name": "UAB \"Riešuto\" odontologijos klinika",
     "code": "304040778",
     "address": "Vilnius, Loretos Asanavičiūtės g. 13A-40, LT-04300"
@@ -1776,6 +1795,10 @@
     "address": "Alytus, Rugių g. 16, LT-62121"
   },
   {
+    "name": "UAB \"Sinergija\" klinika",
+    "code": "302208558"
+  },
+  {
     "name": "UAB \"Skausmo ir atstatomosios medicinos klinika\"",
     "code": "307318001",
     "address": "Pakruojo r. sav., Linkuva, Pašvitinio g. 37, LT-83437"
@@ -1802,6 +1825,10 @@
     "address": "Vilnius, Rinktinės g. 4-28, LT-09312"
   },
   {
+    "name": "UAB \"Trinapolio šeimos klinika\"",
+    "code": "306021342"
+  },
+  {
     "name": "UAB \"Ultra Klinika\"",
     "code": "302975566",
     "address": "Vilnius, A. Paškevič-Ciotkos g. 25-1, LT-11200"
@@ -1825,6 +1852,10 @@
     "name": "UAB \"VSC klinika\"",
     "code": "302845380",
     "address": "Kaunas, Maironio g. 6-5, LT-44302"
+  },
+  {
+    "name": "UAB \"Vaikų terapijos klinika\"",
+    "code": "305634552"
   },
   {
     "name": "UAB \"Verkių klinika\"",
@@ -2899,8 +2930,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Mūsų Šeimos Klinika\"",
     "code": "303033492",
-    "address": "Širvintos, Vilniaus g. 43-35, LT-19118",
-    "vatcode": "LT100008128810"
+    "address": "Širvintos, Vilniaus g. 43-35, LT-19118"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"NEFRIDOS\" KLINIKA",
@@ -2933,6 +2963,10 @@
     "name": "Uždaroji akcinė bendrovė Homeopatijos medicinos klinika",
     "code": "126345022",
     "address": "Vilnius, Kauno g. 31-1, LT-03229"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė J. Žemgulio gatvės klinika",
+    "code": "148505255"
   },
   {
     "name": "Uždaroji akcinė bendrovė KNIAUDIŠKIŲ ŠEIMOS KLINIKA",
@@ -2972,6 +3006,10 @@
     "address": "Vilnius, Elnių g. 27-94, LT-08101"
   },
   {
+    "name": "V. Jasaičio veterinarinė klinika",
+    "code": "177115176"
+  },
+  {
     "name": "V. Šiaudvyčio veterinarinė klinika",
     "code": "177114074",
     "address": "Šilutės r. sav., Katyčiai, Gluosnių g. 26, LT-99224"
@@ -2992,6 +3030,11 @@
     "code": "300043549",
     "address": "Vilnius, Ukmergės g. 220, LT-07157",
     "vatcode": "LT100018134416"
+  },
+  {
+    "name": "VeNiMed šeimos klinika, UAB",
+    "code": "158349317",
+    "address": "Jurbarko r. sav., Veliuona, Veliuonėlės g. 7A, LT-74441"
   },
   {
     "name": "Viešoji įstaiga \"DIA klinika\"",

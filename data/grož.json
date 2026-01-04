@@ -25,6 +25,10 @@
     "address": "Vilnius, Justiniškių g. 109-46, LT-05251"
   },
   {
+    "name": "A. Balčiūno firma \"GROŽIO KALVĖ\"",
+    "code": "147875426"
+  },
+  {
     "name": "D. Lukošiūnienės grožio salonas \"MONRIDA\"",
     "code": "241904740",
     "address": "Klaipėda, Bangų g. 9-1, LT-91250"
@@ -33,6 +37,11 @@
     "name": "Erich grožio namai, MB",
     "code": "305622240",
     "address": "Šiauliai, Dubijos g. 1A-100, LT-77158"
+  },
+  {
+    "name": "Estetikos ir grožio darna",
+    "code": "307519584",
+    "address": "Kėdainių r. sav., Pelėdnagių sen., Pašilių k., Sodų g. 68, LT-58152"
   },
   {
     "name": "G spot grožio studija, MB",
@@ -594,11 +603,6 @@
     "address": "Šakiai, Justino Staugaičio g. 12, LT-71130"
   },
   {
-    "name": "MB \"Ramutės Babičienės grožio namai\"",
-    "code": "304231153",
-    "address": "Kaunas, Kranto 3-ioji g. 11, LT-45274"
-  },
-  {
     "name": "MB \"Resthetica grožio namai\"",
     "code": "307023022",
     "address": "Kaišiadorių r. sav., Kaišiadorių apylinkės sen., Gudienos k., Bartaičių g. 15, LT-56115"
@@ -1044,7 +1048,8 @@
   {
     "name": "MB Tamo grožio loftas",
     "code": "307483412",
-    "address": "Kaunas, Šarkuvos g. 9-25, LT-48155"
+    "address": "Kaunas, Šarkuvos g. 9-25, LT-48155",
+    "vatcode": "LT100019348515"
   },
   {
     "name": "MB Vilniaus masažo ir grožio klinika",
@@ -1325,6 +1330,10 @@
     "address": "Šiauliai, Gytarių g. 43-42, LT-78413"
   },
   {
+    "name": "UAB \"Grožio imperija\"",
+    "code": "160288615"
+  },
+  {
     "name": "UAB \"Grožio industrijos\"",
     "code": "304435743",
     "address": "Vilnius, Trinapolio g. 11C-3, LT-08338"
@@ -1457,12 +1466,6 @@
     "name": "UAB \"Grožio prieskoniai\"",
     "code": "303914395",
     "address": "Vilnius, Žirmūnų g. 129-35, LT-09121"
-  },
-  {
-    "name": "UAB \"Grožio profesionalams\"",
-    "code": "304708327",
-    "address": "Kaunas, Baltijos g. 8-62, LT-48245",
-    "vatcode": "LT100011272417"
   },
   {
     "name": "UAB \"Grožio projektai\"",
@@ -1605,6 +1608,10 @@
     "address": "Kėdainiai, Žemaitės g. 32-58, LT-57194"
   },
   {
+    "name": "UAB Grožio salonas \"JUMS\"",
+    "code": "145304731"
+  },
+  {
     "name": "UAB Grožio studija \"Divalta\"",
     "code": "304127083",
     "address": "Vilnius, A. Juozapavičiaus g. 6A, LT-09310",
@@ -1742,6 +1749,10 @@
     "address": "Kaunas, Vyšniavos g. 7-7, LT-44428"
   },
   {
+    "name": "VšĮ \"Rasos grožio terapija\"",
+    "code": "305327891"
+  },
+  {
     "name": "VšĮ Grožio intriga",
     "code": "300131426",
     "address": "Trakų r. sav., Lentvaris, Ežero g. 5-26, LT-25106"
@@ -1750,11 +1761,6 @@
     "name": "VšĮ Monikos grožio akademija",
     "code": "304171585",
     "address": "Šiauliai, Dvaro g. 123A, LT-76208"
-  },
-  {
-    "name": "VšĮ Viktorijos grožio namai",
-    "code": "305188299",
-    "address": "Vilniaus r. sav., Paberžės sen., Visalaukės I k., Didžioji g. 37-4, LT-15101"
   },
   {
     "name": "VšĮ Visuomenės sveikatingumo, grožio ir harmonijos centras",

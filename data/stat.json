@@ -183,7 +183,8 @@
   {
     "name": "MB \"Statau renovuoju\"",
     "code": "307506291",
-    "address": "Vilnius, Ulonų g. 5, LT-08240"
+    "address": "Vilnius, Ulonų g. 5, LT-08240",
+    "vatcode": "LT100019348010"
   },
   {
     "name": "Statau tvorą, MB",
@@ -313,6 +314,11 @@
     "name": "MB \"Statbustas\"",
     "code": "307040598",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+  },
+  {
+    "name": "UAB \"STATBUY\"",
+    "code": "307525078",
+    "address": "Vilnius, Architektų g. 111-53, LT-04211"
   },
   {
     "name": "UAB \"STATCHEMA\"",
@@ -689,7 +695,7 @@
   {
     "name": "UAB \"STATGREITA\"",
     "code": "301722841",
-    "address": "Vilnius, Birbynių g. 4, LT-02121",
+    "address": "Vilnius, Kazbėjų g. 44A, LT-02249",
     "vatcode": "LT100004049119"
   },
   {
@@ -908,6 +914,10 @@
     "vatcode": "LT100004133411"
   },
   {
+    "name": "UAB \"Jono statiniai\"",
+    "code": "300520993"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Hidrotechniniai statiniai\"",
     "code": "166636338",
     "address": "Mažeikių r. sav., Viekšniai, Tilto g. 20-2, LT-89492",
@@ -928,7 +938,7 @@
   {
     "name": "MB \"Techniniai statinio tyrimai\"",
     "code": "306237201",
-    "address": "Vilnius, Musninkų g. 5-77, LT-07186"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "UAB \"Statinio konstrukcijos\"",
@@ -1094,6 +1104,10 @@
     "address": "Raseinių r. sav., Girkalnio sen., Girkalnio k., Ūkio g. 1, LT-60312"
   },
   {
+    "name": "Ignalinos rajono Bernotų melioracijos statinių naudotojų asociacija",
+    "code": "302571659"
+  },
+  {
     "name": "Ignalinos rajono Ringės melioracijos statinių naudotojų asociacija",
     "code": "302454410",
     "address": "Ignalinos r. sav., Naujojo Daugėliškio sen., Naujojo Daugėliškio k., Švenčionių g. 11, LT-30290"
@@ -1142,6 +1156,10 @@
     "name": "Kretingos melioracijos sistemų ir statinių naudotojų asociacija",
     "code": "302501080",
     "address": "Kretinga, Jono Karolio Chodkevičiaus g. 10-101, LT-97130"
+  },
+  {
+    "name": "Kupiškio seniūnijos Šepetos melioracijos statinių naudotojų asociacija",
+    "code": "301792124"
   },
   {
     "name": "Lietuvos projektų ir statinių ekspertų asociacija",
@@ -1199,9 +1217,9 @@
     "vatcode": "LT100016349813"
   },
   {
-    "name": "Melioracijos sistemų ir hidrotechninių statinių naudotojų asociacija \"Kesiai\"",
-    "code": "303166126",
-    "address": "Akmenės r. sav., Akmenė, K. Kasakausko g. 14, LT-85367"
+    "name": "MB Statinių priežiūros sprendimai",
+    "code": "307515148",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
   },
   {
     "name": "Melioracijos statinių naudotojų asociacija \"Agluonos intakas\"",
@@ -1302,11 +1320,6 @@
     "name": "Melioracijos statinių naudotojų asociacija \"Leitgirių melioracija\"",
     "code": "307107431",
     "address": "Šilutės r. sav., Juknaičių sen., Juknaičių k., Beržų g. 7, LT-99332"
-  },
-  {
-    "name": "Melioracijos statinių naudotojų asociacija \"Lembo raistai\"",
-    "code": "304154034",
-    "address": "Šilalės r. sav., Kvėdarnos sen., Lembo k., Rietavo g. 57, LT-75341"
   },
   {
     "name": "Melioracijos statinių naudotojų asociacija \"Lugnelė\"",
@@ -1512,6 +1525,10 @@
     "name": "Pasvalio rajono Joniškėlio apylinkių seniūnijos melioracijos statinių naudotojų asociacija",
     "code": "302447191",
     "address": "Pasvalio r. sav., Joniškėlio apylinkių sen., Meškalaukio k., Tėviškės g. 53, LT-39309"
+  },
+  {
+    "name": "Pasvalio rajono Nečionių k. melioracijos statinių naudotojų asociacija",
+    "code": "302441007"
   },
   {
     "name": "Paulių melioracijos statinių naudotojų asociacija",
@@ -1765,11 +1782,6 @@
     "address": "Kupiškio r. sav., Šimonių sen., Puožo k. 7, LT-40313"
   },
   {
-    "name": "Širvintų rajono Pociūniškio Melioracijos statinių naudotojų asociacija",
-    "code": "303145908",
-    "address": "Vilnius, P. Žadeikos g. 15-1, LT-06328"
-  },
-  {
     "name": "Šlapių Priemiesčio kaimo melioracijos statinių naudotojų asocijacija",
     "code": "304063378",
     "address": "Ukmergės r. sav., Vidiškių sen., Šlapių Priemiesčio k., Aplinkkelio g. 24, LT-20135"
@@ -1881,6 +1893,10 @@
     "vatcode": "LT100011925712"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Statisa\"",
+    "code": "250085610"
+  },
+  {
     "name": "UAB \"Statista\"",
     "code": "300593799",
     "address": "Švenčionys, A. Rymo g. 10, LT-18111",
@@ -1935,6 +1951,10 @@
     "vatcode": "LT348580411"
   },
   {
+    "name": "Lazdijų rajono Statiškės krašto bendruomenės komitetas",
+    "code": "302333921"
+  },
+  {
     "name": "UAB \"Statja\"",
     "code": "306438745",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
@@ -1981,6 +2001,10 @@
     "vatcode": "LT793820113"
   },
   {
+    "name": "R. A. Statkauskaitės įmonė \"DŽIUGENA\"",
+    "code": "125810956"
+  },
+  {
     "name": "UAB \"Statkeita\"",
     "code": "306679778",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
@@ -2001,6 +2025,10 @@
     "name": "Vaidos Statkevič IĮ",
     "code": "304453022",
     "address": "Varėnos r. sav., Merkinės sen., Ilgininkų k., Ryto g. 16, LT-65331"
+  },
+  {
+    "name": "P. Statkevičiaus individuali paslaugų įmonė \"Žydrė\"",
+    "code": "132009567"
   },
   {
     "name": "Šilalės Vlado Statkevičiaus muziejus",
@@ -2051,6 +2079,10 @@
     "code": "303249091",
     "address": "Vilnius, Laisvės pr. 60, LT-05120",
     "vatcode": "LT100010479815"
+  },
+  {
+    "name": "UAB \"STATLANGA\"",
+    "code": "302785353"
   },
   {
     "name": "MB \"Statlera\"",
@@ -2122,7 +2154,8 @@
   {
     "name": "UAB \"Statmaxa\"",
     "code": "307443147",
-    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380",
+    "vatcode": "LT100019367915"
   },
   {
     "name": "MB Statmecha",
@@ -2448,6 +2481,10 @@
     "vatcode": "LT100018934518"
   },
   {
+    "name": "MB AD stato",
+    "code": "305770709"
+  },
+  {
     "name": "MB Edt stato",
     "code": "306022088",
     "address": "Vilnius, Perkūnkiemio g. 33-42, LT-12138",
@@ -2562,6 +2599,10 @@
     "name": "MB Statogesta",
     "code": "307094432",
     "address": "Mažeikiai, Žemaitijos g. 17-3, LT-89136"
+  },
+  {
+    "name": "UAB \"Statoja\"",
+    "code": "302327530"
   },
   {
     "name": "MB Statoka",
@@ -2830,6 +2871,10 @@
     "vatcode": "LT100009645515"
   },
   {
+    "name": "UAB \"Statotyra\"",
+    "code": "300524504"
+  },
+  {
     "name": "MB \"Statoveda\"",
     "code": "306864353",
     "address": "Šilutės r. sav., Kintai, Kuršių g. 12-4, LT-99358"
@@ -2953,6 +2998,10 @@
     "vatcode": "LT100011817311"
   },
   {
+    "name": "Uždarosios akcinės bendrovės \"Statreksas\" TŪB",
+    "code": "145820324"
+  },
+  {
     "name": "UAB \"STATREM\"",
     "code": "302944859",
     "address": "Mažeikiai, Laižuvos g. 87, LT-89213"
@@ -3015,6 +3064,10 @@
     "vatcode": "LT100019173019"
   },
   {
+    "name": "Individuali įmonė \"Statrima\"",
+    "code": "300664381"
+  },
+  {
     "name": "MB Statro",
     "code": "306083529",
     "address": "Kauno r. sav., Domeikavos sen., Varluvos k., Ąžuolyno g. 18, LT-54341",
@@ -3023,7 +3076,7 @@
   {
     "name": "MB STATROBA",
     "code": "307043676",
-    "address": "Šiauliai, Lyros g. 11-52, LT-78275",
+    "address": "Šiauliai, Ežero g. 8-23, LT-77141",
     "vatcode": "LT100017544514"
   },
   {
@@ -3095,6 +3148,10 @@
     "name": "MB \"Statugna\"",
     "code": "305925682",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+  },
+  {
+    "name": "Neringos Statulevičienės įmonė",
+    "code": "145624592"
   },
   {
     "name": "UAB \"Bonum statum\"",
@@ -3369,7 +3426,8 @@
   {
     "name": "MB \"Statvolt\"",
     "code": "307384567",
-    "address": "Mažeikiai, Žemaitijos g. 46, LT-89191"
+    "address": "Mažeikiai, Žemaitijos g. 46, LT-89191",
+    "vatcode": "LT100019339917"
   },
   {
     "name": "MB Statvytis",
@@ -3463,10 +3521,18 @@
     "vatcode": "LT223545314"
   },
   {
+    "name": "Albino Usonio tikroji ūkinė bendrija \"Statyba\"",
+    "code": "266438250"
+  },
+  {
     "name": "Alg statyba, MB",
     "code": "307080436",
     "address": "Vilnius, Algirdo g. 31-400, LT-03219",
     "vatcode": "LT100017783713"
+  },
+  {
+    "name": "Architekto Janso paslaugų biuras \"Projektavimas-statyba-interjerai-komercija\"",
+    "code": "221121740"
   },
   {
     "name": "Bendra Lietuvos ir Kanados įmonė uždaroji akcinė bendrovė \"Architektūra, dizainas ir statyba\"",
@@ -3492,8 +3558,7 @@
   {
     "name": "Deivido statyba 24 Lt, MB",
     "code": "307102854",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112",
-    "vatcode": "LT100017805119"
+    "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
     "name": "Gamyba ir statyba MB",
@@ -3533,6 +3598,11 @@
     "code": "307001346",
     "address": "Vilnius, Sporto g. 7-31, LT-09238",
     "vatcode": "LT100017807115"
+  },
+  {
+    "name": "Ilvestos statyba, UAB",
+    "code": "307530577",
+    "address": "Jurbarko r. sav., Jurbarkų sen., Vilniškių k., Vidaujos g. 18A, LT-74261"
   },
   {
     "name": "Individuali įmonė \"Arnoldo statyba\"",
@@ -3584,6 +3654,10 @@
     "code": "164592747",
     "address": "Neringa, Žaliasis kel. 3-1, LT-93102",
     "vatcode": "LT645927410"
+  },
+  {
+    "name": "IĮ \"Markevičiaus Povilo statyba\"",
+    "code": "303997850"
   },
   {
     "name": "IĮ \"Modernaus projekto statyba\"",
@@ -4597,6 +4671,10 @@
     "code": "306697324",
     "address": "Klaipėda, Rumpiškės g. 5-27A, LT-91129",
     "vatcode": "LT100016729417"
+  },
+  {
+    "name": "MB \"Statyba EU\"",
+    "code": "305786097"
   },
   {
     "name": "MB \"Statyba HD\"",
@@ -6190,6 +6268,10 @@
     "vatcode": "LT100014678519"
   },
   {
+    "name": "UAB \"Ekonomiška statyba\"",
+    "code": "300545217"
+  },
+  {
     "name": "UAB \"Elektrėnų statyba\"",
     "code": "181641253",
     "address": "Elektrėnų sav., Kietaviškių sen., Obenių k., Obenių g. 6, LT-21414",
@@ -6206,6 +6288,10 @@
     "code": "277074990",
     "address": "Šilutė, Nemuno g. 12A, LT-99150",
     "vatcode": "LT770749917"
+  },
+  {
+    "name": "UAB \"Eros statyba\"",
+    "code": "300629619"
   },
   {
     "name": "UAB \"Europos investicijos ir statyba\"",
@@ -6238,8 +6324,15 @@
   {
     "name": "UAB \"GR statyba\"",
     "code": "305737171",
-    "address": "Šiaulių r. sav., Bubių sen., Bubių k., Klevų g. 3, LT-80203",
-    "vatcode": "LT100014384918"
+    "address": "Šiaulių r. sav., Bubių sen., Bubių k., Klevų g. 3, LT-80203"
+  },
+  {
+    "name": "UAB \"GRAND STATYBA\"",
+    "code": "300147804"
+  },
+  {
+    "name": "UAB \"GREGO STATYBA\"",
+    "code": "300668878"
   },
   {
     "name": "UAB \"GRU statyba\"",
@@ -6323,6 +6416,10 @@
     "name": "UAB \"ID statyba\"",
     "code": "305049043",
     "address": "Visaginas, Sedulinos al. 67-18, LT-31229"
+  },
+  {
+    "name": "UAB \"ISAR STATYBA\"",
+    "code": "300669542"
   },
   {
     "name": "UAB \"IVRO STATYBA\"",
@@ -6519,6 +6616,10 @@
     "vatcode": "LT100009002614"
   },
   {
+    "name": "UAB \"Lijado statyba\"",
+    "code": "300960715"
+  },
+  {
     "name": "UAB \"Litimberos statyba\"",
     "code": "304458375",
     "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Kvietinių k., Pakalnės g. 5, LT-96176"
@@ -6659,6 +6760,10 @@
     "vatcode": "LT100019076713"
   },
   {
+    "name": "UAB \"Mimetos statyba\"",
+    "code": "304597332"
+  },
+  {
     "name": "UAB \"Mindaugo statyba\"",
     "code": "304032429",
     "address": "Vilnius, Justiniškių g. 146, LT-06153",
@@ -6725,7 +6830,7 @@
   {
     "name": "UAB \"NT statyba\"",
     "code": "305100908",
-    "address": "Vilniaus r. sav., Pagirių sen., Vaidotų k., Rėvos g. 4A, LT-14147"
+    "address": "Vilniaus r. sav."
   },
   {
     "name": "UAB \"Nalšios statyba\"",
@@ -6774,7 +6879,8 @@
   {
     "name": "UAB \"Novvo statyba\"",
     "code": "306348333",
-    "address": "Vilnius, Ukmergės g. 239-302, LT-07100"
+    "address": "Vilnius, Ukmergės g. 239-302, LT-07100",
+    "vatcode": "LT100019300914"
   },
   {
     "name": "UAB \"Oskaro statyba\"",
@@ -7452,6 +7558,10 @@
     "vatcode": "LT100003441719"
   },
   {
+    "name": "UAB \"VTD Statyba\"",
+    "code": "301673091"
+  },
+  {
     "name": "UAB \"VYTAUTO STATYBA\"",
     "code": "300582767",
     "address": "Vilnius, S. Stanevičiaus g. 18-17, LT-07124",
@@ -7490,8 +7600,7 @@
   {
     "name": "UAB \"Valiaus statyba\"",
     "code": "306324916",
-    "address": "Vilnius, Treniotos g. 2-12, LT-08121",
-    "vatcode": "LT100016034913"
+    "address": "Vilnius, Treniotos g. 2-12, LT-08121"
   },
   {
     "name": "UAB \"Valkos statyba\"",
@@ -7812,7 +7921,8 @@
   {
     "name": "UAB MJ Statyba",
     "code": "304796754",
-    "address": "Neringa, Kopų g. 7-9, LT-93122"
+    "address": "Kaunas, Veiverių g. 139, LT-46389",
+    "vatcode": "LT100019385610"
   },
   {
     "name": "UAB MMS statyba",
@@ -7843,6 +7953,12 @@
     "code": "305974918",
     "address": "Vilnius, Ramybės g. 4-70, LT-02103",
     "vatcode": "LT100015434419"
+  },
+  {
+    "name": "UAB NC statyba",
+    "code": "301151474",
+    "address": "Vilnius, Taikos g. 165-10, LT-05208",
+    "vatcode": "LT100003547119"
   },
   {
     "name": "UAB NI Statyba",
@@ -8018,6 +8134,10 @@
     "vatcode": "LT675845414"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"BALTLANTOS STATYBA\"",
+    "code": "142054831"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"COSMA STATYBA\"",
     "code": "110881043",
     "address": "Vilnius, Žirmūnų g. 68, LT-09124"
@@ -8110,7 +8230,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"NORLIT STATYBA\"",
     "code": "300528716",
-    "address": "Ukmergės r. sav., Vidiškių sen., Pijorų k.",
+    "address": "Ukmergė, Mėlynių g. 2-1, LT-20164",
     "vatcode": "LT100002980413"
   },
   {
@@ -8353,7 +8473,7 @@
   {
     "name": "MB Statybiniai sprendimai",
     "code": "306236829",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Kalotės k., Kalotės g. 8, LT-92284",
+    "address": "Palanga, Molo g. 46, LT-00340",
     "vatcode": "LT100015696018"
   },
   {
@@ -8961,10 +9081,22 @@
     "address": "Šilalės r. sav., Kvėdarnos sen., Kvėdarnos k., Taikos g. 60, LT-75342"
   },
   {
+    "name": "N. Omeljaniuko statybinė firma \"VEIKSMAS\"",
+    "code": "141713321"
+  },
+  {
     "name": "R. Bružo statybinė įmonė",
     "code": "135643612",
     "address": "Kaunas, Žuvinto g. 5A-14, LT-51419",
     "vatcode": "LT356436113"
+  },
+  {
+    "name": "R. Mikalausko statybinė firma",
+    "code": "140558512"
+  },
+  {
+    "name": "S. Kaminsko projektavimo statybinė firma \"Profi Baltic\"",
+    "code": "233267030"
   },
   {
     "name": "Statybinė-komercinė uždaroji akcinė bendrovė \"RAMSTIS\"",
@@ -9000,6 +9132,10 @@
     "name": "UAB LEIDA STATYBINĖ TECHNIKA",
     "code": "111640839",
     "address": "Vilniaus r. sav., Avižienių sen., Mažosios Riešės vs., Kalno g. 15, LT-14330"
+  },
+  {
+    "name": "V. Stupako gamybinė - statybinė įmonė \"KLEVAS\"",
+    "code": "181128966"
   },
   {
     "name": "D. Petraitienės įmonė \"INTELIGENTIŠKOS STATYBINĖS SISTEMOS\"",
@@ -9072,8 +9208,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Jonavos statybinės medžiagos\"",
     "code": "156695758",
-    "address": "Jonava, Darbininkų g. 7, LT-55101",
-    "vatcode": "LT566957515"
+    "address": "Jonava, Darbininkų g. 7, LT-55101"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"STATYBINĖS IR APDAILOS PREKĖS\"",
@@ -9899,6 +10034,10 @@
     "address": "Vilnius, Karaliaučiaus g. 8-41, LT-06208"
   },
   {
+    "name": "28-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija",
+    "code": "124760347"
+  },
+  {
     "name": "280-oji garažų statybos ir eksploatavimo bendrija",
     "code": "135410049",
     "address": "Kaunas, V. Krėvės pr. 124, LT-51117"
@@ -10322,7 +10461,7 @@
   {
     "name": "37-oji garažų statybos ir eksploatavimo bendrija",
     "code": "148494727",
-    "address": "Panevėžys, Pelkių g. 12C"
+    "address": "Panevėžys, Pelkių g. 14B K10-8, LT-37461"
   },
   {
     "name": "37-oji laikina metalinių garažų statybos ir eksploatavimo bendrija",
@@ -10964,6 +11103,10 @@
     "name": "511-oji garažų statybos ir eksploatavimo bendrija",
     "code": "125062516",
     "address": "Vilnius, Viršuliškių g. 33A, LT-05101"
+  },
+  {
+    "name": "512-oji gyvenamojo namo statybos bendrija",
+    "code": "124792722"
   },
   {
     "name": "513-oji garažų statybos ir eksploatavimo bendrija",
@@ -11812,6 +11955,10 @@
     "address": "Panevėžys, Staniūnų g. 103B, LT-36159"
   },
   {
+    "name": "878-oji Vilniaus miesto gyvenamųjų namų statybos bendrija",
+    "code": "126022923"
+  },
+  {
     "name": "88-oji garažų statybos ir eksploatavimo bendrija",
     "code": "135391759",
     "address": "Kaunas, A. Baranausko g. 1A, LT-50256"
@@ -11917,6 +12064,14 @@
     "address": "Panevėžys, Pušaloto g. 203, LT-35291"
   },
   {
+    "name": "A. Adomaičio statybos darbų įmonė",
+    "code": "166672569"
+  },
+  {
+    "name": "A. P. Baranausko statybos darbų įmonė",
+    "code": "167372336"
+  },
+  {
     "name": "ALGIO STANCELIO INDIVIDUALI ĮMONĖ \"STATYBOS REMONTO DARBAI\"",
     "code": "300563489",
     "address": "Vilnius, Tyzenhauzų g. 21-2, LT-02106"
@@ -11934,7 +12089,7 @@
   {
     "name": "Akcinės bendrovės \"Lotas\" Šiaulių statybos ir remonto baras",
     "code": "144859324",
-    "address": "Šiauliai, Gamybos g. 5, LT-76128"
+    "address": "Šiaulių m. sav."
   },
   {
     "name": "Babilono gyvenvietės individualių namų statybos bendrija",
@@ -12645,7 +12800,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Minija\"",
     "code": "180742915",
-    "address": "Telšiai, Pasvaigės g."
+    "address": "Telšiai, Pasvaigės g. 4A, LT-87104"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Mokolai\"",
@@ -13320,7 +13475,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Užuovėja\" Nr.4",
     "code": "186494533",
-    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Gamyklos g. 40A"
+    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Gamyklos g. 54A, LT-13251"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"VAIRAS\"",
@@ -13731,11 +13886,6 @@
     "name": "Garažų statybos ir eksploatavimo bendrija \"Žvejų\"",
     "code": "307031268",
     "address": "Anykščiai, A. Vienuolio g. 11-4, LT-29147"
-  },
-  {
-    "name": "Garažų statybos ir eksploatavimo bendrija \"Žvyrakalnis\"",
-    "code": "167610556",
-    "address": "Molėtai, J. Janonio g. 34, LT-33130"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija Nr. 10",
@@ -14341,6 +14491,10 @@
     "address": "Radviliškis, Parko g. 5, LT-82158"
   },
   {
+    "name": "Gyvenamųjų namų statybos bendrija \"Sudmantų sodyba\"",
+    "code": "300569403"
+  },
+  {
     "name": "Gyvenamųjų namų statybos bendrija \"Sūkurio gyventojai\"",
     "code": "300146766",
     "address": "Klaipėda, Sūkurio g. 10, LT-92281"
@@ -14576,6 +14730,10 @@
     "name": "Lietuvos projektavimo valdytojų ir statybos valdytojų asociacija",
     "code": "305062884",
     "address": "Šiauliai, Žemaitės g. 99B, LT-76212"
+  },
+  {
+    "name": "Lietuvos statybos inžinierių profesinė sąjunga",
+    "code": "190786988"
   },
   {
     "name": "Lietuvos statybos inžinierių sąjunga",
@@ -14965,6 +15123,11 @@
     "code": "303928352",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
     "vatcode": "LT100017465117"
+  },
+  {
+    "name": "MB \"Statybos saugos ir sveikatos koordinatoriaus paslaugos\"",
+    "code": "307520615",
+    "address": "Kauno r. sav., Lapių sen., Tauralaukio k., Pušyno g. 24, LT-54415"
   },
   {
     "name": "MB \"Statybos tau\"",
@@ -15440,9 +15603,21 @@
     "address": "Plungė, Turgaus g. 1, LT-90164"
   },
   {
+    "name": "Privati Danieliaus Daškevičiaus statybos ir paslaugų įmonė \"SRAUJA\"",
+    "code": "121355272"
+  },
+  {
     "name": "Pušaloto g. 128B garažų statybos bendrija",
     "code": "304602726",
     "address": "Panevėžys, Parko g. 61-36, LT-37320"
+  },
+  {
+    "name": "R. Arlauskio statybos ir remonto darbų baras",
+    "code": "180189158"
+  },
+  {
+    "name": "R. P. Jaruševičiaus statybos paslaugų firma",
+    "code": "124611111"
   },
   {
     "name": "R. Vaičio statybos firma",
@@ -15595,6 +15770,10 @@
     "code": "300550328",
     "address": "Vilnius, Birutės g. 56-57, LT-08110",
     "vatcode": "LT100002278718"
+  },
+  {
+    "name": "UAB \"Baltijos statybos verslo grupė\"",
+    "code": "302514900"
   },
   {
     "name": "UAB \"Bebrų statybos\"",
@@ -16040,11 +16219,6 @@
     "vatcode": "LT100010379213"
   },
   {
-    "name": "UAB \"Vidmanto statybos\"",
-    "code": "304695513",
-    "address": "Klaipėda, Nidos g. 76-9, LT-93179"
-  },
-  {
     "name": "UAB \"Visi statybos darbai\"",
     "code": "304470744",
     "address": "Ukmergė, Miškų g. 40A, LT-20157",
@@ -16216,6 +16390,10 @@
     "address": "Kaunas, K. Čerbulėno g. 13-10, LT-47239"
   },
   {
+    "name": "UAB Statybos konsultacijų ir projektų biuras",
+    "code": "123678580"
+  },
+  {
     "name": "UAB Statybos teisė",
     "code": "307074465",
     "address": "Klaipėda, H. Manto g. 6-15, LT-92133"
@@ -16313,6 +16491,10 @@
     "code": "134325749",
     "address": "Kaunas, Totorių g. 3, LT-44237",
     "vatcode": "LT343257414"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Statybos laimė\"",
+    "code": "301673198"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Statybos montavimo darbai\"",
@@ -16537,6 +16719,10 @@
     "address": "Kaunas, Geležinio Vilko g. 6-8, LT-49187"
   },
   {
+    "name": "UAB \"Statybuteka\"",
+    "code": "304760263"
+  },
+  {
     "name": "UAB \"Statybvietė\"",
     "code": "125393968",
     "address": "Vilnius, Bajorų kel. 27-20, LT-08467",
@@ -16561,6 +16747,10 @@
     "name": "IĮ \"Statybų ekspresas\"",
     "code": "300659270",
     "address": "Panevėžys, Margių g. 5-4, LT-35204"
+  },
+  {
+    "name": "IĮ \"Statybų jūra\"",
+    "code": "301743853"
   },
   {
     "name": "KŪB \"Statybų valdymas ir techninė kontrolė\"",
@@ -16644,7 +16834,7 @@
   {
     "name": "MB \"Statybų Valdymas 2\"",
     "code": "306507586",
-    "address": "Klaipėda, Birutės g. 18-2, LT-91210",
+    "address": "Klaipėda, Minijos g. 122-59, LT-93241",
     "vatcode": "LT100016336515"
   },
   {
@@ -16667,7 +16857,8 @@
   {
     "name": "MB \"Statybų asorti\"",
     "code": "305889250",
-    "address": "Telšių r. sav., Viešvėnų sen., Viešvėnų I k., Judros g. 41, LT-88405"
+    "address": "Telšių r. sav., Viešvėnų sen., Viešvėnų I k., Judros g. 41, LT-88405",
+    "vatcode": "LT100019390617"
   },
   {
     "name": "MB \"Statybų aspektas\"",
@@ -16847,6 +17038,10 @@
     "name": "MB \"Statybų rojus\"",
     "code": "305146542",
     "address": "Alytus, Naujoji g. 12-525, LT-63250"
+  },
+  {
+    "name": "MB \"Statybų sistemos\"",
+    "code": "304148572"
   },
   {
     "name": "MB \"Statybų skveras\"",
@@ -17089,7 +17284,7 @@
   {
     "name": "MB Statybų plėtros centras",
     "code": "305097675",
-    "address": "Vilnius, Šv. Stepono g. 29-6, LT-01312",
+    "address": "Vilnius, Šv. Stepono g. 29-26, LT-01312",
     "vatcode": "LT100012589517"
   },
   {
@@ -17560,8 +17755,7 @@
   {
     "name": "UAB \"Statybų komanda\"",
     "code": "304172573",
-    "address": "Trakų r. sav., Rūdiškių sen., Tiltų k., Užupio g. 17, LT-21201",
-    "vatcode": "LT100010065910"
+    "address": "Trakų r. sav., Rūdiškių sen., Tiltų k., Užupio g. 17, LT-21201"
   },
   {
     "name": "UAB \"Statybų komplektavimo centras\"",
@@ -17971,6 +18165,10 @@
     "vatcode": "LT420487416"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"AUKŠTUMINIŲ STATYBŲ TECHNOLOGIJOS\"",
+    "code": "148133627"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"AUKŠTUMINIŲ STATYBŲ TECHNOLOGIJOS\" IR KO",
     "code": "148357618",
     "address": "Panevėžys, J. Janonio g. 5, LT-35101",
@@ -18042,6 +18240,11 @@
     "name": "MB \"Statyk man\"",
     "code": "306700069",
     "address": "Kaunas, V. Krėvės pr. 15-25, LT-49486"
+  },
+  {
+    "name": "MB DM Griauk & Statyk",
+    "code": "307518062",
+    "address": "Mažeikiai, Draugystės g. 22-39A, LT-89167"
   },
   {
     "name": "MB Griauk ir statyk",
@@ -18169,8 +18372,7 @@
   {
     "name": "Statyta UAB",
     "code": "179495880",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
-    "vatcode": "LT794958811"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
     "name": "UAB \"Vilniaus namų statytojai\"",

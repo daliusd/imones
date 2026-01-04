@@ -419,10 +419,6 @@
     "address": "Klaipėda, Bandužių g. 17-48, LT-95230"
   },
   {
-    "name": "UAB \"Fast Bunkering Klaipėda\"",
-    "code": "301733987"
-  },
-  {
     "name": "UAB \"HARBORT KLAIPĖDA\"",
     "code": "300989688",
     "address": "Klaipėda, Nemuno g. 24, LT-93278",
@@ -485,6 +481,10 @@
     "vatcode": "LT100017325515"
   },
   {
+    "name": "UAB \"MBE Klaipėda\"",
+    "code": "304775913"
+  },
+  {
     "name": "UAB \"MIT KLAIPĖDA\"",
     "code": "300606531",
     "address": "Klaipėda, Kuncų g. 16-25, LT-95204",
@@ -536,6 +536,10 @@
     "code": "300095617",
     "address": "Klaipėda, Paryžiaus Komunos g. 25, LT-91111",
     "vatcode": "LT100001554514"
+  },
+  {
+    "name": "UAB \"UNO TRANSPORT KLAIPĖDA\"",
+    "code": "300556758"
   },
   {
     "name": "UAB \"Valymo projektai Klaipėda\"",
@@ -885,6 +889,10 @@
     "address": "Klaipėda, Ryšininkų g. 11, LT-91116"
   },
   {
+    "name": "AB \"Lietuvos geležinkeliai\" filialo \"Klaipėdos geležinkelių infrastruktūra\" profesinė sąjunga",
+    "code": "191997739"
+  },
+  {
     "name": "AB Artea banko Klaipėdos filialas",
     "code": "112055817",
     "address": "Klaipėda, Taikos pr. 66, LT-93219"
@@ -1054,6 +1062,11 @@
     "address": "Klaipėda, Budelkiemio g. 16-6, LT-95245"
   },
   {
+    "name": "Asociacija Klaipėdos FM inovacijų centras",
+    "code": "307527990",
+    "address": "Klaipėda, Pasvalio g. 3, LT-92307"
+  },
+  {
     "name": "Asociacija Klaipėdos Kaziukas",
     "code": "306661239",
     "address": "Klaipėda, Bokštų g. 3-2, LT-92125"
@@ -1198,11 +1211,6 @@
     "name": "Fechtavimo klubas \"Klaipėdos riteriai\"",
     "code": "304085360",
     "address": "Klaipėda, Naujakiemio g. 24-132, LT-94192"
-  },
-  {
-    "name": "Futbolo akademija \"Klaipėdos koralas\"",
-    "code": "304404349",
-    "address": "Klaipėda, Debreceno g. 5-3, LT-94175"
   },
   {
     "name": "Garažų bendrija \"Klaipėdos pažanga\"",
@@ -1677,6 +1685,10 @@
     "address": "Klaipėda, Statybininkų pr. 39, LT-93159"
   },
   {
+    "name": "Klaipėdos apskrities sporto klubas \"Slėnis\"",
+    "code": "193425975"
+  },
+  {
     "name": "Klaipėdos apskrities tinklinio mėgėjų ir veteranų klubas \"Vilnis\"",
     "code": "193434077",
     "address": "Klaipėda, Vilties g. 6-4, LT-92231"
@@ -2029,6 +2041,10 @@
     "address": "Klaipėda, Naikupės g. 25, LT-93202"
   },
   {
+    "name": "Klaipėdos jūrų krovinių kompanijos labdaros ir paramos fondas",
+    "code": "141858320"
+  },
+  {
     "name": "Klaipėdos kalnų sporto klubas",
     "code": "300103291",
     "address": "Klaipėda, Strėvos g. 5, LT-93240"
@@ -2204,7 +2220,8 @@
   {
     "name": "Klaipėdos licėjus",
     "code": "191832328",
-    "address": "Klaipėda, Kretingos g. 44, LT-92317"
+    "address": "Klaipėda, Kretingos g. 44, LT-92317",
+    "vatcode": "LT100019366112"
   },
   {
     "name": "Klaipėdos literatų klubas \"APLINKA\"",
@@ -2652,6 +2669,10 @@
     "address": "Klaipėda, Smiltynės g. 25, LT-93100"
   },
   {
+    "name": "Klaipėdos miesto kalnų slidinėjimo klubas \"Želsva\"",
+    "code": "141561244"
+  },
+  {
     "name": "Klaipėdos miesto krepšinio klubas \"FORTŪNA\"",
     "code": "141877979",
     "address": "Klaipėda, Paryžiaus Komunos g. 16A, LT-91166"
@@ -3011,7 +3032,7 @@
   {
     "name": "Klaipėdos mokykla \"Da Vinči\", UAB",
     "code": "306221713",
-    "address": "Klaipėda, Vilties g. 4-1, LT-92231",
+    "address": "Klaipėda, Šaulių g. 19-R1, LT-92233",
     "vatcode": "LT100018048218"
   },
   {
@@ -3209,6 +3230,10 @@
     "address": "Gargždai, Pušų g. 37-23, LT-96140"
   },
   {
+    "name": "Klaipėdos rajono gyvulių sėklintojų kooperatyvas",
+    "code": "163739475"
+  },
+  {
     "name": "Klaipėdos rajono jaunųjų talentų paramos fondas",
     "code": "307130661",
     "address": "Kaunas, Europos pr. 122, LT-46351"
@@ -3247,11 +3272,6 @@
     "name": "Klaipėdos rajono medžiotojų klubas \"Šernai\"",
     "code": "163748524",
     "address": "Klaipėdos r. sav., Dovilų sen., Šernų k."
-  },
-  {
-    "name": "Klaipėdos rajono moterų klubas \"Versmė\"",
-    "code": "163739856",
-    "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Kvietinių k."
   },
   {
     "name": "Klaipėdos rajono paramos šeimai centras",
@@ -3561,6 +3581,10 @@
     "address": "Klaipėda, Gedminų g. 18-58, LT-94210"
   },
   {
+    "name": "Klaipėdos sporto klubas \"TITANIKAS\"",
+    "code": "141869911"
+  },
+  {
     "name": "Klaipėdos stačiatikių šventųjų Veros, Nadeždos, Liubovės ir Zofijos parapija",
     "code": "192061020",
     "address": "Klaipėdos miesto savivaldybės teritorija"
@@ -3772,6 +3796,10 @@
     "address": "Klaipėda, Galinio Pylimo g. 16, LT-91232"
   },
   {
+    "name": "Klaipėdos visuomeninė organizacija \"ŽMOGAUS BEIEŠKANT\"",
+    "code": "193363751"
+  },
+  {
     "name": "Klaipėdos vokiškų automobilių klubas",
     "code": "303901857",
     "address": "Klaipėda, Bandužių g. 15-67, LT-95233"
@@ -3943,6 +3971,10 @@
     "address": "Gargždai, Statybininkų g. 12, LT-96155"
   },
   {
+    "name": "Lietuvos judėjimo \"ČERNOBYLIS\" Klaipėdos komiteto individuali įmonė \"AGVA\"",
+    "code": "140631241"
+  },
+  {
     "name": "Lietuvos kaimo turizmo asociacijos Klaipėdos rajono skyrius",
     "code": "163661119",
     "address": "Gargždai, Klaipėdos g. 2, LT-96130"
@@ -4006,6 +4038,14 @@
     "name": "Lietuvos tremtinių sąjungos Klaipėdos skyriaus sodininkų bendrija \"Viltis\"",
     "code": "163672329",
     "address": "Klaipėdos r. sav., Dovilų sen., Kiškėnų k."
+  },
+  {
+    "name": "Lietuvos šaulių sąjungos Klaipėdos apskrities Jūros šaulių 3-osios rinktinės Kretingos šaulių 5-oji kuopa",
+    "code": "264584790"
+  },
+  {
+    "name": "Lietuvos šaulių sąjungos Klaipėdos apskrities jūros šaulių 3 - os rinktinės Gargždų šaulių 9-oji kuopa",
+    "code": "263697130"
   },
   {
     "name": "Lietuvos švietimo darbuotojų profesinės sąjungos Klaipėdos miesto susivienijimas",
@@ -4126,6 +4166,10 @@
     "name": "Mereabi OU Klaipėdos filialas",
     "code": "300004763",
     "address": "Klaipėda, Minijos g. 180, LT-93269"
+  },
+  {
+    "name": "Namų, esančių Klaipėdos g. 3, Vilniuje, savininkų bendrija",
+    "code": "302834462"
   },
   {
     "name": "Naujoji Klaipėdos žuvininkystės vietos veiklos grupė",
@@ -4367,6 +4411,10 @@
     "code": "301557539",
     "address": "Klaipėda, Svajonės g. 30, LT-94101",
     "vatcode": "LT100004141715"
+  },
+  {
+    "name": "UAB \"Klaipėdos agmera\"",
+    "code": "302721621"
   },
   {
     "name": "UAB \"Klaipėdos artelė\"",
@@ -4831,6 +4879,10 @@
     "vatcode": "LT100003074114"
   },
   {
+    "name": "UAB Klaipėdos taksi parkas",
+    "code": "301532265"
+  },
+  {
     "name": "UAB Klaipėdos verslo centras",
     "code": "304973731",
     "address": "Klaipėda, Birutės g. 8, LT-91203",
@@ -4839,7 +4891,8 @@
   {
     "name": "UAB Mažasis Klaipėdos licėjus",
     "code": "305160079",
-    "address": "Klaipėda, Vytauto g. 12-9, LT-92137"
+    "address": "Klaipėda, Vytauto g. 12-9, LT-92137",
+    "vatcode": "LT100019324316"
   },
   {
     "name": "Ukrainos privačios mažosios įmonės \"ŠIES\" Klaipėdos filialas",
@@ -5179,8 +5232,7 @@
   {
     "name": "Viešoji įstaiga \"KLAIPĖDOS IRKLAVIMO CENTRAS\"",
     "code": "140706530",
-    "address": "Klaipėda, Gluosnių skg. 8, LT-91250",
-    "vatcode": "LT407065314"
+    "address": "Klaipėda, Gluosnių skg. 8, LT-91250"
   },
   {
     "name": "Viešoji įstaiga \"KLAIPĖDOS KELEIVINIS TRANSPORTAS\"",
@@ -5589,11 +5641,6 @@
     "name": "VšĮ Klaipėdos rajono vaikų ir jaunimo šokių edukacijos centras",
     "code": "303403529",
     "address": "Gargždai, Dariaus ir Girėno g. 15-17, LT-96143"
-  },
-  {
-    "name": "VšĮ Klaipėdos rankinio centras",
-    "code": "305729178",
-    "address": "Klaipėda, Kintų g. 9, LT-93268"
   },
   {
     "name": "VšĮ Klaipėdos regiono projektai",

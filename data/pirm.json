@@ -195,6 +195,10 @@
     "vatcode": "LT100016304214"
   },
   {
+    "name": "UAB \"Pirmas frontas\"",
+    "code": "300851580"
+  },
+  {
     "name": "UAB \"Pirmas kartas\"",
     "code": "304317175",
     "address": "Vilnius, Pylimo g. 7A-4, LT-01118",
@@ -266,7 +270,8 @@
   {
     "name": "MB Pirmasis būstas",
     "code": "306933447",
-    "address": "Vilniaus r. sav., Nemėžio sen., Murlinės k., Poezijos g. 25, LT-13280"
+    "address": "Vilniaus r. sav., Nemėžio sen., Murlinės k., Poezijos g. 25, LT-13280",
+    "vatcode": "LT100019348616"
   },
   {
     "name": "Stalo teniso klubas \"Pirmasis setas\"",
@@ -369,11 +374,6 @@
     "name": "Gyvenamųjų namų savininkų bendrija \"Pirmieji Smiltynai\"",
     "code": "305221849",
     "address": "Kauno r. sav., Domeikavos sen., Smiltynų I k., Smėlio g. 25, LT-54429"
-  },
-  {
-    "name": "MB Pirmieji namai",
-    "code": "306652845",
-    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
   },
   {
     "name": "MB Pirmieji žingsniai",
@@ -745,11 +745,6 @@
     "address": "Šakiai, V. Kudirkos g. 19, LT-71124"
   },
   {
-    "name": "Viešoji įstaiga Šalčininkų pirminės sveikatos priežiūros centras",
-    "code": "175005172",
-    "address": "Šalčininkai, Nepriklausomybės g. 38, LT-17115"
-  },
-  {
     "name": "Viešoji įstaiga Šeduvos pirminės sveikatos priežiūros centras",
     "code": "271650080",
     "address": "Radviliškio r. sav., Šeduva, Laisvės a. 29, LT-82227"
@@ -770,24 +765,9 @@
     "address": "Jonava, A. Kulviečio g. 8A, LT-55216"
   },
   {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Batėgalos medicinos punktas",
-    "code": "190322849",
-    "address": "Jonavos r. sav., Kulvos sen., Batėgalos k., Rodžių g. 12, LT-55343"
-  },
-  {
     "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Bukonių slaugos ir palaikomojo gydymo skyrius",
     "code": "303413007",
     "address": "Jonavos r. sav., Bukonių sen., Bukonių k., Jaunystės g. 2, LT-55414"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Išorų medicinos punktas",
-    "code": "190325763",
-    "address": "Jonavos r. sav., Užusalių sen., Išorų k., Saulėtekio g. 2, LT-55328"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Kulvos medicinos punktas",
-    "code": "191390867",
-    "address": "Jonavos r. sav., Kulvos sen., Kulvos k., Tarybų g. 6-5, LT-55350"
   },
   {
     "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Panoterių ambulatorija",
@@ -803,21 +783,6 @@
     "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Upninkų ambulatorija",
     "code": "303298487",
     "address": "Jonavos r. sav., Upninkų sen., Upninkų k., Jaunystės g. 7, LT-55486"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Užusalių medicinos punktas",
-    "code": "190325578",
-    "address": "Jonavos r. sav., Užusalių sen., Užusalių k., Taikos g. 27, LT-55333"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Čičinų medicinos punktas",
-    "code": "190322991",
-    "address": "Jonavos r. sav., Kulvos sen., Čičinų k., Sodo g. 4, LT-55243"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Šilų medicinos punktas",
-    "code": "190323221",
-    "address": "Jonavos r. sav., Šilų sen., Šilų k., Lokio g. 5, LT-55463"
   },
   {
     "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Šveicarijos ambulatorija",

@@ -29,8 +29,7 @@
   {
     "name": "Social Light, MB",
     "code": "305939237",
-    "address": "Vilnius, Girulių g. 10, LT-12112",
-    "vatcode": "LT100017201118"
+    "address": "Vilnius, Girulių g. 10, LT-12112"
   },
   {
     "name": "Social TradeX, UAB",
@@ -68,11 +67,6 @@
     "name": "Uždaroji akcinė bendrovė Vilnius social club",
     "code": "306638614",
     "address": "Vilnius, Gedimino pr. 20-47, LT-01103"
-  },
-  {
-    "name": "VšĮ Medway social service",
-    "code": "304772874",
-    "address": "Kauno r. sav., Garliava, Budrių g. 19, LT-53251"
   },
   {
     "name": "VšĮ SOCIAL HUG",
@@ -310,6 +304,10 @@
     "address": "Kaunas, Seniavos pl. 8G, LT-46386"
   },
   {
+    "name": "Viešoji įstaiga \"Socialiniai projektai\"",
+    "code": "301070595"
+  },
+  {
     "name": "VšĮ \"Socialiniai meno projektai\"",
     "code": "302954401",
     "address": "Vilnius, Architektų g. 115-60, LT-04211"
@@ -340,6 +338,10 @@
     "code": "192050725",
     "address": "Vilnius, M. Katkaus g. 44, LT-09217",
     "vatcode": "LT100012270012"
+  },
+  {
+    "name": "Individuali įmonė \"Socialinio verslo grupė\"",
+    "code": "300662708"
   },
   {
     "name": "Lietuvos darbininkų sąjungos Valstybinio socialinio draudimo fondo valdybos Ignalinos rajono skyriaus paslaugų sektoriaus darbuotojų sąjunga",
@@ -931,12 +933,6 @@
     "address": "Rokiškis, J. Basanavičiaus g. 8, LT-42133"
   },
   {
-    "name": "SOCIALINIŲ PASLAUGŲ PLĖTROS FONDAS, UAB",
-    "code": "305557579",
-    "address": "Kalvarijos sav., Kalvarijos sen., Mikališkių k. 4, LT-69228",
-    "vatcode": "LT100015793413"
-  },
-  {
     "name": "Savivaldybės biudžetinė įstaiga Kauno rajono socialinių paslaugų centras",
     "code": "300651302",
     "address": "Kaunas, Ežero g. 23, LT-47166"
@@ -1181,6 +1177,11 @@
     "address": "Vilnius, Žolyno g. 11B-2, LT-10209"
   },
   {
+    "name": "VšĮ \"Socialinių renginių centras\"",
+    "code": "307530634",
+    "address": "Lazdijų r. sav., Veisiejai, Vytauto g. 49, LT-67340"
+  },
+  {
     "name": "VšĮ \"Tarptautinis socialinių inovacijų institutas\"",
     "code": "306274096",
     "address": "Šiauliai, A. Mickevičiaus g. 19-55, LT-77162"
@@ -1245,6 +1246,10 @@
     "name": "VšĮ Socialinių paslaugų konsultacijos centras",
     "code": "304921898",
     "address": "Klaipėda, Aušros g. 10, LT-92278"
+  },
+  {
+    "name": "VšĮ Socialinių sprendimų biuras",
+    "code": "304607666"
   },
   {
     "name": "VšĮ Socialinių sprendimų institutas",
@@ -1839,6 +1844,10 @@
     "address": "Radviliškio r. sav., Šeduva, Vilniaus g. 4A"
   },
   {
+    "name": "Senjorų socialinės globos namų sveikatos apsaugos darbuotojų profesinė sąjunga",
+    "code": "304581292"
+  },
+  {
     "name": "Skemų socialinės globos namai",
     "code": "190796039",
     "address": "Rokiškio r. sav., Rokiškio kaimiškoji sen., Skemų k., Klevų g. 10, LT-42101"
@@ -1971,9 +1980,8 @@
     "address": "Vilnius, A. Vivulskio g. 13, LT-03162"
   },
   {
-    "name": "VIEŠOJI ĮSTAIGA SOCIALINĖS ATSAKOMYBĖS CENTRAS",
-    "code": "125866136",
-    "address": "Vilnius, Žalgirio g. 131-1, LT-08217"
+    "name": "Vaikų socialinės reabilitacijos centras",
+    "code": "160330975"
   },
   {
     "name": "Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos",
@@ -1990,6 +1998,10 @@
     "name": "Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba prie Socialinės apsaugos ir darbo ministerijos",
     "code": "188752021",
     "address": "Vilnius, Labdarių g. 8, LT-01120"
+  },
+  {
+    "name": "Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos darbuotojų profesinė sąjunga",
+    "code": "303500960"
   },
   {
     "name": "Veisiejų socialinės globos namai",
@@ -2116,6 +2128,11 @@
     "address": "Vilkaviškis, Vysk. A. Karoso g. 5, LT-70141"
   },
   {
+    "name": "Vilkaviškio socialinės pagalbos centro darbuotojų profesinė sąjunga",
+    "code": "307527976",
+    "address": "Kalvarija, V. Kudirkos skg. 3, LT-69202"
+  },
+  {
     "name": "Vilniaus miesto socialinės paramos centro profesinė sąjunga",
     "code": "300127698",
     "address": "Vilnius, Kauno g. 3, LT-01314"
@@ -2234,7 +2251,8 @@
   {
     "name": "VšĮ Socialinės terapijos namai",
     "code": "304834525",
-    "address": "Kauno r. sav., Garliava, J. Biliūno g. 22, LT-53257"
+    "address": "Kauno r. sav., Garliava, J. Biliūno g. 22, LT-53257",
+    "vatcode": "LT100019348212"
   },
   {
     "name": "VšĮ Vakarų Lietuvos socialinės gerovės ir kultūros plėtros centras",
@@ -2250,6 +2268,10 @@
     "name": "Zarasų socialinės globos namai",
     "code": "190797130",
     "address": "Zarasai, Aušros g. 18B, LT-32133"
+  },
+  {
+    "name": "Šiaulių m. socialinės apsaugos sistemos darbuotojų profesinė sąjunga",
+    "code": "302453283"
   },
   {
     "name": "Šilutės rajono savivaldybės administracijos Socialinės paramos skyrius",
@@ -2303,6 +2325,10 @@
     "address": "Vilnius, Minties g. 17-7, LT-08231"
   },
   {
+    "name": "Lietuvos jaunųjų socialliberalų sąjungos Panevėžio skyrius",
+    "code": "148443565"
+  },
+  {
     "name": "MB Socialmania",
     "code": "305637527",
     "address": "Vilnius, Fabijoniškių g. 59-37, LT-07110"
@@ -2338,6 +2364,10 @@
     "name": "Viešoji įstaiga \"Socialus menas\"",
     "code": "307058048",
     "address": "Kauno r. sav., Garliavos apylinkių sen., Teleičių k., Lelijų g. 12, LT-53273"
+  },
+  {
+    "name": "MB \"Socialusis investavimas\"",
+    "code": "304986472"
   },
   {
     "name": "Sociedad Espanola De Montajes Industriales SA Lietuvos filialas",
@@ -2393,11 +2423,6 @@
     "name": "MB Brands society",
     "code": "306687419",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "THE ENTREPRENEURIAL SOCIETY FOUNDATION paramos fondas",
-    "code": "305599037",
-    "address": "Vilnius, Vilniaus g. 37-102, LT-01119"
   },
   {
     "name": "VšĮ \"Changing Society\"",
@@ -2493,6 +2518,11 @@
     "address": "Jonava, A. Kulviečio g. 14-22, LT-55213"
   },
   {
+    "name": "VšĮ Sociumo kaitos akademija",
+    "code": "307515034",
+    "address": "Jonava, A. Kulviečio g. 14-22, LT-55213"
+  },
+  {
     "name": "MB Presta socius",
     "code": "306214163",
     "address": "Vilnius, Viršupio Sodų g. 22, LT-10230",
@@ -2511,7 +2541,6 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Socius\"",
     "code": "120346516",
-    "address": "Vilnius, I. Kanto al. 15A, LT-06214",
-    "vatcode": "LT203465113"
+    "address": "Vilnius, I. Kanto al. 15A, LT-06214"
   }
 ]

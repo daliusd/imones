@@ -11,11 +11,6 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
-    "name": "VšĮ \"Meno ekspansija\"",
-    "code": "302562902",
-    "address": "Vilnius, Traidenio g. 16-5, LT-08119"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"EKSPARAS\"",
     "code": "123219417",
     "address": "Vilnius, Jurgio Dobkevičiaus g. 6-1, LT-02187",
@@ -171,6 +166,14 @@
     "code": "141642963",
     "address": "Klaipėda, Nemuno g. 2A, LT-91199",
     "vatcode": "LT416429610"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Vitminos\" ekspedicija",
+    "code": "159950452"
+  },
+  {
+    "name": "Dainiaus Pakėno transporto ekspedicijos konsultacinė įmonė",
+    "code": "124832711"
   },
   {
     "name": "MB Architektūros ekspedicijos",
@@ -813,7 +816,8 @@
   {
     "name": "UAB \"Jėgos ekspertai\"",
     "code": "305187902",
-    "address": "Trakų r. sav., Lentvaris, Vokės g. 10C, LT-25144"
+    "address": "Trakų r. sav., Lentvaris, Vokės g. 10C, LT-25144",
+    "vatcode": "LT100019370017"
   },
   {
     "name": "UAB \"Kapitalo ekspertai\"",
@@ -1217,6 +1221,10 @@
     "address": "Vilniaus r. sav., Paberžės sen., Visalaukės I k., Didžioji g. 8, LT-15101"
   },
   {
+    "name": "UAB \"Ekspertas.lt\"",
+    "code": "303298882"
+  },
+  {
     "name": "UAB \"NT ekspertas\"",
     "code": "304153007",
     "address": "Šiauliai, Aušros al. 13-11, LT-76297",
@@ -1309,6 +1317,10 @@
     "name": "MB Statybos ekspertizių centras",
     "code": "305148529",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+  },
+  {
+    "name": "S. Čivo ekspertizių biuras \"Nova\"",
+    "code": "132014176"
   },
   {
     "name": "VšĮ Ekonominių teismo ekspertizių centras",
@@ -2746,6 +2758,10 @@
     "address": "Panevėžys, Tulpių g. 53, LT-35188"
   },
   {
+    "name": "28-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija",
+    "code": "124760347"
+  },
+  {
     "name": "280-oji garažų statybos ir eksploatavimo bendrija",
     "code": "135410049",
     "address": "Kaunas, V. Krėvės pr. 124, LT-51117"
@@ -3159,7 +3175,7 @@
   {
     "name": "37-oji garažų statybos ir eksploatavimo bendrija",
     "code": "148494727",
-    "address": "Panevėžys, Pelkių g. 12C"
+    "address": "Panevėžys, Pelkių g. 14B K10-8, LT-37461"
   },
   {
     "name": "37-oji laikina metalinių garažų statybos ir eksploatavimo bendrija",
@@ -4597,6 +4613,10 @@
     "name": "68-oji gyvenamojo namo eksploatavimo butų savininkų bendrija",
     "code": "135379237",
     "address": "Kaunas, Vytenio g. 2, LT-48422"
+  },
+  {
+    "name": "69-oji gyvenamojo namo eksploatavimo butų savininkų bendrija",
+    "code": "135336894"
   },
   {
     "name": "7-oji garažų statybos ir eksploatavimo bendrija",
@@ -6316,7 +6336,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Minija\"",
     "code": "180742915",
-    "address": "Telšiai, Pasvaigės g."
+    "address": "Telšiai, Pasvaigės g. 4A, LT-87104"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Mokolai\"",
@@ -6991,7 +7011,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Užuovėja\" Nr.4",
     "code": "186494533",
-    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Gamyklos g. 40A"
+    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Gamyklos g. 54A, LT-13251"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"VAIRAS\"",
@@ -7402,11 +7422,6 @@
     "name": "Garažų statybos ir eksploatavimo bendrija \"Žvejų\"",
     "code": "307031268",
     "address": "Anykščiai, A. Vienuolio g. 11-4, LT-29147"
-  },
-  {
-    "name": "Garažų statybos ir eksploatavimo bendrija \"Žvyrakalnis\"",
-    "code": "167610556",
-    "address": "Molėtai, J. Janonio g. 34, LT-33130"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija Nr. 10",
@@ -8178,6 +8193,10 @@
     "vatcode": "LT237121610"
   },
   {
+    "name": "UAB \"Ekspoformos prekyba\"",
+    "code": "302326275"
+  },
+  {
     "name": "UAB \"Ekspogrūdas\"",
     "code": "305257418",
     "address": "Vilnius, Pylimo g. 44-11, LT-01136"
@@ -8250,6 +8269,10 @@
     "name": "MB \"Elektroninis eksportas\"",
     "code": "305073197",
     "address": "Marijampolė, Slyvų g. 8, LT-68150"
+  },
+  {
+    "name": "Mažoji bendrija \"Eksportas\"",
+    "code": "303243430"
   },
   {
     "name": "UAB \"Baltikos importas ir eksportas\"",
@@ -8369,7 +8392,7 @@
   {
     "name": "Viešoji įstaiga Muzikos eksporto fondas",
     "code": "303996887",
-    "address": "Vilnius, Danų g. 15, LT-11312"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "VšĮ \"IT eksporto akademija\"",
@@ -8643,6 +8666,10 @@
     "vatcode": "LT257622917"
   },
   {
+    "name": "UAB \"SSG ekspresas\"",
+    "code": "302537767"
+  },
+  {
     "name": "UAB \"Vakarų ekspresas\"",
     "code": "141405163",
     "address": "Klaipėda, H. Manto g. 10, LT-92131",
@@ -8725,5 +8752,11 @@
     "name": "MB \"Ekspromtu\"",
     "code": "304747390",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "UAB \"Ekspromtu Tours\"",
+    "code": "305016342",
+    "address": "Utena, Maironio g. 4, LT-28241",
+    "vatcode": "LT100017209012"
   }
 ]

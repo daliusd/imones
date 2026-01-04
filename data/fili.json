@@ -366,11 +366,6 @@
     "address": "Vilnius, Vytauto g. 14, LT-08118"
   },
   {
-    "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Prienų filialas",
-    "code": "302427484",
-    "address": "Vilnius, Vytauto g. 14, LT-08118"
-  },
-  {
     "name": "AB \"Lietuvos paštas\" darbuotojų profesinės sąjungos Vilniaus filialas",
     "code": "302248759",
     "address": "Vilnius, Vytauto g. 14, LT-08118"
@@ -469,6 +464,11 @@
     "name": "ALFLETH Engineering AG Lietuvos filialas",
     "code": "306140720",
     "address": "Vilnius, A. Goštauto g. 8-242, LT-01108"
+  },
+  {
+    "name": "ALLRIG LIMITED filialas",
+    "code": "307511737",
+    "address": "Vilnius, Veiverių g. 9B-1, LT-11346"
   },
   {
     "name": "ALTIMUS-TECH Sp. z o. o. Lietuvos filialas",
@@ -1123,7 +1123,7 @@
   {
     "name": "Bilgehano Ergeno įmonės filialas",
     "code": "300042600",
-    "address": "Vilnius, Pramonės g. 97-401, LT-11115"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "Biocodex Oy Lietuvos filialas",
@@ -1607,6 +1607,10 @@
     "address": "Vilnius, P. Vileišio g. 13-6, LT-10307"
   },
   {
+    "name": "Federal Express Corporation filialas",
+    "code": "300883642"
+  },
+  {
     "name": "Ferrometal Oy filialas",
     "code": "301674720",
     "address": "Kaunas, Draugystės g. 21, LT-51231"
@@ -1634,7 +1638,7 @@
   {
     "name": "Fortrea Development Limited filialas",
     "code": "302526913",
-    "address": "Vilnius, Jogailos g. 9, LT-01116"
+    "address": "Vilnius, J. Jasinskio g. 2, LT-01112"
   },
   {
     "name": "Forum Cinemas Lithuania OU Lietuvos filialas",
@@ -2942,6 +2946,11 @@
     "address": "Druskininkai, Vilniaus al. 24, LT-66119"
   },
   {
+    "name": "Lietuvos politinių kalinių ir tremtinių sąjungos Elektrėnų filialas",
+    "code": "307526696",
+    "address": "Elektrėnai, Rungos g. 18A, LT-26109"
+  },
+  {
     "name": "Lietuvos politinių kalinių ir tremtinių sąjungos Ignalinos filialas",
     "code": "300625332",
     "address": "Ignalina, Vasario 16-osios g. 16, LT-30114"
@@ -3889,7 +3898,7 @@
   {
     "name": "Privačios ribotos atsakomybės bendrovės Van Ameyde Krogius filialas",
     "code": "111884850",
-    "address": "Klaipėda, Nemuno g. 22, LT-93278"
+    "address": "Vilnius, Kalvarijų g. 143-301, LT-08248"
   },
   {
     "name": "Privačios įmonės \"GAIV\" filialas Lietuvoje",
@@ -4369,7 +4378,7 @@
   {
     "name": "SIA \"DRMC\" filialas Lietuvoje \"Latvijos-Vokietijos profesinio mokymo centras\"",
     "code": "307028329",
-    "address": "Vilnius, Taikos g. 130A, LT-05226"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
   },
   {
     "name": "SIA \"ECOMARK\" filialas",
@@ -4590,6 +4599,10 @@
     "name": "Seacontractors Maritime Personnel B.V. Lietuvos filialas",
     "code": "302539145",
     "address": "Klaipėdos r. sav."
+  },
+  {
+    "name": "Seesam Insurance AS Lietuvos filialas",
+    "code": "302677744"
   },
   {
     "name": "Sertifikacijas un testesanas centrs Lietuvos filialas",
@@ -6832,24 +6845,9 @@
     "address": "Jonava, A. Kulviečio g. 8A, LT-55216"
   },
   {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Batėgalos medicinos punktas",
-    "code": "190322849",
-    "address": "Jonavos r. sav., Kulvos sen., Batėgalos k., Rodžių g. 12, LT-55343"
-  },
-  {
     "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Bukonių slaugos ir palaikomojo gydymo skyrius",
     "code": "303413007",
     "address": "Jonavos r. sav., Bukonių sen., Bukonių k., Jaunystės g. 2, LT-55414"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Išorų medicinos punktas",
-    "code": "190325763",
-    "address": "Jonavos r. sav., Užusalių sen., Išorų k., Saulėtekio g. 2, LT-55328"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Kulvos medicinos punktas",
-    "code": "191390867",
-    "address": "Jonavos r. sav., Kulvos sen., Kulvos k., Tarybų g. 6-5, LT-55350"
   },
   {
     "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Panoterių ambulatorija",
@@ -6865,21 +6863,6 @@
     "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Upninkų ambulatorija",
     "code": "303298487",
     "address": "Jonavos r. sav., Upninkų sen., Upninkų k., Jaunystės g. 7, LT-55486"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Užusalių medicinos punktas",
-    "code": "190325578",
-    "address": "Jonavos r. sav., Užusalių sen., Užusalių k., Taikos g. 27, LT-55333"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Čičinų medicinos punktas",
-    "code": "190322991",
-    "address": "Jonavos r. sav., Kulvos sen., Čičinų k., Sodo g. 4, LT-55243"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Šilų medicinos punktas",
-    "code": "190323221",
-    "address": "Jonavos r. sav., Šilų sen., Šilų k., Lokio g. 5, LT-55463"
   },
   {
     "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Šveicarijos ambulatorija",
@@ -7232,9 +7215,25 @@
     "address": "Raseiniai, Vytauto Didžiojo g. 4, LT-60149"
   },
   {
+    "name": "AB \"Lietuvos dujos\" Vilniaus filialo profesinė sąjunga",
+    "code": "225538090"
+  },
+  {
     "name": "AB \"Lietuvos geležinkeliai\" filialo \"Kauno geležinkelių infrastruktūra\" darbuotojų profesinė sąjunga",
     "code": "191994052",
     "address": "Kaunas, M. K. Čiurlionio g. 14B, LT-44360"
+  },
+  {
+    "name": "AB \"Lietuvos geležinkeliai\" filialo \"Klaipėdos geležinkelių infrastruktūra\" profesinė sąjunga",
+    "code": "191997739"
+  },
+  {
+    "name": "AB \"Lietuvos geležinkeliai\" filialo \"Vilniaus geležinkelių infrastruktūra\" darbuotojų profesinė sąjunga",
+    "code": "191993331"
+  },
+  {
+    "name": "AB \"Lietuvos geležinkeliai\" filialo \"Šiaulių geležinkelių infrastruktūra\" Elektros tinklų profesinė sąjunga",
+    "code": "295754080"
   },
   {
     "name": "AB \"Lietuvos geležinkeliai\" filialo \"Šiaulių geležinkelių infrastruktūra\" profesinė sąjunga",
@@ -7372,6 +7371,10 @@
     "name": "MB Filiukas",
     "code": "307141049",
     "address": "Kaunas, Šarkuvos g. 32-76, LT-48167"
+  },
+  {
+    "name": "UAB \"FORTUNAE FILIUS\"",
+    "code": "110876772"
   },
   {
     "name": "MB Filiva",
