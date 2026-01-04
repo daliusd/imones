@@ -39,6 +39,10 @@
     "vatcode": "LT100005755012"
   },
   {
+    "name": "UAB \"Lotuso būstai\"",
+    "code": "304034451"
+  },
+  {
     "name": "UAB \"Šilagėlės būstai\"",
     "code": "302757763",
     "address": "Kaunas, A. Juozapavičiaus pr. 139A-3, LT-45267",
@@ -59,12 +63,6 @@
     "name": "UAB Vakarų būstai",
     "code": "306646461",
     "address": "Palanga, Vėjų g. 6, LT-00147"
-  },
-  {
-    "name": "\"Maxi būstas\" MB",
-    "code": "306282449",
-    "address": "Panevėžys, Projektuotojų g. 41-25, LT-37133",
-    "vatcode": "LT100015850113"
   },
   {
     "name": "DNSB \"BIG būstas\"",
@@ -349,7 +347,8 @@
   {
     "name": "MB Pirmasis būstas",
     "code": "306933447",
-    "address": "Vilniaus r. sav., Nemėžio sen., Murlinės k., Poezijos g. 25, LT-13280"
+    "address": "Vilniaus r. sav., Nemėžio sen., Murlinės k., Poezijos g. 25, LT-13280",
+    "vatcode": "LT100019348616"
   },
   {
     "name": "MB Svajonių būstas",
@@ -480,12 +479,6 @@
     "vatcode": "LT100001842913"
   },
   {
-    "name": "UAB \"Kauno būstas\"",
-    "code": "133421520",
-    "address": "Kaunas, Marvelės g. 199B, LT-46204",
-    "vatcode": "LT334215219"
-  },
-  {
     "name": "UAB \"LK būstas\"",
     "code": "307047906",
     "address": "Vilnius, Lvivo g. 13-12, LT-09313",
@@ -589,7 +582,7 @@
   {
     "name": "UAB \"Savas būstas plius\"",
     "code": "304744184",
-    "address": "Šiauliai, Dvaro g. 41, LT-76345",
+    "address": "Šiauliai, Gegužių g. 45-111, LT-78326",
     "vatcode": "LT100012523716"
   },
   {
@@ -631,6 +624,10 @@
     "vatcode": "LT100007053618"
   },
   {
+    "name": "UAB \"Versirma\" KŪB \"Versirmos būstas\"",
+    "code": "125773358"
+  },
+  {
     "name": "UAB \"Vilniaus būstas\"",
     "code": "300033195",
     "address": "Vilnius, Justiniškių g. 109-14, LT-05251"
@@ -655,8 +652,7 @@
   {
     "name": "UAB Būstas jums",
     "code": "304311215",
-    "address": "Vilnius, Rugių g. 9E-9, LT-08430",
-    "vatcode": "LT100010388414"
+    "address": "Vilnius, Rugių g. 9E-9, LT-08430"
   },
   {
     "name": "UAB Mano Būstas Alytus",
@@ -940,11 +936,6 @@
     "address": "Kaunas, J. Tonkūno g. 5A-9, LT-50473"
   },
   {
-    "name": "MB \"Būsto interjeras\"",
-    "code": "305753738",
-    "address": "Telšių r. sav., Viešvėnų sen., Rūdupių k., Mildagės g. 38, LT-88408"
-  },
-  {
     "name": "MB \"Būsto kūrėjai\"",
     "code": "305943082",
     "address": "Vilnius, Titnago g. 7-437, LT-02300"
@@ -1109,7 +1100,7 @@
   {
     "name": "UAB \"BŪSTO INVESTICIJOS\"",
     "code": "300114868",
-    "address": "Vilnius, Savanorių pr. 124A, LT-03153",
+    "address": "Vilniaus r. sav., Avižienių sen., Lindiniškių k., Aukštaičių tak. 2, LT-14181",
     "vatcode": "LT100002416417"
   },
   {
@@ -1293,11 +1284,6 @@
     "code": "303297727",
     "address": "Vilnius, Ozo g. 12A, LT-08200",
     "vatcode": "LT100008551417"
-  },
-  {
-    "name": "UAB Būsto draugai",
-    "code": "305675008",
-    "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
     "name": "UAB Būsto inžinerijos centras",

@@ -31,7 +31,7 @@
   {
     "name": "MB \"Prodarbas\"",
     "code": "304867984",
-    "address": "Vilnius, Vinco Kudirkos g. 5A, LT-03105"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "MB \"Prodavia\"",
@@ -365,6 +365,11 @@
     "vatcode": "LT100015481511"
   },
   {
+    "name": "UAB SaaS Product Co",
+    "code": "307528619",
+    "address": "Vilnius, Vytauto Žalakevičiaus g. 29-12, LT-10109"
+  },
+  {
     "name": "\"LT production\", UAB",
     "code": "304530376",
     "address": "Biržai, J. Basanavičiaus g. 50A, LT-41164",
@@ -652,6 +657,10 @@
     "code": "302748878",
     "address": "Vilnius, Žirmūnų g. 139, LT-09120",
     "vatcode": "LT100006910010"
+  },
+  {
+    "name": "UAB \"Friends production\"",
+    "code": "302526856"
   },
   {
     "name": "UAB \"INCO Production\"",
@@ -1064,6 +1073,10 @@
     "vatcode": "LT100017323216"
   },
   {
+    "name": "MB Pharma Products",
+    "code": "302890062"
+  },
+  {
     "name": "Mažoji bendrija City lashes products",
     "code": "305692274",
     "address": "Kauno r. sav., Zapyškio sen., Zapyškio mstl., Vytauto g. 1, LT-53419"
@@ -1233,11 +1246,6 @@
     "address": "Vilnius, Kauno g. 1A, LT-01314"
   },
   {
-    "name": "VšĮ \"Filmų produkcijos servisas\"",
-    "code": "303131762",
-    "address": "Vilnius, Architektų g. 42-10, LT-04122"
-  },
-  {
     "name": "Ūkininkės S. Ročienės žemės ūkio produkcijos perdirbimo įmonė",
     "code": "163346333",
     "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Dauparų k., Klaipėdos pl. 13, LT-96169",
@@ -1310,8 +1318,7 @@
   {
     "name": "MB \"Laisvalaikio produktai\"",
     "code": "304986134",
-    "address": "Jonavos r. sav., Šilų sen., Praulių k., Darbininkų g. 51, LT-55461",
-    "vatcode": "LT100012470610"
+    "address": "Jonavos r. sav., Šilų sen., Praulių k., Darbininkų g. 51, LT-55461"
   },
   {
     "name": "MB \"Organiški produktai\"",
@@ -1623,9 +1630,17 @@
     "address": "Vilnius, Smalinės g. 13-12, LT-06226"
   },
   {
+    "name": "V. Chitrajos maisto produktų gamybos įmonė",
+    "code": "140073847"
+  },
+  {
     "name": "Valstybinės ne maisto produktų inspekcijos darbuotojų profesinė sąjunga",
     "code": "195760029",
     "address": "Vilnius, Gedimino pr. 38, LT-01104"
+  },
+  {
+    "name": "Viešoji įstaiga Maisto ir žemės ūkio produktų sertifikavimo centras",
+    "code": "300568333"
   },
   {
     "name": "MB \"Produm\"",
@@ -1637,5 +1652,9 @@
     "name": "MB Produsela",
     "code": "306237429",
     "address": "Kaunas, Vytauto pr. 43A-67, LT-44352"
+  },
+  {
+    "name": "UAB \"Prodviratis\"",
+    "code": "304287209"
   }
 ]

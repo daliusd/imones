@@ -27,6 +27,14 @@
     "address": "Vilnius, Didlaukio g. 31-10, LT-08320"
   },
   {
+    "name": "D. Laboko individuali įmonė",
+    "code": "142093072"
+  },
+  {
+    "name": "P. Laboko individuali įmonė",
+    "code": "141977940"
+  },
+  {
     "name": "MB \"Labomeda\"",
     "code": "305144541",
     "address": "Kauno miesto savivaldybės teritorija"
@@ -48,6 +56,10 @@
     "vatcode": "LT100015144518"
   },
   {
+    "name": "M. Semionovienės personalinė įmonė \"LABOR SOLUS\"",
+    "code": "125530242"
+  },
+  {
     "name": "MB \"Ars scientia labor\"",
     "code": "305680795",
     "address": "Trakų r. sav., Rūdiškės, Trakų g. 49, LT-21181"
@@ -67,6 +79,10 @@
     "name": "UAB \"Lucrosus labor\"",
     "code": "307388042",
     "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+  },
+  {
+    "name": "Individuali įmonė \"Labora Modus\"",
+    "code": "300568504"
   },
   {
     "name": "MB Amber Labora",
@@ -761,7 +777,8 @@
   {
     "name": "UAB \"Kalbų laboratorija\"",
     "code": "304726033",
-    "address": "Klaipėda, Taikos pr. 82-25, LT-93160"
+    "address": "Klaipėda, Taikos pr. 82-25, LT-93160",
+    "vatcode": "LT100019360615"
   },
   {
     "name": "UAB \"Laboratorija 1\"",
@@ -889,11 +906,6 @@
     "code": "300598351",
     "address": "Kaunas, Žemaičių pl. 37, LT-48178",
     "vatcode": "LT100018789916"
-  },
-  {
-    "name": "UAB Dirbtinio intelekto laboratorija",
-    "code": "305434651",
-    "address": "Lazdijų r. sav., Seirijų sen., Ročkių k., Trako g. 28, LT-67232"
   },
   {
     "name": "UAB Grožio laboratorija",
@@ -1090,14 +1102,13 @@
     "address": "Kaunas, V. Krėvės pr. 48-118, LT-50405"
   },
   {
-    "name": "VšĮ Ateities teisės laboratorija",
-    "code": "304480891",
-    "address": "Kaunas, Sukilėlių pr. 63-88, LT-49324"
-  },
-  {
     "name": "VšĮ Atvira laboratorija",
     "code": "304522600",
     "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Griežlės g. 35-3, LT-54303"
+  },
+  {
+    "name": "VšĮ Atviro kodo laboratorija",
+    "code": "304032817"
   },
   {
     "name": "VšĮ Kultūros laboratorija",
@@ -1133,6 +1144,10 @@
     "name": "Įmonės LABORATORIJA \"KOLASTYNA\" atstovybė",
     "code": "110293990",
     "address": "Vilnius, Ateities g. 25B, LT-06326"
+  },
+  {
+    "name": "MB \"Geros laboratorijos kodas\"",
+    "code": "304587402"
   },
   {
     "name": "Nacionalinės visuomenės sveikatos priežiūros laboratorijos profesinė sąjunga",
@@ -1171,9 +1186,17 @@
     "address": "Vilnius, Paribio g. 45-30, LT-08102"
   },
   {
+    "name": "Nacionalinė laboratorijų tiekėjų asociacija",
+    "code": "135517528"
+  },
+  {
     "name": "Statybos produktų bandymų laboratorijų asociacija",
     "code": "136001219",
     "address": "Kaunas, R. Kalantos g. 85, LT-52310"
+  },
+  {
+    "name": "UAB \"Laboratoriniai sprendimai\"",
+    "code": "300795441"
   },
   {
     "name": "UAB \"Laboratoriniai tyrimai\"",
@@ -1291,6 +1314,10 @@
     "vatcode": "LT100016547715"
   },
   {
+    "name": "VŠĮ LABORATORY OF IDEAS",
+    "code": "302791178"
+  },
+  {
     "name": "MB \"Labordenta\"",
     "code": "306129211",
     "address": "Klaipėda, Svajonės g. 33C-6, LT-94101"
@@ -1299,6 +1326,10 @@
     "name": "UAB \"Laboremai\"",
     "code": "304450738",
     "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Šakinių k., Proskynos g. 7B, LT-96177"
+  },
+  {
+    "name": "VšĮ \"LABORES\"",
+    "code": "302064531"
   },
   {
     "name": "UAB \"Laborina\"",

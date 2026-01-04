@@ -107,11 +107,6 @@
     "address": "Ignalinos r. sav., Linkmenų sen., Darželių k."
   },
   {
-    "name": "EDUCATIO: plėtros ir ugdymo institutas",
-    "code": "302487346",
-    "address": "Vilniaus r. sav."
-  },
-  {
     "name": "Ežerėlio jaunimo ir suaugusių ugdymo centras",
     "code": "160285081",
     "address": "Kauno r. sav., Ežerėlis, Kauno g. 31A-24, LT-53390"
@@ -190,6 +185,15 @@
     "name": "Kauno Prano Daunio ugdymo centras",
     "code": "190983430",
     "address": "Kaunas, Taikos pr. 6A, LT-50188"
+  },
+  {
+    "name": "Kauno apskrities šeimos dvasinio ugdymo centras \"Šeimyna\"",
+    "code": "193416969"
+  },
+  {
+    "name": "Kauno klasikinio ugdymo licėjaus labdaros ir paramos fondas",
+    "code": "307529653",
+    "address": "Kaunas, Siūlų g. 5-2, LT-45196"
   },
   {
     "name": "Klaipėdos rajono fizinio ugdymo mokytojų asociacija",
@@ -299,8 +303,7 @@
   {
     "name": "MB \"Baltijos verslo ir kompetencijų ugdymo centras\"",
     "code": "306359657",
-    "address": "Vilnius, Rolando Jankausko g. 6, LT-04310",
-    "vatcode": "LT100016335910"
+    "address": "Vilnius, Rolando Jankausko g. 6, LT-04310"
   },
   {
     "name": "MB Daugiakultūris vaikų ugdymo centras \"AviliUKas\"",
@@ -411,11 +414,6 @@
     "address": "Vilnius, Vilniaus g. 39, LT-01119"
   },
   {
-    "name": "Pilietiškumo ir bendruomeniškumo ugdymo draugija",
-    "code": "301687600",
-    "address": "Plungės r. sav., Platelių sen., Beržoro k., Stirbaičių g. 5, LT-90419"
-  },
-  {
     "name": "Plungės specialiojo ugdymo centras",
     "code": "190986017",
     "address": "Plungė, Mendeno g. 4, LT-90143"
@@ -423,7 +421,7 @@
   {
     "name": "Pradinio ugdymo mokytojų asociacija",
     "code": "307077041",
-    "address": "Klaipėdos r. sav., Dovilų sen., Gedminų k., Mėlynių g. 4, LT-96221"
+    "address": "Klaipėda, Naujakiemio g. 21-61, LT-94206"
   },
   {
     "name": "Respublikinė ikimokyklinio ugdymo kūno kultūros pedagogų asociacija",
@@ -527,6 +525,10 @@
     "name": "Ukmergės specialiojo ugdymo centro \"Vyturėlis\" darbuotojų profesinė sąjunga",
     "code": "183243579",
     "address": "Ukmergė, Veterinarijos g. 5, LT-20183"
+  },
+  {
+    "name": "VIEŠOJI ĮSTAIGA UGDYMO INOVACIJŲ CENTRAS",
+    "code": "125250639"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA VISUOMENĖS KULTŪRINIO UGDYMO CENTRAS",
@@ -700,10 +702,6 @@
     "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
-    "name": "VšĮ Automotosporto ugdymo ir plėtros centras",
-    "code": "304104483"
-  },
-  {
     "name": "VšĮ GEBĖJIMŲ UGDYMO CENTRAS",
     "code": "302618977",
     "address": "Zarasų r. sav., Salakas, Podėrio g. 10, LT-32217"
@@ -808,6 +806,10 @@
     "name": "VšĮ individualaus krepšinio ugdymo \"Laboratorija\"",
     "code": "305927249",
     "address": "Vilnius, S. Daukanto a. 2A-3A, LT-01122"
+  },
+  {
+    "name": "VšĮ Švietimo ir ugdymo centras",
+    "code": "302553262"
   },
   {
     "name": "Šakių ikimokyklinio ugdymo mokykla \"Maži žingsneliai\"",

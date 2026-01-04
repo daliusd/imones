@@ -92,6 +92,12 @@
     "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Gluosnių g. 3, LT-54465"
   },
   {
+    "name": "Jelenos apskaita,MB",
+    "code": "307519552",
+    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Gamyklos g. 50-8, LT-13249",
+    "vatcode": "LT100019357110"
+  },
+  {
     "name": "L. Urbonavičienės IĮ \"Linos apskaita\"",
     "code": "302093586",
     "address": "Šilutė, Žalgirio g. 3-1, LT-99176",
@@ -1423,6 +1429,10 @@
     "vatcode": "LT100001143816"
   },
   {
+    "name": "UAB \"Verslo sprendimai ir apskaita\"",
+    "code": "301841888"
+  },
+  {
     "name": "UAB \"Vilniaus verslo apskaita\"",
     "code": "303307032",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
@@ -1514,7 +1524,8 @@
   {
     "name": "UAB Verslo įmonių apskaita",
     "code": "306083155",
-    "address": "Šilutė, Aušros 4-asis tak. 1, LT-99163"
+    "address": "Šilutė, Aušros 4-asis tak. 1, LT-99163",
+    "vatcode": "LT100019287217"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"APSKAITA IR TURTAS\"",
@@ -2261,6 +2272,10 @@
     "address": "Panevėžys, Vienybės a. 38, LT-35109"
   },
   {
+    "name": "R. Veličkaitės įmonė \"Apskaitos aktualijos\"",
+    "code": "126237712"
+  },
+  {
     "name": "Skuodo rajono biudžetinių įstaigų buhalterinės apskaitos tvarkymo centras",
     "code": "304965663",
     "address": "Skuodas, Vilniaus g. 13, LT-98112"
@@ -2441,6 +2456,10 @@
     "address": "Vilnius, Kalvarijų g. 135, LT-08248"
   },
   {
+    "name": "UAB \"Apskaitos kodas\"",
+    "code": "300151158"
+  },
+  {
     "name": "UAB \"Apskaitos koncepcija\"",
     "code": "304989970",
     "address": "Klaipėda, Darželio g. 6-19, LT-93196",
@@ -2614,7 +2633,8 @@
   {
     "name": "UAB \"Apskaitos tarnai\"",
     "code": "304740392",
-    "address": "Vilnius, Įsruties g. 21-49, LT-06284"
+    "address": "Vilnius, Įsruties g. 21-49, LT-06284",
+    "vatcode": "LT100019379010"
   },
   {
     "name": "UAB \"Apskaitos technologijos\"",
@@ -3018,7 +3038,8 @@
   {
     "name": "MB Apskaitą tvarkantis asmuo",
     "code": "305587953",
-    "address": "Vilnius, Bitėnų g. 3C-17, LT-06236"
+    "address": "Vilnius, Bitėnų g. 3C-17, LT-06236",
+    "vatcode": "LT100019300510"
   },
   {
     "name": "MB Kelias į apskaitą",
@@ -3298,6 +3319,14 @@
     "address": "Kaunas, Aukštaičių g. 51, LT-44158"
   },
   {
+    "name": "Kauno apskrities gaisrininkų draugija",
+    "code": "193160174"
+  },
+  {
+    "name": "Kauno apskrities liberalaus jaunimo organizacija",
+    "code": "193419698"
+  },
+  {
     "name": "Kauno apskrities medžioklės ir žūklės klubas \"Tauras\"",
     "code": "193008686",
     "address": "Kaunas, L. Ivinskio g. 114, LT-45120"
@@ -3335,7 +3364,7 @@
   {
     "name": "Kauno apskrities moterų krizių centras",
     "code": "193420138",
-    "address": "Kaunas, E. Ožeškienės g. 11-7, LT-44253"
+    "address": "Kaunas, Mūrininkų g. 10, LT-50170"
   },
   {
     "name": "Kauno apskrities moterų sveikatos draugija \"Alma\"",
@@ -3408,6 +3437,10 @@
     "address": "Kaunas, Europos pr. 105, LT-46338"
   },
   {
+    "name": "Kauno apskrities verslininkų darbdavių konfederacija",
+    "code": "193413510"
+  },
+  {
     "name": "Kauno apskrities viešoji Ąžuolyno biblioteka",
     "code": "190758138",
     "address": "Kaunas, Radastų g. 2, LT-44164"
@@ -3421,6 +3454,10 @@
     "name": "Kauno apskrities vyrų krizių centras",
     "code": "302297546",
     "address": "Kaunas, E. Ožeškienės g. 11-7, LT-44253"
+  },
+  {
+    "name": "Kauno apskrities šeimos dvasinio ugdymo centras \"Šeimyna\"",
+    "code": "193416969"
   },
   {
     "name": "Klaipėdos apskrities Ievos Simonaitytės viešoji biblioteka",
@@ -3533,6 +3570,10 @@
     "address": "Klaipėda, Statybininkų pr. 39, LT-93159"
   },
   {
+    "name": "Klaipėdos apskrities sporto klubas \"Slėnis\"",
+    "code": "193425975"
+  },
+  {
     "name": "Klaipėdos apskrities tinklinio mėgėjų ir veteranų klubas \"Vilnis\"",
     "code": "193434077",
     "address": "Klaipėda, Vilties g. 6-4, LT-92231"
@@ -3643,6 +3684,10 @@
     "address": "Radviliškis, Laisvės al. 15, LT-82119"
   },
   {
+    "name": "Lietuvos gailestingųjų seserų profesinės sąjungos Alytaus apskrities skyrius",
+    "code": "193489593"
+  },
+  {
     "name": "Lietuvos gaisrininkų draugijos Šiaulių apskrities gaisrininkų draugija",
     "code": "193320013",
     "address": "Šiauliai, Tilžės g. 93, LT-78102",
@@ -3713,6 +3758,14 @@
     "name": "Lietuvos tautinio olimpinio komiteto Kauno apskrities taryba",
     "code": "193413859",
     "address": "Kaunas, Muziejaus g. 7A"
+  },
+  {
+    "name": "Lietuvos šaulių sąjungos Klaipėdos apskrities Jūros šaulių 3-osios rinktinės Kretingos šaulių 5-oji kuopa",
+    "code": "264584790"
+  },
+  {
+    "name": "Lietuvos šaulių sąjungos Klaipėdos apskrities jūros šaulių 3 - os rinktinės Gargždų šaulių 9-oji kuopa",
+    "code": "263697130"
   },
   {
     "name": "Lietuvos žmonių su negalia šeimų bendrijos padalinio Panevėžio apskrities skyrius",
@@ -3986,6 +4039,10 @@
     "address": "Vilnius, Architektų g. 105-40, LT-04210"
   },
   {
+    "name": "Viešoji įstaiga Vilniaus apskrities sveikatos projekto koordinavimo biuras",
+    "code": "125603480"
+  },
+  {
     "name": "Vilniaus apskrities Adomo Mickevičiaus viešoji biblioteka",
     "code": "190757755",
     "address": "Vilnius, Trakų g. 10, LT-01132"
@@ -4098,7 +4155,7 @@
   {
     "name": "Šiaulių apskrities Armėnų bendruomenė",
     "code": "193453768",
-    "address": "Šiauliai, Sevastopolio g. 3B, LT-78318"
+    "address": "Šiauliai, J. Basanavičiaus g. 55B-77, LT-76179"
   },
   {
     "name": "Šiaulių apskrities Povilo Višinskio viešoji biblioteka",
@@ -4179,6 +4236,10 @@
     "name": "Šv. Kazimiero ordino Utenos apskrities Komtūrija",
     "code": "193499178",
     "address": "Utena, Ukmergės g. 22, LT-28138"
+  },
+  {
+    "name": "A. Pranulio IĮ \"Apskritimas\"",
+    "code": "302581781"
   },
   {
     "name": "Sporto klubas \"APSKRITIS\"",

@@ -27,12 +27,13 @@
   {
     "name": "\"Sales House LT\", UAB",
     "code": "307154502",
-    "address": "Vilnius, Veiverių g. 9B-62, LT-11346"
+    "address": "Vilnius, Veiverių g. 9B-62, LT-11346",
+    "vatcode": "LT100019403219"
   },
   {
     "name": "\"Uzmetkombinat\" Europe Trading house, UAB",
     "code": "306101849",
-    "address": "Vilnius, Jogailos g. 9, LT-01116",
+    "address": "Vilniaus m. sav.",
     "vatcode": "LT100015174515"
   },
   {
@@ -274,13 +275,17 @@
   {
     "name": "MB \"SD House\"",
     "code": "305535821",
-    "address": "Birštono sav., Birštono sen., Būdų k., Pievų g. 24, LT-59450",
-    "vatcode": "LT100013664210"
+    "address": "Birštono sav., Birštono sen., Būdų k., Pievų g. 24, LT-59450"
   },
   {
     "name": "MB \"STI wood house\"",
     "code": "306219203",
     "address": "Klaipėda, M. Mažvydo al. 11-25, LT-92136"
+  },
+  {
+    "name": "MB \"Sisters tea house\"",
+    "code": "307520533",
+    "address": "Alytus, Likiškėlių g. 80-6, LT-63359"
   },
   {
     "name": "MB \"Student Coffee House\"",
@@ -929,6 +934,11 @@
     "address": "Klaipėda, Paryžiaus Komunos g. 1-5, LT-91148"
   },
   {
+    "name": "UAB \"Nice House\"",
+    "code": "307530513",
+    "address": "Klaipėda, Giraitės g. 8, LT-93201"
+  },
+  {
     "name": "UAB \"Nordland house\"",
     "code": "305709250",
     "address": "Panevėžio r. sav., Panevėžio sen., Maksvytiškių k., Maksvytiškių g. 17, LT-38417",
@@ -963,6 +973,11 @@
     "vatcode": "LT100012882912"
   },
   {
+    "name": "UAB \"R21 House\"",
+    "code": "307529233",
+    "address": "Klaipėda, Rūtų g. 21, LT-91222"
+  },
+  {
     "name": "UAB \"RGB Production House\"",
     "code": "125474587",
     "address": "Vilnius, Vingrių g. 6-4, LT-01141",
@@ -983,6 +998,10 @@
     "name": "UAB \"SOLUTION HOUSE\"",
     "code": "302609273",
     "address": "Vilnius, Pramonės g. 97, LT-11115"
+  },
+  {
+    "name": "UAB \"SPORT HOUSE\"",
+    "code": "300522670"
   },
   {
     "name": "UAB \"STONKUS HOUSE\"",
@@ -1014,6 +1033,10 @@
     "name": "UAB \"Stabila house\"",
     "code": "300582710",
     "address": "Kaunas, S. Žukausko g. 2D, LT-50118"
+  },
+  {
+    "name": "UAB \"Trade House\"",
+    "code": "302883139"
   },
   {
     "name": "UAB \"Trading House Uzkimyoimpeks-Lithuania\"",
@@ -1312,6 +1335,11 @@
     "address": "Vilnius, Geležinio Vilko g. 15-14, LT-03132"
   },
   {
+    "name": "VšĮ \"Our House Centre for Human Rights and Relief\"",
+    "code": "303223926",
+    "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Pamedės g. 6, LT-14166"
+  },
+  {
     "name": "VšĮ \"RAION Production House\"",
     "code": "304971253",
     "address": "Vilnius, Lvivo g. 25-104, LT-09320"
@@ -1450,6 +1478,11 @@
     "code": "305026500",
     "address": "Vilnius, Galinės g. 11, LT-11320",
     "vatcode": "LT100013615515"
+  },
+  {
+    "name": "MB SOA enterprise and housing",
+    "code": "307524033",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
   },
   {
     "name": "Maple Housing Investment Management, UAB",

@@ -441,7 +441,8 @@
   {
     "name": "Jonavos Jeronimo Ralio gimnazija",
     "code": "190301488",
-    "address": "Jonava, Žeimių g. 20, LT-55125"
+    "address": "Jonava, Žeimių g. 20, LT-55125",
+    "vatcode": "LT100019366614"
   },
   {
     "name": "Jonavos Senamiesčio gimnazija",
@@ -602,6 +603,10 @@
     "name": "Kauno r. Domeikavos gimnazija",
     "code": "191090122",
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Bažnyčios g. 3, LT-54349"
+  },
+  {
+    "name": "Kauno r. Garliavos Jonučių gimnazija",
+    "code": "303383044"
   },
   {
     "name": "Kauno r. Garliavos Juozo Lukšos gimnazija",
@@ -1816,7 +1821,7 @@
     "address": "Šalčininkų r. sav., Kalesninkų sen., Kalesninkų k., Mokyklos g. 4, LT-17185"
   },
   {
-    "name": "Šalčininkų r. Turgelių Povilo Ksavero Bžostovskio gimnazija",
+    "name": "Šalčininkų r. Turgelių kunigo Povilo Ksavero Bžostovskio gimnazija",
     "code": "291416850",
     "address": "Šalčininkų r. sav., Turgelių sen., Turgelių k., Vilniaus g. 27, LT-17285"
   },
@@ -2111,11 +2116,6 @@
     "address": "Mažeikiai, Ventos g. 25"
   },
   {
-    "name": "Mažeikių Gabijos gimnazijos draugija \"Senjorai\"",
-    "code": "304167327",
-    "address": "Mažeikių r. sav., Mažeikių apylinkės sen., Kurmaičių k., Kūlupio g. 13, LT-89257"
-  },
-  {
     "name": "PANEVĖŽIO JUOZO BALČIKONIO GIMNAZIJOS ALUMNŲ ASOCIACIJA",
     "code": "302557136",
     "address": "Panevėžys, Respublikos g. 47, LT-35170"
@@ -2139,6 +2139,14 @@
     "name": "Petro Vileišio gimnazijos moksleivių kūno kultūros ir sveikatingumo klubas \"Clarus\"",
     "code": "169281675",
     "address": "Pasvalys, P. Vileišio g. 7, LT-39144"
+  },
+  {
+    "name": "Pranciškonų gimnazijos labdaros ir paramos fondas",
+    "code": "302253980"
+  },
+  {
+    "name": "Radviliškio Lizdeikos gimnazijos švietimo darbuotojų profesinė sąjunga",
+    "code": "171656342"
   },
   {
     "name": "Rietavo Lauryno Ivinskio gimnazijos darbuotojų profesinė sąjunga",

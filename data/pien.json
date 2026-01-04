@@ -100,11 +100,6 @@
     "vatcode": "LT100009379117"
   },
   {
-    "name": "Kooperatinė bendrovė \"Raseinių pienas\"",
-    "code": "301681871",
-    "address": "Raseinių r. sav., Raseinių sen., Gabšių k."
-  },
-  {
     "name": "Kooperatinė bendrovė \"Ūkininkų pienas\"",
     "code": "300097810",
     "address": "Kretinga, Pramonės g. 4, LT-97187",
@@ -243,11 +238,6 @@
     "address": "Vilnius, Nemenčinės pl. 114, LT-10106"
   },
   {
-    "name": "ŽŪK \"Ekologiškas baltų pienas\"",
-    "code": "304427337",
-    "address": "Klaipėdos r. sav., Dovilų sen., Kiškėnų k., Kampinė g. 37-3, LT-96223"
-  },
-  {
     "name": "ŽŪK \"Šiaurės pienas\"",
     "code": "300585051",
     "address": "Pakruojo r. sav., Žeimelio sen., Bardiškių k., Gluosnių g. 2, LT-83362"
@@ -265,7 +255,8 @@
   {
     "name": "MB Piene perfumes",
     "code": "307413015",
-    "address": "Trakų r. sav., Senųjų Trakų sen., Pabalių k., Bičiulių g. 1-2, LT-21157"
+    "address": "Trakų r. sav., Senųjų Trakų sen., Pabalių k., Bičiulių g. 1-2, LT-21157",
+    "vatcode": "LT100019345611"
   },
   {
     "name": "Kooperatinė bendrovė \"Žemynos pienelis\"",
@@ -360,6 +351,10 @@
     "address": "Panevėžio r. sav., Karsakiškio sen., Tiltagalių k., Žalioji g. 39, LT-38474"
   },
   {
+    "name": "UAB \"Bagaslaviškio pieninė\"",
+    "code": "302446132"
+  },
+  {
     "name": "UAB \"Lukšių pieninė\"",
     "code": "300106070",
     "address": "Šakių r. sav., Lukšiai, A. Tatarės g. 54, LT-71180",
@@ -379,6 +374,10 @@
     "name": "Uždaroji akcinė bendrovė \"Krokialaukio pieninė\"",
     "code": "253678740",
     "address": "Alytaus r. sav., Krokialaukis"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Pakalniškių pieninė\"",
+    "code": "159790656"
   },
   {
     "name": "AB \"Pieno žvaigždės\" filialo Mažeikių pieninės darbuotojų profesinė sąjunga",
@@ -425,6 +424,10 @@
     "address": "Kaunas, Radvilų Dvaro g. 31, LT-48331"
   },
   {
+    "name": "A. Petrausko pieno surinkimo punktas",
+    "code": "172279093"
+  },
+  {
     "name": "AB \"Marijampolės pieno konservai\" darbininkų sąjunga",
     "code": "191541842",
     "address": "Marijampolė, Kauno g. 114, LT-68108"
@@ -439,6 +442,10 @@
     "name": "AB \"Pieno žvaigždės\" filialo Mažeikių pieninės darbuotojų profesinė sąjunga",
     "code": "167384986",
     "address": "Mažeikiai, Skuodo g. 4, LT-89100"
+  },
+  {
+    "name": "AB \"Pieno žvaigždės\" profesinė sąjunga \"Solidarumas\"",
+    "code": "304399998"
   },
   {
     "name": "Akcinė bendrovė \"Pieno žvaigždės\"",
@@ -576,6 +583,10 @@
     "name": "Pieno rinkos analizės ir informacijos centras",
     "code": "173747940",
     "address": "Rokiškio r. sav., Kazliškio sen., Paliepio k."
+  },
+  {
+    "name": "S. Banienės pieno surinkimo punktas",
+    "code": "180268488"
   },
   {
     "name": "UAB \"PIENO KARALYSTĖ\"",

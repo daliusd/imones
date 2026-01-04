@@ -47,6 +47,10 @@
     "address": "Kaunas, K. Donelaičio g. 2, LT-44213"
   },
   {
+    "name": "Lietuvos ūkininkių draugija Linksmakalnio skyrius",
+    "code": "160299259"
+  },
+  {
     "name": "Lietuvos ūkininkių draugijos Šilalės rajono skyrius",
     "code": "177978058",
     "address": "Šilalės r. sav., Šilalės kaimiškoji sen., Balsių k."
@@ -125,11 +129,6 @@
     "name": "Elektrėnų savivaldybės ūkininkų sąjunga",
     "code": "300634840",
     "address": "Elektrėnai, Elektrinės g. 8, LT-26108"
-  },
-  {
-    "name": "Jaunųjų ūkininkų ratelis \"PUŠELĖ\"",
-    "code": "181613122",
-    "address": "Trakų r. sav., Aukštadvaris, Technikumo g. 1, LT-21253"
   },
   {
     "name": "Jonavos rajono ūkininkų sąjunga",
@@ -299,6 +298,10 @@
     "address": "Radviliškio r. sav., Šiaulėnai, Sulinkių g. 19, LT-82441"
   },
   {
+    "name": "Raseinių rajono Nemakščių Martyno Mažvydo vidurinės mokyklos jaunųjų ūkininkų ratelis",
+    "code": "172440625"
+  },
+  {
     "name": "Rietavo savivaldybės ūkininkų sąjunga",
     "code": "304452657",
     "address": "Rietavo sav., Rietavo sen., Vatušių k., Bijūnų g. 13, LT-90307"
@@ -344,6 +347,10 @@
     "address": "Telšių r. sav., Nevarėnų sen., Petraičių k. 11, LT-88468"
   },
   {
+    "name": "Tiskūnų jaunųjų ūkininkų ratelis",
+    "code": "161755185"
+  },
+  {
     "name": "UAB \"Viskas iš ūkininkų\"",
     "code": "302605378",
     "address": "Vilnius, Gedvydžių g. 1-34, LT-06311"
@@ -379,9 +386,8 @@
     "address": "Vilnius, Rinktinės g. 50, LT-09318"
   },
   {
-    "name": "VšĮ \"Kauno rajono ūkininkų tiekimas\"",
-    "code": "305654619",
-    "address": "Kauno r. sav., Babtų sen., Panevėžiuko k., Žvejų g. 23, LT-54288"
+    "name": "Vyžuonų vidurinės mokyklos jaunųjų ūkininkų ratelis",
+    "code": "193060779"
   },
   {
     "name": "ŠIAULIŲ KRAŠTO ŪKININKŲ SĄJUNGA",
@@ -424,15 +430,6 @@
     "name": "Ūkininkų kooperatyvas \"Biržupys\"",
     "code": "173113320",
     "address": "Rokiškio r. sav., Jūžintų sen., Kovelių k."
-  },
-  {
-    "name": "Ūkininkų kooperatyvas \"Pasvalio aruodas\"",
-    "code": "169277449",
-    "address": "Pasvalio r. sav., Pasvalio sen., Pasvalio Vienkiemių k."
-  },
-  {
-    "name": "Ūkininkų kooperatyvas \"Rokiškutis\"",
-    "code": "173724048"
   },
   {
     "name": "Žemaitijos ūkininkų asociacija",
@@ -481,9 +478,17 @@
     "address": "Vilnius, Gedimino pr. 24-10, LT-01103"
   },
   {
+    "name": "A. Vosyliaus verslo konsultavimo ir audito tikroji ūkinė bendrija",
+    "code": "124597373"
+  },
+  {
     "name": "A. Šoblinsko komercinė-ūkinė įmonė",
     "code": "164141630",
     "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Vienkiemio g. 5, LT-97196"
+  },
+  {
+    "name": "Albino Usonio tikroji ūkinė bendrija \"Statyba\"",
+    "code": "266438250"
   },
   {
     "name": "Aldonos Žiūraitienės tikroji ūkinė bendrija \"Didona\"",
@@ -531,6 +536,10 @@
     "vatcode": "LT555390113"
   },
   {
+    "name": "Dariaus Normanto ir Arūno Normanto tikroji ūkinė bendrija \"NELIK BASAS\"",
+    "code": "141725829"
+  },
+  {
     "name": "Dženės Rudaitienės ir Barboros Garnienės tikroji ūkinė bendrija \"Panevėžio kultūros ir poilsio parkas\"",
     "code": "148005339",
     "address": "Panevėžys, Vasario 16-osios g. 20, LT-35169"
@@ -548,6 +557,10 @@
     "vatcode": "LT666319314"
   },
   {
+    "name": "Gintaro Grigo tikroji ūkinė bendrija \"Piramidė\"",
+    "code": "133144831"
+  },
+  {
     "name": "I. Kurkino tikroji ūkinė bendrija \"SILKA\"",
     "code": "122407366",
     "address": "Vilnius, Ozo g. 20, LT-07151",
@@ -558,6 +571,10 @@
     "code": "122343091",
     "address": "Vilnius, Kaimelio g. 13-1, LT-07100",
     "vatcode": "LT223430917"
+  },
+  {
+    "name": "J. Viskonto komercinė ūkinė įmonė",
+    "code": "163927979"
   },
   {
     "name": "J. Volkovienės ir Ž. Skardžiuvienės tikroji ūkinė bendrija",
@@ -589,9 +606,13 @@
     "vatcode": "LT354988515"
   },
   {
+    "name": "Karalienės tikroji ūkinė bendrija \"Pilėnai\"",
+    "code": "154166457"
+  },
+  {
     "name": "Komanditinė ūkinė bendrija",
-    "code": "307494608",
-    "address": "Vilnius, Konstitucijos pr. 7, LT-09308"
+    "code": "307530207",
+    "address": "Vilnius, Vašingtono a. 1-62, LT-01108"
   },
   {
     "name": "Komanditinė ūkinė bendrija \"AGMAVA Investments\"",
@@ -620,9 +641,17 @@
     "address": "Vilnius, Gedimino pr. 10-9B, LT-01103"
   },
   {
+    "name": "Komanditinė ūkinė bendrija \"Naugresta\"",
+    "code": "300613013"
+  },
+  {
     "name": "Komanditinė ūkinė bendrija \"Pagalbos verslui fondas\"",
     "code": "305640822",
     "address": "Vilnius, Ukmergės g. 124, LT-08100"
+  },
+  {
+    "name": "Komanditinė ūkinė bendrija \"Pharmaceutica Lituanica ex Noreika\"",
+    "code": "132659091"
   },
   {
     "name": "Komanditinė ūkinė bendrija \"Snowball investicijos\"",
@@ -674,6 +703,18 @@
     "vatcode": "LT547439219"
   },
   {
+    "name": "L. Savickij tikroji ūkinė bendrija \"LIESANA\"",
+    "code": "181542764"
+  },
+  {
+    "name": "Laimos Norkutės tikroji ūkinė bendrija",
+    "code": "157937972"
+  },
+  {
+    "name": "M. Račkausko tikroji ūkinė bendrija \"Lakista\"",
+    "code": "235514180"
+  },
+  {
     "name": "Milašauskių tikroji ūkinė bendrija \"Žaibas\"",
     "code": "175613922",
     "address": "Šiauliai, Statybininkų g. 23A, LT-78217"
@@ -698,6 +739,10 @@
     "name": "P. Tarasevičiaus komanditinė ūkinė bendrija \"Diodo sistemos\"",
     "code": "122969316",
     "address": "Vilnius, Taikos g. 20-75, LT-05250"
+  },
+  {
+    "name": "Palijansko tikroji ūkinė bendrija \"Medeina\"",
+    "code": "168431232"
   },
   {
     "name": "R. Andriuškos ir R. Vaidžiulio tikroji ūkinė bendrija",
@@ -728,6 +773,10 @@
     "vatcode": "LT642349411"
   },
   {
+    "name": "Reginos Zakarauskienės tikroji ūkinė bendrija \"PLASIKA\"",
+    "code": "144114622"
+  },
+  {
     "name": "Renios Žvirgždienės ir Dianos Medelinskienės tikroji ūkinė bendrija",
     "code": "155296165",
     "address": "Biržai, Pastaunyko g. 24, LT-41125",
@@ -752,10 +801,22 @@
     "vatcode": "LT447663515"
   },
   {
+    "name": "S. Gėlingio ūkinė - komercinė įmonė",
+    "code": "164217074"
+  },
+  {
     "name": "S. Rakūno tikroji ūkinė bendrija \"Talja\"",
     "code": "134426431",
     "address": "Kaunas, Šiaurės pr. 75-29, LT-49217",
     "vatcode": "LT344264314"
+  },
+  {
+    "name": "S. Česnausko tikroji ūkinė bendrija \"Živilė\"",
+    "code": "154741153"
+  },
+  {
+    "name": "Stapčinsko tikroji ūkinė bendrija \"TEKSITA\"",
+    "code": "122420118"
   },
   {
     "name": "T. Kauno tikroji ūkinė bendrija \"Varsa\"",
@@ -781,6 +842,10 @@
     "vatcode": "LT210413113"
   },
   {
+    "name": "Tikroji ūkinė bendrija \"Ringuva\"",
+    "code": "144114960"
+  },
+  {
     "name": "Tikroji ūkinė bendrija \"Sūduvos vargonų dirbtuvė\"",
     "code": "302646713",
     "address": "Kazlų Rūda, S. Daukanto g. 19-5, LT-69430"
@@ -788,8 +853,15 @@
   {
     "name": "Tikroji ūkinė bendrija \"Vikensta\"",
     "code": "124530798",
-    "address": "Vilnius, J. Jasinskio g. 17-72, LT-01111",
-    "vatcode": "LT245307917"
+    "address": "Vilnius, J. Jasinskio g. 17-72, LT-01111"
+  },
+  {
+    "name": "Tikroji ūkinė bendrija V. Gylio ir S. Pilinkaus bendrovė \"Langas\"",
+    "code": "120467425"
+  },
+  {
+    "name": "Tomo Visakavičiaus ir Aleksandros Markinos tikroji ūkinė bendrija \"Baitnetas\"",
+    "code": "126064993"
   },
   {
     "name": "UAB \"TERVILA\" komanditinė ūkinė bendrija",
@@ -809,10 +881,22 @@
     "address": "Vilnius, Konstitucijos pr. 23, LT-08105"
   },
   {
+    "name": "V. Kanecko ir partnerių komanditinė ūkinė bendrija \"LABRUM\"",
+    "code": "125525829"
+  },
+  {
     "name": "V. Kerdoko, S. Meškevičiaus tikroji ūkinė bendrija \"Organizacijų vystymo konsultacijos\"",
     "code": "140089641",
     "address": "Klaipėda, Taikos pr. 38, LT-91218",
     "vatcode": "LT400896410"
+  },
+  {
+    "name": "V. Kubiliaus tikroji ūkinė bendrija \"Instaliacinės sistemos\"",
+    "code": "134559652"
+  },
+  {
+    "name": "V. Makovo tikroji ūkinė bendrija",
+    "code": "132587489"
   },
   {
     "name": "V. Martinkėnienės ir R. Martinkėno tikroji ūkinė bendrija \"Valrama\"",
@@ -824,6 +908,10 @@
     "name": "V. Mačernio tikroji ūkinė bendrija \"Meškinas\"",
     "code": "167254494",
     "address": "Mažeikių rajono savivaldybės teritorija"
+  },
+  {
+    "name": "V. Prus ir J. Vengerskio tikroji ūkinė bendrija \"TESARA\"",
+    "code": "124176972"
   },
   {
     "name": "V. Ruzgailos komercinė-ūkinė įmonė",
@@ -842,10 +930,18 @@
     "vatcode": "LT348119113"
   },
   {
+    "name": "Viešosios įstaigos \"OBUOLIO\" muzikos klubo komanditinė ūkinė bendrija \"OBUOLIO RESPUBLIKA\"",
+    "code": "125128375"
+  },
+  {
     "name": "Čygo - Kalkio tikroji ūkinė bendrija \"RINKUŠKIAI\"",
     "code": "254701430",
     "address": "Biržų r. sav., Širvėnos sen., Biržų k., Alyvų g. 8, LT-41180",
     "vatcode": "LT547014314"
+  },
+  {
+    "name": "Ž. Kuperšmidt komanditinė ūkinė bendrija \"AUDITORIAI\"",
+    "code": "240981470"
   },
   {
     "name": "Žabolio ir partnerių komanditinė ūkinė bendrija",

@@ -86,7 +86,8 @@
   {
     "name": "MB Husaro tiekimas",
     "code": "307495069",
-    "address": "Šiauliai, Lydos g. 58A-1, LT-77171"
+    "address": "Šiauliai, Lydos g. 58A-1, LT-77171",
+    "vatcode": "LT100019324518"
   },
   {
     "name": "MB Mėsos tiekimas",
@@ -176,7 +177,7 @@
   {
     "name": "UAB \"Kepsnių tiekimas\"",
     "code": "303312218",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120",
+    "address": "Vilnius, Mindaugo g. 6-5, LT-03107",
     "vatcode": "LT100008776617"
   },
   {
@@ -201,15 +202,14 @@
     "address": "Alytus, Statybininkų g. 27-3, LT-63408"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"BALTLANTOS TIEKIMAS\"",
+    "code": "142014356"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"ŠIRVINTŲ TIEKIMAS\"",
     "code": "178232428",
     "address": "Širvintos, Kalnalaukio g. 10, LT-19107",
     "vatcode": "LT782324219"
-  },
-  {
-    "name": "VšĮ \"Kauno rajono ūkininkų tiekimas\"",
-    "code": "305654619",
-    "address": "Kauno r. sav., Babtų sen., Panevėžiuko k., Žvejų g. 23, LT-54288"
   },
   {
     "name": "\"Technikos tiekimo kompanija\", UAB",
@@ -320,6 +320,10 @@
     "vatcode": "LT100002742811"
   },
   {
+    "name": "Zilberg tiekimo įmonė \"POTENCIALAS\"",
+    "code": "120698033"
+  },
+  {
     "name": "MB Sprendimai tiekimui",
     "code": "307441712",
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
@@ -410,6 +414,10 @@
     "name": "Lietuvos šilumos tiekėjų asociacija",
     "code": "124361985",
     "address": "Vilnius, Vito Gerulaičio g. 10-101, LT-08200"
+  },
+  {
+    "name": "Nacionalinė laboratorijų tiekėjų asociacija",
+    "code": "135517528"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"TIEKĖJŲ GILDIJA\"",

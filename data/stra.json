@@ -1,5 +1,9 @@
 [
   {
+    "name": "Straal Financial Services UAB",
+    "code": "305482443"
+  },
+  {
     "name": "UAB \"Strabas\"",
     "code": "305706902",
     "address": "Kaunas, Raudondvario pl. 154A, LT-47174",
@@ -32,6 +36,10 @@
     "name": "MB \"Stragausko kirtimai\"",
     "code": "307396516",
     "address": "Raseinių r. sav., Pagojukų sen., Dievogalos k., Raseinių g. 10, LT-60466"
+  },
+  {
+    "name": "R. Stragienės įmonė",
+    "code": "154852520"
   },
   {
     "name": "Jono Stragio firma",
@@ -139,7 +147,8 @@
   {
     "name": "MB \"Straitis\"",
     "code": "304943535",
-    "address": "Telšiai, Stoties g. 16-2, LT-87102"
+    "address": "Telšiai, Stoties g. 16-2, LT-87102",
+    "vatcode": "LT100012024218"
   },
   {
     "name": "UAB \"Straja\"",
@@ -177,12 +186,20 @@
   {
     "name": "Radvilės Strakšytės labdaros ir paramos fondas",
     "code": "307434109",
-    "address": "Kauno r. sav., Domeikavos sen., Šakių k., Girios g. 13A-2, LT-47412"
+    "address": "Kėdainiai, Šėtos g. 83-17, LT-57205"
+  },
+  {
+    "name": "IĮ \"Stralas\"",
+    "code": "303379665"
   },
   {
     "name": "UAB \"Stralina\"",
     "code": "304787869",
     "address": "Telšiai, Sedos g. 34A, LT-87101"
+  },
+  {
+    "name": "R. Stralkaus prekybos įmonė",
+    "code": "151224186"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Stramega\"",
@@ -344,7 +361,7 @@
   {
     "name": "MB \"Strategic m\"",
     "code": "306194942",
-    "address": "Vilnius, Algirdo g. 19-504, LT-03219",
+    "address": "Vilniaus m. sav.",
     "vatcode": "LT100015539012"
   },
   {
@@ -536,6 +553,10 @@
     "vatcode": "LT100008840312"
   },
   {
+    "name": "UAB \"Interneto strategija\"",
+    "code": "303099154"
+  },
+  {
     "name": "UAB \"Logistikos strategija\"",
     "code": "303305330",
     "address": "Klaipėda, Minijos g. 43, LT-91208",
@@ -581,6 +602,10 @@
     "address": "Vilnius, Apkasų g. 19-54, LT-08225"
   },
   {
+    "name": "UAB \"Versirma\" KŪB \"Versirmos strategija\"",
+    "code": "125895369"
+  },
+  {
     "name": "UAB \"Verslo strategija ir projektai\"",
     "code": "300615352",
     "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Šviesos g. 5, LT-14162"
@@ -610,6 +635,14 @@
     "name": "VšĮ \"Strategija sėkmei\"",
     "code": "300055715",
     "address": "Vilnius, Maumedžių g. 8-14, LT-08309"
+  },
+  {
+    "name": "J. Jadevičiaus firma \"PERSONALO STRATEGIJOS PROJEKTAS\"",
+    "code": "123528787"
+  },
+  {
+    "name": "J. Jadevičiaus firma \"PERSONALO STRATEGIJOS PROJEKTO KONSULTANTAI\"",
+    "code": "125476780"
   },
   {
     "name": "MB \"Galdikų komunikacijos strategijos\"",
@@ -670,6 +703,10 @@
     "vatcode": "LT100013697711"
   },
   {
+    "name": "MB \"Strateginiai verslo plėtros sprendimai\"",
+    "code": "304774697"
+  },
+  {
     "name": "MB \"Strateginiai verslo sprendimai\"",
     "code": "304038364",
     "address": "Kaunas, Aušros g. 15-2, LT-44173"
@@ -720,7 +757,8 @@
   {
     "name": "MB Strateginis verslo partneris",
     "code": "307183703",
-    "address": "Vilnius, Konstitucijos pr. 15-191, LT-09319"
+    "address": "Vilnius, Konstitucijos pr. 15-191, LT-09319",
+    "vatcode": "LT100019335311"
   },
   {
     "name": "UAB \"Strateginis partneris\"",
@@ -899,6 +937,10 @@
     "address": "Kaunas, Europos pr. 124, LT-46351"
   },
   {
+    "name": "STRATEGY M, UAB",
+    "code": "304316988"
+  },
+  {
     "name": "UAB \"BALTIC PERSONNEL STRATEGY PROJECT\"",
     "code": "125774111",
     "address": "Vilnius, Rūdninkų g. 14, LT-01135"
@@ -1018,15 +1060,15 @@
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
-    "name": "Stratos Technologies UAB",
-    "code": "306338937",
-    "address": "Vilnius, Upės g. 23-1, LT-08128"
-  },
-  {
     "name": "UAB \"Stratos LT\"",
     "code": "303345257",
     "address": "Alytaus r. sav., Alytaus sen., Miklusėnų k., Kauno g. 1, LT-62461",
     "vatcode": "LT100008727316"
+  },
+  {
+    "name": "UAB \"Stratos invest\"",
+    "code": "307520939",
+    "address": "Kaunas, Neries krant. 5-59, LT-48344"
   },
   {
     "name": "UAB \"Stratosfera\"",
@@ -1063,8 +1105,7 @@
   {
     "name": "\"Strauja\"-saugios sistemos, UAB",
     "code": "302579976",
-    "address": "Kaunas, Karo Ligoninės g. 10-6, LT-44345",
-    "vatcode": "LT100005855019"
+    "address": "Kaunas, Karo Ligoninės g. 10-6, LT-44345"
   },
   {
     "name": "UAB \"Straujos\" prekybos sistemos",
@@ -1095,6 +1136,10 @@
     "vatcode": "LT100001333418"
   },
   {
+    "name": "V. Straukos individuali įmonė",
+    "code": "163550460"
+  },
+  {
     "name": "Straumann Lithuania UAB",
     "code": "125435246",
     "address": "Vilnius, A. Vivulskio g. 7-101, LT-03162",
@@ -1108,12 +1153,8 @@
   {
     "name": "UAB \"Strauva\"",
     "code": "305190122",
-    "address": "Panevėžio r. sav., Miežiškių sen., Kaimiškio k., Kaimiškio g. 5, LT-38105",
+    "address": "Panevėžys, Statybininkų g. 34-36, LT-37350",
     "vatcode": "LT100012929216"
-  },
-  {
-    "name": "Strava Lithuania UAB",
-    "code": "304316874"
   },
   {
     "name": "UAB \"STRAVAS\"",
@@ -1122,10 +1163,30 @@
     "vatcode": "LT255646314"
   },
   {
+    "name": "UAB \"STRAVE BATAI\"",
+    "code": "301821540"
+  },
+  {
+    "name": "Ritos Stravinskienės individuali įmonė",
+    "code": "166590467"
+  },
+  {
+    "name": "V. Stravinskienės firma",
+    "code": "164770370"
+  },
+  {
     "name": "A. Stravinsko IĮ \"Aironas\"",
     "code": "304846787",
     "address": "Druskininkai, Vytauto g. 9-17, LT-66127",
     "vatcode": "LT100012131419"
+  },
+  {
+    "name": "Pranciškaus Stravinsko teisinių paslaugų įmonė",
+    "code": "245591830"
+  },
+  {
+    "name": "Romo Stravinsko individuali prekybos įmonė",
+    "code": "170755572"
   },
   {
     "name": "Vaidoto Stravinsko IĮ",
@@ -1163,6 +1224,10 @@
     "name": "Medžiotojų klubas \"Strazdai\"",
     "code": "245554650",
     "address": "Šiaulių r. sav., Kuršėnai, Pelkės g. 2A, LT-81137"
+  },
+  {
+    "name": "Pagėgių savivaldybės žemės ūkio bendrovė \"Strazdai\"",
+    "code": "177095631"
   },
   {
     "name": "UAB Strazdanėlės",
@@ -1262,6 +1327,10 @@
     "address": "Kaunas, A. Strazdo g. 83-4, LT-48458"
   },
   {
+    "name": "V. Strazdienės individuali įmonė",
+    "code": "123385563"
+  },
+  {
     "name": "Zitos Strazdienės įmonė",
     "code": "168631514",
     "address": "Panevėžio r. sav., Raguva, Kėdainių g. 3, LT-38155",
@@ -1287,6 +1356,10 @@
     "name": "Nerijaus Strazdo įmonė",
     "code": "135010628",
     "address": "Kaunas, Pienių g. 8-6, LT-47443"
+  },
+  {
+    "name": "Privataus matininko Leonardo Strazdo individuali įmonė",
+    "code": "122826663"
   },
   {
     "name": "R. Strazdo įmonė",
@@ -1325,5 +1398,9 @@
     "name": "Stračiūnų bendruomenė",
     "code": "301737875",
     "address": "Druskininkų sav., Leipalingio sen., Stračiūnų k., Žaliamiškio g. 38, LT-67267"
+  },
+  {
+    "name": "Audronės Strašauskienės įmonė",
+    "code": "135663839"
   }
 ]

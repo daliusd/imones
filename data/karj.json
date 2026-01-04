@@ -5,6 +5,10 @@
     "address": "Vilnius, Švitrigailos g. 11K-106, LT-03228"
   },
   {
+    "name": "VšĮ \"Jaunimo karjera\"",
+    "code": "302712362"
+  },
+  {
     "name": "VšĮ \"Studijos ir karjera\"",
     "code": "304437114",
     "address": "Vilnius, Fabijoniškių g. 61-55, LT-07110",
@@ -47,7 +51,8 @@
   {
     "name": "UAB \"Karjerai LT\"",
     "code": "307491081",
-    "address": "Panevėžio r. sav., Panevėžio sen., Berčiūnų k., Sanžilės g. 37, LT-38362"
+    "address": "Panevėžio r. sav., Panevėžio sen., Berčiūnų k., Sanžilės g. 37, LT-38362",
+    "vatcode": "LT100019327815"
   },
   {
     "name": "UAB \"Karjerai\"",
@@ -455,9 +460,17 @@
     "address": "Druskininkai, Vilniaus al. 30, LT-66119"
   },
   {
+    "name": "Viešoji įstaiga \"Karjeros vadovas\"",
+    "code": "125872751"
+  },
+  {
     "name": "Viešoji įstaiga JAUNIMO KARJEROS CENTRAS",
     "code": "135564054",
     "address": "Kaunas, V. Putvinskio g. 23, LT-44243"
+  },
+  {
+    "name": "Viešoji įstaiga Vilniaus kolegijos studentų karjeros centras",
+    "code": "126381634"
   },
   {
     "name": "VšĮ \"Karjeros platforma\"",
@@ -487,5 +500,10 @@
     "code": "300869571",
     "address": "Kauno r. sav., Lapių sen., Drąseikių k., Karjero g. 1, LT-54411",
     "vatcode": "LT100003248713"
+  },
+  {
+    "name": "MB KARJONA",
+    "code": "307529201",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
   }
 ]

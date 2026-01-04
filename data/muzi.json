@@ -416,7 +416,8 @@
   {
     "name": "Prienų krašto muziejus",
     "code": "188206823",
-    "address": "Prienai, F. Martišiaus g. 13, LT-59118"
+    "address": "Prienai, F. Martišiaus g. 13, LT-59118",
+    "vatcode": "LT100019326312"
   },
   {
     "name": "Puikiškių kraštotyros muziejus",
@@ -609,6 +610,11 @@
     "address": "Vilniaus r. sav., Nemenčinė, Švenčionių g. 14, LT-15168"
   },
   {
+    "name": "Vinco Grybo memorialinis muziejus",
+    "code": "307530470",
+    "address": "Jurbarkas, Vydūno g. 31A, LT-74112"
+  },
+  {
     "name": "Visuomeninė organizacija \"Laisvės kovų ir tremties istorijos muziejus\"",
     "code": "263752370",
     "address": "Klaipėdos r. sav., Priekulė, Klaipėdos g. 29, LT-96341"
@@ -658,6 +664,11 @@
     "name": "VšĮ \"Kuršių genties istorijos muziejus\"",
     "code": "305924089",
     "address": "Skuodo r. sav., Mosėdis, Akmenų g. 17, LT-98268"
+  },
+  {
+    "name": "VšĮ \"Pasvalio muzikos muziejus\"",
+    "code": "307520056",
+    "address": "Pasvalys, Panevėžio g. 22, LT-39151"
   },
   {
     "name": "VšĮ \"Įstros lėktuvų muziejus\"",
@@ -926,6 +937,10 @@
     "address": "Neringa, G. D. Kuverto g. 15F-13, LT-93127"
   },
   {
+    "name": "MUZIKA BESIDOMINČIŲ ŽMONIŲ KLUBAS \"VIRPESYS\"",
+    "code": "125086378"
+  },
+  {
     "name": "Mažoji bendrija Muzika dp",
     "code": "305756264",
     "address": "Skuodo r. sav., Barstyčiai, Salantų g. 1, LT-98227"
@@ -1099,7 +1114,8 @@
   {
     "name": "UAB \"MUZIKIJA\"",
     "code": "147367552",
-    "address": "Vilnius, Mykolo Marcinkevičiaus g. 118-1, LT-08412"
+    "address": "Vilnius, Mykolo Marcinkevičiaus g. 118-1, LT-08412",
+    "vatcode": "LT100019359914"
   },
   {
     "name": "VšĮ \"Muzikiniai projektai\"",
@@ -1408,11 +1424,6 @@
     "address": "Vilnius, Kenos g. 9, LT-02103"
   },
   {
-    "name": "Liaudiškos muzikos kapela \"Ežerija\"",
-    "code": "305686944",
-    "address": "Molėtai, Ažubalių g. 12-11, LT-33102"
-  },
-  {
     "name": "Liaudiškos muzikos kapela \"Čvieks\"",
     "code": "306985579",
     "address": "Pakruojis, P. Mašioto g. 63-10, LT-83129"
@@ -1584,6 +1595,10 @@
     "name": "Muzikos studija \"BEMOL\"",
     "code": "300543294",
     "address": "Vilnius, Fabijoniškių g. 2-46, LT-07109"
+  },
+  {
+    "name": "Muzikos studija \"Nieko tokio\"",
+    "code": "300145372"
   },
   {
     "name": "Muzikos studija \"Vivo junior\"",
@@ -1795,6 +1810,10 @@
     "address": "Mažeikiai, Birutės g. 12-1, LT-89213"
   },
   {
+    "name": "Viešoji įstaiga \"Muzikos frontas\"",
+    "code": "126075865"
+  },
+  {
     "name": "Viešoji įstaiga \"Muzikos kolektyvų rėmimo fondas\"",
     "code": "300510604",
     "address": "Vilnius, Viršuliškių g. 6-8, LT-05108"
@@ -1809,6 +1828,10 @@
     "name": "Viešoji įstaiga \"Muzikos ruduo\"",
     "code": "304071072",
     "address": "Vilnius, Mildos g. 12-14, LT-10311"
+  },
+  {
+    "name": "Viešoji įstaiga \"Muzikos spektras\"",
+    "code": "300079260"
   },
   {
     "name": "Viešoji įstaiga \"Muzikos zona\"",
@@ -1849,7 +1872,7 @@
   {
     "name": "Viešoji įstaiga Muzikos eksporto fondas",
     "code": "303996887",
-    "address": "Vilnius, Danų g. 15, LT-11312"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "Viešoji įstaiga Muzikos pakrantė",
@@ -1872,6 +1895,10 @@
     "code": "125007651",
     "address": "Vilnius, Pylimo g. 12-2, LT-01118",
     "vatcode": "LT100001850914"
+  },
+  {
+    "name": "Viešosios įstaigos \"OBUOLIO\" muzikos klubo komanditinė ūkinė bendrija \"OBUOLIO RESPUBLIKA\"",
+    "code": "125128375"
   },
   {
     "name": "Vilniaus \"Ąžuoliuko\" muzikos mokykla",
@@ -1932,6 +1959,10 @@
     "name": "Visuomeninė organizacija \"MUZIKOS SVETAINĖ\"",
     "code": "142162675",
     "address": "Klaipėda, Naujakiemio g. 6-114, LT-94188"
+  },
+  {
+    "name": "Visuomeninė organizacija Muzikos grupė \"Airija\"",
+    "code": "150061149"
   },
   {
     "name": "Visuomeninė organizacija pramoginės muzikos studija \"Vaivorykštė\"",
@@ -1995,9 +2026,18 @@
     "address": "Vilnius, Krokuvos g. 8A-18, LT-09314"
   },
   {
+    "name": "VšĮ \"NAMP nekomercinės ir akademinės muzikos projektai\"",
+    "code": "302589867"
+  },
+  {
     "name": "VšĮ \"Pasaulio muzikos radijas\"",
     "code": "303902852",
     "address": "Rokiškis, Algirdo g. 8-58, LT-42116"
+  },
+  {
+    "name": "VšĮ \"Pasvalio muzikos muziejus\"",
+    "code": "307520056",
+    "address": "Pasvalys, Panevėžio g. 22, LT-39151"
   },
   {
     "name": "VšĮ \"Teatro ir muzikos idėjos\"",
@@ -2029,7 +2069,7 @@
   {
     "name": "VšĮ Vilniaus sakralinės muzikos choras \"Adoramus\"",
     "code": "305538283",
-    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
+    "address": "Vilnius, Algirdo g. 37-11A, LT-03217"
   },
   {
     "name": "VšĮ muzikos mokykla \"Ugnelė\"",

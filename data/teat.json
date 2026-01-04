@@ -249,12 +249,17 @@
   {
     "name": "UAB Vabalo teatras",
     "code": "307485566",
-    "address": "Klaipėda, Girulių pl. 23A-2, LT-92282"
+    "address": "Klaipėda, Girulių pl. 23A-2, LT-92282",
+    "vatcode": "LT100019372316"
   },
   {
     "name": "VILNIAUS MIESTO SENOSIOS MUZIKOS IR ŠOKIO VAIKŲ TEATRAS \"PUELLI VILNENSES\"",
     "code": "193268940",
     "address": "Vilnius, Šv. Ignoto g. 6, LT-01144"
+  },
+  {
+    "name": "Vaikų teatras \"KRASNAJA KURICA\"",
+    "code": "191854890"
   },
   {
     "name": "Valstybinis Vilniaus mažasis teatras",
@@ -287,11 +292,6 @@
     "name": "Viešoji įstaiga \"BRAVO TEATRAS\"",
     "code": "302507820",
     "address": "Kaunas, Baltų pr. 179-16, LT-47120"
-  },
-  {
-    "name": "Viešoji įstaiga \"GYČIO IVANAUSKO TEATRAS\"",
-    "code": "300126361",
-    "address": "Vilnius, Šaltinių g. 1-58, LT-03218"
   },
   {
     "name": "Viešoji įstaiga \"Kitoks teatras\"",
@@ -492,6 +492,10 @@
     "name": "VšĮ Apeirono teatras",
     "code": "302895376",
     "address": "Ignalinos r. sav., Ceikinių sen., Valėnų k. 2, LT-30182"
+  },
+  {
+    "name": "VšĮ Baroko operos teatras",
+    "code": "302953477"
   },
   {
     "name": "VšĮ Choreografinių projektų teatras \"VILNIAUS BALETAS\"",
@@ -796,6 +800,11 @@
     "address": "Vilnius, Vilniaus g. 41, LT-01119"
   },
   {
+    "name": "MB \"Teatro cechas\"",
+    "code": "307518678",
+    "address": "Kretingos r. sav., Salantai, M. Valančiaus g. 8, LT-97322"
+  },
+  {
     "name": "MB Alfonsas prie teatro",
     "code": "306173204",
     "address": "Vilnius, Bajorų kel. 5-27, LT-08459"
@@ -918,6 +927,10 @@
     "address": "Vilnius, Arklių g. 5-1, LT-01305"
   },
   {
+    "name": "Vasaros teatro festivalis",
+    "code": "303032052"
+  },
+  {
     "name": "Viešoji įstaiga \"Teatro projektai\"",
     "code": "135890769",
     "address": "Kaunas, T. Masiulio g. 18A, LT-52460"
@@ -961,6 +974,10 @@
     "name": "VŠĮ \"Teatro dienos\"",
     "code": "302470261",
     "address": "Vilnius, Elnių g. 27, LT-08101"
+  },
+  {
+    "name": "VŠĮ \"Teatro pasaulis\"",
+    "code": "302571812"
   },
   {
     "name": "VšĮ \"Teatro Studija MI11\"",

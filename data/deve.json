@@ -1,9 +1,5 @@
 [
   {
-    "name": "MB \"Devecos\"",
-    "code": "306384856"
-  },
-  {
     "name": "UAB \"DEVEGA\"",
     "code": "302575209",
     "address": "Kaunas, Kuršių g. 7-18, LT-48107"
@@ -34,6 +30,10 @@
     "name": "R. Deveikio individuali įmonė",
     "code": "183735580",
     "address": "Utena, Stoties g. 4-1"
+  },
+  {
+    "name": "S. Deveikio individuali įmonė",
+    "code": "154303799"
   },
   {
     "name": "Vytauto Deveikio įmonė",
@@ -156,7 +156,7 @@
   {
     "name": "AK Development, MB",
     "code": "307273086",
-    "address": "Neringa, Gintaro Įlankos g. 14-11, LT-93102"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "AVC Development, UAB",
@@ -234,7 +234,7 @@
   {
     "name": "Fortrea Development Limited filialas",
     "code": "302526913",
-    "address": "Vilnius, Jogailos g. 9, LT-01116"
+    "address": "Vilnius, J. Jasinskio g. 2, LT-01112"
   },
   {
     "name": "GALIO DEVELOPMENT, UAB",
@@ -350,6 +350,11 @@
     "name": "MB Development-service",
     "code": "306773868",
     "address": "Vilnius, Kalvarijų g. 160-296, LT-08207"
+  },
+  {
+    "name": "MB Golden Peak Development",
+    "code": "307512981",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
     "name": "MB Goldline Development",
@@ -478,11 +483,6 @@
     "address": "Kaunas, Savanorių pr. 363, LT-51480"
   },
   {
-    "name": "UAB \"ANDRUM Realty Development\"",
-    "code": "304415872",
-    "address": "Vilnius, Bičiulių g. 21, LT-02236"
-  },
-  {
     "name": "UAB \"AVANGARD DEVELOPMENT COMPANY\"",
     "code": "302462371",
     "address": "Vilniaus m. sav."
@@ -540,7 +540,8 @@
   {
     "name": "UAB \"Demus Development X\"",
     "code": "307506035",
-    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
+    "vatcode": "LT100019402311"
   },
   {
     "name": "UAB \"Demus Development XI\"",
@@ -583,12 +584,6 @@
     "name": "UAB \"GL DEVELOPMENT\"",
     "code": "302484859",
     "address": "Vilnius, Žygimanto Liauksmino g. 3, LT-01101"
-  },
-  {
-    "name": "UAB \"Game Development Kartel\"",
-    "code": "306171413",
-    "address": "Klaipėda, Naujakiemio g. 26, LT-94192",
-    "vatcode": "LT100015569519"
   },
   {
     "name": "UAB \"Golf Development\"",
@@ -740,6 +735,11 @@
     "address": "Vilnius, Veiverių g. 9B-62, LT-11346"
   },
   {
+    "name": "UAB \"Urbanline Development\"",
+    "code": "307517042",
+    "address": "Šiauliai, Petro Motiekaičio g. 2, LT-77104"
+  },
+  {
     "name": "UAB \"VI Development\"",
     "code": "303332943",
     "address": "Kauno r. sav., Karmėlavos sen., Margavos k., Žirgyno g. 3, LT-54471"
@@ -830,6 +830,12 @@
     "vatcode": "LT100006823914"
   },
   {
+    "name": "UAB ITVM Development",
+    "code": "307503249",
+    "address": "Kaunas, Biržiškų g. 1E-20, LT-51436",
+    "vatcode": "LT100019341013"
+  },
+  {
     "name": "UAB Investment Development Agency",
     "code": "226422530",
     "address": "Vilnius, S. Žukausko g. 49-92, LT-09131",
@@ -858,11 +864,6 @@
     "vatcode": "LT100018899617"
   },
   {
-    "name": "UAB North Europe real estate development fund II",
-    "code": "307510959",
-    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
-  },
-  {
     "name": "UAB Oceanside development",
     "code": "305904617",
     "address": "Vilnius, Žygimantų g. 13, LT-01102"
@@ -881,8 +882,7 @@
   {
     "name": "UAB Victory Development II",
     "code": "305501915",
-    "address": "Vilnius, Lvivo g. 101, LT-08104",
-    "vatcode": "LT100013531117"
+    "address": "Vilnius, Lvivo g. 101, LT-08104"
   },
   {
     "name": "UAB Victory Development III",
@@ -900,6 +900,11 @@
     "code": "300043079",
     "address": "Vilnius, Smolensko g. 6, LT-03201",
     "vatcode": "LT100001159318"
+  },
+  {
+    "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"North Europe real estate development fund II\"",
+    "code": "307510959",
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB Demus Development I",

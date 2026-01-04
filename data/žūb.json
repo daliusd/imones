@@ -34,11 +34,6 @@
     "vatcode": "LT100005400117"
   },
   {
-    "name": "Geisteriškių ŽŪB",
-    "code": "302586390",
-    "address": "Vilkaviškio r. sav., Keturvalakiai, Kaštonų g. 23, LT-70321"
-  },
-  {
     "name": "Kulvos ūkis ŽŪB",
     "code": "306157659",
     "address": "Jonavos r. sav., Kulvos sen., Kulvos k., Daigučių g. 8, LT-55350"
@@ -231,11 +226,6 @@
     "vatcode": "LT100011501712"
   },
   {
-    "name": "ŽŪB \"Agro Group\"",
-    "code": "303130692",
-    "address": "Panevėžio r. sav., Smilgių sen., Naurašilių k. 4, LT-38371"
-  },
-  {
     "name": "ŽŪB \"Agroera\"",
     "code": "304137992",
     "address": "Marijampolės sav., Igliaukos sen., Šlavančių k., Daukšių g. 29, LT-69116"
@@ -396,7 +386,8 @@
   {
     "name": "ŽŪB \"EkoGrain\"",
     "code": "304060478",
-    "address": "Anykščiai, Kęstučio g. 113, LT-29143"
+    "address": "Anykščiai, Kęstučio g. 113, LT-29143",
+    "vatcode": "LT100009703819"
   },
   {
     "name": "ŽŪB \"Ekolagra\"",
@@ -572,11 +563,6 @@
     "address": "Kaunas, Ąžuolyno g. 2A, LT-44225"
   },
   {
-    "name": "ŽŪB \"Lando agribalt\"",
-    "code": "300533389",
-    "address": "Utenos r. sav., Vyžuonų sen., Plaušų k., Rašės g. 4, LT-28374"
-  },
-  {
     "name": "ŽŪB \"Litavis\"",
     "code": "304059910",
     "address": "Alytaus r. sav., Miroslavo sen., Papėčių k., Piliakalnio g. 14, LT-64265"
@@ -601,7 +587,7 @@
   {
     "name": "ŽŪB \"Magyla\"",
     "code": "304259188",
-    "address": "Panevėžio rajono savivaldybės teritorija"
+    "address": "Joniškio r. sav., Satkūnų sen., Šarkių k. 3, LT-84395"
   },
   {
     "name": "ŽŪB \"Makutiškių žemė\"",
@@ -623,6 +609,10 @@
     "name": "ŽŪB \"NAISIŲ ŪKIS\"",
     "code": "303308675",
     "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Kaštonų g. 4, LT-14117"
+  },
+  {
+    "name": "ŽŪB \"Noteros ūkis\"",
+    "code": "303444419"
   },
   {
     "name": "ŽŪB \"Obeliai\"",
@@ -666,8 +656,7 @@
   {
     "name": "ŽŪB \"RONER AGRO\"",
     "code": "302347344",
-    "address": "Plungė, Rietavo g. 7, LT-90161",
-    "vatcode": "LT100004864618"
+    "address": "Plungė, Rietavo g. 7, LT-90161"
   },
   {
     "name": "ŽŪB \"Radviliai\"",
@@ -696,6 +685,10 @@
     "code": "302819446",
     "address": "Šiaulių r. sav., Kairių sen., Žadžiūnų k., Gudelių g. 46, LT-80106",
     "vatcode": "LT100007017914"
+  },
+  {
+    "name": "ŽŪB \"Sraigėnai\"",
+    "code": "303272364"
   },
   {
     "name": "ŽŪB \"Suvalkijos agroūkis\"",

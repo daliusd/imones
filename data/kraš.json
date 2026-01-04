@@ -203,9 +203,18 @@
     "address": "Gargždai, Klaipėdos g. 74, LT-96122"
   },
   {
+    "name": "Viešoji įstaiga \"Anykščių kraštas\"",
+    "code": "307517170",
+    "address": "Anykščių r. sav., Viešintos, Vytauto g. 56, LT-29322"
+  },
+  {
     "name": "Viešoji įstaiga \"Baltų kraštas\"",
     "code": "300862534",
     "address": "Vilnius, P. Vileišio g. 29-25, LT-10203"
+  },
+  {
+    "name": "Viešoji įstaiga \"Euroregiono Ežerų kraštas direktorato biuras\"",
+    "code": "300010823"
   },
   {
     "name": "VšĮ \"Gargždų kraštas\"",
@@ -459,7 +468,7 @@
   {
     "name": "Asociacija \"Žemaitkiemio krašto bendruomenė\"",
     "code": "301667537",
-    "address": "Prienų r. sav., Naujosios Ūtos sen., Žemaitkiemio k., Šilo g. 3, LT-59255"
+    "address": "Prienų r. sav."
   },
   {
     "name": "Asociacija Biržų krašto savanoriai",
@@ -1093,6 +1102,10 @@
     "address": "Lazdijų r. sav., Noragėlių sen., Seiliūnų k., Tujų g. 8, LT-67224"
   },
   {
+    "name": "Lazdijų rajono Statiškės krašto bendruomenės komitetas",
+    "code": "302333921"
+  },
+  {
     "name": "Lietuvos Psichiatrų Asociacijos Klaipėdos krašto filialas",
     "code": "301031560",
     "address": "Kretinga, Žemaitės al. 1, LT-97106"
@@ -1471,7 +1484,8 @@
   {
     "name": "Prienų krašto muziejus",
     "code": "188206823",
-    "address": "Prienai, F. Martišiaus g. 13, LT-59118"
+    "address": "Prienai, F. Martišiaus g. 13, LT-59118",
+    "vatcode": "LT100019326312"
   },
   {
     "name": "Profesinė sąjunga Klaipėdos krašto jaunųjų dizainerių susivienijimas",
@@ -1651,6 +1665,10 @@
     "name": "Ukmergės rajono Gružų krašto bendruomenė",
     "code": "306295884",
     "address": "Ukmergės r. sav., Siesikų sen., Gružų k. 9, LT-20321"
+  },
+  {
+    "name": "Utenos krašto epilepsija sergančiųjų ir jų globėjų draugija",
+    "code": "300143873"
   },
   {
     "name": "Utenos krašto žmonių su negalia sąjunga",
@@ -1922,6 +1940,10 @@
     "address": "Kauno r. sav., Čekiškė, Ateities g. 8, LT-54276"
   },
   {
+    "name": "ŠALČIOS KRAŠTO BENDRUOMENĖ",
+    "code": "303206916"
+  },
+  {
     "name": "ŠIAULIŲ KRAŠTO ŪKININKŲ SĄJUNGA",
     "code": "302334222",
     "address": "Šiaulių r. sav., Kužių sen., Beržynės k., Sodų g. 9, LT-80269"
@@ -2098,11 +2120,6 @@
     "name": "Kraštotyros ir meteoritų ieškotojų klubas",
     "code": "305508475",
     "address": "Ukmergės r. sav., Žemaitkiemio sen., Antatilčių k., Samanaraisčio g. 4, LT-20370"
-  },
-  {
-    "name": "Kraštotyros klubas \"Gelžė\"",
-    "code": "145459272",
-    "address": "Šiauliai, Ežero g. 31-33, LT-76284"
   },
   {
     "name": "Lietuvos Kraštotyros draugijos Kelmės skyrius",

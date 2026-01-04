@@ -92,8 +92,7 @@
   {
     "name": "MB \"Instala\"",
     "code": "304760612",
-    "address": "Kaunas, Kleboniškio g. 18-2, LT-44104",
-    "vatcode": "LT100012643414"
+    "address": "Kaunas, Kleboniškio g. 18-2, LT-44104"
   },
   {
     "name": "\"COBRA INSTALACIONES Y SERVICIOS\" S.A. filialas",
@@ -111,6 +110,10 @@
     "code": "110665280",
     "address": "Kaunas, Raudondvario pl. 93, LT-47184",
     "vatcode": "LT106652811"
+  },
+  {
+    "name": "D. Ragėno firma \"Elektrotechnika ir instaliacija\"",
+    "code": "147840083"
   },
   {
     "name": "MB \"Eldo instaliacija\"",
@@ -235,6 +238,10 @@
     "name": "UAB \"Vidaus instaliacinių sistemų grupė\"",
     "code": "300064995",
     "address": "Kaunas, Draugystės g. 19, LT-51230"
+  },
+  {
+    "name": "V. Kubiliaus tikroji ūkinė bendrija \"Instaliacinės sistemos\"",
+    "code": "134559652"
   },
   {
     "name": "MB \"Instalika\"",
@@ -486,6 +493,10 @@
     "address": "Vilnius, Šilo g. 19-13, LT-10317"
   },
   {
+    "name": "MB \"Laukinis instinktas\"",
+    "code": "304106662"
+  },
+  {
     "name": "MB \"Švaros instinktas\"",
     "code": "306046979",
     "address": "Vilnius, Savanorių pr. 27-77, LT-03128"
@@ -583,11 +594,6 @@
     "vatcode": "LT100011617712"
   },
   {
-    "name": "Atsakingos veiklos institutas",
-    "code": "302779425",
-    "address": "Vilnius, Salomėjos Nėries g. 75-93, LT-06327"
-  },
-  {
     "name": "Baltarusijos viešojo administravimo reformų ir transformacijos institutas",
     "code": "302817064",
     "address": "Vilnius, Šv. Stepono g. 29-41, LT-01312"
@@ -608,11 +614,6 @@
     "name": "Butės institutas",
     "code": "303446014",
     "address": "Vilnius, Virginijaus Druskio g. 3-4, LT-04307"
-  },
-  {
-    "name": "EDUCATIO: plėtros ir ugdymo institutas",
-    "code": "302487346",
-    "address": "Vilniaus r. sav."
   },
   {
     "name": "Edukologinės kultūros ir menų institutas",
@@ -690,6 +691,10 @@
     "address": "Vilnius, Latvių g. 17, LT-08123"
   },
   {
+    "name": "Lietuvių gestų kalbos institutas",
+    "code": "121735577"
+  },
+  {
     "name": "Lietuvių kalbos institutas",
     "code": "111955023",
     "address": "Vilnius, P. Vileišio g. 5, LT-10308"
@@ -730,11 +735,6 @@
     "name": "Lietuvos nepriklausomų auditorių institutas",
     "code": "124368620",
     "address": "Vilnius, J. Jasinskio g. 4-17, LT-01112"
-  },
-  {
-    "name": "Lietuvos priklausomybės ligų institutas",
-    "code": "300509299",
-    "address": "Vilnius, Saltoniškių g. 31-302, LT-08106"
   },
   {
     "name": "Lietuvos vartotojų institutas",
@@ -1158,7 +1158,8 @@
   {
     "name": "VIEŠOJI ĮSTAIGA DRAUDIMO IR RIZIKOS VALDYMO INSTITUTAS",
     "code": "300009543",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
+    "address": "Vilnius, Laisvės pr. 60, LT-05120",
+    "vatcode": "LT100019387213"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA EZOTERINĖS INFORMACIJOS INSTITUTAS",
@@ -1470,6 +1471,10 @@
     "address": "Klaipėda, Sausio 15-osios g. 11A-27, LT-91136"
   },
   {
+    "name": "Viešoji įstaiga Sveiko miesto institutas",
+    "code": "234959640"
+  },
+  {
     "name": "Viešoji įstaiga Taikomosios chemijos institutas",
     "code": "303065091",
     "address": "Vilniaus r. sav., Nemenčinė, Piliakalnio g. 68, LT-15175",
@@ -1616,6 +1621,10 @@
     "address": "Šiauliai, A. Mickevičiaus g. 19-55, LT-77162"
   },
   {
+    "name": "VšĮ \"Teisės konsultacijų institutas\"",
+    "code": "302717060"
+  },
+  {
     "name": "VšĮ \"Žaliosios politikos institutas\"",
     "code": "302629653",
     "address": "Vilnius, Šermukšnių g. 6A, LT-01106",
@@ -1730,9 +1739,18 @@
     "address": "Vilnius, Gedimino pr. 64, LT-01111"
   },
   {
+    "name": "VšĮ Jos augimo institutas",
+    "code": "307515835",
+    "address": "Kaunas, Siūlų g. 5-2, LT-45196"
+  },
+  {
     "name": "VšĮ Kalbos tyrimų institutas",
     "code": "305210863",
     "address": "Vilnius, Laisvės pr. 60, LT-05120"
+  },
+  {
+    "name": "VšĮ Kauno parapsichologijos institutas",
+    "code": "300536798"
   },
   {
     "name": "VšĮ Klaus'o Mehnert'o vardo Europos institutas",
@@ -1745,9 +1763,17 @@
     "address": "Vilnius, Žirmūnų g. 116-30, LT-09125"
   },
   {
+    "name": "VšĮ Krikščioniškojo gyvenimo institutas",
+    "code": "304286826"
+  },
+  {
     "name": "VšĮ Krikščionių ortodoksų švietimo ir tyrimų institutas",
     "code": "307178542",
     "address": "Vilnius, Sėlių g. 39-7, LT-08109"
+  },
+  {
+    "name": "VšĮ Kūrybinių industrijų ir inovacijų institutas",
+    "code": "302330640"
   },
   {
     "name": "VšĮ Laimingo darbo institutas",
@@ -1907,11 +1933,6 @@
     "address": "Vilnius, Žvaigždikių g. 49, LT-10238"
   },
   {
-    "name": "Všį Kritinio mąstymo institutas \"Aš manau\"",
-    "code": "305740502",
-    "address": "Trakų r. sav., Lentvario sen., Stirnių k., Saidės g. 8-8, LT-21401"
-  },
-  {
     "name": "Švietimo inovacijų institutas",
     "code": "304412627",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -2006,10 +2027,19 @@
     "address": "Vilnius, Sodų g. 6-25, LT-01313"
   },
   {
+    "name": "The Institute of Mental Health and Psychology, MB",
+    "code": "306331309"
+  },
+  {
     "name": "UAB \"Bloombrand Institute\"",
     "code": "302588758",
     "address": "Vilnius, Svarstyklių g. 18, LT-12189",
     "vatcode": "LT100018345111"
+  },
+  {
+    "name": "UAB \"European institute for regulatory delivery\"",
+    "code": "307529030",
+    "address": "Vilnius, Lvivo g. 11-15, LT-09313"
   },
   {
     "name": "UAB \"Institute of natural medicine\"",
@@ -2123,7 +2153,8 @@
   {
     "name": "VšĮ Institute of Phenotypology",
     "code": "307413079",
-    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
+    "vatcode": "LT100019320212"
   },
   {
     "name": "VšĮ International Childhood Research Institute",
@@ -2233,6 +2264,10 @@
     "address": "Pasvalio r. sav., Pumpėnai, Ąžuolyno a. 3, LT-39235"
   },
   {
+    "name": "Agrarinių ir miškų mokslų institutų asociacija",
+    "code": "302089538"
+  },
+  {
     "name": "INSTO UAB",
     "code": "307134706",
     "address": "Vilnius, Konstitucijos pr. 21A, LT-08105"
@@ -2251,8 +2286,12 @@
   {
     "name": "UAB \"INSTOR\"",
     "code": "302539177",
-    "address": "Vilnius, Rinktinės g. 15-85, LT-09201",
+    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Kiparisų g. 6, LT-14262",
     "vatcode": "LT100008296912"
+  },
+  {
+    "name": "UAB InStoresNow",
+    "code": "301110716"
   },
   {
     "name": "UAB \"Instorm\"",
@@ -2278,7 +2317,8 @@
   {
     "name": "UAB \"Instrukcija\"",
     "code": "301488559",
-    "address": "Klaipėda, Jūrininkų pr. 10-55, LT-95235"
+    "address": "Klaipėda, Jūrininkų pr. 10-55, LT-95235",
+    "vatcode": "LT100019298515"
   },
   {
     "name": "UAB \"Lintaros surinkimo instrukcijos\"",
@@ -2297,7 +2337,7 @@
     "address": "Vilnius, D. Poškos g. 57-4, LT-08114"
   },
   {
-    "name": "MB \"Vairavimo instruktorė\"",
+    "name": "UAB \"Vairavimo instruktorė\"",
     "code": "305825283",
     "address": "Vilnius, Švarioji g. 1-1, LT-11306"
   },

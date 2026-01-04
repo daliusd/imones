@@ -109,6 +109,11 @@
     "address": "Kupiškio r. sav., Kupiškio sen., Plundakų k., Rasų 1-oji g. 3, LT-40105"
   },
   {
+    "name": "VšĮ \"RASŲ GLOBA\"",
+    "code": "307517537",
+    "address": "Vilnius, Rasų g. 39, LT-11351"
+  },
+  {
     "name": "VšĮ \"Senjorų globa\"",
     "code": "302502524",
     "address": "Klaipėda, Šiltnamių g. 5-2, LT-92330"
@@ -159,7 +164,8 @@
   {
     "name": "ALT Academy Global UAB",
     "code": "304168678",
-    "address": "Vilnius, Jogailos g. 9A, LT-01116"
+    "address": "Vilnius, Jogailos g. 9A, LT-01116",
+    "vatcode": "LT100019386114"
   },
   {
     "name": "ALTUS GLOBAL CONSULTING LIMITED filialas",
@@ -452,6 +458,12 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "HPC GLOBAL MB",
+    "code": "306282449",
+    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144",
+    "vatcode": "LT100015850113"
+  },
+  {
     "name": "HW Global, UAB",
     "code": "306125622",
     "address": "Vilniaus r. sav., Sudervės sen., Sudervės k., Riešės g. 2A, LT-14201",
@@ -672,11 +684,6 @@
     "address": "Vilnius, Lvivo g. 13-12, LT-09313"
   },
   {
-    "name": "MB \"MGK Global\"",
-    "code": "306375729",
-    "address": "Vilnius, Perkūnkiemio g. 19A-95, LT-12120"
-  },
-  {
     "name": "MB \"MK GLOBAL LLC\"",
     "code": "307492557",
     "address": "Vilnius, Girulių g. 5, LT-12124"
@@ -776,7 +783,8 @@
   {
     "name": "MB Global Marketing Company",
     "code": "306679504",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
+    "address": "Vilnius, Architektų g. 56-101, LT-04111",
+    "vatcode": "LT100019409611"
   },
   {
     "name": "MB Global Merchant",
@@ -787,7 +795,7 @@
   {
     "name": "MB Global RDI",
     "code": "305681840",
-    "address": "Šiauliai, Karolio Reisono g. 5, LT-76337"
+    "address": "Panevėžys, J. Žemgulio g. 46, LT-35239"
   },
   {
     "name": "MB Global RKO",
@@ -866,7 +874,8 @@
   {
     "name": "MMF Global UAB",
     "code": "307506398",
-    "address": "Jurbarko r. sav., Jurbarkų sen., Vilniškių k., Vidaujos g. 18A, LT-74261"
+    "address": "Jurbarko r. sav., Jurbarkų sen., Vilniškių k., Vidaujos g. 18A, LT-74261",
+    "vatcode": "LT100019347517"
   },
   {
     "name": "MONAT NATURAL EUROPE LIMITED Lietuvos filialas \"MONAT Global Lithuania\"",
@@ -1615,11 +1624,6 @@
     "vatcode": "LT100016963016"
   },
   {
-    "name": "UAB New Horizon Global",
-    "code": "305934724",
-    "address": "Vilnius, Virginijaus Druskio g. 6-18, LT-04305"
-  },
-  {
     "name": "UAB PEPPER GLOBAL AGENCY",
     "code": "304992265",
     "address": "Vilnius, Bitininkų g. 4C-15, LT-08310"
@@ -1712,7 +1716,7 @@
   {
     "name": "VšĮ \"Global Arts Voices\"",
     "code": "307415062",
-    "address": "Vilnius, Pavilnionių g. 34-28, LT-05273"
+    "address": "Vilnius, Aukštaičių g. 5-131, LT-11341"
   },
   {
     "name": "VšĮ \"Global Education and Transformative Learning\"",
@@ -1723,11 +1727,6 @@
     "name": "VšĮ \"OSMOS Global Partnerships\"",
     "code": "304031067",
     "address": "Vilnius, Antakalnio g. 17, LT-10312"
-  },
-  {
-    "name": "VšĮ \"Organic Global Infinity\"",
-    "code": "305540715",
-    "address": "Vilniaus r. sav., Juodšilių sen., Valčiūnų k., Geležinkeliečių g. 3, LT-13222"
   },
   {
     "name": "WITTY GLOBAL UAB",
@@ -1898,11 +1897,6 @@
     "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
   },
   {
-    "name": "UAB \"DEX GlobalPay\"",
-    "code": "306283394",
-    "address": "Vilnius, Žalgirio g. 88-101, LT-09303"
-  },
-  {
     "name": "UAB \"Globalpeak\"",
     "code": "305930206",
     "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194"
@@ -1970,6 +1964,10 @@
     "code": "306343813",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
     "vatcode": "LT100016107614"
+  },
+  {
+    "name": "UAB \"Globalus darbas\"",
+    "code": "303367200"
   },
   {
     "name": "UAB \"Globalus projektavimas\"",
@@ -2116,6 +2114,10 @@
     "name": "UAB \"Synergy Globe\"",
     "code": "302743482",
     "address": "Alytus, Likiškėlių g. 106-63, LT-63355"
+  },
+  {
+    "name": "UAB \"Trans Globe Lithuania\"",
+    "code": "305577674"
   },
   {
     "name": "UAB Globe Wide Consulting",
@@ -2335,6 +2337,10 @@
     "name": "Biržų rajono Legailių globos namai",
     "code": "191528414",
     "address": "Biržų r. sav., Pačeriaukštės sen., Legailių k., Legailių g. 1, LT-41428"
+  },
+  {
+    "name": "Biržų rajono sutrikusios psichikos žmonių globos bendrija",
+    "code": "255318470"
   },
   {
     "name": "Biudžetinė įstaiga KLAIPĖDOS MIESTO GLOBOS NAMAI",
@@ -2566,6 +2572,10 @@
     "address": "Joniškis, Miesto a. 5A-28, LT-84144"
   },
   {
+    "name": "Lietuvos gyvūnų globos draugijos Raseinių skyrius",
+    "code": "272786770"
+  },
+  {
     "name": "Lietuvos gyvūnų globos draugijos Tauragės skyrius",
     "code": "179725858",
     "address": "Tauragė, Veterinarijos g. 12, LT-72221"
@@ -2605,11 +2615,6 @@
     "name": "Lietuvos sutrikusio intelekto žmonių globos bendrijos \"Viltis\" Marijampolės padalinys",
     "code": "191674910",
     "address": "Marijampolė, Bažnyčios g. 19, LT-68298"
-  },
-  {
-    "name": "Lietuvos sutrikusio intelekto žmonių globos bendrijos \"Viltis\" Varėnos padalinys",
-    "code": "191687224",
-    "address": "Varėna, Vytauto g. 12, LT-65184"
   },
   {
     "name": "Lietuvos sutrikusio intelekto žmonių globos bendrijos \"Viltis\" individuali įmonė",
@@ -2833,11 +2838,6 @@
     "address": "Rokiškis, Vytauto g. 35A, LT-42106"
   },
   {
-    "name": "SUTRIKUSIO INTELEKTO ŽMONIŲ GLOBOS BENDRIJA \"SKUODO VILTIS\"",
-    "code": "191549732",
-    "address": "Skuodas, Dariaus ir Girėno g. 48, LT-98120"
-  },
-  {
     "name": "Salako socialinės globos namai",
     "code": "187912035",
     "address": "Zarasų r. sav., Salakas, Daugailių g. 10, LT-32216"
@@ -2846,6 +2846,10 @@
     "name": "Savivaldybių socialinės globos įstaigų vadovų asociacija",
     "code": "171652098",
     "address": "Radviliškio r. sav., Šeduva, Vilniaus g. 4A"
+  },
+  {
+    "name": "Senjorų socialinės globos namų sveikatos apsaugos darbuotojų profesinė sąjunga",
+    "code": "304581292"
   },
   {
     "name": "Seredžiaus senelių globos namai",
@@ -3316,7 +3320,8 @@
   {
     "name": "VšĮ Druskininkų globos ir slaugos namai",
     "code": "304514379",
-    "address": "Kaunas, Aušros g. 24-7, LT-44172"
+    "address": "Kaunas, Aušros g. 24-7, LT-44172",
+    "vatcode": "LT100019350517"
   },
   {
     "name": "VšĮ Globos ir priežiūros centras",
@@ -3327,6 +3332,10 @@
     "name": "VšĮ Globos ir slaugos centras \"Sidabražolė\"",
     "code": "305465732",
     "address": "Šiauliai, Darbininkų g. 27A, LT-76307"
+  },
+  {
+    "name": "VšĮ Gyvūnų globos fondas",
+    "code": "302703897"
   },
   {
     "name": "VšĮ Gyvūnų globos namai \"5 pėdutės\"",
@@ -3479,8 +3488,7 @@
   },
   {
     "name": "UAB \"Globus payments\"",
-    "code": "306044095",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "code": "306044095"
   },
   {
     "name": "UAB \"Globus sitis\"",
@@ -3592,6 +3600,10 @@
     "name": "Neįgaliųjų ir jų tėvų bei globėjų asociacija-MIRABILIA",
     "code": "302761434",
     "address": "Alytus, Topolių g. 11B-33, LT-63336"
+  },
+  {
+    "name": "Utenos krašto epilepsija sergančiųjų ir jų globėjų draugija",
+    "code": "300143873"
   },
   {
     "name": "Utenos rajono vaikų globėjų klubas",

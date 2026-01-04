@@ -1,5 +1,9 @@
 [
   {
+    "name": "\"Visa energija\", UAB",
+    "code": "304230941"
+  },
+  {
     "name": "BALTIC VISA, UAB",
     "code": "305522788",
     "address": "Vilnius, Aukštaičių g. 4C-6, LT-11341",
@@ -348,10 +352,6 @@
     "name": "UAB \"Litmilman\" Visagino filialas",
     "code": "302674164",
     "address": "Visaginas, Taikos pr. 7, LT-31107"
-  },
-  {
-    "name": "UAB \"VISAGINO VAIRUOTOJŲ RUOŠIMO CENTRAS\"",
-    "code": "302855887"
   },
   {
     "name": "UAB \"Visagino Monika\"",
@@ -752,6 +752,10 @@
     "address": "Visaginas, Taikos pr. 7, LT-31107"
   },
   {
+    "name": "Visagino miesto visuomeninė organizacija \"VERAS\"",
+    "code": "155988263"
+  },
+  {
     "name": "Visagino nevyriausybinis socialinės paramos centras",
     "code": "155982762",
     "address": "Visaginas, Festivalio g. 15-47, LT-31145"
@@ -1049,6 +1053,10 @@
     "address": "Vilnius, Priekulės g. 18-1, LT-06283"
   },
   {
+    "name": "Tomo Visakavičiaus ir Aleksandros Markinos tikroji ūkinė bendrija \"Baitnetas\"",
+    "code": "126064993"
+  },
+  {
     "name": "Visalaukės kaimo bendruomenė",
     "code": "306683762",
     "address": "Vilniaus r. sav., Paberžės sen., Visalaukės I k., Šviesos g. 3-7, LT-15101"
@@ -1090,7 +1098,8 @@
   {
     "name": "UAB \"Visaneva\"",
     "code": "306397615",
-    "address": "Vilniaus r. sav., Avižienių sen., Saldenės k., Gervių g. 47, LT-14186"
+    "address": "Vilniaus r. sav., Avižienių sen., Saldenės k., Gervių g. 47, LT-14186",
+    "vatcode": "LT100019328117"
   },
   {
     "name": "UAB \"VISANJA\"",

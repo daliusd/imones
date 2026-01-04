@@ -683,7 +683,7 @@
   {
     "name": "Viešoji įstaiga \"Priešgaisrinių paslaugų garantas\"",
     "code": "135290870",
-    "address": "Kaunas, Veiverių g. 132, LT-46337",
+    "address": "Kaunas, Svirbygalos g. 11B, LT-46280",
     "vatcode": "LT352908716"
   },
   {
@@ -816,7 +816,8 @@
   {
     "name": "UAB Garantplius",
     "code": "307474609",
-    "address": "Vilniaus r. sav., Bezdonių sen., Balsiškių k., Balsiškių g. 13, LT-15208"
+    "address": "Vilniaus r. sav., Bezdonių sen., Balsiškių k., Balsiškių g. 13, LT-15208",
+    "vatcode": "LT100019308314"
   },
   {
     "name": "MB \"Garants\"",
@@ -928,6 +929,11 @@
     "name": "Bendrija \"Verdainės garažai\"",
     "code": "306201422",
     "address": "Šilutė, Tilžės g. 69A-5, LT-99168"
+  },
+  {
+    "name": "Bendrija Raudondvario garažai",
+    "code": "307525523",
+    "address": "Kauno r. sav., Kulautuva, Liepų g. 2-1, LT-53483"
   },
   {
     "name": "GARAŽŲ SAVININKŲ BENDRIJA \"ŠALČININKŲ GARAŽAI\"",
@@ -1186,11 +1192,6 @@
     "name": "UAB Garažas",
     "code": "304834728",
     "address": "Kauno r. sav., Neveronių sen., Neveronių k., Kertupio g. 18, LT-54486"
-  },
-  {
-    "name": "Viešoji įstaiga \"Idėjų garažas\"",
-    "code": "300883628",
-    "address": "Kaunas, Baltų pr. 21-40, LT-48235"
   },
   {
     "name": "Viešoji įstaiga 88 garažas",
@@ -1742,6 +1743,10 @@
     "name": "142-oji garažų statybos ir eksploatavimo bendrija",
     "code": "135408888",
     "address": "Kaunas, Ašigalio g. 22, LT-49228"
+  },
+  {
+    "name": "143-oji garažų savininkų bendrija",
+    "code": "302412571"
   },
   {
     "name": "145-oji garažų eksploatavimo bendrija S. Dariaus ir S. Girėno g. 1a",
@@ -2334,6 +2339,10 @@
     "address": "Panevėžys, Tulpių g. 53, LT-35188"
   },
   {
+    "name": "28-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija",
+    "code": "124760347"
+  },
+  {
     "name": "280-oji garažų statybos ir eksploatavimo bendrija",
     "code": "135410049",
     "address": "Kaunas, V. Krėvės pr. 124, LT-51117"
@@ -2772,7 +2781,7 @@
   {
     "name": "37-oji garažų statybos ir eksploatavimo bendrija",
     "code": "148494727",
-    "address": "Panevėžys, Pelkių g. 12C"
+    "address": "Panevėžys, Pelkių g. 14B K10-8, LT-37461"
   },
   {
     "name": "37-oji laikina metalinių garažų statybos ir eksploatavimo bendrija",
@@ -5792,6 +5801,10 @@
     "address": "Kėdainių r. sav., Vilainių sen., Vilainių k., Melioratorių g. 13-3, LT-58101"
   },
   {
+    "name": "Garažų savininkų bendrija \"Vilainių melioratorius\"",
+    "code": "304522479"
+  },
+  {
     "name": "Garažų savininkų bendrija \"Vilija\"",
     "code": "235319440",
     "address": "Kaunas, Baltų pr. 63-14, LT-48240"
@@ -6484,7 +6497,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Minija\"",
     "code": "180742915",
-    "address": "Telšiai, Pasvaigės g."
+    "address": "Telšiai, Pasvaigės g. 4A, LT-87104"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Mokolai\"",
@@ -7159,7 +7172,7 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Užuovėja\" Nr.4",
     "code": "186494533",
-    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Gamyklos g. 40A"
+    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Gamyklos g. 54A, LT-13251"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"VAIRAS\"",
@@ -7570,11 +7583,6 @@
     "name": "Garažų statybos ir eksploatavimo bendrija \"Žvejų\"",
     "code": "307031268",
     "address": "Anykščiai, A. Vienuolio g. 11-4, LT-29147"
-  },
-  {
-    "name": "Garažų statybos ir eksploatavimo bendrija \"Žvyrakalnis\"",
-    "code": "167610556",
-    "address": "Molėtai, J. Janonio g. 34, LT-33130"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija Nr. 10",

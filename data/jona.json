@@ -38,6 +38,10 @@
     "address": "Palanga, Laukų g. 10-3, LT-00108"
   },
   {
+    "name": "Raisos Jonaitienės įmonė",
+    "code": "144919682"
+  },
+  {
     "name": "Reginos Jonaitienės individuali įmonė",
     "code": "174570279",
     "address": "Skuodo r. sav., Ylakių sen., Vižančių k., Mokyklos g. 5, LT-98322",
@@ -471,7 +475,8 @@
   {
     "name": "Jonavos Jeronimo Ralio gimnazija",
     "code": "190301488",
-    "address": "Jonava, Žeimių g. 20, LT-55125"
+    "address": "Jonava, Žeimių g. 20, LT-55125",
+    "vatcode": "LT100019366614"
   },
   {
     "name": "Jonavos Jeronimo Ralio gimnazijos darbuotojų profesinė sąjunga",
@@ -548,6 +553,10 @@
     "name": "Jonavos globos namai",
     "code": "191643822",
     "address": "Jonava, Žeimių tak. 7, LT-55130"
+  },
+  {
+    "name": "Jonavos gydytojų sąjunga",
+    "code": "157010673"
   },
   {
     "name": "Jonavos jaunimo mokyklos darbuotojų profesinė sąjunga",
@@ -747,7 +756,7 @@
   {
     "name": "Jonavos rajono savivaldybės administracijos Šilų seniūnija",
     "code": "188612717",
-    "address": "Jonavos r. sav., Šilų sen., Šilų k."
+    "address": "Jonavos r. sav., Šilų sen., Šilų k., Beržų g. 2A, LT-55463"
   },
   {
     "name": "Jonavos rajono savivaldybės administracijos Žeimių seniūnija",
@@ -823,6 +832,10 @@
     "name": "Jonavos rajono ūkininkų sąjunga",
     "code": "300037286",
     "address": "Jonava, Žeimių g. 13, LT-55158"
+  },
+  {
+    "name": "Jonavos rajono žemės ūkio bendrovė \"Girnos\"",
+    "code": "156628243"
   },
   {
     "name": "Jonavos rajono žemės ūkio bendrovė \"Portulaka\"",
@@ -1113,6 +1126,11 @@
     "vatcode": "LT100013071810"
   },
   {
+    "name": "UAB Jonavos lombardas",
+    "code": "307526828",
+    "address": "Jonava, Kosmonautų g. 7-44, LT-55136"
+  },
+  {
     "name": "UAB Jonavos odontologijos centras",
     "code": "156706133",
     "address": "Jonava, J. Ralio g. 5-4, LT-55182"
@@ -1182,8 +1200,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Jonavos statybinės medžiagos\"",
     "code": "156695758",
-    "address": "Jonava, Darbininkų g. 7, LT-55101",
-    "vatcode": "LT566957515"
+    "address": "Jonava, Darbininkų g. 7, LT-55101"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Jonavos vaistinė\"",
@@ -1239,24 +1256,9 @@
     "address": "Jonava, A. Kulviečio g. 8A, LT-55216"
   },
   {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Batėgalos medicinos punktas",
-    "code": "190322849",
-    "address": "Jonavos r. sav., Kulvos sen., Batėgalos k., Rodžių g. 12, LT-55343"
-  },
-  {
     "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Bukonių slaugos ir palaikomojo gydymo skyrius",
     "code": "303413007",
     "address": "Jonavos r. sav., Bukonių sen., Bukonių k., Jaunystės g. 2, LT-55414"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Išorų medicinos punktas",
-    "code": "190325763",
-    "address": "Jonavos r. sav., Užusalių sen., Išorų k., Saulėtekio g. 2, LT-55328"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Kulvos medicinos punktas",
-    "code": "191390867",
-    "address": "Jonavos r. sav., Kulvos sen., Kulvos k., Tarybų g. 6-5, LT-55350"
   },
   {
     "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Panoterių ambulatorija",
@@ -1272,21 +1274,6 @@
     "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Upninkų ambulatorija",
     "code": "303298487",
     "address": "Jonavos r. sav., Upninkų sen., Upninkų k., Jaunystės g. 7, LT-55486"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Užusalių medicinos punktas",
-    "code": "190325578",
-    "address": "Jonavos r. sav., Užusalių sen., Užusalių k., Taikos g. 27, LT-55333"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Čičinų medicinos punktas",
-    "code": "190322991",
-    "address": "Jonavos r. sav., Kulvos sen., Čičinų k., Sodo g. 4, LT-55243"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Šilų medicinos punktas",
-    "code": "190323221",
-    "address": "Jonavos r. sav., Šilų sen., Šilų k., Lokio g. 5, LT-55463"
   },
   {
     "name": "Viešosios įstaigos Jonavos pirminės sveikatos priežiūros centro filialas Šveicarijos ambulatorija",

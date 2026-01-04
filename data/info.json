@@ -76,6 +76,10 @@
     "address": "Kaunas, Islandijos pl. 95-57, LT-49176"
   },
   {
+    "name": "UAB \"RELAX INFO\"",
+    "code": "302525494"
+  },
+  {
     "name": "UAB Euro Info",
     "code": "303012911",
     "address": "Vilnius, Rygos g. 29-12, LT-05221"
@@ -117,6 +121,14 @@
     "code": "122361495",
     "address": "Vilnius, A. Goštauto g. 8-313, LT-01108",
     "vatcode": "LT223614917"
+  },
+  {
+    "name": "INFOBALT ASOCIACIJOS FONDO individuali įmonė INFOBALT CENTRAS",
+    "code": "124022390"
+  },
+  {
+    "name": "Viešoji įstaiga INFOBALT autorinių teisių agentūra",
+    "code": "124014148"
   },
   {
     "name": "UAB \"Infobasis\"",
@@ -465,6 +477,10 @@
     "address": "Vilnius, Laisvės pr. 60, LT-05120"
   },
   {
+    "name": "Individuali įmonė \"Studija informa\"",
+    "code": "300565426"
+  },
+  {
     "name": "UAB \"Informa LT\"",
     "code": "305216948",
     "address": "Panevėžys, J. Janonio g. 1, LT-35101",
@@ -641,7 +657,8 @@
   {
     "name": "Labdaros ir paramos fondas \"Nevyriausybinių organizacijų informacijos ir paramos centras\"",
     "code": "192013926",
-    "address": "Vilnius, A. Jakšto g. 9-301"
+    "address": "Vilnius, A. Jakšto g. 9-301",
+    "vatcode": "LT100019407918"
   },
   {
     "name": "Lietuvos odontologų informacijos centras",
@@ -825,6 +842,10 @@
     "name": "Vartotojų informacijos centras",
     "code": "303728857",
     "address": "Vilnius, Lazdakiemio g. 3, LT-14193"
+  },
+  {
+    "name": "Varėnos turizmo ir verslo informacijos centras",
+    "code": "300058775"
   },
   {
     "name": "Verslo informacijos agentūra, UAB",
@@ -1088,11 +1109,6 @@
     "address": "Klaipėda, Naikupės g. 21-16, LT-93205"
   },
   {
-    "name": "VšĮ Tarptautinis informacijos ir mobilumo centras",
-    "code": "302596032",
-    "address": "Vilnius, Riovonių g. 71A, LT-03154"
-  },
-  {
     "name": "VšĮ Teatro informacijos centras",
     "code": "305595989",
     "address": "Vilnius, Minties g. 34-26, LT-09222",
@@ -1145,6 +1161,10 @@
     "code": "125566263",
     "address": "Vilnius, S. Stanevičiaus g. 52-57, LT-07116",
     "vatcode": "LT255662610"
+  },
+  {
+    "name": "UAB \"Informaciniai stendai\"",
+    "code": "302465677"
   },
   {
     "name": "Informacinio raštingumo draugija",
@@ -1245,6 +1265,10 @@
     "code": "135920073",
     "address": "Kaunas, R. Kalantos g. 19, LT-52302",
     "vatcode": "LT359200716"
+  },
+  {
+    "name": "IĮ \"Informacinių technologijų paslaugos\"",
+    "code": "300530681"
   },
   {
     "name": "Kauno informacinių technologijų mokykla",
@@ -1416,6 +1440,10 @@
     "name": "VšĮ Panevėžio informacinių technologijų mokykla",
     "code": "306884854",
     "address": "Panevėžys, Parko g. 37-204, LT-37322"
+  },
+  {
+    "name": "G. Gedvilienės firma \"Vartotojų informacinė struktūra\"",
+    "code": "163396012"
   },
   {
     "name": "UAB \"INFORMACINĖ RAIDA\"",
@@ -1709,13 +1737,13 @@
   {
     "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė Groa Real Estate Fund I, UAB",
     "code": "304447891",
-    "address": "Vilnius, Dominikonų g. 9-5, LT-01131",
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
     "vatcode": "LT100014057619"
   },
   {
     "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė Groa Real Estate Opportunity Fund, UAB",
     "code": "306105096",
-    "address": "Vilnius, Dominikonų g. 9-5, LT-01131",
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
     "vatcode": "LT100017365110"
   },
   {
@@ -1805,6 +1833,12 @@
     "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė Practica Venture Capital III KŪB",
     "code": "306161159",
     "address": "Vilnius, Lvivo g. 25-104, LT-09320"
+  },
+  {
+    "name": "Uždarojo tipo informuotiesiems investuotojams skirta KŪB \"Mana investicinė bendrovė\"",
+    "code": "307316114",
+    "address": "Kaunas, Gedimino g. 46-4, LT-44240",
+    "vatcode": "LT100019040510"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė \"BSGF Salt Invest\"",
@@ -1960,8 +1994,13 @@
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"EIKA REAL ESTATE FUND\"",
     "code": "304959653",
-    "address": "Vilnius, A. Goštauto g. 40B, LT-03163",
+    "address": "Vilnius, J. Jasinskio g. 2, LT-01112",
     "vatcode": "LT100014657415"
+  },
+  {
+    "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"North Europe real estate development fund II\"",
+    "code": "307510959",
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"PREF III\"",
@@ -2136,12 +2175,12 @@
   {
     "name": "Asociacija \"LT INFORUM\"",
     "code": "302443531",
-    "address": "Vilnius, Pramonės g. 97-401, LT-11115"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "Asociacijos \"LT INFORUM\" paramos fondas",
     "code": "302550145",
-    "address": "Vilnius, Pramonės g. 97-401, LT-11115",
+    "address": "Vilniaus m. sav.",
     "vatcode": "LT100014539219"
   },
   {
@@ -2149,6 +2188,10 @@
     "code": "300500948",
     "address": "Šiauliai, Pramonės g. 12A, LT-78150",
     "vatcode": "LT100001967915"
+  },
+  {
+    "name": "IĮ \"INFOSANA\"",
+    "code": "300070884"
   },
   {
     "name": "UAB \"Infosas\"",

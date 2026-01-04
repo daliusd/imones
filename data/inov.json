@@ -348,6 +348,10 @@
     "vatcode": "LT100017855519"
   },
   {
+    "name": "Mažoji bendrija Sveikatos inovacijos",
+    "code": "305656050"
+  },
+  {
     "name": "Mažoji bendrija Verslumas ir inovacijos",
     "code": "307021014",
     "address": "Vilniaus r. sav., Buivydžių sen., Buivydžių I k., Bažnyčios g. 22, LT-15214"
@@ -495,7 +499,7 @@
   {
     "name": "UAB \"Verslo inovacijos ir technologijos\"",
     "code": "303182600",
-    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "UAB \"XXI amžiaus namų statybos inovacijos\"",
@@ -602,6 +606,11 @@
     "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
+    "name": "Asociacija Klaipėdos FM inovacijų centras",
+    "code": "307527990",
+    "address": "Klaipėda, Pasvalio g. 3, LT-92307"
+  },
+  {
     "name": "Ekonomikos ir inovacijų ministerijos darbuotojų profesinė sąjunga",
     "code": "306713497",
     "address": "Vilnius, Gedimino pr. 38, LT-01104"
@@ -630,6 +639,10 @@
     "name": "Jaunimo inovacijų klubas",
     "code": "304433824",
     "address": "Kaunas, Mėlynių tak. 1, LT-48442"
+  },
+  {
+    "name": "Kaimo verslo ir inovacijų plėtros agentūra",
+    "code": "300713832"
   },
   {
     "name": "Kauno švietimo inovacijų centras",
@@ -793,7 +806,7 @@
   {
     "name": "Mokslo tyrimų ir inovacijų klinika, UAB",
     "code": "305839607",
-    "address": "Vilnius, Č. Sugiharos g. 7-47, LT-05115"
+    "address": "Vilnius, Perkūnkiemio g. 18-52, LT-12121"
   },
   {
     "name": "Moterų veiklos inovacijų centras",
@@ -847,6 +860,10 @@
     "code": "306280590",
     "address": "Klaipėda, Liepų g. 83, LT-92195",
     "vatcode": "LT100016579612"
+  },
+  {
+    "name": "UAB \"Inovacijų erdvė\"",
+    "code": "304692887"
   },
   {
     "name": "UAB \"Inovacijų grupė\"",
@@ -958,6 +975,10 @@
     "address": "Vilnius, Kolektyvo g. 66, LT-08350"
   },
   {
+    "name": "VIEŠOJI ĮSTAIGA UGDYMO INOVACIJŲ CENTRAS",
+    "code": "125250639"
+  },
+  {
     "name": "Viešoji įstaiga \"Elektroninio verslo ir inovacijų plėtros agentūra\"",
     "code": "302300647",
     "address": "Kaunas, Tverečiaus g. 6, LT-50116"
@@ -992,6 +1013,14 @@
     "code": "125447177",
     "address": "Vilnius, Juozo Balčikonio g. 3, LT-08247",
     "vatcode": "LT254471716"
+  },
+  {
+    "name": "Viešoji įstaiga Inovacijų valdymo centras",
+    "code": "148531410"
+  },
+  {
+    "name": "Viešoji įstaiga Inovacijų vystymo centras",
+    "code": "300597598"
   },
   {
     "name": "Viešoji įstaiga LIETUVOS INOVACIJŲ CENTRAS",
@@ -1126,6 +1155,18 @@
     "name": "VšĮ Inovacijų dirbtuvės AKIRATIS",
     "code": "306052462",
     "address": "Vilnius, Paberžės g. 6-29, LT-07154"
+  },
+  {
+    "name": "VšĮ Kompetencijų ir inovacijų centras",
+    "code": "302587396"
+  },
+  {
+    "name": "VšĮ Kūrybinių industrijų ir inovacijų centras",
+    "code": "303634856"
+  },
+  {
+    "name": "VšĮ Kūrybinių industrijų ir inovacijų institutas",
+    "code": "302330640"
   },
   {
     "name": "VšĮ Kūrybos ir inovacijų laboratorija",
@@ -1347,7 +1388,8 @@
   {
     "name": "UAB Inovastatus",
     "code": "307496203",
-    "address": "Klaipėdos r. sav., Dovilai, Šviesos g. 16, LT-96225"
+    "address": "Klaipėdos r. sav., Dovilai, Šviesos g. 16, LT-96225",
+    "vatcode": "LT100019346115"
   },
   {
     "name": "MB \"Inovata\"",
@@ -1443,7 +1485,8 @@
   {
     "name": "Viešoji įstaiga \"Inovatorių slėnis\"",
     "code": "304130193",
-    "address": "Zarasų r. sav., Antalieptė, Mokyklos g. 10, LT-32243"
+    "address": "Zarasų r. sav., Antalieptė, Mokyklos g. 10, LT-32243",
+    "vatcode": "LT100019282216"
   },
   {
     "name": "UAB \"Inovatservisas\"",
@@ -1553,7 +1596,8 @@
   {
     "name": "MB \"Inovatyvi šiluma\"",
     "code": "307066746",
-    "address": "Vilniaus r. sav., Nemėžio sen., Kuprioniškių k., Daumanto g. 11-2, LT-13279"
+    "address": "Vilniaus r. sav., Nemėžio sen., Kuprioniškių k., Daumanto g. 11-2, LT-13279",
+    "vatcode": "LT100019324911"
   },
   {
     "name": "MB Inovatyvi rezervacija",
@@ -1647,7 +1691,8 @@
   },
   {
     "name": "MB \"Inovatyvios aplikacijos\"",
-    "code": "304741971"
+    "code": "304741971",
+    "address": "Tauragė, Jūros g. 29, LT-72212"
   },
   {
     "name": "MB \"Inovatyvios konstrukcijos\"",
@@ -2014,7 +2059,8 @@
   {
     "name": "UAB Inovelo",
     "code": "307069913",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100019345914"
   },
   {
     "name": "UAB \"Inoventas\"",

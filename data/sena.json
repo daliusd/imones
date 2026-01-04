@@ -127,11 +127,6 @@
     "address": "Vilnius, Apolinaro Juozo Povilaičio g. 12-24, LT-04337"
   },
   {
-    "name": "UAB \"Senamiestis vakare\"",
-    "code": "304480457",
-    "address": "Kaunas, Vilniaus g. 26-21, LT-44287"
-  },
-  {
     "name": "UAB \"Telšių Senamiestis\"",
     "code": "305920646",
     "address": "Telšiai, Turgaus a. 13-1, LT-87122",
@@ -257,7 +252,8 @@
   {
     "name": "MB \"Senamiesčio Apdaila\"",
     "code": "306124171",
-    "address": "Kaunas, Partizanų g. 216-77, LT-50319"
+    "address": "Kaunas, Partizanų g. 216-77, LT-50319",
+    "vatcode": "LT100019383412"
   },
   {
     "name": "MB \"Senamiesčio autoservisas\"",
@@ -369,6 +365,10 @@
     "name": "UAB \"Senamiesčio aikštelė\"",
     "code": "235769640",
     "address": "Kaunas, D. Poškos g. 12A, LT-44293"
+  },
+  {
+    "name": "UAB \"Senamiesčio fėjos\"",
+    "code": "303117766"
   },
   {
     "name": "UAB \"Senamiesčio gidas\"",
@@ -502,6 +502,10 @@
     "name": "Ukmergės Senamiesčio progimnazija",
     "code": "190341810",
     "address": "Ukmergė, Sodų g. 7, LT-20129"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"SENAMIESČIO DIZAINO SALONAS\"",
+    "code": "122049862"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"SENAMIESČIO MAGIJA\"",
@@ -729,6 +733,10 @@
     "address": "Šilutė, Aukštumalės g. 39-13, LT-99132"
   },
   {
+    "name": "J. JAKUBONIO ĮMONĖ \"SENASIS AUKURAS\"",
+    "code": "168449764"
+  },
+  {
     "name": "Lietuvos ir Vokietijos uždaroji akcinė bendrovė \"VILNIAUS SENASIS RŪSYS\"",
     "code": "110437825",
     "address": "Vilnius, Šv. Ignoto g. 16, LT-01144",
@@ -929,6 +937,10 @@
     "name": "Vilniaus senasis teatras",
     "code": "190754111",
     "address": "Vilnius, J. Basanavičiaus g. 13, LT-03108"
+  },
+  {
+    "name": "Vito Dambrausko įmonė \"Senasis rūsys\"",
+    "code": "144984274"
   },
   {
     "name": "VšĮ \"Senasis Ramygalos malūnas\"",
