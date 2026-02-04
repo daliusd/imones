@@ -10,10 +10,6 @@
     "address": "Vilnius, Girių g. 31-3, LT-02238"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Trys taškai\"",
-    "code": "133507072"
-  },
-  {
     "name": "VIEŠIEJI INTERNETO PRIEIGOS TAŠKAI (VIPT)",
     "code": "300618195",
     "address": "Vilnius, S. Žukausko g. 18-30, LT-08234"
@@ -63,8 +59,7 @@
   {
     "name": "MB \"Atspirties taškas\"",
     "code": "306255950",
-    "address": "Plungė, Miškų g. 24, LT-90155",
-    "vatcode": "LT100015821412"
+    "address": "Plungė, Miškų g. 24, LT-90155"
   },
   {
     "name": "MB \"Baltas taškas\"",
@@ -99,8 +94,7 @@
   {
     "name": "MB \"Grožio taškas\"",
     "code": "305200367",
-    "address": "Šiauliai, Lyros g. 7-48, LT-78286",
-    "vatcode": "LT100018643619"
+    "address": "Šiauliai, Lyros g. 7-48, LT-78286"
   },
   {
     "name": "MB \"IT ir taškas\"",
@@ -138,13 +132,17 @@
   {
     "name": "MB \"Rasos taškas\"",
     "code": "305738825",
-    "address": "Vilnius, Elbingo g. 17-11, LT-06285",
-    "vatcode": "LT100015175619"
+    "address": "Vilnius, Elbingo g. 17-11, LT-06285"
   },
   {
     "name": "MB \"Reklamos taškas\"",
     "code": "305176966",
     "address": "Kaunas, Medvėgalio g. 4-8, LT-44443"
+  },
+  {
+    "name": "MB \"Skonio taškas\"",
+    "code": "307551322",
+    "address": "Vilnius, Ožkinių Sodų 4-oji g. 8, LT-08434"
   },
   {
     "name": "MB \"Įvaizdžio taškas\"",
@@ -179,8 +177,7 @@
   {
     "name": "MB Statybų taškas",
     "code": "305726495",
-    "address": "Kauno r. sav., Alšėnų sen., Jonučių k., Gulbės g. 9D, LT-53212",
-    "vatcode": "LT100013944518"
+    "address": "Kauno r. sav., Alšėnų sen., Jonučių k., Gulbės g. 9D, LT-53212"
   },
   {
     "name": "MB Tamsos Taškas",
@@ -196,6 +193,11 @@
     "name": "Mažoji bendrija \"Kelionių taškas\"",
     "code": "306653018",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
+    "name": "Mažoji bendrija Gydomasis taškas",
+    "code": "307563367",
+    "address": "Kėdainiai, J. Basanavičiaus g. 25-26, LT-57189"
   },
   {
     "name": "Sporto klubas \"Gargždų taškas\"",
@@ -216,19 +218,12 @@
   {
     "name": "UAB \"Auksinis taškas\"",
     "code": "306264547",
-    "address": "Mažeikiai, Senkelio g. 18A, LT-89126",
-    "vatcode": "LT100016286111"
-  },
-  {
-    "name": "UAB \"Automobilių perdirbimo taškas\"",
-    "code": "305220569",
-    "address": "Tauragė, Pramonės g. 5T, LT-72359"
+    "address": "Mažeikiai, Senkelio g. 18A, LT-89126"
   },
   {
     "name": "UAB \"Baldų taškas\"",
     "code": "304995101",
-    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., K. Dulksnio g. 13, LT-53304",
-    "vatcode": "LT100012154115"
+    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., K. Dulksnio g. 13, LT-53304"
   },
   {
     "name": "UAB \"CNC taškas\"",
@@ -238,8 +233,7 @@
   {
     "name": "UAB \"Dizaino taškas\"",
     "code": "301579578",
-    "address": "Kaunas, Medvėgalio g. 4-8, LT-44443",
-    "vatcode": "LT100005328110"
+    "address": "Kaunas, Medvėgalio g. 4-8, LT-44443"
   },
   {
     "name": "UAB \"Dvigubas taškas\"",
@@ -261,20 +255,17 @@
   {
     "name": "UAB \"Mėsos taškas\"",
     "code": "304944434",
-    "address": "Klaipėda, Jūros g. 2-11, LT-92118",
-    "vatcode": "LT100012004718"
+    "address": "Klaipėda, Jūros g. 2-11, LT-92118"
   },
   {
     "name": "UAB \"Ratų taškas\"",
     "code": "304406243",
-    "address": "Klaipėda, Jūrininkų pr. 2, LT-95264",
-    "vatcode": "LT100010467811"
+    "address": "Klaipėda, Jūrininkų pr. 2, LT-95264"
   },
   {
     "name": "UAB \"Raudonas taškas\"",
     "code": "304532847",
-    "address": "Vilnius, Savičiaus g. 3A, LT-01127",
-    "vatcode": "LT100014402112"
+    "address": "Vilnius, Savičiaus g. 3A, LT-01127"
   },
   {
     "name": "UAB \"Remonto taškas\"",
@@ -284,8 +275,7 @@
   {
     "name": "UAB \"Taškas ir Mekas\"",
     "code": "306173930",
-    "address": "Kaunas, Europos pr. 122, LT-46351",
-    "vatcode": "LT100015909410"
+    "address": "Kaunas, Europos pr. 122, LT-46351"
   },
   {
     "name": "UAB \"Taškas į tašką ir kompanija\"",
@@ -307,8 +297,7 @@
   {
     "name": "UAB \"Tvirtas taškas\"",
     "code": "305588642",
-    "address": "Alytus, Naujoji g. 126, LT-62175",
-    "vatcode": "LT100013284916"
+    "address": "Alytus, Naujoji g. 126, LT-62175"
   },
   {
     "name": "UAB \"Verslo taškas\"",
@@ -323,8 +312,7 @@
   {
     "name": "UAB \"Vėjo taškas\"",
     "code": "306259849",
-    "address": "Kauno r. sav., Babtai, Šiltnamių g. 8, LT-54334",
-    "vatcode": "LT100015830119"
+    "address": "Kauno r. sav., Babtai, Šiltnamių g. 8, LT-54334"
   },
   {
     "name": "UAB \"Šiaurinis taškas\"",
@@ -335,14 +323,12 @@
   {
     "name": "UAB \"Šilumos taškas\"",
     "code": "304757064",
-    "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Melioratorių g. 9-30, LT-38187",
-    "vatcode": "LT100012429315"
+    "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Melioratorių g. 9-30, LT-38187"
   },
   {
     "name": "UAB EKO TAŠKAS",
     "code": "304503183",
-    "address": "Kauno r. sav., Alšėnų sen., Dievogalos k., Stiklo g. 11, LT-53321",
-    "vatcode": "LT100011249917"
+    "address": "Kauno r. sav., Alšėnų sen., Dievogalos k., Stiklo g. 11, LT-53321"
   },
   {
     "name": "UAB Vienuoliktas taškas",
@@ -365,8 +351,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"TE taškas\"",
     "code": "148510245",
-    "address": "Panevėžys, S. Kerbedžio g. 4, LT-35102",
-    "vatcode": "LT485102417"
+    "address": "Panevėžys, S. Kerbedžio g. 4, LT-35102"
   },
   {
     "name": "Viešoji įstaiga \"Žaliasis taškas\"",
@@ -448,8 +433,7 @@
   {
     "name": "UAB \"Energija taškos\"",
     "code": "304219795",
-    "address": "Tauragė, Strazdo g. 11, LT-72217",
-    "vatcode": "LT100010171013"
+    "address": "Tauragė, Strazdo g. 11, LT-72217"
   },
   {
     "name": "MB \"IK taškuota\"",

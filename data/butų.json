@@ -796,13 +796,17 @@
   {
     "name": "Akcinė bendrovė \"PANEVĖŽIO BUTŲ ŪKIS\"",
     "code": "147146714",
-    "address": "Panevėžys, Beržų g. 48, LT-36145",
-    "vatcode": "LT471467113"
+    "address": "Panevėžys, Beržų g. 48, LT-36145"
   },
   {
     "name": "Asociacija \"LIETUVOS BUTŲ ŪKIS\"",
     "code": "122256957",
     "address": "Druskininkai, Ligoninės g. 12, LT-66249"
+  },
+  {
+    "name": "Atvirojo tipo specialioji nekilnojamojo turto investicinė kintamojo kapitalo bendrovė \"Demus Atviro Butų Fondo Investicijos\"",
+    "code": "307467618",
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
   },
   {
     "name": "Baltų pr. 13 butų savininkų bendrija",
@@ -1301,7 +1305,8 @@
   },
   {
     "name": "Butų savininkų bendrija \"Rūta\"",
-    "code": "165378447"
+    "code": "135321668",
+    "address": "Kaunas, Demokratų g. 37, LT-48495"
   },
   {
     "name": "Butų savininkų bendrija \"Sanitarija\"",
@@ -1779,12 +1784,6 @@
     "address": "Klaipėda, Galinio Pylimo g. 24-1, LT-91232"
   },
   {
-    "name": "UAB \"Demus Atviro butų fondo investicijos\"",
-    "code": "307467618",
-    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
-    "vatcode": "LT100019362218"
-  },
-  {
     "name": "UAB Butų bankas",
     "code": "305047658",
     "address": "Marijampolės sav., Liudvinavo sen., Liepynų k., Poilsio g. 3, LT-68126"
@@ -1797,8 +1796,7 @@
   {
     "name": "UAB Kauno butų ūkis",
     "code": "132532496",
-    "address": "Kaunas, Chemijos g. 18, LT-51339",
-    "vatcode": "LT325324917"
+    "address": "Kaunas, Chemijos g. 18, LT-51339"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Alytaus butų ūkis\"",
@@ -1814,14 +1812,12 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Biržų butų ūkis\"",
     "code": "254709320",
-    "address": "Biržai, Rotušės g. 12-1, LT-41175",
-    "vatcode": "LT547093219"
+    "address": "Biržai, Rotušės g. 12-1, LT-41175"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Druskininkų butų ūkis\"",
     "code": "152007157",
-    "address": "Druskininkai, Ligoninės g. 12, LT-66249",
-    "vatcode": "LT520071515"
+    "address": "Druskininkai, Ligoninės g. 12, LT-66249"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kaišiadorių butų ūkis\"",
@@ -1830,26 +1826,19 @@
     "vatcode": "LT588060219"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Marijampolės butų ūkis\"",
-    "code": "151005356"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Pasvalio butų ūkis\"",
     "code": "169176222",
-    "address": "Pasvalys, Gėlių g. 5A, LT-39136",
-    "vatcode": "LT691762219"
+    "address": "Pasvalys, Gėlių g. 5A, LT-39136"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Prienų butų ūkis\"",
     "code": "170609076",
-    "address": "Prienai, Kęstučio g. 37, LT-59129",
-    "vatcode": "LT706090716"
+    "address": "Prienai, Kęstučio g. 37, LT-59129"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Ukmergės butų ūkis\"",
     "code": "182701785",
-    "address": "Ukmergė, S. Daukanto g. 18, LT-20176",
-    "vatcode": "LT827017811"
+    "address": "Ukmergė, S. Daukanto g. 18, LT-20176"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Utenos butų ūkis\"",
@@ -1860,20 +1849,17 @@
   {
     "name": "Uždaroji akcinė bendrovė Ignalinos butų ūkis",
     "code": "255512870",
-    "address": "Ignalina, Turistų g. 9, LT-30105",
-    "vatcode": "LT555128716"
+    "address": "Ignalina, Turistų g. 9, LT-30105"
   },
   {
     "name": "Uždaroji akcinė bendrovė JONIŠKIO BUTŲ ŪKIS",
     "code": "157521319",
-    "address": "Joniškis, Vilniaus g. 46, LT-84166",
-    "vatcode": "LT575213113"
+    "address": "Joniškis, Vilniaus g. 46, LT-84166"
   },
   {
     "name": "Uždaroji akcinė bendrovė Telšių butų ūkis",
     "code": "180102018",
-    "address": "Telšiai, Plungės g. 29, LT-87329",
-    "vatcode": "LT801020113"
+    "address": "Telšiai, Plungės g. 29, LT-87329"
   },
   {
     "name": "Veteranų g. 20 namo butų savininkų bendrija",
@@ -1919,11 +1905,6 @@
     "name": "Visagino m. Statybininkų g. 18 daugiabučio namo butų savininkų bendrija",
     "code": "302736395",
     "address": "Visaginas, Sedulinos al. 12-23, LT-31128"
-  },
-  {
-    "name": "Šiaulių komunalinio ir butų ūkio įmonių asociacija",
-    "code": "145639338",
-    "address": "Šiauliai, J. Sondeckio g. 20, LT-78214"
   },
   {
     "name": "Šiaurės 7 daugiabučio namo butų savininkų bendrija",
