@@ -1,9 +1,5 @@
 [
   {
-    "name": "Evan express, UAB",
-    "code": "305438183"
-  },
-  {
     "name": "MB Evan statyba",
     "code": "306658809",
     "address": "Raseinių r. sav., Betygalos sen., Saugailių k., Kuranto g. 27, LT-60214"
@@ -11,8 +7,7 @@
   {
     "name": "UAB Evan service group",
     "code": "305727184",
-    "address": "Jonava, Ateities g. 10, LT-55156",
-    "vatcode": "LT100014094613"
+    "address": "Jonava, Ateities g. 10, LT-55156"
   },
   {
     "name": "MB \"Evana LT\"",
@@ -106,10 +101,6 @@
     "name": "Telšių m. Evangelijos bažnyčia",
     "code": "192084357",
     "address": "Telšiai, Kalno g. 10, LT-87131"
-  },
-  {
-    "name": "Šiaulių m. pilnos Evangelijos bažnyčios \"Tiesos žodis\" įmonė",
-    "code": "144714282"
   },
   {
     "name": "Šiaulių miesto evangelijos krikščionių bažnyčia",
@@ -529,8 +520,7 @@
   {
     "name": "VIEŠOJI ĮSTAIGA Vilniaus evangelikų liuteronų bažnyčios diakonija \"VILNIAUS SANDORA\"",
     "code": "121900178",
-    "address": "Vilnius, Vokiečių g. 22, LT-01130",
-    "vatcode": "LT219001716"
+    "address": "Vilnius, Vokiečių g. 22, LT-01130"
   },
   {
     "name": "Vanagų evangelikų liuteronų parapija",
@@ -748,6 +738,11 @@
     "address": "Elektrėnai, Šviesos g. 16-30, LT-26105"
   },
   {
+    "name": "Ignalinos evangelinė bažnyčia",
+    "code": "192063224",
+    "address": "Ignalina, Aukštaičių g. 31-3, LT-30113"
+  },
+  {
     "name": "Kauno evangelinė bažnyčia",
     "code": "192067589",
     "address": "Kaunas, Seniavos pl. 8A, LT-46386"
@@ -803,6 +798,11 @@
     "address": "Zarasai, Vilniaus g. 61, LT-32107"
   },
   {
+    "name": "Vievio evangelinė bažnyčia",
+    "code": "192073670",
+    "address": "Elektrėnų sav., Vievis, Ežero g. 19, LT-21377"
+  },
+  {
     "name": "Vilniaus evangelinė bažnyčia",
     "code": "191700351",
     "address": "Vilnius, Bitėnų g. 2C, LT-06239"
@@ -853,10 +853,6 @@
     "address": "Kaunas, A. Jakšto g. 4, LT-44279"
   },
   {
-    "name": "Katalikų evangelizacijos centras",
-    "code": "192102645"
-  },
-  {
     "name": "Viešoji įstaiga Šiaulių vyskupijos katalikų evangelizacijos centras",
     "code": "145878427",
     "address": "Šiauliai, Žvejų skg. 2, LT-76294"
@@ -865,11 +861,6 @@
     "name": "Šv. Juozapo naujosios evangelizacijos fondas",
     "code": "304434463",
     "address": "Vilnius, Kalvarijų g. 276A-6, LT-08316"
-  },
-  {
-    "name": "Klaipėdos \"Gyvenimo kelias\" evangeliška bažnyčia",
-    "code": "192086027",
-    "address": "Klaipėda, Žardininkų g. 8-45, LT-94235"
   },
   {
     "name": "UAB \"EVANIKAS\"",
@@ -902,13 +893,15 @@
   {
     "name": "MB \"EVANS GROUP\"",
     "code": "306675776",
-    "address": "Vilnius, Rodūnios kel. 26-505, LT-02195",
-    "vatcode": "LT100016710315"
+    "address": "Vilnius, Rodūnios kel. 26-505, LT-02195"
   },
   {
     "name": "UAB Evansa",
     "code": "306727002",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
-    "vatcode": "LT100017005118"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
+    "name": "UAB \"Evanta\"",
+    "code": "302306461"
   }
 ]

@@ -77,10 +77,14 @@
     "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Arkos g. 10-4, LT-14180"
   },
   {
+    "name": "MB Kalba rankos",
+    "code": "307561697",
+    "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105"
+  },
+  {
     "name": "MB Kavos kalba",
     "code": "305828094",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
-    "vatcode": "LT100014232212"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB Simbolinė kalba",
@@ -91,10 +95,6 @@
     "name": "Mažoji bendrija \"Graži kalba\"",
     "code": "306157082",
     "address": "Vilniaus r. sav., Zujūnų sen., Balandiškių k., Česlovo Milošo g. 22A-1, LT-14176"
-  },
-  {
-    "name": "Poetų ir rašytojų, rašančių rusų kalba Lietuvoje literatūrinis susivienijimas \"LS LOGOS\"",
-    "code": "300975667"
   },
   {
     "name": "UAB \"Akmens kalba\"",
@@ -124,8 +124,7 @@
   {
     "name": "UAB Kalba sienos",
     "code": "306706378",
-    "address": "Vilnius, Kalvarijų g. 210, LT-08314",
-    "vatcode": "LT100016770510"
+    "address": "Vilnius, Kalvarijų g. 210, LT-08314"
   },
   {
     "name": "VšĮ \"Anglų kalba jums\"",
@@ -181,13 +180,17 @@
   {
     "name": "VšĮ Kalbantys sodai",
     "code": "305571739",
-    "address": "Šilutės r. sav., Juknaičių sen., Juknaičių k., Beržų g. 3, LT-99332",
-    "vatcode": "LT100017214816"
+    "address": "Šilutės r. sav., Juknaičių sen., Juknaičių k., Beržų g. 3, LT-99332"
   },
   {
     "name": "VOKIŠKAI KALBANČIŲJŲ DRAUGIJA",
     "code": "303034509",
     "address": "Alytus, Miklusėnų g. 28, LT-62333"
+  },
+  {
+    "name": "Mažoji bendrija Kalbiniai",
+    "code": "307542024",
+    "address": "Vilnius, Stasio Lozoraičio g. 55, LT-11311"
   },
   {
     "name": "UAB \"Kalbininkai\"",
@@ -234,10 +237,6 @@
     "name": "Labdaros ir paramos fondas \"Kalbos kelias\"",
     "code": "307157473",
     "address": "Kaunas, Pienių g. 2-17, LT-47442"
-  },
-  {
-    "name": "Lietuvių gestų kalbos institutas",
-    "code": "121735577"
   },
   {
     "name": "Lietuvių gestų kalbos vertimo centras",
@@ -325,10 +324,6 @@
     "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Sūduvių g. 15-18, LT-14166"
   },
   {
-    "name": "MB \"Kalbos draugai\"",
-    "code": "303461009"
-  },
-  {
     "name": "MB \"Kalbos stebuklas\"",
     "code": "306514082",
     "address": "Vilnius, Mykolo Marcinkevičiaus g. 19-18, LT-08433"
@@ -371,8 +366,7 @@
   {
     "name": "MB Kinų kalbos ir kultūros namai",
     "code": "305686549",
-    "address": "Vilnius, Eigulių g. 5-66, LT-03150",
-    "vatcode": "LT100018068010"
+    "address": "Vilnius, Eigulių g. 5-66, LT-03150"
   },
   {
     "name": "MB Lietuvių kalbos studija",
@@ -383,11 +377,6 @@
     "name": "MB Vokiečių kalbos mokykla",
     "code": "306985789",
     "address": "Kaunas, Vokiečių g. 27-6, LT-45263"
-  },
-  {
-    "name": "N. Villuveit Vokiečių kalbos kursai",
-    "code": "120489311",
-    "address": "Vilnius, Architektų g. 23-90, LT-04112"
   },
   {
     "name": "UAB \"KALBOS KODAS\"",
@@ -404,8 +393,7 @@
   {
     "name": "UAB \"Kalbos projektai\"",
     "code": "303390042",
-    "address": "Kauno r. sav., Akademija, Gluosnių tak. 5, LT-53348",
-    "vatcode": "LT100010305512"
+    "address": "Kauno r. sav., Akademija, Gluosnių tak. 5, LT-53348"
   },
   {
     "name": "UAB Anglų kalbos centras",
@@ -415,8 +403,7 @@
   {
     "name": "UAB Kalbos ir komunikacijų centras",
     "code": "304222631",
-    "address": "Vilnius, M. Valančiaus g. 7, LT-03158",
-    "vatcode": "LT100010090710"
+    "address": "Vilnius, M. Valančiaus g. 7, LT-03158"
   },
   {
     "name": "Valstybinė kalbos inspekcija",
@@ -456,8 +443,7 @@
   {
     "name": "VšĮ Ispanų kalbos namai",
     "code": "302539049",
-    "address": "Vilnius, Gedimino pr. 28, LT-01104",
-    "vatcode": "LT100017960410"
+    "address": "Vilnius, Gedimino pr. 28, LT-01104"
   },
   {
     "name": "VšĮ Kalbos akademija",
@@ -497,8 +483,12 @@
   {
     "name": "MB \"Šneku kalbu\"",
     "code": "307284111",
-    "address": "Vilniaus r. sav., Dūkštų sen., Geisiškių k., Mokyklos g. 116, LT-14231",
-    "vatcode": "LT100018672511"
+    "address": "Vilniaus r. sav., Dūkštų sen., Geisiškių k., Mokyklos g. 116, LT-14231"
+  },
+  {
+    "name": "MB Kalbu lengvai",
+    "code": "307534764",
+    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Kedro g. 16, LT-53363"
   },
   {
     "name": "UAB \"Kalbu LT\"",
@@ -520,8 +510,7 @@
   {
     "name": "MB \"Kalbėk\"",
     "code": "304450492",
-    "address": "Kaunas, M. Eimaičio g. 18, LT-46150",
-    "vatcode": "LT100019102413"
+    "address": "Kaunas, M. Eimaičio g. 18, LT-46150"
   },
   {
     "name": "UAB \"Anglų kalba kalbėk laisvai\"",
@@ -554,14 +543,14 @@
     "address": "Vilnius, Mykolo Sleževičiaus g. 14-57, LT-06326"
   },
   {
-    "name": "IĮ \"Užsienio kalbų klubas\"",
-    "code": "302478183",
-    "address": "Vilnius, Pašilaičių g. 11-53, LT-06114"
-  },
-  {
     "name": "IĮ R.Vosylienės kalbų mokymo centras",
     "code": "151042917",
     "address": "Marijampolė, Jaunimo g. 4-1, LT-68252"
+  },
+  {
+    "name": "Kalbų kelias, MB",
+    "code": "307552157",
+    "address": "Elektrėnai, Pergalės g. 5-14, LT-26126"
   },
   {
     "name": "Kėdainių kalbų mokykla",
@@ -576,8 +565,7 @@
   {
     "name": "MB \"Kalbų gama\"",
     "code": "304291983",
-    "address": "Širvintų r. sav., Širvintų sen., Kabaldos k., Kazliškių g. 2, LT-19129",
-    "vatcode": "LT100011069111"
+    "address": "Širvintų r. sav., Širvintų sen., Kabaldos k., Kazliškių g. 2, LT-19129"
   },
   {
     "name": "MB \"Kalbų kraitė\"",
@@ -620,10 +608,14 @@
     "address": "Mažeikiai, Ventos g. 21, LT-89112"
   },
   {
+    "name": "MB Kalbų maratonas",
+    "code": "307573984",
+    "address": "Vilnius, Kazliškių g. 15-9, LT-09204"
+  },
+  {
     "name": "MB Kalbų studija",
     "code": "306306291",
-    "address": "Utena, Pušynėlio g. 8, LT-28216",
-    "vatcode": "LT100018085717"
+    "address": "Utena, Pušynėlio g. 8, LT-28216"
   },
   {
     "name": "UAB \"Intellectus kalbų centras\"",
@@ -660,18 +652,12 @@
   {
     "name": "UAB \"Kalbų partneriai\"",
     "code": "304158207",
-    "address": "Vilnius, Santariškių g. 71-5, LT-08457",
-    "vatcode": "LT100017841317"
+    "address": "Vilnius, Santariškių g. 71-5, LT-08457"
   },
   {
     "name": "UAB \"Kalbų spektras\"",
     "code": "245269480",
-    "address": "Šiauliai, Vilniaus g. 123, LT-76354",
-    "vatcode": "LT100002773710"
-  },
-  {
-    "name": "UAB \"Panevėžio AMES kalbų akademija\"",
-    "code": "148322318"
+    "address": "Šiauliai, Vilniaus g. 123, LT-76354"
   },
   {
     "name": "UAB Kalbų mokykla \"Lingus\"",
