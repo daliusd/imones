@@ -1,5 +1,10 @@
 [
   {
+    "name": "L. Aukškalnienės individuali įmonė",
+    "code": "149795594",
+    "address": "Alytus, Naujoji g. 52, LT-62381"
+  },
+  {
     "name": "Žvejų klubas \"Aukšlys\"",
     "code": "302444277",
     "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Drąsučių k., Pirmūnų g. 5, LT-81109"
@@ -17,22 +22,19 @@
   {
     "name": "UAB \"Aukšta pavara\"",
     "code": "304263037",
-    "address": "Šiauliai, K. Korsako g. 117-28, LT-78365"
+    "address": "Šiauliai, K. Korsako g. 117-28, LT-78365",
+    "vatcode": "LT100011664218"
   },
   {
     "name": "UAB Aukšta mada",
     "code": "306000647",
-    "address": "Vilniaus r. sav., Avižienių sen., Lindiniškių k., Mėtų g. 114E, LT-14181"
+    "address": "Vilniaus r. sav., Avižienių sen., Lindiniškių k., Mėtų g. 114E, LT-14181",
+    "vatcode": "LT100014858416"
   },
   {
     "name": "133-oji garažų eksploatavimo bendrija Aukštabalio g.",
     "code": "145593314",
     "address": "Šiauliai, Aukštabalio g."
-  },
-  {
-    "name": "65-oji garažų eksploatavimo bendrijos 7 grupė Aukštabalio g. 18",
-    "code": "145520451",
-    "address": "Šiauliai, Aukštabalio g. 18"
   },
   {
     "name": "Aukštabalio bendruomenė",
@@ -148,7 +150,8 @@
   {
     "name": "Aukštagirio aidas, MB",
     "code": "307147162",
-    "address": "Vilnius, Aukštagirio g. 25C, LT-10105"
+    "address": "Vilnius, Aukštagirio g. 25C, LT-10105",
+    "vatcode": "LT100017783518"
   },
   {
     "name": "MB Aukštai",
@@ -189,7 +192,8 @@
   {
     "name": "UAB Mano Būstas Aukštaitija",
     "code": "302496548",
-    "address": "Panevėžys, Kranto g. 36-102, LT-35172"
+    "address": "Panevėžys, Kranto g. 36-102, LT-35172",
+    "vatcode": "LT100006695717"
   },
   {
     "name": "VšĮ \"Aukštaitija MX Team\"",
@@ -197,9 +201,16 @@
     "address": "Panevėžio r. sav., Velžio sen., Vyčių k., Šilauogių g. 3, LT-38122"
   },
   {
+    "name": "\"Aukštaitijos mediena\", D. Arlausko IĮ",
+    "code": "304104444",
+    "address": "Pasvalio r. sav., Pumpėnų sen., Rinkūnų k., Ąžuolų g. 27, LT-39241",
+    "vatcode": "LT100011444111"
+  },
+  {
     "name": "\"Aukštaitijos žvėriena\", UAB",
     "code": "303323232",
-    "address": "Panevėžio r. sav., Panevėžio sen., Paviešečių k., Nausodės g. 33, LT-38366"
+    "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Kazio Naruševičiaus g. 103, LT-37175",
+    "vatcode": "LT100008627713"
   },
   {
     "name": "AUKŠTAITIJOS REGIONO VANDENS TURIZMO ASOCIACIJA",
@@ -224,7 +235,8 @@
   {
     "name": "Asociacija Aukštaitijos padelio klubas",
     "code": "306175080",
-    "address": "Panevėžys, Vešetos g. 3, LT-37176"
+    "address": "Panevėžys, Vešetos g. 3, LT-37176",
+    "vatcode": "LT100016238313"
   },
   {
     "name": "Aukštaitijos autotransporto veteranų klubas",
@@ -239,7 +251,8 @@
   {
     "name": "Aukštaitijos kredito unija",
     "code": "112040733",
-    "address": "Panevėžio r. sav., Ramygala, Laisvės a. 4, LT-38261"
+    "address": "Panevėžio r. sav., Ramygala, Laisvės a. 4, LT-38261",
+    "vatcode": "LT100019160511"
   },
   {
     "name": "Aukštaitijos krepšinio mėgėjų asociacija",
@@ -268,7 +281,8 @@
   {
     "name": "Aukštaitijos nacionalinio parko ir Labanoro regioninio parko direkcija",
     "code": "188715560",
-    "address": "Ignalinos r. sav., Ignalinos sen., Palūšės k., Lūšių g. 16, LT-30202"
+    "address": "Ignalinos r. sav., Ignalinos sen., Palūšės k., Lūšių g. 16, LT-30202",
+    "vatcode": "LT887155610"
   },
   {
     "name": "Aukštaitijos nacionalinio parko medžiotojų klubas \"Kaltanėnai\"",
@@ -283,7 +297,8 @@
   {
     "name": "Aukštaitijos profesinio rengimo centras",
     "code": "191176774",
-    "address": "Molėtų r. sav., Alanta, Technikumo g. 2, LT-33315"
+    "address": "Molėtų r. sav., Alanta, Technikumo g. 2, LT-33315",
+    "vatcode": "LT911767716"
   },
   {
     "name": "Aukštaitijos regiono asociacija \"ARTRITAS\"",
@@ -293,7 +308,8 @@
   {
     "name": "Aukštaitijos saugomų teritorijų direkcija",
     "code": "306108968",
-    "address": "Anykščiai, J. Biliūno g. 55, LT-29110"
+    "address": "Anykščiai, J. Biliūno g. 55, LT-29110",
+    "vatcode": "LT100015200018"
   },
   {
     "name": "Aukštaitijos sporto klubas \"Porteris\"",
@@ -370,32 +386,43 @@
   {
     "name": "MB \"Aukštaitijos šaudymo centras\"",
     "code": "304762606",
-    "address": "Pasvalys, Birutės g. 3A, LT-39116"
+    "address": "Pasvalys, Birutės g. 3A, LT-39116",
+    "vatcode": "LT100013310010"
+  },
+  {
+    "name": "MB Aukštaitijos Karjerai",
+    "code": "307593175",
+    "address": "Ukmergės r. sav., Deltuvos sen., Statikų k., Pramonės g. 21, LT-20123"
   },
   {
     "name": "MB Aukštaitijos agroservisas",
     "code": "305555471",
-    "address": "Ignalinos r. sav., Ignalinos sen., Palūšės k., Lūšių g. 21, LT-30202"
+    "address": "Ignalinos r. sav., Ignalinos sen., Palūšės k., Lūšių g. 21, LT-30202",
+    "vatcode": "LT100013174317"
   },
   {
     "name": "MB Aukštaitijos paslaugos",
     "code": "305882206",
-    "address": "Panevėžys, Baltijos g. 41, LT-36252"
+    "address": "Panevėžys, Baltijos g. 41, LT-36252",
+    "vatcode": "LT100015105214"
   },
   {
     "name": "MB Aukštaitijos plėtra",
     "code": "306138801",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100016449210"
   },
   {
     "name": "MB Aukštaitijos regiono statyba",
     "code": "306041722",
-    "address": "Panevėžys, J. Janonio g. 1, LT-35101"
+    "address": "Panevėžys, J. Janonio g. 1, LT-35101",
+    "vatcode": "LT100014878118"
   },
   {
     "name": "MB Aukštaitijos stogai",
     "code": "306240806",
-    "address": "Biržai, Upės g. 13, LT-41151"
+    "address": "Biržai, Upės g. 13, LT-41151",
+    "vatcode": "LT100016490011"
   },
   {
     "name": "MB Aukštaitijos teritorijų priežiūra",
@@ -405,7 +432,8 @@
   {
     "name": "MB Aukštaitijos švaros centras",
     "code": "305597075",
-    "address": "Panevėžys, Tulpių g. 2-13, LT-35165"
+    "address": "Panevėžys, Tulpių g. 2-13, LT-35165",
+    "vatcode": "LT100014945410"
   },
   {
     "name": "Mažoji bendrija Aukštaitijos statybų centras",
@@ -415,7 +443,8 @@
   {
     "name": "Miško savininkų kooperatyvas \"AUKŠTAITIJOS ŠILAS\"",
     "code": "167598520",
-    "address": "Molėtai, Inturkės g. 55, LT-33131"
+    "address": "Molėtai, Inturkės g. 55, LT-33131",
+    "vatcode": "LT675985219"
   },
   {
     "name": "N.Kaščionienės IĮ \"Aukštaitijos sėklos\"",
@@ -427,6 +456,11 @@
     "name": "RYTŲ AUKŠTAITIJOS BIGBENDAS",
     "code": "302637493",
     "address": "Anykščių r. sav., Anykščių sen., Keblonių k., Žiburio g. 2D, LT-29160"
+  },
+  {
+    "name": "TŪB \"Aukštaitijos baldai\"",
+    "code": "300032556",
+    "address": "Panevėžys, Molainių g. 20-28, LT-37136"
   },
   {
     "name": "UAB \"AUKŠTAITIJOS ARCHITEKTŪROS STUDIJA\"",
@@ -446,7 +480,8 @@
   {
     "name": "UAB \"Aukštaitijos bravorai\"",
     "code": "248097840",
-    "address": "Panevėžio r. sav., Miežiškių sen., Trakiškio k., Taikos g. 51, LT-38102"
+    "address": "Panevėžio r. sav., Miežiškių sen., Trakiškio k., Taikos g. 51, LT-38102",
+    "vatcode": "LT480978416"
   },
   {
     "name": "UAB \"Aukštaitijos fasadai\"",
@@ -462,7 +497,8 @@
   {
     "name": "UAB \"Aukštaitijos inžineriniai tinklai\"",
     "code": "304413519",
-    "address": "Panevėžys, Ramygalos g. 57-28, LT-36212"
+    "address": "Panevėžys, Ramygalos g. 57-28, LT-36212",
+    "vatcode": "LT100010652311"
   },
   {
     "name": "UAB \"Aukštaitijos javai\"",
@@ -472,12 +508,14 @@
   {
     "name": "UAB \"Aukštaitijos kasyba\"",
     "code": "302483383",
-    "address": "Kupiškis, Taikos g. 3-30, LT-40125"
+    "address": "Kupiškis, Taikos g. 3-30, LT-40125",
+    "vatcode": "LT100005245215"
   },
   {
     "name": "UAB \"Aukštaitijos katilai\"",
     "code": "303081850",
-    "address": "Ukmergė, Linų g. 85, LT-20174"
+    "address": "Ukmergė, Linų g. 85, LT-20174",
+    "vatcode": "LT100009242414"
   },
   {
     "name": "UAB \"Aukštaitijos langai\"",
@@ -488,7 +526,8 @@
   {
     "name": "UAB \"Aukštaitijos matininkas\"",
     "code": "300126315",
-    "address": "Panevėžys, Lauko g. 7, LT-36142"
+    "address": "Panevėžys, Lauko g. 7, LT-36142",
+    "vatcode": "LT100003700811"
   },
   {
     "name": "UAB \"Aukštaitijos medienos prekyba\"",
@@ -530,7 +569,8 @@
   {
     "name": "UAB \"Aukštaitijos prekyba\"",
     "code": "302538805",
-    "address": "Panevėžys, J. Janonio g. 1, LT-35101"
+    "address": "Panevėžys, J. Janonio g. 1, LT-35101",
+    "vatcode": "LT100005589216"
   },
   {
     "name": "UAB \"Aukštaitijos projektų centras\"",
@@ -541,17 +581,20 @@
   {
     "name": "UAB \"Aukštaitijos ranga\"",
     "code": "301512533",
-    "address": "Panevėžys, Kėdainių g. 6, LT-36266"
+    "address": "Panevėžys, Kėdainių g. 6, LT-36266",
+    "vatcode": "LT100003740215"
   },
   {
     "name": "UAB \"Aukštaitijos renovacija\"",
     "code": "303228357",
-    "address": "Panevėžys, J. Janonio g. 1 K21-3, LT-35101"
+    "address": "Panevėžys, J. Janonio g. 1 K21-3, LT-35101",
+    "vatcode": "LT100008333910"
   },
   {
     "name": "UAB \"Aukštaitijos statyba\"",
     "code": "303116269",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100007963219"
   },
   {
     "name": "UAB \"Aukštaitijos vandenys\" darbininkų ir tarnautojų profsąjunga",
@@ -566,18 +609,19 @@
   {
     "name": "UAB \"Aukštaitijos vartai\"",
     "code": "306067884",
-    "address": "Panevėžys, Kniaudiškių g. 25-19, LT-37116"
+    "address": "Panevėžys, Kniaudiškių g. 25-19, LT-37116",
+    "vatcode": "LT100015620512"
   },
   {
     "name": "UAB \"Aukštaitijos vėjas 2\"",
     "code": "305932075",
-    "address": "Vilnius, Lvivo g. 25-104, LT-09320",
+    "address": "Vilnius, Teatro g. 9A-11, LT-03107",
     "vatcode": "LT100016765312"
   },
   {
     "name": "UAB \"Aukštaitijos vėjas\"",
     "code": "305932253",
-    "address": "Vilnius, Lvivo g. 25-104, LT-09320",
+    "address": "Vilnius, Teatro g. 9A-11, LT-03107",
     "vatcode": "LT100014545011"
   },
   {
@@ -593,7 +637,8 @@
   {
     "name": "UAB \"Aukštaitijos žemės\"",
     "code": "305338496",
-    "address": "Ignalinos r. sav., Naujojo Daugėliškio sen., Paringio k., Bažnyčios g. 47, LT-30292"
+    "address": "Ignalinos r. sav., Naujojo Daugėliškio sen., Paringio k., Bažnyčios g. 47, LT-30292",
+    "vatcode": "LT100012907215"
   },
   {
     "name": "UAB \"Aukštaitijos žvejys\"",
@@ -603,17 +648,20 @@
   {
     "name": "UAB Aukštaitijos agrocentras",
     "code": "303165120",
-    "address": "Panevėžio r. sav., Vadokliai, Žalioji g. 28A, LT-38200"
+    "address": "Panevėžio r. sav., Vadokliai, Žalioji g. 28A, LT-38200",
+    "vatcode": "LT100009029717"
   },
   {
     "name": "UAB Aukštaitijos apskaitos centras",
     "code": "306344737",
-    "address": "Panevėžys, Liepų al. 11A-12, LT-35124"
+    "address": "Panevėžys, Liepų al. 11A-12, LT-35124",
+    "vatcode": "LT100016904414"
   },
   {
     "name": "UAB Aukštaitijos baldų fabrikas",
     "code": "302893592",
-    "address": "Panevėžys, Kniaudiškių g. 77-6, LT-37129"
+    "address": "Panevėžys, Kniaudiškių g. 77-6, LT-37129",
+    "vatcode": "LT100007254316"
   },
   {
     "name": "UAB Aukštaitijos elektrikas",
@@ -623,7 +671,8 @@
   {
     "name": "UAB Aukštaitijos implantologijos klinika",
     "code": "303254010",
-    "address": "Panevėžys, Stoties g. 1, LT-35137"
+    "address": "Panevėžys, Stoties g. 1, LT-35137",
+    "vatcode": "LT100010368712"
   },
   {
     "name": "UAB Aukštaitijos sodai",
@@ -638,7 +687,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"AUKŠTAITIJOS MATININKŲ BIURAS\"",
     "code": "155981856",
-    "address": "Visaginas, Jaunystės g. 11-51, LT-31232"
+    "address": "Visaginas, Jaunystės g. 11-51, LT-31232",
+    "vatcode": "LT100004845914"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"AUKŠTAITIJOS TAKSI\"",
@@ -648,7 +698,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"AUKŠTAITIJOS VANDENYS\"",
     "code": "147104754",
-    "address": "Panevėžys, Velžio kel. 13, LT-36111"
+    "address": "Panevėžys, Velžio kel. 13, LT-36111",
+    "vatcode": "LT471047515"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Aukštaitijos ledai\"",
@@ -659,7 +710,8 @@
   {
     "name": "VIEŠOJI ĮSTAIGA \"AUKŠTAITIJOS SIAURASIS GELEŽINKELIS\"",
     "code": "148418882",
-    "address": "Panevėžio r. sav., Miežiškių sen., Raguvėlės glž. st. 7, LT-35257"
+    "address": "Panevėžio r. sav., Miežiškių sen., Raguvėlės glž. st. 7, LT-35257",
+    "vatcode": "LT484188811"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA MENO GALERIJA \"AUKŠTAITIJOS EŽERAI\"",
@@ -692,11 +744,6 @@
     "address": "Panevėžys, Respublikos g. 47A-2, LT-35170"
   },
   {
-    "name": "VšĮ \"Aukštaitijos siaurasis geležinkelis\" darbuotojų profesinė sąjunga \"Solidarumas\"",
-    "code": "304402362",
-    "address": "Vilnius, Ulonų g. 5-301, LT-08240"
-  },
-  {
     "name": "VšĮ Aukštaitijos RTR",
     "code": "302914289",
     "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Kastyčio skg. 6, LT-37175"
@@ -724,7 +771,8 @@
   {
     "name": "VšĮ sporto klubas Aukštaitijos žirgynas",
     "code": "304150406",
-    "address": "Panevėžys, Ramygalos g. 154G, LT-36224"
+    "address": "Panevėžys, Ramygalos g. 154G, LT-36224",
+    "vatcode": "LT100009844812"
   },
   {
     "name": "Žemės ūkio kooperatyvas Aukštaitijos aruodai",
@@ -733,14 +781,8 @@
     "vatcode": "LT100009022013"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija \"Aukštaitis\"",
-    "code": "184228263",
-    "address": "Utena, Taikos g. 72, LT-28161"
-  },
-  {
     "name": "Gyvenamųjų namų statybos bendrija \"Aukštaitis\"",
-    "code": "187905560",
-    "address": "Zarasai, S. Nėries g. 57, LT-32127"
+    "code": "187905560"
   },
   {
     "name": "Ignalinos garažų statybos bendrija \"Aukštaitis\"",
@@ -804,8 +846,7 @@
   },
   {
     "name": "Aukštaičių g. 7-ojo daugiabučio namo savininkų bendrija",
-    "code": "302559379",
-    "address": "Rokiškis, Aukštaičių g. 5-5, LT-42130"
+    "code": "302559379"
   },
   {
     "name": "Aukštaičių g. 70-ojo namo savininkų bendrija",
@@ -890,7 +931,8 @@
   {
     "name": "UAB \"Aukštaičių fortas\"",
     "code": "300098780",
-    "address": "Panevėžys, Margirio g. 14-13, LT-36251"
+    "address": "Panevėžys, Margirio g. 14-13, LT-36251",
+    "vatcode": "LT100001688515"
   },
   {
     "name": "UAB \"Aukštaičių valdos\"",
@@ -900,7 +942,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Aukštaičių valgiai\"",
     "code": "133078872",
-    "address": "Kaunas, Dūkšto g. 4, LT-46306"
+    "address": "Kaunas, Dūkšto g. 4, LT-46306",
+    "vatcode": "LT330788716"
   },
   {
     "name": "Aukštakalnio bendruomenė",
@@ -916,6 +959,16 @@
     "name": "Daugiabučio namo savininkų bendrija Aukštakalnio g. Nr. 20",
     "code": "302325967",
     "address": "Alytus, Aukštakalnio g. 20-4, LT-63101"
+  },
+  {
+    "name": "Giedriaus Rapoporto individuali įmonė \"Aukštakalnio taksi\"",
+    "code": "301738703",
+    "address": "Utena, Žilvičių g. 9, LT-28244"
+  },
+  {
+    "name": "IĮ Rolando Aukštakalnio firma",
+    "code": "165832049",
+    "address": "Kazlų Rūda, Gedimino g. 29A, LT-69401"
   },
   {
     "name": "Mažoji bendrija \"Aukštakalnio klinika\"",
@@ -957,9 +1010,15 @@
     "address": "Trakų r. sav., Aukštadvaris, Dariaus ir Girėno g. 6, LT-21253"
   },
   {
+    "name": "IĮ \"Armundo pajūrio aukštalipiai\"",
+    "code": "303913852",
+    "address": "Marijampolė, Sporto g. 13, LT-68108"
+  },
+  {
     "name": "MB \"Aukštalipiai Vilniuje\"",
     "code": "304030563",
-    "address": "Vilnius, Rygos g. 42-61, LT-05205"
+    "address": "Vilnius, Rygos g. 42-61, LT-05205",
+    "vatcode": "LT100016182213"
   },
   {
     "name": "MB \"Pro aukštalipiai\"",
@@ -969,7 +1028,8 @@
   {
     "name": "MB \"Uostamiesčio aukštalipiai\"",
     "code": "306265738",
-    "address": "Klaipėda, Taikos pr. 104-29, LT-93149"
+    "address": "Klaipėda, Taikos pr. 104-29, LT-93149",
+    "vatcode": "LT100016967715"
   },
   {
     "name": "MB \"Žemaitijos aukštalipiai\"",
@@ -984,6 +1044,12 @@
     "vatcode": "LT100017022612"
   },
   {
+    "name": "IĮ \"Kęsto aukštalipių servisas\"",
+    "code": "302964413",
+    "address": "Klaipėda, Smiltelės g. 53-40, LT-94262",
+    "vatcode": "LT100014989019"
+  },
+  {
     "name": "Lietuvos aukštalipių asociacija",
     "code": "300100320",
     "address": "Panevėžys, J. Janonio g. 5, LT-35101"
@@ -996,17 +1062,20 @@
   {
     "name": "MB Aukštalipių paslaugos LT",
     "code": "306183885",
-    "address": "Panevėžys, Berniūnų g. 24A, LT-36252"
+    "address": "Panevėžys, Berniūnų g. 24A, LT-36252",
+    "vatcode": "LT100015840116"
   },
   {
     "name": "UAB \"Aukštalipių era\"",
     "code": "303007907",
-    "address": "Gargždai, Senojo tak. 10, LT-96190"
+    "address": "Gargždai, Senojo tak. 10, LT-96190",
+    "vatcode": "LT100007603619"
   },
   {
     "name": "UAB \"Aukštalipių paslaugos\"",
     "code": "304443996",
-    "address": "Kaunas, Ryšių g. 19-46, LT-51304"
+    "address": "Kaunas, Ryšių g. 19-46, LT-51304",
+    "vatcode": "LT100010678315"
   },
   {
     "name": "MB \"Aukštalipys\"",
@@ -1026,7 +1095,8 @@
   {
     "name": "MB \"Aukštas ir aukštesnis\"",
     "code": "306972336",
-    "address": "Vilnius, Jurgio Lebedžio g. 1-18, LT-08353"
+    "address": "Vilnius, Jurgio Lebedžio g. 1-18, LT-08353",
+    "vatcode": "LT100018308712"
   },
   {
     "name": "MB \"Septintas aukštas\"",
@@ -1044,24 +1114,36 @@
     "address": "Kaunas, Partizanų g. 32-58, LT-49492"
   },
   {
+    "name": "MB Aukštas slėgis",
+    "code": "307591904",
+    "address": "Kaunas, Vytauto g. 20-2, LT-47197"
+  },
+  {
     "name": "UAB \"4 aukštas\"",
     "code": "304813634",
-    "address": "Klaipėda, Rumpiškės g. 5-21, LT-91129"
+    "address": "Klaipėda, Rumpiškės g. 5-21, LT-91129",
+    "vatcode": "LT100012745518"
   },
   {
     "name": "UAB \"Antras aukštas\"",
     "code": "305686467",
-    "address": "Panevėžys, Nemuno g. 77-7, LT-37355"
+    "address": "Panevėžys, Nemuno g. 77-7, LT-37355",
+    "vatcode": "LT100016940713"
   },
   {
     "name": "UAB \"Aukštas kiemas\"",
     "code": "304585376",
-    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Jungtinė g. 2, LT-92359"
+    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Jungtinė g. 2, LT-92359",
+    "vatcode": "LT100011039614"
   },
   {
     "name": "UAB Trečias aukštas",
     "code": "306250864",
     "address": "Vilnius, Zietelos g. 3, LT-03160"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"AUKŠTAS DAŽNIS\"",
+    "code": "123046011"
   },
   {
     "name": "Aukštaskraidžių balandžių mėgėjų klubas \"Senieji Vilniaus spalvotašoniai\"",
@@ -1131,7 +1213,8 @@
   {
     "name": "MB Aukštera",
     "code": "307076377",
-    "address": "Kaunas, Piliuonos g. 2, LT-45480"
+    "address": "Kaunas, Piliuonos g. 2, LT-45480",
+    "vatcode": "LT100017668712"
   },
   {
     "name": "MB Aukštesni standartai",
@@ -1141,7 +1224,8 @@
   {
     "name": "MB \"Aukštas ir aukštesnis\"",
     "code": "306972336",
-    "address": "Vilnius, Jurgio Lebedžio g. 1-18, LT-08353"
+    "address": "Vilnius, Jurgio Lebedžio g. 1-18, LT-08353",
+    "vatcode": "LT100018308712"
   },
   {
     "name": "Lietuvos moterų vienuolijų aukštesniųjų vyresniųjų konferencija",
@@ -1164,6 +1248,11 @@
     "address": "Kaunas, Raudondvario pl. 208-16, LT-47154"
   },
   {
+    "name": "MB Aukšti Standartai",
+    "code": "307591167",
+    "address": "Vilnius, Azerų g. 44-1, LT-11332"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Du aukšti kaštonai\"",
     "code": "164225217",
     "address": "Kretinga, Vytauto g. 55, LT-97132"
@@ -1171,7 +1260,8 @@
   {
     "name": "VIEŠOJI ĮSTAIGA \"AUKŠTIEJI ALGORITMAI\"",
     "code": "225300160",
-    "address": "Vilnius, Islandijos g. 4, LT-01401"
+    "address": "Vilnius, Islandijos g. 4, LT-01401",
+    "vatcode": "LT253001610"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Aukštikalniai\"",
@@ -1182,6 +1272,17 @@
     "name": "D. Aukštikalnienės IĮ",
     "code": "303000396",
     "address": "Panevėžio r. sav., Velžio sen., Vyčių k., Žvalgų g. 8, LT-38122"
+  },
+  {
+    "name": "Rimos Aukštikalnienės IĮ",
+    "code": "155298892",
+    "address": "Biržai, Gedimino g. 21, LT-41127"
+  },
+  {
+    "name": "Sandros Aukštikalnienės individuali įmonė",
+    "code": "306246809",
+    "address": "Biržų r. sav., Papilio sen., Kučgalio k., Senoji g. 11, LT-41241",
+    "vatcode": "LT100015720115"
   },
   {
     "name": "NIDIJAUS AUKŠTIKALNIO VETERINARINĖ ĮMONĖ",
@@ -1201,7 +1302,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"AUKŠTINĖ\"",
     "code": "124251371",
-    "address": "Vilnius, Motorų g. 6, LT-02190"
+    "address": "Vilnius, Motorų g. 6, LT-02190",
+    "vatcode": "LT242513716"
   },
   {
     "name": "UAB \"Aukštinės statyba\"",
@@ -1216,7 +1318,8 @@
   {
     "name": "MB \"Statybinis aukštis\"",
     "code": "305342078",
-    "address": "Šiauliai, Vytauto g. 156-7, LT-76334"
+    "address": "Šiauliai, Vytauto g. 156-7, LT-76334",
+    "vatcode": "LT100013170718"
   },
   {
     "name": "UAB \"Saulės aukštis\"",
@@ -1228,6 +1331,11 @@
     "code": "303186221",
     "address": "Rietavas, Kvėdarnos g. 12, LT-90316",
     "vatcode": "LT100012514515"
+  },
+  {
+    "name": "IĮ Virginijaus Aukštkalnio įmonė",
+    "code": "176641846",
+    "address": "Šilalė, Sodų g. 10, LT-75135"
   },
   {
     "name": "Aukštkiemių kaimo bendruomenė",
@@ -1245,9 +1353,15 @@
     "address": "Klaipėda, Veterinarijos g. 29-17, LT-92318"
   },
   {
+    "name": "MB Aukšto slėgio profai",
+    "code": "307581269",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
+  },
+  {
     "name": "UAB \"AUKŠTO SLĖGIO HIDRAULINĖS SISTEMOS\"",
     "code": "142009170",
-    "address": "Klaipėda, Šilutės pl. 93, LT-95112"
+    "address": "Klaipėda, Šilutės pl. 93, LT-95112",
+    "vatcode": "LT420091716"
   },
   {
     "name": "VšĮ Sklandymo aukšto meistriškumo centras",
@@ -1263,7 +1377,8 @@
   {
     "name": "\"Graičiūno aukštoji vadybos mokykla\", UAB",
     "code": "111965512",
-    "address": "Vilnius, Pylimo g. 41A, LT-01308"
+    "address": "Vilnius, Pylimo g. 41A, LT-01308",
+    "vatcode": "LT100011163613"
   },
   {
     "name": "Aukštelkų kaimo bendruomenė \"Aukštoji alka\"",
@@ -1283,7 +1398,8 @@
   {
     "name": "SMK Aukštoji mokykla",
     "code": "291823650",
-    "address": "Klaipėda, Liepų g. 83B, LT-92195"
+    "address": "Klaipėda, Liepų g. 83B, LT-92195",
+    "vatcode": "LT100007267913"
   },
   {
     "name": "VšĮ Aukštoji ezoterikos mokykla",
@@ -1320,7 +1436,8 @@
   {
     "name": "UAB \"Aukštos technologijos logistika\"",
     "code": "304235372",
-    "address": "Vilnius, Prūsų g. 10, LT-02152"
+    "address": "Vilnius, Prūsų g. 10, LT-02152",
+    "vatcode": "LT100010301318"
   },
   {
     "name": "Aukštosios Panemunės Švč. M. Marijos Vardo parapija",
@@ -1352,6 +1469,10 @@
     "address": "Marijampolė, Uosupio g. 20-62, LT-68156"
   },
   {
+    "name": "P. Prascieniaus personali firma \"AUKŠTUMA\"",
+    "code": "120243772"
+  },
+  {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Aukštumalė\"",
     "code": "277369720",
     "address": "Šilutė, Aukštumalės g. 5A, LT-99132"
@@ -1359,27 +1480,44 @@
   {
     "name": "MB \"Aukštumalės 5\"",
     "code": "305756218",
-    "address": "Šilutė, Hermano Zudermano g. 5-33, LT-99177"
+    "address": "Šilutė, Hermano Zudermano g. 5-33, LT-99177",
+    "vatcode": "LT100016322212"
   },
   {
     "name": "MB \"Alpro aukštuminiai darbai\"",
     "code": "305226440",
-    "address": "Kaunas, B. Sruogos g. 25, LT-50250"
+    "address": "Kaunas, B. Sruogos g. 25, LT-50250",
+    "vatcode": "LT100012756019"
   },
   {
     "name": "Spaudos rūmų aukštuminio pastato savininkų bendrija \"Spaudos rūmai\"",
     "code": "300072255",
-    "address": "Vilnius, Laisvės pr. 60-302"
+    "address": "Vilnius, Laisvės pr. 60-302",
+    "vatcode": "LT100001469213"
   },
   {
     "name": "MB \"Aukštuminių darbų projektai\"",
     "code": "306183419",
-    "address": "Palanga, Kontininkų g. 3B K8, LT-00171"
+    "address": "Palanga, Kontininkų g. 3B K8, LT-00171",
+    "vatcode": "LT100016106712"
+  },
+  {
+    "name": "UŽDAROJI AKCINĖ BENDROVĖ \"AUKŠTUMINIŲ ĮRENGIMŲ SISTEMOS\"",
+    "code": "125486550"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"AUKŠTUMINIŲ STATYBŲ TECHNOLOGIJOS\"",
+    "code": "148133627"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"AUKŠTUMINIŲ STATYBŲ TECHNOLOGIJOS\" IR KO",
     "code": "148357618",
-    "address": "Panevėžys, J. Janonio g. 5, LT-35101"
+    "address": "Panevėžys, J. Janonio g. 5, LT-35101",
+    "vatcode": "LT483576113"
+  },
+  {
+    "name": "UAB \"Aukštuminės sistemos KL\"",
+    "code": "300055747"
   },
   {
     "name": "UAB \"Aukštuminės sistemos KN\"",
@@ -1396,10 +1534,26 @@
     "code": "184847657"
   },
   {
+    "name": "Algio Aukštuolio IĮ",
+    "code": "301560599",
+    "address": "Ukmergė, Nuotekų g. 62B, LT-20142",
+    "vatcode": "LT100004193314"
+  },
+  {
+    "name": "Audriaus Aukštuolio IĮ \"Armakas\"",
+    "code": "301822539",
+    "address": "Panevėžio r. sav., Panevėžio sen., Piniavos k., Lėvens g. 25, LT-38416"
+  },
+  {
     "name": "R. Aukštuolio individuali įmonė",
     "code": "283217980",
     "address": "Ukmergės r. sav., Žemaitkiemis, Pirties g. 17, LT-20368",
     "vatcode": "LT832179811"
+  },
+  {
+    "name": "Rolando Aukštuolio IĮ",
+    "code": "135586517",
+    "address": "Kaunas, Ukmergės g. 18-48, LT-49314"
   },
   {
     "name": "Aukštuolių medžiotojų klubas",
@@ -1451,6 +1605,11 @@
     "name": "MB Darbai aukštyje",
     "code": "306041291",
     "address": "Kaunas, Vandžiogalos pl. 12-8, LT-47443"
+  },
+  {
+    "name": "Individuali įmonė \"Aukštyn žemyn\"",
+    "code": "305104365",
+    "address": "Kaunas, Ugnės g. 58, LT-47102"
   },
   {
     "name": "MB \"Aukštyn\"",
@@ -1521,7 +1680,8 @@
   {
     "name": "UAB AUKŠTŲJŲ PANERIŲ ELEKTROS PASKIRSTYMO CENTRAS",
     "code": "125480483",
-    "address": "Vilnius, Žarijų g. 2A, LT-02300"
+    "address": "Vilnius, Žarijų g. 2A, LT-02300",
+    "vatcode": "LT254804811"
   },
   {
     "name": "Švedijos aukštųjų ekonomikos mokyklų absolventų asociacija",
@@ -1536,7 +1696,8 @@
   {
     "name": "MB Aukščiau debesų",
     "code": "305676551",
-    "address": "Šiauliai, Tilžės g. 144-63, LT-76350"
+    "address": "Šiauliai, Tilžės g. 144-63, LT-76350",
+    "vatcode": "LT100013678917"
   },
   {
     "name": "UAB \"Aukščiau žemės\"",
@@ -1546,7 +1707,8 @@
   {
     "name": "UAB \"Aukščiau\"",
     "code": "302926850",
-    "address": "Vilnius, Žirmūnų g. 80-44, LT-09126"
+    "address": "Vilnius, Žirmūnų g. 80-44, LT-09126",
+    "vatcode": "LT100007355411"
   },
   {
     "name": "UAB \"Žvelk aukščiau\"",
@@ -1557,7 +1719,8 @@
   {
     "name": "UAB \"Aukščiausia pavara\"",
     "code": "301521607",
-    "address": "Kaunas, Technikos g. 7, LT-51209"
+    "address": "Kaunas, Technikos g. 7, LT-51209",
+    "vatcode": "LT100004234910"
   },
   {
     "name": "Lietuvos Aukščiausiasis Teismas",
@@ -1570,13 +1733,34 @@
     "address": "Vilnius, Naujininkų g. 20, LT-02109"
   },
   {
+    "name": "Labdaros ir paramos fondas \"Aukščiausiojo vaikai\"",
+    "code": "304795378"
+  },
+  {
     "name": "Asociacija \"Aukščio genas\"",
     "code": "305702455",
     "address": "Šakiai, V. Kudirkos g. 87, LT-71127"
   },
   {
+    "name": "Aukščio Linija MB",
+    "code": "307597088",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
     "name": "MB Aukščio asai",
     "code": "306348529",
     "address": "Kaunas, Laisvės al. 110, LT-44253"
+  },
+  {
+    "name": "Kęstučio Aukščionio individuali įmonė",
+    "code": "145302680"
+  },
+  {
+    "name": "Roberto Aukščionio įmonė",
+    "code": "145544160"
+  },
+  {
+    "name": "Vytauto Aukščionio įmonė",
+    "code": "175850622"
   }
 ]

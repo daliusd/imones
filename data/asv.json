@@ -1,5 +1,9 @@
 [
   {
+    "name": "ASV grupė, UAB",
+    "code": "302634369"
+  },
+  {
     "name": "UAB \"ASV Group\"",
     "code": "305454102",
     "address": "Vilnius, K. Sirvydo g. 5, LT-01101",
@@ -8,7 +12,8 @@
   {
     "name": "UAB \"ASV SPRENDIMAI\"",
     "code": "135975066",
-    "address": "Kaunas, V. Krėvės pr. 93-29, LT-50366"
+    "address": "Kaunas, V. Krėvės pr. 93-29, LT-50366",
+    "vatcode": "LT100002467919"
   },
   {
     "name": "UAB \"ASV TRUCK\"",
@@ -18,13 +23,19 @@
   {
     "name": "UAB \"ASV Trade\"",
     "code": "303037252",
-    "address": "Vilnius, Pranciškaus Žvirkos g. 6-2, LT-02210"
+    "address": "Vilnius, Pranciškaus Žvirkos g. 6-2, LT-02210",
+    "vatcode": "LT100007685614"
   },
   {
     "name": "UAB \"ASV Transportas\"",
     "code": "300590753",
     "address": "Panevėžys, Beržų g. 45-65, LT-36139",
     "vatcode": "LT100002561215"
+  },
+  {
+    "name": "IĮ \"Asvaja\"",
+    "code": "300140293",
+    "address": "Vilnius, J. Jasinskio g. 5-1, LT-01112"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"ASVALENA\"",
@@ -35,7 +46,14 @@
   {
     "name": "UAB Asvamida",
     "code": "302612248",
-    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Jazminų g. 6, LT-53339"
+    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Jazminų g. 6, LT-53339",
+    "vatcode": "LT100006055518"
+  },
+  {
+    "name": "Asvarma, UAB",
+    "code": "307581931",
+    "address": "Vilnius, Vėtrungių g. 105-166, LT-12116",
+    "vatcode": "LT100019669910"
   },
   {
     "name": "UAB \"Asvegas\"",
@@ -71,12 +89,14 @@
   {
     "name": "MB \"Asvejos baldai\"",
     "code": "305696340",
-    "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Smėlio g. 12, LT-91290"
+    "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Smėlio g. 12, LT-91290",
+    "vatcode": "LT100013934218"
   },
   {
     "name": "UAB \"Asveka\"",
     "code": "303230027",
-    "address": "Panevėžys, Marijonų g. 43-3, LT-35125"
+    "address": "Panevėžys, Marijonų g. 43-3, LT-35125",
+    "vatcode": "LT100012160715"
   },
   {
     "name": "UAB ASVELA WORKSHOP",
@@ -87,12 +107,14 @@
   {
     "name": "Uždaroji akcinė bendrovė \"ASVELA\"",
     "code": "186205231",
-    "address": "Vilnius, Liepkalnio g. 97, LT-02121"
+    "address": "Vilnius, Liepkalnio g. 97, LT-02121",
+    "vatcode": "LT862052314"
   },
   {
     "name": "UAB \"Asvera\"",
     "code": "303997932",
-    "address": "Vilnius, Rygos g. 42-44, LT-05205"
+    "address": "Vilnius, Rygos g. 42-44, LT-05205",
+    "vatcode": "LT100009364310"
   },
   {
     "name": "UAB \"Asversa\"",
@@ -122,7 +144,8 @@
   {
     "name": "UAB \"ASVI BALTIC GROUP\"",
     "code": "303297990",
-    "address": "Vilnius, Petro Baublio g. 29, LT-08431"
+    "address": "Vilnius, Petro Baublio g. 29, LT-08431",
+    "vatcode": "LT100008795714"
   },
   {
     "name": "UAB \"ASVI Logistics\"",
@@ -141,12 +164,8 @@
   {
     "name": "UAB \"Asvilta\"",
     "code": "303305191",
-    "address": "Kaunas, V. Krėvės pr. 53-310, LT-50358"
-  },
-  {
-    "name": "UAB \"Asvina\"",
-    "code": "303125617",
-    "address": "Šiaulių rajono savivaldybės teritorija"
+    "address": "Kaunas, V. Krėvės pr. 53-310, LT-50358",
+    "vatcode": "LT100008697411"
   },
   {
     "name": "MB \"ASVISI\"",
@@ -161,11 +180,13 @@
   {
     "name": "UAB \"Asvoja\"",
     "code": "303835873",
-    "address": "Šilalės r. sav., Laukuva, Sodų g. 48, LT-75407"
+    "address": "Šilalės r. sav., Laukuva, Sodų g. 48, LT-75407",
+    "vatcode": "LT100011109114"
   },
   {
     "name": "UAB \"Expert Prime ASVSM\"",
     "code": "306270596",
-    "address": "Vilnius, Gerovės g. 9-79, LT-11210"
+    "address": "Vilnius, Gerovės g. 9-79, LT-11210",
+    "vatcode": "LT100016067617"
   }
 ]

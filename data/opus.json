@@ -5,6 +5,11 @@
     "address": "Vilnius, Balsių Sodų 7-oji g. 40, LT-08425"
   },
   {
+    "name": "IĮ \"Tuto opus\"",
+    "code": "245189810",
+    "address": "Šiauliai, Vilniaus g. 124-1, LT-76291"
+  },
+  {
     "name": "MB \"Duo opus\"",
     "code": "304954179",
     "address": "Ignalinos r. sav., Ignalinos sen., Gaveikėnų k., Dringio g. 12, LT-30201"
@@ -12,7 +17,8 @@
   {
     "name": "MB \"Electrica opus\"",
     "code": "306717556",
-    "address": "Šiaulių r. sav., Kairių sen., Žadžiūnų k., Žemaičių g. 14, LT-80103"
+    "address": "Šiaulių r. sav., Kairių sen., Žadžiūnų k., Žemaičių g. 14, LT-80103",
+    "vatcode": "LT100016794619"
   },
   {
     "name": "MB \"Grave opus\"",
@@ -44,7 +50,8 @@
   {
     "name": "MB \"Opus creatum\"",
     "code": "305151429",
-    "address": "Alytaus r. sav., Alytaus sen., Radžiūnų k., Radžiūnų g. 30H, LT-62181"
+    "address": "Alytaus r. sav., Alytaus sen., Radžiūnų k., Radžiūnų g. 30H, LT-62181",
+    "vatcode": "LT100013545016"
   },
   {
     "name": "MB \"Opus dovus\"",
@@ -67,9 +74,20 @@
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
+    "name": "MB \"Purus opus\"",
+    "code": "307594633",
+    "address": "Kaunas, M. Mažvydo g. 19A, LT-48334"
+  },
+  {
     "name": "MB Opus Artis",
     "code": "305668978",
-    "address": "Vilnius, Geležinio Vilko g. 21-2, LT-03133"
+    "address": "Vilnius, Švitrigailos g. 11B, LT-03228",
+    "vatcode": "LT100013670518"
+  },
+  {
+    "name": "MB Opus Justitia",
+    "code": "307599993",
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Vakarės g. 22, LT-92342"
   },
   {
     "name": "MB Opus Terra",
@@ -82,6 +100,11 @@
     "address": "Biržai, Lieptų g. 7, LT-41152"
   },
   {
+    "name": "MB Opus meum consulting",
+    "code": "307600221",
+    "address": "Palanga, Taikos g. 20-2, LT-00116"
+  },
+  {
     "name": "MB Opus volare",
     "code": "305891194",
     "address": "Biržai, Lieptų g. 7, LT-41152",
@@ -90,7 +113,8 @@
   {
     "name": "OPUS VOBIS, UAB",
     "code": "302564248",
-    "address": "Vilnius, Veprių g. 13-1, LT-09300"
+    "address": "Vilnius, Veprių g. 13-1, LT-09300",
+    "vatcode": "LT100005989110"
   },
   {
     "name": "Opus perfectum MB",
@@ -105,7 +129,8 @@
   {
     "name": "ST Opus, MB",
     "code": "306675281",
-    "address": "Kaunas, Smiltainio g. 22A, LT-47492"
+    "address": "Kaunas, Smiltainio g. 22A, LT-47492",
+    "vatcode": "LT100016653110"
   },
   {
     "name": "UAB \"Ad opus\"",
@@ -125,7 +150,8 @@
   {
     "name": "UAB \"Opto opus\"",
     "code": "304324611",
-    "address": "Anykščiai, Žiburio g. 8-6, LT-29120"
+    "address": "Anykščiai, Žiburio g. 8-6, LT-29120",
+    "vatcode": "LT100011561219"
   },
   {
     "name": "UAB \"Opus Balticum\"",
@@ -163,7 +189,8 @@
   {
     "name": "UAB \"Opus capitale\"",
     "code": "304604684",
-    "address": "Vilnius, T. Ševčenkos g. 27-8, LT-03111"
+    "address": "Vilnius, T. Ševčenkos g. 27-8, LT-03111",
+    "vatcode": "LT100015022813"
   },
   {
     "name": "UAB \"Opus conventum\"",
@@ -184,7 +211,8 @@
   {
     "name": "UAB \"Opus rectum\"",
     "code": "304437559",
-    "address": "Vilnius, Kazio Ulvydo g. 7-127, LT-08354"
+    "address": "Vilnius, Kazio Ulvydo g. 7-127, LT-08354",
+    "vatcode": "LT100011740017"
   },
   {
     "name": "UAB \"Opus verslas\"",
@@ -200,12 +228,14 @@
   {
     "name": "UAB Opus Certus",
     "code": "302815939",
-    "address": "Vilnius, Fabijoniškių g. 59-45, LT-07110"
+    "address": "Vilnius, Fabijoniškių g. 59-45, LT-07110",
+    "vatcode": "LT100007322112"
   },
   {
     "name": "UAB Opus Optimum",
     "code": "302633228",
-    "address": "Vilnius, Šv. Mykolo g. 10-18, LT-01124"
+    "address": "Vilnius, Šv. Mykolo g. 10-18, LT-01124",
+    "vatcode": "LT100006169211"
   },
   {
     "name": "UAB Opus Realis",
@@ -241,16 +271,19 @@
   {
     "name": "UAB \"OPUSAUTO\"",
     "code": "300661047",
-    "address": "Elektrėnų sav., Vievis, Kauno g. 55, LT-21371"
+    "address": "Elektrėnų sav., Vievis, Kauno g. 55, LT-21371",
+    "vatcode": "LT100003029018"
   },
   {
     "name": "MB Opusdentus",
     "code": "306127121",
-    "address": "Kaunas, Savanorių pr. 281-807, LT-50128"
+    "address": "Kaunas, Savanorių pr. 281-807, LT-50128",
+    "vatcode": "LT100018042915"
   },
   {
     "name": "UAB \"Opusta\"",
     "code": "302311565",
-    "address": "Vilnius, Ukmergės g. 220-201, LT-07157"
+    "address": "Vilnius, Ukmergės g. 220-201, LT-07157",
+    "vatcode": "LT100004696916"
   }
 ]

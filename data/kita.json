@@ -5,11 +5,6 @@
     "address": "Alytus, Santaikos g. 10, LT-62123"
   },
   {
-    "name": "Kita nuoroda MB",
-    "code": "305892296",
-    "address": "Vilnius, Kalno g. 26D-2, LT-11103"
-  },
-  {
     "name": "MB \"KITA TAKTIKA\"",
     "code": "302870241",
     "address": "Vilnius, Verkių g. 30-5, LT-08221"
@@ -32,7 +27,8 @@
   {
     "name": "MB \"Kita nauda\"",
     "code": "306623612",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100016546919"
   },
   {
     "name": "MB \"Kita šaka\"",
@@ -42,7 +38,14 @@
   {
     "name": "MB Kita forma agentūra",
     "code": "306651693",
-    "address": "Vilnius, Pijų g. 6, LT-14281"
+    "address": "Vilnius, Pijų g. 6, LT-14281",
+    "vatcode": "LT100016694310"
+  },
+  {
+    "name": "R. Masteikos dizaino studija \"KITA PUSĖ\"",
+    "code": "125663310",
+    "address": "Vilnius, Šv. Stepono g. 20-2, LT-01138",
+    "vatcode": "LT256633113"
   },
   {
     "name": "Sporto ir pramogų klubas \"KITA GRUPĖ\"",
@@ -57,37 +60,48 @@
   {
     "name": "UAB \"Kita mada\"",
     "code": "303243761",
-    "address": "Vilnius, Burbiškių g. 40-2, LT-02198"
+    "address": "Vilnius, Burbiškių g. 40-2, LT-02198",
+    "vatcode": "LT100009354212"
   },
   {
     "name": "UAB \"Kita perspektyva\"",
     "code": "302433462",
-    "address": "Panevėžys, Ramygalos g. 150B K5-185, LT-36224"
+    "address": "Panevėžys, Ramygalos g. 150B K5-185, LT-36224",
+    "vatcode": "LT100014807216"
   },
   {
     "name": "UAB \"Kita reklama\"",
     "code": "303251263",
-    "address": "Vilnius, J. Jasinskio g. 16G, LT-03163"
+    "address": "Vilnius, J. Jasinskio g. 16G, LT-03163",
+    "vatcode": "LT100008392714"
+  },
+  {
+    "name": "UAB \"Kita.lt\"",
+    "code": "303104690"
   },
   {
     "name": "UAB KITA KOMPETENCIJA",
     "code": "302516075",
-    "address": "Vilnius, Verkių g. 55, LT-12201"
+    "address": "Vilnius, Verkių g. 55, LT-12201",
+    "vatcode": "LT100005622817"
   },
   {
     "name": "UAB Kita upės pusė",
     "code": "306118236",
-    "address": "Vilnius, Bokšto g. 10-7, LT-01126"
+    "address": "Vilnius, Bokšto g. 10-7, LT-01126",
+    "vatcode": "LT100017237512"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kita forma\"",
     "code": "135664930",
-    "address": "Kaunas, Ukmergės g. 8-46, LT-49406"
+    "address": "Kaunas, Ukmergės g. 8-46, LT-49406",
+    "vatcode": "LT356649314"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kita kryptis\"",
     "code": "134326655",
-    "address": "Kaunas, Laisvės al. 11-3A, LT-44238"
+    "address": "Kaunas, Laisvės al. 11-3A, LT-44238",
+    "vatcode": "LT343266515"
   },
   {
     "name": "VšĮ \"Kita meninė veikla\"",
@@ -102,12 +116,14 @@
   {
     "name": "UAB \"Kitada\"",
     "code": "305031892",
-    "address": "Radviliškio r. sav., Tyruliai, Ligoninės g. 1-1, LT-82466"
+    "address": "Radviliškio r. sav., Tyruliai, Ligoninės g. 1-1, LT-82466",
+    "vatcode": "LT100013772914"
   },
   {
     "name": "\"Aš kitaip\", UAB",
     "code": "302945605",
-    "address": "Vilnius, Mildos g. 12-6, LT-10311"
+    "address": "Vilnius, Mildos g. 12-6, LT-10311",
+    "vatcode": "LT100015753717"
   },
   {
     "name": "Asociacija \"Kiek kitaip\"",
@@ -119,6 +135,15 @@
     "name": "Asociacija \"Pažiūrėk kitaip\"",
     "code": "304834137",
     "address": "Vilnius, P. Vileišio g. 9-10, LT-10308"
+  },
+  {
+    "name": "IĮ \"Pirk Kitaip\"",
+    "code": "301844336",
+    "address": "Vilnius, Šešuolių g. 1-8, LT-05129"
+  },
+  {
+    "name": "Jurgitos Jaskienės grožio studija \"Pažvelk kitaip\"",
+    "code": "135524145"
   },
   {
     "name": "Klubas \"Laisvalaikis kitaip\"",
@@ -148,7 +173,8 @@
   {
     "name": "MB \"AI Kitaip\"",
     "code": "307090028",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+    "address": "Kaunas, Europos pr. 34-47, LT-46370",
+    "vatcode": "LT100017613117"
   },
   {
     "name": "MB \"IT kitaip\"",
@@ -159,7 +185,8 @@
   {
     "name": "MB \"Idėja kitaip\"",
     "code": "304701126",
-    "address": "Širvintų r. sav., Širvintų sen., Kabaldos k., Gėlyno g. 4, LT-19129"
+    "address": "Širvintų r. sav., Širvintų sen., Kabaldos k., Gėlyno g. 4, LT-19129",
+    "vatcode": "LT100011474113"
   },
   {
     "name": "MB \"Kitaip nebus\"",
@@ -180,12 +207,14 @@
   {
     "name": "MB \"Lubos kitaip\"",
     "code": "305481708",
-    "address": "Druskininkų sav., Viečiūnų sen., Neravų k., Mechanizatorių g. 9, LT-66411"
+    "address": "Druskininkų sav., Viečiūnų sen., Neravų k., Mechanizatorių g. 9, LT-66411",
+    "vatcode": "LT100014229515"
   },
   {
     "name": "MB \"Menas kitaip\"",
     "code": "304072929",
-    "address": "Molėtų r. sav., Giedraičiai, Vilniaus g. 1, LT-33277"
+    "address": "Molėtų r. sav., Giedraičiai, Vilniaus g. 1, LT-33277",
+    "vatcode": "LT100010500014"
   },
   {
     "name": "MB \"Nt kitaip\"",
@@ -200,7 +229,8 @@
   {
     "name": "MB \"Prekyba kitaip\"",
     "code": "304754538",
-    "address": "Ignalina, Vasario 16-osios g. 37-9, LT-30112"
+    "address": "Ignalina, Vasario 16-osios g. 37-9, LT-30112",
+    "vatcode": "LT100011426818"
   },
   {
     "name": "MB \"Santykiai kitaip\"",
@@ -226,7 +256,8 @@
   {
     "name": "MB \"Vištiena kitaip\"",
     "code": "305579796",
-    "address": "Pakruojo r. sav., Pakruojo sen., Pakruojo k., Skvero g. 4-18, LT-83166"
+    "address": "Pakruojo r. sav., Pakruojo sen., Pakruojo k., Skvero g. 4-18, LT-83166",
+    "vatcode": "LT100013221817"
   },
   {
     "name": "MB Apdaila kitaip",
@@ -236,7 +267,8 @@
   {
     "name": "MB Aplinka kitaip",
     "code": "306246093",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100018193916"
   },
   {
     "name": "MB Marketingas kitaip",
@@ -267,12 +299,14 @@
   {
     "name": "Sportuok kitaip, MB",
     "code": "306653908",
-    "address": "Kaunas, K. Šakenio g. 34-2, LT-50474"
+    "address": "Kaunas, K. Šakenio g. 34-2, LT-50474",
+    "vatcode": "LT100017402018"
   },
   {
     "name": "UAB \"Gėlės kitaip\"",
     "code": "303262434",
-    "address": "Trakai, Saulės g. 12, LT-21123"
+    "address": "Trakai, Saulės g. 12, LT-21123",
+    "vatcode": "LT100011300517"
   },
   {
     "name": "UAB \"KITAIP\"",
@@ -288,12 +322,14 @@
   {
     "name": "UAB \"Projektai kitaip\"",
     "code": "305160168",
-    "address": "Vilniaus r. sav., Nemėžio sen., Didžiasalio k., Rudens g. 5, LT-13264"
+    "address": "Vilniaus r. sav., Nemėžio sen., Didžiasalio k., Rudens g. 5, LT-13264",
+    "vatcode": "LT100012387417"
   },
   {
     "name": "UAB \"Verslas kitaip\"",
     "code": "303464496",
-    "address": "Tauragė, P. Šemetos g. 12, LT-72200"
+    "address": "Tauragė, P. Šemetos g. 12, LT-72200",
+    "vatcode": "LT100008999911"
   },
   {
     "name": "UAB Darom kitaip",
@@ -378,7 +414,8 @@
   {
     "name": "MB Kitanas",
     "code": "307111141",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100017641913"
   },
   {
     "name": "MB \"Kitas Kampas\"",
@@ -388,7 +425,8 @@
   {
     "name": "MB \"Kitas dizainas\"",
     "code": "304659353",
-    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Alksnupės g. 6-2, LT-92337"
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Alksnupės g. 6-2, LT-92337",
+    "vatcode": "LT100011168111"
   },
   {
     "name": "MB \"Kitas kodas\"",
@@ -398,7 +436,8 @@
   {
     "name": "MB \"Kitas kraštas\"",
     "code": "306389006",
-    "address": "Kaunas, Vydūno al. 4, LT-50294"
+    "address": "Kaunas, Vydūno al. 4, LT-50294",
+    "vatcode": "LT100016712311"
   },
   {
     "name": "MB \"Kitas lygis\"",
@@ -409,7 +448,8 @@
   {
     "name": "MB \"Kitas meistras\"",
     "code": "307140132",
-    "address": "Jonavos r. sav., Šveicarijos sen., Albertavos k., Tvenkinio g. 11, LT-55107"
+    "address": "Jonavos r. sav., Šveicarijos sen., Albertavos k., Tvenkinio g. 11, LT-55107",
+    "vatcode": "LT100017793414"
   },
   {
     "name": "MB \"Kitas projektas\"",
@@ -424,7 +464,8 @@
   {
     "name": "MB Kitas auto",
     "code": "306663603",
-    "address": "Kaunas, Knygnešių g. 66, LT-47256"
+    "address": "Kaunas, Knygnešių g. 66, LT-47256",
+    "vatcode": "LT100016610914"
   },
   {
     "name": "MB Kitas butas",
@@ -439,7 +480,8 @@
   {
     "name": "UAB \"KITAS KELIAS\"",
     "code": "124689245",
-    "address": "Vilnius, Žirgo Sodų 5-oji g. 5, LT-10245"
+    "address": "Vilnius, Žirgo Sodų 5-oji g. 5, LT-10245",
+    "vatcode": "LT246892417"
   },
   {
     "name": "UAB \"Kitas gestas LT\"",
@@ -455,7 +497,8 @@
   {
     "name": "UAB \"Kitas pasaulis\"",
     "code": "300621412",
-    "address": "Šiauliai, Gardino g. 2, LT-78230"
+    "address": "Šiauliai, Gardino g. 2, LT-78230",
+    "vatcode": "LT100003011318"
   },
   {
     "name": "UAB \"Kitas planas\"",
@@ -504,6 +547,10 @@
     "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
   },
   {
+    "name": "VšĮ \"Kitas sprendimas\"",
+    "code": "304031537"
+  },
+  {
     "name": "VšĮ \"Kitas žingsnis\"",
     "code": "305390354",
     "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Alksnupės g. 6-2, LT-92337"
@@ -516,7 +563,8 @@
   {
     "name": "MB KITAVA",
     "code": "305587533",
-    "address": "Šiauliai, Dvaro g. 41, LT-76345"
+    "address": "Šiauliai, Dvaro g. 41, LT-76345",
+    "vatcode": "LT100017882314"
   },
   {
     "name": "Muzikinė grupė \"Kitava\"",
@@ -526,6 +574,7 @@
   {
     "name": "UAB \"KITAVERTUS\"",
     "code": "300028547",
-    "address": "Šiauliai, Vyšnių g. 28A, LT-76362"
+    "address": "Šiauliai, Vyšnių g. 28A, LT-76362",
+    "vatcode": "LT100001111717"
   }
 ]

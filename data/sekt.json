@@ -15,11 +15,6 @@
     "address": "Vilnius, Savanorių pr. 139B, LT-03150"
   },
   {
-    "name": "Lietuvos darbininkų sąjungos Valstybinio socialinio draudimo fondo valdybos Ignalinos rajono skyriaus paslaugų sektoriaus darbuotojų sąjunga",
-    "code": "155629748",
-    "address": "Ignalina, Laisvės g. 62, LT-30117"
-  },
-  {
     "name": "Sveikatos sektoriaus ir IT bendruomenės asociacija",
     "code": "307144807",
     "address": "Kaunas, Europos pr. 34-47, LT-46370"
@@ -27,7 +22,8 @@
   {
     "name": "Viešoji įstaiga Statybos sektoriaus vystymo agentūra",
     "code": "305997589",
-    "address": "Vilnius, Sėlių g. 66, LT-08109"
+    "address": "Vilnius, Sėlių g. 66, LT-08109",
+    "vatcode": "LT100015509111"
   },
   {
     "name": "Viešojo sektoriaus apskaitos tvarkytojų asociacija",
@@ -37,12 +33,14 @@
   {
     "name": "\"Sektorius\", UAB",
     "code": "307008216",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017669213"
   },
   {
     "name": "IT sektorius, MB",
     "code": "302924148",
-    "address": "Vilnius, Dūkštų g. 10-60, LT-07174"
+    "address": "Vilnius, Dūkštų g. 10-60, LT-07174",
+    "vatcode": "LT100007676716"
   },
   {
     "name": "MB Ugnies sektorius",
@@ -52,12 +50,18 @@
   {
     "name": "UAB \"Energijos sektorius\"",
     "code": "136012767",
-    "address": "Kaunas, R. Kalantos g. 30, LT-52494"
+    "address": "Kaunas, R. Kalantos g. 30, LT-52494",
+    "vatcode": "LT360127610"
+  },
+  {
+    "name": "UAB \"Paslaugų sektorius\"",
+    "code": "304028854"
   },
   {
     "name": "UAB \"Statybų sektorius\"",
     "code": "135707659",
-    "address": "Kaunas, Varduvos g. 17, LT-49410"
+    "address": "Kaunas, Varduvos g. 17, LT-49410",
+    "vatcode": "LT357076515"
   },
   {
     "name": "UAB Gamybos sektorius",

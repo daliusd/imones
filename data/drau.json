@@ -5,6 +5,10 @@
     "address": "Ukmergė, Gedimino g. 55, LT-20105"
   },
   {
+    "name": "UAB draudimo brokeris \"Draudeksa\"",
+    "code": "135868324"
+  },
+  {
     "name": "Draudelių kaimo bendruomenė",
     "code": "302332260",
     "address": "Pakruojo r. sav., Pašvitinio sen., Draudelių k., Vaiškonių g. 2, LT-83346"
@@ -37,7 +41,8 @@
   {
     "name": "UAB \"Draudilita\"",
     "code": "304071204",
-    "address": "Alytaus m. sav."
+    "address": "Alytaus m. sav.",
+    "vatcode": "LT100011319215"
   },
   {
     "name": "UADBB \"Draudima\"",
@@ -60,11 +65,6 @@
     "address": "Kelmė, Vytauto Didžiojo g. 81, LT-86136"
   },
   {
-    "name": "AB \"Lietuvos draudimas\" Raseinių filialo darbininkų sąjunga",
-    "code": "172436356",
-    "address": "Raseiniai, Vytauto Didžiojo g. 4, LT-60149"
-  },
-  {
     "name": "ATRADIUS kredito draudimas, Atradius Credito y Caucion S.A. de Seguros y Reaseguros Lietuvos filialas",
     "code": "307116156",
     "address": "Vilnius, Lvivo g. 25-104, LT-09320"
@@ -72,17 +72,14 @@
   {
     "name": "Akcinė bendrovė \"Lietuvos draudimas\"",
     "code": "110051834",
-    "address": "Vilnius, J. Basanavičiaus g. 10, LT-01118"
-  },
-  {
-    "name": "Akcinės bendrovės \"LIETUVOS DRAUDIMAS\" Klaipėdos filialo profesinė sąjunga",
-    "code": "141975932",
-    "address": "Klaipėda, J. Janonio g. 7, LT-92236"
+    "address": "Vilnius, J. Basanavičiaus g. 10, LT-01118",
+    "vatcode": "LT100518314"
   },
   {
     "name": "Allianz Lietuva gyvybės draudimas UAB",
     "code": "111744827",
-    "address": "Vilnius, Lvivo g. 25-701, LT-09320"
+    "address": "Vilnius, Lvivo g. 25-701, LT-09320",
+    "vatcode": "LT117448219"
   },
   {
     "name": "MB AM draudimas",
@@ -170,6 +167,11 @@
     "address": "Kaunas, S. Santvaro g. 26, LT-46423"
   },
   {
+    "name": "Individuali įmonė \"DRAUDOVITUS\"",
+    "code": "148506695",
+    "address": "Panevėžys, Ukmergės g. 11-18, LT-35183"
+  },
+  {
     "name": "UADBB \"Draudukas\"",
     "code": "304705021",
     "address": "Rietavas, Laukuvos g. 12, LT-90311"
@@ -230,6 +232,10 @@
     "address": "Kaunas, M. Jankaus g. 2, LT-50275"
   },
   {
+    "name": "D. Adomaičio firma \"DARIUS IR DRAUGAI\"",
+    "code": "125289193"
+  },
+  {
     "name": "Daugiabučio namo savininkų bendrija \"Draugai\"",
     "code": "235413530",
     "address": "Kaunas, Baltų pr. 3, LT-48261"
@@ -277,7 +283,8 @@
   {
     "name": "MB \"2 Draugai veža\"",
     "code": "306164454",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100015392510"
   },
   {
     "name": "MB \"Arbatos draugai\"",
@@ -287,7 +294,12 @@
   {
     "name": "MB \"Gamtos draugai\"",
     "code": "306961336",
-    "address": "Kauno r. sav., Garliava, Gedimino g. 32-13, LT-53254"
+    "address": "Kauno r. sav., Garliava, Gedimino g. 32-13, LT-53254",
+    "vatcode": "LT100017767617"
+  },
+  {
+    "name": "MB \"Kalbos draugai\"",
+    "code": "303461009"
   },
   {
     "name": "MB \"Linksmasis batutas ir draugai\"",
@@ -303,7 +315,8 @@
   {
     "name": "MB \"Semio Draugai\"",
     "code": "306279129",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100015819219"
   },
   {
     "name": "MB ADI ir draugai",
@@ -330,12 +343,14 @@
   {
     "name": "MB Skardos draugai",
     "code": "306303295",
-    "address": "Kaunas, V. Landsbergio-Žemkalnio g. 32-34, LT-49266"
+    "address": "Kaunas, V. Landsbergio-Žemkalnio g. 32-34, LT-49266",
+    "vatcode": "LT100015938413"
   },
   {
     "name": "MB Šatas ir Draugai",
     "code": "306361708",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100016168117"
   },
   {
     "name": "Medžiotojų ir žvejų klubas \"Draugai\"",
@@ -350,7 +365,8 @@
   {
     "name": "Saulės draugai, MB",
     "code": "307448977",
-    "address": "Vilnius, Tarandės g. 34A, LT-14188"
+    "address": "Vilnius, Tarandės g. 34A, LT-14188",
+    "vatcode": "LT100019002711"
   },
   {
     "name": "UAB \"Irena ir draugai\"",
@@ -374,7 +390,8 @@
   {
     "name": "UAB \"Verslo draugai\"",
     "code": "135764674",
-    "address": "Kaunas, Tulpių g. 10-1, LT-44163"
+    "address": "Kaunas, Tulpių g. 10-1, LT-44163",
+    "vatcode": "LT357646716"
   },
   {
     "name": "UAB Plaukuoti draugai",
@@ -384,7 +401,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"ERVINAS IR DRAUGAI\"",
     "code": "186189670",
-    "address": "Vilniaus m. sav., Mažųjų Pupojų k."
+    "address": "Vilniaus m. sav., Mažųjų Pupojų k.",
+    "vatcode": "LT861896716"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"MASIULIS IR DRAUGAI\"",
@@ -392,9 +410,14 @@
     "address": "Vilnius, Ligoninės g. 3-6, LT-01134"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Saulius ir draugai\"",
+    "code": "173196825"
+  },
+  {
     "name": "Viešoji įstaiga \"RAČAITĖS IR DRAUGAI\"",
     "code": "300625599",
-    "address": "Vilnius, Tujų g. 9-30, LT-05116"
+    "address": "Vilnius, Tujų g. 9-30, LT-05116",
+    "vatcode": "LT100018272819"
   },
   {
     "name": "Viešoji įstaiga \"Žygio draugai\"",
@@ -409,7 +432,8 @@
   {
     "name": "Vynas ir draugai, UAB",
     "code": "302918654",
-    "address": "Vilnius, S. Konarskio g. 6-74, LT-03122"
+    "address": "Vilnius, S. Konarskio g. 6-74, LT-03122",
+    "vatcode": "LT100012363813"
   },
   {
     "name": "VŠĮ Padelio draugai",
@@ -489,7 +513,8 @@
   {
     "name": "Elektros draugas, MB",
     "code": "305674899",
-    "address": "Vilnius, Priegliaus g. 10-7, LT-06288"
+    "address": "Vilnius, Priegliaus g. 10-7, LT-06288",
+    "vatcode": "LT100014378812"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Draugas\"",
@@ -501,6 +526,11 @@
     "code": "168951222",
     "address": "Vilnius, J. Tiškevičiaus g. 11-25, LT-02232",
     "vatcode": "LT689512219"
+  },
+  {
+    "name": "IĮ \"Kietas draugas\"",
+    "code": "304736586",
+    "address": "Klaipėda, Jurginų g. 21-3, LT-91206"
   },
   {
     "name": "Kūrybos draugas",
@@ -537,7 +567,8 @@
   {
     "name": "MB \"Sielos draugas\"",
     "code": "306335040",
-    "address": "Klaipėda, Kaštonų g. 10 K3-15, LT-92206"
+    "address": "Klaipėda, Kaštonų g. 10 K3-15, LT-92206",
+    "vatcode": "LT100018490517"
   },
   {
     "name": "MB \"Siūlų draugas\"",
@@ -558,7 +589,8 @@
   {
     "name": "MB Grožio draugas",
     "code": "306707409",
-    "address": "Vilnius, Sakalaičių Sodų 3-ioji g. 47, LT-02216"
+    "address": "Vilnius, Sakalaičių Sodų 3-ioji g. 47, LT-02216",
+    "vatcode": "LT100016758410"
   },
   {
     "name": "MB Jūros draugas",
@@ -573,7 +605,8 @@
   {
     "name": "MB Sveikatos draugas",
     "code": "307157982",
-    "address": "Marijampolė, Vasaros g. 6, LT-68108"
+    "address": "Marijampolė, Vasaros g. 6, LT-68108",
+    "vatcode": "LT100018612911"
   },
   {
     "name": "Mano sielos draugas, MB",
@@ -586,11 +619,6 @@
     "address": "Marijampolė, Jaunimo g. 14-14, LT-68252"
   },
   {
-    "name": "Profesinė sąjunga \"Draugas\"",
-    "code": "135544895",
-    "address": "Kaunas, Pramonės pr. 4, LT-51329"
-  },
-  {
     "name": "SUDARGO MEDŽIOTOJŲ KLUBAS \"DRAUGAS\"",
     "code": "302906253",
     "address": "Šakių r. sav., Sudargo sen., Sudargo k., Laisvės a. 2, LT-71396"
@@ -598,17 +626,20 @@
   {
     "name": "UAB \"Biuro draugas\"",
     "code": "303448360",
-    "address": "Vilnius, Kareivių g. 19, LT-09133"
+    "address": "Vilnius, Kareivių g. 19, LT-09133",
+    "vatcode": "LT100009021217"
   },
   {
     "name": "UAB \"Draugas draugui\"",
     "code": "304871395",
-    "address": "Klaipėda, Smilčių g. 5, LT-92277"
+    "address": "Klaipėda, Smilčių g. 5, LT-92277",
+    "vatcode": "LT100012180911"
   },
   {
     "name": "UAB \"Draugas.Lt projektai\"",
     "code": "304523741",
-    "address": "Vilnius, Olimpiečių g. 5-7, LT-09237"
+    "address": "Vilnius, Olimpiečių g. 5-7, LT-09237",
+    "vatcode": "LT100010930713"
   },
   {
     "name": "UAB \"Ištikimas draugas\"",
@@ -618,7 +649,8 @@
   {
     "name": "UAB \"Kavos Draugas\"",
     "code": "302525811",
-    "address": "Kaunas, Brastos g. 14, LT-47185"
+    "address": "Kaunas, Brastos g. 14, LT-47185",
+    "vatcode": "LT100005545416"
   },
   {
     "name": "UAB \"MIŠKO DRAUGAS\"",
@@ -635,32 +667,38 @@
   {
     "name": "UAB \"Miško draugas LT\"",
     "code": "303714875",
-    "address": "Rokiškis, Panevėžio g. 7D-1, LT-42163"
+    "address": "Rokiškis, Panevėžio g. 7D-1, LT-42163",
+    "vatcode": "LT100009174816"
   },
   {
     "name": "UAB \"Rato draugas\"",
     "code": "304129091",
-    "address": "Vilnius, Taikos g. 14-24, LT-05256"
+    "address": "Vilnius, Taikos g. 14-24, LT-05256",
+    "vatcode": "LT100010111014"
   },
   {
     "name": "UAB \"Saugos draugas\"",
     "code": "305393610",
-    "address": "Panevėžys, Šviesos tak. 3, LT-36209"
+    "address": "Panevėžys, Šviesos tak. 3, LT-36209",
+    "vatcode": "LT100012838713"
   },
   {
     "name": "UAB \"Skonis ne draugas\"",
     "code": "307173082",
-    "address": "Kaunas, Ukmergės g. 6-52, LT-49407"
+    "address": "Kaunas, Ukmergės g. 6-52, LT-49407",
+    "vatcode": "LT100018500417"
   },
   {
     "name": "UAB \"Tavo draugas\"",
     "code": "134473491",
-    "address": "Kaunas, Sukilėlių pr. 98-46, LT-49320"
+    "address": "Kaunas, Sukilėlių pr. 98-46, LT-49320",
+    "vatcode": "LT344734917"
   },
   {
     "name": "UAB \"Transporto draugas\"",
     "code": "305994707",
-    "address": "Vilnius, Stirnų g. 27-62, LT-08101"
+    "address": "Vilnius, Stirnų g. 27-62, LT-08101",
+    "vatcode": "LT100014826115"
   },
   {
     "name": "UAB \"Verslo draugas\"",
@@ -686,7 +724,8 @@
   {
     "name": "VšĮ \"Būk mano draugas\"",
     "code": "302639996",
-    "address": "Klaipėda, Tilžės g. 44-1, LT-91112"
+    "address": "Klaipėda, Tilžės g. 44-1, LT-91112",
+    "vatcode": "LT100008801319"
   },
   {
     "name": "VšĮ \"Geriausias draugas\"",
@@ -726,12 +765,14 @@
   {
     "name": "Žaidimų draugas MB",
     "code": "305888522",
-    "address": "Vilnius, Kroatų g. 15-2, LT-11330"
+    "address": "Vilnius, Kroatų g. 15-2, LT-11330",
+    "vatcode": "LT100014338510"
   },
   {
     "name": "Žemės ūkio bendrovė \"Draugas\"",
     "code": "171295543",
-    "address": "Radviliškio r. sav., Pakalniškių sen., Alksniupių k., Algirdo g. 20, LT-82494"
+    "address": "Radviliškio r. sav., Pakalniškių sen., Alksniupių k., Algirdo g. 20, LT-82494",
+    "vatcode": "LT712955413"
   },
   {
     "name": "Žirgininkų klubas \"Draugas\"",
@@ -832,12 +873,18 @@
   {
     "name": "UAB \"Draugestina\"",
     "code": "304517350",
-    "address": "Vilnius, Savanorių pr. 173, LT-03150"
+    "address": "Vilnius, Savanorių pr. 173, LT-03150",
+    "vatcode": "LT100012100015"
   },
   {
     "name": "Asociacija \"Draugiada\"",
     "code": "303290572",
     "address": "Vilnius, Didlaukio g. 68-19, LT-08327"
+  },
+  {
+    "name": "\"PALANGOS ASMENŲ SU NEGALIA DRAUGIJA\"",
+    "code": "307597743",
+    "address": "Palanga, Sodų g. 8-205, LT-00109"
   },
   {
     "name": "\"Ryto\" draugija",
@@ -1204,9 +1251,17 @@
     "address": "Plungė, Laisvės al. 19, LT-90122"
   },
   {
+    "name": "Draugija \"Sniego gniūžtė\"",
+    "code": "168688853"
+  },
+  {
     "name": "Draugija \"Veikiam.Lt\"",
     "code": "302764850",
     "address": "Rietavas, Daržų g. 5-1, LT-90314"
+  },
+  {
+    "name": "Draugija \"Šalpa\"",
+    "code": "191927790"
   },
   {
     "name": "Draugija \"Žaliuojanti Vilnija\"",
@@ -1464,6 +1519,11 @@
     "address": "Vilnius, Naugarduko g. 76, LT-03203"
   },
   {
+    "name": "KAUNO ASMENŲ SU NEGALIA DRAUGIJA",
+    "code": "135599169",
+    "address": "Kaunas, Kęstučio g. 45-1, LT-44307"
+  },
+  {
     "name": "KOMPOZITORIAUS VLADO JAKUBĖNO DRAUGIJA VILNIUJE",
     "code": "125532599",
     "address": "Vilnius, A. Jakšto g. 9-203"
@@ -1517,6 +1577,10 @@
     "name": "Kauno apskrities Parkinsono draugija",
     "code": "302093554",
     "address": "Kaunas, Savanorių pr. 137A, LT-44146"
+  },
+  {
+    "name": "Kauno apskrities gaisrininkų draugija",
+    "code": "193160174"
   },
   {
     "name": "Kauno apskrities moterų sveikatos draugija \"Alma\"",
@@ -1587,11 +1651,6 @@
     "name": "Kauno krašto reumatologų draugija",
     "code": "305276888",
     "address": "Kaunas, Eivenių g. 2, LT-50161"
-  },
-  {
-    "name": "Kauno miesto neįgaliųjų draugija",
-    "code": "135599169",
-    "address": "Kaunas, Kęstučio g. 45-1, LT-44307"
   },
   {
     "name": "Kauno psichoanalizės ir psichoterapijos studijų draugija",
@@ -1727,6 +1786,10 @@
     "name": "Klaipėdos regiono azerbaidžaniečių draugija \"Azeris\"",
     "code": "302549164",
     "address": "Klaipėda, Rambyno g. 3, LT-93173"
+  },
+  {
+    "name": "Klaipėdos sporto draugija",
+    "code": "305649091"
   },
   {
     "name": "Klaipėdos teosofinė draugija \"ŽMONIJOS BROLIJA\"",
@@ -1866,7 +1929,8 @@
   {
     "name": "LIETUVOS DIDŽIOSIOS KUNIGAIKŠTIENĖS BIRUTĖS KARININKŲ ŠEIMŲ MOTERŲ VILNIAUS DRAUGIJA",
     "code": "293186120",
-    "address": "Vilnius, Pamėnkalnio g. 13, LT-01114"
+    "address": "Vilnius, Pamėnkalnio g. 13, LT-01114",
+    "vatcode": "LT100018935911"
   },
   {
     "name": "LIETUVOS ENDOSKOPUOTOJŲ DRAUGIJA",
@@ -1911,7 +1975,8 @@
   {
     "name": "LIETUVOS KINOLOGŲ DRAUGIJA",
     "code": "190761981",
-    "address": "Vilnius, Visorių g. 8, LT-08300"
+    "address": "Vilnius, Visorių g. 8, LT-08300",
+    "vatcode": "LT907619811"
   },
   {
     "name": "LIETUVOS LAZERINĖS MEDICINOS DRAUGIJA",
@@ -1956,7 +2021,8 @@
   {
     "name": "LIETUVOS RAUDONOJO KRYŽIAUS DRAUGIJA",
     "code": "190679146",
-    "address": "Kaunas, Statybininkų g. 12, LT-50127"
+    "address": "Kaunas, Statybininkų g. 12, LT-50127",
+    "vatcode": "LT100018444715"
   },
   {
     "name": "LIETUVOS REFORMACIJOS ISTORIJOS IR KULTŪROS DRAUGIJA",
@@ -1976,7 +2042,8 @@
   {
     "name": "LIETUVOS UROLOGŲ DRAUGIJA",
     "code": "191933163",
-    "address": "Vilnius, Santariškių g. 2, LT-08406"
+    "address": "Vilnius, Santariškių g. 2, LT-08406",
+    "vatcode": "LT100018120910"
   },
   {
     "name": "LIETUVOS VAIKŲ IR PAAUGLIŲ PSICHIATRŲ DRAUGIJA",
@@ -2067,7 +2134,8 @@
   {
     "name": "Lietuvos Biblijos draugija",
     "code": "290730360",
-    "address": "Vilnius, J. Basanavičiaus g. 16A-117, LT-03224"
+    "address": "Vilnius, J. Basanavičiaus g. 16A-117, LT-03224",
+    "vatcode": "LT907303610"
   },
   {
     "name": "Lietuvos Biblijos skaitymo draugija",
@@ -2227,7 +2295,8 @@
   {
     "name": "Lietuvos dietologų draugija",
     "code": "190726286",
-    "address": "Kaunas, Eivenių g. 2, LT-50161"
+    "address": "Kaunas, Eivenių g. 2, LT-50161",
+    "vatcode": "LT100017938010"
   },
   {
     "name": "Lietuvos dirvožemininkų draugija prie Lietuvos MA Žemės ūkio ir miškų mokslų skyriaus",
@@ -2248,6 +2317,10 @@
     "name": "Lietuvos endokrinologų draugija",
     "code": "190726471",
     "address": "Kaunas, Eivenių g. 2, LT-50161"
+  },
+  {
+    "name": "Lietuvos energetikų mokslo ir technikos draugija",
+    "code": "190771751"
   },
   {
     "name": "Lietuvos entomologų draugija",
@@ -2305,14 +2378,20 @@
     "address": "Vilnius, Panerių g. 12A-7, LT-01312"
   },
   {
+    "name": "Lietuvos gaisrininkų draugija",
+    "code": "190648439"
+  },
+  {
     "name": "Lietuvos gaisrininkų draugijos Šiaulių apskrities gaisrininkų draugija",
     "code": "193320013",
-    "address": "Šiauliai, Tilžės g. 93, LT-78102"
+    "address": "Šiauliai, Tilžės g. 93, LT-78102",
+    "vatcode": "LT100001386913"
   },
   {
     "name": "Lietuvos gastroenterologų draugija",
     "code": "291612920",
-    "address": "Vilnius, Santariškių g. 2, LT-08406"
+    "address": "Vilnius, Santariškių g. 2, LT-08406",
+    "vatcode": "LT100017876511"
   },
   {
     "name": "Lietuvos geografų draugija",
@@ -2352,7 +2431,8 @@
   {
     "name": "Lietuvos hidrobiologų draugija",
     "code": "191709343",
-    "address": "Vilnius, Akademijos g. 2, LT-08412"
+    "address": "Vilnius, Akademijos g. 2, LT-08412",
+    "vatcode": "LT100002970315"
   },
   {
     "name": "Lietuvos individualiosios psichologijos draugija",
@@ -2423,6 +2503,10 @@
     "name": "Lietuvos klinikinės toksikologijos draugija",
     "code": "191764165",
     "address": "Vilnius, Šiltnamių g. 29, LT-04130"
+  },
+  {
+    "name": "Lietuvos knygos draugija",
+    "code": "190671441"
   },
   {
     "name": "Lietuvos koloproktologų draugija",
@@ -2613,7 +2697,8 @@
   {
     "name": "Lietuvos privačių akušerių ginekologų draugija (LPAGD)",
     "code": "191927452",
-    "address": "Vilnius, Pilies g. 38-1, LT-01123"
+    "address": "Vilnius, Pilies g. 38-1, LT-01123",
+    "vatcode": "LT100017927015"
   },
   {
     "name": "Lietuvos profesinės sveikatos specialistų draugija",
@@ -2638,7 +2723,8 @@
   {
     "name": "Lietuvos pulmonologų ir alergologų draugija",
     "code": "195759774",
-    "address": "Kaunas, Eivenių g. 2, LT-50161"
+    "address": "Kaunas, Eivenių g. 2, LT-50161",
+    "vatcode": "LT100017990513"
   },
   {
     "name": "Lietuvos radiacinės saugos draugija",
@@ -2708,7 +2794,8 @@
   {
     "name": "Lietuvos sporto draugija \"Žalgiris\"",
     "code": "290649150",
-    "address": "Vilnius, Olimpiečių g. 17, LT-09237"
+    "address": "Vilnius, Olimpiečių g. 17, LT-09237",
+    "vatcode": "LT906491515"
   },
   {
     "name": "Lietuvos sveikatos mokslų universiteto studentų mokslinė draugija",
@@ -2791,6 +2878,10 @@
     "address": "Kaunas, K. Donelaičio g. 2, LT-44213"
   },
   {
+    "name": "Lietuvos ūkininkių draugija Linksmakalnio skyrius",
+    "code": "160299259"
+  },
+  {
     "name": "Lietuvos žmogaus genetikos draugija",
     "code": "190774719",
     "address": "Vilnius, Santariškių g. 2, LT-08406"
@@ -2809,6 +2900,10 @@
     "name": "Lietuvos žvyneline sergančiųjų draugija",
     "code": "191616946",
     "address": "Kaunas, Eivenių g. 2, LT-50161"
+  },
+  {
+    "name": "Linkaičių moterų draugija",
+    "code": "157698846"
   },
   {
     "name": "MB DAŽYTOJŲ DRAUGIJA",
@@ -2962,6 +3057,10 @@
     "address": "Kaunas, A. Mickevičiaus g. 9, LT-44307"
   },
   {
+    "name": "Nacionalinė celiakijos ir maisto netoleravimo draugija",
+    "code": "302305886"
+  },
+  {
     "name": "Nacionalinė inžinierių geologų draugija",
     "code": "306949152",
     "address": "Vilnius, M. K. Čiurlionio g. 21, LT-03101"
@@ -3015,6 +3114,10 @@
     "name": "PANEVĖŽIO VYSKUPIJOS ŠV. CECILIJOS DRAUGIJA",
     "code": "300075785",
     "address": "Panevėžys, Upytės g. 3, LT-35248"
+  },
+  {
+    "name": "PRIENŲ LIETUVIŲ IR ŠVEDŲ DRAUGIJA",
+    "code": "302561992"
   },
   {
     "name": "Pabiržės tautinės kultūros draugija",
@@ -3476,6 +3579,10 @@
     "address": "Tauragė, Prezidento g. 21, LT-72253"
   },
   {
+    "name": "Tauragės rajono knygos draugija",
+    "code": "179723273"
+  },
+  {
     "name": "Tauragės rajono moksleivių draugija \"Asorti\"",
     "code": "279726950",
     "address": "Tauragė, Dariaus ir Girėno g. 5, LT-72215"
@@ -3558,7 +3665,8 @@
   {
     "name": "UAB Saulės draugija",
     "code": "306194892",
-    "address": "Vilnius, Girulių g. 5, LT-12124"
+    "address": "Vilnius, Girulių g. 5, LT-12124",
+    "vatcode": "LT100016386118"
   },
   {
     "name": "Ukmergės etninės kultūros draugija \"Pyniava\"",
@@ -3611,14 +3719,13 @@
     "address": "Utenos r. sav., Leliūnų sen., Avižienių k., Dvaro g. 21, LT-28102"
   },
   {
+    "name": "Utenos krašto epilepsija sergančiųjų ir jų globėjų draugija",
+    "code": "300143873"
+  },
+  {
     "name": "Utenos lietuvių ir švedų draugija",
     "code": "184256394",
     "address": "Utena, Maironio g. 12, LT-28143"
-  },
-  {
-    "name": "Utenos rajono Daugailių mokyklos bičiulių draugija",
-    "code": "284236930",
-    "address": "Utenos r. sav., Daugailiai"
   },
   {
     "name": "Utenos rajono neįgaliųjų draugija",
@@ -3816,19 +3923,20 @@
     "address": "Vilnius, Gynėjų g. 4-113, LT-01109"
   },
   {
+    "name": "Vilniaus rajono asmenų su negalia draugija",
+    "code": "302905226",
+    "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Šiltnamių g. 13, LT-14115"
+  },
+  {
     "name": "Vilniaus rajono bitininkų draugija",
     "code": "300039312",
     "address": "Vilniaus r. sav., Nemenčinė, Vasaros g. 22, LT-15176"
   },
   {
-    "name": "Vilniaus rajono neįgaliųjų draugija",
-    "code": "302905226",
-    "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Šiltnamių g. 13, LT-14115"
-  },
-  {
     "name": "Vilniaus rajono ugniagesių savanorių draugija",
     "code": "186479969",
-    "address": "Vilniaus r. sav., Zujūnų sen., Gineitiškių k., Alyvų g. 29, LT-14159"
+    "address": "Vilniaus r. sav., Zujūnų sen., Gineitiškių k., Alyvų g. 29, LT-14159",
+    "vatcode": "LT100012977710"
   },
   {
     "name": "Vilniaus rusų muzikos draugija \"Rusų klasika\"",
@@ -3912,7 +4020,8 @@
   {
     "name": "Visuomeninė organizacija Utenos rajono gyvūnų mylėtojų draugija",
     "code": "184211367",
-    "address": "Utena, Taikos g. 77-18, LT-28164"
+    "address": "Utena, Taikos g. 77-18, LT-28164",
+    "vatcode": "LT100004306518"
   },
   {
     "name": "Visuomeninė organizacija išsėtine skleroze sergančių asmenų draugija \"Ateitis\"",
@@ -4205,6 +4314,10 @@
     "address": "Šilutė, Tilžės g. 32A, LT-99168"
   },
   {
+    "name": "Šilutės rajono sodininkų draugija",
+    "code": "177323362"
+  },
+  {
     "name": "Šilutės savanorių gaisrininkų draugija",
     "code": "303504414",
     "address": "Šilutė, Aukštumalės g. 33, LT-99132"
@@ -4318,6 +4431,10 @@
     "name": "Bendros Rusijos-Lietuvos įmonės-ribotos atsakomybės draugijos \"JKD-TRANS\" atstovybė",
     "code": "110224510",
     "address": "Vilnius, Viršuliškių g. 14-11, LT-05108"
+  },
+  {
+    "name": "Kauno apskrities Gaisrininkų draugijos personalinė įmonė",
+    "code": "159597881"
   },
   {
     "name": "Klaipėdos rajono medžiotojų ir žvejų draugijos medžiotojų būrelis \"Minija\"",
@@ -4507,12 +4624,17 @@
   {
     "name": "Lietuvos gaisrininkų draugijos Šiaulių apskrities gaisrininkų draugija",
     "code": "193320013",
-    "address": "Šiauliai, Tilžės g. 93, LT-78102"
+    "address": "Šiauliai, Tilžės g. 93, LT-78102",
+    "vatcode": "LT100001386913"
   },
   {
     "name": "Lietuvos gyvūnų globos draugijos Joniškio skyrius",
     "code": "157679536",
     "address": "Joniškis, Miesto a. 5A-28, LT-84144"
+  },
+  {
+    "name": "Lietuvos gyvūnų globos draugijos Raseinių skyrius",
+    "code": "272786770"
   },
   {
     "name": "Lietuvos gyvūnų globos draugijos Tauragės skyrius",
@@ -4996,6 +5118,10 @@
     "address": "Šilalė, Sporto g. 16, LT-75133"
   },
   {
+    "name": "Lietuvos sodininkų draugijos Kauno susivienijimo \"Sodai\" individuali prekybos įmonė",
+    "code": "132678063"
+  },
+  {
     "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Alytaus krašto atstovybė",
     "code": "304120555",
     "address": "Alytus, Statybininkų g. 42-4, LT-63417"
@@ -5009,6 +5135,10 @@
     "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Klaipėdos krašto atstovybė",
     "code": "304120587",
     "address": "Klaipėdos r. sav., Priekulės sen., Mickų k., Vaškių g. 19-3, LT-96361"
+  },
+  {
+    "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Kupiškio skyrius",
+    "code": "165386166"
   },
   {
     "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Marijampolės krašto atstovybė",
@@ -5034,6 +5164,10 @@
     "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Šiaulių krašto atstovybė",
     "code": "304120594",
     "address": "Joniškis, Statybininkų g. 2A-46, LT-84138"
+  },
+  {
+    "name": "Lietuvos sporto draugijos \"Žalgiris\" Alytaus miesto taryba",
+    "code": "191711038"
   },
   {
     "name": "Lietuvos sporto draugijos \"Žalgiris\" Jurbarko rajono taryba",
@@ -5204,12 +5338,18 @@
   {
     "name": "MB Draugiška kaina",
     "code": "305850226",
-    "address": "Vilnius, Gynėjų g. 4-208, LT-01109"
+    "address": "Vilnius, Gynėjų g. 4-208, LT-01109",
+    "vatcode": "LT100015001911"
   },
   {
     "name": "UAB Draugiška energija",
     "code": "302625498",
     "address": "Vilnius, Šv. Stepono g. 27C-13, LT-01315"
+  },
+  {
+    "name": "VšĮ Draugiška paslauga",
+    "code": "307584265",
+    "address": "Raseiniai, Stonų g. 135, LT-60175"
   },
   {
     "name": "MB \"Draugiškai\"",
@@ -5219,7 +5359,8 @@
   {
     "name": "UAB \"Draugiškas vėjas\"",
     "code": "305943424",
-    "address": "Vilnius, Kalvarijų g. 166A-4, LT-08205"
+    "address": "Vilnius, Kalvarijų g. 166A-4, LT-08205",
+    "vatcode": "LT100016911518"
   },
   {
     "name": "Viešoji įstaiga krepšinio klubas \"Draugiškas kamuolys\"",
@@ -5235,12 +5376,14 @@
   {
     "name": "UAB \"Draugiški koncertai\"",
     "code": "304642902",
-    "address": "Kauno r. sav., Karmėlava, Vilniaus g. 52A, LT-54459"
+    "address": "Kauno r. sav., Karmėlava, Vilniaus g. 52A, LT-54459",
+    "vatcode": "LT100013649610"
   },
   {
     "name": "UAB \"Draugiški žaislai\"",
     "code": "304364367",
-    "address": "Ukmergės r. sav., Veprių sen., Kazlaučiznos k. 1, LT-20281"
+    "address": "Ukmergės r. sav., Veprių sen., Kazlaučiznos k. 1, LT-20281",
+    "vatcode": "LT100010485814"
   },
   {
     "name": "VšĮ \"Draugiški šeimai\"",
@@ -5270,7 +5413,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"DRAUGO PETYS\"",
     "code": "125019963",
-    "address": "Vilnius, Laisvės pr. 125, LT-06118"
+    "address": "Vilnius, Laisvės pr. 125, LT-06118",
+    "vatcode": "LT250199610"
   },
   {
     "name": "Asociacija \"LS Justino Vareikio draugovė\"",
@@ -5305,7 +5449,8 @@
   {
     "name": "UAB \"Draugas draugui\"",
     "code": "304871395",
-    "address": "Klaipėda, Smilčių g. 5, LT-92277"
+    "address": "Klaipėda, Smilčių g. 5, LT-92277",
+    "vatcode": "LT100012180911"
   },
   {
     "name": "UAB \"Draugus\"",
@@ -5474,11 +5619,6 @@
     "address": "Pasvalys, Draugystės g. 3, LT-39108"
   },
   {
-    "name": "Profesinių sąjungų susivienijimas \"Draugystė\"",
-    "code": "191992578",
-    "address": "Kaunas, Draugystės g. 19, LT-51230"
-  },
-  {
     "name": "Sodininkų bendrija \"DRAUGYSTĖ\"",
     "code": "177379795",
     "address": "Šilutė, \"Draugystės\" sodas  73"
@@ -5635,6 +5775,12 @@
     "address": "Klaipėda, Debreceno g. 12-30, LT-94141"
   },
   {
+    "name": "IĮ \"Draugystės laivas\"",
+    "code": "303516861",
+    "address": "Šiaulių r. sav., Kuršėnai, Užmiesčio g. 1A-306A, LT-81147",
+    "vatcode": "LT100009109719"
+  },
+  {
     "name": "Joniškio miesto Draugystės g. namo Nr. 5 butų savininkų bendrija \"Būstas\"",
     "code": "157676579",
     "address": "Joniškis, Draugystės g. 5-16, LT-84137"
@@ -5666,11 +5812,6 @@
     "vatcode": "LT100009489514"
   },
   {
-    "name": "UAB \"Draugystės žiedas\" darbininkų sąjunga",
-    "code": "300564153",
-    "address": "Ignalinos r. sav., Rimšės sen., Karlų k."
-  },
-  {
     "name": "UAB Draugystės valdos",
     "code": "306984947",
     "address": "Kaunas, Draugystės g. 15A, LT-51227",
@@ -5679,7 +5820,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Draugystės sanatorija\"",
     "code": "152066180",
-    "address": "Druskininkai, V. Krėvės g. 7, LT-66126"
+    "address": "Druskininkai, V. Krėvės g. 7, LT-66126",
+    "vatcode": "LT520661811"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Draugystės žiedas\"",
@@ -5692,18 +5834,8 @@
     "address": "Kazlų Rūda, K. Donelaičio g. 5-16, LT-69430"
   },
   {
-    "name": "Visagino \"Draugystės\" vidurinės mokyklos darbininkų sąjunga",
-    "code": "155968428",
-    "address": "Visaginas, Draugystės g. 12, LT-31222"
-  },
-  {
     "name": "Visagino Draugystės progimnazija",
     "code": "300135691",
-    "address": "Visaginas, Draugystės g. 12, LT-31222"
-  },
-  {
-    "name": "Visagino Draugystės vidurinės mokyklos nepriklausoma profsąjunga",
-    "code": "155993253",
     "address": "Visaginas, Draugystės g. 12, LT-31222"
   },
   {
@@ -5719,7 +5851,8 @@
   {
     "name": "MB \"Pas draugą\"",
     "code": "300025394",
-    "address": "Visaginas, Statybininkų g. 15-33, LT-31205"
+    "address": "Visaginas, Statybininkų g. 15-33, LT-31205",
+    "vatcode": "LT100001478010"
   },
   {
     "name": "Dzūkų kultūros draugė",
@@ -5744,7 +5877,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Dvi draugės\"",
     "code": "183139566",
-    "address": "Ukmergė, Gedimino g. 83, LT-20105"
+    "address": "Ukmergė, Gedimino g. 83, LT-20105",
+    "vatcode": "LT831395610"
   },
   {
     "name": "Mažoji bendrija Aš pas draugę",
@@ -5805,7 +5939,8 @@
   {
     "name": "MB \"Draugų ratai\"",
     "code": "303291884",
-    "address": "Kaunas, Elektrėnų g. 8N, LT-51221"
+    "address": "Kaunas, Elektrėnų g. 8N, LT-51221",
+    "vatcode": "LT100012366717"
   },
   {
     "name": "MB \"Draugų skveras\"",
@@ -5815,7 +5950,8 @@
   {
     "name": "MB \"Draugų vardai\"",
     "code": "306114736",
-    "address": "Vilnius, Naugarduko g. 50A-6, LT-03228"
+    "address": "Vilnius, Naugarduko g. 50A-6, LT-03228",
+    "vatcode": "LT100016727219"
   },
   {
     "name": "MB Draugų buveinė",
@@ -5825,7 +5961,8 @@
   {
     "name": "MB Draugų darbai",
     "code": "305627159",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
+    "vatcode": "LT100014143615"
   },
   {
     "name": "MB Draugų namai",
@@ -5851,7 +5988,8 @@
   {
     "name": "UAB \"Draugų baras\"",
     "code": "302617761",
-    "address": "Anykščiai, Liudiškių g. 31B-8, LT-29124"
+    "address": "Anykščiai, Liudiškių g. 31B-8, LT-29124",
+    "vatcode": "LT100006091817"
   },
   {
     "name": "UAB \"Draugų optika\"",
@@ -5861,12 +5999,17 @@
   {
     "name": "UAB \"Draugų\" autoservisas",
     "code": "304725426",
-    "address": "Kauno r. sav., Lapių sen., Tauralaukio k., Kaimynų g. 7, LT-54418"
+    "address": "Kauno r. sav., Lapių sen., Tauralaukio k., Kaimynų g. 7, LT-54418",
+    "vatcode": "LT100011308310"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"DRAUGŲ STUDIJA\"",
     "code": "124380957",
     "address": "Vilnius, S. Moniuškos g. 21-10, LT-08121"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Draugų ratas\"",
+    "code": "169242291"
   },
   {
     "name": "Viešoji įstaiga \"Sporto draugų klubas\"",
@@ -5956,7 +6099,8 @@
   {
     "name": "UAB \"Drauskaita\"",
     "code": "304254248",
-    "address": "Vilnius, Šeimyniškių g. 21, LT-09236"
+    "address": "Vilnius, Šeimyniškių g. 21, LT-09236",
+    "vatcode": "LT100011541315"
   },
   {
     "name": "Uždaroji akcinė draudimo brokerių bendrovė \"Drausma\"",
@@ -5989,6 +6133,11 @@
     "address": "Klaipėda, Taikos pr. 17-65, LT-91140"
   },
   {
+    "name": "MB \"Draustinės Šilas\"",
+    "code": "307602279",
+    "address": "Kaunas, Kovo 11-osios g. 69-24, LT-49433"
+  },
+  {
     "name": "UAB \"DRAUSTIVA\"",
     "code": "302549965",
     "address": "Utenos r. sav., Leliūnų sen., Stabulankių k., Stabulankių g. 7B, LT-28108"
@@ -6016,7 +6165,8 @@
   {
     "name": "MB \"DRAutoPDR\"",
     "code": "307559753",
-    "address": "Klaipėda, Šilutės pl. 26G K5-21, LT-91177"
+    "address": "Klaipėda, Šilutės pl. 26G K5-21, LT-91177",
+    "vatcode": "LT100019572712"
   },
   {
     "name": "UAB \"Drautoservisas\"",

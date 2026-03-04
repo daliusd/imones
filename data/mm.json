@@ -1,26 +1,5 @@
 [
   {
-    "name": "UAB \"MM2 Metal\"",
-    "code": "305562658",
-    "address": "Vilniaus r. sav., Riešės sen., Skirgiškių k., Saulėgrąžų g. 12, LT-15143"
-  },
-  {
-    "name": "UAB MM2 Lab",
-    "code": "305547072",
-    "address": "Vilniaus r. sav., Riešės sen., Skirgiškių k., Saulėgrąžų g. 12, LT-15143"
-  },
-  {
-    "name": "Uždaroji akcinė bendrovė \"MM3\"",
-    "code": "302459172",
-    "address": "Vilnius, Jono Kazlausko g. 21, LT-08247"
-  },
-  {
-    "name": "UAB \"MM8SS\"",
-    "code": "305526943",
-    "address": "Vilniaus r. sav., Maišiagalos sen., Masionių vs., Gardenijų g. 1 K28-2, LT-14200",
-    "vatcode": "LT100013121215"
-  },
-  {
     "name": "MB \"MM Architektūra\"",
     "code": "306008989",
     "address": "Vilnius, Meistrų g. 8-101, LT-02190"
@@ -36,6 +15,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB \"MM fasadų sprendimai\"",
+    "code": "307583551",
+    "address": "Kauno r. sav., Samylų sen., Laumėnų k., Beržų al. 1, LT-53118"
+  },
+  {
     "name": "MB \"MM rent transport\"",
     "code": "306109397",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
@@ -43,12 +27,14 @@
   {
     "name": "MB \"MM technika\"",
     "code": "302973921",
-    "address": "Marijampolė, Tarpučių g. 170, LT-68132"
+    "address": "Marijampolė, Tarpučių g. 170, LT-68132",
+    "vatcode": "LT100019145518"
   },
   {
     "name": "MB \"MM transport\"",
     "code": "307163120",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100018722511"
   },
   {
     "name": "MB \"Mm auto\"",
@@ -84,7 +70,8 @@
   {
     "name": "MB Mm invest",
     "code": "306616895",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100018813519"
   },
   {
     "name": "MB Trys MM",
@@ -105,12 +92,19 @@
   {
     "name": "MM LOGISTIC, UAB",
     "code": "302538876",
-    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Ugnies g. 3, LT-53365"
+    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Ugnies g. 3, LT-53365",
+    "vatcode": "LT100005578412"
   },
   {
     "name": "MM Real Estate, UAB",
     "code": "305399894",
-    "address": "Vilnius, Rinktinės g. 5-101, LT-09234"
+    "address": "Vilnius, Rinktinės g. 5-101, LT-09234",
+    "vatcode": "LT100012903414"
+  },
+  {
+    "name": "Mažoji bendrija MM advisory consulting",
+    "code": "307577712",
+    "address": "Klaipėda, Rumpiškės g. 19-9, LT-91122"
   },
   {
     "name": "Mažoji bendrija Mm media",
@@ -120,12 +114,19 @@
   {
     "name": "Mm labs UAB",
     "code": "307091048",
-    "address": "Vilnius, Kernavės g. 4-R51, LT-09300"
+    "address": "Vilnius, Kernavės g. 4-R51, LT-09300",
+    "vatcode": "LT100017618118"
   },
   {
     "name": "Mm motors MB",
     "code": "307248072",
-    "address": "Vilniaus r. sav., Riešės sen., Nemenčinėlės k., Mėnulio g. 16A-2, LT-15149"
+    "address": "Vilniaus r. sav., Riešės sen., Nemenčinėlės k., Mėnulio g. 16A-2, LT-15149",
+    "vatcode": "LT100019162715"
+  },
+  {
+    "name": "Mm motors service MB",
+    "code": "307583081",
+    "address": "Elektrėnai, Alinkos g. 1A-19, LT-26128"
   },
   {
     "name": "Mm prekyba, UAB",
@@ -168,12 +169,14 @@
   {
     "name": "UAB \"MM Statyba\"",
     "code": "302505748",
-    "address": "Vilnius, Geležinkelio g. 3-14A, LT-02100"
+    "address": "Vilnius, Geležinkelio g. 3-14A, LT-02100",
+    "vatcode": "LT100006578418"
   },
   {
     "name": "UAB \"MM automobile\"",
     "code": "305742528",
-    "address": "Marijampolė, Poilsio g. 40, LT-68127"
+    "address": "Marijampolė, Poilsio g. 40, LT-68127",
+    "vatcode": "LT100014002417"
   },
   {
     "name": "UAB \"MM grupė\"",
@@ -184,22 +187,26 @@
   {
     "name": "UAB \"MM investicinė grupė\"",
     "code": "302780025",
-    "address": "Vilnius, Lvivo g. 21A, LT-09313"
+    "address": "Vilnius, Lvivo g. 21A, LT-09313",
+    "vatcode": "LT100007022815"
   },
   {
     "name": "UAB \"MM transportas\"",
     "code": "300662786",
-    "address": "Kalvarijos sav., Kalvarijos sen., Trakiškių k., Birutės g. 26, LT-69315"
+    "address": "Kalvarijos sav., Kalvarijos sen., Trakiškių k., Birutės g. 26, LT-69315",
+    "vatcode": "LT100003018816"
   },
   {
     "name": "UAB \"Mm pilates\"",
     "code": "307538410",
-    "address": "Joniškis, Purienų g. 5-8, LT-84103"
+    "address": "Joniškis, Purienų g. 5-8, LT-84103",
+    "vatcode": "LT100019480111"
   },
   {
     "name": "UAB MM Business",
     "code": "305563112",
-    "address": "Klaipėda, Minijos g. 157-521, LT-93185"
+    "address": "Klaipėda, Minijos g. 157-521, LT-93185",
+    "vatcode": "LT100014854211"
   },
   {
     "name": "UAB MM recycling",
@@ -215,295 +222,7 @@
   {
     "name": "VšĮ \"MM 911\"",
     "code": "304752366",
-    "address": "Anykščių r. sav., Andrioniškio sen., Gyvatynės k. 4, LT-29330"
-  },
-  {
-    "name": "MB MMA Wood",
-    "code": "305745200",
-    "address": "Alytus, Amatų g. 10, LT-62441"
-  },
-  {
-    "name": "STRUCTURE MMA organization VšĮ",
-    "code": "306258754",
-    "address": "Vilnius, Jurgio Lebedžio g. 9-171, LT-08353"
-  },
-  {
-    "name": "Suncity MMA klubas",
-    "code": "305738526",
-    "address": "Šiauliai, Dainų g. 66-41, LT-78266"
-  },
-  {
-    "name": "UAB \"MMA Foods\"",
-    "code": "302734572",
-    "address": "Prienų r. sav., Stakliškių sen., Pieštuvėnų k., Pušyno g. 6, LT-59352",
-    "vatcode": "LT100006689813"
-  },
-  {
-    "name": "Visuomeninė organizacija MMA",
-    "code": "150161797",
-    "address": "Alytus, Vilties g. 20-13, LT-63208"
-  },
-  {
-    "name": "VšĮ \"Gray Team MMA\"",
-    "code": "306641329",
-    "address": "Gargždai, Karaliaus Mindaugo g. 12-22, LT-96183"
-  },
-  {
-    "name": "MB Mmakaras",
-    "code": "306745324",
-    "address": "Vilnius, Sausio 13-osios g. 2-217, LT-04343"
-  },
-  {
-    "name": "UAB \"MMB AUTO\"",
-    "code": "306689473",
-    "address": "Tauragės r. sav., Tauragės sen., Butkelių k., Žalioji g. 11, LT-72149"
-  },
-  {
-    "name": "UAB Mmb bouwpartners",
-    "code": "306983350",
-    "address": "Šiauliai, Lydos g. 58A-1, LT-77171"
-  },
-  {
-    "name": "MB ELV&ELM GROUP MMC",
-    "code": "306380719",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
-  },
-  {
-    "name": "UAB \"MMC Dendroparkas\"",
-    "code": "304507032",
-    "address": "Klaipėdos r. sav., Vėžaičių sen., Nausodžio k., Mokyklos g. 21, LT-96215"
-  },
-  {
-    "name": "UAB \"MMC Forest\"",
-    "code": "302439209",
-    "address": "Rietavas, S. Nėries g. 2, LT-90312"
-  },
-  {
-    "name": "UAB \"MMC projektai\"",
-    "code": "303148135",
-    "address": "Vilnius, Pylimo g. 17, LT-01141"
-  },
-  {
-    "name": "UAB MMC Eco Homes",
-    "code": "183247638",
-    "address": "Ukmergė, Kareivinių g. 51, LT-20184",
-    "vatcode": "LT832476314"
-  },
-  {
-    "name": "MB \"Mmcars\"",
-    "code": "306971184",
-    "address": "Šilutė, Melioratorių al. 3-7, LT-99142",
-    "vatcode": "LT100017471717"
-  },
-  {
-    "name": "MB MMCC Branch LT",
-    "code": "304965389",
-    "address": "Kaunas, Partizanų g. 27B-30, LT-49449"
-  },
-  {
-    "name": "UAB MMD INVESTMENTS",
-    "code": "305744721",
-    "address": "Vilnius, Šv. Stepono g. 29-55, LT-01312"
-  },
-  {
-    "name": "UAB Mmdd group",
-    "code": "305639528",
-    "address": "Vilnius, Panerių g. 51, LT-03160",
-    "vatcode": "LT100014867112"
-  },
-  {
-    "name": "UAB \"MMDS paslaugos\"",
-    "code": "300581918",
-    "address": "Vilniaus r. sav., Bezdonių sen., Baronų k., Šilo 3-ioji g. 3, LT-15205"
-  },
-  {
-    "name": "UAB \"MME\"",
-    "code": "300513461",
-    "address": "Klaipėda, Kopų g. 8B-3, LT-92278"
-  },
-  {
-    "name": "MMF Global UAB",
-    "code": "307506398",
-    "address": "Jurbarko r. sav., Jurbarkų sen., Vilniškių k., Vidaujos g. 18A, LT-74261"
-  },
-  {
-    "name": "Visagino irklavimo sporto klubas \"MMF SPORT\"",
-    "code": "155934568",
-    "address": "Visaginas, Jaunystės g. 11-55, LT-31232"
-  },
-  {
-    "name": "MB MMG CARBONA",
-    "code": "305728838",
-    "address": "Klaipėda, Smiltynės g. 23B-4, LT-93100"
-  },
-  {
-    "name": "MB Mmg-fitness",
-    "code": "307277348",
-    "address": "Kaunas, Drobės g. 26, LT-45223"
-  },
-  {
-    "name": "UAB \"MMG Auctions International\"",
-    "code": "302812512",
-    "address": "Šilutės r. sav., Šilutės sen., Macikų k., Pušelių g. 8, LT-99156",
-    "vatcode": "LT100006972818"
-  },
-  {
-    "name": "UAB \"MMG Carriers International\"",
-    "code": "302344476",
-    "address": "Šilutės r. sav., Šilutės sen., Macikų k., Pušelių g. 8, LT-99156"
-  },
-  {
-    "name": "UAB \"MMG projektas\"",
-    "code": "300123194",
-    "address": "Kaunas, Vinčų g. 3-29, LT-46297"
-  },
-  {
-    "name": "MB MMGM group",
-    "code": "306920670",
-    "address": "Kauno r. sav., Akademija, Liudo Vailionio g. 3, LT-53372"
-  },
-  {
-    "name": "UAB \"MMK Group\"",
-    "code": "302700253",
-    "address": "Vilnius, Dariaus ir Girėno g. 40, LT-02188"
-  },
-  {
-    "name": "UAB \"MMK Logistika\"",
-    "code": "302756558",
-    "address": "Vilnius, Dariaus ir Girėno g. 40, LT-02188"
-  },
-  {
-    "name": "UAB MMK projektai",
-    "code": "307475084",
-    "address": "Druskininkai, Antakalnio g. 13-6, LT-66117"
-  },
-  {
-    "name": "MB \"MMKASYBA\"",
-    "code": "306661716",
-    "address": "Vilnius, Kelmijos Sodų 30-oji g. 16, LT-02219"
-  },
-  {
-    "name": "VšĮ \"MML-City\"",
-    "code": "306273208",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
-  },
-  {
-    "name": "MB \"MMlight\"",
-    "code": "306685838",
-    "address": "Vilniaus r. sav., Sudervės sen., Grikienių k., Sudervės g. 100, LT-14202"
-  },
-  {
-    "name": "MB \"MMM LT\"",
-    "code": "306725834",
-    "address": "Šiauliai, Vasario 16-osios g. 33-6, LT-76350",
-    "vatcode": "LT100017099913"
-  },
-  {
-    "name": "MB \"MMM statyba\"",
-    "code": "307107972",
-    "address": "Raseiniai, Vytauto Didžiojo g. 31-19, LT-60127"
-  },
-  {
-    "name": "MB AGRO MMM",
-    "code": "306626843",
-    "address": "Alytaus r. sav., Alovės sen., Muiželėnų k., Šarkų g. 3, LT-64110"
-  },
-  {
-    "name": "MB MMM avto",
-    "code": "307411975",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
-  },
-  {
-    "name": "MB Mmm desertai",
-    "code": "305684683",
-    "address": "Klaipėda, Smiltelės g. 53-12, LT-94262"
-  },
-  {
-    "name": "UAB \"MMM.CH\"",
-    "code": "306307710",
-    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
-  },
-  {
-    "name": "UAB \"MMN\"",
-    "code": "303005614",
-    "address": "Klaipėda, Vyturio g. 2-48, LT-95181"
-  },
-  {
-    "name": "UAB \"MMP RESTORATION\"",
-    "code": "306311826",
-    "address": "Šiauliai, Vasario 16-osios g. 33-6, LT-76350"
-  },
-  {
-    "name": "UAB \"MMP grupė\"",
-    "code": "305922857",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "UAB MMRM",
-    "code": "307486999",
-    "address": "Vilnius, Polocko g. 14-101, LT-01204"
-  },
-  {
-    "name": "MB \"MMS projektai\"",
-    "code": "304730416",
-    "address": "Klaipėda, Taikos pr. 141C-1, LT-94284"
-  },
-  {
-    "name": "UAB \"MMS Solutions\"",
-    "code": "302495058",
-    "address": "Klaipėda, H. Manto g. 2, LT-92138"
-  },
-  {
-    "name": "UAB \"MMS idėjos\"",
-    "code": "300664641",
-    "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Gobergiškės k., Kaštonų g. 6, LT-96173",
-    "vatcode": "LT100003175714"
-  },
-  {
-    "name": "UAB MMS statyba",
-    "code": "307164578",
-    "address": "Plungė, Mendeno skg. 6-30, LT-90143"
-  },
-  {
-    "name": "MB Mmsh",
-    "code": "307017368",
-    "address": "Alytaus r. sav., Alytaus sen., Likiškėlių k., Tėviškės g. 2, LT-62442"
-  },
-  {
-    "name": "Mažoji bendrija Mmsolutions",
-    "code": "306965683",
-    "address": "Klaipėda, Kaštonų g. 8 K11-313, LT-92206"
-  },
-  {
-    "name": "MB Mmst",
-    "code": "305678100",
-    "address": "Jonava, Riešutų g. 73, LT-55131"
-  },
-  {
-    "name": "MMSystems, UAB",
-    "code": "307278514",
-    "address": "Vilnius, Kazio Borutos g. 26-24, LT-08335",
-    "vatcode": "LT100018715811"
-  },
-  {
-    "name": "MB MMT PROJECTS",
-    "code": "307502916",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
-  },
-  {
-    "name": "MB MMTRANS",
-    "code": "302947403",
-    "address": "Pakruojo r. sav., Lygumai, Pakruojo g. 19, LT-83309"
-  },
-  {
-    "name": "UAB MMX Energy",
-    "code": "303420521",
-    "address": "Vilnius, Kareivių g. 19-6, LT-09133"
-  },
-  {
-    "name": "MB \"MMŪ\"",
-    "code": "303005906",
-    "address": "Varėna, M. K. Čiurlionio g. 65A-1, LT-65155",
-    "vatcode": "LT100007612518"
+    "address": "Anykščių r. sav., Andrioniškio sen., Gyvatynės k. 4, LT-29330",
+    "vatcode": "LT100012959510"
   }
 ]

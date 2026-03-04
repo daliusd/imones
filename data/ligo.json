@@ -35,6 +35,11 @@
     "address": "Vilnius, Santariškių g. 4, LT-08406"
   },
   {
+    "name": "Lssl sergančiųjų sunkiomis ligomis Labdaros ir paramos fondas",
+    "code": "307600627",
+    "address": "Kaunas, Kaišiadorių g. 45-1, LT-44401"
+  },
+  {
     "name": "Onkologinėmis ligomis sergančių moterų draugija \"Eivena\"",
     "code": "301745548",
     "address": "Kaunas, Eivenių g. 2, LT-50161"
@@ -95,6 +100,10 @@
     "address": "Kaunas, Leipalingio g. 10-1, LT-46426"
   },
   {
+    "name": "Algirdo Jackevičiaus labdaros fondas onkologiniams ligoniams ir moksliniams tyrimams remti",
+    "code": "191679462"
+  },
+  {
     "name": "Pagalbos onkologiniams ligoniams asociacija",
     "code": "302704554",
     "address": "Kaunas, A. Mickevičiaus g. 9, LT-44307",
@@ -121,19 +130,16 @@
     "address": "Kretinga, Žemaitės al. 1, LT-97106"
   },
   {
-    "name": "Lietuvos gydytojų sąjungos viešosios įstaigos \"Lazdijų ligoninė\" skyrius",
-    "code": "265248860",
-    "address": "Lazdijai, Kauno g. 8, LT-67128"
-  },
-  {
     "name": "Lietuvos sveikatos mokslų universiteto Kauno ligoninė",
     "code": "302583800",
-    "address": "Kaunas, Josvainių g. 2, LT-47144"
+    "address": "Kaunas, Josvainių g. 2, LT-47144",
+    "vatcode": "LT100005939715"
   },
   {
     "name": "Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos",
     "code": "135163499",
-    "address": "Kaunas, Eivenių g. 2, LT-50161"
+    "address": "Kaunas, Eivenių g. 2, LT-50161",
+    "vatcode": "LT351634917"
   },
   {
     "name": "Lietuvos sveikatos mokslų universiteto ligoninės Kauno klinikų filialas Kulautuvos reabilitacijos ligoninė",
@@ -158,7 +164,12 @@
   {
     "name": "UAB \"Kauno gyvūnų ligoninė\"",
     "code": "306642751",
-    "address": "Vilnius, Lvivo g. 25-702, LT-09320"
+    "address": "Vilnius, Lvivo g. 25-702, LT-09320",
+    "vatcode": "LT100016601219"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Norgėlų veterinarijos ligoninė\"",
+    "code": "172360684"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Rudaminos veterinarijos ligoninė\"",
@@ -167,7 +178,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS VETERINARIJOS KLINIKINĖ LIGONINĖ\"",
     "code": "122772692",
-    "address": "Vilnius, A. Kojelavičiaus g. 150A, LT-11106"
+    "address": "Vilnius, A. Kojelavičiaus g. 150A, LT-11106",
+    "vatcode": "LT100019034516"
   },
   {
     "name": "Uždaroji akcinė bendrovė Nemenčinės veterinarijos ligoninė",
@@ -187,7 +199,8 @@
   {
     "name": "Viešoji įstaiga Abromiškių reabilitacijos ligoninė",
     "code": "181370656",
-    "address": "Elektrėnų sav., Elektrėnų sen., Abromiškių k., Sanatorijos g. 72, LT-26130"
+    "address": "Elektrėnų sav., Elektrėnų sen., Abromiškių k., Sanatorijos g. 72, LT-26130",
+    "vatcode": "LT813706515"
   },
   {
     "name": "Viešoji įstaiga Alytaus apskrities S. Kudirkos ligoninė",
@@ -253,7 +266,8 @@
   {
     "name": "Viešoji įstaiga Klaipėdos universiteto ligoninė",
     "code": "306207585",
-    "address": "Klaipėda, Liepojos g. 41, LT-92288"
+    "address": "Klaipėda, Liepojos g. 41, LT-92288",
+    "vatcode": "LT100015574818"
   },
   {
     "name": "Viešoji įstaiga Kupiškio ligoninė",
@@ -268,12 +282,14 @@
   {
     "name": "Viešoji įstaiga Marijampolės ligoninė",
     "code": "165803154",
-    "address": "Marijampolė, Palangos g. 1, LT-68188"
+    "address": "Marijampolė, Palangos g. 1, LT-68188",
+    "vatcode": "LT658031515"
   },
   {
     "name": "Viešoji įstaiga Mykolo Marcinkevičiaus ligoninė",
     "code": "124245856",
-    "address": "Vilnius, Kauno g. 7, LT-03215"
+    "address": "Vilnius, Kauno g. 7, LT-03215",
+    "vatcode": "LT242458515"
   },
   {
     "name": "Viešoji įstaiga Naujosios Akmenės ligoninė-sveikatos centras",
@@ -303,7 +319,8 @@
   {
     "name": "Viešoji įstaiga RESPUBLIKINĖ VILNIAUS PSICHIATRIJOS LIGONINĖ",
     "code": "124247526",
-    "address": "Vilnius, Parko g. 21, LT-11205"
+    "address": "Vilnius, Parko g. 21, LT-11205",
+    "vatcode": "LT242475219"
   },
   {
     "name": "Viešoji įstaiga Radviliškio ligoninė",
@@ -328,17 +345,20 @@
   {
     "name": "Viešoji įstaiga Respublikinė Klaipėdos ligoninė",
     "code": "191340088",
-    "address": "Klaipėda, S. Nėries g. 3, LT-92231"
+    "address": "Klaipėda, S. Nėries g. 3, LT-92231",
+    "vatcode": "LT913400811"
   },
   {
     "name": "Viešoji įstaiga Respublikinė Panevėžio ligoninė",
     "code": "191340120",
-    "address": "Panevėžys, Smėlynės g. 25, LT-35144"
+    "address": "Panevėžys, Smėlynės g. 25, LT-35144",
+    "vatcode": "LT913401219"
   },
   {
     "name": "Viešoji įstaiga Respublikinė Vilniaus universitetinė ligoninė",
     "code": "124243848",
-    "address": "Vilnius, Šiltnamių g. 29, LT-04130"
+    "address": "Vilnius, Šiltnamių g. 29, LT-04130",
+    "vatcode": "LT242438412"
   },
   {
     "name": "Viešoji įstaiga Respublikinė Šiaulių ligoninė",
@@ -359,7 +379,8 @@
   {
     "name": "Viešoji įstaiga Ukmergės ligoninė",
     "code": "182935350",
-    "address": "Ukmergė, Vytauto g. 105, LT-20184"
+    "address": "Ukmergė, Vytauto g. 105, LT-20184",
+    "vatcode": "LT829353515"
   },
   {
     "name": "Viešoji įstaiga Utenos ligoninė",
@@ -379,12 +400,14 @@
   {
     "name": "Viešoji įstaiga Vilniaus miesto klinikinė ligoninė",
     "code": "302692454",
-    "address": "Vilnius, Antakalnio g. 57, LT-10207"
+    "address": "Vilnius, Antakalnio g. 57, LT-10207",
+    "vatcode": "LT100006560213"
   },
   {
     "name": "Viešoji įstaiga Vilniaus universiteto ligoninė Santaros klinikos",
     "code": "124364561",
-    "address": "Vilnius, Santariškių g. 2, LT-08406"
+    "address": "Vilnius, Santariškių g. 2, LT-08406",
+    "vatcode": "LT243645610"
   },
   {
     "name": "Viešoji įstaiga Visagino ligoninė",
@@ -397,7 +420,7 @@
     "address": "Šakiai, Bažnyčios g. 37, LT-71123"
   },
   {
-    "name": "Viešoji įstaiga Šalčininkų rajono savivaldybės ligoninė",
+    "name": "Viešoji įstaiga Šalčininkų ligoninė",
     "code": "275005020",
     "address": "Šalčininkai, Nepriklausomybės g. 38B, LT-17115"
   },
@@ -425,11 +448,6 @@
     "name": "Viešosios įstaigos Skuodo ligoninė sveikatos apsaugos darbuotojų profesinė sąjunga",
     "code": "173942876",
     "address": "Skuodas, Šatrijos g. 3, LT-98114"
-  },
-  {
-    "name": "614-oji daugiabučio namo Ligoninės g. 4 Vilniuje savininkų bendrija",
-    "code": "224802530",
-    "address": "Vilnius, Ligoninės g. 4-9, LT-01134"
   },
   {
     "name": "Bendrija Karo Ligoninės g. 3",
@@ -532,11 +550,6 @@
     "address": "Šiauliai, Kuršių g. 11, LT-77177"
   },
   {
-    "name": "Rokiškio psichiatrijos ligoninės profesinė sąjunga \"Solidarumas\"",
-    "code": "173745213",
-    "address": "Rokiškis, Vytauto g. 47, LT-42100"
-  },
-  {
     "name": "Santaros vaikų ligoninės sveikatos apsaugos darbuotojų profesinė sąjunga",
     "code": "124709160",
     "address": "Vilnius, Santariškių g. 7, LT-08406"
@@ -552,11 +565,6 @@
     "address": "Druskininkai, Kurorto g. 5B, LT-66126"
   },
   {
-    "name": "Vaikų ligoninės gydytojų profesinė sąjunga \"Santariškės\"",
-    "code": "225993280",
-    "address": "Vilnius, Santariškių g. 7, LT-08406"
-  },
-  {
     "name": "Vaikų ligoninės reanimacijos skyriaus labdaros ir paramos fondas",
     "code": "300790483",
     "address": "Vilnius, Santariškių g. 4, LT-08406"
@@ -567,19 +575,9 @@
     "address": "Vilnius, Petro Baublio g. 5, LT-08406"
   },
   {
-    "name": "Viešosios įstaigos Abromiškių reabilitacijos ligoninės sveikatos apsaugos darbuotojų profesinė sąjunga",
-    "code": "181611071",
-    "address": "Elektrėnų sav., Elektrėnų sen., Abromiškių k."
-  },
-  {
     "name": "Viešosios įstaigos Anykščių rajono savivaldybės ligoninės darbuotojų profesinė sąjunga \"Solidarumas\"",
     "code": "303066268",
     "address": "Anykščių r. sav., Troškūnai, Vytauto g. 15, LT-29306"
-  },
-  {
-    "name": "Viešosios įstaigos Elektrėnų ligoninės sveikatos apsaugos darbuotojų profesinė sąjunga",
-    "code": "181638467",
-    "address": "Elektrėnai, Taikos g. 8, LT-26115"
   },
   {
     "name": "Viešosios įstaigos Kauno onkologijos ligoninės sveikatos apsaugos darbuotojų profesinė sąjunga",
@@ -622,19 +620,8 @@
     "address": "Rokiškis, Vytauto g. 47, LT-42100"
   },
   {
-    "name": "Viešosios įstaigos Ukmergės ligoninės gydytojų sąjunga",
-    "code": "183120270",
-    "address": "Ukmergė, Vytauto g. 105, LT-20184"
-  },
-  {
-    "name": "Viešosios įstaigos Ukmergės ligoninės slaugos specialistų organizacija",
-    "code": "182944933",
-    "address": "Ukmergė, Vytauto g. 105, LT-20184"
-  },
-  {
-    "name": "Viešosios įstaigos Utenos ligoninės sveikatos apsaugos darbuotojų profesinė sąjunga",
-    "code": "184290083",
-    "address": "Utena, Aukštakalnio g. 3, LT-28151"
+    "name": "Viešosios įstaigos Vilniaus Universiteto ligoninės Santariškių klinikos gydytojų profesinė sąjunga",
+    "code": "300133847"
   },
   {
     "name": "Viešosios įstaigos Vilniaus miesto klinikinės ligoninės darbuotojų profesinė sąjunga",
@@ -657,19 +644,9 @@
     "address": "Šalčininkų r. sav., Eišiškės, Ligoninės g. 2A, LT-17176"
   },
   {
-    "name": "Visagino gydytojų sąjungos Visagino ligoninės skyrius",
-    "code": "255981280",
-    "address": "Visaginas, Taikos pr. 15, LT-31107"
-  },
-  {
     "name": "Visagino ligoninės darbuotojų profesinė sąjunga",
     "code": "191830843",
     "address": "Visaginas, Taikos pr. 15A, LT-31107"
-  },
-  {
-    "name": "VŠĮ Marijampolės ligoninės darbuotojų profesinė sąjunga",
-    "code": "304562712",
-    "address": "Marijampolė, Paupio g. 1A, LT-68188"
   },
   {
     "name": "VšĮ Elektrėnų ligoninės darbuotojų profesinė sąjunga",
@@ -694,6 +671,10 @@
     "name": "VšĮ Respublikinės Kauno ligoninės sveikatos apsaugos darbuotojų profesinė sąjunga",
     "code": "302922161",
     "address": "Kaunas, Hipodromo g. 13, LT-45130"
+  },
+  {
+    "name": "VšĮ Respublikinės Vilniaus psichiatrijos ligoninės darbuotojų profesinė sąjunga",
+    "code": "304502697"
   },
   {
     "name": "VšĮ Respublikinės Šiaulių ligoninės Psichiatrijos klinikos darbuotojų profesinė sąjunga",
@@ -828,7 +809,8 @@
   {
     "name": "Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos",
     "code": "191351679",
-    "address": "Vilnius, Europos a. 1, LT-09308"
+    "address": "Vilnius, Europos a. 1, LT-09308",
+    "vatcode": "LT100000950313"
   },
   {
     "name": "Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos darbuotojų profesinė sąjunga",
@@ -909,5 +891,13 @@
     "name": "Telšių Parkinsono ligos draugija",
     "code": "304999893",
     "address": "Telšiai, Respublikos g. 55, LT-87334"
+  },
+  {
+    "name": "VšĮ Ligos paliestųjų psichologinės pagalbos centras",
+    "code": "304042633"
+  },
+  {
+    "name": "UAB \"LigoWave Technology\"",
+    "code": "300098759"
   }
 ]

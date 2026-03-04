@@ -24,7 +24,8 @@
   {
     "name": "UAB Organic Trade",
     "code": "306168374",
-    "address": "Vilnius, Vilkpėdės g. 22, LT-03151"
+    "address": "Vilnius, Vilkpėdės g. 22, LT-03151",
+    "vatcode": "LT100016005011"
   },
   {
     "name": "UAB Organic-farmacy",
@@ -34,7 +35,8 @@
   {
     "name": "UAB \"ORGANICAGRO\"",
     "code": "303460494",
-    "address": "Vilnius, Subačiaus g. 23-2, LT-01300"
+    "address": "Vilnius, Subačiaus g. 23-2, LT-01300",
+    "vatcode": "LT100010044615"
   },
   {
     "name": "MB Plush organics limited",
@@ -44,7 +46,8 @@
   {
     "name": "Mažoji bendrija Anli organics",
     "code": "307450049",
-    "address": "Kaunas, Savanorių pr. 397-25, LT-49291"
+    "address": "Kaunas, Savanorių pr. 397-25, LT-49291",
+    "vatcode": "LT100018959715"
   },
   {
     "name": "UAB \"SAPROPEL ORGANICS\"",
@@ -66,12 +69,14 @@
   {
     "name": "Uždaroji akcinė bendrovė \"ORGANIKA VILNIUS\"",
     "code": "110807598",
-    "address": "Vilnius, Panerių g. 51, LT-03160"
+    "address": "Vilnius, Panerių g. 51, LT-03160",
+    "vatcode": "LT108075917"
   },
   {
     "name": "MB \"Organikas\"",
     "code": "307064236",
-    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
+    "vatcode": "LT100017486715"
   },
   {
     "name": "\"Organikos merai\", UAB",
@@ -82,7 +87,8 @@
   {
     "name": "UAB \"Organikos gavyba\"",
     "code": "304204327",
-    "address": "Kaunas, Islandijos pl. 32B, LT-47446"
+    "address": "Kaunas, Islandijos pl. 32B, LT-47446",
+    "vatcode": "LT100010065719"
   },
   {
     "name": "UAB \"Organikos nauda\"",
@@ -107,7 +113,8 @@
   {
     "name": "Crypto Economy Organisation",
     "code": "304800380",
-    "address": "Vilnius, A. Jakšto g. 7, LT-01105"
+    "address": "Vilnius, A. Jakšto g. 7, LT-01105",
+    "vatcode": "LT100015344117"
   },
   {
     "name": "Lietuvos ir Australijos UAB \"Organisations Consulting Group\"",
@@ -134,16 +141,6 @@
     "name": "Afganistano karo veteranų organizacija Klaipėdoje \"Miražas\"",
     "code": "300525912",
     "address": "Klaipėda, Taikos pr. 107-61, LT-94202"
-  },
-  {
-    "name": "Akcinės bendrovės \"Dusetų melioracija\" profesinė organizacija",
-    "code": "291881810",
-    "address": "Zarasų r. sav., Dusetų sen., Užtiltės k., Melioratorių g. 15, LT-32303"
-  },
-  {
-    "name": "Akcinės bendrovės \"Progresas\" profsąjungos organizacija",
-    "code": "161647341",
-    "address": "Kėdainiai, Metalistų g. 2, LT-57241"
   },
   {
     "name": "Akcinės bendrovės \"Šilutės baldai\" profesinė organizacija",
@@ -206,11 +203,6 @@
     "address": "Mažeikių r. sav., Mažeikių apylinkės sen., Ruzgų k., Mokyklos g. 22, LT-89451"
   },
   {
-    "name": "Biržų \"Atžalyno\" vidurinės mokyklos darbuotojų profesinė organizacija",
-    "code": "155304530",
-    "address": "Biržai, Sąjungos g. 15, LT-41133"
-  },
-  {
     "name": "Bitėnų kaimo visuomenės organizacija \"Rambynas\"",
     "code": "178057480",
     "address": "Pagėgių sav., Lumpėnų sen., Bitėnų k."
@@ -234,11 +226,6 @@
     "name": "G. Grigaliūnienės labdaros organizacija \"Globėjas\"",
     "code": "193058550",
     "address": "Panevėžio r. sav., Panevėžio sen., Teberešiškių k."
-  },
-  {
-    "name": "Ignalinos rajono pašto darbuotojų profsąjungos organizacija",
-    "code": "255619630",
-    "address": "Ignalina, Laisvės a. 62"
   },
   {
     "name": "IĮ \"Organizacija\"",
@@ -281,11 +268,6 @@
     "address": "Klaipėda, Strėvos g. 5, LT-93240"
   },
   {
-    "name": "Joniškėlio Igno Karpio žemės ūkio ir paslaugų mokyklos profesinė organizacija",
-    "code": "300024050",
-    "address": "Pasvalio r. sav., Joniškėlio sen., Narteikių k."
-  },
-  {
     "name": "Jurbarko rajono verslininkų organizacija",
     "code": "158746347",
     "address": "Jurbarkas, Dariaus ir Girėno g. 120A, LT-74187"
@@ -294,6 +276,10 @@
     "name": "Kauno Satjos Sai Babos organizacija",
     "code": "235826550",
     "address": "Kaunas, Savanorių pr. 399-49, LT-49289"
+  },
+  {
+    "name": "Kauno apskrities liberalaus jaunimo organizacija",
+    "code": "193419698"
   },
   {
     "name": "Kauno jėzuitų gimnazijos alumnų organizacija",
@@ -316,24 +302,18 @@
     "address": "Klaipėda, Šermukšnių g. 25, LT-91206"
   },
   {
+    "name": "Klaipėdos visuomeninė organizacija \"ŽMOGAUS BEIEŠKANT\"",
+    "code": "193363751"
+  },
+  {
     "name": "Kretingos rajono visuomeninė labdaros organizacija \"Rūpestėliai\"",
     "code": "191709539",
     "address": "Kretinga, Vilniaus g. 2, LT-97125"
   },
   {
-    "name": "Kruonio HAE profsąjungos organizacija",
-    "code": "158964641",
-    "address": "Kaišiadorių r. sav., Kruonio sen., Kruonio II k."
-  },
-  {
     "name": "Kunigiškės kaimo bendruomenės visuomeninė organizacija \"BRYDĖ\"",
     "code": "178990896",
     "address": "Švenčionių r. sav., Cirkliškio sen., Kunigiškės k."
-  },
-  {
-    "name": "Kuršių nerijos nacionalinio parko profsąjungos organizacija",
-    "code": "193430050",
-    "address": "Klaipėda, Smiltynės g. 18, LT-93100"
   },
   {
     "name": "LIETUVOS AKLŲJŲ IR SILPNAREGIŲ SĄJUNGOS VILNIAUS ĮMONĖS DIRBANČIŲJŲ VIETINĖ PROFESINĖ ORGANIZACIJA",
@@ -346,9 +326,17 @@
     "address": "Kaunas, Vokiečių g. 170-42, LT-45299"
   },
   {
+    "name": "Lietuvoje gyvenančių Antrojo pasaulinio karo dalyvių, kovojusių antihitlerinės koalicijos pusėje, Plungės rajono pirminė organizacija",
+    "code": "171708077"
+  },
+  {
     "name": "Lietuvoje gyvenančių Antrojo pasaulinio karo dalyvių, kovojusių antihitlerinės koalicijos pusėje, organizacija",
     "code": "190761796",
     "address": "Vilnius, Barboros Radvilaitės g. 1, LT-01124"
+  },
+  {
+    "name": "Lietuvos Gydytojų sąjungos Kelmės skyriaus profesinė organizacija",
+    "code": "191179165"
   },
   {
     "name": "Lietuvos Respublikos visuomeninė sveikos gyvensenos organizacija \"Nauja pradžia\"",
@@ -378,7 +366,8 @@
   {
     "name": "Lietuvos moterų lobistinė organizacija",
     "code": "303043700",
-    "address": "Klaipėda, Smilčių g. 5, LT-92277"
+    "address": "Klaipėda, Smilčių g. 5, LT-92277",
+    "vatcode": "LT100019213011"
   },
   {
     "name": "Lietuvos slaugos specialistų organizacija",
@@ -458,7 +447,8 @@
   {
     "name": "Padangų importuotojų organizacija",
     "code": "303003606",
-    "address": "Vilnius, Perkūnkiemio g. 3, LT-12127"
+    "address": "Vilnius, Perkūnkiemio g. 3, LT-12127",
+    "vatcode": "LT100007804217"
   },
   {
     "name": "Pagėgių evangelikų liuteronų parapijos labdaros organizacija \"Pagėgių sandora\"",
@@ -479,6 +469,10 @@
     "name": "Pasvalio rajono skautų organizacija",
     "code": "169260923",
     "address": "Pasvalys, Vilniaus g. 2-14"
+  },
+  {
+    "name": "Pasvalio valstybinio žemės ūkio kultūrų veislių tyrimo punkto profsąjunginė organizacija",
+    "code": "169279980"
   },
   {
     "name": "Plungės rajono buvusių tremtinių nevyriausybinė organizacija \"Paliesti tremties\"",
@@ -514,6 +508,10 @@
     "name": "Rietavo savivaldybės jaunimo organizacija \"Progresas\"",
     "code": "271670720",
     "address": "Rietavas, Oginskių g. 8-1, LT-90311"
+  },
+  {
+    "name": "Rėkyvos jaunimo organizacija \"Ersas\"",
+    "code": "301448575"
   },
   {
     "name": "SKĖTINĖ VOKIEČIŲ ASOCIACIJŲ ORGANIZACIJA LIETUVOJE",
@@ -557,11 +555,6 @@
     "address": "Vilnius, Gabijos g. 30-62, LT-06100"
   },
   {
-    "name": "Tauragės miškų urėdijos profsąjunginė organizacija",
-    "code": "179494255",
-    "address": "Tauragė, Vytauto g. 125, LT-72211"
-  },
-  {
     "name": "Telšių vyskupijos Rekolekcinio veikimo organizacija",
     "code": "192094312",
     "address": "Palanga, Putinų tak. 456"
@@ -569,7 +562,8 @@
   {
     "name": "UAB \"BALTIJOS MATAVIMŲ ORGANIZACIJA\"",
     "code": "302422672",
-    "address": "Vilnius, Linkmenų g. 13, LT-09300"
+    "address": "Vilnius, Linkmenų g. 13, LT-09300",
+    "vatcode": "LT100005464517"
   },
   {
     "name": "UAB \"Baltijos statybos organizacija\"",
@@ -604,39 +598,14 @@
     "address": "Anykščiai, Gegužės g. 47, LT-29107"
   },
   {
-    "name": "Ukmergės pirminės sveikatos priežiūros centro slaugos specialistų organizacija",
-    "code": "182938318",
-    "address": "Ukmergė, Vytauto g. 105, LT-20184"
-  },
-  {
-    "name": "Ukmergės rajono pašto darbuotojų profsąjungos organizacija",
-    "code": "183128694",
-    "address": "Ukmergė, Kauno g. 11, LT-20129"
-  },
-  {
     "name": "Ukmergės rajono visuomeninė organizacija \"SOS-Vepriuose\"",
     "code": "183133912",
     "address": "Ukmergės r. sav., Vepriai, Šventosios g. 9, LT-20283"
   },
   {
-    "name": "Ukmergės telekomunikacijų darbuotojų profesinės sąjungos organizacija",
-    "code": "183119688",
-    "address": "Ukmergė, Kauno g. 11, LT-20129"
-  },
-  {
     "name": "Utenos mokytojų visuomeninė organizacija \"Levindra\"",
     "code": "184197095",
     "address": "Utena, Taikos g. 44, LT-28157"
-  },
-  {
-    "name": "Uždarosios akcinės bendrovės \"Biržų duona\" profsąjungos organizacija",
-    "code": "154904636",
-    "address": "Biržai, Plento g. 6, LT-41128"
-  },
-  {
-    "name": "Uždarosios akcinės bendrovės \"Lazdijų autobusų parkas\" profsąjunginė organizacija",
-    "code": "191892268",
-    "address": "Lazdijai, Turistų g. 27, LT-67102"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"Šilutės šilumos tinklai\" profesinė organizacija",
@@ -647,6 +616,10 @@
     "name": "Užubalių kaimo bendruomenės visuomeninė organizacija \"Užubalių gojus\"",
     "code": "153738574",
     "address": "Alytaus r. sav., Alytaus sen., Užubalių k."
+  },
+  {
+    "name": "VILNIAUS LIBERALAUS JAUNIMO ORGANIZACIJA",
+    "code": "193538599"
   },
   {
     "name": "VILNIAUS MIESTO VISUOMENINĖ ORGANIZACIJA \"AMERIKOS LIETUVIŲ KULTŪROS NAMAI\"",
@@ -704,6 +677,10 @@
     "address": "Vilnius, Didlaukio g. 80-96, LT-08326"
   },
   {
+    "name": "VISUOMENINĖ ORGANIZACIJA \"VILNIAUS SATURN KLUBAS\"",
+    "code": "195745988"
+  },
+  {
     "name": "VISUOMENINĖ ORGANIZACIJA \"ZUJŪNŲ KAIMO BENDRUOMENĖ\"",
     "code": "186752827",
     "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Gelažių g. 41-1, LT-14163"
@@ -744,6 +721,10 @@
     "address": "Plungės r. sav., Plateliai, Didžioji g. 21, LT-90420"
   },
   {
+    "name": "VISUOMENINĖ ORGANIZACIJA SPORTO KLUBAS \"23\"",
+    "code": "126313366"
+  },
+  {
     "name": "VISUOMENINĖ ORGANIZACIJA SPORTO KLUBAS \"TVIZLAS\"",
     "code": "226311010",
     "address": "Vilnius, Justiniškių g. 97-8, LT-05252"
@@ -771,13 +752,8 @@
   {
     "name": "Viešoji įstaiga Nacionalinė vaistų verifikacijos organizacija",
     "code": "304548374",
-    "address": "Vilnius, Lvivo g. 25-104, LT-09320",
+    "address": "Vilnius, Olimpiečių g. 1-35, LT-09235",
     "vatcode": "LT100011083414"
-  },
-  {
-    "name": "Viešosios įstaigos Ukmergės ligoninės slaugos specialistų organizacija",
-    "code": "182944933",
-    "address": "Ukmergė, Vytauto g. 105, LT-20184"
   },
   {
     "name": "Vileišiečių organizacija",
@@ -798,6 +774,10 @@
     "name": "Vilniaus visuomeninė organizacija \"Saulės ženklas\"",
     "code": "305612004",
     "address": "Vilnius, Girulių g. 5, LT-12124"
+  },
+  {
+    "name": "Visagino miesto visuomeninė organizacija \"VERAS\"",
+    "code": "155988263"
   },
   {
     "name": "Visagino skautų organizacija",
@@ -832,7 +812,8 @@
   {
     "name": "Visuomeninė organizacija \"Akmenės jaunimas\"",
     "code": "302308551",
-    "address": "Akmenės r. sav., Akmenė, S. Daukanto g. 10, LT-85370"
+    "address": "Akmenės r. sav., Akmenė, S. Daukanto g. 10, LT-85370",
+    "vatcode": "LT100012620913"
   },
   {
     "name": "Visuomeninė organizacija \"Alantos bendruomenės centras\"",
@@ -858,6 +839,10 @@
     "name": "Visuomeninė organizacija \"Ateities karta\"",
     "code": "155958658",
     "address": "Visaginas, Vilties g. 16, LT-31121"
+  },
+  {
+    "name": "Visuomeninė organizacija \"Atmintis\"",
+    "code": "152127726"
   },
   {
     "name": "Visuomeninė organizacija \"Auganti Kelmė\"",
@@ -967,7 +952,8 @@
   {
     "name": "Visuomeninė organizacija \"Gelbėkit vaikus\"",
     "code": "190780953",
-    "address": "Vilnius, Vilniaus g. 20, LT-01402"
+    "address": "Vilnius, Vilniaus g. 20, LT-01402",
+    "vatcode": "LT100018827317"
   },
   {
     "name": "Visuomeninė organizacija \"Gelvonų krašto bendruomenė\"",
@@ -1177,7 +1163,8 @@
   {
     "name": "Visuomeninė organizacija \"Poetinis Druskininkų ruduo\"",
     "code": "152155519",
-    "address": "Druskininkai, Maironio g. 16, LT-66116"
+    "address": "Druskininkai, Maironio g. 16, LT-66116",
+    "vatcode": "LT100018499712"
   },
   {
     "name": "Visuomeninė organizacija \"Raudėnų bendruomenė\"",
@@ -1455,6 +1442,10 @@
     "address": "Alytus, Topolių g. 10-18, LT-63342"
   },
   {
+    "name": "Visuomeninė organizacija Alytaus miesto šokio ir elegancijos studija \"LYBARTĖ\"",
+    "code": "149935217"
+  },
+  {
     "name": "Visuomeninė organizacija Alytaus motociklų klubas \"Devyniukė\"",
     "code": "150149656",
     "address": "Alytus, Jaunimo g. 52-4, LT-63307"
@@ -1614,6 +1605,10 @@
     "address": "Širvintų r. sav., Musninkai"
   },
   {
+    "name": "Visuomeninė organizacija Muzikos grupė \"Airija\"",
+    "code": "150061149"
+  },
+  {
     "name": "Visuomeninė organizacija Noreikių bendruomenė",
     "code": "145800631",
     "address": "Šiaulių r. sav., Kužių sen., Noreikių k., Vėjų g. 41-1, LT-76221"
@@ -1676,7 +1671,8 @@
   {
     "name": "Visuomeninė organizacija SRM",
     "code": "303218473",
-    "address": "Lazdijų r. sav., Veisiejai, Kreivoji g. 4, LT-67341"
+    "address": "Lazdijų r. sav., Veisiejai, Kreivoji g. 4, LT-67341",
+    "vatcode": "LT100014633519"
   },
   {
     "name": "Visuomeninė organizacija Samylų bendruomenės centras",
@@ -1711,7 +1707,8 @@
   {
     "name": "Visuomeninė organizacija Utenos rajono gyvūnų mylėtojų draugija",
     "code": "184211367",
-    "address": "Utena, Taikos g. 77-18, LT-28164"
+    "address": "Utena, Taikos g. 77-18, LT-28164",
+    "vatcode": "LT100004306518"
   },
   {
     "name": "Visuomeninė organizacija VILNIAUS MIESTO AVIAMODELIAVIMO SPORTO KLUBAS",
@@ -1722,6 +1719,10 @@
     "name": "Visuomeninė organizacija VILNIAUS PASAGOS MĖTYTOJŲ KLUBAS \"PASAGĖLĖ\"",
     "code": "124711955",
     "address": "Vilnius, Žynių g. 1, LT-08400"
+  },
+  {
+    "name": "Visuomeninė organizacija VILNIAUS TENISO KLUBAS \"KAROLINA\"",
+    "code": "191184536"
   },
   {
     "name": "Visuomeninė organizacija Varėnos sveikatingumo klubas \"Saulingė\"",
@@ -1910,11 +1911,6 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
-    "name": "Zarasų pašto profsąjungos organizacija",
-    "code": "193048638",
-    "address": "Zarasai, Sėlių a. 16, LT-32107"
-  },
-  {
     "name": "Šalčininkų rajono antrojo pasaulinio karo antihitlerinės koalicijos pusėje dalyvių organizacija",
     "code": "193312066",
     "address": "Šalčininkai, Vilniaus g. 48, LT-17116"
@@ -1962,7 +1958,8 @@
   {
     "name": "MB Organizacijos valdymo sprendimai",
     "code": "306967517",
-    "address": "Vilnius, Algirdo g. 85-67, LT-02100"
+    "address": "Vilnius, Algirdo g. 85-67, LT-02100",
+    "vatcode": "LT100017992419"
   },
   {
     "name": "Ne pelno organizacijos \"Didaktik\" Lietuvos filialas",
@@ -2005,6 +2002,11 @@
     "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105"
   },
   {
+    "name": "Šiaulių dailininkų organizacijos \"Dailė\" įmonė",
+    "code": "144608642",
+    "address": "Šiauliai, Vilniaus g. 237, LT-76343"
+  },
+  {
     "name": "Žemaitijos skautų organizacijos Kretingos tuntas",
     "code": "305757117",
     "address": "Kretinga, Miško g. 1-17, LT-97109"
@@ -2027,7 +2029,8 @@
   {
     "name": "Asociacija \"Žmogaus teisių organizacijų koalicija\"",
     "code": "304741462",
-    "address": "Vilnius, A. Jakšto g. 9, LT-01105"
+    "address": "Vilnius, A. Jakšto g. 9, LT-01105",
+    "vatcode": "LT100019334414"
   },
   {
     "name": "Etninių mažumų medijų organizacijų nuolatinis apskritas stalas ETMONAS",
@@ -2092,7 +2095,8 @@
   {
     "name": "Labdaros ir paramos fondas \"Nevyriausybinių organizacijų informacijos ir paramos centras\"",
     "code": "192013926",
-    "address": "Vilnius, A. Jakšto g. 9-301"
+    "address": "Vilnius, A. Jakšto g. 9-301",
+    "vatcode": "LT100019407918"
   },
   {
     "name": "Lietuvos baltarusių visuomeninių organizacijų susivienijimas",
@@ -2113,7 +2117,8 @@
   {
     "name": "Lietuvos negalios organizacijų forumas",
     "code": "125703071",
-    "address": "Vilnius, Labdarių g. 7, LT-01120"
+    "address": "Vilnius, Labdarių g. 7, LT-01120",
+    "vatcode": "LT100010005513"
   },
   {
     "name": "Lietuvos pacientų organizacijų atstovų taryba",
@@ -2168,7 +2173,8 @@
   {
     "name": "Nacionalinis skurdo mažinimo organizacijų tinklas",
     "code": "300575559",
-    "address": "Vilnius, Odminių g. 12, LT-01122"
+    "address": "Vilnius, Odminių g. 12, LT-01122",
+    "vatcode": "LT100019654216"
   },
   {
     "name": "Nacionalinė nevyriausybinių organizacijų koalicija",
@@ -2259,6 +2265,12 @@
     "vatcode": "LT232746113"
   },
   {
+    "name": "V. Kerdoko, S. Meškevičiaus tikroji ūkinė bendrija \"Organizacijų vystymo konsultacijos\"",
+    "code": "140089641",
+    "address": "Klaipėda, Taikos pr. 38, LT-91218",
+    "vatcode": "LT400896410"
+  },
+  {
     "name": "VILNIAUS JAUNIMO ORGANIZACIJŲ SĄJUNGA \"APSKRITAS STALAS\"",
     "code": "124463627",
     "address": "Vilnius, A. Juozapavičiaus g. 10A, LT-09311"
@@ -2282,6 +2294,10 @@
     "name": "Visagino jaunimo organizacijų sąjunga \"Apskritasis stalas\"",
     "code": "307565852",
     "address": "Visaginas, Parko g. 8-62, LT-31140"
+  },
+  {
+    "name": "Visuomeninių organizacijų sąjunga \"Žemaitija\"",
+    "code": "171713971"
   },
   {
     "name": "Zarasų rajono jaunimo visuomeninių organizacijų sąjunga \"Apskritas stalas\"",
@@ -2311,7 +2327,8 @@
   {
     "name": "MB Visapusiški organizaciniai sprendimai",
     "code": "305634997",
-    "address": "Kaunas, Estų g. 24, LT-45290"
+    "address": "Kaunas, Estų g. 24, LT-45290",
+    "vatcode": "LT100016075618"
   },
   {
     "name": "Viešoji įstaiga \"Kultūrinės ir organizacinės idėjos\"",
@@ -2336,7 +2353,8 @@
   {
     "name": "Portals organization, UAB",
     "code": "306279339",
-    "address": "Vilnius, Didžioji g. 6-2, LT-01128"
+    "address": "Vilnius, Didžioji g. 6-2, LT-01128",
+    "vatcode": "LT100015943712"
   },
   {
     "name": "STRUCTURE MMA organization VšĮ",
@@ -2356,7 +2374,8 @@
   {
     "name": "Young Presidents' Organization Lithuania Chapter",
     "code": "304756507",
-    "address": "Vilnius, Konstitucijos pr. 20A, LT-09321"
+    "address": "Vilnius, Konstitucijos pr. 20A, LT-09321",
+    "vatcode": "LT100019256318"
   },
   {
     "name": "Asociacija The International Diplomatic Mission \"Organizations for Security and Community Europe\"",
@@ -2366,7 +2385,7 @@
   {
     "name": "\"VIP renginių organizatoriai\", MB",
     "code": "305331231",
-    "address": "Kauno r. sav., Neveronių sen., Neveronių k., Purienų g. 3, LT-54478"
+    "address": "Palanga, Žvejų g. 45-17, LT-00153"
   },
   {
     "name": "Noproblem organizatoriai, MB",
@@ -2395,7 +2414,8 @@
   {
     "name": "MB \"Buhalterinės apskaitos organizavimas\"",
     "code": "305199993",
-    "address": "Kauno r. sav., Samylų sen., Laumėnų k., Laisvės g. 8, LT-53135"
+    "address": "Kauno r. sav., Samylų sen., Laumėnų k., Laisvės g. 8, LT-53135",
+    "vatcode": "LT100014057013"
   },
   {
     "name": "MB \"Maitinimo organizavimas\"",
@@ -2411,7 +2431,8 @@
   {
     "name": "MB Statybos projektų organizavimas",
     "code": "306104973",
-    "address": "Kaunas, Priegliaus g. 8, LT-45427"
+    "address": "Kaunas, Priegliaus g. 8, LT-45427",
+    "vatcode": "LT100015926016"
   },
   {
     "name": "MB Statybų organizavimas",
@@ -2433,6 +2454,10 @@
     "code": "304745521"
   },
   {
+    "name": "A. Guzausko pramogų organizavimo firma \"SEKVENCIJA\"",
+    "code": "140485199"
+  },
+  {
     "name": "Bendruomenė Laisvalaikio organizavimo centras",
     "code": "304268625",
     "address": "Kaunas, Vytauto pr. 13, LT-44354"
@@ -2441,6 +2466,10 @@
     "name": "Judėjimo organizavimo tarnyba",
     "code": "188754410",
     "address": "Vilnius, Prūsų g. 1, LT-02151"
+  },
+  {
+    "name": "R. Volungevičiaus PREKYBOS ORGANIZAVIMO CENTRAS",
+    "code": "125883242"
   },
   {
     "name": "Renginių organizavimo komanda \"Harmonija\"",
@@ -2472,7 +2501,8 @@
   {
     "name": "MB \"Augantis organizmas\"",
     "code": "305762281",
-    "address": "Visaginas, Sedulinos al. 6-32, LT-31126"
+    "address": "Visaginas, Sedulinos al. 6-32, LT-31126",
+    "vatcode": "LT100015239215"
   },
   {
     "name": "UAB Organizmo balansas",
@@ -2503,12 +2533,14 @@
   {
     "name": "MB \"Organiškas pasaulis\"",
     "code": "305341439",
-    "address": "Vilnius, Girulių g. 7-79, LT-12124"
+    "address": "Vilnius, Girulių g. 7-79, LT-12124",
+    "vatcode": "LT100012777819"
   },
   {
     "name": "MB \"Organiški produktai\"",
     "code": "307149487",
-    "address": "Vilnius, Duburio g. 8-20, LT-13105"
+    "address": "Vilnius, Duburio g. 8-20, LT-13105",
+    "vatcode": "LT100017817516"
   },
   {
     "name": "Organon Pharma B.V. Lithuania atstovybė",
@@ -2518,7 +2550,8 @@
   {
     "name": "UAB \"Organum\"",
     "code": "123884954",
-    "address": "Vilnius, S. Konarskio g. 9-2, LT-03109"
+    "address": "Vilnius, S. Konarskio g. 9-2, LT-03109",
+    "vatcode": "LT238849515"
   },
   {
     "name": "\"Alerginėmis ir kvėpavimo organų ligomis sergančių vaikų\" labdaros ir paramos fondas",
@@ -2533,7 +2566,8 @@
   {
     "name": "UAB \"Orgava\"",
     "code": "304703390",
-    "address": "Kaunas, Pramonės pr. 21, LT-51328"
+    "address": "Kaunas, Pramonės pr. 21, LT-51328",
+    "vatcode": "LT100011285015"
   },
   {
     "name": "MB Orgazm",

@@ -11,6 +11,10 @@
     "vatcode": "LT100013991610"
   },
   {
+    "name": "UAB \"Oaziska\"",
+    "code": "303243583"
+  },
+  {
     "name": "\"Patarimų oazė\", MB",
     "code": "305069170",
     "address": "Šiauliai, Gvazdikų tak. 6-13, LT-78253"
@@ -42,9 +46,19 @@
     "address": "Šilalės r. sav., Laukuva, Taikos g. 16, LT-75407"
   },
   {
+    "name": "Individuali įmonė \"Aukso oazė\"",
+    "code": "300141324"
+  },
+  {
+    "name": "IĮ \"Žiedų oazė\"",
+    "code": "301084538",
+    "address": "Panevėžys, Tulpių g. 16-117, LT-35153"
+  },
+  {
     "name": "Kelionių oazė MB",
     "code": "307004470",
-    "address": "Kėdainių r. sav., Kėdainių miesto sen., Tubių k., Krakių g. 10, LT-57331"
+    "address": "Kėdainių r. sav., Kėdainių miesto sen., Tubių k., Krakių g. 10, LT-57331",
+    "vatcode": "LT100017243416"
   },
   {
     "name": "MB \"Aktyvaus laisvalaikio oazė\"",
@@ -59,7 +73,8 @@
   {
     "name": "MB \"Girkalių oazė\"",
     "code": "306969361",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Girkalių k., Nemirsetos g. 33, LT-92371"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Girkalių k., Nemirsetos g. 33, LT-92371",
+    "vatcode": "LT100017726811"
   },
   {
     "name": "MB \"Grožio oazė\"",
@@ -147,7 +162,8 @@
   {
     "name": "MB \"Žvejo oazė\"",
     "code": "304112996",
-    "address": "Šiauliai, Energetikų g. 1C-4, LT-79238"
+    "address": "Šiauliai, Energetikų g. 1C-4, LT-79238",
+    "vatcode": "LT100016014818"
   },
   {
     "name": "MB Deivės oazė lt",
@@ -178,7 +194,8 @@
   {
     "name": "MB Mokymų oazė",
     "code": "306308584",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017479813"
   },
   {
     "name": "MB Remonto oazė",
@@ -199,12 +216,14 @@
   {
     "name": "MB Virtuali oazė",
     "code": "306624778",
-    "address": "Vilnius, Žvalgų g. 7-1001, LT-08337"
+    "address": "Vilnius, Žvalgų g. 7-1001, LT-08337",
+    "vatcode": "LT100016433113"
   },
   {
     "name": "MB Čiobrelių oazė",
     "code": "307133180",
-    "address": "Vilnius, Metalo g. 7A, LT-02190"
+    "address": "Vilnius, Metalo g. 7A, LT-02190",
+    "vatcode": "LT100017745616"
   },
   {
     "name": "Mažoji bendrija \"Bičių oazė\"",
@@ -214,7 +233,8 @@
   {
     "name": "Mažoji bendrija \"Gyvenimo oazė\"",
     "code": "305762228",
-    "address": "Vilnius, S. Stanevičiaus g. 14-96, LT-07127"
+    "address": "Vilnius, S. Stanevičiaus g. 14-96, LT-07127",
+    "vatcode": "LT100019417915"
   },
   {
     "name": "Mažoji bendrija \"Menų ir renginių oazė\"",
@@ -234,7 +254,8 @@
   {
     "name": "Mažoji bendrija \"Siuvimo oazė\"",
     "code": "304780426",
-    "address": "Mažeikiai, Draugystės g. 20-1, LT-89167"
+    "address": "Mažeikiai, Draugystės g. 20-1, LT-89167",
+    "vatcode": "LT100015103016"
   },
   {
     "name": "Poilsio oazė MB",
@@ -249,7 +270,8 @@
   {
     "name": "UAB \"Apskaitos oazė\"",
     "code": "306069390",
-    "address": "Mažeikiai, Tylioji g. 4-10, LT-89306"
+    "address": "Mažeikiai, Tylioji g. 4-10, LT-89306",
+    "vatcode": "LT100015946818"
   },
   {
     "name": "UAB \"Dantų oazė\"",
@@ -259,7 +281,8 @@
   {
     "name": "UAB \"Harmonijos oazė\"",
     "code": "303201100",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100008228918"
   },
   {
     "name": "UAB \"Jaunystės oazė\"",
@@ -292,7 +315,8 @@
   {
     "name": "UAB \"Mažoji oazė\"",
     "code": "302288764",
-    "address": "Alytus, S. Dariaus ir S. Girėno g. 6B-15, LT-62137"
+    "address": "Alytus, S. Dariaus ir S. Girėno g. 6B-15, LT-62137",
+    "vatcode": "LT100004474418"
   },
   {
     "name": "UAB \"Molėtų oazė\"",
@@ -309,22 +333,30 @@
   {
     "name": "UAB \"Padangų oazė\"",
     "code": "303254373",
-    "address": "Klaipėda, Šilutės pl. 52A, LT-94181"
+    "address": "Klaipėda, Šilutės pl. 52A, LT-94181",
+    "vatcode": "LT100008416715"
   },
   {
     "name": "UAB \"Perlų oazė\"",
     "code": "304760352",
-    "address": "Kaunas, Europos pr. 122, LT-46351"
+    "address": "Kaunas, Europos pr. 122, LT-46351",
+    "vatcode": "LT100013961013"
+  },
+  {
+    "name": "UAB \"Projektų oazė\"",
+    "code": "303312990"
   },
   {
     "name": "UAB \"Reklamos oazė\"",
     "code": "303041592",
-    "address": "Vilnius, Šeškinės g. 28-101, LT-07157"
+    "address": "Vilnius, Šeškinės g. 28-101, LT-07157",
+    "vatcode": "LT100007689314"
   },
   {
     "name": "UAB \"Retro oazė\"",
     "code": "304044488",
-    "address": "Ukmergės r. sav., Šešuolių sen., Kuzilų k., Pilionių g. 11A, LT-20227"
+    "address": "Ukmergės r. sav., Šešuolių sen., Kuzilų k., Pilionių g. 11A, LT-20227",
+    "vatcode": "LT100017096313"
   },
   {
     "name": "UAB \"Smiltynų oazė\"",
@@ -334,7 +366,8 @@
   {
     "name": "UAB \"Sporto oazė\"",
     "code": "304173999",
-    "address": "Vilnius, Kareivių g. 6, LT-09117"
+    "address": "Vilnius, Kareivių g. 6, LT-09117",
+    "vatcode": "LT100010032016"
   },
   {
     "name": "UAB \"Statybų oazė\"",
@@ -356,7 +389,8 @@
   {
     "name": "UAB \"Švenčių oazė\"",
     "code": "304428186",
-    "address": "Panevėžio r. sav., Karsakiškio sen., Lamatų vs. 1, LT-38459"
+    "address": "Panevėžio r. sav., Karsakiškio sen., Lamatų vs. 1, LT-38459",
+    "vatcode": "LT100014159016"
   },
   {
     "name": "UAB \"Šypsenos oazė\"",
@@ -366,17 +400,20 @@
   {
     "name": "UAB BALTIJOS OAZĖ",
     "code": "305700130",
-    "address": "Pakruojis, Pievų tak. 2, LT-83142"
+    "address": "Pakruojis, Pievų tak. 2, LT-83142",
+    "vatcode": "LT100014673417"
   },
   {
     "name": "UAB DRABUŽIŲ OAZĖ",
     "code": "302814075",
-    "address": "Vilnius, Krakiškių Sodų 15-oji g. 66, LT-14287"
+    "address": "Vilnius, Krakiškių Sodų 15-oji g. 66, LT-14287",
+    "vatcode": "LT100006980718"
   },
   {
     "name": "UAB KEPINIŲ OAZĖ",
     "code": "307002035",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
+    "vatcode": "LT100017597515"
   },
   {
     "name": "UAB Kauno Oazė",
@@ -392,12 +429,20 @@
   {
     "name": "Uždaroji akcinė bendrovė \"GĖLIŲ OAZĖ\"",
     "code": "123857925",
-    "address": "Vilnius, Antakalnio g. 38-39, LT-10305"
+    "address": "Vilnius, Antakalnio g. 38-39, LT-10305",
+    "vatcode": "LT238579219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Saulės oazė\"",
     "code": "152680456",
-    "address": "Palanga, Mokyklos g. 14-32, LT-00303"
+    "address": "Palanga, Mokyklos g. 14-32, LT-00303",
+    "vatcode": "LT526804515"
+  },
+  {
+    "name": "V. Rutkausko firma \"NAMŲ OAZĖ\"",
+    "code": "149870189",
+    "address": "Alytus, Ligoninės g. 8, LT-62114",
+    "vatcode": "LT498701811"
   },
   {
     "name": "Vartotojo sąsajos oazė, MB",
@@ -407,7 +452,8 @@
   {
     "name": "Viešoji įstaiga \"SVEIKATOS OAZĖ\"",
     "code": "254319060",
-    "address": "Anykščiai, Ažupiečių g. 1A, LT-29148"
+    "address": "Anykščiai, Ažupiečių g. 1A, LT-29148",
+    "vatcode": "LT543190610"
   },
   {
     "name": "VšĮ \"Juloveros oazė\"",
@@ -457,7 +503,8 @@
   {
     "name": "UAB \"Grožio oazės\"",
     "code": "300595177",
-    "address": "Trakai, P. Cvirkos g. 2, LT-21111"
+    "address": "Trakai, P. Cvirkos g. 2, LT-21111",
+    "vatcode": "LT100002789515"
   },
   {
     "name": "UAB \"Kauno oazės projektas\"",

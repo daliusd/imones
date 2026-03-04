@@ -75,17 +75,20 @@
   {
     "name": "UAB \"Viena klinika\"",
     "code": "305614464",
-    "address": "Vilnius, Kuosų g. 9-107, LT-10312"
+    "address": "Vilnius, Kuosų g. 9-107, LT-10312",
+    "vatcode": "LT100014959915"
   },
   {
     "name": "UAB \"Viena statyba\"",
     "code": "305704207",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100013823115"
   },
   {
     "name": "UAB \"Viena sąskaita\"",
     "code": "300530005",
-    "address": "Kaunas, Savanorių pr. 194, LT-44151"
+    "address": "Kaunas, Savanorių pr. 194, LT-44151",
+    "vatcode": "LT100002939017"
   },
   {
     "name": "UAB \"Viena visata\"",
@@ -95,12 +98,14 @@
   {
     "name": "UAB \"Viena žemė\"",
     "code": "306236245",
-    "address": "Vilnius, Žirmūnų g. 126-77, LT-09126"
+    "address": "Vilnius, Žirmūnų g. 126-77, LT-09126",
+    "vatcode": "LT100016196314"
   },
   {
     "name": "UAB Viena fazė",
     "code": "307043313",
-    "address": "Kaunas, Maironio g. 20A-2, LT-44298"
+    "address": "Kaunas, Maironio g. 20A-2, LT-44298",
+    "vatcode": "LT100018069614"
   },
   {
     "name": "UAB Viena moneta",
@@ -115,7 +120,8 @@
   {
     "name": "Viešoji įstaiga \"Viena komanda\"",
     "code": "303290437",
-    "address": "Kaunas, R. Kalantos g. 30, LT-52494"
+    "address": "Kaunas, R. Kalantos g. 30, LT-52494",
+    "vatcode": "LT100011530814"
   },
   {
     "name": "VšĮ \"Viena šeima\"",
@@ -125,7 +131,8 @@
   {
     "name": "MB \"Vienaakis vienaragis\"",
     "code": "306193986",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+    "address": "Kaunas, Europos pr. 34-47, LT-46370",
+    "vatcode": "LT100015552615"
   },
   {
     "name": "921-oji vienabučių gyvenamųjų namų savininkų bendrija",
@@ -140,12 +147,12 @@
   {
     "name": "UAB \"VIENAM GALE prekyba\"",
     "code": "302307894",
-    "address": "Marijampolė, Kosmonautų g. 18-17, LT-68145"
+    "address": "Marijampolė, Kosmonautų g. 18-17, LT-68145",
+    "vatcode": "LT100004546015"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Du namai viename\"",
-    "code": "302594348",
-    "address": "Kelmė, Raseinių g. 9A-34, LT-86161"
+    "code": "302594348"
   },
   {
     "name": "UAB \"Du viename\"",
@@ -166,7 +173,12 @@
   {
     "name": "MB \"Vienaragiai\"",
     "code": "304738256",
-    "address": "Vilnius, Bistryčios g. 28-6, LT-10321"
+    "address": "Vilnius, Bistryčios g. 28-6, LT-10321",
+    "vatcode": "LT100011916118"
+  },
+  {
+    "name": "MB \"Vienaragio namas\"",
+    "code": "305922202"
   },
   {
     "name": "MB Vienaragio omletas",
@@ -192,7 +204,8 @@
   {
     "name": "MB \"Vienaakis vienaragis\"",
     "code": "306193986",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+    "address": "Kaunas, Europos pr. 34-47, LT-46370",
+    "vatcode": "LT100015552615"
   },
   {
     "name": "MB \"Vieningas vienaragis\"",
@@ -200,7 +213,7 @@
     "address": "Vilnius, Salomėjos Nėries g. 25-29, LT-06313"
   },
   {
-    "name": "UAB Vienaragis LT",
+    "name": "Vienaragis, UAB",
     "code": "303051451",
     "address": "Vilnius, Mindaugo g. 23-50, LT-03214"
   },
@@ -208,6 +221,10 @@
     "name": "VšĮ \"Bėgantis vienaragis\"",
     "code": "304748916",
     "address": "Vilnius, Mindaugo g. 23-36, LT-03214"
+  },
+  {
+    "name": "VšĮ Vienaragis",
+    "code": "302611776"
   },
   {
     "name": "Asociacija \"Vienaragių šilas\"",
@@ -220,9 +237,16 @@
     "address": "Vilnius, Didlaukio g. 96-32, LT-08332"
   },
   {
+    "name": "\"Vienas balkonas\" IĮ",
+    "code": "307176267",
+    "address": "Vilnius, Skaistvario g. 20, LT-03153",
+    "vatcode": "LT100019376016"
+  },
+  {
     "name": "\"Vienas metras\", UAB",
     "code": "304166392",
-    "address": "Jonava, Kauno g. 48, LT-55177"
+    "address": "Jonava, Kauno g. 48, LT-55177",
+    "vatcode": "LT100009919111"
   },
   {
     "name": "\"Vienas namuose\", UAB",
@@ -241,6 +265,17 @@
     "address": "Mažeikiai, Rasos g. 14, LT-89252"
   },
   {
+    "name": "Individuali įmonė \"Vienas kūbas\"",
+    "code": "300078055",
+    "address": "Mažeikių r. sav., Viekšnių sen., Pakalupio k., Padvarėlių g. 15, LT-89486",
+    "vatcode": "LT100001409018"
+  },
+  {
+    "name": "IĮ \"Vienas Du\"",
+    "code": "302465606",
+    "address": "Šilalės r. sav., Kvėdarnos sen., Genioto k., Genioto g. 15, LT-75342"
+  },
+  {
     "name": "MB \"Ev vienas\"",
     "code": "305689627",
     "address": "Kaunas, Dubriaus g. 1, LT-45477"
@@ -248,17 +283,24 @@
   {
     "name": "MB \"Nulis Vienas\"",
     "code": "307441527",
-    "address": "Vilnius, Adolfo Šapokos g. 8-2, LT-11322"
+    "address": "Vilnius, Adolfo Šapokos g. 8-2, LT-11322",
+    "vatcode": "LT100018975010"
+  },
+  {
+    "name": "MB \"Nulis vienas\"",
+    "code": "303352643"
   },
   {
     "name": "MB \"Stilius vienas\"",
     "code": "303795432",
-    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Auksinės g. 1A, LT-92337"
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Auksinės g. 1A, LT-92337",
+    "vatcode": "LT100010556015"
   },
   {
     "name": "MB \"Trys kaip vienas\"",
     "code": "305257585",
-    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Girios g. 15-8, LT-54307"
+    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Girios g. 15-8, LT-54307",
+    "vatcode": "LT100016977016"
   },
   {
     "name": "MB \"Vienas 2\"",
@@ -273,7 +315,8 @@
   {
     "name": "MB \"Vienas baitas\"",
     "code": "304355311",
-    "address": "Kupiškio r. sav., Noriūnų sen., Rudilių k., Vilutiškio g. 2, LT-40394"
+    "address": "Kupiškio r. sav., Noriūnų sen., Rudilių k., Vilutiškio g. 2, LT-40394",
+    "vatcode": "LT100016242513"
   },
   {
     "name": "MB \"Vienas bitas\"",
@@ -293,7 +336,8 @@
   {
     "name": "MB \"Vienas kiloniutonas\"",
     "code": "305578235",
-    "address": "Vilnius, Papilėnų g. 15-32, LT-06222"
+    "address": "Vilnius, Papilėnų g. 15-32, LT-06222",
+    "vatcode": "LT100013216712"
   },
   {
     "name": "MB \"Vienas kilovatas\"",
@@ -307,9 +351,15 @@
     "address": "Kaunas, Islandijos pl. 99-210, LT-49176"
   },
   {
+    "name": "MB \"Vienas namas\"",
+    "code": "307585591",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB \"Vienas paspaudimas\"",
     "code": "304859756",
-    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., Juozo Vyšniausko g. 5, LT-53304"
+    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., Juozo Vyšniausko g. 5, LT-53304",
+    "vatcode": "LT100012185317"
   },
   {
     "name": "MB \"Vienas plius vienas lygu vienuolika\"",
@@ -324,7 +374,8 @@
   {
     "name": "MB \"Vienas skaičius\"",
     "code": "304920305",
-    "address": "Širvintų r. sav., Čiobiškio sen., Burniškių k., Stirnų g. 3, LT-19192"
+    "address": "Širvintų r. sav., Čiobiškio sen., Burniškių k., Stirnų g. 3, LT-19192",
+    "vatcode": "LT100011905415"
   },
   {
     "name": "MB \"Vienas sprendimas\"",
@@ -335,7 +386,8 @@
   {
     "name": "MB \"Vienas vienas\"",
     "code": "305380901",
-    "address": "Visagino sav., Drūkšinių k., Elektrinės g. 10, LT-31152"
+    "address": "Visagino sav., Drūkšinių k., Elektrinės g. 10, LT-31152",
+    "vatcode": "LT100014568919"
   },
   {
     "name": "MB \"Vienas vienetas\"",
@@ -360,17 +412,20 @@
   {
     "name": "MB \"Šeši vienas šeši\"",
     "code": "306624632",
-    "address": "Klaipėdos r. sav., Dovilų sen., Toleikių k., Žardės g. 9, LT-95387"
+    "address": "Klaipėdos r. sav., Dovilų sen., Toleikių k., Žardės g. 9, LT-95387",
+    "vatcode": "LT100016485610"
   },
   {
     "name": "MB \"Švenčiu ne vienas\"",
     "code": "307120304",
-    "address": "Vilnius, Verkių g. 39-118, LT-09109"
+    "address": "Vilnius, Verkių g. 39-118, LT-09109",
+    "vatcode": "LT100017657613"
   },
   {
     "name": "MB Core vienas",
     "code": "307316648",
-    "address": "Vilnius, Gedimino pr. 27, LT-01104"
+    "address": "Vilnius, Gedimino pr. 27, LT-01104",
+    "vatcode": "LT100018884619"
   },
   {
     "name": "MB Dar vienas",
@@ -402,7 +457,8 @@
   {
     "name": "MB Vienas nulis vienas",
     "code": "306133494",
-    "address": "Vilnius, Rukeliškių g. 46-5, LT-10101"
+    "address": "Vilnius, Rukeliškių g. 46-5, LT-10101",
+    "vatcode": "LT100015237118"
   },
   {
     "name": "MB Vienas pliusas",
@@ -412,7 +468,13 @@
   {
     "name": "MB Vienas projektas",
     "code": "306232713",
-    "address": "Kaunas, L. Truikio g. 15, LT-47260"
+    "address": "Kaunas, L. Truikio g. 15, LT-47260",
+    "vatcode": "LT100017753718"
+  },
+  {
+    "name": "MB Vienas srautas",
+    "code": "307586241",
+    "address": "Vilnius, Juodšilių g. 4-21, LT-02245"
   },
   {
     "name": "MB Vienas vienuolika",
@@ -438,7 +500,8 @@
   {
     "name": "UAB \"GO vienas\"",
     "code": "305598565",
-    "address": "Širvintų r. sav., Alionių sen., Alionių II k., Gervių g. 1, LT-19143"
+    "address": "Širvintų r. sav., Alionių sen., Alionių II k., Gervių g. 1, LT-19143",
+    "vatcode": "LT100013344812"
   },
   {
     "name": "UAB \"Geležinkelio vienas\"",
@@ -448,7 +511,8 @@
   {
     "name": "UAB \"I vienas\"",
     "code": "306337098",
-    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Aukštkiemių g. 1, LT-92360"
+    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Aukštkiemių g. 1, LT-92360",
+    "vatcode": "LT100017733612"
   },
   {
     "name": "UAB \"Numeris vienas\"",
@@ -469,12 +533,14 @@
   {
     "name": "UAB \"Vienas noras\"",
     "code": "304830555",
-    "address": "Švenčionių r. sav., Švenčionėliai, Bažnyčios g. 13, LT-18221"
+    "address": "Švenčionių r. sav., Švenčionėliai, Bažnyčios g. 13, LT-18221",
+    "vatcode": "LT100012517610"
   },
   {
     "name": "UAB \"Vienas rangovas\"",
     "code": "305852152",
-    "address": "Vilnius, Vilkpėdės g. 10, LT-03151"
+    "address": "Vilnius, Vilkpėdės g. 10, LT-03151",
+    "vatcode": "LT100014784217"
   },
   {
     "name": "UAB \"Vienas servisas\"",
@@ -485,7 +551,8 @@
   {
     "name": "UAB \"Vienas\"",
     "code": "303504001",
-    "address": "Elektrėnų sav., Semeliškės, Trakų g. 86, LT-21301"
+    "address": "Elektrėnų sav., Semeliškės, Trakų g. 86, LT-21301",
+    "vatcode": "LT100012042611"
   },
   {
     "name": "UAB \"Vienas, du, trys\"",
@@ -507,12 +574,14 @@
   {
     "name": "UAB Vienas fabrikas",
     "code": "305766664",
-    "address": "Vilnius, Raugyklos g. 21-19, LT-01140"
+    "address": "Vilnius, Raugyklos g. 21-19, LT-01140",
+    "vatcode": "LT100014097815"
   },
   {
     "name": "UAB W vienas",
     "code": "307016750",
-    "address": "Trakų r. sav., Lentvario sen., Moluvėnų k., Transporto g. 2, LT-21401"
+    "address": "Trakų r. sav., Lentvario sen., Moluvėnų k., Transporto g. 2, LT-21401",
+    "vatcode": "LT100017297314"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"VIENAS PASAULIS\"",
@@ -528,7 +597,8 @@
   {
     "name": "Vienas milimetras, UAB",
     "code": "302656102",
-    "address": "Vilnius, Verkių g. 42-106, LT-09117"
+    "address": "Vilnius, Verkių g. 42-106, LT-09117",
+    "vatcode": "LT100006371216"
   },
   {
     "name": "Viešoji įstaiga \"Dar vienas žingsnis\"",
@@ -589,7 +659,8 @@
   {
     "name": "VšĮ Keturi du vienas",
     "code": "306780389",
-    "address": "Vilnius, Juozo Balčikonio g. 3-93, LT-08247"
+    "address": "Vilnius, Juozo Balčikonio g. 3-93, LT-08247",
+    "vatcode": "LT100017840414"
   },
   {
     "name": "X Vienas UAB",
@@ -599,7 +670,8 @@
   {
     "name": "MB Vienaskasnius",
     "code": "306041238",
-    "address": "Vilnius, Tuskulėnų g. 13-21, LT-09217"
+    "address": "Vilnius, Tuskulėnų g. 13-21, LT-09217",
+    "vatcode": "LT100015885419"
   },
   {
     "name": "Alekso Vienažindžio labdaros ir paramos fondas",
@@ -607,9 +679,16 @@
     "address": "Vilnius, Nemenčinės pl. 25-2"
   },
   {
+    "name": "E. Vienažindžio įmonė",
+    "code": "248331510",
+    "address": "Panevėžys, Žiburėlio g. 2, LT-37162",
+    "vatcode": "LT100002211214"
+  },
+  {
     "name": "MB \"Vienbi\"",
     "code": "306107414",
-    "address": "Kaunas, Žemaičių g. 72-5, LT-44182"
+    "address": "Kaunas, Žemaičių g. 72-5, LT-44182",
+    "vatcode": "LT100017091615"
   },
   {
     "name": "Gyvenamųjų vienbučių ir dvibučių namų savininkų bendrija \"AVIŽIENIŲ SLĖNIS\"",
@@ -632,11 +711,6 @@
     "address": "Vilnius, Joneikiškių g. 30, LT-14287"
   },
   {
-    "name": "Vienbučių gyvenamųjų namų Kaniaviškių g. 4, Vilniuje savininkų bendrija \"7 namai\"",
-    "code": "303362107",
-    "address": "Vilnius, Kaniaviškių g. 4D, LT-11311"
-  },
-  {
     "name": "Vienbučių gyvenamųjų namų savininkų bendrija \"Butvydo 4-14\"",
     "code": "306133430",
     "address": "Vilnius, Butvydo g. 8, LT-14259"
@@ -647,6 +721,10 @@
     "address": "Vilnius, Bajorų Sodų 2-oji g. 14-1, LT-08426"
   },
   {
+    "name": "UAB \"Vieneri vartai\"",
+    "code": "135860968"
+  },
+  {
     "name": "MB \"Vienetai ir Nuliai\"",
     "code": "305197889",
     "address": "Vilnius, Visorių g. 6-79, LT-08300"
@@ -654,7 +732,8 @@
   {
     "name": "MB Du vienetai",
     "code": "306282171",
-    "address": "Vilnius, Šeškinės g. 29-4, LT-07157"
+    "address": "Vilnius, Šeškinės g. 29-4, LT-07157",
+    "vatcode": "LT100015871711"
   },
   {
     "name": "Viešoji įstaiga \"VIENETAI IR DVEJETAI\"",
@@ -695,7 +774,8 @@
   {
     "name": "UAB \"MATO VIENETAS\"",
     "code": "125462841",
-    "address": "Vilnius, Visų Šventųjų g. 5-7, LT-01306"
+    "address": "Vilnius, Visų Šventųjų g. 5-7, LT-01306",
+    "vatcode": "LT100001948616"
   },
   {
     "name": "UAB \"Turto vienetas\"",
@@ -720,7 +800,8 @@
   {
     "name": "UAB \"Vieni\"",
     "code": "306406110",
-    "address": "Vilnius, Šaltūnų g. 9C, LT-04132"
+    "address": "Vilnius, Šaltūnų g. 9C, LT-04132",
+    "vatcode": "LT100016867618"
   },
   {
     "name": "VšĮ \"Vieni kitiems\"",
@@ -781,6 +862,10 @@
     "name": "Visuomeninė organizacija \"Vieninga Lietuva\"",
     "code": "302539501",
     "address": "Kaunas, V. Krėvės pr. 97, LT-50369"
+  },
+  {
+    "name": "VšĮ \"Vieninga Europa\"",
+    "code": "303385198"
   },
   {
     "name": "Bendruomenė Vieningas Ąžuolas",
@@ -848,6 +933,10 @@
     "address": "Vilnius, Sausio 13-osios g. 2-222, LT-04343"
   },
   {
+    "name": "IĮ \"Vienintelis kelias\"",
+    "code": "303285283"
+  },
+  {
     "name": "MB \"Vienas vienintelis\"",
     "code": "304711280",
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Bangos g. 7, LT-54359"
@@ -911,12 +1000,14 @@
   {
     "name": "UAB \"Išorų vienkiemis\"",
     "code": "302935550",
-    "address": "Jonavos r. sav., Užusalių sen., Išorų k., Daukliūnų g. 6, LT-55328"
+    "address": "Jonavos r. sav., Užusalių sen., Išorų k., Daukliūnų g. 6, LT-55328",
+    "vatcode": "LT100014841916"
   },
   {
     "name": "UAB \"Sodyba \"Vienkiemis\"",
     "code": "164291434",
-    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Vienkiemio g. 3, LT-97196"
+    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Vienkiemio g. 3, LT-97196",
+    "vatcode": "LT642914314"
   },
   {
     "name": "UAB Tauragėnų vienkiemis",
@@ -929,6 +1020,10 @@
     "address": "Širvintų r. sav., Alionių sen., Juodiškių k., Giedraičių g. 17, LT-19142"
   },
   {
+    "name": "Metalistų profesinė sąjunga \"Vienmega\"",
+    "code": "183111079"
+  },
+  {
     "name": "J. Basanavičiaus g. 3-ojo namo savininkų bendrija \"Vienminčiai\"",
     "code": "148492523",
     "address": "Panevėžys, J. Basanavičiaus g. 3, LT-35182"
@@ -936,7 +1031,8 @@
   {
     "name": "\"Compensa Vienna Insurance Group\", akcinė draudimo bendrovė",
     "code": "304080146",
-    "address": "Vilnius, Ukmergės g. 280, LT-06115"
+    "address": "Vilnius, Ukmergės g. 280, LT-06115",
+    "vatcode": "LT100009653718"
   },
   {
     "name": "Compensa Life Vienna Insurance Group SE Lietuvos filialas",
@@ -986,7 +1082,8 @@
   {
     "name": "UAB \"VIENPLAUKĖ\"",
     "code": "141064961",
-    "address": "Klaipėda, Statybininkų pr. 26-51, LT-94228"
+    "address": "Klaipėda, Statybininkų pr. 26-51, LT-94228",
+    "vatcode": "LT100017903119"
   },
   {
     "name": "J. Vienskaja gamybos ir prekybos įmonė",
@@ -1005,7 +1102,12 @@
   {
     "name": "MB Vientas",
     "code": "306325644",
-    "address": "Tauragė, J. Tumo-Vaižganto g. 129A-66, LT-72230"
+    "address": "Tauragė, J. Tumo-Vaižganto g. 129A-66, LT-72230",
+    "vatcode": "LT100018764012"
+  },
+  {
+    "name": "Asociacija \"Vienu smūgiu\"",
+    "code": "304091114"
   },
   {
     "name": "Laisvojo nardymo ir povandeninės žūklės asociacija \"Vienu įkvėpimu\"",
@@ -1100,7 +1202,8 @@
   {
     "name": "UAB \"Vienuolika\"",
     "code": "304936996",
-    "address": "Neringa, Vėtrungių g. 240-1, LT-93132"
+    "address": "Neringa, Vėtrungių g. 240-1, LT-93132",
+    "vatcode": "LT100012322715"
   },
   {
     "name": "VšĮ \"Mes aštuoni šimtai vienuolika\"",
@@ -1292,7 +1395,8 @@
   {
     "name": "Vilniaus stačiatikių Šventosios Dvasios vienuolynas",
     "code": "191681919",
-    "address": "Vilnius, Aušros Vartų g. 10, LT-01303"
+    "address": "Vilnius, Aušros Vartų g. 10, LT-01303",
+    "vatcode": "LT916819113"
   },
   {
     "name": "Vilniaus stačiatikių šv. Marijos Magdalietės vienuolynas",
@@ -1360,6 +1464,10 @@
     "address": "Trakai, Vienuolyno g. 39-14, LT-21117"
   },
   {
+    "name": "Darbuotojų Profesinė Sąjunga \"Vienybietis\"",
+    "code": "301595550"
+  },
+  {
     "name": "19-oji garažų statybos ir eksploatavimo bendrija \"Vienybė\"",
     "code": "148286498",
     "address": "Panevėžys, Vienybės a. 36"
@@ -1401,18 +1509,14 @@
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Vienybė\"",
-    "code": "185614638",
-    "address": "Vilkaviškis, Vytauto g. 103, LT-70118"
+    "code": "171114128",
+    "address": "Prienai, Rasos g. 16, LT-59153"
   },
   {
     "name": "Jurbarko vartotojų kooperatyvas \"Vienybė\"",
     "code": "158168726",
-    "address": "Jurbarkas, Dariaus ir Girėno g. 21, LT-74127"
-  },
-  {
-    "name": "Kauno apskrities profesinė sąjunga \"Vienybė\"",
-    "code": "193583911",
-    "address": "Kaunas, Šarkuvos g. 4-81, LT-48175"
+    "address": "Jurbarkas, Dariaus ir Girėno g. 21, LT-74127",
+    "vatcode": "LT581687219"
   },
   {
     "name": "Kretingos rajono sodininkų bendrija \"Vienybė\"",
@@ -1434,11 +1538,6 @@
     "code": "125128560"
   },
   {
-    "name": "Profesinė sąjunga \"Vienybė\"",
-    "code": "191997696",
-    "address": "Kaunas, Kovo 11-osios g. 73-116, LT-49431"
-  },
-  {
     "name": "Projektas Vienybė VšĮ",
     "code": "306811888",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -1451,17 +1550,13 @@
   {
     "name": "Tarptautinė žuvies perdirbėjų ir žvejų asociacija \"Baltijos vienybė\"",
     "code": "303183951",
-    "address": "Klaipėda, Taikos pr. 13-59, LT-91135"
+    "address": "Klaipėda, Taikos pr. 13-59, LT-91135",
+    "vatcode": "LT100018463318"
   },
   {
     "name": "Ukmergės miesto garažų statybos ir eksploatavimo bendrija \"Vienybė\"",
     "code": "283203660",
     "address": "Ukmergė, Dariaus ir Girėno g. 29"
-  },
-  {
-    "name": "Viečiūnų profesinė sąjuga \"Vienybė\"",
-    "code": "152156382",
-    "address": "Druskininkų sav., Viečiūnų sen., Viečiūnų k., Verpėjų g. 22, LT-66496"
   },
   {
     "name": "Vilniaus Rotary klubas \"Vienybė\"",
@@ -1509,19 +1604,30 @@
     "address": "Kauno r. sav., Domeikavos sen., Žemaitkiemio k., Pirklių g. 5, LT-54310"
   },
   {
+    "name": "Tautos vienybės sąjunga",
+    "code": "191929656"
+  },
+  {
     "name": "UAB \"Vienybės investicija\"",
     "code": "300908615",
-    "address": "Vilniaus miesto savivaldybės teritorija"
+    "address": "Vilniaus miesto savivaldybės teritorija",
+    "vatcode": "LT100004978019"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Vienybės redakcija\"",
     "code": "152903959",
-    "address": "Naujoji Akmenė, Respublikos g. 2-1, LT-85143"
+    "address": "Naujoji Akmenė, Respublikos g. 2-1, LT-85143",
+    "vatcode": "LT529039515"
   },
   {
     "name": "Vienybės ąžuolas",
     "code": "305737399",
     "address": "Širvintų r. sav., Kernavė, Vilniaus g. 12, LT-19172"
+  },
+  {
+    "name": "Viešoji įstaiga \"Vienybės sodas\"",
+    "code": "307594163",
+    "address": "Lazdijų r. sav., Lazdijų sen., Papalazdijų I k., Ežero g. 20, LT-67170"
   },
   {
     "name": "VšĮ Vienybės delnai",
@@ -1534,9 +1640,15 @@
     "address": "Vilnius, Pylimo g. 21-1A, LT-01141"
   },
   {
+    "name": "IĮ \"Vienzo\"",
+    "code": "300121421",
+    "address": "Molėtų r. sav., Čiulėnų sen., Užsienio k. 1, LT-33352"
+  },
+  {
     "name": "UAB \"Viskas už vieną eurą\"",
     "code": "300041480",
-    "address": "Vilnius, Kalvarijų g. 59A, LT-09317"
+    "address": "Vilnius, Kalvarijų g. 59A, LT-09317",
+    "vatcode": "LT100001131913"
   },
   {
     "name": "VšĮ \"Ne po vieną\"",
@@ -1556,6 +1668,7 @@
   {
     "name": "MB \"Statybų darbai iš vienų rankų\"",
     "code": "306713796",
-    "address": "Ignalinos r. sav., Naujojo Daugėliškio sen., Naujojo Daugėliškio k., Jaunimo g. 1, LT-30290"
+    "address": "Ignalinos r. sav., Naujojo Daugėliškio sen., Naujojo Daugėliškio k., Jaunimo g. 1, LT-30290",
+    "vatcode": "LT100016862617"
   }
 ]

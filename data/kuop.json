@@ -10,6 +10,21 @@
     "address": "Klaipėda, Panevėžio g. 25A-15, LT-92310"
   },
   {
+    "name": "319 Šaulių kuopa",
+    "code": "307597259",
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Agnytės g. 7-2, LT-92337"
+  },
+  {
+    "name": "613 Šaulių kuopa",
+    "code": "307582296",
+    "address": "Šiauliai, Gegužių g. 31-75, LT-78319"
+  },
+  {
+    "name": "Asociacija \"FPV kuopa\"",
+    "code": "307583505",
+    "address": "Vilnius, Vėtrungių g. 25-40, LT-06313"
+  },
+  {
     "name": "Asociacija \"Plungės šaulių kuopa\"",
     "code": "307176541",
     "address": "Plungės r. sav., Šateikių sen., Alksnėnų k., Aronijų g. 9, LT-90179"
@@ -40,9 +55,12 @@
     "address": "Molėtų r. sav., Giedraičių sen., Žvangučių I k., Dūdėnų g. 4, LT-33272"
   },
   {
-    "name": "Lietuvos Darbo Federacijos krikščioniškosios švietimo darbuotojų profesinės sąjungos Gargždų vaikų muzikos mokyklos kuopa",
-    "code": "163704175",
-    "address": "Gargždai, Kvietinių g. 2, LT-96135"
+    "name": "Lietuvos šaulių sąjungos Klaipėdos apskrities Jūros šaulių 3-osios rinktinės Kretingos šaulių 5-oji kuopa",
+    "code": "264584790"
+  },
+  {
+    "name": "Lietuvos šaulių sąjungos Klaipėdos apskrities jūros šaulių 3 - os rinktinės Gargždų šaulių 9-oji kuopa",
+    "code": "263697130"
   },
   {
     "name": "MB Šūvio kuopa",
@@ -72,7 +90,8 @@
   {
     "name": "UAB \"Švaros kuopa\"",
     "code": "302252469",
-    "address": "Kaunas, R. Kalantos g. 49, LT-52303"
+    "address": "Kaunas, R. Kalantos g. 49, LT-52303",
+    "vatcode": "LT100004449417"
   },
   {
     "name": "Visagino 905 kuopa",
@@ -112,7 +131,8 @@
   {
     "name": "MB Kuopk",
     "code": "306656847",
-    "address": "Alytus, Jaunimo g. 18-29, LT-63350"
+    "address": "Alytus, Jaunimo g. 18-29, LT-63350",
+    "vatcode": "LT100016577010"
   },
   {
     "name": "201 kuopos klubas",
@@ -123,5 +143,10 @@
     "name": "Suvalkijos šaulių 4 rinktinės 403 kuopos šaulių klubas",
     "code": "307162189",
     "address": "Kalvarijos sav., Akmenynų sen., Aistiškių k., Liepų g. 34, LT-69304"
+  },
+  {
+    "name": "Suvalkijos šaulių 409 kuopos klubas",
+    "code": "307589383",
+    "address": "Marijampolė, Lietuvininkų g. 7-8, LT-68301"
   }
 ]

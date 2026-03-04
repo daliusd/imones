@@ -5,6 +5,11 @@
     "address": "Vilnius, Žuvėdrų g. 39, LT-10103"
   },
   {
+    "name": "IĮ \"BS kompanija\"",
+    "code": "300039764",
+    "address": "Šiauliai, Vilniaus g. 223-8, LT-76343"
+  },
+  {
     "name": "Labdaros ir paramos fondas \"BS geri darbai\"",
     "code": "306341520",
     "address": "Kaunas, P. Kalpoko g. 11, LT-44146"
@@ -13,6 +18,11 @@
     "name": "MB \"BS Tech\"",
     "code": "307294493",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
+    "name": "MB \"BS Technuoma\"",
+    "code": "307587941",
+    "address": "Panevėžys, Ramygalos g. 69-1, LT-36216"
   },
   {
     "name": "MB \"BS parts\"",
@@ -38,7 +48,8 @@
   {
     "name": "UAB \"BS Brewing Solutions\"",
     "code": "302568912",
-    "address": "Vilnius, Vito Gerulaičio g. 1-1, LT-08200"
+    "address": "Vilnius, Vito Gerulaičio g. 1-1, LT-08200",
+    "vatcode": "LT100005771710"
   },
   {
     "name": "UAB \"BS Chemical\"",
@@ -61,22 +72,26 @@
   {
     "name": "UAB \"BS Technika\"",
     "code": "300651829",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
+    "vatcode": "LT100002955715"
   },
   {
     "name": "UAB \"SBJ BS\"",
     "code": "302842039",
-    "address": "Vilnius, Gabijos g. 30, LT-06100"
+    "address": "Vilnius, Gabijos g. 30, LT-06100",
+    "vatcode": "LT100007127211"
   },
   {
     "name": "UAB Anykščiai BS",
     "code": "306068274",
-    "address": "Vilniaus r. sav., Avižienių sen., Lindiniškių k., Bajorų g. 26, LT-14181"
+    "address": "Vilnius, Fabijoniškių g. 5C-1031, LT-06335",
+    "vatcode": "LT100018988416"
   },
   {
     "name": "UAB BS statyba",
     "code": "307183518",
-    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Žilvičių g. 8-7, LT-54310"
+    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Žilvičių g. 8-7, LT-54310",
+    "vatcode": "LT100018977219"
   },
   {
     "name": "VŠĮ \"BS racing team\"",
@@ -96,17 +111,20 @@
   {
     "name": "MB BSB Auto",
     "code": "305947294",
-    "address": "Alytus, Šaltinių g. 22-10, LT-62341"
+    "address": "Alytus, Šaltinių g. 22-10, LT-62341",
+    "vatcode": "LT100014576314"
   },
   {
     "name": "UAB \"BSB trucks\"",
     "code": "302846607",
-    "address": "Marijampolė, Artojų g. 17-13, LT-68287"
+    "address": "Marijampolė, Artojų g. 17-13, LT-68287",
+    "vatcode": "LT100007084315"
   },
   {
     "name": "UAB \"BSC Group\"",
     "code": "304931999",
-    "address": "Klaipėda, Tilžės g. 52, LT-91112"
+    "address": "Klaipėda, Tilžės g. 52, LT-91112",
+    "vatcode": "LT100012120110"
   },
   {
     "name": "UAB \"BSC Vilnius\"",
@@ -166,9 +184,18 @@
     "address": "Vilnius, Juozo Balčikonio g. 9, LT-08247"
   },
   {
+    "name": "BSI Invest, UAB",
+    "code": "303039164"
+  },
+  {
     "name": "UAB ARTIS BSI",
     "code": "302729301",
-    "address": "Tauragė, Vytauto g. 4B-17, LT-72296"
+    "address": "Tauragė, Vytauto g. 4B-17, LT-72296",
+    "vatcode": "LT100006681818"
+  },
+  {
+    "name": "UAB BSI Baltic",
+    "code": "305604107"
   },
   {
     "name": "BSides Vilnius, VšĮ",
@@ -178,7 +205,8 @@
   {
     "name": "MB \"BSK Projects\"",
     "code": "306668372",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
+    "vatcode": "LT100017009716"
   },
   {
     "name": "Mažoji bendrija Bsktr",
@@ -203,7 +231,8 @@
   {
     "name": "UAB \"BSM LT\"",
     "code": "302344483",
-    "address": "Kaunas, Kuršių g. 28-49, LT-48145"
+    "address": "Kaunas, Kuršių g. 28-49, LT-48145",
+    "vatcode": "LT100006509718"
   },
   {
     "name": "\"Bsmart verslumo platforma\", MB",
@@ -213,27 +242,19 @@
   {
     "name": "UAB \"BSMexport\"",
     "code": "302847926",
-    "address": "Kauno r. sav., Alšėnų sen., Dievogalos k., Kelmyno g. 19, LT-53321"
+    "address": "Kauno r. sav., Alšėnų sen., Dievogalos k., Kelmyno g. 19, LT-53321",
+    "vatcode": "LT100007137410"
   },
   {
     "name": "UAB \"BSN LT\"",
     "code": "306247035",
-    "address": "Kaunas, Raudondvario pl. 131C, LT-47191"
-  },
-  {
-    "name": "UAB Bsnt",
-    "code": "306774589",
-    "address": "Vilnius, Pavasario g. 13-2, LT-10309"
+    "address": "Kaunas, Raudondvario pl. 131C, LT-47191",
+    "vatcode": "LT100015720912"
   },
   {
     "name": "Bsolution MB",
     "code": "307201756",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "BSONTRADING, UAB",
-    "code": "306305773",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
     "name": "UAB \"BSP Asset Management Klaipėda\"",
@@ -255,17 +276,20 @@
   {
     "name": "UAB \"BSP Industrial Property IV\"",
     "code": "306139629",
-    "address": "Klaipėda, Pramonės g. 8A, LT-94102"
+    "address": "Klaipėda, Pramonės g. 8A, LT-94102",
+    "vatcode": "LT100016247615"
   },
   {
     "name": "UAB \"BSP Logistic Property II\"",
     "code": "300566994",
-    "address": "Vilnius, Jogailos g. 9, LT-01116"
+    "address": "Vilnius, Jogailos g. 9, LT-01116",
+    "vatcode": "LT100002665313"
   },
   {
     "name": "UAB \"BSP Logistic Property IV\"",
     "code": "303301652",
-    "address": "Vilnius, Jogailos g. 9, LT-01116"
+    "address": "Vilnius, Jogailos g. 9, LT-01116",
+    "vatcode": "LT100009005114"
   },
   {
     "name": "UAB \"BSP Logistic Property IX\"",
@@ -281,17 +305,20 @@
   {
     "name": "UAB \"BSP Logistic Property VI\"",
     "code": "302771898",
-    "address": "Vilnius, Jogailos g. 9, LT-01116"
+    "address": "Vilnius, Jogailos g. 9, LT-01116",
+    "vatcode": "LT100012100913"
   },
   {
     "name": "UAB \"BSP Logistic Property VII\"",
     "code": "304777985",
-    "address": "Vilnius, Jogailos g. 9, LT-01116"
+    "address": "Vilnius, Jogailos g. 9, LT-01116",
+    "vatcode": "LT100012724919"
   },
   {
     "name": "UAB \"BSP Logistic Property VIII\"",
     "code": "300606321",
-    "address": "Vilnius, Jogailos g. 9, LT-01116"
+    "address": "Vilnius, Jogailos g. 9, LT-01116",
+    "vatcode": "LT100002666510"
   },
   {
     "name": "UAB \"BSP Logistic Property\"",
@@ -302,17 +329,20 @@
   {
     "name": "UAB \"BSP Retail Properties I\"",
     "code": "300566962",
-    "address": "Vilnius, Jogailos g. 9, LT-01116"
+    "address": "Vilnius, Jogailos g. 9, LT-01116",
+    "vatcode": "LT100002572013"
   },
   {
     "name": "UAB \"BSP Retail Properties V\"",
     "code": "304776417",
-    "address": "Vilnius, Jogailos g. 9, LT-01116"
+    "address": "Vilnius, Jogailos g. 9, LT-01116",
+    "vatcode": "LT100011506619"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"BSPB\"",
     "code": "120538089",
-    "address": "Vilnius, Kauno g. 36, LT-03202"
+    "address": "Vilnius, Kauno g. 36, LT-03202",
+    "vatcode": "LT205380811"
   },
   {
     "name": "VšĮ \" Bsport\"",
@@ -327,22 +357,20 @@
   {
     "name": "\"BSS IT\", UAB",
     "code": "135979659",
-    "address": "Kaunas, V. Krėvės pr. 26A-1, LT-50412"
+    "address": "Kaunas, V. Krėvės pr. 26A-1, LT-50412",
+    "vatcode": "LT359796515"
   },
   {
     "name": "UAB \"BSS grupė\"",
     "code": "302307442",
-    "address": "Vilnius, Eigulių g. 2, LT-03150"
+    "address": "Vilnius, Eigulių g. 2, LT-03150",
+    "vatcode": "LT100004620512"
   },
   {
     "name": "UAB BSS IS",
     "code": "306970303",
-    "address": "Kaunas, V. Krėvės pr. 26A-2, LT-50412"
-  },
-  {
-    "name": "UAB LT-BSS",
-    "code": "305683097",
-    "address": "Rokiškis, Rasų g. 22, LT-42109"
+    "address": "Kaunas, V. Krėvės pr. 26A-2, LT-50412",
+    "vatcode": "LT100017148915"
   },
   {
     "name": "MB \"BST Constructions\"",
@@ -379,11 +407,17 @@
   {
     "name": "UAB Bsv management",
     "code": "306182160",
-    "address": "Vilnius, Vašingtono a. 1-11, LT-01108"
+    "address": "Vilnius, Vašingtono a. 1-11, LT-01108",
+    "vatcode": "LT100018517815"
+  },
+  {
+    "name": "UAB \"BSVK projektai LT\"",
+    "code": "302605823"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"BSW Engineering\"",
     "code": "304952018",
-    "address": "Vilnius, Ukmergės g. 223-4, LT-07156"
+    "address": "Vilnius, Ukmergės g. 223-4, LT-07156",
+    "vatcode": "LT100012123014"
   }
 ]

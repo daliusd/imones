@@ -2,22 +2,35 @@
   {
     "name": "UAB \"PATA Lietuva\"",
     "code": "300093107",
-    "address": "Vilnius, J. Galvydžio g. 3, LT-08236"
+    "address": "Vilnius, J. Galvydžio g. 3, LT-08236",
+    "vatcode": "LT100012252912"
   },
   {
     "name": "UAB \"PATA TIMBER\"",
     "code": "305157994",
-    "address": "Vilnius, J. Galvydžio g. 3, LT-08236"
+    "address": "Vilnius, J. Galvydžio g. 3, LT-08236",
+    "vatcode": "LT100012674414"
+  },
+  {
+    "name": "Vilijos Patackienės prekybos įmonė",
+    "code": "151430179"
   },
   {
     "name": "MB \"Mariaus Patacko vėdinimo sistemos\"",
     "code": "305237885",
-    "address": "Kaunas, V. Landsbergio-Žemkalnio g. 9-38, LT-49296"
+    "address": "Kaunas, V. Landsbergio-Žemkalnio g. 9-38, LT-49296",
+    "vatcode": "LT100013174014"
   },
   {
     "name": "V. Patacko individuali įmonė",
     "code": "165242792",
     "address": "Lazdijai, Vilniaus g. 72, LT-67106"
+  },
+  {
+    "name": "V. Patacko personalinė įmonė",
+    "code": "165193263",
+    "address": "Lazdijai, Dzūkų g. 11-34, LT-67126",
+    "vatcode": "LT100016304618"
   },
   {
     "name": "MB PATAGA",
@@ -30,14 +43,24 @@
     "address": "Vilnius, Girulių g. 10, LT-12112"
   },
   {
+    "name": "UAB \"Pataisa\"",
+    "code": "303331357"
+  },
+  {
     "name": "MB \"Pataisyk mane\"",
     "code": "306091981",
-    "address": "Vilnius, Iešmininkų g. 19-1, LT-02151"
+    "address": "Vilnius, Iešmininkų g. 19-1, LT-02151",
+    "vatcode": "LT100015940415"
+  },
+  {
+    "name": "IĮ \"Debesų patalai\"",
+    "code": "304733693"
   },
   {
     "name": "MB \"Patalai ir ne tik\"",
     "code": "305709656",
-    "address": "Utenos r. sav., Leliūnų sen., Jasonių k., Kauno g. 4, LT-28103"
+    "address": "Utenos r. sav., Leliūnų sen., Jasonių k., Kauno g. 4, LT-28103",
+    "vatcode": "LT100013856616"
   },
   {
     "name": "UAB \"Rožių patalas\"",
@@ -73,7 +96,8 @@
   {
     "name": "UAB \"Komercinės patalpos\"",
     "code": "305552062",
-    "address": "Vilnius, Savanorių pr. 178F, LT-03154"
+    "address": "Vilnius, Savanorių pr. 178F, LT-03154",
+    "vatcode": "LT100013161315"
   },
   {
     "name": "UAB \"Patalpos kitaip\"",
@@ -86,6 +110,11 @@
     "address": "Kaunas, Šv. Gertrūdos g. 7-46, LT-44290"
   },
   {
+    "name": "UAB \"Vileišio patalpos\"",
+    "code": "307591893",
+    "address": "Vilnius, Šeimyniškių g. 30-1, LT-09200"
+  },
+  {
     "name": "315-oji garažų ir patalpų savininkų bendrija",
     "code": "124747257",
     "address": "Vilnius, Rinktinės g. 55, LT-09207"
@@ -93,7 +122,8 @@
   {
     "name": "800-oji negamybinių patalpų namo savininkų bendrija",
     "code": "125619132",
-    "address": "Vilnius, T. Ševčenkos g. 19-109, LT-03111"
+    "address": "Vilnius, T. Ševčenkos g. 19-109, LT-03111",
+    "vatcode": "LT256191314"
   },
   {
     "name": "Daugiabučio gyvenamojo namo butų ir kitų patalpų savininkų bendrija Polocko 56",
@@ -168,7 +198,8 @@
   {
     "name": "Mažoji bendrija \"Patalpų nuoma\"",
     "code": "303292986",
-    "address": "Vilnius, Fabijoniškių g. 90-22, LT-07100"
+    "address": "Vilnius, Fabijoniškių g. 90-22, LT-07100",
+    "vatcode": "LT100008798416"
   },
   {
     "name": "Namo patalpų savininkų bendrija \"G. D. Kuverto-15\"",
@@ -193,17 +224,13 @@
   {
     "name": "Negamybinio pastato patalpų savininkų bendrija \"BC 1\"",
     "code": "300012023",
-    "address": "Klaipėda, Šilutės pl. 83"
+    "address": "Klaipėda, Šilutės pl. 83",
+    "vatcode": "LT100006924010"
   },
   {
     "name": "Negamybinių patalpų savininkų asociacija",
     "code": "126181548",
     "address": "Vilnius, Meistrų g. 16, LT-02190"
-  },
-  {
-    "name": "Negyvenamų patalpų savininkų bendrija \"Vilnies banga\"",
-    "code": "300629220",
-    "address": "Klaipėda, Birutės g. 12, LT-91204"
   },
   {
     "name": "Negyvenamųjų patalpų savininkų Laisvės pr. 88, Vilniuje, bendrija",
@@ -223,7 +250,8 @@
   {
     "name": "Negyvenamųjų patalpų savininkų bendrija Rotušės 16",
     "code": "300500193",
-    "address": "Alytus, Rotušės a. 16, LT-62141"
+    "address": "Alytus, Rotušės a. 16, LT-62141",
+    "vatcode": "LT100001918816"
   },
   {
     "name": "Negyvenamųjų patalpų savininkų bendrija Vilties g. 5",
@@ -303,7 +331,8 @@
   {
     "name": "Patalpų savininkų bendrija \"Ukmergės 364\"",
     "code": "306111786",
-    "address": "Vilnius, Ukmergės g. 364-4, LT-14188"
+    "address": "Vilnius, Ukmergės g. 364-4, LT-14188",
+    "vatcode": "LT100015159314"
   },
   {
     "name": "Poilsio namų patalpų savininkų bendrija \"GINTARINĖ NERIJA\"",
@@ -324,11 +353,6 @@
     "name": "Poilsio namų patalpų savininkų bendrija \"Šventosios pušelė\"",
     "code": "300931603",
     "address": "Palanga, Mėguvos g. 12A-310, LT-00303"
-  },
-  {
-    "name": "Poilsio namų, esančių Mokyklos g. 28, Palangoje, patalpų savininkų bendrija",
-    "code": "300139572",
-    "address": "Palanga, Mokyklos g. 28, LT-00303"
   },
   {
     "name": "Poilsio paskirties patalpų savininkų bendrija \"Mėguvos namai\"",
@@ -375,7 +399,8 @@
   {
     "name": "Vilniaus Ozo gatvės pastato Nr. 20 negyvenamųjų patalpų savininkų asociacija",
     "code": "126099955",
-    "address": "Vilnius, Ozo g. 20-12"
+    "address": "Vilnius, Ozo g. 20-12",
+    "vatcode": "LT260999515"
   },
   {
     "name": "Vilniaus miesto Daugiabučio gyvenamojo namo, esančio adresu Gelvonų g. 33, Vilnius, butų ir kitų patalpų savininkų bendrija \"G33\"",
@@ -402,6 +427,11 @@
     "code": "302984857",
     "address": "Kaunas, P. Lukšio g. 59, LT-49412",
     "vatcode": "LT100007447911"
+  },
+  {
+    "name": "Lilijos Patamsienės stomatologijos kabinetas",
+    "code": "151312031",
+    "address": "Marijampolė, P. Vaičaičio g. 17, LT-68301"
   },
   {
     "name": "MB \"Vaistininkas pataria\"",
@@ -432,7 +462,8 @@
   {
     "name": "MB \"Praktiški patarimai\"",
     "code": "304602249",
-    "address": "Kaunas, Savanorių pr. 281-614, LT-50128"
+    "address": "Kaunas, Savanorių pr. 281-614, LT-50128",
+    "vatcode": "LT100019607416"
   },
   {
     "name": "MB \"Racionalūs patarimai\"",
@@ -489,7 +520,8 @@
   {
     "name": "MB \"Tado patarimas\"",
     "code": "305241307",
-    "address": "Vilnius, Krakiškių Sodų 18-oji g. 5, LT-14289"
+    "address": "Vilnius, Krakiškių Sodų 18-oji g. 5, LT-14289",
+    "vatcode": "LT100013209313"
   },
   {
     "name": "MB Geras patarimas",
@@ -519,12 +551,20 @@
   {
     "name": "UAB \"Patarimų leidyba\"",
     "code": "135875475",
-    "address": "Kaunas, M. Sederavičiaus g. 12, LT-45290"
+    "address": "Kaunas, M. Sederavičiaus g. 12, LT-45290",
+    "vatcode": "LT358754716"
   },
   {
     "name": "MB Patark",
     "code": "307555534",
-    "address": "Vilnius, Varnikėlių g. 3, LT-25135"
+    "address": "Vilnius, Varnikėlių g. 3, LT-25135",
+    "vatcode": "LT100019642111"
+  },
+  {
+    "name": "J. Kirkliausko radiotechninių patarnavimų įmonė \"Joki\"",
+    "code": "149560436",
+    "address": "Alytus, Jaunimo g. 20, LT-63351",
+    "vatcode": "LT100018602016"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"VIEŠBUČIO PATARNAVIMŲ ĮMONĖ\"",
@@ -540,7 +580,8 @@
   {
     "name": "UAB \"Statybų patarėjai\"",
     "code": "303165896",
-    "address": "Vilnius, Santariškių g. 41-12, LT-08440"
+    "address": "Vilnius, Santariškių g. 41-12, LT-08440",
+    "vatcode": "LT100008100013"
   },
   {
     "name": "UAB \"Verslo finansų patarėjai\"",
@@ -598,7 +639,8 @@
   {
     "name": "UAB Juridinė ir finansinė patarėjų agentūra",
     "code": "303164997",
-    "address": "Vilnius, Savanorių pr. 65A, LT-03149"
+    "address": "Vilnius, Savanorių pr. 65A, LT-03149",
+    "vatcode": "LT100008167519"
   },
   {
     "name": "MB \"Patarška\"",
@@ -614,6 +656,17 @@
   {
     "name": "T. Pataševos individuali įmonė",
     "code": "122533265"
+  },
+  {
+    "name": "Gintauto Patašiaus veterinarijos firma",
+    "code": "174301955",
+    "address": "Šakių r. sav., Kriūkų sen., Pajotulių k."
+  },
+  {
+    "name": "A. Patašienės įmonė",
+    "code": "126372966",
+    "address": "Vilnius, Zanavykų g. 4-11, LT-02113",
+    "vatcode": "LT100001986518"
   },
   {
     "name": "Marijampolės savivaldybės administracijos Patašinės seniūnija",

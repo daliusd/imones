@@ -40,6 +40,11 @@
     "address": "Klaipėda, Nidos g. 13-55, LT-93176"
   },
   {
+    "name": "Daivos Selmistraitienės IĮ GYVYBĖS ŠVIESA",
+    "code": "124189667",
+    "address": "Vilniaus r. sav., Riešės sen., Skirgiškių k., Panerio g. 6, LT-15148"
+  },
+  {
     "name": "Daugiabučio namo savininkų bendrija \"ŠVIESA\"",
     "code": "142177225",
     "address": "Klaipėda, Taikos pr. 57, LT-91153"
@@ -65,16 +70,6 @@
     "address": "Klaipėda, Žalgirio g. 1-15, LT-93248"
   },
   {
-    "name": "Garažų eksploatavimo bendrija \"Šviesa\"",
-    "code": "185667427",
-    "address": "Vilkaviškio r. sav., Pilviškiai, Vasario 16-osios g. 97, LT-70495"
-  },
-  {
-    "name": "Garažų statybos ir eksploatavimo bendrija \"Stragnų šviesa\"",
-    "code": "302496982",
-    "address": "Klaipėdos r. sav., Priekulės sen., Stragnų II k., Ąžuolo g. 2, LT-96351"
-  },
-  {
     "name": "Garažų statybos ir eksploatavimo bendrija \"ŠVIESA\"",
     "code": "301249687",
     "address": "Trakų r. sav., Lentvaris, Pakalnės g. 44-12, LT-25122"
@@ -88,6 +83,11 @@
     "name": "Glaukoma sergančiųjų bendrija \"Šviesa\"",
     "code": "169294174",
     "address": "Pasvalys, Biržų g. 14B, LT-39145"
+  },
+  {
+    "name": "J. Martinkėno individuali įmonė \"Šviesa\"",
+    "code": "178695999",
+    "address": "Švenčionių r. sav., Švenčionėliai, Liepų g. 28, LT-18219"
   },
   {
     "name": "J. Pocienės individuali įmonė \"Miražo šviesa\"",
@@ -114,6 +114,10 @@
     "address": "Klaipėdos r. sav., Priekulė, Klaipėdos g. 14-3, LT-96341"
   },
   {
+    "name": "Linos Baziukienės studija \"Angelo šviesa\"",
+    "code": "135500240"
+  },
+  {
     "name": "MB \"Drabužių šviesa\"",
     "code": "306780026",
     "address": "Elektrėnai, Trakų g. 19-7, LT-26118",
@@ -137,7 +141,8 @@
   {
     "name": "MB \"Melanijos šviesa\"",
     "code": "306053094",
-    "address": "Biržų r. sav., Pabiržės sen., Naciūnų k., Sodo g. 20, LT-41386"
+    "address": "Biržų r. sav., Pabiržės sen., Naciūnų k., Sodo g. 20, LT-41386",
+    "vatcode": "LT100015995311"
   },
   {
     "name": "MB \"Pajūrio šviesa\"",
@@ -155,10 +160,19 @@
     "address": "Vilnius, Trinapolio g. 2-2, LT-08313"
   },
   {
+    "name": "MB \"Šviesa krinta iš kairės\"",
+    "code": "307580808",
+    "address": "Jonava, Chemikų g. 84-24, LT-55233"
+  },
+  {
     "name": "MB \"Žalioji šviesa\"",
     "code": "303115046",
     "address": "Vilnius, Kviečių g. 2C-14, LT-08436",
     "vatcode": "LT100013140312"
+  },
+  {
+    "name": "MB \"Žvaigždės šviesa\"",
+    "code": "302882521"
   },
   {
     "name": "MB \"Žvakių šviesa\"",
@@ -201,6 +215,12 @@
     "address": "Šilutė, Lietuvininkų g. 41-8, LT-99135"
   },
   {
+    "name": "Romo Staugaičio IĮ \"Skriejanti šviesa\"",
+    "code": "159750747",
+    "address": "Kauno r. sav., Garliava, Bijūnų g. 39, LT-53267",
+    "vatcode": "LT597507410"
+  },
+  {
     "name": "Sodininkų bendrija \"ŠVIESA\"",
     "code": "191490077",
     "address": "Vilnius, Vinciūniškių Sodų 12-oji g. 9, LT-10241"
@@ -218,22 +238,26 @@
   {
     "name": "UAB \"ALKOS šviesa\"",
     "code": "302799716",
-    "address": "Šiauliai, Vytauto g. 145-27, LT-76341"
+    "address": "Šiauliai, Vytauto g. 145-27, LT-76341",
+    "vatcode": "LT100007718917"
   },
   {
     "name": "UAB \"Elektros šviesa\"",
     "code": "271448680",
-    "address": "Radviliškis, Vasario 16-osios g. 6-1, LT-82135"
+    "address": "Radviliškis, Vasario 16-osios g. 6-1, LT-82135",
+    "vatcode": "LT714486811"
   },
   {
     "name": "UAB \"Galėjos šviesa\"",
     "code": "303116066",
-    "address": "Vilnius, Gedimino pr. 3A, LT-01103"
+    "address": "Vilnius, Gedimino pr. 3A, LT-01103",
+    "vatcode": "LT100008953015"
   },
   {
     "name": "UAB \"Kino šviesa\"",
     "code": "304470694",
-    "address": "Vilnius, Girulių g. 10, LT-12112"
+    "address": "Vilnius, Girulių g. 10, LT-12112",
+    "vatcode": "LT100010767316"
   },
   {
     "name": "UAB \"Ledinė šviesa\"",
@@ -256,7 +280,8 @@
   {
     "name": "UAB \"VAKARINĖ ŠVIESA\"",
     "code": "300552980",
-    "address": "Vilnius, Taikos g. 93-18, LT-05200"
+    "address": "Vilnius, Taikos g. 93-18, LT-05200",
+    "vatcode": "LT100002438814"
   },
   {
     "name": "UAB \"Šiaulių šviesa\"",
@@ -267,12 +292,14 @@
   {
     "name": "UAB \"Šviesa\"",
     "code": "305674116",
-    "address": "Vilnius, Juozo Balčikonio g. 3, LT-08247"
+    "address": "Vilnius, Juozo Balčikonio g. 3, LT-08247",
+    "vatcode": "LT100015529318"
   },
   {
     "name": "UAB DIENOS ŠVIESA",
     "code": "302801672",
-    "address": "Vilnius, A. Goštauto g. 8-100, LT-01108"
+    "address": "Vilnius, A. Goštauto g. 8-100, LT-01108",
+    "vatcode": "LT100007014718"
   },
   {
     "name": "UAB Fotovoltinė šviesa",
@@ -282,12 +309,23 @@
   {
     "name": "UAB LED ŠVIESA",
     "code": "302721799",
-    "address": "Panevėžys, Klaipėdos g. 13, LT-35211"
+    "address": "Panevėžys, Klaipėdos g. 13, LT-35211",
+    "vatcode": "LT100007656419"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Jurbarko šviesa\"",
     "code": "158273111",
-    "address": "Jurbarkas, Kauno g. 36, LT-74125"
+    "address": "Jurbarkas, Kauno g. 36, LT-74125",
+    "vatcode": "LT582731113"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Žalia šviesa\"",
+    "code": "133612372"
+  },
+  {
+    "name": "V. J. Vinslausko IĮ Šviesa",
+    "code": "232455360",
+    "address": "Kaunas, Kalnų g. 4, LT-47179"
   },
   {
     "name": "Viešoji įstaiga \"Akių šviesa\"",
@@ -342,7 +380,8 @@
   {
     "name": "UAB \"Šviesela\"",
     "code": "303248897",
-    "address": "Palanga, Rūtų tak. 15, LT-00143"
+    "address": "Palanga, Rūtų tak. 15, LT-00143",
+    "vatcode": "LT100016786315"
   },
   {
     "name": "Asociacija \"Teisi ir Šviesi Kretinga\"",
@@ -408,7 +447,8 @@
   {
     "name": "UAB \"Šviesiai - garsiai\"",
     "code": "303315449",
-    "address": "Vilnius, Grūdų Sodų 1-oji g. 4, LT-11314"
+    "address": "Vilnius, Grūdų Sodų 1-oji g. 4, LT-11314",
+    "vatcode": "LT100008601114"
   },
   {
     "name": "MB \"Šviesiam atminimui\"",
@@ -418,7 +458,8 @@
   {
     "name": "MB \"Šviesiau tamsiau\"",
     "code": "305850984",
-    "address": "Vilnius, Žirmūnų g. 46-72, LT-09227"
+    "address": "Vilnius, Žirmūnų g. 46-72, LT-09227",
+    "vatcode": "LT100014782715"
   },
   {
     "name": "Kėdainių šviesioji gimnazija",
@@ -428,7 +469,8 @@
   {
     "name": "MB \"Šviesioji pusė\"",
     "code": "304703230",
-    "address": "Vilnius, Jogailos g. 11-16, LT-01116"
+    "address": "Vilnius, Jogailos g. 11-16, LT-01116",
+    "vatcode": "LT100015254814"
   },
   {
     "name": "Labdaros ir paramos fondas \"Šviesios idėjos\"",
@@ -458,7 +500,8 @@
   {
     "name": "MB Šviesiu keliu",
     "code": "305500674",
-    "address": "Vilniaus r. sav., Riešės sen., Didžiųjų Gulbinų k., Sėkmės g. 8, LT-14335"
+    "address": "Vilniaus r. sav., Riešės sen., Didžiųjų Gulbinų k., Sėkmės g. 8, LT-14335",
+    "vatcode": "LT100013039312"
   },
   {
     "name": "MB Šviesiuko namai",
@@ -588,6 +631,11 @@
     "address": "Utenos r. sav., Vyžuonų sen., Vyžuonėlių k., Moliakalnio g. 14, LT-28112"
   },
   {
+    "name": "Labdaros ir paramos fondas 777 šviesos investicija",
+    "code": "307580270",
+    "address": "Klaipėda, Tiltų g. 19, LT-91249"
+  },
+  {
     "name": "MB \"4 šviesos\"",
     "code": "303073750",
     "address": "Vilniaus r. sav., Nemenčinės sen., Kreivalaužių k., Taikos g. 6-1, LT-15165"
@@ -595,7 +643,8 @@
   {
     "name": "MB \"Miško šviesos\"",
     "code": "304733572",
-    "address": "Vilnius, Vytauto g. 34-101, LT-08122"
+    "address": "Vilnius, Vytauto g. 34-101, LT-08122",
+    "vatcode": "LT100011532417"
   },
   {
     "name": "MB \"Silkės šviesos laboratorija\"",
@@ -606,27 +655,32 @@
   {
     "name": "MB \"Šviesos desantas\"",
     "code": "307016597",
-    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Mėtų g. 8-1, LT-14261"
+    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Mėtų g. 8-1, LT-14261",
+    "vatcode": "LT100017295419"
   },
   {
     "name": "MB \"Šviesos formos\"",
     "code": "303475489",
-    "address": "Klaipėda, Kaštonų g. 12 K3-161, LT-92206"
+    "address": "Klaipėda, Kaštonų g. 12 K3-161, LT-92206",
+    "vatcode": "LT100010560619"
   },
   {
     "name": "MB \"Šviesos formulė\"",
     "code": "304708640",
-    "address": "Panevėžys, J. Janonio g. 1 K21-5, LT-35101"
+    "address": "Panevėžys, J. Janonio g. 1 K21-5, LT-35101",
+    "vatcode": "LT100011292916"
   },
   {
     "name": "MB \"Šviesos garsas\"",
     "code": "305179599",
-    "address": "Molėtų r. sav., Alantos sen., Liobiškių k. 4, LT-33311"
+    "address": "Molėtų r. sav., Alantos sen., Liobiškių k. 4, LT-33311",
+    "vatcode": "LT100015502417"
   },
   {
     "name": "MB \"Šviesos greičiu\"",
     "code": "305969579",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100014638318"
   },
   {
     "name": "MB \"Šviesos konsultacijos\"",
@@ -666,17 +720,20 @@
   {
     "name": "MB \"Šviesos tankis\"",
     "code": "304837585",
-    "address": "Vilnius, Savanorių pr. 235, LT-02300"
+    "address": "Vilnius, Savanorių pr. 235, LT-02300",
+    "vatcode": "LT100012127017"
   },
   {
     "name": "MB \"Šviesos virtuvė\"",
     "code": "304548698",
-    "address": "Vilnius, Igno Šimulionio g. 3-4, LT-04330"
+    "address": "Vilnius, Igno Šimulionio g. 3-4, LT-04330",
+    "vatcode": "LT100014962814"
   },
   {
     "name": "MB \"Šviesos įranga\"",
     "code": "304803921",
-    "address": "Kaunas, V. Krėvės pr. 81-519, LT-50362"
+    "address": "Kaunas, V. Krėvės pr. 81-519, LT-50362",
+    "vatcode": "LT100014453510"
   },
   {
     "name": "MB Atviros šviesos",
@@ -702,12 +759,14 @@
   {
     "name": "MB Šviesos Kodas",
     "code": "307087480",
-    "address": "Anykščių r. sav., Anykščių sen., Ažuožerių k., Sturtupio g. 13-1, LT-29171"
+    "address": "Anykščių r. sav., Anykščių sen., Ažuožerių k., Sturtupio g. 13-1, LT-29171",
+    "vatcode": "LT100019062410"
   },
   {
     "name": "MB Šviesos grandinė",
     "code": "306972293",
-    "address": "Klaipėdos r. sav., Vėžaičių sen., Girininkų k., Baltkalnio g. 19, LT-96212"
+    "address": "Klaipėdos r. sav., Vėžaičių sen., Girininkų k., Baltkalnio g. 19, LT-96212",
+    "vatcode": "LT100017114517"
   },
   {
     "name": "MB Šviesos medis",
@@ -722,7 +781,8 @@
   {
     "name": "Mažoji bendrija \"Daugiau šviesos\"",
     "code": "305836721",
-    "address": "Vilniaus r. sav., Zujūnų sen., Girulių k., Upės g. 163, LT-14167"
+    "address": "Vilniaus r. sav., Zujūnų sen., Girulių k., Upės g. 163, LT-14167",
+    "vatcode": "LT100014992816"
   },
   {
     "name": "Panevėžio \"Šviesos\" ugdymo centras",
@@ -749,18 +809,14 @@
   {
     "name": "UAB \"ŠVIESOS LINIJA\"",
     "code": "302773536",
-    "address": "Tauragė, Pramonės g. 28E, LT-72318"
-  },
-  {
-    "name": "UAB \"ŠVIESOS PROJEKTAI\"",
-    "code": "125828573",
-    "address": "Vilnius, Eitminų g. 21-18, LT-12131",
-    "vatcode": "LT258285716"
+    "address": "Tauragė, Pramonės g. 28E, LT-72318",
+    "vatcode": "LT100006834314"
   },
   {
     "name": "UAB \"ŠVIESOS SRAUTAS\"",
     "code": "302773447",
-    "address": "Tauragė, Pulko g. 8, LT-72210"
+    "address": "Tauragė, Pulko g. 8, LT-72210",
+    "vatcode": "LT100006834516"
   },
   {
     "name": "UAB \"Šviesos Loftai\"",
@@ -770,7 +826,8 @@
   {
     "name": "UAB \"Šviesos energija\"",
     "code": "302505851",
-    "address": "Kretinga, Palangos g. 30C, LT-97123"
+    "address": "Kretinga, Palangos g. 30C, LT-97123",
+    "vatcode": "LT100006515117"
   },
   {
     "name": "UAB \"Šviesos gamyba\"",
@@ -781,7 +838,8 @@
   {
     "name": "UAB \"Šviesos greitis\"",
     "code": "302514505",
-    "address": "Kretinga, Palangos g. 30C, LT-97123"
+    "address": "Kretinga, Palangos g. 30C, LT-97123",
+    "vatcode": "LT100006515218"
   },
   {
     "name": "UAB \"Šviesos ir garso dizainas\"",
@@ -808,12 +866,14 @@
   {
     "name": "UAB \"Šviesos ratas\"",
     "code": "124674161",
-    "address": "Vilnius, Slucko g. 13-7, LT-09312"
+    "address": "Vilnius, Slucko g. 13-7, LT-09312",
+    "vatcode": "LT100004608112"
   },
   {
     "name": "UAB \"Šviesos skaitiklis\"",
     "code": "304713609",
-    "address": "Alytus, Ūdrijos g. 38, LT-62411"
+    "address": "Alytus, Ūdrijos g. 38, LT-62411",
+    "vatcode": "LT100011669816"
   },
   {
     "name": "UAB \"Šviesos sprendimai\"",
@@ -834,7 +894,8 @@
   {
     "name": "UAB \"Šviesos technologijos\"",
     "code": "226036710",
-    "address": "Vilnius, Latvių g. 15-53, LT-08123"
+    "address": "Vilnius, Latvių g. 15-53, LT-08123",
+    "vatcode": "LT260367113"
   },
   {
     "name": "UAB Dangaus šviesos",
@@ -850,17 +911,20 @@
   {
     "name": "UAB ŠVIESOS PRIZMĖ",
     "code": "302804106",
-    "address": "Vilnius, A. Goštauto g. 8-100, LT-01108"
+    "address": "Vilnius, A. Goštauto g. 8-100, LT-01108",
+    "vatcode": "LT100007014910"
   },
   {
     "name": "UAB ŠVIESOS VATAS",
     "code": "302801793",
-    "address": "Vilnius, A. Goštauto g. 8-100, LT-01108"
+    "address": "Vilnius, A. Goštauto g. 8-100, LT-01108",
+    "vatcode": "LT100007012812"
   },
   {
     "name": "UAB Šviesos akademija",
     "code": "306289835",
-    "address": "Vilniaus r. sav., Mickūnų sen., Egliškių k., Eglių g. 32, LT-13108"
+    "address": "Vilniaus r. sav., Mickūnų sen., Egliškių k., Eglių g. 32, LT-13108",
+    "vatcode": "LT100016008914"
   },
   {
     "name": "UAB Šviesos lašas",
@@ -870,22 +934,26 @@
   {
     "name": "UAB Šviesos raktas",
     "code": "302874300",
-    "address": "Kretingos r. sav., Žalgirio sen., Kumponų vs., Elnių tak. 5, LT-97201"
+    "address": "Kretingos r. sav., Žalgirio sen., Kumponų vs., Elnių tak. 5, LT-97201",
+    "vatcode": "LT100008862310"
   },
   {
     "name": "UAB Šviesos ranka",
     "code": "302885485",
-    "address": "Klaipėda, Minijos g. 140-3, LT-93259"
+    "address": "Klaipėda, Minijos g. 140-3, LT-93259",
+    "vatcode": "LT100010399117"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"ŠVIESOS STUDIJA\"",
     "code": "125366743",
-    "address": "Vilnius, T. Ševčenkos g. 16A-117, LT-03111"
+    "address": "Vilnius, T. Ševčenkos g. 16A-117, LT-03111",
+    "vatcode": "LT253667413"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"SOSTINĖS ŠVIESOS\"",
     "code": "124483124",
-    "address": "Vilnius, Didžioji g. 25-6, LT-01128"
+    "address": "Vilnius, Didžioji g. 25-6, LT-01128",
+    "vatcode": "LT244831219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"ŠVIESOS SPEKTRAS\"",
@@ -896,7 +964,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Šviesos krateris\"",
     "code": "171758094",
-    "address": "Plungė, Telšių g. 39A, LT-90163"
+    "address": "Plungė, Telšių g. 39A, LT-90163",
+    "vatcode": "LT717580917"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Šviesos vizija\"",
@@ -911,7 +980,8 @@
   {
     "name": "Viešoji įstaiga \"Šviesos raštas\"",
     "code": "236029130",
-    "address": "Kaunas, Taikos pr. 4A-4, LT-50187"
+    "address": "Kaunas, Taikos pr. 4A-4, LT-50187",
+    "vatcode": "LT100018501516"
   },
   {
     "name": "Viešoji įstaiga \"Šviesos spalvos\"",
@@ -1022,7 +1092,8 @@
   {
     "name": "Šviesos architektai, MB",
     "code": "306989296",
-    "address": "Šilutė, Ventės g. 31, LT-99169"
+    "address": "Šilutė, Ventės g. 31, LT-99169",
+    "vatcode": "LT100017441614"
   },
   {
     "name": "Šviesos asociacija",
@@ -1037,7 +1108,13 @@
   {
     "name": "Šviesos banga MB",
     "code": "307137652",
-    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Žalioji g. 42, LT-91276"
+    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Žalioji g. 42, LT-91276",
+    "vatcode": "LT100018357317"
+  },
+  {
+    "name": "Šviesos garsai, MB",
+    "code": "307589084",
+    "address": "Vilniaus r. sav., Bezdonių sen., Vilkiškių k., Pirmoji g. 4, LT-15206"
   },
   {
     "name": "Šviesos kariai, labdaros ir paramos fondas",
@@ -1073,12 +1150,14 @@
   {
     "name": "UAB \"Šviestuvų pasaulis LT\"",
     "code": "303207861",
-    "address": "Panevėžys, Pušaloto g. 139, LT-35291"
+    "address": "Panevėžys, Pušaloto g. 139, LT-35291",
+    "vatcode": "LT100008222010"
   },
   {
     "name": "MB \"Šviestė\"",
     "code": "304473053",
-    "address": "Alytus, Rotušės a. 16-37, LT-62141"
+    "address": "Alytus, Rotušės a. 16-37, LT-62141",
+    "vatcode": "LT100019101913"
   },
   {
     "name": "Mažoji bendrija Šiandien šviesu",
@@ -1088,7 +1167,8 @@
   {
     "name": "UAB \"Šviesulys\"",
     "code": "248529150",
-    "address": "Panevėžys, Pramonės g. 12, LT-35291"
+    "address": "Panevėžys, Pramonės g. 12, LT-35291",
+    "vatcode": "LT100002007919"
   },
   {
     "name": "Šviesuolio labdaros ir paramos fondas",
@@ -1098,7 +1178,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Šviesuona\"",
     "code": "135457650",
-    "address": "Kaunas, Partizanų g. 38E-93, LT-49489"
+    "address": "Kaunas, Partizanų g. 38E-93, LT-49489",
+    "vatcode": "LT354576515"
   },
   {
     "name": "DNSB \"Šviesus namas\"",
@@ -1111,6 +1192,10 @@
     "address": "Vilkaviškis, Nepriklausomybės g."
   },
   {
+    "name": "MB \"Šviesus tonas\"",
+    "code": "304787545"
+  },
+  {
     "name": "UAB \"Šviesus kiemas\"",
     "code": "304724317",
     "address": "Druskininkai, Birutės g. 7, LT-66111"
@@ -1118,7 +1203,8 @@
   {
     "name": "UAB \"Šviesus miškas\"",
     "code": "304737706",
-    "address": "Pagėgių sav., Vilkyškių sen., Vėžininkų k., Nemuno g. 13, LT-99248"
+    "address": "Pagėgių sav., Vilkyškių sen., Vėžininkų k., Nemuno g. 13, LT-99248",
+    "vatcode": "LT100012955714"
   },
   {
     "name": "Labdaros ir paramos fondas \"Žvilgsnis į šviesą\"",
@@ -1128,7 +1214,8 @@
   {
     "name": "UAB \"Įjunk šviesą\"",
     "code": "305549956",
-    "address": "Kretinga, Klaipėdos g. 125M, LT-97156"
+    "address": "Kretinga, Klaipėdos g. 125M, LT-97156",
+    "vatcode": "LT100013346718"
   },
   {
     "name": "Šviesėja, MB",
@@ -1161,7 +1248,8 @@
   {
     "name": "Šviesų pasaka, MB",
     "code": "307071946",
-    "address": "Vilkaviškio r. sav., Kybartai, J. Basanavičiaus g. 110, LT-70424"
+    "address": "Vilkaviškio r. sav., Kybartai, J. Basanavičiaus g. 110, LT-70424",
+    "vatcode": "LT100018714319"
   },
   {
     "name": "Asociacija \"Švietimas visiems\"",
@@ -1196,7 +1284,8 @@
   {
     "name": "MB EdUp Švietimas",
     "code": "307224993",
-    "address": "Plungės r. sav., Stalgėnų sen., Milašaičių k., Mokyklos g. 10-11, LT-90355"
+    "address": "Plungės r. sav., Stalgėnų sen., Milašaičių k., Mokyklos g. 10-11, LT-90355",
+    "vatcode": "LT100019182512"
   },
   {
     "name": "Sodininkų bendrija \"ŠVIETIMAS\"",
@@ -1260,11 +1349,6 @@
     "address": "Alytaus r. sav., Alovės sen., Venciūnų k., Alyvų g. 28, LT-64102"
   },
   {
-    "name": "Alytaus rajono švietimo darbuotojų profesinė sąjunga",
-    "code": "153740116",
-    "address": "Alytaus r. sav., Butrimonys, Vilniaus g. 1, LT-64428"
-  },
-  {
     "name": "Anykščių rajono švietimo darbuotojų profesinių sąjungų susivienijimas",
     "code": "301300548",
     "address": "Anykščiai, J. Biliūno g. 31, LT-29111"
@@ -1290,6 +1374,10 @@
     "address": "Druskininkai, M. K. Čiurlionio g. 80, LT-66144"
   },
   {
+    "name": "Ekologinio švietimo klubas \"ATAUGA\"",
+    "code": "193346798"
+  },
+  {
     "name": "Elektrėnų savivaldybės švietimo darbuotojų profesinė sąjunga",
     "code": "301745861",
     "address": "Elektrėnai, Rungos g. 24, LT-26110"
@@ -1307,7 +1395,8 @@
   {
     "name": "Ignalinos rajono švietimo ir sporto paslaugų centras",
     "code": "305616903",
-    "address": "Ignalina, Mokyklos g. 4, LT-30119"
+    "address": "Ignalina, Mokyklos g. 4, LT-30119",
+    "vatcode": "LT100017384414"
   },
   {
     "name": "Ignalinos rajono švietimo pagalbos tarnyba",
@@ -1360,11 +1449,6 @@
     "address": "Kaišiadorys, Gedimino g. 117-26, LT-56144"
   },
   {
-    "name": "Kaišiadorių švietimo darbuotojų profesinių sąjungų susivienijimas",
-    "code": "301738315",
-    "address": "Kaišiadorys, Gedimino g. 65, LT-56124"
-  },
-  {
     "name": "Kaišiadorių švietimo ir sporto centras",
     "code": "306139771",
     "address": "Kaišiadorys, V. Kudirkos g. 12, LT-56126"
@@ -1378,16 +1462,6 @@
     "name": "Kauno rajono švietimo centras",
     "code": "305847080",
     "address": "Kaunas, A. Baranausko g. 19, LT-50239"
-  },
-  {
-    "name": "Kauno rajono švietimo darbuotojų profesinė sąjunga",
-    "code": "160418610",
-    "address": "Kauno r. sav., Garliava, Stasio Lozoraičio g. 8-23, LT-53236"
-  },
-  {
-    "name": "Kauno švietimo darbuotojų profesinių sąjungų susivienijimas",
-    "code": "301731324",
-    "address": "Kaunas, Gedimino g. 33-11, LT-44311"
   },
   {
     "name": "Kauno švietimo inovacijų centras",
@@ -1425,11 +1499,6 @@
     "address": "Vilniaus r. sav., Zujūnų sen., Pašilaičių k., Vakarinė g. 1C, LT-14175"
   },
   {
-    "name": "Kupiškio Povilo Matulionio vidurinės mokyklos švietimo darbuotojų profesinė sąjunga",
-    "code": "160327317",
-    "address": "Kupiškis, Jaunimo g. 2, LT-40128"
-  },
-  {
     "name": "Kupiškio r. švietimo pagalbos tarnyba",
     "code": "300055868",
     "address": "Kupiškis, Vilniaus g. 8, LT-40114"
@@ -1450,9 +1519,9 @@
     "address": "Kėdainiai, Josvainių g. 40, LT-57275"
   },
   {
-    "name": "LIETUVOS ŠVIETIMO DARBUOTOJŲ PROFESINĖS SĄJUNGOS ŠIAURĖS RYTŲ LIETUVOS REGIONO SUSIVIENIJIMAS",
-    "code": "302576859",
-    "address": "Zarasų r. sav., Imbrado sen., Nedožinkos k., Suvieko kel. 33, LT-32283"
+    "name": "KŪB \"Švietimo investicijos\"",
+    "code": "305915542",
+    "address": "Vilnius, Aguonų g. 26, LT-03214"
   },
   {
     "name": "Lauryno Radziukyno švietimo paramos fondas",
@@ -1468,11 +1537,6 @@
     "name": "Lietuvių švietimo draugija \"Rytas\"",
     "code": "193405759",
     "address": "Vilnius, A. Jakšto g. 9-306"
-  },
-  {
-    "name": "Lietuvos Darbo Federacijos krikščioniškosios švietimo darbuotojų profesinės sąjungos Gargždų vaikų muzikos mokyklos kuopa",
-    "code": "163704175",
-    "address": "Gargždai, Kvietinių g. 2, LT-96135"
   },
   {
     "name": "Lietuvos Respublikos švietimo, mokslo ir sporto ministerija",
@@ -1492,7 +1556,8 @@
   {
     "name": "Lietuvos neformaliojo švietimo agentūra",
     "code": "302848387",
-    "address": "Vilnius, Žirmūnų g. 1B, LT-09101"
+    "address": "Vilnius, Žirmūnų g. 1B, LT-09101",
+    "vatcode": "LT100007095119"
   },
   {
     "name": "Lietuvos nevalstybinio švietimo konfederacija",
@@ -1700,11 +1765,6 @@
     "address": "Marijampolė, Kauno g. 7, LT-68175"
   },
   {
-    "name": "Marijampolės pradinės mokyklos švietimo darbuotojų profesinė sąjunga",
-    "code": "301806570",
-    "address": "Marijampolė, Kokolos g. 4, LT-68207"
-  },
-  {
     "name": "Marijampolės švietimo darbuotojų profesinė sąjunga",
     "code": "301299569",
     "address": "Marijampolė, Dariaus ir Girėno g. 7, LT-68256"
@@ -1717,12 +1777,17 @@
   {
     "name": "Mažoji bendrija \"Švietimo sprendimai\"",
     "code": "304959347",
-    "address": "Vilnius, Antano Gudaičio g. 21C, LT-25128"
+    "address": "Vilnius, Antano Gudaičio g. 21C, LT-25128",
+    "vatcode": "LT100014850118"
   },
   {
     "name": "Mažoji bendrija Švietimo ikonos",
     "code": "307317974",
     "address": "Vilnius, Daugėliškio g. 32A-302A, LT-09300"
+  },
+  {
+    "name": "Mokslo ir švietimo labdaros ir paramos fondas \"Milk Academy\"",
+    "code": "300089596"
   },
   {
     "name": "Molėtų r. švietimo pagalbos tarnyba",
@@ -1780,11 +1845,6 @@
     "address": "Vilnius, Švitrigailos g. 3-15"
   },
   {
-    "name": "Noriūnų Jono Černiaus pagrindinės mokyklos švietimo darbuotojų profesinė sąjunga",
-    "code": "160326553",
-    "address": "Kupiškio r. sav., Noriūnų sen., Noriūnų k., Melioratorių g. 5, LT-40391"
-  },
-  {
     "name": "Pakruojo suaugusiųjų ir jaunimo švietimo centras",
     "code": "168296770",
     "address": "Pakruojis, Vytauto Didžiojo g. 63, LT-83158"
@@ -1835,11 +1895,6 @@
     "address": "Pasvalys, Sodų g. 21, LT-39151"
   },
   {
-    "name": "Pasvalio rajono švietimo profesinė sąjunga",
-    "code": "302815953",
-    "address": "Pasvalys, Kalno g. 34, LT-39121"
-  },
-  {
     "name": "Plungės paslaugų ir švietimo pagalbos centras",
     "code": "191130798",
     "address": "Plungė, V. Mačernio g. 29, LT-90132"
@@ -1858,6 +1913,10 @@
     "name": "Psichologinės pagalbos ir švietimo centras",
     "code": "305670858",
     "address": "Šilutės r. sav., Juknaičių sen., Juknaičių k., Akmenų g. 2, LT-99332"
+  },
+  {
+    "name": "Radviliškio Lizdeikos gimnazijos švietimo darbuotojų profesinė sąjunga",
+    "code": "171656342"
   },
   {
     "name": "Radviliškio rajono savivaldybės švietimo ir sporto paslaugų centras",
@@ -1890,6 +1949,10 @@
     "address": "Kretingos r. sav., Salantai, Taikos g. 4, LT-97313"
   },
   {
+    "name": "Studentų švietimo labdaros ir paramos fondas",
+    "code": "300065855"
+  },
+  {
     "name": "Tarptautinis Ukrainos švietimo labdaros ir paramos fondas",
     "code": "306114266",
     "address": "Vilnius, Eišiškių pl. 47-312, LT-02184"
@@ -1917,12 +1980,14 @@
   {
     "name": "UAB \"Nacionalinis švietimo centras\"",
     "code": "300652639",
-    "address": "Vilnius, S. Žukausko g. 49-92, LT-09131"
+    "address": "Vilnius, S. Žukausko g. 49-92, LT-09131",
+    "vatcode": "LT100002964213"
   },
   {
     "name": "UAB \"Švietimo renesansas\"",
     "code": "305863316",
-    "address": "Vilnius, Vilniaus g. 31, LT-01402"
+    "address": "Kauno r. sav., Samylų sen., Laumėnų k., Marių g. 15, LT-53167",
+    "vatcode": "LT100015528410"
   },
   {
     "name": "Ukmergės rajono švietimo partnerių klubas \"Erdvė augti\"",
@@ -1992,7 +2057,8 @@
   {
     "name": "Viešoji įstaiga EKOLOGINIO ŠVIETIMO CENTRAS",
     "code": "121901127",
-    "address": "Vilnius, S. Stanevičiaus g. 47-41, LT-07114"
+    "address": "Vilnius, S. Stanevičiaus g. 47-41, LT-07114",
+    "vatcode": "LT219011219"
   },
   {
     "name": "Viešoji įstaiga Islamo kultūros ir švietimo centras",
@@ -2026,7 +2092,8 @@
   {
     "name": "Viešoji įstaiga ŠVIETIMO IR KULTŪROS CENTRAS \"JAUNIMAS VAIKAMS\"",
     "code": "224366570",
-    "address": "Vilnius, Apkasų g. 31-39, LT-08226"
+    "address": "Vilnius, Apkasų g. 31-39, LT-08226",
+    "vatcode": "LT100019195110"
   },
   {
     "name": "Viešoji įstaiga Švietimo ir kultūros mobiliųjų technologijų institutas",
@@ -2037,11 +2104,6 @@
     "name": "Viešoji įstaiga Švietimo ir mokymo centras",
     "code": "302517031",
     "address": "Vilnius, Taikos g. 77-9, LT-05217"
-  },
-  {
-    "name": "Viešosios įstaigos Jonavos suaugusių švietimo centro darbuotojų profesinė sąjunga",
-    "code": "157012724",
-    "address": "Jonava, J. Basanavičiaus g. 7, LT-55171"
   },
   {
     "name": "Vilkaviškio rajono savivaldybės administracijos Švietimo skyrius",
@@ -2081,7 +2143,8 @@
   {
     "name": "VŠĮ Europos švietimo iniciatyva",
     "code": "306135748",
-    "address": "Vilnius, Žirmūnų g. 105-88, LT-09116"
+    "address": "Vilnius, Žirmūnų g. 105-88, LT-09116",
+    "vatcode": "LT100015829519"
   },
   {
     "name": "VšĮ \"ELEKTRONINIO ŠVIETIMO STUDIJA\"",
@@ -2187,6 +2250,10 @@
     "name": "VšĮ Švietimo ir kultūros iniciatyvos",
     "code": "307555865",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
+    "name": "VšĮ Švietimo ir ugdymo centras",
+    "code": "302553262"
   },
   {
     "name": "VšĮ Švietimo vizija",
@@ -2341,7 +2408,8 @@
   {
     "name": "Viešoji įstaiga \"Švietmetis\"",
     "code": "305316998",
-    "address": "Telšiai, Taikos g. 11-2, LT-87109"
+    "address": "Telšiai, Taikos g. 11-2, LT-87109",
+    "vatcode": "LT100019691019"
   },
   {
     "name": "MB \"Švietėjas\"",
@@ -2391,7 +2459,8 @@
   {
     "name": "UAB Šviečia saulė",
     "code": "305999647",
-    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308",
+    "vatcode": "LT100018565714"
   },
   {
     "name": "VšĮ \"Gražiai šviečia\"",
@@ -2406,7 +2475,8 @@
   {
     "name": "MB Gražiai šviečiat",
     "code": "307460036",
-    "address": "Vilnius, Salaspilio g. 7-26, LT-12188"
+    "address": "Vilnius, Salaspilio g. 7-26, LT-12188",
+    "vatcode": "LT100019373819"
   },
   {
     "name": "MB Šviežia",
@@ -2416,7 +2486,8 @@
   {
     "name": "UAB \"Šviežia kava\"",
     "code": "125130789",
-    "address": "Vilnius, Betono aklg. 16, LT-03153"
+    "address": "Vilniaus r. sav., Nemenčinės sen., Voskonių k. 3, LT-15163",
+    "vatcode": "LT251307811"
   },
   {
     "name": "UAB \"Šviežia stotelė\"",
@@ -2447,6 +2518,7 @@
   {
     "name": "UAB \"Šviežios mintys\"",
     "code": "302656006",
-    "address": "Vilnius, Moliakalnio g. 62, LT-10231"
+    "address": "Vilnius, Moliakalnio g. 62, LT-10231",
+    "vatcode": "LT100007611610"
   }
 ]

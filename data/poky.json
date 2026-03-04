@@ -26,6 +26,11 @@
     "address": "Vilnius, Taikos g. 40-32, LT-05238"
   },
   {
+    "name": "MB NT POKYTIS",
+    "code": "307594067",
+    "address": "Vilnius, Vaclovo Chomskio g. 4-1, LT-10258"
+  },
+  {
     "name": "MB Pozityvus pokytis",
     "code": "305603279",
     "address": "Vilnius, Kalvarijų g. 125, LT-08221"
@@ -38,7 +43,8 @@
   {
     "name": "UAB \"Tas pokytis\"",
     "code": "304974783",
-    "address": "Kaunas, Ukmergės g. 28-11, LT-49313"
+    "address": "Kaunas, Ukmergės g. 28-11, LT-49313",
+    "vatcode": "LT100012426613"
   },
   {
     "name": "UAB ESMINIS POKYTIS",
@@ -131,7 +137,8 @@
   {
     "name": "MB \"Pokyčių namai\"",
     "code": "306662540",
-    "address": "Klaipėda, Kooperacijos g. 3-31, LT-91253"
+    "address": "Klaipėda, Kooperacijos g. 3-31, LT-91253",
+    "vatcode": "LT100018403415"
   },
   {
     "name": "MB \"Pokyčių partneris\"",
@@ -151,12 +158,18 @@
   {
     "name": "Mažoji bendrija Pokyčių menas",
     "code": "305771647",
-    "address": "Vilnius, L. Sapiegos g. 4-47, LT-10312"
+    "address": "Vilnius, L. Sapiegos g. 4-47, LT-10312",
+    "vatcode": "LT100016596017"
   },
   {
     "name": "Panevėžio socialinių pokyčių centras",
     "code": "248209780",
     "address": "Panevėžys, Kranto g. 18, LT-35173"
+  },
+  {
+    "name": "Pokyčių Studija MB",
+    "code": "307582976",
+    "address": "Mažeikiai, Ventos g. 23, LT-89112"
   },
   {
     "name": "Pokyčių bendruomenės fondas",
@@ -182,12 +195,14 @@
   {
     "name": "UAB \"Vadybos pokyčių konsultavimas\"",
     "code": "300135638",
-    "address": "Vilnius, Vytenio g. 22, LT-03207"
+    "address": "Vilnius, Vytenio g. 22, LT-03207",
+    "vatcode": "LT100001820710"
   },
   {
     "name": "Viešoji įstaiga Pokyčių tyrimų institutas",
     "code": "303296365",
-    "address": "Vilnius, T. Ševčenkos g. 16F-201, LT-03111"
+    "address": "Vilnius, T. Ševčenkos g. 16F-201, LT-03111",
+    "vatcode": "LT100009021116"
   },
   {
     "name": "VšĮ \"POKYČIŲ INICIATYVOS CENTRAS\"",

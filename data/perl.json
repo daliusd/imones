@@ -45,7 +45,8 @@
   {
     "name": "UAB \"Dantų perlai\"",
     "code": "304430340",
-    "address": "Tauragės r. sav., Lauksargių sen., Lauksargių k., Tilžės g. 7-1, LT-73204"
+    "address": "Tauragės r. sav., Lauksargių sen., Lauksargių k., Tilžės g. 7-1, LT-73204",
+    "vatcode": "LT100013617219"
   },
   {
     "name": "UAB \"Dūžtantys perlai\"",
@@ -106,11 +107,6 @@
     "address": "Klaipėda, Smiltelės g. 29, LT-94260"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija \"SKANSENO PERLAS\"",
-    "code": "304929838",
-    "address": "Vilnius, Giedraičių g. 9-2, LT-09301"
-  },
-  {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Perlas\"",
     "code": "300647802",
     "address": "Ukmergė, Žiedo g. 9-16, LT-20122"
@@ -156,17 +152,25 @@
   {
     "name": "MB Juodasis perlas",
     "code": "306740359",
-    "address": "Neringa, Taikos g. 30-1, LT-93121"
+    "address": "Neringa, Taikos g. 30-1, LT-93121",
+    "vatcode": "LT100016858911"
+  },
+  {
+    "name": "O. Kuryševos individuali įmonė \"Trilypio perlas\"",
+    "code": "155558660",
+    "address": "Visaginas, Taikos pr. 6-25, LT-31107"
   },
   {
     "name": "UAB \"Adutiškio perlas\"",
     "code": "304590448",
-    "address": "Švenčionių r. sav., Adutiškis, Centrinė a. 8, LT-18289"
+    "address": "Švenčionių r. sav., Adutiškis, Centrinė a. 8, LT-18289",
+    "vatcode": "LT100011860217"
   },
   {
     "name": "UAB \"Baltijos perlas\"",
     "code": "300150597",
-    "address": "Klaipėda, M. Mažvydo al. 6-9A, LT-92134"
+    "address": "Klaipėda, M. Mažvydo al. 6-9A, LT-92134",
+    "vatcode": "LT100001960312"
   },
   {
     "name": "UAB \"Druskininkų perlas\"",
@@ -176,17 +180,20 @@
   {
     "name": "UAB \"Druskonio perlas\"",
     "code": "305750845",
-    "address": "Vilnius, Lvivo g. 13-12, LT-09313"
+    "address": "Vilnius, Lvivo g. 13-12, LT-09313",
+    "vatcode": "LT100014116719"
   },
   {
     "name": "UAB \"Gintarinis perlas\"",
     "code": "305008420",
-    "address": "Klaipėdos r. sav., Priekulės sen., Derceklių k., Nektaro g. 22, LT-96387"
+    "address": "Klaipėdos r. sav., Priekulės sen., Derceklių k., Nektaro g. 22, LT-96387",
+    "vatcode": "LT100012905219"
   },
   {
     "name": "UAB \"Grožio perlas\"",
     "code": "304177613",
-    "address": "Lazdijai, Vilniaus g. 13, LT-67106"
+    "address": "Lazdijai, Vilniaus g. 13, LT-67106",
+    "vatcode": "LT100009970414"
   },
   {
     "name": "UAB \"Jūros perlas\"",
@@ -198,6 +205,10 @@
     "code": "307309059",
     "address": "Klaipėda, Kuosų g. 20-1, LT-91187",
     "vatcode": "LT100018711617"
+  },
+  {
+    "name": "UAB \"Mados perlas\"",
+    "code": "304176949"
   },
   {
     "name": "UAB \"Marijonų Perlas\"",
@@ -217,22 +228,26 @@
   {
     "name": "UAB \"Perlas Energija\"",
     "code": "305584028",
-    "address": "Vilnius, Olimpiečių g. 15-1, LT-09237"
+    "address": "Vilnius, Olimpiečių g. 15-1, LT-09237",
+    "vatcode": "LT100013258614"
   },
   {
     "name": "UAB \"Perlas Finance\"",
     "code": "301169732",
-    "address": "Vilnius, Olimpiečių g. 15-1, LT-09237"
+    "address": "Vilnius, Olimpiečių g. 15-1, LT-09237",
+    "vatcode": "LT100003876515"
   },
   {
     "name": "UAB \"Perlas Network\"",
     "code": "126298569",
-    "address": "Vilnius, Olimpiečių g. 15-1, LT-09237"
+    "address": "Vilnius, Olimpiečių g. 15-1, LT-09237",
+    "vatcode": "LT262985610"
   },
   {
     "name": "UAB \"Rusnės perlas\"",
     "code": "302244052",
-    "address": "Neringa, Ievos Kalno g. 18-3, LT-93103"
+    "address": "Neringa, Ievos Kalno g. 18-3, LT-93103",
+    "vatcode": "LT100004496419"
   },
   {
     "name": "UAB \"Ryto perlas\"",
@@ -259,13 +274,19 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Danės perlas\"",
     "code": "302460819",
-    "address": "Klaipėda, Taikos pr. 24A, LT-91222"
+    "address": "Klaipėda, Taikos pr. 24A, LT-91222",
+    "vatcode": "LT100005042510"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Dzūkijos perlas\"",
     "code": "152101966",
     "address": "Druskininkai, Balainės g. 7, LT-66227",
     "vatcode": "LT521019610"
+  },
+  {
+    "name": "V. Mulevičiaus parduotuvė \"Perlas\"",
+    "code": "169148810",
+    "address": "Pasvalio r. sav., Saločiai, Vytauto g. 16, LT-39426"
   },
   {
     "name": "Viešoji įstaiga \"Vilniaus sporto klubas BBG-Perlas\"",
@@ -300,7 +321,8 @@
   {
     "name": "UAB \"Perlija\"",
     "code": "304744309",
-    "address": "Vilniaus r. sav., Zujūnų sen., Šilėnų k., Šaltinio g. 7, LT-14206"
+    "address": "Vilniaus r. sav., Zujūnų sen., Šilėnų k., Šaltinio g. 7, LT-14206",
+    "vatcode": "LT100011579817"
   },
   {
     "name": "VšĮ \"Perliniai danieliai\"",
@@ -310,7 +332,8 @@
   {
     "name": "UAB \"Perlinta\"",
     "code": "304703383",
-    "address": "Panevėžys, Beržų g. 44, LT-36144"
+    "address": "Panevėžys, Beržų g. 44, LT-36144",
+    "vatcode": "LT100011392418"
   },
   {
     "name": "MB Kavinė Perlita",
@@ -325,12 +348,14 @@
   {
     "name": "UAB Baltic Perlite",
     "code": "305621505",
-    "address": "Šilutės r. sav., Šilutės sen., Traksėdžių k., Šilojų g. 2, LT-99106"
+    "address": "Šilutės r. sav., Šilutės sen., Traksėdžių k., Šilojų g. 2, LT-99106",
+    "vatcode": "LT100013906313"
   },
   {
     "name": "UAB \"Perlitus\"",
     "code": "304823429",
-    "address": "Vilnius, Konstitucijos pr. 12-3, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 12-3, LT-09308",
+    "vatcode": "LT100011679510"
   },
   {
     "name": "MB RoTaRu perliukai",
@@ -365,7 +390,8 @@
   {
     "name": "UADBB \"Perlo draudimo brokeris\"",
     "code": "302919813",
-    "address": "Vilnius, Olimpiečių g. 15-1, LT-09237"
+    "address": "Vilnius, Olimpiečių g. 15-1, LT-09237",
+    "vatcode": "LT100018017016"
   },
   {
     "name": "Perlojos Respublikos kaimo bendruomenė",
@@ -405,12 +431,14 @@
   {
     "name": "UAB \"Perlukas\"",
     "code": "304392548",
-    "address": "Trakų r. sav., Onuškio sen., Ponykščių k. 8, LT-21230"
+    "address": "Trakų r. sav., Onuškio sen., Ponykščių k. 8, LT-21230",
+    "vatcode": "LT100010663610"
   },
   {
     "name": "UAB \"Perluna\"",
     "code": "121553699",
-    "address": "Vilnius, Pakalnės g. 13-22, LT-01112"
+    "address": "Vilnius, Pakalnės g. 13-22, LT-01112",
+    "vatcode": "LT215536917"
   },
   {
     "name": "\"Perlus\", MB",
@@ -431,6 +459,7 @@
   {
     "name": "UAB \"Perlų oazė\"",
     "code": "304760352",
-    "address": "Kaunas, Europos pr. 122, LT-46351"
+    "address": "Kaunas, Europos pr. 122, LT-46351",
+    "vatcode": "LT100013961013"
   }
 ]

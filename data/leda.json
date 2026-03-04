@@ -10,8 +10,18 @@
     "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Ryto g. 13, LT-54303"
   },
   {
+    "name": "Januškos įmonė \"LEDA\"",
+    "code": "268433960",
+    "address": "Panevėžys, Naujamiesčio g. 48A, LT-35160"
+  },
+  {
     "name": "Petruškevičiaus prekybos ir paslaugų įmonė \"Leda\"",
     "code": "153644160"
+  },
+  {
+    "name": "IĮ Nerealūs ledai",
+    "code": "305704837",
+    "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Birutės skg. 2, LT-37175"
   },
   {
     "name": "IĮ Nerijaus ledai",
@@ -27,7 +37,8 @@
   {
     "name": "UAB \"ICECO ledai\"",
     "code": "304096588",
-    "address": "Marijampolės sav., Liudvinavo sen., Liepynų k., Ledo g. 1, LT-68126"
+    "address": "Marijampolės sav., Liudvinavo sen., Liepynų k., Ledo g. 1, LT-68126",
+    "vatcode": "LT100009688418"
   },
   {
     "name": "UAB \"NIDOS LEDAI\"",
@@ -37,23 +48,32 @@
   {
     "name": "UAB \"Vafliai ir ledai\"",
     "code": "305158886",
-    "address": "Vilnius, Perkūnkiemio g. 9-50, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 9-50, LT-12114",
+    "vatcode": "LT100012502612"
   },
   {
     "name": "UAB Ajo ledai",
     "code": "306864428",
-    "address": "Kaunas, Kuršių g. 7-23, LT-48107"
+    "address": "Kaunas, Kuršių g. 7-23, LT-48107",
+    "vatcode": "LT100017045117"
   },
   {
     "name": "UAB Rico ledai",
     "code": "305670897",
-    "address": "Neringa, Gintaro Įlankos g. 10-6, LT-93102"
+    "address": "Neringa, Gintaro Įlankos g. 10-6, LT-93102",
+    "vatcode": "LT100013650019"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Aukštaitijos ledai\"",
     "code": "187932828",
     "address": "Zarasų r. sav., Dusetų sen., Užtiltės k., Melioratorių g. 16, LT-32303",
     "vatcode": "LT879328219"
+  },
+  {
+    "name": "IĮ Gražinos Novikienės kavinė-ledainė",
+    "code": "173123581",
+    "address": "Rokiškio r. sav., Kriaunų sen., Kriaunų k., Sartų g. 13, LT-42254",
+    "vatcode": "LT731235811"
   },
   {
     "name": "MB \"KINTŲ PERLAS LEDAINĖ\"",
@@ -69,7 +89,8 @@
   {
     "name": "MB \"Ledainės projektas\"",
     "code": "305784655",
-    "address": "Marijampolė, Vilkaviškio g. 41, LT-68153"
+    "address": "Marijampolė, Vilkaviškio g. 41, LT-68153",
+    "vatcode": "LT100019642818"
   },
   {
     "name": "UAB \"Ledakis\"",
@@ -79,7 +100,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Ledana\"",
     "code": "160285462",
-    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k."
+    "address": "Kauno r. sav., Užliedžių sen., Užliedžių k.",
+    "vatcode": "LT602854610"
   },
   {
     "name": "UAB \"LEDart turtas\"",
@@ -99,7 +121,8 @@
   {
     "name": "UAB \"Ledas\"",
     "code": "304112900",
-    "address": "Raseiniai, Palmių tak. 12, LT-60173"
+    "address": "Raseiniai, Palmių tak. 12, LT-60173",
+    "vatcode": "LT100009823910"
   },
   {
     "name": "UAB \"Mažeikių ledas\"",
@@ -110,7 +133,8 @@
   {
     "name": "UAB \"Ugnis ir ledas\"",
     "code": "302594729",
-    "address": "Kaunas, Ateities g. 4B, LT-52322"
+    "address": "Kaunas, Ateities g. 4B, LT-52322",
+    "vatcode": "LT100006075211"
   },
   {
     "name": "VšĮ \"Kauno ledas\"",
@@ -141,6 +165,7 @@
   {
     "name": "MB \"Das ledauto\"",
     "code": "306175529",
-    "address": "Klaipėda, Sausio 15-osios g. 24-64, LT-91124"
+    "address": "Klaipėda, Sausio 15-osios g. 24-64, LT-91124",
+    "vatcode": "LT100015600316"
   }
 ]

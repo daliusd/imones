@@ -40,6 +40,11 @@
     "address": "Biržai, Vėjo g. 7B-9, LT-41153"
   },
   {
+    "name": "Individuali įmonė \"Palangos raktas\"",
+    "code": "300077672",
+    "address": "Palanga, Plytų g. 55A-32, LT-00195"
+  },
+  {
     "name": "Labdaros ir paramos fondas - Pasaulio inovacijų raktas \"DABER\"",
     "code": "306986040",
     "address": "Joniškio r. sav., Žagarė, Kęstučio g. 7, LT-84325"
@@ -47,7 +52,8 @@
   {
     "name": "MB \"Apskaitos raktas\"",
     "code": "304160457",
-    "address": "Kaunas, V. Krėvės pr. 64-43, LT-50399"
+    "address": "Kaunas, V. Krėvės pr. 64-43, LT-50399",
+    "vatcode": "LT100011415219"
   },
   {
     "name": "MB \"Astos raktas\"",
@@ -107,7 +113,8 @@
   {
     "name": "MB Komunikacijos raktas",
     "code": "305664855",
-    "address": "Vilnius, V. Grybo g. 17-16, LT-10318"
+    "address": "Vilnius, V. Grybo g. 17-16, LT-10318",
+    "vatcode": "LT100019065112"
   },
   {
     "name": "MB Konsultacijos raktas",
@@ -117,7 +124,8 @@
   {
     "name": "MB Margirio Raktas VK",
     "code": "307273517",
-    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221",
+    "vatcode": "LT100019481614"
   },
   {
     "name": "MB Raktas Tau",
@@ -142,12 +150,22 @@
   {
     "name": "MB Sėkmės raktas",
     "code": "306971298",
-    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Jaunimo g. 13, LT-54348"
+    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Jaunimo g. 13, LT-54348",
+    "vatcode": "LT100017777311"
   },
   {
     "name": "MB Tepaluotas raktas",
     "code": "305944234",
     "address": "Kėdainių r. sav., Vilainių sen., Aristavos k., Dilgių g. 3, LT-58111"
+  },
+  {
+    "name": "Mažoji bendrija Baltas raktas",
+    "code": "307600666",
+    "address": "Vilnius, Zofijos Gulevič g. 90, LT-11322"
+  },
+  {
+    "name": "Nijolės ir Sergejaus Sliževičių įmonė \"Raktas\"",
+    "code": "152446713"
   },
   {
     "name": "UAB \"Laimės raktas\"",
@@ -158,7 +176,8 @@
   {
     "name": "UAB \"Metalo raktas\"",
     "code": "303331033",
-    "address": "Vilnius, A. Mickevičiaus g. 19-7, LT-08119"
+    "address": "Vilnius, A. Mickevičiaus g. 19-7, LT-08119",
+    "vatcode": "LT100008695718"
   },
   {
     "name": "UAB \"Mokslo raktas\"",
@@ -172,7 +191,8 @@
   {
     "name": "UAB Šviesos raktas",
     "code": "302874300",
-    "address": "Kretingos r. sav., Žalgirio sen., Kumponų vs., Elnių tak. 5, LT-97201"
+    "address": "Kretingos r. sav., Žalgirio sen., Kumponų vs., Elnių tak. 5, LT-97201",
+    "vatcode": "LT100008862310"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Raktas\"",
@@ -187,13 +207,19 @@
   },
   {
     "name": "Širvintų garažų statybos ir eksploatavimo bendrija \"Raktas\"",
-    "code": "178314149",
-    "address": "Širvintos, Musninkų g. 23, LT-19125"
+    "code": "178314149"
   },
   {
     "name": "UAB \"Raktava\"",
     "code": "305413963",
-    "address": "Telšių r. sav., Tryškių sen., Dūseikių k., Stoties g. 23-4, LT-88188"
+    "address": "Telšių r. sav., Tryškių sen., Dūseikių k., Stoties g. 23-4, LT-88188",
+    "vatcode": "LT100012886511"
+  },
+  {
+    "name": "IĮ \"S. Visokinskienės įmonė \"RAKTAŽODIS\"",
+    "code": "123898740",
+    "address": "Vilnius, Kalvarijų g. 57A-517, LT-09317",
+    "vatcode": "LT238987418"
   },
   {
     "name": "Asociacija Raktažolių gatvės bendrija",
@@ -238,7 +264,8 @@
   {
     "name": "MB \"Raktera\"",
     "code": "306969774",
-    "address": "Panevėžio r. sav., Panevėžio sen., Tičkūnų k., Rožių g. 6, LT-38410"
+    "address": "Panevėžio r. sav., Panevėžio sen., Tičkūnų k., Rožių g. 6, LT-38410",
+    "vatcode": "LT100017485111"
   },
   {
     "name": "MB Raktiniai kadrai",
@@ -277,6 +304,11 @@
     "address": "Pasvalio r. sav., Pumpėnų sen., Gegabrastos k., Gegabrastos g. 1, LT-39232"
   },
   {
+    "name": "MB Sėkmės rakto idėja",
+    "code": "307597202",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+  },
+  {
     "name": "UAB \"Nuo pamatų iki rakto\"",
     "code": "307452566",
     "address": "Kretingos r. sav., Žalgirio sen., Jokūbavo k., Klaipėdos g. 4A, LT-97210"
@@ -302,29 +334,48 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "Individuali įmonė \"Raktuna\"",
+    "code": "300501473",
+    "address": "Visaginas, Statybininkų g. 13-10, LT-31205"
+  },
+  {
+    "name": "Dirsės raktų gamybos įmonė",
+    "code": "122881147"
+  },
+  {
     "name": "MB \"Spynos be raktų\"",
     "code": "305575449",
-    "address": "Klaipėda, Paryžiaus Komunos g. 10-24, LT-91151"
+    "address": "Klaipėda, Paryžiaus Komunos g. 10-24, LT-91151",
+    "vatcode": "LT100013412711"
   },
   {
     "name": "MB Centrinė raktų dirbtuvė",
     "code": "132721753",
-    "address": "Kaunas, Vytauto pr. 23A, LT-44352"
+    "address": "Kaunas, Vytauto pr. 23A, LT-44352",
+    "vatcode": "LT327217515"
+  },
+  {
+    "name": "Rimanto Korniko raktų gamybos įmonė",
+    "code": "270719680",
+    "address": "Prienai, Vytauto g. 7, LT-59114"
   },
   {
     "name": "UAB \"Centrinis raktų servisas\"",
     "code": "134316928",
-    "address": "Kaunas, Laisvės al. 48-6, LT-44246"
+    "address": "Kaunas, Laisvės al. 48-6, LT-44246",
+    "vatcode": "LT100001726915"
   },
   {
     "name": "UAB \"Iki raktų\"",
     "code": "302250361",
-    "address": "Panevėžys, Rašytojų a. 17A, LT-35149"
+    "address": "Panevėžys, Rašytojų a. 17A, LT-35149",
+    "vatcode": "LT100004469411"
   },
   {
     "name": "UAB \"RAKTŲ IMPERIJA\"",
     "code": "152603171",
-    "address": "Palanga, Sodų g. 1-11, LT-00113"
+    "address": "Palanga, Sodų g. 1-11, LT-00113",
+    "vatcode": "LT526031716"
   },
   {
     "name": "Žano Sliževičiaus įmonė \"Raktų visata\"",

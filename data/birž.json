@@ -27,12 +27,14 @@
   {
     "name": "UAB \"Projektų birža\"",
     "code": "304155905",
-    "address": "Vilnius, Lelijų g. 21-2, LT-14124"
+    "address": "Vilnius, Lelijų g. 21-2, LT-14124",
+    "vatcode": "LT100012789711"
   },
   {
     "name": "UAB \"STATYBŲ BIRŽA\"",
     "code": "125588683",
-    "address": "Vilnius, Krokuvos g. 3A-17, LT-09314"
+    "address": "Vilnius, Krokuvos g. 3A-17, LT-09314",
+    "vatcode": "LT255886811"
   },
   {
     "name": "UAB Alaus birža",
@@ -42,17 +44,20 @@
   {
     "name": "UAB Sporto birža",
     "code": "304033680",
-    "address": "Kaunas, Laisvės al. 59A-15, LT-44305"
+    "address": "Kaunas, Laisvės al. 59A-15, LT-44305",
+    "vatcode": "LT100010409017"
   },
   {
     "name": "UAB birža \"BŪSTA\"",
     "code": "121105735",
-    "address": "Vilnius, Savanorių pr. 124, LT-03153"
+    "address": "Vilnius, Savanorių pr. 124, LT-03153",
+    "vatcode": "LT211057314"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Baltijos birža\"",
     "code": "121392986",
-    "address": "Vilnius, Herkaus Manto g. 3, LT-09318"
+    "address": "Vilnius, Herkaus Manto g. 3, LT-09318",
+    "vatcode": "LT213929811"
   },
   {
     "name": "VšĮ Socialinė birža",
@@ -60,14 +65,13 @@
     "address": "Vilnius, S. Stanevičiaus g. 49-24, LT-07114"
   },
   {
-    "name": "Biržų miesto bendruomenė \"Biržai mūsų namai\"",
-    "code": "303229950",
-    "address": "Biržai, Plento g. 4B, LT-41128"
-  },
-  {
     "name": "MB \"Made in Biržai\"",
     "code": "305592854",
     "address": "Biržai, P. Kalpoko g. 14, LT-41179"
+  },
+  {
+    "name": "I. Biržanskienės firma",
+    "code": "124184887"
   },
   {
     "name": "\"Birželio 33\" MB",
@@ -92,7 +96,8 @@
   {
     "name": "MB \"Birželio 3\"",
     "code": "304841135",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
+    "address": "Vilnius, Architektų g. 56-101, LT-04111",
+    "vatcode": "LT100015281519"
   },
   {
     "name": "MB Birželio Group",
@@ -102,12 +107,14 @@
   {
     "name": "UAB \"Birželio plėtros administratorius\"",
     "code": "304919363",
-    "address": "Vilnius, Lvivo g. 25-702, LT-09320"
+    "address": "Vilnius, Lvivo g. 25-702, LT-09320",
+    "vatcode": "LT100012156717"
   },
   {
     "name": "UAB \"Birželio projekto administratorius\"",
     "code": "304862115",
-    "address": "Vilnius, Lvivo g. 25-702, LT-09320"
+    "address": "Vilnius, Lvivo g. 25-702, LT-09320",
+    "vatcode": "LT100012148014"
   },
   {
     "name": "Vilniaus miesto gamybinio pastato Birželio 23-iosios g. 12 savininkų bendrija",
@@ -125,6 +132,11 @@
     "address": "Kaunas, Birželio 23-iosios g. 13A, LT-50221"
   },
   {
+    "name": "V. Biržienės individuali įmonė",
+    "code": "141252931",
+    "address": "Klaipėda, Kretingos g. 65-21, LT-92304"
+  },
+  {
     "name": "Biržiečių klubas \"Krivulė\"",
     "code": "191594446",
     "address": "Vilnius, Gedimino pr. 53, LT-01109"
@@ -132,7 +144,12 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Biržiečių žodis\"",
     "code": "254807960",
-    "address": "Biržai, Vytauto g. 18-2, LT-41139"
+    "address": "Biržai, Vytauto g. 18-2, LT-41139",
+    "vatcode": "LT548079610"
+  },
+  {
+    "name": "J. Biržinio individuali įmonė \"Mintis\"",
+    "code": "132143751"
   },
   {
     "name": "IĮ \"Biržis\"",
@@ -153,11 +170,6 @@
     "name": "Vilniaus Mykolo Biržiškos gimnazija",
     "code": "190003328",
     "address": "Vilnius, Taikos g. 81, LT-05217"
-  },
-  {
-    "name": "Vilniaus Mykolo Biržiškos gimnazijos profesinė sąjunga",
-    "code": "305170244",
-    "address": "Vilnius, J. Jasinskio g. 9, LT-01112"
   },
   {
     "name": "Biržiškų vardo Viekšniškių draugija",
@@ -212,6 +224,10 @@
     "address": "Biržų r. sav., Parovėjos sen., Serbentiškių k. 1, LT-41195"
   },
   {
+    "name": "Asociacija \"Biržų sportas\"",
+    "code": "303329527"
+  },
+  {
     "name": "Asociacija \"Biržų turizmo klasteris\"",
     "code": "302976942",
     "address": "Biržai, J. Janonio g. 2, LT-41148"
@@ -239,11 +255,6 @@
   {
     "name": "Biržų \"Atžalyno\" pagrindinė mokykla",
     "code": "190545695",
-    "address": "Biržai, Sąjungos g. 15, LT-41133"
-  },
-  {
-    "name": "Biržų \"Atžalyno\" vidurinės mokyklos darbuotojų profesinė organizacija",
-    "code": "155304530",
     "address": "Biržai, Sąjungos g. 15, LT-41133"
   },
   {
@@ -314,7 +325,8 @@
   {
     "name": "Biržų akcinė bendrovė \"SIŪLAS\"",
     "code": "154756041",
-    "address": "Biržai, Astravo g. 17, LT-41190"
+    "address": "Biržai, Astravo g. 17, LT-41190",
+    "vatcode": "LT547560410"
   },
   {
     "name": "Biržų astmininkų klubas \"Šalpusnis\"",
@@ -432,8 +444,7 @@
   },
   {
     "name": "Biržų miesto Astravo 1 daugiabučio namo savininkų bendrija",
-    "code": "155319429",
-    "address": "Biržai, Astravo g. 1"
+    "code": "155319429"
   },
   {
     "name": "Biržų miesto Astravo 10 daugiabučio namo savininkų bendrija",
@@ -447,8 +458,7 @@
   },
   {
     "name": "Biržų miesto Gimnazijos g. 1 gyvenamojo namo savininkų bendrija",
-    "code": "154894590",
-    "address": "Biržai, Gimnazijos g. 1, LT-41142"
+    "code": "154894590"
   },
   {
     "name": "Biržų miesto Gimnazijos g. 5 gyvenamojo namo savininkų bendrija",
@@ -467,8 +477,7 @@
   },
   {
     "name": "Biržų miesto J. Basanavičiaus g. 18 daugiabučio namo savininkų bendrija",
-    "code": "155317563",
-    "address": "Biržai, J. Basanavičiaus g. 18, LT-41152"
+    "code": "155317563"
   },
   {
     "name": "Biržų miesto J. Janonio a. 7 gyvenamojo namo savininkų bendrija",
@@ -477,8 +486,7 @@
   },
   {
     "name": "Biržų miesto Karaimų g. 5 gyvenamojo namo savininkų bendrija \"Šilas\"",
-    "code": "154893346",
-    "address": "Biržai, Karaimų g. 3, LT-41171"
+    "code": "154893346"
   },
   {
     "name": "Biržų miesto Kaštonų g. 15 gyvenamojo namo savininkų bendrija \"Žiemgaliai\"",
@@ -621,11 +629,6 @@
     "address": "Biržai, Vilniaus g. 47A-10, LT-41149"
   },
   {
-    "name": "Biržų miesto Vilniaus g. 57a daugiabučio namo savininkų bendrija",
-    "code": "155308361",
-    "address": "Biržai, Vilniaus g. 57A, LT-41149"
-  },
-  {
     "name": "Biržų miesto Vilniaus g. 6 daugiabučio namo savininkų bendrija",
     "code": "155313351",
     "address": "Biržai, Vilniaus g. 6-11, LT-41172"
@@ -641,29 +644,18 @@
     "address": "Biržai, Vilniaus g. 77A-21, LT-41113"
   },
   {
-    "name": "Biržų miesto Vilniaus g. 77b daugiabučio namo savininkų bendrija",
-    "code": "155314453",
-    "address": "Biržai, Vilniaus g. 77B, LT-41113"
-  },
-  {
     "name": "Biržų miesto Vilniaus g. 8 gyvenamojo namo savininkų bendrija \"Agluona\"",
     "code": "154902585",
     "address": "Biržai, Vilniaus g. 8-15, LT-41172"
   },
   {
     "name": "Biržų miesto Vilniaus g. gyvenamojo namo Nr. 4 savininkų bendrija",
-    "code": "155288250",
-    "address": "Biržai, Vilniaus g. 4, LT-41172"
+    "code": "155288250"
   },
   {
     "name": "Biržų miesto Vilniaus gatvės 92 namo bendrija",
     "code": "302856149",
     "address": "Biržai, Vilniaus g. 92-10, LT-41116"
-  },
-  {
-    "name": "Biržų miesto Vytauto g. 17 gyvenamojo namo savininkų bendrija",
-    "code": "154891338",
-    "address": "Biržai, Vytauto g. 17-1, LT-41173"
   },
   {
     "name": "Biržų miesto Vytauto g. 19 daugiabučio namo savininkų bendrija",
@@ -689,11 +681,6 @@
     "name": "Biržų miesto Vytauto g. 31 daugiabučio namo savininkų bendrija",
     "code": "155309125",
     "address": "Biržai, Vytauto g. 31, LT-41146"
-  },
-  {
-    "name": "Biržų miesto Vytauto g. 33 daugiabučio namo savininkų bendrija",
-    "code": "155321266",
-    "address": "Biržai, Vytauto g. 33-3, LT-41146"
   },
   {
     "name": "Biržų miesto Vytauto g. 33a daugiabučio namo savininkų bendrija",
@@ -831,14 +818,12 @@
     "address": "Biržai, Vėjo g. 9B-22, LT-41153"
   },
   {
-    "name": "Biržų miesto bendruomenė \"Biržai mūsų namai\"",
-    "code": "303229950",
-    "address": "Biržai, Plento g. 4B, LT-41128"
+    "name": "Biržų miesto daugiabučio namo savininkų bendrija \"Eglė\"",
+    "code": "154898279"
   },
   {
-    "name": "Biržų miesto daugiabučio namo savininkų bendrija \"Eglė\"",
-    "code": "154898279",
-    "address": "Biržai, Vytauto g. 62-35, LT-41122"
+    "name": "Biržų miesto krikščionių misija \"Tikėjimas, viltis, meilė\"",
+    "code": "193062449"
   },
   {
     "name": "Biržų miesto vietos veiklos grupė",
@@ -916,6 +901,10 @@
     "address": "Biržai, Rotušės g. 8, LT-41175"
   },
   {
+    "name": "Biržų rajono Einorių žemės ūkio bendrovė",
+    "code": "154785840"
+  },
+  {
     "name": "Biržų rajono Kirdonių universalus daugiafunkcis centras",
     "code": "304220580",
     "address": "Biržų r. sav., Pabiržės sen., Kirdonių k., Žalgirio g. 17, LT-41372"
@@ -975,6 +964,10 @@
     "name": "Biržų rajono Mieliūnų melioracijos statinių naudotojų asociacija",
     "code": "304076240",
     "address": "Biržai, Aušros g. 10, LT-41178"
+  },
+  {
+    "name": "Biržų rajono Nemunėlio bendruomenė",
+    "code": "302634038"
   },
   {
     "name": "Biržų rajono Nemunėlio medžiotojų būrelis",
@@ -1207,6 +1200,10 @@
     "address": "Biržai, Rotušės g. 2, LT-41175"
   },
   {
+    "name": "Biržų rajono sutrikusios psichikos žmonių globos bendrija",
+    "code": "255318470"
+  },
+  {
     "name": "Biržų rajono verslininkų asociacija",
     "code": "193039621",
     "address": "Biržai, Vytauto g. 5, LT-41173"
@@ -1244,7 +1241,8 @@
   {
     "name": "Biržų rajono žemės ūkio bendrovė \"Arsėta\"",
     "code": "154759728",
-    "address": "Biržų r. sav., Pačeriaukštės sen., Pačeriaukštės I k., Artojų g. 3, LT-41416"
+    "address": "Biržų r. sav., Pačeriaukštės sen., Pačeriaukštės I k., Artojų g. 3, LT-41416",
+    "vatcode": "LT547597219"
   },
   {
     "name": "Biržų rajono žemės ūkio bendrovė \"Evra\"",
@@ -1254,7 +1252,8 @@
   {
     "name": "Biržų rajono žemės ūkio bendrovė \"Šilas\"",
     "code": "154790079",
-    "address": "Biržų r. sav., Parovėjos sen., Užušilių k."
+    "address": "Biržų r. sav., Parovėjos sen., Užušilių k.",
+    "vatcode": "LT547900716"
   },
   {
     "name": "Biržų rankdarbių asociacija \"Fantazijų skrynia\"",
@@ -1291,6 +1290,10 @@
     "address": "Biržai, Vilniaus g. 61A-12, LT-41150"
   },
   {
+    "name": "Biržų sporto klubas \"Startas\"",
+    "code": "155294876"
+  },
+  {
     "name": "Biržų technologijų ir verslo mokymo centras",
     "code": "302643724",
     "address": "Biržai, Skratiškių g. 6, LT-41156",
@@ -1325,6 +1328,17 @@
     "name": "Biržų žydų kultūros ir istorijos draugija",
     "code": "304953522",
     "address": "Biržai, J. Janonio g. 36, LT-41152"
+  },
+  {
+    "name": "Individuali įmonė \"Biržų gildija\"",
+    "code": "302248606",
+    "address": "Biržai, J. Basanavičiaus g. 17, LT-41168"
+  },
+  {
+    "name": "Irenos Korsakienės IĮ Biržų arbatinė",
+    "code": "155296012",
+    "address": "Biržai, Vytauto g. 12-1, LT-41139",
+    "vatcode": "LT552960113"
   },
   {
     "name": "Klubas \"Biržų topsas\"",
@@ -1364,22 +1378,26 @@
   {
     "name": "MB \"Biržų kebabai\"",
     "code": "306215482",
-    "address": "Biržų r. sav., Širvėnos sen., Anglininkų k., Apaščios g. 33, LT-41105"
+    "address": "Biržų r. sav., Širvėnos sen., Anglininkų k., Apaščios g. 33, LT-41105",
+    "vatcode": "LT100015762514"
   },
   {
     "name": "MB \"Biržų kirtimai\"",
     "code": "305500457",
-    "address": "Biržų r. sav., Parovėjos sen., Būginių k., Būginių g. 8B, LT-41195"
+    "address": "Biržų r. sav., Parovėjos sen., Būginių k., Būginių g. 8B, LT-41195",
+    "vatcode": "LT100013085619"
   },
   {
     "name": "MB \"Biržų miškai\"",
     "code": "303369151",
-    "address": "Biržų r. sav., Širvėnos sen., Kilučių k., Kilučių g. 42, LT-41103"
+    "address": "Biržų r. sav., Širvėnos sen., Kilučių k., Kilučių g. 42, LT-41103",
+    "vatcode": "LT100008788711"
   },
   {
     "name": "MB \"Biržų skonis\"",
     "code": "302802774",
-    "address": "Kaunas, Pašilės g. 15A, LT-51431"
+    "address": "Kaunas, Pašilės g. 15A, LT-51431",
+    "vatcode": "LT100006964211"
   },
   {
     "name": "MB Biržų kaimo",
@@ -1398,11 +1416,6 @@
     "address": "Biržų r. sav., Širvėnos sen., Butniūnų k., Jovaro g. 49, LT-41288"
   },
   {
-    "name": "UAB \"Biržų alus\" profesinė sąjunga \"Solidarumas\"",
-    "code": "255312250",
-    "address": "Biržai, Rotušės g. 22, LT-41137"
-  },
-  {
     "name": "UAB \"Biržų duona\"",
     "code": "154838481",
     "address": "Biržai, Plento g. 6, LT-41128",
@@ -1411,12 +1424,14 @@
   {
     "name": "UAB \"Biržų girios\"",
     "code": "305159408",
-    "address": "Plungė, Salantų g. 10, LT-90115"
+    "address": "Plungė, Salantų g. 10, LT-90115",
+    "vatcode": "LT100012642416"
   },
   {
     "name": "UAB \"Biržų miškų ūkis\"",
     "code": "304988612",
-    "address": "Biržai, Rotušės g. 8, LT-41175"
+    "address": "Biržai, Rotušės g. 8, LT-41175",
+    "vatcode": "LT100012124113"
   },
   {
     "name": "UAB \"Biržų pienas\"",
@@ -1427,12 +1442,14 @@
   {
     "name": "UAB \"Biržų pušaitė\"",
     "code": "300509363",
-    "address": "Biržai, Vilniaus g. 119, LT-41116"
+    "address": "Biržai, Vilniaus g. 119, LT-41116",
+    "vatcode": "LT100003622210"
   },
   {
     "name": "UAB \"Biržų ranga\"",
     "code": "154802275",
-    "address": "Biržų r. sav., Širvėnos sen., Rinkuškių k., Rinkuškių g. 26, LT-41187"
+    "address": "Biržų r. sav., Širvėnos sen., Rinkuškių k., Rinkuškių g. 26, LT-41187",
+    "vatcode": "LT548022716"
   },
   {
     "name": "UAB \"Biržų ranga\" profesinė sąjunga",
@@ -1468,7 +1485,8 @@
   {
     "name": "UAB Biržų žemės ūkis",
     "code": "303124547",
-    "address": "Biržai, Plento g. 2B, LT-41128"
+    "address": "Biržai, Plento g. 2B, LT-41128",
+    "vatcode": "LT100008281914"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Biržų alus\"",
@@ -1479,17 +1497,20 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Biržų bekonas\"",
     "code": "155307117",
-    "address": "Biržų r. sav., Nemunėlio Radviliškio sen., Leitiškių k. 5, LT-41440"
+    "address": "Biržų r. sav., Nemunėlio Radviliškio sen., Leitiškių k. 5, LT-41440",
+    "vatcode": "LT553071113"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Biržų butų ūkis\"",
     "code": "254709320",
-    "address": "Biržai, Rotušės g. 12-1, LT-41175"
+    "address": "Biržai, Rotušės g. 12-1, LT-41175",
+    "vatcode": "LT547093219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Biržų komunalinis ūkis\"",
     "code": "154799441",
-    "address": "Biržai, Tiekimo g. 10, LT-41128"
+    "address": "Biržai, Tiekimo g. 10, LT-41128",
+    "vatcode": "LT547994410"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Biržų optika\"",
@@ -1500,22 +1521,20 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Biržų vandenys\"",
     "code": "154850665",
-    "address": "Biržai, Rotušės g. 30, LT-41137"
+    "address": "Biržai, Rotušės g. 30, LT-41137",
+    "vatcode": "LT548506610"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Biržų šilumos tinklai\"",
     "code": "154866655",
-    "address": "Biržai, Rotušės g. 22A, LT-41137"
+    "address": "Biržai, Rotušės g. 22A, LT-41137",
+    "vatcode": "LT548666515"
   },
   {
     "name": "Uždaroji akcinė bendrovė Biržų autobusų parkas",
     "code": "154742789",
-    "address": "Biržai, J. Basanavičiaus g. 56, LT-41164"
-  },
-  {
-    "name": "Uždarosios akcinės bendrovės \"Biržų duona\" profsąjungos organizacija",
-    "code": "154904636",
-    "address": "Biržai, Plento g. 6, LT-41128"
+    "address": "Biržai, J. Basanavičiaus g. 56, LT-41164",
+    "vatcode": "LT547427811"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"LITESKO\" filialas \"Biržų šiluma\"",
@@ -1563,11 +1582,6 @@
     "address": "Biržai, Rotušės g. 16A, LT-41137"
   },
   {
-    "name": "Viešosios įstaigos Biržų rajono socialinių paslaugų centro darbuotojų profesinė sąjunga",
-    "code": "302916354",
-    "address": "Biržai, Rotušės g. 16A, LT-41137"
-  },
-  {
     "name": "Viešosios įstaigos Lietuvos žemės ūkio konsultavimo tarnybos Biržų rajono biuras",
     "code": "154869950",
     "address": "Biržai, Rotušės g. 13-1, LT-41138"
@@ -1591,6 +1605,7 @@
   {
     "name": "Žemės ūkio kooperatyvas Biržų sėklos",
     "code": "303469504",
-    "address": "Biržų r. sav., Parovėjos sen., Paežerių k., Apaščios g. 13, LT-41189"
+    "address": "Biržų r. sav., Parovėjos sen., Paežerių k., Apaščios g. 13, LT-41189",
+    "vatcode": "LT100009040819"
   }
 ]

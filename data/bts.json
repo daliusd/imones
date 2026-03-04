@@ -1,8 +1,14 @@
 [
   {
+    "name": "Individuali įmonė \"E-BTS\"",
+    "code": "302465093",
+    "address": "Vilnius, Nočios g. 4-12, LT-03103"
+  },
+  {
     "name": "MB \"BTS Rental\"",
     "code": "306162720",
-    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Lygumos g. 23, LT-91284"
+    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Lygumos g. 23, LT-91284",
+    "vatcode": "LT100015448812"
   },
   {
     "name": "MB \"Bts global\"",
@@ -17,7 +23,8 @@
   {
     "name": "UAB \"BTS Vilnius\"",
     "code": "300751441",
-    "address": "Vilnius, M. K. Čiurlionio g. 9-3A, LT-03104"
+    "address": "Vilnius, M. K. Čiurlionio g. 9-3A, LT-03104",
+    "vatcode": "LT100003099513"
   },
   {
     "name": "UAB \"BTS turtas\"",
@@ -38,6 +45,7 @@
   {
     "name": "UAB \"BTService\"",
     "code": "302752271",
-    "address": "Vilnius, Linksmoji g. 133-33, LT-11233"
+    "address": "Vilnius, Linksmoji g. 133-33, LT-11233",
+    "vatcode": "LT100006763513"
   }
 ]

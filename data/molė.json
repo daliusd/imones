@@ -32,7 +32,8 @@
   {
     "name": "UAB MOLĖTAI PV",
     "code": "306073481",
-    "address": "Molėtai, Vilniaus g. 40, LT-33141"
+    "address": "Molėtai, Vilniaus g. 40, LT-33141",
+    "vatcode": "LT100015838013"
   },
   {
     "name": "UAB Molėtai hybrid",
@@ -50,6 +51,11 @@
     "address": "Vilnius, Žaliųjų Ežerų g. 49, LT-12200"
   },
   {
+    "name": "IĮ \"Pramogaujam Molėtuose\"",
+    "code": "305179414",
+    "address": "Molėtų r. sav., Mindūnų sen., Juodakampio vs. 1, LT-33200"
+  },
+  {
     "name": "MB Važiuojam Molėtuose",
     "code": "306262603",
     "address": "Molėtų r. sav., Inturkės sen., Pakrovų k., Lenktoji g. 8, LT-33211"
@@ -57,12 +63,14 @@
   {
     "name": "UAB \"MOLĖTŪNAS\"",
     "code": "167557096",
-    "address": "Molėtai, Moletūno g. 22, LT-33106"
+    "address": "Molėtai, Moletūno g. 22, LT-33106",
+    "vatcode": "LT675570917"
   },
   {
     "name": "\"NordSpace Molėtų\", UAB",
     "code": "306214619",
-    "address": "Vilnius, Tarandės g. 2, LT-14188"
+    "address": "Vilnius, Tarandės g. 2, LT-14188",
+    "vatcode": "LT100015877519"
   },
   {
     "name": "Asociacija \"Molėtų krašto gyventojų bendruomenė\"",
@@ -105,19 +113,20 @@
     "address": "Molėtai, Vilniaus g. 76"
   },
   {
-    "name": "Lietuvos žemės ūkio darbuotojų federacijos Molėtų rajono profesinė sąjunga",
-    "code": "191731592",
-    "address": "Molėtai, Statybininkų g. 9, LT-33112"
-  },
-  {
     "name": "MB \"Molėtų grožis\"",
     "code": "305232030",
     "address": "Molėtų r. sav., Alanta, Technikumo g. 4-108, LT-33315"
   },
   {
+    "name": "MB \"Molėtų pamatai\"",
+    "code": "307577744",
+    "address": "Molėtai, Žalioji g. 22, LT-33102"
+  },
+  {
     "name": "MB \"Molėtų projektai\"",
     "code": "305565622",
-    "address": "Molėtų r. sav., Luokesos sen., Ažubalių k., Moletūno g. 15A, LT-33103"
+    "address": "Molėtų r. sav., Luokesos sen., Ažubalių k., Moletūno g. 15A, LT-33103",
+    "vatcode": "LT100016132515"
   },
   {
     "name": "MB \"Molėtų statybų ranga\"",
@@ -137,7 +146,8 @@
   {
     "name": "MB \"Molėtų žuvies rūkykla\"",
     "code": "305727743",
-    "address": "Molėtų r. sav., Luokesos sen., Paluokesos k., Inturkės g. 67, LT-33159"
+    "address": "Molėtų r. sav., Luokesos sen., Paluokesos k., Inturkės g. 67, LT-33159",
+    "vatcode": "LT100014288611"
   },
   {
     "name": "MB Molėtų aidai",
@@ -147,7 +157,8 @@
   {
     "name": "MB Molėtų skraidymo mokykla",
     "code": "305307586",
-    "address": "Molėtų r. sav., Giedraičių sen., Tumenčiznos k. 6, LT-33252"
+    "address": "Molėtų r. sav., Giedraičių sen., Tumenčiznos k. 6, LT-33252",
+    "vatcode": "LT100013126418"
   },
   {
     "name": "MB Molėtų veterinarijos klinika",
@@ -203,11 +214,6 @@
     "name": "Molėtų krašto bičiulių draugija",
     "code": "306301586",
     "address": "Molėtų r. sav., Čiulėnų sen., Juodėnų k., Šilelio g. 18, LT-33355"
-  },
-  {
-    "name": "Molėtų krašto dirbančiųjų profesinė sąjunga",
-    "code": "302568702",
-    "address": "Molėtų rajono savivaldybės teritorija"
   },
   {
     "name": "Molėtų krašto žmonių su negalia sąjunga",
@@ -437,7 +443,8 @@
   {
     "name": "Molėtų rajono vartotojų kooperatyvas",
     "code": "167525472",
-    "address": "Molėtai, Vilniaus g. 95A, LT-33111"
+    "address": "Molėtai, Vilniaus g. 95A, LT-33111",
+    "vatcode": "LT675254716"
   },
   {
     "name": "Molėtų rajono vartotojų kooperatyvo darbuotojų profesinė sąjunga",
@@ -467,7 +474,8 @@
   {
     "name": "Molėtų rajono žemės ūkio bendrovė \"Žaugėdai\"",
     "code": "167541334",
-    "address": "Molėtų r. sav., Joniškio sen., Žaugėdų k."
+    "address": "Molėtų r. sav., Joniškio sen., Žaugėdų k.",
+    "vatcode": "LT675413314"
   },
   {
     "name": "Molėtų rankinio klubas",
@@ -500,9 +508,8 @@
     "address": "Molėtai, Šv. Jono Pauliaus II g. 3, LT-33101"
   },
   {
-    "name": "Specialios paskirties uždarosios akcinės bendrovės \"Molėtų vanduo\" profesinė sąjunga",
-    "code": "167608861",
-    "address": "Molėtai, Vilniaus g. 2A, LT-33143"
+    "name": "Specialios paskirties uždarosios akcinės bendrovės \"Molėtų švara\" profesinė sąjunga",
+    "code": "191889286"
   },
   {
     "name": "Sutrikusio intelekto žmonių globos bendrija \"Molėtų Viltis\"",
@@ -522,22 +529,26 @@
   {
     "name": "UAB \"Molėtų Hronas\"",
     "code": "300079851",
-    "address": "Molėtai, Amatų g. 3, LT-33102"
+    "address": "Molėtai, Amatų g. 3, LT-33102",
+    "vatcode": "LT100001400519"
   },
   {
     "name": "UAB \"Molėtų baldai\"",
     "code": "304729862",
-    "address": "Molėtų r. sav., Luokesos sen., Ažubalių k., Moletūno g. 17, LT-33103"
+    "address": "Molėtų r. sav., Luokesos sen., Ažubalių k., Moletūno g. 17, LT-33103",
+    "vatcode": "LT100011975012"
   },
   {
     "name": "UAB \"Molėtų dalys\"",
     "code": "305639179",
-    "address": "Vilnius, Sviliškių g. 8-21, LT-06152"
+    "address": "Vilnius, Sviliškių g. 8-21, LT-06152",
+    "vatcode": "LT100016414611"
   },
   {
     "name": "UAB \"Molėtų namai\"",
     "code": "306268702",
-    "address": "Vilnius, Trimitų g. 8-201, LT-09318"
+    "address": "Vilnius, Trimitų g. 8-201, LT-09318",
+    "vatcode": "LT100015991712"
   },
   {
     "name": "UAB \"Molėtų oazė\"",
@@ -548,7 +559,8 @@
   {
     "name": "UAB \"Molėtų pobūviai\"",
     "code": "306630521",
-    "address": "Molėtų r. sav., Čiulėnų sen., Stacijavos k. 10A, LT-33170"
+    "address": "Molėtų r. sav., Čiulėnų sen., Stacijavos k. 10A, LT-33170",
+    "vatcode": "LT100019212316"
   },
   {
     "name": "UAB \"Molėtų vanduo\"",
@@ -562,14 +574,21 @@
     "address": "Širvintų r. sav., Zibalų sen., Drublionių k., Bitininkų g. 18, LT-19100"
   },
   {
+    "name": "UAB Molėtų Technikos Parkas",
+    "code": "307594551",
+    "address": "Molėtai, Statybininkų g. 9, LT-33112"
+  },
+  {
     "name": "UAB Molėtų autobusų parkas",
     "code": "167520735",
-    "address": "Molėtai, Vilniaus g. 101, LT-33112"
+    "address": "Molėtai, Vilniaus g. 101, LT-33112",
+    "vatcode": "LT675207314"
   },
   {
     "name": "UAB Molėtų baseinas",
     "code": "306445647",
-    "address": "Molėtai, Ąžuolų g. 10, LT-33125"
+    "address": "Molėtai, Ąžuolų g. 10, LT-33125",
+    "vatcode": "LT100016335315"
   },
   {
     "name": "UAB Molėtų medis",
@@ -579,17 +598,20 @@
   {
     "name": "UAB Molėtų prekybos centras",
     "code": "303084049",
-    "address": "Vilnius, Dominikonų g. 9-5, LT-01131"
+    "address": "Vilnius, Dominikonų g. 9-5, LT-01131",
+    "vatcode": "LT100007885516"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Molėtų Vilnis\"",
     "code": "167575347",
-    "address": "Molėtai, S. Nėries g. 16, LT-33140"
+    "address": "Molėtai, S. Nėries g. 16, LT-33140",
+    "vatcode": "LT675753410"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Molėtų agrotiekimas\"",
     "code": "167543342",
-    "address": "Molėtai, Verslo g. 7, LT-33114"
+    "address": "Molėtai, Verslo g. 7, LT-33114",
+    "vatcode": "LT675433411"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Molėtų aplinka\"",
@@ -611,12 +633,8 @@
   {
     "name": "Uždaroji akcinė bendrovė Molėtų radijas ir televizija",
     "code": "167592834",
-    "address": "Molėtai, Verslo g. 12, LT-33114"
-  },
-  {
-    "name": "Uždarosios akcinės bendrovės \"Lelija\" Molėtų siuvimo įmonės profesinė sąjunga",
-    "code": "167619690",
-    "address": "Molėtai, Aplinkkelio g. 12, LT-33114"
+    "address": "Molėtai, Verslo g. 12, LT-33114",
+    "vatcode": "LT675928314"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"Molėtų šiluma\" darbuotojų profesinė sąjunga \"Solidarumas\"",
@@ -647,7 +665,8 @@
   {
     "name": "Viešoji įstaiga Molėtų technikos muziejus",
     "code": "300627689",
-    "address": "Molėtų r. sav., Giedraičių sen., Tumenčiznos k. 1B, LT-33252"
+    "address": "Molėtų r. sav., Giedraičių sen., Tumenčiznos k. 1B, LT-33252",
+    "vatcode": "LT100009569011"
   },
   {
     "name": "Viešoji įstaiga Molėtų turizmo ir verslo informacijos centras",
@@ -668,7 +687,8 @@
   {
     "name": "VšĮ \"Molėtų gyvūnų gerovė\"",
     "code": "305952583",
-    "address": "Molėtų r. sav., Čiulėnų sen., Levaniškių k., Dūrių g. 12, LT-33174"
+    "address": "Molėtų r. sav., Čiulėnų sen., Levaniškių k., Dūrių g. 12, LT-33174",
+    "vatcode": "LT100016558216"
   },
   {
     "name": "VšĮ Molėtų diskgolfo klubas",

@@ -2,12 +2,18 @@
   {
     "name": "UAB \"XIAO SHI TOU\"",
     "code": "302248823",
-    "address": "Kėdainiai, J. Basanavičiaus g. 49, LT-57284"
+    "address": "Kėdainiai, J. Basanavičiaus g. 49, LT-57284",
+    "vatcode": "LT100005241515"
   },
   {
     "name": "UAB Tropical Toucan",
     "code": "305755109",
     "address": "Kaunas, Partizanų g. 216-77, LT-50319"
+  },
+  {
+    "name": "IĮ \"Younique Touch\"",
+    "code": "303337221",
+    "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194"
   },
   {
     "name": "MB \"Amber touch\"",
@@ -20,14 +26,20 @@
     "address": "Vilnius, Salomėjos Nėries g. 101-267, LT-06334"
   },
   {
+    "name": "MB Nova Touch",
+    "code": "305785344"
+  },
+  {
     "name": "MB Smile touch",
     "code": "306453747",
-    "address": "Vilnius, Jonažolių g. 7-157, LT-04138"
+    "address": "Vilnius, Jonažolių g. 7-157, LT-04138",
+    "vatcode": "LT100018811411"
   },
   {
     "name": "Mažoji bendrija \"Minimal touch\"",
     "code": "305588578",
-    "address": "Vilnius, Švitrigailos g. 27, LT-03202"
+    "address": "Vilnius, Švitrigailos g. 27, LT-03202",
+    "vatcode": "LT100013809917"
   },
   {
     "name": "UAB \"Herbal touch\"",
@@ -47,7 +59,8 @@
   {
     "name": "UAB Toughlex",
     "code": "304077310",
-    "address": "Kaunas, Brastos g. 24D-7, LT-47185"
+    "address": "Kaunas, Brastos g. 24D-7, LT-47185",
+    "vatcode": "LT100010183118"
   },
   {
     "name": "UAB \"Toula LT\"",
@@ -90,6 +103,12 @@
     "address": "Vilnius, Sėlių g. 39-11, LT-08109"
   },
   {
+    "name": "Marijos Vilkienės IĮ \"Twins Tour\"",
+    "code": "132252163",
+    "address": "Kaunas, Baltų pr. 31-76, LT-48244",
+    "vatcode": "LT322521610"
+  },
+  {
     "name": "Natalios Knyazevos IĮ \"ALENA-TOUR\"",
     "code": "303028755"
   },
@@ -106,17 +125,19 @@
   {
     "name": "UAB \"Baltic Business Tour\"",
     "code": "301494633",
-    "address": "Vilnius, Gaujos g. 22, LT-02121"
+    "address": "Vilnius, A. Jakšto g. 12, LT-01105"
   },
   {
     "name": "UAB \"Bauer Tour\"",
     "code": "301240624",
-    "address": "Vilnius, Sausio 13-osios g. 2, LT-04343"
+    "address": "Vilnius, Sausio 13-osios g. 2, LT-04343",
+    "vatcode": "LT100003765816"
   },
   {
     "name": "UAB \"Business Tour Company\"",
     "code": "302729671",
-    "address": "Vilnius, Birbynių g. 4, LT-02121"
+    "address": "Vilnius, Birbynių g. 4, LT-02121",
+    "vatcode": "LT100006710310"
   },
   {
     "name": "UAB \"FIWO TOUR\"",
@@ -124,19 +145,26 @@
     "address": "Kaunas, Savanorių pr. 399-5, LT-49289"
   },
   {
+    "name": "UAB \"Green Tour Lithuania\"",
+    "code": "303003428"
+  },
+  {
     "name": "UAB \"PINK TOUR\"",
     "code": "301533716",
-    "address": "Vilnius, Meistrų g. 8A, LT-02190"
+    "address": "Vilnius, Meistrų g. 8A, LT-02190",
+    "vatcode": "LT100004122618"
   },
   {
     "name": "UAB \"TEZ TOUR\"",
     "code": "111813515",
-    "address": "Vilnius, Panerių g. 39-701, LT-03209"
+    "address": "Vilnius, Panerių g. 39-701, LT-03209",
+    "vatcode": "LT118135113"
   },
   {
     "name": "UAB \"TROPI TOUR\"",
     "code": "304193215",
-    "address": "Kaunas, Kaunakiemio g. 40, LT-44332"
+    "address": "Kaunas, Kaunakiemio g. 40, LT-44332",
+    "vatcode": "LT100011050312"
   },
   {
     "name": "UAB Kidy Tour",
@@ -178,7 +206,8 @@
   {
     "name": "UAB Tourinvest",
     "code": "302548991",
-    "address": "Vilnius, A. Stulginskio g. 5-49, LT-01115"
+    "address": "Vilnius, A. Stulginskio g. 5-49, LT-01115",
+    "vatcode": "LT100016494811"
   },
   {
     "name": "Tourise, MB",
@@ -218,7 +247,8 @@
   {
     "name": "UAB \"Royal Tourism\"",
     "code": "302426005",
-    "address": "Palanga, Medvalakio g. 17-45, LT-00140"
+    "address": "Palanga, Medvalakio g. 17-45, LT-00140",
+    "vatcode": "LT100005339913"
   },
   {
     "name": "UAB Regina Tourism Service",
@@ -229,17 +259,24 @@
   {
     "name": "UAB Tourism hackers",
     "code": "306966529",
-    "address": "Vilnius, Žirmūnų g. 73-16, LT-09112"
+    "address": "Vilnius, Žirmūnų g. 73-16, LT-09112",
+    "vatcode": "LT100018011219"
+  },
+  {
+    "name": "Viešoji įstaiga \"BALTIC TOURISM COMPANY\"",
+    "code": "302448311"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Internet Tourist\"",
     "code": "302310004",
-    "address": "Vilnius, Rinktinės g. 5-101, LT-09234"
+    "address": "Vilnius, Rinktinės g. 5-101, LT-09234",
+    "vatcode": "LT100004550518"
   },
   {
     "name": "Baltic Tours Group, UAB",
     "code": "111518422",
-    "address": "Vilnius, Vašingtono a. 1-66, LT-01108"
+    "address": "Vilnius, Vašingtono a. 1-66, LT-01108",
+    "vatcode": "LT115184219"
   },
   {
     "name": "Baltic Tours NT, UAB",
@@ -253,6 +290,11 @@
     "address": "Prienų r. sav., Šilavoto sen., Klebiškio k., Tvenkinio g. 2, LT-59100"
   },
   {
+    "name": "Individuali įmonė \"Dulcinea Tours\"",
+    "code": "302743984",
+    "address": "Vilnius, Gelvonų g. 29-17, LT-07138"
+  },
+  {
     "name": "IĮ \"Baltijos tours\"",
     "code": "303403600",
     "address": "Vilniaus miesto savivaldybės teritorija"
@@ -263,6 +305,11 @@
     "address": "Šiauliai, Panevėžio g. 16, LT-76157"
   },
   {
+    "name": "MB \"Baltic Adventure Tours\"",
+    "code": "307581739",
+    "address": "Vilnius, Krivių g. 5, LT-01204"
+  },
+  {
     "name": "TAJ TRAVELS & TOURS filialas",
     "code": "304719590",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -270,7 +317,8 @@
   {
     "name": "UAB \"Amber Tours\"",
     "code": "302290530",
-    "address": "Vilnius, S. Žukausko g. 49-82, LT-09131"
+    "address": "Vilnius, S. Žukausko g. 49-82, LT-09131",
+    "vatcode": "LT100004484718"
   },
   {
     "name": "UAB \"Aza tours\"",
@@ -287,7 +335,8 @@
   {
     "name": "UAB \"Ingrida Tours\"",
     "code": "305196919",
-    "address": "Klaipėda, Poilsio g. 14-42, LT-93174"
+    "address": "Klaipėda, Poilsio g. 14-42, LT-93174",
+    "vatcode": "LT100012829119"
   },
   {
     "name": "UAB \"KING DAVID\" Interstate baltic tours",
@@ -303,12 +352,14 @@
   {
     "name": "UAB \"Lithuanian tours\"",
     "code": "121063880",
-    "address": "Vilnius, Šeimyniškių g. 18-1, LT-09312"
+    "address": "Vilnius, Šeimyniškių g. 18-1, LT-09312",
+    "vatcode": "LT210638811"
   },
   {
     "name": "UAB \"Moon tours\"",
     "code": "305922184",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Gibišėlių k., Draugystės g. 33A, LT-92373"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Gibišėlių k., Draugystės g. 33A, LT-92373",
+    "vatcode": "LT100014515514"
   },
   {
     "name": "UAB \"Nordic Saga Tours Europe\"",
@@ -318,17 +369,20 @@
   {
     "name": "UAB \"RIVIERA TOURS\"",
     "code": "304915938",
-    "address": "Vilnius, Švitrigailos g. 1-107, LT-03110"
+    "address": "Vilnius, Švitrigailos g. 1-107, LT-03110",
+    "vatcode": "LT100012479816"
   },
   {
     "name": "UAB \"TOMI TOURS\"",
     "code": "302624827",
-    "address": "Kaunas, Savanorių pr. 128-3, LT-44148"
+    "address": "Kaunas, Savanorių pr. 128-3, LT-44148",
+    "vatcode": "LT100006103312"
   },
   {
     "name": "UAB EA Tours",
     "code": "302693549",
-    "address": "Vilnius, Rygos g. 25-19, LT-05221"
+    "address": "Vilnius, Rygos g. 25-19, LT-05221",
+    "vatcode": "LT100008121319"
   },
   {
     "name": "UAB SAFE WORLD TOURS & TRAVEL",
@@ -338,6 +392,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"DELTA TOURS\"",
     "code": "110312661",
-    "address": "Kaunas, Vytauto pr. 32, LT-44328"
+    "address": "Kaunas, Vytauto pr. 32, LT-44328",
+    "vatcode": "LT103126610"
   }
 ]

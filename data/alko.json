@@ -1,5 +1,10 @@
 [
   {
+    "name": "K. Galvelio įmonė \"Alko\"",
+    "code": "154784553",
+    "address": "Biržai, Vytauto g. 22-1A, LT-41139"
+  },
+  {
     "name": "MB \"Alko prekyba\"",
     "code": "304686101",
     "address": "Klaipėda, I. Simonaitytės g. 13-101, LT-95124"
@@ -7,7 +12,8 @@
   {
     "name": "MB Alko trans LT",
     "code": "306398756",
-    "address": "Vilnius, Žygio g. 1-73, LT-08227"
+    "address": "Vilnius, Žygio g. 1-73, LT-08227",
+    "vatcode": "LT100018858612"
   },
   {
     "name": "MB \"Alkoba\"",
@@ -17,7 +23,8 @@
   {
     "name": "UAB \"Alkodana\"",
     "code": "302288675",
-    "address": "Klaipėda, S. Šimkaus g. 2, LT-92128"
+    "address": "Klaipėda, S. Šimkaus g. 2, LT-92128",
+    "vatcode": "LT100004462313"
   },
   {
     "name": "UAB \"Alkofiesta\"",
@@ -28,6 +35,10 @@
     "name": "Asociacija Lietuvos suaugusių alkoholikų vaikų bendrija",
     "code": "304772988",
     "address": "Vilnius, S. Daukanto a. 1, LT-01122"
+  },
+  {
+    "name": "Gargždų miesto anoniminių alkoholikų grupė",
+    "code": "263731390"
   },
   {
     "name": "Alkoholinių gėrimų mažųjų platintojų ir gamintojų asociacija",
@@ -72,12 +83,14 @@
   {
     "name": "MB AlkoJuomat",
     "code": "305463884",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100014227418"
   },
   {
     "name": "UAB \"Alkolda\"",
     "code": "149881812",
-    "address": "Alytus, Pramonės g. 16, LT-62175"
+    "address": "Alytus, Pramonės g. 16, LT-62175",
+    "vatcode": "LT498818113"
   },
   {
     "name": "UAB \"Alkomas\"",
@@ -87,7 +100,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"ALKOMPLEKTAS\"",
     "code": "149708397",
-    "address": "Alytus, Pramonės g. 21, LT-62175"
+    "address": "Alytus, Pramonės g. 21, LT-62175",
+    "vatcode": "LT497083917"
   },
   {
     "name": "UAB \"ALKONA\"",
@@ -97,7 +111,8 @@
   {
     "name": "UAB \"Alkona valdymas\"",
     "code": "302571207",
-    "address": "Vilnius, Motorų g. 6, LT-02190"
+    "address": "Vilnius, Motorų g. 6, LT-02190",
+    "vatcode": "LT100005809610"
   },
   {
     "name": "MB Alkonsta",
@@ -117,7 +132,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"ALKOpakas\"",
     "code": "160328376",
-    "address": "Kupiškio r. sav., Kupiškio sen., Aukštupėnų k., Dvaramiškio g. 12-1, LT-40104"
+    "address": "Kupiškio r. sav., Kupiškio sen., Aukštupėnų k., Dvaramiškio g. 12-1, LT-40104",
+    "vatcode": "LT603283716"
   },
   {
     "name": "UAB \"Alkopasaulis\"",
@@ -148,7 +164,8 @@
   {
     "name": "Alkos technologijos, MB",
     "code": "306284471",
-    "address": "Kaunas, Baltijos g. 71-6, LT-47135"
+    "address": "Kaunas, Baltijos g. 71-6, LT-47135",
+    "vatcode": "LT100015826918"
   },
   {
     "name": "MB \"Alkos ūkis\"",
@@ -169,12 +186,14 @@
   {
     "name": "UAB \"ALKOS energija\"",
     "code": "302799755",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Raizgių k., Vakarų g. 2C, LT-80192"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Raizgių k., Vakarų g. 2C, LT-80192",
+    "vatcode": "LT100007750214"
   },
   {
     "name": "UAB \"ALKOS konstrukcijos\"",
     "code": "302799748",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Raizgių k., Vakarų g. 2, LT-80192"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Raizgių k., Vakarų g. 2, LT-80192",
+    "vatcode": "LT100007863818"
   },
   {
     "name": "UAB \"ALKOS projektai\"",
@@ -185,12 +204,14 @@
   {
     "name": "UAB \"ALKOS šviesa\"",
     "code": "302799716",
-    "address": "Šiauliai, Vytauto g. 145-27, LT-76341"
+    "address": "Šiauliai, Vytauto g. 145-27, LT-76341",
+    "vatcode": "LT100007718917"
   },
   {
     "name": "UAB \"Alkos namai\"",
     "code": "305667367",
-    "address": "Palanga, J. Simpsono g. 8-10, LT-00135"
+    "address": "Palanga, J. Simpsono g. 8-10, LT-00135",
+    "vatcode": "LT100013722211"
   },
   {
     "name": "UAB \"ALKOSA\"",
@@ -207,7 +228,8 @@
   {
     "name": "UAB \"Alkotesteris\"",
     "code": "300029033",
-    "address": "Vilnius, M. K. Čiurlionio g. 82A-56, LT-03100"
+    "address": "Vilnius, M. K. Čiurlionio g. 82A-56, LT-03100",
+    "vatcode": "LT100001181718"
   },
   {
     "name": "\"Alkotesterių centras\" UAB",

@@ -17,7 +17,18 @@
   {
     "name": "MB Lenkas LT",
     "code": "306998644",
-    "address": "Vilnius, Verkių g. 68A-8, LT-08344"
+    "address": "Vilnius, Verkių g. 68A-8, LT-08344",
+    "vatcode": "LT100019403915"
+  },
+  {
+    "name": "J. Lenkausko individuali įmonė",
+    "code": "241704120",
+    "address": "Klaipėdos m. sav."
+  },
+  {
+    "name": "Richardo Lenkausko firma, IĮ",
+    "code": "135773495",
+    "address": "Kaunas, Raudondvario pl. 228-41, LT-47156"
   },
   {
     "name": "Ž. Lenkausko individuali įmonė",
@@ -27,12 +38,17 @@
   {
     "name": "MB Lenkauta",
     "code": "307139678",
-    "address": "Šiaulių r. sav., Kuršėnai, Pelkės g. 17, LT-81137"
+    "address": "Šiaulių r. sav., Kuršėnai, Pelkės g. 17, LT-81137",
+    "vatcode": "LT100018966415"
   },
   {
     "name": "Lenkelių kaimo bendruomenė",
     "code": "300036939",
     "address": "Raseinių r. sav., Raseinių sen., Lenkelių k."
+  },
+  {
+    "name": "B. Lenkevič prekybos įmonė",
+    "code": "174989551"
   },
   {
     "name": "ASOCIACIJA \"LENKIJOS IR LIETUVOS PREKYBOS RŪMAI\"",
@@ -47,12 +63,14 @@
   {
     "name": "Bendra Lietuvos - Lenkijos įmonė uždaroji akcinė bendrovė \"DARPOLIS\"",
     "code": "110387685",
-    "address": "Vilnius, S. Stanevičiaus g. 15-26, LT-07134"
+    "address": "Vilnius, S. Stanevičiaus g. 15-26, LT-07134",
+    "vatcode": "LT103876811"
   },
   {
     "name": "Bendra Lietuvos ir Lenkijos įmonė uždaroji akcinė bendrovė \"IKRIS\"",
     "code": "110653883",
-    "address": "Šalčininkų r. sav., Eišiškių sen., Tausiūnų k."
+    "address": "Šalčininkų r. sav., Eišiškių sen., Tausiūnų k.",
+    "vatcode": "LT106538811"
   },
   {
     "name": "Bendra Lietuvos ir Lenkijos įmonė uždaroji akcinė bendrovė \"JAMEKSAS\"",
@@ -327,6 +345,10 @@
     "vatcode": "LT107693113"
   },
   {
+    "name": "Lietuvos ir Lenkijos uždaroji akcinė bendrovė \"TRANSLINA\"",
+    "code": "210802470"
+  },
+  {
     "name": "Lietuvos ir Lenkijos uždaroji akcinė bendrovė \"VELTEX\"",
     "code": "110740822",
     "address": "Vilnius, Savanorių pr. 174A-10, LT-03153"
@@ -335,6 +357,10 @@
     "name": "Lietuvos, Lenkijos ir Rusijos uždaroji akcinė bendrovė \"ELHAMERS\"",
     "code": "110037980",
     "address": "Vilnius, Oršos g. 7, LT-09300"
+  },
+  {
+    "name": "Lietuvos, Lenkijos ir Vokietijos uždaroji akcinė bendrovė \"GERPOLINTER\"",
+    "code": "110613593"
   },
   {
     "name": "Lietuvos-Vokietijos-Lenkijos uždaroji akcinė bendrovė \"INEZA\"",
@@ -406,7 +432,8 @@
   {
     "name": "MB Lenkta vinis",
     "code": "306177836",
-    "address": "Klaipėda, S. Šimkaus g. 12-16, LT-92129"
+    "address": "Klaipėda, S. Šimkaus g. 12-16, LT-92129",
+    "vatcode": "LT100016139416"
   },
   {
     "name": "UAB \"Lenktas medis\"",
@@ -432,7 +459,8 @@
   {
     "name": "Viešoji įstaiga Respublikinė lenktyninių žirgų lyga",
     "code": "135486011",
-    "address": "Lazdijų r. sav., Lazdijų sen., Buktos k. 2, LT-67168"
+    "address": "Lazdijų r. sav., Lazdijų sen., Buktos k. 2, LT-67168",
+    "vatcode": "LT100016090712"
   },
   {
     "name": "Lenktynių komanda \"Automotospindesys\"",
@@ -447,7 +475,8 @@
   {
     "name": "VšĮ \"Lenktynių linija\"",
     "code": "303200258",
-    "address": "Vilnius, Fulgento Rimgailos g. 2, LT-10231"
+    "address": "Vilnius, Fulgento Rimgailos g. 2, LT-10231",
+    "vatcode": "LT100011485215"
   },
   {
     "name": "\"Mėmelio lenktynės\", VšĮ",
@@ -458,7 +487,8 @@
   {
     "name": "VšĮ \"1000 km lenktynės\"",
     "code": "306321927",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100016311015"
   },
   {
     "name": "VšĮ \"Auto lenktynės\"",
@@ -472,9 +502,15 @@
     "address": "Vilnius, Savičiaus g. 3A-58, LT-01127"
   },
   {
+    "name": "Renatos Lenkšienės individuali įmonė",
+    "code": "304622351",
+    "address": "Plungė, Telšių g. 23, LT-90163"
+  },
+  {
     "name": "ASOCIACIJA LENKŲ INFORMACIJOS CENTRAS VILNIUJE \"InfoRum\"",
     "code": "301040538",
-    "address": "Vilnius, Naugarduko g. 76, LT-03203"
+    "address": "Vilnius, Naugarduko g. 76, LT-03203",
+    "vatcode": "LT100003563716"
   },
   {
     "name": "Asociacija \"Lietuvos lenkų žiniasklaida\"",
@@ -547,6 +583,10 @@
     "address": "Vilnius, Naugarduko g. 76, LT-03203"
   },
   {
+    "name": "Lietuvos Lenkų Šalčininkų rajono Sporto klubo \"Solča\" prekybos įmonė",
+    "code": "174950235"
+  },
+  {
     "name": "Lietuvos lenkų harcerių (skautų) sąjunga",
     "code": "190678197",
     "address": "Vilnius, Naugarduko g. 76, LT-03203"
@@ -579,7 +619,8 @@
   {
     "name": "Lietuvos lenkų sąjunga",
     "code": "190771032",
-    "address": "Vilnius, Naugarduko g. 76, LT-03203"
+    "address": "Vilnius, Naugarduko g. 76, LT-03203",
+    "vatcode": "LT100006661813"
   },
   {
     "name": "Lietuvos lenkų sąjungos Kauno skyrius",

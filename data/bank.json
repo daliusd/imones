@@ -2,7 +2,8 @@
   {
     "name": "AB \"Fjord Bank\"",
     "code": "304493038",
-    "address": "Vilnius, Rinktinės g. 5, LT-09234"
+    "address": "Vilnius, Rinktinės g. 5, LT-09234",
+    "vatcode": "LT100012244316"
   },
   {
     "name": "Danske Bank A/S Lietuvos filialas",
@@ -17,7 +18,8 @@
   {
     "name": "European Merchant Bank UAB",
     "code": "304559043",
-    "address": "Vilnius, Gedimino pr. 35, LT-01109"
+    "address": "Vilnius, Gedimino pr. 35, LT-01109",
+    "vatcode": "LT100012158713"
   },
   {
     "name": "Finora Bank UAB",
@@ -41,6 +43,11 @@
     "address": "Vilnius, Konstitucijos pr. 21A, LT-08105"
   },
   {
+    "name": "MB Bank",
+    "code": "307600591",
+    "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Draugų g. 16, LT-14180"
+  },
+  {
     "name": "MB City car bank",
     "code": "307158059",
     "address": "Vilnius, Veiverių g. 9B-1, LT-11346"
@@ -58,7 +65,8 @@
   {
     "name": "PayRay Bank, UAB",
     "code": "304862948",
-    "address": "Vilnius, Lvivo g. 25-702, LT-09320"
+    "address": "Vilnius, A. Domaševičiaus g. 9, LT-01400",
+    "vatcode": "LT100011731512"
   },
   {
     "name": "Revolut Bank UAB",
@@ -69,7 +77,8 @@
   {
     "name": "Saldo Bank UAB",
     "code": "305334925",
-    "address": "Vilnius, Žalgirio g. 94-1, LT-09300"
+    "address": "Vilnius, Žalgirio g. 94-1, LT-09300",
+    "vatcode": "LT100013731816"
   },
   {
     "name": "TF Bank Lietuvos filialas",
@@ -79,7 +88,8 @@
   {
     "name": "Taste bank MB",
     "code": "307572505",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019628610"
   },
   {
     "name": "UAB \"Anglo Baltic Bank\"",
@@ -94,7 +104,8 @@
   {
     "name": "UAB \"Data Bank Group\"",
     "code": "302594572",
-    "address": "Kaunas, Savanorių pr. 194, LT-44151"
+    "address": "Kaunas, Savanorių pr. 194, LT-44151",
+    "vatcode": "LT100005928119"
   },
   {
     "name": "UAB \"E-Money Bank\"",
@@ -124,7 +135,8 @@
   {
     "name": "UAB SME Bank",
     "code": "305223469",
-    "address": "Vilnius, Antano Tumėno g. 4-15, LT-01109"
+    "address": "Vilnius, Antano Tumėno g. 4-15, LT-01109",
+    "vatcode": "LT100013636518"
   },
   {
     "name": "UAB Soil carbon bank",
@@ -144,7 +156,8 @@
   {
     "name": "UAB \"Bankai.lt\"",
     "code": "303913350",
-    "address": "Kaunas, Pašilės g. 26-43, LT-51357"
+    "address": "Kaunas, Pašilės g. 26-43, LT-51357",
+    "vatcode": "LT100014058516"
   },
   {
     "name": "AB \"Mano bankas\"",
@@ -159,12 +172,14 @@
   {
     "name": "AB Artea bankas",
     "code": "112025254",
-    "address": "Šiauliai, Tilžės g. 149, LT-76348"
+    "address": "Šiauliai, Tilžės g. 149, LT-76348",
+    "vatcode": "LT120252515"
   },
   {
     "name": "AB SEB bankas",
     "code": "112021238",
-    "address": "Vilnius, Konstitucijos pr. 24, LT-08131"
+    "address": "Vilnius, Konstitucijos pr. 24, LT-08131",
+    "vatcode": "LT120212314"
   },
   {
     "name": "Akcinė bendrovė bankas SNORAS",
@@ -186,7 +201,8 @@
   {
     "name": "Labdaros ir paramos fondas \"Maisto bankas\"",
     "code": "192015172",
-    "address": "Vilnius, A. Jakšto g. 9, LT-01105"
+    "address": "Vilnius, A. Jakšto g. 9, LT-01105",
+    "vatcode": "LT100017922014"
   },
   {
     "name": "Lietuvos bankas",
@@ -208,7 +224,8 @@
   {
     "name": "MB \"Miltų bankas\"",
     "code": "305810993",
-    "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Lietaus g. 4, LT-37175"
+    "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Lietaus g. 4, LT-37175",
+    "vatcode": "LT100018755215"
   },
   {
     "name": "MB \"Renginių bankas LT\"",
@@ -223,37 +240,44 @@
   {
     "name": "MB Skaitmeninio turto bankas",
     "code": "305742663",
-    "address": "Anykščiai, J. Biliūno g. 70, LT-29110"
+    "address": "Anykščiai, J. Biliūno g. 70, LT-29110",
+    "vatcode": "LT100014012215"
   },
   {
     "name": "MB Varžtų bankas",
     "code": "305268845",
-    "address": "Biržai, Malūno g. 8-1B, LT-41168"
+    "address": "Biržai, Malūno g. 8-1B, LT-41168",
+    "vatcode": "LT100012679112"
   },
   {
     "name": "MB Žinių bankas",
     "code": "306116623",
-    "address": "Trakų r. sav., Trakų sen., Užugirio k., Užugirio g. 5, LT-21100"
+    "address": "Trakų r. sav., Trakų sen., Užugirio k., Užugirio g. 5, LT-21100",
+    "vatcode": "LT100016725616"
   },
   {
     "name": "Malkų bankas UAB",
     "code": "306304931",
-    "address": "Tauragės r. sav., Tauragės sen., Butkelių k., Senvagės g. 6, LT-72149"
+    "address": "Tauragės r. sav., Tauragės sen., Butkelių k., Senvagės g. 6, LT-72149",
+    "vatcode": "LT100015933816"
   },
   {
     "name": "RATO bankas, UAB",
     "code": "112043124",
-    "address": "Vilnius, J. Jasinskio g. 14A-105, LT-01112"
+    "address": "Vilnius, J. Jasinskio g. 14A-105, LT-01112",
+    "vatcode": "LT100018036315"
   },
   {
     "name": "UAB \"Ateities bankas\"",
     "code": "304245128",
-    "address": "Vilnius, Ukmergės g. 206-8, LT-07167"
+    "address": "Vilnius, Ukmergės g. 206-8, LT-07167",
+    "vatcode": "LT100010208415"
   },
   {
     "name": "UAB \"Atostogų bankas\"",
     "code": "304065393",
-    "address": "Alytus, Naujoji g. 100-41, LT-62391"
+    "address": "Alytus, Naujoji g. 100-41, LT-62391",
+    "vatcode": "LT100010012819"
   },
   {
     "name": "UAB \"Bankroto bankas\"",
@@ -268,17 +292,20 @@
   {
     "name": "UAB \"Kavos bankas\"",
     "code": "133259997",
-    "address": "Kaunas, Energetikų g. 10, LT-52461"
+    "address": "Kaunas, Energetikų g. 10, LT-52461",
+    "vatcode": "LT332599917"
   },
   {
     "name": "UAB \"Kranų bankas\"",
     "code": "300917774",
-    "address": "Klaipėda, Laukininkų g. 32-3, LT-95149"
+    "address": "Klaipėda, Laukininkų g. 32-3, LT-95149",
+    "vatcode": "LT100003325115"
   },
   {
     "name": "UAB \"Langų bankas\"",
     "code": "304263126",
-    "address": "Vilnius, Vincento Gorskio g. 33, LT-14193"
+    "address": "Vilnius, Vincento Gorskio g. 33, LT-14193",
+    "vatcode": "LT100011113910"
   },
   {
     "name": "UAB \"Miško bankas\"",
@@ -299,12 +326,14 @@
   {
     "name": "UAB \"Popieriaus bankas\"",
     "code": "300155555",
-    "address": "Vilnius, Liepsnos g. 4, LT-03154"
+    "address": "Vilnius, Liepsnos g. 4, LT-03154",
+    "vatcode": "LT100002003412"
   },
   {
     "name": "UAB \"Reklamos idėjų bankas\"",
     "code": "300070731",
-    "address": "Mažeikiai, Stoties g. 8-17, LT-89226"
+    "address": "Mažeikiai, Stoties g. 8-17, LT-89226",
+    "vatcode": "LT100001333613"
   },
   {
     "name": "UAB \"Skolų bankas\"",
@@ -345,7 +374,8 @@
   {
     "name": "UAB GF bankas",
     "code": "300515252",
-    "address": "Vilnius, Ukmergės g. 322-1, LT-12106"
+    "address": "Vilnius, Ukmergės g. 322-1, LT-12106",
+    "vatcode": "LT100002072314"
   },
   {
     "name": "UAB Nacionalinis aukso bankas",
@@ -375,7 +405,8 @@
   {
     "name": "Uždaroji akcinė bendrovė Urbo bankas",
     "code": "112027077",
-    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
+    "vatcode": "LT120270716"
   },
   {
     "name": "VERSLO BANKAS, UAB",
@@ -385,7 +416,8 @@
   {
     "name": "Valstybės įmonė Turto bankas",
     "code": "112021042",
-    "address": "Vilnius, Kęstučio g. 45, LT-08124"
+    "address": "Vilnius, Kęstučio g. 45, LT-08124",
+    "vatcode": "LT120210411"
   },
   {
     "name": "Viešoji įstaiga \"Nacionalinis idėjų ir inovacijų bankas\"",
@@ -413,6 +445,22 @@
     "address": "Panevėžys, Parko g. 37-202, LT-37322"
   },
   {
+    "name": "Raimondos Bankauskienės įmonė",
+    "code": "134919164",
+    "address": "Kaunas, Bivylių g. 90, LT-47266"
+  },
+  {
+    "name": "A. BANKAUSKO VETERINARINĖ ĮMONĖ",
+    "code": "168585390",
+    "address": "Anykščių r. sav., Anykščių sen., Naujųjų Elmininkų k., Gojaus g. 15, LT-29153"
+  },
+  {
+    "name": "Auridijaus Bankausko individuali įmonė",
+    "code": "245649970",
+    "address": "Šiauliai, Joniškėlio g. 6, LT-76250",
+    "vatcode": "LT456499716"
+  },
+  {
     "name": "Kredito unija Zanavykų bankelis",
     "code": "112044379",
     "address": "Šakiai, Bažnyčios g. 11-12, LT-71122",
@@ -431,17 +479,20 @@
   {
     "name": "UAB \"Bankera\"",
     "code": "304553371",
-    "address": "Vilnius, Gedimino pr. 5-3, LT-01103"
+    "address": "Vilnius, Gedimino pr. 5-3, LT-01103",
+    "vatcode": "LT100012138416"
   },
   {
     "name": "Bankery Consulting UAB",
     "code": "307023307",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100019704811"
   },
   {
     "name": "MB \"Banketai visiems\"",
     "code": "303313964",
-    "address": "Klaipėda, Debreceno g. 11-52, LT-94173"
+    "address": "Klaipėda, Debreceno g. 11-52, LT-94173",
+    "vatcode": "LT100017805714"
   },
   {
     "name": "UAB \"THE BANKIFY\"",
@@ -456,12 +507,14 @@
   {
     "name": "UAB \"Banking cluster LT\"",
     "code": "302634586",
-    "address": "Vilnius, A. Mickevičiaus g. 7-1, LT-08119"
+    "address": "Vilnius, A. Mickevičiaus g. 7-1, LT-08119",
+    "vatcode": "LT100007139714"
   },
   {
     "name": "UAB \"Hortus Investment Banking\"",
     "code": "300533510",
-    "address": "Klaipėda, Liepų g. 5, LT-92138"
+    "address": "Klaipėda, Liepų g. 5, LT-92138",
+    "vatcode": "LT100002226010"
   },
   {
     "name": "UAB \"Open Banking LT\"",
@@ -482,7 +535,8 @@
   {
     "name": "UAB \"BankingLab Operations\"",
     "code": "304757961",
-    "address": "Vilnius, Rinktinės g. 5, LT-09234"
+    "address": "Vilnius, Rinktinės g. 5, LT-09234",
+    "vatcode": "LT100011438813"
   },
   {
     "name": "UAB \"BankingLab Processing\"",
@@ -493,7 +547,8 @@
   {
     "name": "UAB \"BankingLab\"",
     "code": "302776646",
-    "address": "Vilnius, Rinktinės g. 5, LT-09234"
+    "address": "Vilnius, Rinktinės g. 5, LT-09234",
+    "vatcode": "LT100006846015"
   },
   {
     "name": "Asociacija \"Už sąžiningą bankininkystę\"",
@@ -503,7 +558,8 @@
   {
     "name": "UAB \"Penkių kontinentų bankinės technologijos\"",
     "code": "125592767",
-    "address": "Vilnius, Kareivių g. 2, LT-08248"
+    "address": "Vilnius, Kareivių g. 2, LT-08248",
+    "vatcode": "LT255927610"
   },
   {
     "name": "MB \"Bankiras\"",
@@ -541,19 +597,9 @@
     "address": "Šiauliai, Vilniaus g. 193, LT-76348"
   },
   {
-    "name": "AB Lietuvos žemės ūkio banko Radviliškio skyriaus darbuotojų profesinė sąjunga",
-    "code": "171645470",
-    "address": "Radviliškis, Dariaus ir Girėno g. 30, LT-82138"
-  },
-  {
     "name": "AB SEB banko darbuotojų profesinė sąjunga",
     "code": "305473394",
     "address": "Vilnius, Konstitucijos pr. 24, LT-08131"
-  },
-  {
-    "name": "AB Taupomojo banko Kėdainių skyriaus darbuotojų profesinė sąjunga",
-    "code": "161615151",
-    "address": "Kėdainiai, Didžioji g. 28, LT-57255"
   },
   {
     "name": "Lietuvos banko tarnautojų profesinė sąjunga",
@@ -578,13 +624,19 @@
   {
     "name": "UAB Bankokas",
     "code": "307254470",
-    "address": "Plungė, Laisvės g. 2B, LT-90163"
+    "address": "Plungė, Laisvės g. 2B, LT-90163",
+    "vatcode": "LT100018738619"
   },
   {
     "name": "UAB \"Bankoptica\"",
     "code": "302861324",
     "address": "Vilnius, Vytenio g. 22-301, LT-03207",
     "vatcode": "LT100007147912"
+  },
+  {
+    "name": "J. Bankovskio individuali įmonė",
+    "code": "278997870",
+    "address": "Švenčionių r. sav., Švenčionėlių sen., Vilkaslasčio k."
   },
   {
     "name": "UAB \"Bankrolita\"",
@@ -691,7 +743,8 @@
   {
     "name": "UAB \"Bankroto Valdymas\"",
     "code": "302432894",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100005066810"
   },
   {
     "name": "UAB \"Bankroto administratorių kompanija\"",
@@ -751,7 +804,8 @@
   {
     "name": "UAB \"Verslo ir bankroto konsultantai\"",
     "code": "135447357",
-    "address": "Kaunas, A. Juozapavičiaus pr. 21, LT-45256"
+    "address": "Kaunas, A. Juozapavičiaus pr. 21, LT-45256",
+    "vatcode": "LT354473515"
   },
   {
     "name": "UAB Skolų išieškojimo inspekcija prie Skolų ir bankroto departamento",
@@ -772,12 +826,14 @@
   {
     "name": "Uždaroji akcinė bendrovė \"BANKROTO ADMINISTRAVIMO PASLAUGOS\"",
     "code": "125026819",
-    "address": "Vilnius, Antakalnio g. 42-40, LT-10304"
+    "address": "Vilnius, Antakalnio g. 42-40, LT-10304",
+    "vatcode": "LT250268113"
   },
   {
     "name": "Uždaroji akcinė bendrovė Bankroto administratorių biuras",
     "code": "135093022",
-    "address": "Vilnius, Krivių g. 5, LT-01204"
+    "address": "Vilnius, Krivių g. 5, LT-01204",
+    "vatcode": "LT350930219"
   },
   {
     "name": "UAB \"Bankrotė\"",
@@ -797,7 +853,8 @@
   {
     "name": "UAB \"Vakarų Lietuvos bankrotų biuras\"",
     "code": "302497155",
-    "address": "Klaipėda, Minijos g. 129-1, LT-93212"
+    "address": "Klaipėda, Minijos g. 129-1, LT-93212",
+    "vatcode": "LT100007509713"
   },
   {
     "name": "UAB Bankrotų tyrimų centras",
@@ -838,7 +895,8 @@
   {
     "name": "Bendra Lietuvos-Vokietijos įmonė uždaroji akcinė bendrovė \"BANKSERVIS\"",
     "code": "110522147",
-    "address": "Vilnius, Ulonų g. 5, LT-08240"
+    "address": "Vilnius, Ulonų g. 5, LT-08240",
+    "vatcode": "LT105221410"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"BANKTEKA\"",
@@ -854,6 +912,7 @@
   {
     "name": "Lietuvos bankų asociacija",
     "code": "121900744",
-    "address": "Vilnius, Gedimino pr. 20, LT-01103"
+    "address": "Vilnius, Gedimino pr. 20, LT-01103",
+    "vatcode": "LT100005490617"
   }
 ]

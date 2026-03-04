@@ -1,5 +1,9 @@
 [
   {
+    "name": "Asociacija \"Mes šeima\"",
+    "code": "302981074"
+  },
+  {
     "name": "Asociacija \"Šeima ir biblija\"",
     "code": "303654353",
     "address": "Visaginas, Jaunystės g. 11-28, LT-31232"
@@ -67,7 +71,8 @@
   {
     "name": "MB Sumani šeima",
     "code": "305644055",
-    "address": "Kaunas, Mažoji g. 5-22, LT-45308"
+    "address": "Kaunas, Mažoji g. 5-22, LT-45308",
+    "vatcode": "LT100014150817"
   },
   {
     "name": "UAB \"STANISLOVAS IR ŠEIMA\"",
@@ -82,7 +87,8 @@
   {
     "name": "UAB \"Užupio šeima\"",
     "code": "302542796",
-    "address": "Vilnius, Mindaugo g. 23B, LT-03214"
+    "address": "Vilnius, Mindaugo g. 23B, LT-03214",
+    "vatcode": "LT100005698514"
   },
   {
     "name": "UAB \"Versli šeima\"",
@@ -163,6 +169,11 @@
     "name": "Didžiasalio vaikų globos ir socialinės paramos šeimai centras",
     "code": "155626061",
     "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Pupienos g. 4, LT-30153"
+  },
+  {
+    "name": "G. Simučio klinika \"PROFILAKTINĖ STOMATOLOGIJA ŠEIMAI\"",
+    "code": "124074992",
+    "address": "Vilnius, Neužmirštuolių g. 8-1, LT-04123"
   },
   {
     "name": "Joniškio paramos šeimai centras",
@@ -290,12 +301,14 @@
   {
     "name": "UAB \"Urmas šeimai\"",
     "code": "304108268",
-    "address": "Šiauliai, Draugystės tak. 30, LT-77150"
+    "address": "Šiauliai, Draugystės tak. 30, LT-77150",
+    "vatcode": "LT100009735110"
   },
   {
     "name": "Vaikui ir šeimai, UAB",
     "code": "305793686",
-    "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Mėtų g. 13, LT-14166"
+    "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Mėtų g. 13, LT-14166",
+    "vatcode": "LT100014594019"
   },
   {
     "name": "Viešoji įstaiga \"Pagalbos ir informacijos šeimai tarnyba\"",
@@ -345,12 +358,14 @@
   {
     "name": "UAB Šeimininkėlė",
     "code": "307049693",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
+    "vatcode": "LT100017657411"
   },
   {
     "name": "Lietuvos ir Švedijos uždaroji akcinė bendrovė \"PAGALBA ŠEIMININKĖMS\"",
     "code": "110653926",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Kalotės k., Volungių g. 1, LT-92284"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Kalotės k., Volungių g. 1, LT-92284",
+    "vatcode": "LT106539219"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"12 ŠEIMININKŲ\"",
@@ -504,9 +519,59 @@
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Bažnyčios g. 1, LT-54349"
   },
   {
+    "name": "Individuali įmonė \"Šeimos turtas\"",
+    "code": "300112080",
+    "address": "Klaipėda, Kuncų g. 2-51, LT-95248"
+  },
+  {
+    "name": "IĮ \"Gydažolės\" šeimos gydytojų centras",
+    "code": "148416155",
+    "address": "Panevėžys, Žemaičių g. 14-85, LT-36128"
+  },
+  {
     "name": "IĮ \"Pagėgių šeimos centras\"",
     "code": "178058059",
     "address": "Pagėgiai, Žemaičių g. 30, LT-99289"
+  },
+  {
+    "name": "IĮ \"Plungės šeimos klinika\"",
+    "code": "169981154",
+    "address": "Plungė, Dariaus ir Girėno g. 46, LT-90169"
+  },
+  {
+    "name": "IĮ \"ŠEIMOS JANKUN TRADICIJA\"",
+    "code": "305586303",
+    "address": "Širvintų r. sav., Jauniūnų sen., Žibėnų k. 14, LT-19155"
+  },
+  {
+    "name": "IĮ \"Šeimos grožis\"",
+    "code": "304823265",
+    "address": "Raseiniai, Vaižganto g. 25-34, LT-60133"
+  },
+  {
+    "name": "IĮ \"Šeimos taksi\"",
+    "code": "302660360",
+    "address": "Plungės r. sav., Nausodžio sen., Prūsalių k., Orės g. 42, LT-90101"
+  },
+  {
+    "name": "IĮ J. Jankauskienės šeimos gydytojų centras",
+    "code": "145565489",
+    "address": "Šiauliai, Aušros al. 59, LT-76303"
+  },
+  {
+    "name": "IĮ Jūsų šeimos klinika",
+    "code": "235033040",
+    "address": "Kaunas, Baltų pr. 55, LT-48232"
+  },
+  {
+    "name": "IĮ Savanorių a. šeimos ambulatorija",
+    "code": "148438956",
+    "address": "Panevėžys, Savanorių a. 1A-3, LT-35201"
+  },
+  {
+    "name": "IĮ Stanaičių šeimos klinika",
+    "code": "304635886",
+    "address": "Vilnius, Ūmėdžių g. 90-1, LT-02303"
   },
   {
     "name": "Išlaužo seniūnijos kaimų bendruomenės Šeimos dienos centras",
@@ -532,6 +597,10 @@
     "name": "Kaišiadorių vyskupijos šeimos centras",
     "code": "192068876",
     "address": "Kaišiadorys, Birutės g. 9, LT-56124"
+  },
+  {
+    "name": "Kauno apskrities šeimos dvasinio ugdymo centras \"Šeimyna\"",
+    "code": "193416969"
   },
   {
     "name": "Kauno arkivyskupijos šeimos centras",
@@ -646,7 +715,8 @@
   {
     "name": "MB \"Šeimos finansai\"",
     "code": "306287147",
-    "address": "Mažeikiai, Gamyklos g. 44, LT-89104"
+    "address": "Mažeikiai, Gamyklos g. 44, LT-89104",
+    "vatcode": "LT100016766714"
   },
   {
     "name": "MB \"Šeimos fondai\"",
@@ -656,12 +726,18 @@
   {
     "name": "MB \"Šeimos gidas\"",
     "code": "304173091",
-    "address": "Vilnius, Vokiečių g. 3-10A, LT-01130"
+    "address": "Vilnius, Vokiečių g. 3-10A, LT-01130",
+    "vatcode": "LT100013648219"
   },
   {
     "name": "MB \"Šeimos gydytojo konsultacija\"",
     "code": "307556561",
     "address": "Klaipėda, Girulių pl. 17A-3, LT-92282"
+  },
+  {
+    "name": "MB \"Šeimos idilė\"",
+    "code": "307592073",
+    "address": "Vilnius, Austėjos g. 61, LT-08400"
   },
   {
     "name": "MB \"Šeimos investicijos\"",
@@ -702,7 +778,8 @@
   {
     "name": "MB \"Šeimos parduotuvė\"",
     "code": "306100829",
-    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Žvejų g. 33, LT-53337"
+    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Žvejų g. 33, LT-53337",
+    "vatcode": "LT100015071418"
   },
   {
     "name": "MB \"Šeimos psichologas\"",
@@ -712,7 +789,8 @@
   {
     "name": "MB \"Šeimos restoranas\"",
     "code": "306234504",
-    "address": "Klaipėda, Mogiliovo g. 5-20, LT-95249"
+    "address": "Klaipėda, Mogiliovo g. 5-20, LT-95249",
+    "vatcode": "LT100015712911"
   },
   {
     "name": "MB \"Šeimos spinta\"",
@@ -753,7 +831,8 @@
   {
     "name": "MB Šeimos desertinė",
     "code": "305208734",
-    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Pievų g. 1, LT-53333"
+    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Pievų g. 1, LT-53333",
+    "vatcode": "LT100012925314"
   },
   {
     "name": "MB Šeimos dirbtuvė",
@@ -781,6 +860,12 @@
     "address": "Vilnius, Duburio g. 9-25, LT-13105"
   },
   {
+    "name": "MB Šeimos istorija",
+    "code": "307589166",
+    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Pienių g. 40-1, LT-54348",
+    "vatcode": "LT100019709812"
+  },
+  {
     "name": "MB Šeimos išparduotuvė",
     "code": "305900088",
     "address": "Kretinga, J. Pabrėžos g. 85H-19, LT-97128"
@@ -788,7 +873,8 @@
   {
     "name": "MB Šeimos laisvalaikio namai",
     "code": "306229101",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Karkazų k., Ateities g. 7-1, LT-53296"
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Karkazų k., Ateities g. 7-1, LT-53296",
+    "vatcode": "LT100018164216"
   },
   {
     "name": "MB Šeimos lizdas",
@@ -848,6 +934,11 @@
     "name": "Natūralaus šeimos planavimo asociacija",
     "code": "304196453",
     "address": "Vilnius, Aguonų g. 7-17, LT-03213"
+  },
+  {
+    "name": "Onos Gurevičienės šeimos klinika",
+    "code": "151456462",
+    "address": "Marijampolė, Gedimino g. 17, LT-68307"
   },
   {
     "name": "Pabradės Švč. Mergelės Marijos, Šeimos Karalienės, parapija",
@@ -920,6 +1011,10 @@
     "address": "Telšiai, Katedros a. 6, LT-87131"
   },
   {
+    "name": "UAB \"Alytaus šeimos medicinos klinika\"",
+    "code": "302516965"
+  },
+  {
     "name": "UAB \"Birutės šeimos medicinos praktika\"",
     "code": "142143550",
     "address": "Klaipėda, Jūrininkų pr. 10-92, LT-95235"
@@ -959,6 +1054,10 @@
     "address": "Rietavas, Paupio g. 1A, LT-90313"
   },
   {
+    "name": "UAB \"Trinapolio šeimos klinika\"",
+    "code": "306021342"
+  },
+  {
     "name": "UAB \"Užvenčio šeimos sveikatos centras\"",
     "code": "162772312",
     "address": "Kelmės r. sav., Užventis, Vilties g. 2, LT-86346"
@@ -966,7 +1065,8 @@
   {
     "name": "UAB \"Vlado šeimos mėsinė\"",
     "code": "303296034",
-    "address": "Kaunas, Baltų pr. 139-15, LT-48201"
+    "address": "Kaunas, Baltų pr. 139-15, LT-48201",
+    "vatcode": "LT100008936610"
   },
   {
     "name": "UAB \"Šeimos alėjos darželis\"",
@@ -988,7 +1088,8 @@
   {
     "name": "UAB \"Šeimos kampelis\"",
     "code": "303174607",
-    "address": "Vilnius, Rūdninkų g. 18, LT-01135"
+    "address": "Vilnius, Rūdninkų g. 18, LT-01135",
+    "vatcode": "LT100010177517"
   },
   {
     "name": "UAB \"Šeimos klinikos diagnostikos centras\"",
@@ -998,12 +1099,14 @@
   {
     "name": "UAB \"Šeimos krautuvėlė\"",
     "code": "303004722",
-    "address": "Rietavo sav., Rietavo sen., Pelaičių k., Bangos g. 49, LT-90304"
+    "address": "Rietavo sav., Rietavo sen., Pelaičių k., Bangos g. 49, LT-90304",
+    "vatcode": "LT100014158215"
   },
   {
     "name": "UAB \"Šeimos valgykla\"",
     "code": "300108274",
-    "address": "Kaunas, J. Grušo g. 4-12, LT-48263"
+    "address": "Kaunas, J. Grušo g. 4-12, LT-48263",
+    "vatcode": "LT100002090413"
   },
   {
     "name": "UAB \"Šeimos veterinarijos centras\"",
@@ -1014,7 +1117,8 @@
   {
     "name": "UAB \"Šeimos šaknis\"",
     "code": "303306927",
-    "address": "Akmenės r. sav., Papilės sen., Pelkelės k., Pavasario g. 28A, LT-85231"
+    "address": "Akmenės r. sav., Papilės sen., Pelkelės k., Pavasario g. 28A, LT-85231",
+    "vatcode": "LT100008575414"
   },
   {
     "name": "UAB BALTUPIŲ ŠEIMOS MEDICINOS CENTRAS",
@@ -1074,7 +1178,8 @@
   {
     "name": "UAB Paliatyvios pagalbos ir šeimos sveikatos centras",
     "code": "302646859",
-    "address": "Klaipėda, Jūros g. 4, LT-92118"
+    "address": "Klaipėda, Jūros g. 4, LT-92118",
+    "vatcode": "LT100019638315"
   },
   {
     "name": "UAB Panemunės šeimos sveikatos centras",
@@ -1169,7 +1274,8 @@
   {
     "name": "UAB ŠEIMOS MĖSINĖ",
     "code": "302818465",
-    "address": "Panevėžys, Statybininkų g. 20-3, LT-37352"
+    "address": "Panevėžys, Statybininkų g. 20-3, LT-37352",
+    "vatcode": "LT100007109213"
   },
   {
     "name": "UAB ŠEIMOS TEISĖS CENTRAS",
@@ -1179,12 +1285,14 @@
   {
     "name": "UAB Šeimos Suši",
     "code": "307437621",
-    "address": "Šalčininkai, Vilniaus g. 56, LT-17116"
+    "address": "Šalčininkai, Vilniaus g. 56, LT-17116",
+    "vatcode": "LT100019032419"
   },
   {
     "name": "UAB Šeimos alėja",
     "code": "305713156",
-    "address": "Klaipėdos rajono savivaldybės teritorija"
+    "address": "Klaipėdos rajono savivaldybės teritorija",
+    "vatcode": "LT100015722212"
   },
   {
     "name": "UAB Šeimos biuras",
@@ -1239,7 +1347,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"MANO ŠEIMOS GYDYTOJAS\"",
     "code": "141891594",
-    "address": "Klaipėda, Naujoji Uosto g. 20-3, LT-92122"
+    "address": "Klaipėda, Naujoji Uosto g. 20-3, LT-92122",
+    "vatcode": "LT100017936317"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Mūsų Šeimos Klinika\"",
@@ -1275,7 +1384,8 @@
   {
     "name": "Uždaroji akcinė bendrovė KNIAUDIŠKIŲ ŠEIMOS KLINIKA",
     "code": "148231352",
-    "address": "Panevėžys, Klaipėdos g. 103-5, LT-37311"
+    "address": "Panevėžys, Klaipėdos g. 103-5, LT-37311",
+    "vatcode": "LT482313515"
   },
   {
     "name": "Uždaroji akcinė bendrovė Kaišiadorių šeimos medicinos centras",
@@ -1298,9 +1408,23 @@
     "address": "Panevėžys, Alyvų g. 1, LT-37466"
   },
   {
+    "name": "V. Prielgausko šeimos gydytojo kabinetas, IĮ",
+    "code": "300124435",
+    "address": "Gargždai, J. Janonio g. 8A, LT-96125"
+  },
+  {
+    "name": "VIEŠOJI ĮSTAIGA GINEKOLOGIJOS IR ŠEIMOS GYDYTOJO KABINETAS",
+    "code": "125879354"
+  },
+  {
     "name": "VIEŠOJI ĮSTAIGA JONUČIŲ ŠEIMOS SVEIKATOS CENTRAS",
     "code": "160200711",
     "address": "Kauno r. sav., Garliava, Liepų g. 11, LT-53239"
+  },
+  {
+    "name": "VIEŠOJI ĮSTAIGA KAUNO JONO PAULIAUS II ŠEIMOS SODAS",
+    "code": "307596933",
+    "address": "Kaunas, Šv. Jono Pauliaus II a. 1, LT-48199"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA ŠEIMOS CENTRAS \"Kartu saldu\"",
@@ -1335,7 +1459,8 @@
   {
     "name": "Viešoji įstaiga \"Vilnelės šeimos klinika\"",
     "code": "306348251",
-    "address": "Vilnius, Aukštaičių g. 2, LT-11341"
+    "address": "Vilnius, Aukštaičių g. 2, LT-11341",
+    "vatcode": "LT100016538015"
   },
   {
     "name": "Viešoji įstaiga \"Vilniaus šeimos psichologijos centras\"",
@@ -1360,7 +1485,8 @@
   {
     "name": "Viešoji įstaiga \"Šeimos menas\"",
     "code": "302282576",
-    "address": "Vilnius, Sodų g. 4-12, LT-01313"
+    "address": "Vilnius, Sodų g. 4-12, LT-01313",
+    "vatcode": "LT100018544015"
   },
   {
     "name": "Viešoji įstaiga \"Šeimos namai\"",
@@ -1390,12 +1516,13 @@
   {
     "name": "Viešoji įstaiga Mano šeimos akademija",
     "code": "301555716",
-    "address": "Vilnius, M. Mironaitės g. 12-58, LT-04228"
+    "address": "Vilnius, M. Mironaitės g. 12-58, LT-04228",
+    "vatcode": "LT100018409010"
   },
   {
     "name": "Viešoji įstaiga Pal. J. Matulaičio šeimos pagalbos centras",
     "code": "126366917",
-    "address": "Vilnius, Šeškinės g. 65-74"
+    "address": "Vilnius, Šeškinės g. 65, LT-07163"
   },
   {
     "name": "Viešoji įstaiga Paparčių šv. Juozapo šeimos namai",
@@ -1410,7 +1537,8 @@
   {
     "name": "Viešoji įstaiga Ukmergės šeimos centras",
     "code": "304430479",
-    "address": "Ukmergė, Vytauto g. 105D, LT-20184"
+    "address": "Ukmergė, Vytauto g. 105D, LT-20184",
+    "vatcode": "LT100018831719"
   },
   {
     "name": "Viešoji įstaiga Šeimos gerovės centras",
@@ -1487,6 +1615,11 @@
     "name": "Vyndarių šeimos klubas \"RJR\"",
     "code": "302704508",
     "address": "Kaunas, Vytauto pr. 60-28, LT-44237"
+  },
+  {
+    "name": "Vytauto Šimkaus šeimos medicinos centras",
+    "code": "135755853",
+    "address": "Kaunas, Partizanų g. 110-48, LT-50341"
   },
   {
     "name": "VšĮ \"Darnios šeimos centras\"",
@@ -1591,7 +1724,8 @@
   {
     "name": "ŠEIMOS KREDITO UNIJA",
     "code": "302826202",
-    "address": "Vilnius, Ulonų g. 5-303, LT-08240"
+    "address": "Vilnius, Ulonų g. 5-303, LT-08240",
+    "vatcode": "LT100018118515"
   },
   {
     "name": "ŠVENTOSIOS ŠEIMOS SESERŲ MISIONIERIŲ KONGREGACIJA",
@@ -1700,6 +1834,10 @@
     "address": "Rokiškio r. sav., Juodupės sen., Lukštų k., Lukštų g. 4, LT-42495"
   },
   {
+    "name": "Aldonos ir Stanislovo Sereikų šeimyna",
+    "code": "172770822"
+  },
+  {
     "name": "Aušros ir Alfredo Tijūnaičių šeimyna \"AUŠRA\"",
     "code": "306506089",
     "address": "Šiauliai, Šaukėnų g. 27, LT-77119"
@@ -1760,6 +1898,10 @@
     "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Vorelių k. 4, LT-81101"
   },
   {
+    "name": "Kauno apskrities šeimos dvasinio ugdymo centras \"Šeimyna\"",
+    "code": "193416969"
+  },
+  {
     "name": "Klaipėdos m. gausių šeimų bendrija \"ŠEIMYNA\"",
     "code": "193100049",
     "address": "Klaipėda, Lūžų g. 5-52, LT-95239"
@@ -1788,6 +1930,10 @@
     "name": "Nijolės Navickienės šeimyna",
     "code": "302549940",
     "address": "Pasvalio r. sav., Saločių sen., Raubonių k., Taikos g. 4, LT-39446"
+  },
+  {
+    "name": "Nijolės ir Remigijaus Kučinskų šeimyna",
+    "code": "172771358"
   },
   {
     "name": "Nijolės šeimyna",
@@ -1843,6 +1989,10 @@
     "name": "Uždaroji akcinė bendrovė \"Šeimyna\"",
     "code": "152416531",
     "address": "Vilnius, Šerkšno g. 14, LT-04126"
+  },
+  {
+    "name": "V. ir P. Šarkų šeimyna",
+    "code": "302565802"
   },
   {
     "name": "VILNIAUS MIESTO GAUSIŲ ŠEIMŲ BENDRIJOS \"VILNIAUS ŠEIMYNA\" LABDAROS IR PARAMOS FONDAS \"VILNIAUS ŠEIMYNA\"",
@@ -1995,11 +2145,6 @@
     "address": "Šiauliai, Šatrijos g. 26, LT-76230"
   },
   {
-    "name": "Šeimyna \"Švytinčios akutės\"",
-    "code": "305863729",
-    "address": "Raseinių r. sav., Ariogala, Vytauto g. 29, LT-60265"
-  },
-  {
     "name": "Šv. Teresės šeimyna",
     "code": "302526450",
     "address": "Utenos r. sav., Užpaliai, Pilies g. 1A, LT-28385"
@@ -2032,12 +2177,13 @@
   {
     "name": "Daugiabučio namo Šeimyniškių g. 21c, Vilniuje savininkų bendrija",
     "code": "300531840",
-    "address": "Vilnius, Šeimyniškių g. 21C, LT-09236"
+    "address": "Vilnius, Šeimyniškių g. 21C-R12, LT-09236"
   },
   {
     "name": "UAB Šeimyniškių viešbutis",
     "code": "304630871",
-    "address": "Vilnius, Vilkpėdės g. 22, LT-03151"
+    "address": "Vilnius, Vilkpėdės g. 22, LT-03151",
+    "vatcode": "LT100011139419"
   },
   {
     "name": "Vilniaus miesto administracinės paskirties pastato Šeimyniškių g. 21 savininkų bendrija",
@@ -2158,7 +2304,8 @@
   {
     "name": "LIETUVOS DIDŽIOSIOS KUNIGAIKŠTIENĖS BIRUTĖS KARININKŲ ŠEIMŲ MOTERŲ VILNIAUS DRAUGIJA",
     "code": "293186120",
-    "address": "Vilnius, Pamėnkalnio g. 13, LT-01114"
+    "address": "Vilnius, Pamėnkalnio g. 13, LT-01114",
+    "vatcode": "LT100018935911"
   },
   {
     "name": "Lietuvos didžiosios kunigaikštienės Birutės Alytaus įgulos karininkų šeimų moterų draugija",
@@ -2244,6 +2391,11 @@
     "name": "Pasvalio rajono veiklių šeimų klubas",
     "code": "306246691",
     "address": "Pasvalys, P. Cvirkos g. 18, LT-39127"
+  },
+  {
+    "name": "Pleskačiausko diagnostinė ir gydymo pagalba bevaikių šeimų vyrams",
+    "code": "121607093",
+    "address": "Vilnius, Kęstučio g. 42"
   },
   {
     "name": "Plungės rajono Babrungo seniūnijos šeimų bendruomenė \"Tėviškė\"",

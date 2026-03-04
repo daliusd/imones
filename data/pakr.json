@@ -16,8 +16,7 @@
   },
   {
     "name": "Butų savininkų bendrija \"Pakrantė\"",
-    "code": "160319936",
-    "address": "Kupiškis, Krantinės g. 22, LT-40117"
+    "code": "160319936"
   },
   {
     "name": "DNSB \"Marių pakrantė\"",
@@ -97,7 +96,8 @@
   {
     "name": "UAB \"Linksmoji pakrantė\"",
     "code": "302675896",
-    "address": "Vilnius, Upės g. 21-1, LT-08128"
+    "address": "Vilnius, Upės g. 21-1, LT-08128",
+    "vatcode": "LT100006458518"
   },
   {
     "name": "UAB \"Nemuno pakrantė\"",
@@ -112,7 +112,8 @@
   {
     "name": "UAB \"Vakarų pakrantė\"",
     "code": "304399101",
-    "address": "Vilnius, Vytenio g. 48-316, LT-03229"
+    "address": "Vilnius, Vytenio g. 48-316, LT-03229",
+    "vatcode": "LT100011192415"
   },
   {
     "name": "UAB \"Švari pakrantė\"",
@@ -127,7 +128,12 @@
   {
     "name": "UAB Danės pakrantė",
     "code": "304612713",
-    "address": "Klaipėda, H. Manto g. 11, LT-92130"
+    "address": "Klaipėda, H. Manto g. 11, LT-92130",
+    "vatcode": "LT100014706911"
+  },
+  {
+    "name": "UAB Saulės pakrantė",
+    "code": "305710352"
   },
   {
     "name": "Viešoji įstaiga Muzikos pakrantė",
@@ -167,7 +173,8 @@
   {
     "name": "MB \"Pakrantės prekyba\"",
     "code": "303314048",
-    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Žaibo g. 20-14, LT-13247"
+    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Žaibo g. 20-14, LT-13247",
+    "vatcode": "LT100008624618"
   },
   {
     "name": "Pakrantės apartamentai UAB",
@@ -182,7 +189,8 @@
   {
     "name": "UAB \"Pakrantės būstas\"",
     "code": "302584172",
-    "address": "Vilnius, Konstitucijos pr. 21B, LT-08105"
+    "address": "Vilnius, Konstitucijos pr. 21B, LT-08105",
+    "vatcode": "LT100005851510"
   },
   {
     "name": "UAB \"VAKARŲ PAKRANTĖS AIDAS\"",
@@ -234,12 +242,14 @@
   {
     "name": "MB Beribio miesto pakraštys",
     "code": "307026246",
-    "address": "Klaipėda, Debreceno g. 13-36B, LT-94174"
+    "address": "Klaipėda, Debreceno g. 13-36B, LT-94174",
+    "vatcode": "LT100017754312"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"PAKRAŠTYS\"",
     "code": "121941221",
-    "address": "Vilniaus m. sav., Grigiškių m., Vilniaus g. 4B, LT-27101"
+    "address": "Vilniaus m. sav., Grigiškių m., Vilniaus g. 4B, LT-27101",
+    "vatcode": "LT219412219"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"PAKRAŠČIO 2\"",
@@ -290,7 +300,8 @@
   {
     "name": "MB \"Pakretuona\"",
     "code": "305756517",
-    "address": "Švenčionių r. sav., Švenčionėlių sen., Pakretuonės k. 8B, LT-18203"
+    "address": "Švenčionių r. sav., Švenčionėlių sen., Pakretuonės k. 8B, LT-18203",
+    "vatcode": "LT100014591711"
   },
   {
     "name": "KAIMO BENDRUOMENĖ \"PAKRIAUNA\"",
@@ -305,7 +316,8 @@
   {
     "name": "MB \"Pakrija\"",
     "code": "304324764",
-    "address": "Joniškio r. sav., Gataučių sen., Gataučių k., Ąžuolų g. 7-1, LT-84262"
+    "address": "Joniškio r. sav., Gataučių sen., Gataučių k., Ąžuolų g. 7-1, LT-84262",
+    "vatcode": "LT100011101018"
   },
   {
     "name": "UAB \"Pakrilė\"",
@@ -314,9 +326,18 @@
     "vatcode": "LT100012273612"
   },
   {
+    "name": "UAB \"Pakriūtė\"",
+    "code": "303321637"
+  },
+  {
     "name": "UAB \"Pakro\"",
     "code": "185296096",
     "address": "Vilkaviškis, S. Daukanto g. 6, LT-70124"
+  },
+  {
+    "name": "E. Pakrosnienės įmonė \"Eglora\"",
+    "code": "135242676",
+    "address": "Kaunas, S. Žukausko g. 15-1, LT-49309"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"PAKROSTA\"",
@@ -327,6 +348,10 @@
     "name": "Melioracijos sistemų naudotojų asociacija \"Pakruoja\"",
     "code": "303147923",
     "address": "Pakruojis, Pramonės g. 13, LT-83182"
+  },
+  {
+    "name": "Visuomeninis fondas \"Pakruojis-Mariestadas\"",
+    "code": "193374395"
   },
   {
     "name": "\"Pakruojo rajono bendruomenių sąjunga\"",
@@ -341,12 +366,14 @@
   {
     "name": "Agentūros - visos Lietuvos vaikai Pakruojo labdaros ir paramos fondas",
     "code": "300053290",
-    "address": "Pakruojis, Statybininkų g. 5, LT-83163"
+    "address": "Pakruojis, Statybininkų g. 5, LT-83163",
+    "vatcode": "LT100001817115"
   },
   {
     "name": "Akcinė bendrovė \"Pakruojo arka\"",
     "code": "167917740",
-    "address": "Pakruojis, Statybininkų g. 3, LT-83163"
+    "address": "Pakruojis, Statybininkų g. 3, LT-83163",
+    "vatcode": "LT679177418"
   },
   {
     "name": "Asociacija \"Pakruojo gidai\"",
@@ -521,8 +548,7 @@
   },
   {
     "name": "Pakruojo miesto autogaražų savininkų bendrija \"Girnapusė\"",
-    "code": "168288528",
-    "address": "Pakruojis, Prof. S. Ušinsko g. 33-8, LT-83154"
+    "code": "168288528"
   },
   {
     "name": "Pakruojo miesto autogaražų savininkų bendrija \"Signalas\"",
@@ -562,7 +588,8 @@
   {
     "name": "Pakruojo r. Degėsių žemės ūkio bendrovė",
     "code": "167938916",
-    "address": "Pakruojo r. sav., Guostagalio sen., Degėsių k., Tulpių g. 3, LT-83395"
+    "address": "Pakruojo r. sav., Guostagalio sen., Degėsių k., Tulpių g. 3, LT-83395",
+    "vatcode": "LT679389113"
   },
   {
     "name": "Pakruojo r. Linkuvos gimnazija",
@@ -585,6 +612,10 @@
     "address": "Pakruojo r. sav., Rozalimas, Upės g. 4, LT-83248"
   },
   {
+    "name": "Pakruojo r. Stačiūnų pagrindinė mokykla",
+    "code": "290066030"
+  },
+  {
     "name": "Pakruojo r. Žeimelio pagrindinė mokykla",
     "code": "190067284",
     "address": "Pakruojo r. sav., Žeimelis, Vytauto Didžiojo g. 8, LT-83376"
@@ -592,12 +623,14 @@
   {
     "name": "Pakruojo r. Žvirblonių žemės ūkio bendrovė",
     "code": "167928384",
-    "address": "Pakruojo r. sav., Rozalimo sen., Žvirblonių k., Simaniškių g. 19, LT-83234"
+    "address": "Pakruojo r. sav., Rozalimo sen., Žvirblonių k., Simaniškių g. 19, LT-83234",
+    "vatcode": "LT679283811"
   },
   {
     "name": "Pakruojo rajono \"Žalgirio\" žemės ūkio bendrovė",
     "code": "167994982",
-    "address": "Pakruojo r. sav., Rozalimo sen., Medikonių k."
+    "address": "Pakruojo r. sav., Rozalimo sen., Medikonių k.",
+    "vatcode": "LT679949811"
   },
   {
     "name": "Pakruojo rajono Balsių pagrindinė mokykla",
@@ -607,17 +640,20 @@
   {
     "name": "Pakruojo rajono Gačionių žemės ūkio bendrovė",
     "code": "167938688",
-    "address": "Pakruojo r. sav., Klovainių sen., Gačionių k."
+    "address": "Pakruojo r. sav., Klovainių sen., Gačionių k.",
+    "vatcode": "LT679386811"
   },
   {
     "name": "Pakruojo rajono Guostagalio žemės ūkio bendrovė",
     "code": "167939637",
-    "address": "Pakruojo r. sav., Guostagalio sen., Guostagalio k., Malūno g. 7, LT-83401"
+    "address": "Pakruojo r. sav., Guostagalio sen., Guostagalio k., Malūno g. 7, LT-83401",
+    "vatcode": "LT679396314"
   },
   {
     "name": "Pakruojo rajono Linkuvos žemės ūkio bendrovė",
     "code": "267935230",
-    "address": "Pakruojo r. sav., Linkuvos sen., Plento k., Topolių g. 10, LT-83426"
+    "address": "Pakruojo r. sav., Linkuvos sen., Plento k., Topolių g. 10, LT-83426",
+    "vatcode": "LT679352314"
   },
   {
     "name": "Pakruojo rajono Stačiūnų daugiafunkcis centras",
@@ -643,11 +679,6 @@
     "name": "Pakruojo rajono neįgaliųjų draugija",
     "code": "193161657",
     "address": "Pakruojis, Kruojos g. 2, LT-83128"
-  },
-  {
-    "name": "Pakruojo rajono pašto darbuotojų profesinė sąjunga",
-    "code": "168091947",
-    "address": "Pakruojis, Vienybės a. 2A, LT-83154"
   },
   {
     "name": "Pakruojo rajono savivaldybės Juozo Paukštelio viešoji biblioteka",
@@ -720,11 +751,6 @@
     "address": "Pakruojis, Pramonės g. 2B, LT-83163"
   },
   {
-    "name": "Pakruojo rajono telekomunikacijų darbuotojų profesinė sąjunga",
-    "code": "168057158",
-    "address": "Pakruojis, Vytauto Didžiojo g. 47, LT-83158"
-  },
-  {
     "name": "Pakruojo rajono verslininkų ir darbdavių asociacija",
     "code": "168066698",
     "address": "Pakruojis, Kęstučio g. 4, LT-83152"
@@ -748,12 +774,8 @@
   {
     "name": "Pakruojo rajono žemės ūkio bendrovė \"Pelaniškiai\"",
     "code": "167995212",
-    "address": "Pakruojo r. sav., Pašvitinio sen., Peleniškių k., Piliakalnio g. 34, LT-83340"
-  },
-  {
-    "name": "Pakruojo rajono žemės ūkio darbuotojų profesinė sąjunga",
-    "code": "190937059",
-    "address": "Pakruojis, Kęstučio g. 4, LT-83152"
+    "address": "Pakruojo r. sav., Pašvitinio sen., Peleniškių k., Piliakalnio g. 34, LT-83340",
+    "vatcode": "LT679952113"
   },
   {
     "name": "Pakruojo senamiesčio bendruomenė",
@@ -803,7 +825,12 @@
   {
     "name": "Pakruojo vartotojų kooperatyvas",
     "code": "167927282",
-    "address": "Pakruojis, Statybininkų g. 6A, LT-83182"
+    "address": "Pakruojis, Statybininkų g. 6A, LT-83182",
+    "vatcode": "LT679272811"
+  },
+  {
+    "name": "Pakruojo verslininkų klubas",
+    "code": "193094639"
   },
   {
     "name": "Pakruojo verslo informacijos centras",
@@ -839,12 +866,14 @@
   {
     "name": "UAB \"Pakruojo agrochemijos grūdai\"",
     "code": "300577510",
-    "address": "Pakruojis, Pramonės g. 13A, LT-83182"
+    "address": "Pakruojis, Pramonės g. 13A, LT-83182",
+    "vatcode": "LT100002470414"
   },
   {
     "name": "UAB \"Pakruojo autotransportas\"",
     "code": "167900463",
-    "address": "Pakruojis, Statybininkų g. 9, LT-83163"
+    "address": "Pakruojis, Statybininkų g. 9, LT-83163",
+    "vatcode": "LT679004610"
   },
   {
     "name": "UAB \"Pakruojo dvaro parfumerinė\"",
@@ -859,7 +888,8 @@
   {
     "name": "UAB \"Pakruojo vandentiekis\"",
     "code": "167922698",
-    "address": "Pakruojis, Pramonės g. 1, LT-83163"
+    "address": "Pakruojis, Pramonės g. 1, LT-83163",
+    "vatcode": "LT679226917"
   },
   {
     "name": "UAB \"Pakruojo šiluma\" darbuotojų profesinė sąjunga",
@@ -867,14 +897,10 @@
     "address": "Pakruojis, Saulėtekio g. 34, LT-83133"
   },
   {
-    "name": "UAB \"Pakruojo šiluma\" darbuotojų profesinė sąjunga \"Solidarumas\"",
-    "code": "303317756",
-    "address": "Vilnius, Ulonų g. 5-301, LT-08240"
-  },
-  {
     "name": "UAB \"Pakruojo žalioji energija\"",
     "code": "306059670",
-    "address": "Kauno r. sav., Babtų sen., Babtų k., Vėrupės g. 1, LT-54328"
+    "address": "Kauno r. sav., Babtų sen., Babtų k., Vėrupės g. 1, LT-54328",
+    "vatcode": "LT100016428611"
   },
   {
     "name": "UAB Pakruojo autoservisas",
@@ -890,17 +916,20 @@
   {
     "name": "UAB Pakruojo vėjas",
     "code": "305024549",
-    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308",
+    "vatcode": "LT100017054419"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"PAKRUOJO AGROCHEMIJA\"",
     "code": "167903235",
-    "address": "Pakruojis, Pramonės g. 13, LT-83182"
+    "address": "Pakruojis, Pramonės g. 13, LT-83182",
+    "vatcode": "LT679032314"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"PAKRUOJO KERAMIKA\"",
     "code": "210863740",
-    "address": "Pakruojo r. sav., Klovainiai"
+    "address": "Pakruojo r. sav., Klovainiai",
+    "vatcode": "LT108637416"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Pakruojo Elsana\"",
@@ -911,27 +940,36 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Pakruojo agrocentras\"",
     "code": "302192538",
-    "address": "Pakruojo r. sav., Pakruojo sen., Karašilio k., Šilo g. 17, LT-83183"
+    "address": "Pakruojo r. sav., Pakruojo sen., Karašilio k., Šilo g. 17, LT-83183",
+    "vatcode": "LT100005384212"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Pakruojo komunalininkas\"",
     "code": "167904337",
-    "address": "Pakruojis, Ryto g. 10, LT-83182"
+    "address": "Pakruojis, Ryto g. 10, LT-83182",
+    "vatcode": "LT679043314"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Pakruojo parketas\"",
     "code": "168051842",
-    "address": "Pakruojo r. sav., Klovainių sen., Petrašiūnų k."
+    "address": "Pakruojo r. sav., Klovainių sen., Petrašiūnų k.",
+    "vatcode": "LT680518411"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Pakruojo projektas\"",
+    "code": "168059885"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Pakruojo remontas\"",
     "code": "167900659",
-    "address": "Pakruojis, Statybininkų g. 1, LT-83163"
+    "address": "Pakruojis, Statybininkų g. 1, LT-83163",
+    "vatcode": "LT679006515"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Pakruojo veislininkystė\"",
     "code": "167923070",
-    "address": "Pakruojis, Taikos g. 48, LT-83112"
+    "address": "Pakruojis, Taikos g. 48, LT-83112",
+    "vatcode": "LT679230716"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Pakruojo šiluma\"",

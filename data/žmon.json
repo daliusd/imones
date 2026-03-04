@@ -10,6 +10,10 @@
     "address": "Klaipėda, Medžiotojų g. 2-4, LT-92123"
   },
   {
+    "name": "Biržų rajono sutrikusios psichikos žmonių globos bendrija",
+    "code": "255318470"
+  },
+  {
     "name": "Dingusių žmonių šeimų paramos centras",
     "code": "191970496",
     "address": "Vilnius, Medeinos g. 9-16, LT-06141"
@@ -17,7 +21,7 @@
   {
     "name": "EIGIRDŽIŲ PAGYVENUSIŲ ŽMONIŲ KLUBAS",
     "code": "303057504",
-    "address": "Telšių r. sav., Degaičių sen., Eigirdžių mstl., Alyvų g. 1-6, LT-88127"
+    "address": "Telšių r. sav., Eigirdžiai, Gedimino g. 16, LT-88127"
   },
   {
     "name": "Elektrėnų savivaldybės žmonių bendrija \"Spindulys\"",
@@ -140,6 +144,11 @@
     "address": "Marijampolė, Bažnyčios g. 19, LT-68298"
   },
   {
+    "name": "Lietuvos sutrikusio intelekto žmonių globos bendrijos \"Viltis\" individuali įmonė",
+    "code": "140610980",
+    "address": "Klaipėda, Smiltelės g. 22, LT-93146"
+  },
+  {
     "name": "Lietuvos sutrikusio intelekto žmonių globos bendrijos \"Viltis\" Šalčininkų padalinys",
     "code": "175010881",
     "address": "Šalčininkai, Sodų g. 3A, LT-17116"
@@ -230,9 +239,18 @@
     "address": "Pakruojo r. sav., Linkuva, Vienybės a. 8, LT-83443"
   },
   {
+    "name": "MB \"Žmonių kelias\"",
+    "code": "304344852"
+  },
+  {
     "name": "MB Žmonių ugdymo kompanija",
     "code": "304288713",
-    "address": "Vilnius, Pilies g. 14-4, LT-01403"
+    "address": "Vilnius, Pilies g. 14-4, LT-01403",
+    "vatcode": "LT100010743117"
+  },
+  {
+    "name": "MUZIKA BESIDOMINČIŲ ŽMONIŲ KLUBAS \"VIRPESYS\"",
+    "code": "125086378"
   },
   {
     "name": "Mandagių žmonių klubas",
@@ -383,6 +401,10 @@
     "name": "Suaugusių žmonių, sergančių įgimta širdies yda, asociacija",
     "code": "304168055",
     "address": "Trakų r. sav., Onuškio sen., Taučionių k., Žilinų g. 2, LT-21231"
+  },
+  {
+    "name": "Sutrikusio intelekto žmonių globos bendrija \"Akmenės Viltis\"",
+    "code": "153081114"
   },
   {
     "name": "Sutrikusio intelekto žmonių globos bendrija \"Anykščių Viltis\"",
@@ -665,6 +687,10 @@
     "address": "Šiauliai, Tilžės g. 61A, LT-78166"
   },
   {
+    "name": "Šiaulių miesto glaukoma sergančių žmonių klubas",
+    "code": "301495895"
+  },
+  {
     "name": "Šiaulių miesto žmonių su negalia klubas \"ŽIDINYS\"",
     "code": "193140524",
     "address": "Šiauliai, Tilžės g. 61A, LT-78166"
@@ -727,7 +753,8 @@
   {
     "name": "MB \"Šiluma žmonėms\"",
     "code": "306721355",
-    "address": "Prienų r. sav., Išlaužo sen., Išlaužo k., Aklaežerio g. 19, LT-59305"
+    "address": "Prienų r. sav., Išlaužo sen., Išlaužo k., Aklaežerio g. 19, LT-59305",
+    "vatcode": "LT100016832918"
   },
   {
     "name": "MB \"Žmonėms\"",
@@ -750,6 +777,10 @@
     "address": "Vilnius, Ukmergės g. 208-49, LT-07167"
   },
   {
+    "name": "Asociacija \"Veiklūs žmonės\"",
+    "code": "304017007"
+  },
+  {
     "name": "Bendruomenė Paupio žmonės",
     "code": "305976901",
     "address": "Kauno r. sav., Karmėlavos sen., Vaistariškių k., Paupio g. 59, LT-44103"
@@ -768,7 +799,8 @@
   {
     "name": "MB \"Ką žmonės dirba visą dieną\"",
     "code": "304823938",
-    "address": "Rokiškio r. sav., Pandėlio sen., Raikėnų k., Lakštutės g. 18, LT-42360"
+    "address": "Rokiškio r. sav., Pandėlio sen., Raikėnų k., Lakštutės g. 18, LT-42360",
+    "vatcode": "LT100012629015"
   },
   {
     "name": "MB \"Saulės žmonės\"",
@@ -807,9 +839,14 @@
     "address": "Vilnius, Didlaukio g. 92-31, LT-08332"
   },
   {
+    "name": "Sauliaus Misevičiaus kultūrizmo klubas \"Geležiniai žmonės\"",
+    "code": "133359054"
+  },
+  {
     "name": "UAB \"Betono žmonės\"",
     "code": "304290290",
-    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Šiltnamių g. 5-7, LT-53363"
+    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Šiltnamių g. 5-7, LT-53363",
+    "vatcode": "LT100010281219"
   },
   {
     "name": "UAB \"Mobilūs žmonės\"",
@@ -819,17 +856,20 @@
   {
     "name": "UAB \"Smėlio žmonės\"",
     "code": "304399350",
-    "address": "Kaunas, Žirgelių g. 15-2, LT-47205"
+    "address": "Kaunas, Žirgelių g. 15-2, LT-47205",
+    "vatcode": "LT100010432718"
   },
   {
     "name": "UAB \"Sporto žmonės\"",
     "code": "170019862",
-    "address": "Plungė, A. Jucio g. 39-16, LT-90148"
+    "address": "Plungė, A. Jucio g. 39-16, LT-90148",
+    "vatcode": "LT100009975314"
   },
   {
     "name": "UAB \"Sumuštinių žmonės\"",
     "code": "302823537",
-    "address": "Vilnius, Motorų g. 2, LT-02190"
+    "address": "Vilnius, Motorų g. 2, LT-02190",
+    "vatcode": "LT100007030810"
   },
   {
     "name": "UAB \"ŽMONĖS Cinema\"",

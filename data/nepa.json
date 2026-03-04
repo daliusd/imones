@@ -20,6 +20,11 @@
     "address": "Vilnius, Siesikų g. 14-61, LT-08100"
   },
   {
+    "name": "IĮ Nepakartojama",
+    "code": "305643117",
+    "address": "Kaunas, Šiaurės pr. 22-27, LT-49222"
+  },
+  {
     "name": "MB \"Nepakartotinis\"",
     "code": "307168982",
     "address": "Vilnius, Manufaktūrų g. 6-203, LT-11342"
@@ -48,12 +53,14 @@
   {
     "name": "MB \"Ko nepametus\"",
     "code": "307189720",
-    "address": "Kazlų Rūdos sav., Jankų sen., Jankų k., Liepų g. 12, LT-71253"
+    "address": "Kazlų Rūdos sav., Jankų sen., Jankų k., Liepų g. 12, LT-71253",
+    "vatcode": "LT100018528619"
   },
   {
     "name": "MB \"Nepamiršk gyventi\"",
     "code": "306719361",
-    "address": "Radviliškio r. sav., Baisogalos sen., Pakiršinio k., Ateities g. 9A-52, LT-82296"
+    "address": "Radviliškio r. sav., Baisogalos sen., Pakiršinio k., Ateities g. 9A-52, LT-82296",
+    "vatcode": "LT100016984311"
   },
   {
     "name": "Nepanikuojam, MB",
@@ -68,7 +75,7 @@
   {
     "name": "MB Paprastai nepaprasta",
     "code": "307118748",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Kalotės k., Ežero g. 7, LT-92380"
+    "address": "Klaipėda, Bijūnų g. 10A-2, LT-91223"
   },
   {
     "name": "Labdaros ir paramos fondas \"Nepaprastas kelias\"",
@@ -83,7 +90,8 @@
   {
     "name": "UAB \"Nepaprastas maistas\"",
     "code": "303309987",
-    "address": "Vilnius, Lakūnų g. 47-529, LT-09108"
+    "address": "Vilnius, Lakūnų g. 47-529, LT-09108",
+    "vatcode": "LT100009998111"
   },
   {
     "name": "VšĮ \"Nepaprastukas\"",
@@ -124,7 +132,8 @@
   {
     "name": "MB Nepasiduok",
     "code": "307076879",
-    "address": "Vilnius, Fabijoniškių g. 3A-14, LT-07130"
+    "address": "Vilnius, Fabijoniškių g. 3A-14, LT-07130",
+    "vatcode": "LT100017725319"
   },
   {
     "name": "VšĮ Parama nepasiturintiems",
@@ -144,22 +153,31 @@
   {
     "name": "UAB \"Jūs nepatikėsit\"",
     "code": "266796240",
-    "address": "Mažeikiai, Juodpelkio g. 6-10, LT-89144"
+    "address": "Mažeikiai, Juodpelkio g. 6-10, LT-89144",
+    "vatcode": "LT667962416"
   },
   {
     "name": "UAB \"Nepatinka neik\"",
     "code": "306818605",
-    "address": "Vilnius, Laisvės pr. 87A-72, LT-06121"
+    "address": "Vilnius, Laisvės pr. 87A-72, LT-06121",
+    "vatcode": "LT100017705314"
   },
   {
     "name": "MB \"Nepatogus vaikas\"",
     "code": "307097994",
-    "address": "Jonava, Suvalkiečių g. 22, LT-55200"
+    "address": "Jonava, Suvalkiečių g. 22, LT-55200",
+    "vatcode": "LT100019555016"
   },
   {
     "name": "VšĮ \"Nepatogus kinas\"",
     "code": "304036534",
-    "address": "Vilnius, Pelesos g. 37-21, LT-02111"
+    "address": "Vilnius, Pelesos g. 37-21, LT-02111",
+    "vatcode": "LT100018493915"
+  },
+  {
+    "name": "VšĮ Nepatogus vaikas centras",
+    "code": "307588452",
+    "address": "Jonava, Suvalkiečių g. 22, LT-55200"
   },
   {
     "name": "Labdaros ir paramos fondas NEPATOGŪS",

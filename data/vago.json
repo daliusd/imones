@@ -2,12 +2,18 @@
   {
     "name": "MB Vagon",
     "code": "307264048",
-    "address": "Kaunas, Girios g. 1A K2, LT-47338"
+    "address": "Kaunas, Girios g. 1A K2, LT-47338",
+    "vatcode": "LT100018951316"
+  },
+  {
+    "name": "UAB \"Vagon\"",
+    "code": "302419644"
   },
   {
     "name": "UAB \"Vagonai\"",
     "code": "303413110",
-    "address": "Vilnius, Svirno g. 4E, LT-13242"
+    "address": "Vilnius, Svirno g. 4E, LT-13242",
+    "vatcode": "LT100009028416"
   },
   {
     "name": "UAB \"Vilniaus vagonai\"",
@@ -28,12 +34,22 @@
   {
     "name": "UAB \"Vagoneta\"",
     "code": "302836488",
-    "address": "Vilnius, Vasario 16-osios g. 2-79, LT-01106"
+    "address": "Vilnius, Vasario 16-osios g. 2-79, LT-01106",
+    "vatcode": "LT100007186711"
   },
   {
     "name": "MB \"Vagonetė\"",
     "code": "306664064",
     "address": "Vilnius, Giedraičių g. 46-16, LT-09301"
+  },
+  {
+    "name": "A. Vagonio individuali įmonė",
+    "code": "173724429",
+    "address": "Rokiškis, Vilties g. 4-21, LT-42160"
+  },
+  {
+    "name": "S. Vagonio įmonė",
+    "code": "182827321"
   },
   {
     "name": "MB \"Greitasis vagonėlis\"",
@@ -44,12 +60,14 @@
   {
     "name": "MB \"Maisto vagonėlis\"",
     "code": "304972145",
-    "address": "Kauno r. sav., Kulautuva, Akacijų al. 20A, LT-53485"
+    "address": "Kauno r. sav., Kulautuva, Akacijų al. 20A, LT-53485",
+    "vatcode": "LT100013566311"
   },
   {
     "name": "MB Sidabrinis vagonėlis",
     "code": "306722553",
-    "address": "Kauno r. sav., Raudondvario sen., Didvyrių k., Pašilės g. 13, LT-54133"
+    "address": "Kauno r. sav., Raudondvario sen., Didvyrių k., Pašilės g. 13, LT-54133",
+    "vatcode": "LT100018673116"
   },
   {
     "name": "Mažoji bendrija Baltas vagonėlis",
@@ -63,19 +81,10 @@
     "vatcode": "LT100014944917"
   },
   {
-    "name": "AB \"Lietuvos geležinkeliai\" Keleivių vežimo direkcijos Keleivinių vagonų depo darbuotojų profesinė sąjunga",
-    "code": "125533733",
-    "address": "Vilnius, Iešmininkų g. 17A, LT-02151"
-  },
-  {
-    "name": "AB \"Lietuvos geležinkeliai\" Radviliškio prekinių vagonų depo darbuotojų profesinė sąjunga",
-    "code": "171661147",
-    "address": "Radviliškis, Puškino g. 1, LT-82124"
-  },
-  {
     "name": "MB \"Vagonų valymas\"",
     "code": "305631983",
-    "address": "Kelmės r. sav., Tytuvėnai, S. Dariaus ir S. Girėno g. 6-9, LT-86476"
+    "address": "Kelmės r. sav., Tytuvėnai, S. Dariaus ir S. Girėno g. 6-9, LT-86476",
+    "vatcode": "LT100014365013"
   },
   {
     "name": "Radviliškio prekinių vagonų depo darbuotojų profesinė sąjunga",
@@ -83,9 +92,14 @@
     "address": "Radviliškis, Puškino g. 1, LT-82124"
   },
   {
+    "name": "UAB \"Industrinė vagonų kompanija\"",
+    "code": "300039440"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"VAGONŲ SERVISAS\"",
     "code": "142023939",
-    "address": "Klaipėda, Kareivinių g. 2-7, LT-92251"
+    "address": "Klaipėda, Kareivinių g. 2-7, LT-92251",
+    "vatcode": "LT420239314"
   },
   {
     "name": "UAB Vagoras",
@@ -95,6 +109,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Vagos prekyba\"",
     "code": "123938163",
-    "address": "Vilnius, Gedimino pr. 50, LT-01110"
+    "address": "Vilnius, Gedimino pr. 50, LT-01110",
+    "vatcode": "LT239381610"
   }
 ]

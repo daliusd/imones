@@ -5,6 +5,11 @@
     "address": "Alytaus r. sav., Krokialaukis, Žuvinto g. 41, LT-64355"
   },
   {
+    "name": "IĮ \"Tomo automobiliai\"",
+    "code": "303391436",
+    "address": "Vilnius, Laisvės pr. 99A-17, LT-06119"
+  },
+  {
     "name": "IĮ Architekto Tomo Kupriūno studija",
     "code": "184199865",
     "address": "Utena, Vyžuonų g. 11A-7, LT-28141"
@@ -39,7 +44,8 @@
   {
     "name": "MB \"Tomo Films\"",
     "code": "306990925",
-    "address": "Vilnius, T. Vrublevskio g. 4-1, LT-01143"
+    "address": "Vilnius, T. Vrublevskio g. 4-1, LT-01143",
+    "vatcode": "LT100019283810"
   },
   {
     "name": "MB \"Tomo Petreikio šokių studija\"",
@@ -75,7 +81,8 @@
   {
     "name": "MB \"Tomo žuvies rūkykla\"",
     "code": "305437277",
-    "address": "Kaunas, Neringos g. 23, LT-48476"
+    "address": "Kaunas, Neringos g. 23, LT-48476",
+    "vatcode": "LT100013675115"
   },
   {
     "name": "MB TOMO BŪSTAS",
@@ -115,12 +122,14 @@
   {
     "name": "MB Tomo trinkelės",
     "code": "306086048",
-    "address": "Panevėžio r. sav., Smilgių sen., Rimiškių k., Paupio g. 2, LT-38380"
+    "address": "Panevėžio r. sav., Smilgių sen., Rimiškių k., Paupio g. 2, LT-38380",
+    "vatcode": "LT100015026614"
   },
   {
     "name": "MB Tomo veikla",
     "code": "307008077",
-    "address": "Kretingos r. sav., Kretingos sen., Pryšmančių k., Kretingos g. 43, LT-97162"
+    "address": "Kretingos r. sav., Kretingos sen., Pryšmančių k., Kretingos g. 43, LT-97162",
+    "vatcode": "LT100018534411"
   },
   {
     "name": "Mažoji bendrija Tomo tinkas ir apdaila",
@@ -149,18 +158,44 @@
     "address": "Varėna, Dzūkų g. 34-26, LT-65174"
   },
   {
+    "name": "Tomo Bubulio individuali įmonė",
+    "code": "187934640"
+  },
+  {
     "name": "Tomo Ciūnio individuali įmonė",
     "code": "184841394",
     "address": "Varėnos r. sav., Varėnos sen., Perlojos k., Perliaus g. 15, LT-65372"
   },
   {
+    "name": "Tomo Echodo individuali įmonė",
+    "code": "301681661",
+    "address": "Kaunas, Demokratų g. 44-57, LT-48407"
+  },
+  {
+    "name": "Tomo Gago įmonė",
+    "code": "185605393",
+    "address": "Vilkaviškis, Vilniaus g. 12, LT-70142"
+  },
+  {
+    "name": "Tomo Garbausko IĮ",
+    "code": "300573661",
+    "address": "Panevėžys, Žvaigždžių g. 10-1, LT-37113",
+    "vatcode": "LT100002562510"
+  },
+  {
     "name": "Tomo Jancevičiaus MB",
     "code": "307533420",
-    "address": "Vilnius, Užutėkio g. 26-11, LT-04127"
+    "address": "Vilnius, Užutėkio g. 26-11, LT-04127",
+    "vatcode": "LT100019488611"
   },
   {
     "name": "Tomo Jeremičiaus įmonė",
     "code": "156872137"
+  },
+  {
+    "name": "Tomo Joso individuali įmonė \"JOTAS\"",
+    "code": "300005018",
+    "address": "Panevėžys, Nemuno g. 72-14, LT-35190"
   },
   {
     "name": "Tomo Jusevičiaus paramos fondas",
@@ -168,14 +203,18 @@
     "address": "Kaunas, A. Stulginskio g. 5, LT-48317"
   },
   {
+    "name": "Tomo Karpijaus individuali įmonė",
+    "code": "300504964"
+  },
+  {
     "name": "Tomo Kašinsko individuali įmonė",
     "code": "149951189",
     "address": "Klaipėda, Ryšininkų g. 6-77, LT-91117"
   },
   {
-    "name": "Tomo Kiškėno MB",
-    "code": "305389918",
-    "address": "Marijampolė, Kosmonautų g. 18X, LT-68145"
+    "name": "Tomo Kaškevičiaus IĮ",
+    "code": "302412870",
+    "address": "Utenos r. sav., Kuktiškės, Tauragnų g. 3, LT-28347"
   },
   {
     "name": "Tomo Kontauto 34 Všį motokroso įstaiga",
@@ -183,9 +222,51 @@
     "address": "Kauno r. sav., Karmėlava, Piliakalnio g. 19B, LT-54447"
   },
   {
+    "name": "Tomo Lingio individuali įmonė",
+    "code": "300076410",
+    "address": "Kretingos r. sav., Žalgirio sen., Dupulčių k., Mokyklos g. 4, LT-97159"
+  },
+  {
+    "name": "Tomo Lobino Individuali įmonė",
+    "code": "302732692",
+    "address": "Mažeikiai, Smėlio g. 4, LT-89219"
+  },
+  {
     "name": "Tomo Maldučio labdaros ir paramos fondas",
     "code": "306066743",
     "address": "Kaunas, Giedros g. 5, LT-48284"
+  },
+  {
+    "name": "Tomo Medvecko IĮ",
+    "code": "301675523"
+  },
+  {
+    "name": "Tomo Mendelio įmonė",
+    "code": "145405577"
+  },
+  {
+    "name": "Tomo Merkelio veterinarinių paslaugų įmonė",
+    "code": "179293829"
+  },
+  {
+    "name": "Tomo Mickevičiaus IĮ",
+    "code": "302689846",
+    "address": "Kaunas, Savanorių pr. 226-308, LT-50198"
+  },
+  {
+    "name": "Tomo Nacevičiaus individuali įmonė",
+    "code": "134760484",
+    "address": "Kaunas, Šiaurės pr. 41-40, LT-49199"
+  },
+  {
+    "name": "Tomo Norkūno IĮ",
+    "code": "303539874",
+    "address": "Varėnos r. sav., Matuizų sen., Krūminių k., Upės g. 2, LT-65474"
+  },
+  {
+    "name": "Tomo Oginsko įmonė",
+    "code": "144082014",
+    "address": "Šiauliai, Tilžės g. 107-69, LT-77164"
   },
   {
     "name": "Tomo Paužolio individuali įmonė",
@@ -193,9 +274,20 @@
     "address": "Biržų r. sav., Širvėnos sen., Biržų k., P. Kalpoko g. 26, LT-41180"
   },
   {
+    "name": "Tomo Paškevičiaus individuali įmonė",
+    "code": "300766525",
+    "address": "Vilnius, Gerosios Vilties g. 22-39, LT-03145"
+  },
+  {
     "name": "Tomo Pempės mažoji bendrija",
     "code": "302878359",
     "address": "Alytus, Kaštonų g. 36-8, LT-63345"
+  },
+  {
+    "name": "Tomo Plikyno prekybos įmonė",
+    "code": "151408072",
+    "address": "Kazlų Rūdos sav., Antanavo sen., Antanavo k., Marijampolės g. 2A, LT-69368",
+    "vatcode": "LT514080716"
   },
   {
     "name": "Tomo Pociaus IĮ",
@@ -215,6 +307,10 @@
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
+    "name": "Tomo Sloviko komercinė įmonė",
+    "code": "162529292"
+  },
+  {
     "name": "Tomo Stankevičiaus labdaros ir paramos fondas",
     "code": "303502979",
     "address": "Kaunas, Dvareliškių g. 2, LT-45478"
@@ -225,8 +321,25 @@
     "address": "Druskininkai, V. Kudirkos g. 10A-29, LT-66120"
   },
   {
+    "name": "Tomo Streikaus odontologijos klinika",
+    "code": "303093589",
+    "address": "Panevėžys, Smėlynės g. 73-7, LT-35110"
+  },
+  {
+    "name": "Tomo Tamulaičio konditerijos gaminių įmonė",
+    "code": "174572853"
+  },
+  {
+    "name": "Tomo Visakavičiaus ir Aleksandros Markinos tikroji ūkinė bendrija \"Baitnetas\"",
+    "code": "126064993"
+  },
+  {
     "name": "Tomo Zumerio personalinė įmonė",
     "code": "125805628"
+  },
+  {
+    "name": "Tomo Čižausko įmonė",
+    "code": "145674848"
   },
   {
     "name": "Tomo Šveikausko labdaros ir paramos fondas",
@@ -236,12 +349,14 @@
   {
     "name": "UAB \"Jono ir Tomo autopaslaugos\"",
     "code": "303400892",
-    "address": "Prienų r. sav., Išlaužo sen., Gražučių k., Sodybų g. 8, LT-59309"
+    "address": "Prienų r. sav., Išlaužo sen., Gražučių k., Sodybų g. 8, LT-59309",
+    "vatcode": "LT100010906115"
   },
   {
     "name": "UAB \"Tomo aplinkotvarka\"",
     "code": "304478673",
-    "address": "Kauno r. sav., Babtų sen., Piepalių k., Algupio g. 6, LT-54293"
+    "address": "Kauno r. sav., Babtų sen., Piepalių k., Algupio g. 6, LT-54293",
+    "vatcode": "LT100010813313"
   },
   {
     "name": "UAB \"Tomo baldai\"",
@@ -261,7 +376,8 @@
   {
     "name": "UAB TOMO AUTOSERVISAS",
     "code": "125522719",
-    "address": "Vilnius, P. Vileišio g. 18, LT-10306"
+    "address": "Vilnius, P. Vileišio g. 18, LT-10306",
+    "vatcode": "LT255227113"
   },
   {
     "name": "UAB Tomo dirbtuvė",
@@ -276,7 +392,8 @@
   {
     "name": "UAB \"TOMOBILIS\"",
     "code": "303003474",
-    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Vandžiogalos pl. 106M, LT-54358"
+    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Vandžiogalos pl. 106M, LT-54358",
+    "vatcode": "LT100007836417"
   },
   {
     "name": "MB \"Tomobu\"",
@@ -291,7 +408,8 @@
   {
     "name": "Mažoji bendrija \"TOMOGRIL\"",
     "code": "305059906",
-    "address": "Panevėžys, J. Basanavičiaus g. 1-55, LT-35176"
+    "address": "Panevėžys, J. Basanavičiaus g. 1-55, LT-35176",
+    "vatcode": "LT100012556016"
   },
   {
     "name": "MB TomokasTrans",
@@ -302,12 +420,14 @@
   {
     "name": "MB \"Tomona\"",
     "code": "306030131",
-    "address": "Klaipėdos r. sav., Dovilų sen., Kulių k., Kulių 2-oji g. 5, LT-95405"
+    "address": "Klaipėdos r. sav., Dovilų sen., Kulių k., Kulių 2-oji g. 5, LT-95405",
+    "vatcode": "LT100014823514"
   },
   {
     "name": "MB \"Tomonta\"",
     "code": "305638981",
-    "address": "Panevėžys, Klaipėdos g. 93-11, LT-37103"
+    "address": "Panevėžys, Klaipėdos g. 93-11, LT-37103",
+    "vatcode": "LT100013453515"
   },
   {
     "name": "MB Tomorla",
@@ -332,7 +452,8 @@
   {
     "name": "Tomorrow's Trends & Tools, UAB",
     "code": "302421093",
-    "address": "Vilniaus m. sav."
+    "address": "Vilniaus m. sav.",
+    "vatcode": "LT100004833618"
   },
   {
     "name": "UAB \"We in Tomorrow\"",
@@ -368,7 +489,8 @@
   {
     "name": "UAB \"TOMOSTA\"",
     "code": "300023272",
-    "address": "Vilnius, Lvivo g. 99-1, LT-08104"
+    "address": "Vilnius, Lvivo g. 99-1, LT-08104",
+    "vatcode": "LT100005486114"
   },
   {
     "name": "MB \"TOMOT\"",
@@ -378,7 +500,8 @@
   {
     "name": "UAB \"Tomota\"",
     "code": "304255784",
-    "address": "Tauragė, D. Poškos g. 40, LT-72297"
+    "address": "Tauragė, D. Poškos g. 40, LT-72297",
+    "vatcode": "LT100010175319"
   },
   {
     "name": "MB \"Tomova\"",

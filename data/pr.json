@@ -125,11 +125,6 @@
     "address": "Vilnius, Konstitucijos pr. 15-32, LT-09319"
   },
   {
-    "name": "Daugiabučio namo Savanorių pr. 204A savininkų bendrija",
-    "code": "304092312",
-    "address": "Kaunas, Savanorių pr. 204A-58, LT-50187"
-  },
-  {
     "name": "Daugiabučio namo Statybininkų pr. Nr. 9, Klaipėdoje, savininkų bendrija",
     "code": "301085953",
     "address": "Klaipėda, Statybininkų pr. 9-1, LT-94237"
@@ -222,12 +217,14 @@
   {
     "name": "MB \"Tandemus PR\"",
     "code": "305540918",
-    "address": "Trakai, Mindaugo g. 10-4, LT-21113"
+    "address": "Trakai, Mindaugo g. 10-4, LT-21113",
+    "vatcode": "LT100016913312"
   },
   {
     "name": "MB Flow PR",
     "code": "306672189",
-    "address": "Vilnius, Krivių g. 5, LT-01204"
+    "address": "Vilnius, Krivių g. 5, LT-01204",
+    "vatcode": "LT100016618415"
   },
   {
     "name": "MB PR Ace Agency",
@@ -238,7 +235,8 @@
   {
     "name": "MB PR Inžinerija",
     "code": "307537415",
-    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297",
+    "vatcode": "LT100019572016"
   },
   {
     "name": "Meg pr MB",
@@ -262,9 +260,15 @@
     "address": "Vilnius, Laisvės pr. 88, LT-06128"
   },
   {
+    "name": "Pr. Vičiaus gamybinė-komercinė įmonė",
+    "code": "185304461",
+    "address": "Vilkaviškis, J. Basanavičiaus g. 9, LT-70139"
+  },
+  {
     "name": "Repoint PR, UAB",
     "code": "306504106",
-    "address": "Vilnius, Palangos g. 4-301, LT-01402"
+    "address": "Vilnius, Palangos g. 4-301, LT-01402",
+    "vatcode": "LT100016460615"
   },
   {
     "name": "Savanorių pr. 18-ojo daugiabučio namo savininkų bendrija",
@@ -274,7 +278,8 @@
   {
     "name": "Sensus PR, MB",
     "code": "306330805",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100016195810"
   },
   {
     "name": "Taikos pr. 117 daugiabučio namo savininkų bendrija",
@@ -304,7 +309,8 @@
   {
     "name": "UAB \"INTEGRITY PR\"",
     "code": "111688780",
-    "address": "Vilnius, Šv. Ignoto g. 5, LT-01144"
+    "address": "Vilnius, Šv. Ignoto g. 5, LT-01144",
+    "vatcode": "LT116887811"
   },
   {
     "name": "UAB \"PR GROUP\"",
@@ -324,12 +330,14 @@
   {
     "name": "UAB \"PR progrupė\"",
     "code": "300050173",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
+    "address": "Vilnius, Laisvės pr. 60, LT-05120",
+    "vatcode": "LT100002808212"
   },
   {
     "name": "UAB \"PROCEED PR\"",
     "code": "300112187",
-    "address": "Kaunas, Ateities pl. 28, LT-52181"
+    "address": "Kaunas, Ateities pl. 28, LT-52181",
+    "vatcode": "LT100001680318"
   },
   {
     "name": "UAB \"Polhem PR Lithuania\"",
@@ -339,7 +347,8 @@
   {
     "name": "UAB \"Realty management PR\"",
     "code": "305254240",
-    "address": "Raseinių r. sav., Betygalos sen., Maslauskiškių k. 1, LT-60211"
+    "address": "Raseinių r. sav., Betygalos sen., Maslauskiškių k. 1, LT-60211",
+    "vatcode": "LT100012659410"
   },
   {
     "name": "UAB PR ROOM GROUP",
@@ -372,11 +381,6 @@
     "name": "Vilniaus miesto daugiabučio gyvenamojo namo, esančio Savanorių pr. 11 A, savininkų bendrija",
     "code": "305903764",
     "address": "Vilnius, Savanorių pr. 11A-67, LT-03116"
-  },
-  {
-    "name": "Vytauto pr. 3-ojo daugiabučio namo savininkų bendrija",
-    "code": "304042754",
-    "address": "Kaunas, Vytauto pr. 3-9, LT-44354"
   },
   {
     "name": "Šiaurės pr. 59 daugiabučio namo savininkų bendrija",

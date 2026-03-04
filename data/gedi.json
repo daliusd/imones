@@ -18,7 +18,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Gedimex\"",
     "code": "110202581",
-    "address": "Kaunas, Raudondvario pl. 166, LT-47173"
+    "address": "Kaunas, Raudondvario pl. 166, LT-47173",
+    "vatcode": "LT102025811"
   },
   {
     "name": "Karininkų klubas \"GEDIMINAIČIAI\"",
@@ -67,8 +68,7 @@
   },
   {
     "name": "Daugiabučio gyvenamojo namo Gedimino g. Nr. 174, Kaišiadorys, savininkų bendrija",
-    "code": "158965743",
-    "address": "Kaišiadorys, Parko g. 25-17, LT-56166"
+    "code": "158965743"
   },
   {
     "name": "Daugiabučio namo Gedimino 37A savininkų bendrija",
@@ -106,8 +106,47 @@
     "address": "Vilnius, Gabijos g. 73-18, LT-06103"
   },
   {
+    "name": "Gedimino Andriukaičio įmonė",
+    "code": "134476459"
+  },
+  {
+    "name": "Gedimino Andriuškevičiaus įmonė",
+    "code": "145111981",
+    "address": "Šiauliai, S. Daukanto g. 4D, LT-77172",
+    "vatcode": "LT451119811"
+  },
+  {
+    "name": "Gedimino Bielskio įmonė",
+    "code": "145069589"
+  },
+  {
+    "name": "Gedimino Brazio IĮ",
+    "code": "285491250",
+    "address": "Vilkaviškio r. sav., Kybartų sen., Gudkaimio k., Dvaro g. 3A, LT-70455"
+  },
+  {
+    "name": "Gedimino Giedraičio IĮ",
+    "code": "134641626",
+    "address": "Šiauliai, Šaltalankių g. 34, LT-76218",
+    "vatcode": "LT100001507411"
+  },
+  {
     "name": "Gedimino Grigelio individuali įmonė",
     "code": "123309238"
+  },
+  {
+    "name": "Gedimino Katiliaus individuali įmonė",
+    "code": "151477595"
+  },
+  {
+    "name": "Gedimino Kumečio IĮ",
+    "code": "159866851",
+    "address": "Kaunas, Dvarų g. 1A, LT-46399",
+    "vatcode": "LT598668515"
+  },
+  {
+    "name": "Gedimino Lazdausko įmonė",
+    "code": "145152654"
   },
   {
     "name": "Gedimino Lašo dizaino studija",
@@ -116,10 +155,29 @@
     "vatcode": "LT215481716"
   },
   {
+    "name": "Gedimino Lego individuali įmonė \"Iliuzija\"",
+    "code": "303159085",
+    "address": "Kaunas, Dujotiekio g. 19A-24, LT-51352"
+  },
+  {
     "name": "Gedimino Litvaičio individuali įmonė",
     "code": "160295232",
     "address": "Kauno r. sav., Garliavos apylinkių sen., Teleičių k., Vytauto g. 198A, LT-53273",
     "vatcode": "LT602952314"
+  },
+  {
+    "name": "Gedimino Liutkevičiaus individuali įmonė \"Smaližiukas\"",
+    "code": "304099449"
+  },
+  {
+    "name": "Gedimino Martinkaus individuali įmonė",
+    "code": "300069832",
+    "address": "Klaipėda, Taikos pr. 127-9, LT-94247"
+  },
+  {
+    "name": "Gedimino Merkelio individuali įmonė",
+    "code": "300054428",
+    "address": "Tauragės r. sav., Žygaičiai, Žygaičių g. 19, LT-73282"
   },
   {
     "name": "Gedimino Mitės labdaros ir paramos fondas",
@@ -132,9 +190,52 @@
     "address": "Kauno r. sav., Babtai, Kauno g. 2, LT-54331"
   },
   {
+    "name": "Gedimino Norvilo įmonė",
+    "code": "179759675",
+    "address": "Tauragės r. sav., Skaudvilė, Turgaus a. 14, LT-73424",
+    "vatcode": "LT797596716"
+  },
+  {
+    "name": "Gedimino Palioko įmonė",
+    "code": "165757073"
+  },
+  {
+    "name": "Gedimino Petrausko įmonė",
+    "code": "167616057"
+  },
+  {
+    "name": "Gedimino Pociūno įmonė",
+    "code": "154279985",
+    "address": "Anykščiai, J. Biliūno g. 6-6, LT-29114"
+  },
+  {
+    "name": "Gedimino Ramanausko įmonė",
+    "code": "145289368",
+    "address": "Šiauliai, Lauko g. 15, LT-77202",
+    "vatcode": "LT100002458314"
+  },
+  {
+    "name": "Gedimino Ritikio įmonė",
+    "code": "145604038",
+    "address": "Šiauliai, Gegužių g. 75-6, LT-78334"
+  },
+  {
+    "name": "Gedimino Vaitulevičiaus įmonė",
+    "code": "168930623"
+  },
+  {
     "name": "Gedimino Vaičiulio UAB",
     "code": "302657599",
-    "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Micaičių k., Draugystės g. 24, LT-81210"
+    "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Micaičių k., Draugystės g. 24, LT-81210",
+    "vatcode": "LT100006631418"
+  },
+  {
+    "name": "Gedimino Varnos firma",
+    "code": "135235710"
+  },
+  {
+    "name": "Gedimino Vinikaičio gamybinė prekybinė įmonė",
+    "code": "270638680"
   },
   {
     "name": "Gedimino ir Jolantos Kostkevičių labdaros ir paramos fondas GEJOKO",
@@ -157,6 +258,11 @@
     "code": "145813664"
   },
   {
+    "name": "Gedimino Šimkūno individuali įmonė",
+    "code": "124332186",
+    "address": "Vilnius, Apolinaro Juozo Povilaičio g. 14-235, LT-04338"
+  },
+  {
     "name": "Gedimino Šverčiausko paslaugų įmonė",
     "code": "251322140"
   },
@@ -165,6 +271,17 @@
     "code": "124190445",
     "address": "Vilnius, T. Ševčenkos g. 16, LT-03111",
     "vatcode": "LT241904417"
+  },
+  {
+    "name": "Gedimino-Antano Sakalio projektavimo firma",
+    "code": "121169015",
+    "address": "Vilnius, Karių Kapų g. 25-2",
+    "vatcode": "LT100009565412"
+  },
+  {
+    "name": "Individuali Gedimino Bulavo įmonė",
+    "code": "133168736",
+    "address": "Kaunas, J. Basanavičiaus al. 20-1, LT-50273"
   },
   {
     "name": "Kauno Gedimino sporto ir sveikatinimo gimnazija",
@@ -189,7 +306,8 @@
   {
     "name": "MB Gedimino Tušo architektūros studija",
     "code": "305849754",
-    "address": "Naujoji Akmenė, Nepriklausomybės al. 30-2, LT-85129"
+    "address": "Naujoji Akmenė, Nepriklausomybės al. 30-2, LT-85129",
+    "vatcode": "LT100014829311"
   },
   {
     "name": "MB Gedimino statyba",
@@ -219,12 +337,14 @@
   {
     "name": "UAB \"Gedimino 22 turtas\"",
     "code": "304104704",
-    "address": "Vilnius, Gedimino pr. 22-44, LT-01103"
+    "address": "Vilnius, Gedimino pr. 22-44, LT-01103",
+    "vatcode": "LT100009728511"
   },
   {
     "name": "UAB \"Gedimino 49\"",
     "code": "305793024",
-    "address": "Vilnius, Antano Tumėno g. 4, LT-01109"
+    "address": "Vilnius, Antano Tumėno g. 4, LT-01109",
+    "vatcode": "LT100014140318"
   },
   {
     "name": "UAB \"Gedimino 9\"",
@@ -235,37 +355,44 @@
   {
     "name": "UAB \"Gedimino Jurevičiaus studija\"",
     "code": "133212766",
-    "address": "Kaunas, Laisvės al. 61-2, LT-44304"
+    "address": "Kaunas, Laisvės al. 61-2, LT-44304",
+    "vatcode": "LT332127610"
   },
   {
     "name": "UAB \"Gedimino baras\"",
     "code": "304869946",
-    "address": "Kaunas, Europos pr. 122, LT-46351"
+    "address": "Kaunas, Europos pr. 122, LT-46351",
+    "vatcode": "LT100012062412"
   },
   {
     "name": "UAB \"Gedimino paslaugos\"",
     "code": "301818665",
-    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144"
+    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144",
+    "vatcode": "LT100004192417"
   },
   {
     "name": "UAB \"Gedimino projektas\"",
     "code": "304092636",
-    "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k., Inovacijų g. 1, LT-54469"
+    "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k., Inovacijų g. 1, LT-54469",
+    "vatcode": "LT100009937412"
   },
   {
     "name": "UAB \"Gedimino prospektas\"",
     "code": "304153352",
-    "address": "Vilnius, Gedimino pr. 22, LT-01103"
+    "address": "Vilnius, Gedimino pr. 22, LT-01103",
+    "vatcode": "LT100010057213"
   },
   {
     "name": "UAB \"Gedimino technika\"",
     "code": "304042284",
-    "address": "Šiaulių r. sav., Kužių sen., Lukšių k., Gražuolių g. 2, LT-76315"
+    "address": "Šiaulių r. sav., Kužių sen., Lukšių k., Gražuolių g. 2, LT-76315",
+    "vatcode": "LT100009424812"
   },
   {
     "name": "UAB \"Vilnius Gedimino\"",
     "code": "304591888",
-    "address": "Vilnius, Gedimino pr. 44A-101, LT-01110"
+    "address": "Vilnius, Gedimino pr. 44A-101, LT-01110",
+    "vatcode": "LT100012134211"
   },
   {
     "name": "UAB GEDIMINO MELDAIKIO STATYBOS KONSULTACINĖ FIRMA",
@@ -290,7 +417,8 @@
   {
     "name": "UAB SDI (Gedimino) LT",
     "code": "304584281",
-    "address": "Vilnius, Šeimyniškių g. 3, LT-09312"
+    "address": "Vilnius, Šeimyniškių g. 3, LT-09312",
+    "vatcode": "LT100011052611"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"GEDIMINO SMUKLĖ\"",
@@ -301,7 +429,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Gedimino vaistinė\"",
     "code": "133916457",
-    "address": "Kaunas, Gedimino g. 34, LT-44320"
+    "address": "Kaunas, Gedimino g. 34, LT-44320",
+    "vatcode": "LT339164515"
   },
   {
     "name": "VILNIAUS GEDIMINO TECHNIKOS UNIVERSITETO STUDENTŲ ATSTOVYBĖ",
@@ -311,7 +440,8 @@
   {
     "name": "Viešoji įstaiga Vilniaus Gedimino technikos universiteto Kokybės vadybos centras",
     "code": "111953168",
-    "address": "Vilnius, Trakų g. 1, LT-01132"
+    "address": "Vilnius, Trakų g. 1, LT-01132",
+    "vatcode": "LT119531610"
   },
   {
     "name": "Viešosios įstaigos Vilniaus Gedimino technikos universiteto Kokybės vadybos centro Panevėžio filialas",
@@ -326,7 +456,8 @@
   {
     "name": "Vilniaus Gedimino technikos universitetas",
     "code": "111950243",
-    "address": "Vilnius, Saulėtekio al. 11, LT-10223"
+    "address": "Vilnius, Saulėtekio al. 11, LT-10223",
+    "vatcode": "LT119502413"
   },
   {
     "name": "Vilniaus Gedimino technikos universiteto (VGTU) darbuotojų profesinė sąjunga",
@@ -376,7 +507,8 @@
   {
     "name": "VšĮ Gedimino miesto mokykla",
     "code": "304925206",
-    "address": "Vilnius, Gervėčių g. 4, LT-11350"
+    "address": "Vilnius, Gervėčių g. 4, LT-11350",
+    "vatcode": "LT100018051218"
   },
   {
     "name": "UAB Gedimita",
@@ -386,7 +518,8 @@
   {
     "name": "MB Gedimsta",
     "code": "306284560",
-    "address": "Jonava, Kęstučio g. 6, LT-55149"
+    "address": "Jonava, Kęstučio g. 6, LT-55149",
+    "vatcode": "LT100016596118"
   },
   {
     "name": "MB Gedimų medžiotojai",
@@ -409,9 +542,20 @@
     "address": "Radviliškio r. sav., Šaukotas, Parko g. 4, LT-82412"
   },
   {
+    "name": "IĮ \"Gedisa\"",
+    "code": "301249872",
+    "address": "Šiauliai, Šaltalankių g. 42, LT-76218"
+  },
+  {
     "name": "MB \"Gedista\"",
     "code": "306001208",
     "address": "Kaunas, Europos pr. 34-47, LT-46370"
+  },
+  {
+    "name": "Individuali įmonė \"Gedita\"",
+    "code": "301145674",
+    "address": "Rokiškis, Vilties g. 10-8, LT-42160",
+    "vatcode": "LT100003863019"
   },
   {
     "name": "UAB \"Geditra\"",
@@ -421,6 +565,7 @@
   {
     "name": "UAB \"Gedivita\"",
     "code": "302346349",
-    "address": "Vilnius, Didlaukio g. 31-50, LT-08320"
+    "address": "Vilnius, Didlaukio g. 31-50, LT-08320",
+    "vatcode": "LT100004765912"
   }
 ]

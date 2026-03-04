@@ -5,6 +5,12 @@
     "address": "Klaipėda, Debreceno g. 38-47, LT-94148"
   },
   {
+    "name": "A. Češiūno įmonė \"Žibuldė\"",
+    "code": "154188681",
+    "address": "Anykščių r. sav., Anykščių sen., Naujųjų Elmininkų k.",
+    "vatcode": "LT541886811"
+  },
+  {
     "name": "Kaimų bendruomenė \"Žibuliai\"",
     "code": "172787152",
     "address": "Raseinių r. sav., Betygalos sen., Žibulių k., Liepų al. 6-1, LT-60487"
@@ -36,11 +42,6 @@
     "address": "Skuodo r. sav., Mosėdis, Kęstučio g. 4, LT-98268"
   },
   {
-    "name": "Garažų bendrija \"Staviškių žiburiai\"",
-    "code": "302447145",
-    "address": "Širvintos, Jaunimo g. 20-29, LT-19113"
-  },
-  {
     "name": "Gyvenamųjų namų savininkų asociacija \"Dargužių žiburiai\"",
     "code": "300659338",
     "address": "Klaipėdos r. sav., Kretingalės sen., Dargužių k., Putpelių g. 3, LT-92384"
@@ -54,6 +55,11 @@
     "name": "Gyvenamųjų namų savininkų bendrija \"Slengių žiburiai\"",
     "code": "300659427",
     "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Pakrantės g. 13, LT-92338"
+  },
+  {
+    "name": "IĮ O. Kulbokienės firma \"Elektrėnų žiburiai\"",
+    "code": "181273075",
+    "address": "Elektrėnai, Pergalės g. 9-12, LT-26127"
   },
   {
     "name": "UAB \"Elektrėnų žiburiai\"",
@@ -74,7 +80,8 @@
   {
     "name": "UAB \"ŽIBURINIS\"",
     "code": "149793967",
-    "address": "Alytus, Vilties g. 38B, LT-63210"
+    "address": "Alytus, Vilties g. 38B, LT-63210",
+    "vatcode": "LT497939610"
   },
   {
     "name": "\"Žiburio\" labdaros ir paramos fondas",
@@ -167,11 +174,6 @@
     "address": "Visaginas, Energetikų g. 56, LT-31226"
   },
   {
-    "name": "Visagino \"Žiburio\" pagrindinės mokyklos profesinė sąjunga",
-    "code": "300544332",
-    "address": "Visaginas, Energetikų g. 56, LT-31226"
-  },
-  {
     "name": "Vytauto Didžiojo universiteto Šakių \"Žiburio\" gimnazija",
     "code": "195360750",
     "address": "Šakiai, V. Kudirkos g. 33, LT-71124"
@@ -202,11 +204,6 @@
     "address": "Švenčionių r. sav., Cirkliškio sen., Cirkliškio k., Artojų g. 2, LT-18122"
   },
   {
-    "name": "DNSB \"Dupulčių žiburys\"",
-    "code": "302296647",
-    "address": "Kretingos r. sav., Žalgirio sen., Dupulčių k., Bendrabučio g. 1, LT-97159"
-  },
-  {
     "name": "Daugiabučio namo Verkių g. 32, Kaune savininkų bendrija \"Žiburys\"",
     "code": "301027537",
     "address": "Kaunas, Alsėdžių g. 11-37, LT-44486"
@@ -228,8 +225,7 @@
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"ŽIBURYS\"",
-    "code": "171651181",
-    "address": "Radviliškis, Vasario 16-osios g. 6B, LT-82135"
+    "code": "171651181"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Žiburys\"",
@@ -269,7 +265,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Žiburys\"",
     "code": "154177471",
-    "address": "Anykščiai, Statybininkų g. 11, LT-29121"
+    "address": "Anykščiai, Statybininkų g. 11, LT-29121",
+    "vatcode": "LT541774716"
   },
   {
     "name": "VšĮ \"Vilties žiburys\"",
@@ -348,11 +345,6 @@
     "address": "Vilnius, Algirdo g. 29-1, LT-03219"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija \"Žibutis\"",
-    "code": "302424043",
-    "address": "Kelmės r. sav., Tytuvėnai, J. Janonio g. 6A-7, LT-86474"
-  },
-  {
     "name": "Butų savininkų bendrija \"Žibutė\"",
     "code": "135388439",
     "address": "Kaunas, Taikos pr. 69, LT-50437"
@@ -395,12 +387,14 @@
   {
     "name": "UAB \"LAZDYNŲ ŽIBUTĖ\"",
     "code": "121474216",
-    "address": "Vilnius, Lazdynų g. 52, LT-04129"
+    "address": "Vilnius, Lazdynų g. 52, LT-04129",
+    "vatcode": "LT214742113"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Žibutė\"",
     "code": "132141024",
-    "address": "Kaunas, Neries krant. 16, LT-48402"
+    "address": "Kaunas, Neries krant. 16, LT-48402",
+    "vatcode": "LT321410219"
   },
   {
     "name": "Viešosios įstaigos Kačerginės vaikų sanatorijos \"ŽIBUTĖ\" sveikatos apsaugos darbuotojų profesinė sąjunga",
@@ -416,6 +410,11 @@
     "name": "Šilutės lopšelis-darželis \"Žibutė\"",
     "code": "190687584",
     "address": "Šilutė, Cintjoniškių g. 3, LT-99128"
+  },
+  {
+    "name": "IĮ Žibutės Jucevičienės vaistinė",
+    "code": "176632644",
+    "address": "Šilalės r. sav., Kaltinėnai, Kražių g. 8, LT-75452"
   },
   {
     "name": "Žibutės Cibulskienės įmonė",

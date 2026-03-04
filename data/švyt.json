@@ -36,14 +36,10 @@
     "address": "Šalčininkų r. sav., Šalčininkų sen., Šalčininkų k., Saulėtoji g. 51, LT-17100"
   },
   {
-    "name": "Šeimyna \"Švytinčios akutės\"",
-    "code": "305863729",
-    "address": "Raseinių r. sav., Ariogala, Vytauto g. 29, LT-60265"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Švytis\"",
     "code": "110534078",
-    "address": "Tauragė, Švyturio g. 4, LT-72361"
+    "address": "Tauragė, Švyturio g. 4, LT-72361",
+    "vatcode": "LT105340716"
   },
   {
     "name": "MB \"Švytriai\"",
@@ -53,12 +49,14 @@
   {
     "name": "UAB \"Švytukas\"",
     "code": "126241034",
-    "address": "Vilnius, Valonų g. 12D, LT-11330"
+    "address": "Vilnius, Valonų g. 12D, LT-11330",
+    "vatcode": "LT262410314"
   },
   {
     "name": "Bendruomenė \"Dailučių švyturiai\"",
     "code": "300587593",
-    "address": "Vilkaviškio r. sav., Virbalio sen., Dailučių k., Bokšto g. 9, LT-70392"
+    "address": "Vilkaviškio r. sav., Virbalio sen., Dailučių k., Bokšto g. 9, LT-70392",
+    "vatcode": "LT100015052815"
   },
   {
     "name": "MB \"Švyturiai\"",
@@ -93,7 +91,8 @@
   {
     "name": "UAB \"Švyturio taksi\"",
     "code": "302897103",
-    "address": "Klaipėda, Baltijos pr. 69-69, LT-94123"
+    "address": "Klaipėda, Baltijos pr. 69-69, LT-94123",
+    "vatcode": "LT100009069716"
   },
   {
     "name": "UAB Švyturio klinika",
@@ -108,7 +107,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Švyturio laikraštis\"",
     "code": "163973784",
-    "address": "Kretinga, Jono Karolio Chodkevičiaus g. 10, LT-97130"
+    "address": "Kretinga, Jono Karolio Chodkevičiaus g. 10, LT-97130",
+    "vatcode": "LT639737811"
   },
   {
     "name": "VšĮ Švyturio mokykla",
@@ -118,7 +118,8 @@
   {
     "name": "Švyturio valda UAB",
     "code": "307469658",
-    "address": "Klaipėda, Tilžės g. 52A, LT-91112"
+    "address": "Klaipėda, Tilžės g. 52A, LT-91112",
+    "vatcode": "LT100019142917"
   },
   {
     "name": "MB Švyturioklinkeris",
@@ -191,6 +192,11 @@
     "address": "Marijampolė, R. Juknevičiaus g. 7-24, LT-68184"
   },
   {
+    "name": "Mažoji bendrija Darbų švyturys",
+    "code": "307576749",
+    "address": "Klaipėda, Utenos g. 21, LT-92308"
+  },
+  {
     "name": "Sodininkų bendrija \"Švyturys\"",
     "code": "241772160",
     "address": "Klaipėda, Joniškės g."
@@ -208,7 +214,8 @@
   {
     "name": "UAB \"ŠVYTURYS-UTENOS ALUS\"",
     "code": "110796493",
-    "address": "Utena, Pramonės g. 12, LT-28216"
+    "address": "Utena, Pramonės g. 12, LT-28216",
+    "vatcode": "LT107964917"
   },
   {
     "name": "UAB \"Šturmų švyturys\"",
@@ -225,17 +232,13 @@
   {
     "name": "UAB \"Švyturys\"",
     "code": "120369276",
-    "address": "Vilnius, Maironio g. 1, LT-01124"
+    "address": "Vilnius, Maironio g. 1, LT-01124",
+    "vatcode": "LT203692716"
   },
   {
     "name": "UAB ,,Švyturys-Utenos alus\" profesinė sąjunga",
     "code": "283866260",
     "address": "Utena, Pramonės g. 12, LT-28216"
-  },
-  {
-    "name": "Ukmergės profesinė sąjunga \"Švyturys\"",
-    "code": "183245772",
-    "address": "Ukmergė, Klaipėdos g. 7B, LT-20130"
   },
   {
     "name": "Vakarų Lietuvos radijo klubas \"Švyturys\"",
@@ -250,7 +253,8 @@
   {
     "name": "VšĮ \"Brolių švyturys\"",
     "code": "307195958",
-    "address": "Molėtų r. sav., Balninkų sen., Antamakių k. 1, LT-33306"
+    "address": "Molėtų r. sav., Balninkų sen., Antamakių k. 1, LT-33306",
+    "vatcode": "LT100019438918"
   },
   {
     "name": "VšĮ \"Vilties švyturys\"",
@@ -282,7 +286,8 @@
   {
     "name": "MB \"Švytėjimo fabrikas\"",
     "code": "305623698",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100013730717"
   },
   {
     "name": "MB Jausti judėti švytėti",

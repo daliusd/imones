@@ -30,11 +30,6 @@
     "address": "Vilnius, Ateities g. 9, LT-08304"
   },
   {
-    "name": "374-oji daugiabučio namo P. Vileišio g. 11 savininkų bendrija \"BANGA\"",
-    "code": "125616894",
-    "address": "Vilnius, P. Vileišio g. 11-11, LT-10307"
-  },
-  {
     "name": "45-oji garažų eksploatavimo bendrija S. Dariaus ir S. Girėno g. 11",
     "code": "145518048",
     "address": "Šiauliai"
@@ -178,6 +173,10 @@
     "name": "Daugiabučio namo Sodų g. 11 savininkų bendrija",
     "code": "302662799",
     "address": "Kelmės r. sav., Tytuvėnai, Sodų g. 11-4, LT-86485"
+  },
+  {
+    "name": "Daugiabučio namo T. Masiulio g. Nr. 11, Kaune savininkų bendrija",
+    "code": "301085704"
   },
   {
     "name": "Daugiabučio namo Vienuolyno g. Nr. 11, Trakuose savininkų bendrija \"Bernardinai\"",
@@ -380,11 +379,6 @@
     "address": "Pasvalys, Žemaitės g. 49A-3, LT-39177"
   },
   {
-    "name": "Garažų statybos ir eksploatavimo bendrija Nr. 11",
-    "code": "183140682",
-    "address": "Ukmergė, Linų g."
-  },
-  {
     "name": "Gyvenamųjų patalpų J. Bobrovskio g. 11 ir J. Bobrovskio g. 13, Vilniuje, savininkų bendrija",
     "code": "304540915",
     "address": "Vilnius, J. Bobrovskio g. 13-104, LT-06247"
@@ -437,12 +431,14 @@
   {
     "name": "MB \"11 Angelų\"",
     "code": "307562404",
-    "address": "Klaipėdos r. sav., Vėžaičių sen., Lapių k., Žvelsos g. 11, LT-96200"
+    "address": "Klaipėdos r. sav., Vėžaičių sen., Lapių k., Žvelsos g. 11, LT-96200",
+    "vatcode": "LT100019630319"
   },
   {
     "name": "MB \"11 in a row\"",
     "code": "306420302",
-    "address": "Klaipėda, Austėjos g. 8-1, LT-92350"
+    "address": "Klaipėda, Austėjos g. 8-1, LT-92350",
+    "vatcode": "LT100018675910"
   },
   {
     "name": "MB \"11 polėkių\"",
@@ -493,11 +489,6 @@
     "name": "Palangos m. Kapsų g. 11-ojo namo savininkų bendrija",
     "code": "304112156",
     "address": "Palanga, Kapsų g. 11-9, LT-00129"
-  },
-  {
-    "name": "Pažagienių daugiabučio namo Nr. 11 savininkų bendrija",
-    "code": "168943275",
-    "address": "Panevėžio r. sav., Panevėžio sen., Pažagienių k., Švyturio g. 21, LT-36222"
   },
   {
     "name": "Prekybos g. 11-ojo namo savininkų bendrija",
@@ -552,17 +543,25 @@
   {
     "name": "UAB \"Ignitis renewables projektai 11\"",
     "code": "306741831",
-    "address": "Vilnius, Laisvės pr. 10, LT-04215"
+    "address": "Vilnius, Laisvės pr. 10, LT-04215",
+    "vatcode": "LT100019210915"
   },
   {
     "name": "UAB \"Kapsų 11\"",
     "code": "305264409",
-    "address": "Vilnius, Filaretų g. 31-5, LT-01211"
+    "address": "Vilnius, Filaretų g. 31-5, LT-01211",
+    "vatcode": "LT100012662118"
   },
   {
     "name": "UAB \"LEKSUSAS 11\"",
     "code": "142151127",
-    "address": "Klaipėda, Rambyno g. 5-40, LT-93173"
+    "address": "Klaipėda, Rambyno g. 5-40, LT-93173",
+    "vatcode": "LT421511219"
+  },
+  {
+    "name": "UAB \"Mėnulio 11 turtas\"",
+    "code": "307597298",
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
   },
   {
     "name": "UAB \"Pilėnų 11\"",
@@ -595,12 +594,13 @@
   {
     "name": "UAB Tunelis 11",
     "code": "307029388",
-    "address": "Kaunas, Kaunakiemio g. 1A-112, LT-44351"
+    "address": "Kaunas, Kaunakiemio g. 1A-112, LT-44351",
+    "vatcode": "LT100018095916"
   },
   {
     "name": "UAB Tunelis 11 Finance",
     "code": "307210972",
-    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
+    "address": "Vilnius, Lenktoji g. 34, LT-08112"
   },
   {
     "name": "Ukmergės g. 11-ojo namo savininkų bendrija",
@@ -621,6 +621,11 @@
     "name": "Vilniaus miesto Daugiabučio gyvenamojo namo Tramvajų g. 11 savininkų bendrija \"Tramvajų 11\"",
     "code": "303478407",
     "address": "Vilnius, Tramvajų g. 11-4, LT-10322"
+  },
+  {
+    "name": "Vilniaus miesto Polocko g. 11 namo savininkų bendrija",
+    "code": "307598368",
+    "address": "Vilnius, Polocko g. 11-13, LT-01204"
   },
   {
     "name": "Vilniaus miesto daugiabučio gyvenamojo namo, esančio Savanorių pr. 11 A, savininkų bendrija",

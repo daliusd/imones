@@ -22,6 +22,10 @@
     "vatcode": "LT100019091111"
   },
   {
+    "name": "Justino Paukštaičio įmonė",
+    "code": "279464640"
+  },
+  {
     "name": "Plungės rajono savivaldybės administracijos Paukštakių seniūnija",
     "code": "188665463",
     "address": "Plungės r. sav., Paukštakių sen., Grumblių k."
@@ -32,6 +36,12 @@
     "address": "Klaipėda, Savanorių g. 4, LT-92291"
   },
   {
+    "name": "A. Paukštelio individuali įmonė \"ALVAPA\"",
+    "code": "125132263",
+    "address": "Vilnius, Kalvarijų g. 140A-3, LT-08209",
+    "vatcode": "LT251322610"
+  },
+  {
     "name": "Pakruojo rajono savivaldybės Juozo Paukštelio viešoji biblioteka",
     "code": "288204620",
     "address": "Pakruojis, Vytauto Didžiojo g. 41, LT-83156"
@@ -39,12 +49,17 @@
   {
     "name": "MB Paukštelis",
     "code": "307504867",
-    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297",
+    "vatcode": "LT100019340419"
   },
   {
     "name": "UAB Sulevos paukštidė",
     "code": "302900752",
     "address": "Kėdainių r. sav., Šėtos sen., Jaskaičių k. 1, LT-58137"
+  },
+  {
+    "name": "MB \"Paslaugos paukštininkams\"",
+    "code": "304975974"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Paukštininkas\"",
@@ -54,7 +69,8 @@
   {
     "name": "Lietuvos paukštininkystės asociacija",
     "code": "120748664",
-    "address": "Vilnius, Gedimino pr. 26, LT-01104"
+    "address": "Vilnius, Gedimino pr. 26, LT-01104",
+    "vatcode": "LT100016501919"
   },
   {
     "name": "Pasaulinės paukštininkystės mokslo asociacijos Lietuvos skyrius",
@@ -79,12 +95,14 @@
   {
     "name": "UAB \"Girios paukštis\"",
     "code": "303267011",
-    "address": "Rietavas, Daržų g. 7-4, LT-90314"
+    "address": "Rietavas, Daržų g. 7-4, LT-90314",
+    "vatcode": "LT100015861714"
   },
   {
     "name": "UAB \"Švedijos paukštis\"",
     "code": "300533439",
-    "address": "Ukmergė, Gružų g. 3, LT-20139"
+    "address": "Ukmergė, Gružų g. 3, LT-20139",
+    "vatcode": "LT100003117515"
   },
   {
     "name": "Viešoji įstaiga \"Žmogus paukštis\"",
@@ -113,12 +131,14 @@
   {
     "name": "Akcinė bendrovė \"Vilniaus paukštynas\"",
     "code": "186107463",
-    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Gamyklos g. 27, LT-13249"
+    "address": "Vilniaus r. sav., Rudaminos sen., Rudaminos k., Gamyklos g. 27, LT-13249",
+    "vatcode": "LT861074610"
   },
   {
     "name": "Akcinė bendrovė Kaišiadorių paukštynas",
     "code": "158891218",
-    "address": "Kaišiadorys, Paukštininkų g. 15, LT-56110"
+    "address": "Kaišiadorys, Paukštininkų g. 15, LT-56110",
+    "vatcode": "LT588912113"
   },
   {
     "name": "Darbuotojų profesinė sąjunga \"Kaišiadorių paukštynas\"",
@@ -133,7 +153,8 @@
   {
     "name": "UAB \"Alsių paukštynas\"",
     "code": "303148039",
-    "address": "Joniškio r. sav., Skaistgirio sen., Alsių k., Šaltinio g. 34, LT-84389"
+    "address": "Joniškio r. sav., Skaistgirio sen., Alsių k., Šaltinio g. 34, LT-84389",
+    "vatcode": "LT100008536514"
   },
   {
     "name": "UAB \"Anulėnų paukštynas\"",
@@ -190,7 +211,8 @@
   {
     "name": "Uždaroji akcinė bendrovė Zujų paukštynas",
     "code": "183131338",
-    "address": "Ukmergės r. sav., Vidiškių sen., Zujų k."
+    "address": "Ukmergės r. sav., Vidiškių sen., Zujų k.",
+    "vatcode": "LT831313314"
   },
   {
     "name": "Vilniaus paukštynas profesinė sąjunga \"Solidarumas\"",
@@ -206,7 +228,8 @@
   {
     "name": "Žemės ūkio bendrovė \"GINKŪNŲ PAUKŠTYNAS\"",
     "code": "175712411",
-    "address": "Šiaulių r. sav., Ginkūnų sen., Malavėnų k., Bruknių g. 3, LT-76111"
+    "address": "Šiaulių r. sav., Ginkūnų sen., Malavėnų k., Bruknių g. 3, LT-76111",
+    "vatcode": "LT757124113"
   },
   {
     "name": "Žemės ūkio kooperatyvas Mikoliškio paukštynas",
@@ -230,14 +253,34 @@
     "address": "Vilnius, Gabijos g. 73-32, LT-06103"
   },
   {
+    "name": "UAB \"Nakties paukštė\"",
+    "code": "302620622"
+  },
+  {
     "name": "Vandenų brolija \"Meironų Marina ir Paukštė\"",
     "code": "305645164",
-    "address": "Ignalinos r. sav., Ignalinos sen., Meironų k., Meiros g. 40, LT-30201"
+    "address": "Ignalinos r. sav., Ignalinos sen., Meironų k., Meiros g. 40, LT-30201",
+    "vatcode": "LT100014106610"
   },
   {
     "name": "Viešoji įstaiga \"JŪROS PAUKŠTĖ\"",
     "code": "141923330",
     "address": "Klaipėda, Turgaus g. 6-3, LT-91247"
+  },
+  {
+    "name": "D. Paukštės komanditinė ūkinė bendrija \"Danalta\"",
+    "code": "155539012",
+    "address": "Ignalina, Geležinkelio g. 21, LT-30134",
+    "vatcode": "LT555390113"
+  },
+  {
+    "name": "J. Paukštės veterinarinė įmonė",
+    "code": "155521167",
+    "address": "Ignalinos r. sav., Naujojo Daugėliškio sen., Taujūnų k."
+  },
+  {
+    "name": "K. Paukštės įmonė",
+    "code": "155435896"
   },
   {
     "name": "MB Paukštės autoservisas",
@@ -247,7 +290,8 @@
   {
     "name": "MB Eco paukščiai",
     "code": "303018017",
-    "address": "Radviliškio r. sav., Baisogalos sen., Pakiršinio k., Ateities g. 9A-52, LT-82296"
+    "address": "Radviliškio r. sav., Baisogalos sen., Pakiršinio k., Ateities g. 9A-52, LT-82296",
+    "vatcode": "LT100008353219"
   },
   {
     "name": "UAB \"Vievio paukščiai\"",
@@ -258,7 +302,12 @@
   {
     "name": "VšĮ \"Pievų paukščiai\"",
     "code": "303224572",
-    "address": "Joniškio r. sav., Žagarė, Švėtės g. 14, LT-84318"
+    "address": "Joniškio r. sav., Žagarė, Švėtės g. 14, LT-84318",
+    "vatcode": "LT100009110712"
+  },
+  {
+    "name": "Arūno Paukščio įmonė",
+    "code": "134677070"
   },
   {
     "name": "MB \"Paukščio lizdas\"",

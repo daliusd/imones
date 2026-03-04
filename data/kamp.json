@@ -5,9 +5,15 @@
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
+    "name": "8 kampai MB",
+    "code": "307586387",
+    "address": "Klaipėda, Tiltų g. 24-25, LT-91246"
+  },
+  {
     "name": "MB \"45 kampai\"",
     "code": "306125063",
-    "address": "Kaunas, Europos pr. 28-3, LT-46326"
+    "address": "Kaunas, Europos pr. 28-3, LT-46326",
+    "vatcode": "LT100015984417"
   },
   {
     "name": "MB \"7 kampai\"",
@@ -18,7 +24,8 @@
   {
     "name": "MB \"Ovalūs kampai\"",
     "code": "305336972",
-    "address": "Kaunas, Raudondvario pl. 164, LT-47173"
+    "address": "Kaunas, Raudondvario pl. 164, LT-47173",
+    "vatcode": "LT100015154010"
   },
   {
     "name": "MB \"Trys kampai\"",
@@ -38,7 +45,8 @@
   {
     "name": "UAB \"Keturi kampai\"",
     "code": "152060875",
-    "address": "Druskininkai, Druskininkų g. 22, LT-66168"
+    "address": "Druskininkai, Druskininkų g. 22, LT-66168",
+    "vatcode": "LT520608716"
   },
   {
     "name": "UAB \"Minties kampai\"",
@@ -98,7 +106,8 @@
   {
     "name": "Atakos kampas MB",
     "code": "305694033",
-    "address": "Trakų r. sav., Paluknio sen., Liepynų k., Sakalų g. 29, LT-21169"
+    "address": "Trakų r. sav., Paluknio sen., Liepynų k., Sakalų g. 29, LT-21169",
+    "vatcode": "LT100016741719"
   },
   {
     "name": "DNSB \"Gargždų kampas\"",
@@ -164,7 +173,8 @@
   {
     "name": "MB \"Kibus kampas\"",
     "code": "304997433",
-    "address": "Vilnius, A. Kojelavičiaus g. 274-3, LT-11109"
+    "address": "Vilnius, A. Kojelavičiaus g. 274-3, LT-11109",
+    "vatcode": "LT100012139818"
   },
   {
     "name": "MB \"Kitas Kampas\"",
@@ -195,12 +205,14 @@
   {
     "name": "MB \"Sotus kampas\"",
     "code": "305035887",
-    "address": "Kauno r. sav., Vilkija, Čekiškės g. 43A, LT-54226"
+    "address": "Kauno r. sav., Vilkija, Čekiškės g. 43A, LT-54226",
+    "vatcode": "LT100013341515"
   },
   {
     "name": "MB \"Trapecijos kampas\"",
     "code": "305773897",
-    "address": "Vilnius, Vytauto Žalakevičiaus g. 9-6, LT-10109"
+    "address": "Vilnius, Vytauto Žalakevičiaus g. 9-6, LT-10109",
+    "vatcode": "LT100017366018"
   },
   {
     "name": "MB \"Tvarus kampas\"",
@@ -237,7 +249,8 @@
   {
     "name": "MB Gervių kampas",
     "code": "306278828",
-    "address": "Lazdijų r. sav., Veisiejų sen., Kalvelių k., Liūnelio g. 4, LT-67333"
+    "address": "Lazdijų r. sav., Veisiejų sen., Kalvelių k., Liūnelio g. 4, LT-67333",
+    "vatcode": "LT100017140718"
   },
   {
     "name": "MB Jaukus kampas",
@@ -247,7 +260,8 @@
   {
     "name": "MB Laisvas Kampas",
     "code": "307232011",
-    "address": "Palanga, Vaivorykštės g. 7A-6, LT-00169"
+    "address": "Palanga, Vaivorykštės g. 7A-6, LT-00169",
+    "vatcode": "LT100018539412"
   },
   {
     "name": "MB Rato kampas",
@@ -255,9 +269,19 @@
     "address": "Vilnius, Subačiaus g. 116-122A, LT-11343"
   },
   {
+    "name": "MB Stiliaus kampas",
+    "code": "306070186"
+  },
+  {
+    "name": "MB Stiprus kampas",
+    "code": "307588185",
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+  },
+  {
     "name": "MB Veido kampas",
     "code": "305587978",
-    "address": "Kaunas, Algirdo g. 36-4, LT-50153"
+    "address": "Kaunas, Algirdo g. 36-4, LT-50153",
+    "vatcode": "LT100013261614"
   },
   {
     "name": "MB Vidinis kampas",
@@ -267,12 +291,14 @@
   {
     "name": "UAB \"Baltasis kampas\"",
     "code": "159847737",
-    "address": "Kauno r. sav., Babtai, Prieplaukos g. 3, LT-54332"
+    "address": "Kauno r. sav., Babtai, Prieplaukos g. 3, LT-54332",
+    "vatcode": "LT598477314"
   },
   {
     "name": "UAB \"Gardusis kampas\"",
     "code": "304492491",
-    "address": "Vilnius, Kareivių g. 2F-12, LT-08248"
+    "address": "Vilnius, Kareivių g. 2F-12, LT-08248",
+    "vatcode": "LT100010990212"
   },
   {
     "name": "UAB \"Geras kampas\"",
@@ -310,7 +336,8 @@
   {
     "name": "UAB \"Turtingas kampas\"",
     "code": "305919583",
-    "address": "Rokiškio r. sav., Juodupė, Taikos g. 3A, LT-42465"
+    "address": "Rokiškio r. sav., Juodupė, Taikos g. 3A, LT-42465",
+    "vatcode": "LT100014927513"
   },
   {
     "name": "UAB \"Zigmo kampas\"",
@@ -331,7 +358,8 @@
   {
     "name": "UAB Baldų kampas",
     "code": "305338425",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100014038612"
   },
   {
     "name": "UAB SKANUS KAMPAS",
@@ -354,7 +382,8 @@
   {
     "name": "Veiklos kampas, MB",
     "code": "307133643",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017726115"
   },
   {
     "name": "VšĮ \"Tiesus kampas\"",
@@ -375,6 +404,11 @@
     "name": "IĮ \"Danutos Kampelis\"",
     "code": "300662156",
     "address": "Vilnius, Fabijoniškių g. 75-75, LT-07108"
+  },
+  {
+    "name": "IĮ \"GĖLIŲ KAMPELIS\"",
+    "code": "122382518",
+    "address": "Vilnius, Šiltnamių g. 50-38, LT-04128"
   },
   {
     "name": "IĮ \"Rojaus kampelis\"",
@@ -408,7 +442,8 @@
   {
     "name": "MB \"Saldumynų kampelis\"",
     "code": "305205026",
-    "address": "Rokiškio r. sav., Rokiškio kaimiškoji sen., Bajorų k., Skersinė g. 3, LT-42102"
+    "address": "Rokiškio r. sav., Rokiškio kaimiškoji sen., Bajorų k., Skersinė g. 3, LT-42102",
+    "vatcode": "LT100018920417"
   },
   {
     "name": "MB \"Savas kampelis\"",
@@ -459,7 +494,8 @@
   {
     "name": "UAB \"Šeimos kampelis\"",
     "code": "303174607",
-    "address": "Vilnius, Rūdninkų g. 18, LT-01135"
+    "address": "Vilnius, Rūdninkų g. 18, LT-01135",
+    "vatcode": "LT100010177517"
   },
   {
     "name": "UAB \"Švaros kampelis\"",
@@ -475,7 +511,8 @@
   {
     "name": "MB Kampinė arka",
     "code": "306657080",
-    "address": "Kaunas, A. Juozapavičiaus pr. 21-25, LT-45256"
+    "address": "Kaunas, A. Juozapavičiaus pr. 21-25, LT-45256",
+    "vatcode": "LT100016569110"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"KAMPINĖ\"",
@@ -511,7 +548,8 @@
   {
     "name": "UAB \"Baltic Kampos\"",
     "code": "123769927",
-    "address": "Vilnius, Alfonso Lipniūno g. 9, LT-11302"
+    "address": "Vilnius, Alfonso Lipniūno g. 9, LT-11302",
+    "vatcode": "LT237699219"
   },
   {
     "name": "MB Kampot pipirai",
@@ -519,9 +557,14 @@
     "address": "Vilnius, Videniškių g. 1-70, LT-09300"
   },
   {
+    "name": "UAB \"Kampreka\"",
+    "code": "174987543"
+  },
+  {
     "name": "Kampu MB",
     "code": "305908188",
-    "address": "Alytus, Pramonės g. 31C, LT-62175"
+    "address": "Alytus, Pramonės g. 31C, LT-62175",
+    "vatcode": "LT100014610610"
   },
   {
     "name": "MB \"Kitu kampu\"",
@@ -546,7 +589,8 @@
   {
     "name": "Mažoji bendrija \"Pagauk kampą\"",
     "code": "304398355",
-    "address": "Vilnius, Jurgio Baltrušaičio g. 9-146, LT-06145"
+    "address": "Vilnius, Jurgio Baltrušaičio g. 9-146, LT-06145",
+    "vatcode": "LT100010584919"
   },
   {
     "name": "VšĮ \"Kertam Kampą\"",

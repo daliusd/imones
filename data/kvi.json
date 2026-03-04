@@ -1,5 +1,10 @@
 [
   {
+    "name": "KVIB-GT IĮ",
+    "code": "301850727",
+    "address": "Naujoji Akmenė, Ramučių g. 2-24, LT-85137"
+  },
+  {
     "name": "Asociacija \"Valkininkai kviecia\"",
     "code": "306799119",
     "address": "Varėnos r. sav., Valkininkų sen., Čižiūnų k., Čižiūnų g. 99A, LT-65444"
@@ -16,7 +21,8 @@
   {
     "name": "MB Kvieskite katiną",
     "code": "306351176",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100016975615"
   },
   {
     "name": "Lietuvos elnių kvieslių asociacija",
@@ -37,12 +43,14 @@
   {
     "name": "UAB \"Kvieta\"",
     "code": "302521193",
-    "address": "Panevėžio r. sav., Velžio sen., Staniūnų k., Aušrinės g. 5, LT-38120"
+    "address": "Panevėžio r. sav., Velžio sen., Staniūnų k., Aušrinės g. 5, LT-38120",
+    "vatcode": "LT100005451010"
   },
   {
     "name": "MB Paulius Kviete",
     "code": "306799681",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
+    "vatcode": "LT100018287413"
   },
   {
     "name": "Klaipėdos rajono savivaldybės administracijos Dauparų-Kvietinių seniūnija",
@@ -55,9 +63,33 @@
     "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Kvietinių k., Jaunimo g. 5, LT-96174"
   },
   {
+    "name": "Dainiaus Kvietinsko taksi paslaugų įmonė",
+    "code": "151419663",
+    "address": "Marijampolė, R. Juknevičiaus g. 76-42, LT-68198"
+  },
+  {
+    "name": "Kvietiškio kaimo bendruomenė",
+    "code": "300870602"
+  },
+  {
     "name": "Viešoji įstaiga \"Kvietiškio bendruomenės ir šeimos centras\"",
     "code": "302522555",
     "address": "Marijampolė, Kvietiškio g. 7-3, LT-68127"
+  },
+  {
+    "name": "Antano Kvietkaus įmonė",
+    "code": "162541323",
+    "address": "Kelmės r. sav., Pakražančio sen., Stulgių k., Laitekių g. 3A, LT-86304"
+  },
+  {
+    "name": "Egidijaus Kvietkausko IĮ",
+    "code": "300150088"
+  },
+  {
+    "name": "G. Kvietkausko įmonė",
+    "code": "247574790",
+    "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Sodžiaus g. 17, LT-37175",
+    "vatcode": "LT475747917"
   },
   {
     "name": "Kvietkausko gamybinė komercinė firma",
@@ -65,14 +97,25 @@
     "address": "Kalvarijos sav., Liubavo sen., Pelucmurgių k., Muitinės g. 23, LT-69285"
   },
   {
+    "name": "R. Kvietkausko automobilių remonto įmonė",
+    "code": "151256757",
+    "address": "Marijampolė, P. Armino g. 90C-11, LT-68127",
+    "vatcode": "LT100000865614"
+  },
+  {
     "name": "MB Kvietkeliai",
     "code": "306663293",
-    "address": "Vilnius, Vandentiekio g. 44-15, LT-03152"
+    "address": "Vilnius, Vandentiekio g. 44-15, LT-03152",
+    "vatcode": "LT100016717018"
   },
   {
     "name": "MB \"Kvietkera\"",
     "code": "305650542",
     "address": "Šiaulių r. sav., Gruzdžiai, Taikos g. 42, LT-81419"
+  },
+  {
+    "name": "I. Kvietkienės įmonė",
+    "code": "163703454"
   },
   {
     "name": "UAB \"Kvietkinė\"",
@@ -82,7 +125,8 @@
   {
     "name": "Kvietkinės kaimo bendruomenė",
     "code": "301735792",
-    "address": "Kalvarijos sav., Kalvarijos sen., Kvietkinės k., Ežero g. 20, LT-69230"
+    "address": "Kalvarijos sav., Kalvarijos sen., Kvietkinės k., Ežero g. 20, LT-69230",
+    "vatcode": "LT100017582719"
   },
   {
     "name": "UAB \"Kvietnešys\"",
@@ -99,12 +143,19 @@
   {
     "name": "UAB \"Kvietukas\"",
     "code": "303112687",
-    "address": "Vilnius, Gynėjų g. 14, LT-01109"
+    "address": "Vilnius, Gynėjų g. 14, LT-01109",
+    "vatcode": "LT100007958313"
   },
   {
     "name": "MB Kvietė",
     "code": "307157014",
-    "address": "Gargždai, Klaipėdos g. 25-15, LT-96135"
+    "address": "Gargždai, Klaipėdos g. 25-15, LT-96135",
+    "vatcode": "LT100018765515"
+  },
+  {
+    "name": "IĮ \"Kviečia Lina\"",
+    "code": "304323541",
+    "address": "Tauragė, Liepų tak. 1E, LT-72109"
   },
   {
     "name": "VšĮ Anykščiai Kviečia",
@@ -217,13 +268,31 @@
     "address": "Kaunas, Šiaulių g. 56-2, LT-44356"
   },
   {
+    "name": "IĮ \"KVIKAS\"",
+    "code": "300016210",
+    "address": "Vilnius, S. Konarskio g. 20-22, LT-03124",
+    "vatcode": "LT100001036312"
+  },
+  {
     "name": "UAB \"Kvikis\"",
     "code": "304400774",
     "address": "Akmenės r. sav., Venta, Bausko g. 7-49E, LT-85327"
   },
   {
+    "name": "A. Kviklienės prekybos įmonė",
+    "code": "153093045"
+  },
+  {
+    "name": "Reginos Kviklienės individuali įmonė",
+    "code": "183245249"
+  },
+  {
     "name": "R. Kviklio individuali įmonė",
     "code": "184236025"
+  },
+  {
+    "name": "V. Kviklio individuali įmonė",
+    "code": "183109950"
   },
   {
     "name": "MB \"Kvilt\"",
@@ -239,7 +308,12 @@
   {
     "name": "UAB \"Kvinsera\"",
     "code": "306986154",
-    "address": "Alytus, Santaikos g. 26, LT-62123"
+    "address": "Alytus, Santaikos g. 26, LT-62123",
+    "vatcode": "LT100017197318"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Kvint\"",
+    "code": "132278119"
   },
   {
     "name": "MB \"Kvinta\"",
@@ -259,7 +333,14 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Kvintencija\"",
     "code": "134852018",
-    "address": "Kaunas, E. Ožeškienės g. 27-2, LT-44254"
+    "address": "Kaunas, E. Ožeškienės g. 27-2, LT-44254",
+    "vatcode": "LT348520113"
+  },
+  {
+    "name": "IĮ Kvintera",
+    "code": "306766838",
+    "address": "Kėdainiai, P. Lukšio g. 2-121A, LT-57199",
+    "vatcode": "LT100019157017"
   },
   {
     "name": "KVIR KINGS TRADERS LIETUVOS FILIALAS",
@@ -269,7 +350,8 @@
   {
     "name": "UAB \"Kvira\"",
     "code": "307225102",
-    "address": "Klaipėda, Debreceno g. 11-52, LT-94173"
+    "address": "Klaipėda, Debreceno g. 11-52, LT-94173",
+    "vatcode": "LT100018803017"
   },
   {
     "name": "UAB \"Kvirinus\"",
@@ -279,12 +361,14 @@
   {
     "name": "UAB Kvista",
     "code": "306288434",
-    "address": "Mažeikiai, Versmės g. 8, LT-89142"
+    "address": "Mažeikiai, Versmės g. 8, LT-89142",
+    "vatcode": "LT100015864416"
   },
   {
     "name": "UAB \"Kvistija\"",
     "code": "110684067",
-    "address": "Mažeikiai, Laižuvos g. 5, LT-89213"
+    "address": "Mažeikiai, Laižuvos g. 5, LT-89213",
+    "vatcode": "LT106840610"
   },
   {
     "name": "IĮ \"Kvistė\"",

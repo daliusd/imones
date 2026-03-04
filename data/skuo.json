@@ -19,7 +19,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Skuodiškio užeiga\"",
     "code": "174591825",
-    "address": "Skuodas, Vilniaus g. 21, LT-98111"
+    "address": "Skuodas, Vilniaus g. 21, LT-98111",
+    "vatcode": "LT100011906211"
   },
   {
     "name": "Mažeikių rajono Skuodiškių kaimo bendruomenė",
@@ -35,6 +36,16 @@
     "name": "Asociacija \"Skuodo rotary klubas\"",
     "code": "307049711",
     "address": "Skuodo r. sav., Mosėdis, Naujoji g. 2, LT-98271"
+  },
+  {
+    "name": "Automobilių garažų savininkų bendrija \"Skuodo garažai\"",
+    "code": "300857786"
+  },
+  {
+    "name": "B. Skuodo individuali įmonė",
+    "code": "141023427",
+    "address": "Klaipėda, Ąžuolų g. 7-4, LT-92206",
+    "vatcode": "LT410234219"
   },
   {
     "name": "Garažų bendrija \"Skuodo vairas\"",
@@ -112,6 +123,11 @@
     "name": "Skuodo Pranciškaus Žadeikio gimnazija",
     "code": "195175171",
     "address": "Skuodas, Vytauto g. 14, LT-98123"
+  },
+  {
+    "name": "Skuodo aktyvumo ir gerovės centras",
+    "code": "307596463",
+    "address": "Skuodas, P. Cvirkos g. 19-14, LT-98115"
   },
   {
     "name": "Skuodo amatų ir paslaugų mokykla",
@@ -516,12 +532,18 @@
   {
     "name": "UAB \"Skuodo autobusai\"",
     "code": "173935878",
-    "address": "Skuodas, Vilniaus g. 34, LT-98117"
+    "address": "Skuodas, Vilniaus g. 34, LT-98117",
+    "vatcode": "LT739358716"
+  },
+  {
+    "name": "UAB \"Skuodo autoservisas\"",
+    "code": "173932049"
   },
   {
     "name": "UAB \"Skuodo ginklai\"",
     "code": "300582176",
-    "address": "Skuodas, P. Cvirkos g. 13-3, LT-98116"
+    "address": "Skuodas, P. Cvirkos g. 13-3, LT-98116",
+    "vatcode": "LT100003950518"
   },
   {
     "name": "UAB \"Skuodo meistras\"",
@@ -536,7 +558,8 @@
   {
     "name": "UAB \"Skuodo statyba\"",
     "code": "303212196",
-    "address": "Skuodas, J. Chodkevičiaus g. 25, LT-98128"
+    "address": "Skuodas, J. Chodkevičiaus g. 25, LT-98128",
+    "vatcode": "LT100008272310"
   },
   {
     "name": "UAB \"Skuodo vėjas\"",
@@ -550,9 +573,14 @@
     "vatcode": "LT738127610"
   },
   {
+    "name": "UAB Skuodo psichikos sveikatos ir psichoterapijos centras",
+    "code": "300890640"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Skuodo anglis\"",
     "code": "174580049",
-    "address": "Skuodas, Statybininkų g. 1, LT-98129"
+    "address": "Skuodas, Statybininkų g. 1, LT-98129",
+    "vatcode": "LT745800414"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Skuodo komunalinis ūkis\"",
@@ -568,17 +596,20 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Skuodo riešutas\"",
     "code": "173935159",
-    "address": "Skuodas, Vytauto g. 2, LT-98116"
+    "address": "Skuodas, Vytauto g. 2, LT-98116",
+    "vatcode": "LT739351515"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Skuodo vandenys\"",
     "code": "173820527",
-    "address": "Skuodas, Vaižganto g. 27, LT-98121"
+    "address": "Skuodas, Vaižganto g. 27, LT-98121",
+    "vatcode": "LT738205219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Skuodo šiluma\"",
     "code": "273889830",
-    "address": "Skuodas, Šatrijos g. 27, LT-98109"
+    "address": "Skuodas, Šatrijos g. 27, LT-98109",
+    "vatcode": "LT738898314"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Skuodo ūkinės prekės\"",
@@ -589,7 +620,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Skuodo žemės ūkio technika\"",
     "code": "173856167",
-    "address": "Skuodas, Statybininkų g. 4, LT-98129"
+    "address": "Skuodas, Statybininkų g. 4, LT-98129",
+    "vatcode": "LT738561610"
   },
   {
     "name": "Uždaroji akcinė bendrovė Skuodo turgus",
@@ -632,9 +664,30 @@
     "address": "Skuodo r. sav., Skuodo sen., Puodkalių k., Piliakalnio g. 8, LT-98122"
   },
   {
+    "name": "VšĮ \"Skuodo versli karta\"",
+    "code": "302573090"
+  },
+  {
     "name": "VšĮ Skuodo greitosios medicinos pagalbos darbuotojų profesinė sąjunga \"Solidarumas\"",
     "code": "305469428",
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
+  },
+  {
+    "name": "VšĮ Skuodo psichikos sveikatos centras",
+    "code": "307595062",
+    "address": "Skuodo r. sav., Ylakių sen., Vižančių k., Mokyklos g. 1-6, LT-98322"
+  },
+  {
+    "name": "Danguolės Skuodytės individuali įmonė",
+    "code": "224346920",
+    "address": "Vilnius, Naugarduko g. 15-20, LT-03226",
+    "vatcode": "LT243469219"
+  },
+  {
+    "name": "IĮ E. Skuodžio firma \"Egusis\"",
+    "code": "133847235",
+    "address": "Kaunas, Varnių g. 26-7, LT-48386",
+    "vatcode": "LT338472314"
   },
   {
     "name": "MB \"Skuomantai\"",

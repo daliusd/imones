@@ -8,7 +8,8 @@
   {
     "name": "MB \"Reik man\"",
     "code": "306702006",
-    "address": "Klaipėdos r. sav., Dovilų sen., Ketvergių k., Austėjos g. 8, LT-95408"
+    "address": "Klaipėdos r. sav., Dovilų sen., Ketvergių k., Austėjos g. 8, LT-95408",
+    "vatcode": "LT100017347516"
   },
   {
     "name": "Medžiotojų klubas \"Reik bandyt\"",
@@ -18,17 +19,26 @@
   {
     "name": "Tiek kiek reik, MB",
     "code": "306259589",
-    "address": "Vilnius, Justiniškių g. 62A-201, LT-05239"
+    "address": "Vilnius, Justiniškių g. 62A-201, LT-05239",
+    "vatcode": "LT100016317710"
+  },
+  {
+    "name": "IĮ \"Visi reikalai\"",
+    "code": "302535848",
+    "address": "Panevėžio r. sav., Panevėžio sen., Senamiesčio k., Guobų g. 12, LT-38410",
+    "vatcode": "LT100005569817"
   },
   {
     "name": "Keisti reikalai, MB",
     "code": "307480836",
-    "address": "Vilnius, Liepyno g. 9-46, LT-08108"
+    "address": "Vilnius, Liepyno g. 9-46, LT-08108",
+    "vatcode": "LT100019327213"
   },
   {
     "name": "MB \"Apdailos reikalai\"",
     "code": "306130637",
-    "address": "Vilnius, M. K. Čiurlionio g. 25A-304, LT-03101"
+    "address": "Vilnius, M. K. Čiurlionio g. 25A-304, LT-03101",
+    "vatcode": "LT100017603019"
   },
   {
     "name": "MB \"Geri reikalai\"",
@@ -49,12 +59,18 @@
   {
     "name": "MB \"Reikalai\"",
     "code": "304397869",
-    "address": "Alytus, Naujoji g. 12-525, LT-63250"
+    "address": "Alytus, Naujoji g. 12-525, LT-63250",
+    "vatcode": "LT100016490415"
   },
   {
     "name": "MB \"Rimti reikalai\"",
     "code": "305088548",
     "address": "Vilnius, Gėlių g. 7-11, LT-01137"
+  },
+  {
+    "name": "MB Austės reikalai",
+    "code": "307584233",
+    "address": "Vilnius, Oršos g. 6-29, LT-09300"
   },
   {
     "name": "MB Bebro reikalai",
@@ -96,7 +112,8 @@
   {
     "name": "MB Įmonių reikalai",
     "code": "306809378",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019288619"
   },
   {
     "name": "MB Šuns reikalai",
@@ -197,12 +214,14 @@
   {
     "name": "MB Šventas reikalas",
     "code": "306156639",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
+    "address": "Vilnius, Architektų g. 56-101, LT-04111",
+    "vatcode": "LT100015857817"
   },
   {
     "name": "UAB \"Rimtas reikalas\"",
     "code": "303075751",
-    "address": "Vilnius, Loretos Asanavičiūtės g. 1-28, LT-04300"
+    "address": "Vilnius, Loretos Asanavičiūtės g. 1-28, LT-04300",
+    "vatcode": "LT100007800315"
   },
   {
     "name": "UAB \"Skonio reikalas\"",
@@ -212,17 +231,20 @@
   {
     "name": "UAB NT reikalas",
     "code": "305602871",
-    "address": "Vilnius, Savanorių pr. 1-70, LT-03116"
+    "address": "Vilnius, Savanorių pr. 1-70, LT-03116",
+    "vatcode": "LT100013336317"
   },
   {
     "name": "MB \"Esminiai statinio reikalavimai\"",
     "code": "302999567",
-    "address": "Vilnius, Žirmūnų g. 123-46, LT-09118"
+    "address": "Vilnius, Žirmūnų g. 123-46, LT-09118",
+    "vatcode": "LT100014318917"
   },
   {
     "name": "Uždaroji akcinė bendrovė REIKALAVIMAS.LT",
     "code": "302642184",
-    "address": "Vilnius, Kaukysos g. 18-415, LT-11342"
+    "address": "Vilnius, Kaukysos g. 18-415, LT-11342",
+    "vatcode": "LT100006443711"
   },
   {
     "name": "Reikalines, MB",
@@ -252,7 +274,8 @@
   {
     "name": "UAB Reikaliukai",
     "code": "306477189",
-    "address": "Trakų r. sav., Lentvario sen., Valų k., Neries g. 31, LT-21423"
+    "address": "Trakų r. sav., Lentvario sen., Valų k., Neries g. 31, LT-21423",
+    "vatcode": "LT100016337019"
   },
   {
     "name": "\"Ne be reikalo\", MB",
@@ -272,7 +295,8 @@
   {
     "name": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
     "code": "188729923",
-    "address": "Vilnius, Šventaragio g. 2, LT-01510"
+    "address": "Vilnius, Šventaragio g. 2, LT-01510",
+    "vatcode": "LT887299219"
   },
   {
     "name": "Jaunimo reikalų agentūra",
@@ -337,7 +361,8 @@
   {
     "name": "Migracijos departamentas prie Lietuvos Respublikos Vidaus reikalų ministerijos",
     "code": "188610666",
-    "address": "Vilnius, L. Sapiegos g. 1, LT-10312"
+    "address": "Vilnius, L. Sapiegos g. 1, LT-10312",
+    "vatcode": "LT100013621913"
   },
   {
     "name": "Nacionalinė jaunimo reikalų koordinatorių asociacija",
@@ -350,29 +375,20 @@
     "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Girios g. 7-5, LT-54307"
   },
   {
-    "name": "Pasvalio rajono vidaus reikalų sistemos darbuotojų profesinė sąjunga",
-    "code": "169282777",
-    "address": "Pasvalys, Gėlių g. 4-19, LT-39142"
-  },
-  {
-    "name": "Plungės raj. vidaus reikalų sistemos darbuotojų profesinė sąjunga",
-    "code": "171042091",
-    "address": "Plungė, Vytauto g. 1, LT-90123"
-  },
-  {
     "name": "Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos",
     "code": "188785847",
-    "address": "Vilnius, Saltoniškių g. 19, LT-08106"
+    "address": "Vilnius, Saltoniškių g. 19, LT-08106",
+    "vatcode": "LT100005428413"
   },
   {
     "name": "Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos",
     "code": "188601311",
-    "address": "Vilnius, Švitrigailos g. 18, LT-03223"
+    "address": "Vilnius, Švitrigailos g. 18, LT-03223",
+    "vatcode": "LT886013113"
   },
   {
-    "name": "Raseinių raj. vidaus reikalų sistemos darbuotojų profesinė sąjunga",
-    "code": "172435069",
-    "address": "Raseiniai, T. Daugirdo g. 8, LT-60151"
+    "name": "Raseinių rajono jaunimo reikalų taryba",
+    "code": "172439313"
   },
   {
     "name": "Reikalų ministerija, MB",
@@ -387,7 +403,8 @@
   {
     "name": "UAB \"Reikalų gausa\"",
     "code": "304934899",
-    "address": "Vilnius, Giedraičių g. 85-202, LT-08214"
+    "address": "Vilnius, Giedraičių g. 85-202, LT-08214",
+    "vatcode": "LT100012375918"
   },
   {
     "name": "Užsienio reikalų ministerijos darbuotojų profesinė sąjunga",
@@ -397,12 +414,8 @@
   {
     "name": "Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos",
     "code": "188608252",
-    "address": "Vilnius, Savanorių pr. 2, LT-03116"
-  },
-  {
-    "name": "Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos Lazdijų rinktinės profesinė sąjunga",
-    "code": "291998450",
-    "address": "Lazdijų r. sav., Lazdijų sen., Dumblio k."
+    "address": "Vilnius, Savanorių pr. 2, LT-03116",
+    "vatcode": "LT886082515"
   },
   {
     "name": "Viešoji įstaiga Vidaus reikalų ministerijos projektų valdymo agentūra",
@@ -442,13 +455,24 @@
   {
     "name": "UAB \"REIKAS\"",
     "code": "122884442",
-    "address": "Vilnius, Architektų g. 182-46, LT-04204"
+    "address": "Vilnius, Architektų g. 182-46, LT-04204",
+    "vatcode": "LT228844411"
   },
   {
     "name": "MB Reikejo vakar",
     "code": "305628229",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
     "vatcode": "LT100014495213"
+  },
+  {
+    "name": "V. Reikertienės įmonė",
+    "code": "177408040",
+    "address": "Šilutė, Tilžės g. 8-1, LT-99172",
+    "vatcode": "LT100002829215"
+  },
+  {
+    "name": "Kauno reiki centras",
+    "code": "136018072"
   },
   {
     "name": "Lietuvos Reiki asociacija",
@@ -468,7 +492,8 @@
   {
     "name": "VšĮ Indiška reiki mokykla",
     "code": "304945536",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
+    "vatcode": "LT100018476814"
   },
   {
     "name": "VšĮ Reiki centras",
@@ -478,7 +503,8 @@
   {
     "name": "\"Reikia pagalvoti\", MB",
     "code": "304515506",
-    "address": "Vilnius, Bajorų kel. 15-24, LT-08446"
+    "address": "Vilnius, Bajorų kel. 15-24, LT-08446",
+    "vatcode": "LT100011382017"
   },
   {
     "name": "\"Reikia\", UAB",
@@ -488,7 +514,8 @@
   {
     "name": "MB \"Man reikia vakar\"",
     "code": "307460004",
-    "address": "Vilnius, Žirmūnų g. 85-30, LT-09116"
+    "address": "Vilnius, Žirmūnų g. 85-30, LT-09116",
+    "vatcode": "LT100018992616"
   },
   {
     "name": "MB \"Reikia tralo\"",
@@ -508,17 +535,20 @@
   {
     "name": "MB Reikia auto",
     "code": "306663806",
-    "address": "Kaunas, Kaunakiemio g. 1A-19, LT-44351"
+    "address": "Kaunas, Kaunakiemio g. 1A-19, LT-44351",
+    "vatcode": "LT100016818014"
   },
   {
     "name": "UAB \"Kai reikia\"",
     "code": "304919534",
-    "address": "Kaunas, Klevų g. 3-3, LT-45301"
+    "address": "Kaunas, Klevų g. 3-3, LT-45301",
+    "vatcode": "LT100012098918"
   },
   {
     "name": "UAB \"Reikia pertraukos\"",
     "code": "306177779",
-    "address": "Vilnius, Aguonų g. 26, LT-03214"
+    "address": "Vilnius, Aguonų g. 26, LT-03214",
+    "vatcode": "LT100015529913"
   },
   {
     "name": "UAB \"Tai ko reikia\"",
@@ -546,7 +576,8 @@
   {
     "name": "MB \"Reikmena\"",
     "code": "305744283",
-    "address": "Kėdainių r. sav., Šėta, Dariaus ir Girėno g. 4-2, LT-58130"
+    "address": "Kėdainių r. sav., Šėta, Dariaus ir Girėno g. 4-2, LT-58130",
+    "vatcode": "LT100014027213"
   },
   {
     "name": "MB \"Kablys\" žūklės reikmenys",
@@ -554,14 +585,10 @@
     "address": "Kauno r. sav., Alšėnų sen., Jonučių k., Medaus g. 15A, LT-53213"
   },
   {
-    "name": "MB \"Verslo reikmenys\"",
-    "code": "304398316",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "MB \"Žvejybos reikmenys LT\"",
     "code": "305416272",
-    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Didvyrių g. 2, LT-54113"
+    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Didvyrių g. 2, LT-54113",
+    "vatcode": "LT100013238519"
   },
   {
     "name": "MB Astix žvejybos reikmenys",
@@ -571,7 +598,8 @@
   {
     "name": "MB Bitininkystės reikmenys",
     "code": "305860590",
-    "address": "Alytus, Vilties g. 5-4, LT-62381"
+    "address": "Alytus, Vilties g. 5-4, LT-62381",
+    "vatcode": "LT100014521115"
   },
   {
     "name": "UAB \"AUTOPUNKTO REIKMENYS\"",
@@ -585,9 +613,15 @@
     "vatcode": "LT100008311718"
   },
   {
+    "name": "IĮ \"D. Baltrimavičienės ritualinių reikmenų ir gėlių parduotuvė\"",
+    "code": "161342699",
+    "address": "Kėdainiai, Janušavos g. 43, LT-57312"
+  },
+  {
     "name": "UAB \"Reikona\"",
     "code": "304630355",
-    "address": "Šiauliai, Ragainės g. 80-5, LT-78109"
+    "address": "Šiauliai, Ragainės g. 80-5, LT-78109",
+    "vatcode": "LT100011155118"
   },
   {
     "name": "UAB \"Reikuma\"",

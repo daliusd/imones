@@ -1,8 +1,13 @@
 [
   {
+    "name": "UAB \"Baltic TIR service\"",
+    "code": "302701896"
+  },
+  {
     "name": "UAB \"TIR Logistika\"",
     "code": "306264433",
-    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263"
+    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263",
+    "vatcode": "LT100016297611"
   },
   {
     "name": "UAB \"TIR consulting\"",
@@ -34,12 +39,14 @@
   {
     "name": "UAB Tiranas",
     "code": "306304486",
-    "address": "Kelmės r. sav., Šaukėnų sen., Aunuvėnų k., Luokės g. 26, LT-86369"
+    "address": "Kelmės r. sav., Šaukėnų sen., Aunuvėnų k., Luokės g. 26, LT-86369",
+    "vatcode": "LT100018965810"
   },
   {
     "name": "UAB \"Tiranija\"",
     "code": "304229857",
-    "address": "Pasvalio r. sav., Pušaloto sen., Mikoliškio k., Sodų g. 1, LT-39263"
+    "address": "Pasvalio r. sav., Pušaloto sen., Mikoliškio k., Sodų g. 1, LT-39263",
+    "vatcode": "LT100010168810"
   },
   {
     "name": "Tiras 308 MB",
@@ -54,7 +61,8 @@
   {
     "name": "UAB \"TIRAUTA\"",
     "code": "302766805",
-    "address": "Vilnius, Perkūnkiemio g. 12-54, LT-12113"
+    "address": "Vilnius, Perkūnkiemio g. 12-54, LT-12113",
+    "vatcode": "LT100006895518"
   },
   {
     "name": "UAB \"Tirav transportas\"",
@@ -68,6 +76,11 @@
     "vatcode": "LT346048219"
   },
   {
+    "name": "IĮ Mažų tiražų spaustuvė",
+    "code": "304166741",
+    "address": "Kaunas, Gedimino g. 47-R1, LT-44242"
+  },
+  {
     "name": "UAB \"TIRCHAN\"",
     "code": "302644840",
     "address": "Vilnius, Ūmėdžių g. 78-10, LT-02302",
@@ -76,12 +89,14 @@
   {
     "name": "MB Tire Experts",
     "code": "307403779",
-    "address": "Vilniaus m. sav., Grigiškės, Vilniaus g. 61-12, LT-27113"
+    "address": "Vilniaus m. sav., Grigiškės, Vilniaus g. 61-12, LT-27113",
+    "vatcode": "LT100018838817"
   },
   {
     "name": "UAB \"Tire Logistic Serviss\"",
     "code": "301673458",
-    "address": "Klaipėda, Nidos g. 1-20, LT-93220"
+    "address": "Klaipėda, Nidos g. 1-20, LT-93220",
+    "vatcode": "LT100004081415"
   },
   {
     "name": "MB \"Tireda\"",
@@ -103,7 +118,8 @@
   {
     "name": "UAB \"Tirema\"",
     "code": "304292430",
-    "address": "Šalčininkų r. sav., Šalčininkų sen., Šalčininkėlių k., Naujoji g. 6B, LT-17268"
+    "address": "Šalčininkų r. sav., Šalčininkų sen., Šalčininkėlių k., Naujoji g. 6B, LT-17268",
+    "vatcode": "LT100010277311"
   },
   {
     "name": "UAB \"Tirena\"",
@@ -113,22 +129,31 @@
   {
     "name": "Tirenda wood, MB",
     "code": "307060145",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100018709716"
   },
   {
     "name": "Continental Tires Business Services UAB",
     "code": "306063359",
-    "address": "Kauno r. sav., Karmėlavos sen., Sergeičikų I k., Davalgonių g. 12, LT-54462"
+    "address": "Kauno r. sav., Karmėlavos sen., Sergeičikų I k., Davalgonių g. 12, LT-54462",
+    "vatcode": "LT100015244211"
   },
   {
     "name": "UAB \"Tiretas\"",
     "code": "135904788",
-    "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Motiejaus Valančiaus g. 12-1, LT-14180"
+    "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Motiejaus Valančiaus g. 12-1, LT-14180",
+    "vatcode": "LT359047811"
   },
   {
     "name": "MB \"Tirevičių sodyba\"",
     "code": "305589737",
-    "address": "Kretingos r. sav., Kretingos sen., Voveraičių k., Laukų g. 8C, LT-97158"
+    "address": "Kretingos r. sav., Kretingos sen., Voveraičių k., Laukų g. 8C, LT-97158",
+    "vatcode": "LT100017591617"
+  },
+  {
+    "name": "IĮ \"TireX\"",
+    "code": "301730489",
+    "address": "Trakų r. sav., Lentvaris, Kęstučio g. 1-4, LT-25144"
   },
   {
     "name": "Bendra Lietuvos ir Lenkijos įmonė uždaroji akcinė bendrovė \"TRANSPORTO MOKSLINIS TIRIAMASIS CENTRAS\"",
@@ -153,7 +178,13 @@
   {
     "name": "UAB \"Tiris\"",
     "code": "304543007",
-    "address": "Klaipėda, Klaipėdos g. 17, LT-92354"
+    "address": "Klaipėda, Klaipėdos g. 17, LT-92354",
+    "vatcode": "LT100010952916"
+  },
+  {
+    "name": "Individuali įmonė \"TIRISTORIUS\"",
+    "code": "300008142",
+    "address": "Visaginas, Statybininkų g. 10-46, LT-31206"
   },
   {
     "name": "UAB Tirius šeimos fondas",
@@ -222,9 +253,14 @@
     "vatcode": "LT673508219"
   },
   {
+    "name": "IĮ \"TIRMIS\"",
+    "code": "301147846"
+  },
+  {
     "name": "UAB \"Tirnoda\"",
     "code": "305340230",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100013400211"
   },
   {
     "name": "UAB Tirnu",
@@ -239,12 +275,14 @@
   {
     "name": "TIROLA, UAB",
     "code": "302657873",
-    "address": "Vilnius, Žalgirio g. 112A, LT-09300"
+    "address": "Vilnius, Žalgirio g. 112A, LT-09300",
+    "vatcode": "LT100006332114"
   },
   {
     "name": "UAB \"Tirola Logistics\"",
     "code": "302919418",
-    "address": "Vilnius, Žalgirio g. 112A, LT-09300"
+    "address": "Vilnius, Žalgirio g. 112A, LT-09300",
+    "vatcode": "LT100010713115"
   },
   {
     "name": "Žvejų klubas \"Tironas\"",
@@ -254,7 +292,8 @@
   {
     "name": "UAB \"Tirova\"",
     "code": "302605741",
-    "address": "Gargždai, Smeltalės g. 30, LT-96157"
+    "address": "Gargždai, Smeltalės g. 30, LT-96157",
+    "vatcode": "LT100006288719"
   },
   {
     "name": "MB Tirpsna",
@@ -264,7 +303,8 @@
   {
     "name": "UAB TIRSANA",
     "code": "302838247",
-    "address": "Šalčininkai, Vilniaus g. 9-18, LT-17105"
+    "address": "Šalčininkai, Vilniaus g. 9-18, LT-17105",
+    "vatcode": "LT100007374912"
   },
   {
     "name": "UAB \"TIRSIRA\"",
@@ -274,7 +314,8 @@
   {
     "name": "TirT stato MB",
     "code": "307136290",
-    "address": "Radviliškio r. sav., Aukštelkų sen., Aukštelkų k., Naujoji g. 3, LT-82485"
+    "address": "Radviliškio r. sav., Aukštelkų sen., Aukštelkų k., Naujoji g. 3, LT-82485",
+    "vatcode": "LT100018831517"
   },
   {
     "name": "Tirupati Jewellery Industries Pvt. Ltd. filialas Lietuvoje",

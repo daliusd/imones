@@ -15,6 +15,11 @@
     "address": "Širvintų r. sav., Alionių sen., Pokiškių k. 1, LT-19145"
   },
   {
+    "name": "\"Gyvas kraštas\", IĮ",
+    "code": "305785091",
+    "address": "Šiauliai, Vyšnių g. 53, LT-76275"
+  },
+  {
     "name": "Asociacija \"Bendruomenė Margininkų kraštas\"",
     "code": "306365667",
     "address": "Kauno r. sav., Taurakiemio sen., Margininkų k., Centrinė g. 31, LT-53180"
@@ -107,7 +112,8 @@
   {
     "name": "Kooperatinė bendrovė \"Radviliškio kraštas\"",
     "code": "302618742",
-    "address": "Radviliškio r. sav., Skėmių sen., Skėmių k., Kėdainių g. 13, LT-82350"
+    "address": "Radviliškio r. sav., Skėmių sen., Skėmių k., Kėdainių g. 13, LT-82350",
+    "vatcode": "LT100007656015"
   },
   {
     "name": "LS Marijampolės kraštas",
@@ -122,17 +128,20 @@
   {
     "name": "MB \"Augalų kraštas\"",
     "code": "304639856",
-    "address": "Kauno r. sav., Užliedžių sen., Paparčių k., Žemaičių g. 8, LT-54316"
+    "address": "Kauno r. sav., Užliedžių sen., Paparčių k., Žemaičių g. 8, LT-54316",
+    "vatcode": "LT100013898510"
   },
   {
     "name": "MB \"Begalybės kraštas\"",
     "code": "304724687",
-    "address": "Klaipėda, Kretingos g. 16-42, LT-92210"
+    "address": "Klaipėda, Kretingos g. 16-42, LT-92210",
+    "vatcode": "LT100016074216"
   },
   {
     "name": "MB \"Kitas kraštas\"",
     "code": "306389006",
-    "address": "Kaunas, Vydūno al. 4, LT-50294"
+    "address": "Kaunas, Vydūno al. 4, LT-50294",
+    "vatcode": "LT100016712311"
   },
   {
     "name": "MB \"Smegduobių kraštas\"",
@@ -142,8 +151,7 @@
   },
   {
     "name": "MB \"Statybų kraštas\"",
-    "code": "306354165",
-    "address": "Klaipėdos miesto savivaldybės teritorija"
+    "code": "306354165"
   },
   {
     "name": "MB Žalias kraštas",
@@ -156,11 +164,6 @@
     "address": "Kretinga, Stoties g. 9B, LT-97122"
   },
   {
-    "name": "Profesinė sąjunga \"Žemaičių kraštas\"",
-    "code": "300006839",
-    "address": "Plungė, Vytauto g. 10, LT-90123"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Merkio kraštas\"",
     "code": "184610829",
     "address": "Varėna, Parko g. 8, LT-65192",
@@ -169,7 +172,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Nemuno kraštas\"",
     "code": "134054237",
-    "address": "Kaunas, Raudondvario pl. 164A, LT-47173"
+    "address": "Kaunas, Raudondvario pl. 164A, LT-47173",
+    "vatcode": "LT340542314"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Zarasų kraštas\"",
@@ -239,7 +243,8 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Linkuvos kraštas\"",
     "code": "168041353",
-    "address": "Pakruojo r. sav., Linkuva, S. Dariaus ir S. Girėno g. 32A, LT-83446"
+    "address": "Pakruojo r. sav., Linkuva, S. Dariaus ir S. Girėno g. 32A, LT-83446",
+    "vatcode": "LT680413515"
   },
   {
     "name": "Asociacija \"Už permainas Pagėgių krašte\"",
@@ -324,7 +329,8 @@
   {
     "name": "\"Linartų krašto bendruomenė\" asociacija",
     "code": "305558115",
-    "address": "Šiaulių r. sav., Bubių sen., Linartų k., Užkampio g. 17, LT-80230"
+    "address": "Šiaulių r. sav., Bubių sen., Linartų k., Užkampio g. 17, LT-80230",
+    "vatcode": "LT100016183514"
   },
   {
     "name": "\"ŠIMONIŲ KRAŠTO\" bendruomenė",
@@ -339,7 +345,8 @@
   {
     "name": "Akcinė bendrovė \"KRAŠTO PROJEKTAI\"",
     "code": "122228598",
-    "address": "Vilnius, Konstitucijos pr. 23, LT-08105"
+    "address": "Vilnius, Konstitucijos pr. 23, LT-08105",
+    "vatcode": "LT222285917"
   },
   {
     "name": "Akmenės krašto Parkinsono bendrija",
@@ -374,7 +381,8 @@
   {
     "name": "Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos",
     "code": "188651524",
-    "address": "Vilnius, Jankiškių g. 50, LT-02300"
+    "address": "Vilnius, Jankiškių g. 50, LT-02300",
+    "vatcode": "LT100001039610"
   },
   {
     "name": "Anykščių krašto Varkujiečių bendrija",
@@ -474,7 +482,8 @@
   {
     "name": "Asociacija Paparčių krašto bendruomenė",
     "code": "304498462",
-    "address": "Kaišiadorių r. sav., Paparčių sen., Paparčių k., Dominikonų g. 13, LT-56438"
+    "address": "Kaišiadorių r. sav., Paparčių sen., Paparčių k., Dominikonų g. 13, LT-56438",
+    "vatcode": "LT100017622610"
   },
   {
     "name": "Asociacija Sūduvos krašto mylėtojai",
@@ -594,7 +603,8 @@
   {
     "name": "Dzūkų krašto menų inkubatorius",
     "code": "302282754",
-    "address": "Alytus, Tilto g. 2, LT-62105"
+    "address": "Alytus, Tilto g. 2, LT-62105",
+    "vatcode": "LT100008056315"
   },
   {
     "name": "Dūkšto krašto bendruomenė",
@@ -670,12 +680,17 @@
   {
     "name": "Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
     "code": "304740061",
-    "address": "Vilnius, Giedraičių g. 41-101, LT-09303"
+    "address": "Vilnius, Giedraičių g. 41-101, LT-09303",
+    "vatcode": "LT100011457012"
   },
   {
     "name": "Ignalinos krašto muziejus",
     "code": "302837241",
     "address": "Ignalina, Ateities g. 43, LT-30119"
+  },
+  {
+    "name": "Informacinių technologijų tarnyba prie Krašto apsaugos ministerijos",
+    "code": "191823126"
   },
   {
     "name": "Jonavos krašto moterų asociacija \"Jonavietė\"",
@@ -700,21 +715,6 @@
   {
     "name": "Jungtinės profesinės sąjungos teritorinis padalinys Klaipėdos krašto profesinė sąjunga",
     "code": "302608342",
-    "address": "Kaunas, Gedimino g. 33, LT-44311"
-  },
-  {
-    "name": "Jungtinės profesinės sąjungos teritorinis padalinys Panevėžio krašto profesinė sąjunga",
-    "code": "302419078",
-    "address": "Kaunas, Gedimino g. 33, LT-44311"
-  },
-  {
-    "name": "Jungtinės profesinės sąjungos teritorinis padalinys Tauragės krašto profesinė sąjunga",
-    "code": "302419181",
-    "address": "Kaunas, Gedimino g. 33, LT-44311"
-  },
-  {
-    "name": "Jungtinės profesinės sąjungos teritorinis padalinys Utenos krašto profesinė sąjunga",
-    "code": "302422302",
     "address": "Kaunas, Gedimino g. 33, LT-44311"
   },
   {
@@ -773,11 +773,6 @@
     "address": "Kaunas, Eivenių g. 2, LT-50161"
   },
   {
-    "name": "Kauno krašto darbininkų sąjunga",
-    "code": "193068669",
-    "address": "Kaunas, K. Baršausko g. 74-10, LT-51438"
-  },
-  {
     "name": "Kauno krašto dermatologų ir venerologų draugija",
     "code": "303224661",
     "address": "Kaunas, Eivenių g. 2, LT-50161"
@@ -831,11 +826,6 @@
     "name": "Kauno krašto pramonininkų ir darbdavių asociacija",
     "code": "134778710",
     "address": "Kaunas, K. Donelaičio g. 2, LT-44213"
-  },
-  {
-    "name": "Kauno krašto profesinė sąjunga \"Solidarumas\"",
-    "code": "303348075",
-    "address": "Vilnius, Ulonų g. 5-301, LT-08240"
   },
   {
     "name": "Kauno krašto reumatologų draugija",
@@ -945,7 +935,8 @@
   {
     "name": "Klaipėdos krašto vystymo kompanija, UAB",
     "code": "307007491",
-    "address": "Vilnius, Vingrių g. 15-11, LT-01141"
+    "address": "Vilnius, Vingrių g. 15-11, LT-01141",
+    "vatcode": "LT100017610011"
   },
   {
     "name": "Klubas \"Kretingos krašto ainiai\"",
@@ -1024,7 +1015,8 @@
   {
     "name": "Kėdainių krašto kredito unija",
     "code": "300583851",
-    "address": "Kėdainiai, Josvainių g. 5, LT-57269"
+    "address": "Kėdainiai, Josvainių g. 5, LT-57269",
+    "vatcode": "LT100018704614"
   },
   {
     "name": "Kėdainių krašto krepšinio mėgėjų asociacija",
@@ -1082,6 +1074,10 @@
     "address": "Lazdijų r. sav., Noragėlių sen., Seiliūnų k., Tujų g. 8, LT-67224"
   },
   {
+    "name": "Lazdijų rajono Statiškės krašto bendruomenės komitetas",
+    "code": "302333921"
+  },
+  {
     "name": "Lietuvos Psichiatrų Asociacijos Klaipėdos krašto filialas",
     "code": "301031560",
     "address": "Kretinga, Žemaitės al. 1, LT-97106"
@@ -1089,7 +1085,8 @@
   {
     "name": "Lietuvos Respublikos krašto apsaugos ministerija",
     "code": "188602751",
-    "address": "Vilnius, Totorių g. 25, LT-01121"
+    "address": "Vilnius, Totorių g. 25, LT-01121",
+    "vatcode": "LT100001016116"
   },
   {
     "name": "Lietuvos bajorų Kauno krašto sąjunga",
@@ -1282,11 +1279,6 @@
     "address": "Molėtų r. sav., Čiulėnų sen., Juodėnų k., Šilelio g. 18, LT-33355"
   },
   {
-    "name": "Molėtų krašto dirbančiųjų profesinė sąjunga",
-    "code": "302568702",
-    "address": "Molėtų rajono savivaldybės teritorija"
-  },
-  {
     "name": "Molėtų krašto žmonių su negalia sąjunga",
     "code": "267602980",
     "address": "Molėtai, Vilniaus g. 48, LT-33140"
@@ -1459,12 +1451,8 @@
   {
     "name": "Prienų krašto muziejus",
     "code": "188206823",
-    "address": "Prienai, F. Martišiaus g. 13, LT-59118"
-  },
-  {
-    "name": "Profesinė sąjunga Klaipėdos krašto jaunųjų dizainerių susivienijimas",
-    "code": "303160511",
-    "address": "Klaipėdos m. sav."
+    "address": "Prienai, F. Martišiaus g. 13, LT-59118",
+    "vatcode": "LT100019326312"
   },
   {
     "name": "Radeikių krašto bendrija",
@@ -1485,6 +1473,11 @@
     "name": "Raitininkų seniūnijos krašto muziejus",
     "code": "306158387",
     "address": "Alytaus r. sav., Raitininkų sen., Raitininkų k., Raitininkų g. 21, LT-64193"
+  },
+  {
+    "name": "Ramygalos krašto bendruomenė",
+    "code": "307590663",
+    "address": "Panevėžio r. sav., Ramygala, Parko g. 18-13, LT-38262"
   },
   {
     "name": "Raseinių krašto istorijos muziejus",
@@ -1607,7 +1600,8 @@
   {
     "name": "UAB \"Pamario krašto projektai\"",
     "code": "300150227",
-    "address": "Šilutės r. sav., Šilutės sen., Pagrynių k., Pavasario g. 2, LT-99159"
+    "address": "Šilutės r. sav., Šilutės sen., Pagrynių k., Pavasario g. 2, LT-99159",
+    "vatcode": "LT100001987213"
   },
   {
     "name": "UAB \"Saulės krašto nekilnojamasis turtas\"",
@@ -1640,6 +1634,10 @@
     "address": "Ukmergės r. sav., Siesikų sen., Gružų k. 9, LT-20321"
   },
   {
+    "name": "Utenos krašto epilepsija sergančiųjų ir jų globėjų draugija",
+    "code": "300143873"
+  },
+  {
     "name": "Utenos krašto žmonių su negalia sąjunga",
     "code": "184215230",
     "address": "Utena, Taikos g. 6, LT-28153"
@@ -1650,14 +1648,20 @@
     "address": "Utenos r. sav., Užpalių sen., Kaniūkų k."
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"KRAŠTO STATYBA\"",
+    "code": "123926613"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Krašto projektai ir partneriai\"",
     "code": "124663332",
-    "address": "Vilnius, Konstitucijos pr. 23, LT-08105"
+    "address": "Vilnius, Konstitucijos pr. 23, LT-08105",
+    "vatcode": "LT246633314"
   },
   {
     "name": "Uždaroji akcinė bendrovė Švenčionių krašto redakcija",
     "code": "178865946",
-    "address": "Švenčionių r. sav., Švenčionėliai, Liepų g. 29, LT-18219"
+    "address": "Švenčionių r. sav., Švenčionėliai, Liepų g. 29, LT-18219",
+    "vatcode": "LT788659419"
   },
   {
     "name": "VAIŽGANTO KRAŠTO BENDRUOMENĖ",
@@ -1923,7 +1927,8 @@
   {
     "name": "Šalčininkėlių krašto bendruomenės centras",
     "code": "175043792",
-    "address": "Šalčininkų r. sav., Šalčininkų sen., Šalčininkėlių k."
+    "address": "Šalčininkų r. sav., Šalčininkų sen., Šalčininkėlių k.",
+    "vatcode": "LT100016755113"
   },
   {
     "name": "Šiaulių krašto bajorų sąjunga",
@@ -2059,7 +2064,8 @@
   {
     "name": "UAB \"Kraštotvarka ir teritorijų planavimas\"",
     "code": "305052018",
-    "address": "Vilnius, Gvazdikų g. 36, LT-10106"
+    "address": "Vilnius, Gvazdikų g. 36, LT-10106",
+    "vatcode": "LT100014762710"
   },
   {
     "name": "Akmenės kraštotyros klubas",
@@ -2104,7 +2110,8 @@
   {
     "name": "Panevėžio kraštotyros muziejus",
     "code": "190431446",
-    "address": "Panevėžys, Vasario 16-osios g. 23, LT-35185"
+    "address": "Panevėžys, Vasario 16-osios g. 23, LT-35185",
+    "vatcode": "LT100018527812"
   },
   {
     "name": "Puikiškių kraštotyros muziejus",
@@ -2149,12 +2156,14 @@
   {
     "name": "Mažoji bendrija \"Storių kraštovaizdis\"",
     "code": "304430917",
-    "address": "Anykščiai, Storių g. 17-8, LT-29134"
+    "address": "Anykščiai, Storių g. 17-8, LT-29134",
+    "vatcode": "LT100015449911"
   },
   {
     "name": "UAB \"Pajūrio kraštovaizdis\"",
     "code": "305445758",
-    "address": "Kretingos r. sav., Kretingos sen., Vydmantų k., Žalioji g. 30E, LT-97223"
+    "address": "Kretingos r. sav., Kretingos sen., Vydmantų k., Žalioji g. 30E, LT-97223",
+    "vatcode": "LT100013259612"
   },
   {
     "name": "Kraštovaizdžio ir želdynų ekspertų grupė",
@@ -2179,7 +2188,8 @@
   {
     "name": "MB \"V&G Kraštovaizdžio architektūros studija\"",
     "code": "305623310",
-    "address": "Marijampolės sav., Igliaukos sen., Nadpalių k. 1, LT-69123"
+    "address": "Marijampolės sav., Igliaukos sen., Nadpalių k. 1, LT-69123",
+    "vatcode": "LT100015646213"
   },
   {
     "name": "MB Kraštovaizdžio idėjos",
@@ -2189,7 +2199,8 @@
   {
     "name": "MB Kraštovaizdžio kūrimas",
     "code": "306684191",
-    "address": "Molėtų r. sav., Videniškių sen., Linučių k., Šilelio g. 112, LT-33294"
+    "address": "Molėtų r. sav., Videniškių sen., Linučių k., Šilelio g. 112, LT-33294",
+    "vatcode": "LT100016873814"
   },
   {
     "name": "Mažoji bendrija Kraštovaizdžio laboratorija",
@@ -2199,7 +2210,8 @@
   {
     "name": "UAB \"Kraštovaizdžio projektai\"",
     "code": "302586732",
-    "address": "Klaipėda, Liepojos g. 2-28, LT-92296"
+    "address": "Klaipėda, Liepojos g. 2-28, LT-92296",
+    "vatcode": "LT100017346316"
   },
   {
     "name": "UAB KRAŠTOVAIZDŽIO SPECIALISTŲ BIURAS",
@@ -2221,6 +2233,12 @@
     "name": "Politinis komitetas \"Naujas startas Vilkaviškio kraštui\"",
     "code": "306177715",
     "address": "Vilkaviškio r. sav., Pajevonio sen., Užbalių k., Karalkrėslio g. 9-1, LT-70361"
+  },
+  {
+    "name": "B. Ruzgienės individuali įmonė \"Kraštupėnai\"",
+    "code": "164818979",
+    "address": "Kupiškis, Vytauto g. 3, LT-40115",
+    "vatcode": "LT648189716"
   },
   {
     "name": "Asociacija \"Augink savo kraštą\"",
@@ -2255,7 +2273,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"KRAŠTŪNĖ\"",
     "code": "152580299",
-    "address": "Palanga, Vytauto g. 29, LT-00135"
+    "address": "Palanga, Vytauto g. 29, LT-00135",
+    "vatcode": "LT525802917"
   },
   {
     "name": "Kraštų kaimo bendruomenė",
@@ -2270,7 +2289,8 @@
   {
     "name": "UAB \"Kraštų dvaras\"",
     "code": "305709955",
-    "address": "Rokiškio r. sav., Obelių sen., Kraštų k. 5, LT-42240"
+    "address": "Rokiškio r. sav., Obelių sen., Kraštų k. 5, LT-42240",
+    "vatcode": "LT100013890616"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kraštų miškas\"",

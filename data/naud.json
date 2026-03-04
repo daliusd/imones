@@ -13,7 +13,8 @@
   {
     "name": "MB \"Kita nauda\"",
     "code": "306623612",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100016546919"
   },
   {
     "name": "MB \"Nauda tau\"",
@@ -65,12 +66,14 @@
   {
     "name": "UAB Nauda aplinkai",
     "code": "305959243",
-    "address": "Vilnius, Rubikių g. 17, LT-08452"
+    "address": "Vilnius, Rubikių g. 17, LT-08452",
+    "vatcode": "LT100014613018"
   },
   {
     "name": "UAB Tvarumo nauda",
     "code": "305962638",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Voveriškių k., Miško g. 4, LT-77192"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Voveriškių k., Miško g. 4, LT-77192",
+    "vatcode": "LT100014748614"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"APSKAITOS NAUDA\"",
@@ -85,6 +88,10 @@
     "vatcode": "LT100000987016"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Nauda\"",
+    "code": "159675967"
+  },
+  {
     "name": "VŠĮ \"Maksimali nauda\"",
     "code": "306630553",
     "address": "Vilnius, Žaibo g. 17-15, LT-04126"
@@ -96,9 +103,15 @@
     "vatcode": "LT100007307310"
   },
   {
+    "name": "IĮ \"Naudara\"",
+    "code": "303484972",
+    "address": "Vilnius, Pikutiškių g. 18, LT-14187"
+  },
+  {
     "name": "UAB \"Naudava\"",
     "code": "302618621",
-    "address": "Klaipėda, Nemuno g. 115, LT-93249"
+    "address": "Klaipėda, Nemuno g. 115, LT-93249",
+    "vatcode": "LT100006137919"
   },
   {
     "name": "MB \"Naudenta\"",
@@ -119,12 +132,14 @@
   {
     "name": "UAB \"Naudinga\"",
     "code": "302509084",
-    "address": "Kaunas, Ringuvos g. 40-3A, LT-45230"
+    "address": "Kaunas, Ringuvos g. 40-3A, LT-45230",
+    "vatcode": "LT100005407911"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"NAUDINGA STATYBA\"",
     "code": "123034233",
-    "address": "Vilnius, Mokyklos g. 5-5, LT-08413"
+    "address": "Vilnius, Mokyklos g. 5-5, LT-08413",
+    "vatcode": "LT230342314"
   },
   {
     "name": "VšĮ Kažkam Naudinga",
@@ -134,12 +149,14 @@
   {
     "name": "NAUDINGAS UAB",
     "code": "302923612",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103",
+    "vatcode": "LT100007326519"
   },
   {
     "name": "UAB \"Naudingas plotas\"",
     "code": "303236329",
-    "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Sodų g. 19C, LT-14163"
+    "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Sodų g. 19C, LT-14163",
+    "vatcode": "LT100014103919"
   },
   {
     "name": "UAB \"Naudingas žemės plotas\"",
@@ -153,6 +170,11 @@
     "vatcode": "LT100016386511"
   },
   {
+    "name": "IĮ \"Naudingi skaičiai\"",
+    "code": "301550612",
+    "address": "Prienų r. sav., Pakuonis, Balsėnų g. 7, LT-59319"
+  },
+  {
     "name": "MB kj naudingi projektai",
     "code": "306225957",
     "address": "Kaunas, M. Jankaus g. 20-2, LT-50275"
@@ -160,12 +182,14 @@
   {
     "name": "UAB \"Naudingi projektai\"",
     "code": "304118885",
-    "address": "Alytus, Putinų g. 23, LT-62312"
+    "address": "Alytus, Putinų g. 23, LT-62312",
+    "vatcode": "LT100009755912"
   },
   {
     "name": "UAB \"Naudingi sprendimai\"",
     "code": "304546099",
-    "address": "Kaunas, Savanorių pr. 372-16, LT-49362"
+    "address": "Kaunas, Savanorių pr. 372-16, LT-49362",
+    "vatcode": "LT100011843411"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Pastatų energinio naudingumo sprendimai\"",
@@ -175,17 +199,13 @@
   {
     "name": "UAB \"NAUDITAS\"",
     "code": "145294739",
-    "address": "Šiauliai, Vaisių g. 11A-2, LT-76236"
+    "address": "Šiauliai, Vaisių g. 11A-2, LT-76236",
+    "vatcode": "LT452947314"
   },
   {
     "name": "MB \"Naudkasa\"",
     "code": "305726940",
     "address": "Vilnius, Gerosios Vilties g. 27-106, LT-03143"
-  },
-  {
-    "name": "Bendrojo naudojimo inžinerinių tinklų ir įrangos eksploatavimo bendrija \"Žaizdrių EKV\"",
-    "code": "281624290",
-    "address": "Trakai, Birutės g. 42, LT-21114"
   },
   {
     "name": "MB \"Naudok\"",
@@ -195,7 +215,8 @@
   {
     "name": "MB Naudokis",
     "code": "307423504",
-    "address": "Vilnius, Numėjos g. 6, LT-08402"
+    "address": "Vilnius, Numėjos g. 6, LT-08402",
+    "vatcode": "LT100019220613"
   },
   {
     "name": "Asociacija \"Naudora\"",
@@ -255,7 +276,8 @@
   {
     "name": "Alaušų melioracijos sistemų naudotojų asociacija",
     "code": "305547147",
-    "address": "Utenos r. sav., Daugailių sen., Bajoriškių k., Šlaito g. 1, LT-28411"
+    "address": "Utenos r. sav., Daugailių sen., Bajoriškių k., Šlaito g. 1, LT-28411",
+    "vatcode": "LT100016589618"
   },
   {
     "name": "Alkos melioracijos sistemų naudotojų asociacija",
@@ -477,6 +499,10 @@
     "address": "Kauno r. sav., Čekiškės sen., Gaigalų k. 11, LT-54207"
   },
   {
+    "name": "Galakaušių kaimo melioracijos sistemų naudotojų asociacija",
+    "code": "302568531"
+  },
+  {
     "name": "Gegiedžių melioracijos statinių naudotojų asociacija",
     "code": "303125439",
     "address": "Pakruojis, Rožių g. 38, LT-83111"
@@ -534,6 +560,10 @@
     "name": "Janapolės melioracijos sistemų naudotojų asociacija",
     "code": "305198927",
     "address": "Telšių r. sav., Varnių sen., Patilčio k. 1, LT-88266"
+  },
+  {
+    "name": "Joniškio rajono Gataučių seniūnijos melioracijos statinių naudotojų asociacija",
+    "code": "302453529"
   },
   {
     "name": "Joniškio rajono Kirnaičių kadastro vietovės melioracijos sistemų naudotojų asociacija",
@@ -616,6 +646,10 @@
     "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Ringuvėnų k., Svirbučių g. 50, LT-81201"
   },
   {
+    "name": "Kupiškio seniūnijos Šepetos melioracijos statinių naudotojų asociacija",
+    "code": "301792124"
+  },
+  {
     "name": "Kėdainių metalo ieškiklių naudotojų klubas Radinukas",
     "code": "304920248",
     "address": "Kėdainiai, Radvilų g. 11, LT-57254"
@@ -674,6 +708,10 @@
     "name": "MELIORACIJOS SISTEMŲ NAUDOTOJŲ ASOCIACIJA \"UŽUPIS\"",
     "code": "303116536",
     "address": "Akmenės r. sav., Naujosios Akmenės kaimiškoji sen., Sablauskių k., Žalioji g. 34, LT-85273"
+  },
+  {
+    "name": "Mažučių kaimo melioracijos sistemų naudotojų asociacija",
+    "code": "302449032"
   },
   {
     "name": "Melioracijos sistemų naudotojų asociacija \"Agruva\"",
@@ -984,6 +1022,10 @@
     "name": "Melioracijos sistemų naudotojų asociacija \"Upyna\"",
     "code": "306456387",
     "address": "Telšių r. sav., Upynos sen., Upynos k., Naujoji g. 1D, LT-88227"
+  },
+  {
+    "name": "Melioracijos sistemų naudotojų asociacija \"Vaitiekupis\"",
+    "code": "302583565"
   },
   {
     "name": "Melioracijos sistemų naudotojų asociacija \"Vepriai\"",
@@ -1406,6 +1448,14 @@
     "address": "Pasvalio r. sav., Joniškėlio apylinkių sen., Meškalaukio k., Tėviškės g. 53, LT-39309"
   },
   {
+    "name": "Pasvalio rajono Nečionių k. melioracijos statinių naudotojų asociacija",
+    "code": "302441007"
+  },
+  {
+    "name": "Pasvalio rajono Saločių kadastrinės vietovės melioracijos sistemų naudotojų asociacija",
+    "code": "302527602"
+  },
+  {
     "name": "Pasvalio rajono melioracijos sistemų naudotojų asociacija \"Tetirvinai\"",
     "code": "302463021",
     "address": "Pasvalio r. sav., Vaškų sen., Tetirvinų k., Vytauto Lapėno g. 34, LT-39394"
@@ -1748,7 +1798,8 @@
   {
     "name": "MB \"Auto naudotos dalys\"",
     "code": "305764752",
-    "address": "Vilnius, Architektų g. 40-55, LT-04122"
+    "address": "Vilnius, Architektų g. 40-55, LT-04122",
+    "vatcode": "LT100014062918"
   },
   {
     "name": "Uždaroji akcinė draudimo brokerių bendrovė \"NAUDRA\"",
@@ -1756,9 +1807,14 @@
     "address": "Klaipėda, Tomo g. 20-2, LT-91249"
   },
   {
+    "name": "Elos Naudužienės IĮ",
+    "code": "300580129"
+  },
+  {
     "name": "Naudvario ūkiai, Kooperatinė bendrovė",
     "code": "306323821",
-    "address": "Panevėžio r. sav., Smilgiai, Panevėžio g. 23-1, LT-38375"
+    "address": "Panevėžio r. sav., Smilgiai, Panevėžio g. 23-1, LT-38375",
+    "vatcode": "LT100016098314"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"NAUDVARIS\"",
@@ -1780,5 +1836,16 @@
     "name": "A. J. Naudžiūno inžinerinė konsultacinė firma",
     "code": "141979959",
     "address": "Klaipėda, Ryšininkų g. 6-40, LT-91117"
+  },
+  {
+    "name": "Vytauto Naudžiūno IĮ",
+    "code": "145585214",
+    "address": "Šiauliai, Vaisių g. 6-7, LT-76236",
+    "vatcode": "LT455852113"
+  },
+  {
+    "name": "IĮ Rimos Naudžiūtės įmonė",
+    "code": "135644333",
+    "address": "Kaunas, Neries krant. 11-43, LT-48371"
   }
 ]

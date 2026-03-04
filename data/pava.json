@@ -2,12 +2,17 @@
   {
     "name": "PaVa Invest, UAB",
     "code": "306166366",
-    "address": "Vilnius, Antano Tumėno g. 4, LT-01109"
+    "address": "Vilnius, Antano Tumėno g. 4, LT-01109",
+    "vatcode": "LT100016865218"
   },
   {
     "name": "UAB \"Pava Baltic\"",
     "code": "304591354",
     "address": "Klaipėda, Minijos g. 11-49, LT-91200"
+  },
+  {
+    "name": "MB \"Mažosios bendrijos pavadinimas\"",
+    "code": "304738391"
   },
   {
     "name": "MB \"Nesugalvotas pavadinimas\"",
@@ -37,7 +42,8 @@
   {
     "name": "MB \"Be pavadinimo\"",
     "code": "303745372",
-    "address": "Vilnius, Žirmūnų g. 54-70, LT-09226"
+    "address": "Vilnius, Žirmūnų g. 54-70, LT-09226",
+    "vatcode": "LT100009233314"
   },
   {
     "name": "MB \"Kaip pavadinsi taip nepagadinsi\"",
@@ -62,22 +68,26 @@
   {
     "name": "Uždaroji akcinė bendrovė \"PAVALDA\"",
     "code": "302519178",
-    "address": "Vilnius, A. Goštauto g. 8, LT-01108"
+    "address": "Vilnius, A. Goštauto g. 8, LT-01108",
+    "vatcode": "LT100005912916"
   },
   {
     "name": "MB Pavalgiau",
     "code": "307000333",
-    "address": "Šiauliai, Radviliškio g. 72-15, LT-76367"
+    "address": "Šiauliai, Radviliškio g. 72-15, LT-76367",
+    "vatcode": "LT100018316713"
   },
   {
     "name": "MB \"Ale pavalguom\"",
     "code": "306154990",
-    "address": "Šilalės r. sav., Upynos sen., Mankaičių k. 7, LT-75245"
+    "address": "Šilalės r. sav., Upynos sen., Mankaičių k. 7, LT-75245",
+    "vatcode": "LT100016043216"
   },
   {
     "name": "UAB \"Pavalsta\"",
     "code": "304763804",
-    "address": "Vilnius, Krokuvos g. 53-3, LT-09306"
+    "address": "Vilnius, Krokuvos g. 53-3, LT-09306",
+    "vatcode": "LT100011506519"
   },
   {
     "name": "Pavandenės bendruomenė",
@@ -111,8 +121,7 @@
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Pavara\"",
-    "code": "153277650",
-    "address": "Akmenės r. sav., Papilė, Nepriklausomybės g. 82A, LT-85242"
+    "code": "153277650"
   },
   {
     "name": "MB \"2 pavara\"",
@@ -127,7 +136,8 @@
   {
     "name": "MB Pirma pavara",
     "code": "307114123",
-    "address": "Kretinga, Teresiečių g. 19-2, LT-97140"
+    "address": "Kretinga, Teresiečių g. 19-2, LT-97140",
+    "vatcode": "LT100018675718"
   },
   {
     "name": "Rokiškio automobilių sporto klubas \"Aukšta pavara\"",
@@ -137,12 +147,14 @@
   {
     "name": "UAB \"Aukšta pavara\"",
     "code": "304263037",
-    "address": "Šiauliai, K. Korsako g. 117-28, LT-78365"
+    "address": "Šiauliai, K. Korsako g. 117-28, LT-78365",
+    "vatcode": "LT100011664218"
   },
   {
     "name": "UAB \"Aukščiausia pavara\"",
     "code": "301521607",
-    "address": "Kaunas, Technikos g. 7, LT-51209"
+    "address": "Kaunas, Technikos g. 7, LT-51209",
+    "vatcode": "LT100004234910"
   },
   {
     "name": "UAB \"Penkta pavara\"",
@@ -152,12 +164,14 @@
   {
     "name": "UAB 6 pavara",
     "code": "302554033",
-    "address": "Vilnius, Viršuliškių g. 77-3, LT-05118"
+    "address": "Vilnius, Viršuliškių g. 77-3, LT-05118",
+    "vatcode": "LT100006433512"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"ELEKTROS PAVARA\"",
     "code": "121097555",
-    "address": "Vilnius, Kalvarijų g. 300, LT-08318"
+    "address": "Vilnius, Kalvarijų g. 300, LT-08318",
+    "vatcode": "LT210975515"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"PAVARA\"",
@@ -168,7 +182,8 @@
   {
     "name": "MB \"Vardenis Pavardenis\"",
     "code": "305448359",
-    "address": "Kauno r. sav., Taurakiemio sen., Piliuonos k., Pakraščio g. 1, LT-53189"
+    "address": "Kauno r. sav., Taurakiemio sen., Piliuonos k., Pakraščio g. 1, LT-53189",
+    "vatcode": "LT100013426316"
   },
   {
     "name": "MB \"Vardenė pavardenė\"",
@@ -208,7 +223,8 @@
   {
     "name": "UAB Pavaros",
     "code": "134803583",
-    "address": "Kaunas, Darbo g. 7-1, LT-52102"
+    "address": "Kaunas, Darbo g. 7-1, LT-52102",
+    "vatcode": "LT100017657310"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Hidraulinės pavaros\"",
@@ -217,9 +233,15 @@
     "vatcode": "LT771743917"
   },
   {
+    "name": "Pavarotnikienės Aurelijos individuali įmonė",
+    "code": "120302167",
+    "address": "Vilnius, Tolminkiemio g. 19-48, LT-06212"
+  },
+  {
     "name": "UAB Pavartys",
     "code": "305768583",
-    "address": "Tauragės r. sav., Skaudvilės sen., Jakutiškės k., Vakarų g. 3, LT-73441"
+    "address": "Tauragės r. sav., Skaudvilės sen., Jakutiškės k., Vakarų g. 3, LT-73441",
+    "vatcode": "LT100014969710"
   },
   {
     "name": "Pavartyčių bendruomenė",
@@ -229,7 +251,8 @@
   {
     "name": "MB \"Pavarčių ūkis\"",
     "code": "307273563",
-    "address": "Alytaus r. sav., Daugų sen., Pavarčių k. 1, LT-64184"
+    "address": "Alytaus r. sav., Daugų sen., Pavarčių k. 1, LT-64184",
+    "vatcode": "LT100019599916"
   },
   {
     "name": "UAB \"PAVARŲ CENTRAS\"",
@@ -250,12 +273,14 @@
   {
     "name": "UAB VVS pavarų remontas",
     "code": "150066986",
-    "address": "Alytaus r. sav., Alytaus sen., Luksnėnų k., Mechanizatorių g. 17, LT-64381"
+    "address": "Alytaus r. sav., Alytaus sen., Luksnėnų k., Mechanizatorių g. 17, LT-64381",
+    "vatcode": "LT100004514511"
   },
   {
     "name": "UAB Pavasariai 2",
     "code": "307519036",
-    "address": "Vilnius, Kapsų g. 11-60, LT-02169"
+    "address": "Vilnius, Kapsų g. 11-60, LT-02169",
+    "vatcode": "LT100019517619"
   },
   {
     "name": "UAB \"Pavasariniai žiedai\"",
@@ -266,6 +291,17 @@
     "name": "UAB \"Pavasarinė garbana\"",
     "code": "167213679",
     "address": "Mažeikiai, Sodų g. 5-48, LT-89138"
+  },
+  {
+    "name": "A. Pavasario firma",
+    "code": "133221587",
+    "address": "Kaunas, A. Baranausko g. 20, LT-51363"
+  },
+  {
+    "name": "A. Pavasario individuali įmonė",
+    "code": "165113598",
+    "address": "Lazdijai, Sodų g. 3, LT-67112",
+    "vatcode": "LT651135917"
   },
   {
     "name": "Daugiabučio namo Pavasario g. 2 savininkų bendrija",
@@ -283,9 +319,13 @@
     "address": "Alytaus r. sav., Simnas, Pavasario g. 6-15, LT-64308"
   },
   {
+    "name": "Individuali įmonė \"Pavasario servisas\"",
+    "code": "304794237"
+  },
+  {
     "name": "Mažeikių Pavasario g. 21-ojo namo savininkų bendrija",
     "code": "267364760",
-    "address": "Mažeikiai, Pavasario g. 21-42, LT-89127"
+    "address": "Mažeikiai, Pavasario g. 21-18, LT-89127"
   },
   {
     "name": "Mažeikių Pavasario g. 25-ojo namo savininkų bendrija",
@@ -320,7 +360,8 @@
   {
     "name": "UAB \"Pavasario sodas\"",
     "code": "303400084",
-    "address": "Vilnius, Žvaigždikių g. 31, LT-10238"
+    "address": "Vilnius, Žvaigždikių g. 31, LT-10238",
+    "vatcode": "LT100010111312"
   },
   {
     "name": "UAB \"Pavasario vaistinė\"",
@@ -370,7 +411,11 @@
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Pavasaris\"",
     "code": "180746931",
-    "address": "Telšiai, Ligoninės g."
+    "address": "Telšių r. sav., Ryškėnų sen., Ryškėnų k., Žarėnų g. 12-13, LT-87431"
+  },
+  {
+    "name": "N. Masiūno individuali įmonė \"Viščiukų pavasaris\"",
+    "code": "182824179"
   },
   {
     "name": "Nevyriausybinė organizacija \"Pavasaris\"",
@@ -415,7 +460,8 @@
   {
     "name": "Viešoji įstaiga KINO PAVASARIS",
     "code": "300514378",
-    "address": "Vilnius, Sėlių g. 10-4, LT-08124"
+    "address": "Vilnius, Sėlių g. 10-4, LT-08124",
+    "vatcode": "LT100006685013"
   },
   {
     "name": "VšĮ \"Ruduo-pavasaris\"",

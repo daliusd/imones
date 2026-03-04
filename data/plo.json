@@ -23,12 +23,21 @@
   {
     "name": "UAB \"PLOKŠTUMA 1\"",
     "code": "302765856",
-    "address": "Panevėžio r. sav., Ramygalos sen., Uliūnų k., Rožių g. 34, LT-38241"
+    "address": "Panevėžio r. sav., Ramygalos sen., Uliūnų k., Rožių g. 34, LT-38241",
+    "vatcode": "LT100006800219"
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Plokštė-1\"",
-    "code": "302334724",
-    "address": "Radviliškio r. sav., Baisogala, Grinkiškio g. 15-15, LT-82319"
+    "code": "302334724"
+  },
+  {
+    "name": "MB \"LT plokštė\"",
+    "code": "307590040",
+    "address": "Kazlų Rūda, Daumanto g. 6, LT-69431"
+  },
+  {
+    "name": "UAB \"TECHNOLITAS BALDAI\" KŪB \"DROŽLIŲ PLOKŠTĖ\"",
+    "code": "225643390"
   },
   {
     "name": "MB \"Interjero plokštės\"",
@@ -39,6 +48,10 @@
     "name": "Melioracijos sistemų naudotojų asociacija \"Plokščiai\"",
     "code": "303184423",
     "address": "Šakių r. sav., Plokščių sen., Plokščių k., Dvaro g. 6, LT-71483"
+  },
+  {
+    "name": "Alfonso Plokščio įmonė",
+    "code": "152128632"
   },
   {
     "name": "MB \"Plokščių stogų ekspertas\"",
@@ -56,11 +69,6 @@
     "address": "Šakių r. sav., Gelgaudiškio sen., Plokščių k."
   },
   {
-    "name": "Plokščių vidurinės mokyklos mokytojų daugiabučio namo savininkų bendrija",
-    "code": "174427110",
-    "address": "Šakių r. sav., Gelgaudiškio sen., Plokščių k."
-  },
-  {
     "name": "Plokščių Švč. M. Marijos Vardo parapija",
     "code": "191296581",
     "address": "Šakių r. sav., Gelgaudiškio sen., Plokščių k."
@@ -72,9 +80,18 @@
     "vatcode": "LT742860515"
   },
   {
+    "name": "UAB \"Plomas\"",
+    "code": "304894846"
+  },
+  {
     "name": "UAB \"Saugi plomba\"",
     "code": "126126683",
-    "address": "Vilnius, A. Mickevičiaus g. 7-18, LT-08119"
+    "address": "Vilnius, A. Mickevičiaus g. 7-18, LT-08119",
+    "vatcode": "LT261266811"
+  },
+  {
+    "name": "IĮ \"VR plombos\"",
+    "code": "301492785"
   },
   {
     "name": "UAB \"Plombos LT\"",
@@ -141,12 +158,14 @@
   {
     "name": "UAB \"Laisvas plotas\"",
     "code": "306686993",
-    "address": "Vilnius, Eitminų g. 20-120, LT-12145"
+    "address": "Vilnius, Eitminų g. 20-120, LT-12145",
+    "vatcode": "LT100016691416"
   },
   {
     "name": "UAB \"Naudingas plotas\"",
     "code": "303236329",
-    "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Sodų g. 19C, LT-14163"
+    "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Sodų g. 19C, LT-14163",
+    "vatcode": "LT100014103919"
   },
   {
     "name": "UAB \"Naudingas žemės plotas\"",
@@ -166,12 +185,14 @@
   {
     "name": "UAB Švarus plotas",
     "code": "305941206",
-    "address": "Kaunas, Alytaus g. 16, LT-47119"
+    "address": "Kaunas, Alytaus g. 16, LT-47119",
+    "vatcode": "LT100014543711"
   },
   {
     "name": "UAB \"Plote\"",
     "code": "305661485",
-    "address": "Vilnius, Aukštaičių g. 7, LT-11341"
+    "address": "Vilnius, Aukštaičių g. 7, LT-11341",
+    "vatcode": "LT100013583614"
   },
   {
     "name": "UAB \"Plotima\"",
@@ -208,7 +229,8 @@
   {
     "name": "MB Plovas",
     "code": "307524065",
-    "address": "Visaginas, Taikos pr. 74B-18, LT-31211"
+    "address": "Visaginas, Taikos pr. 74B-18, LT-31211",
+    "vatcode": "LT100019439916"
   },
   {
     "name": "Mažoji bendrija \"Plovas gamtoje\"",
@@ -218,7 +240,8 @@
   {
     "name": "UAB \"Pajūrio plovas\"",
     "code": "306178703",
-    "address": "Palanga, Vilimiškės kel. 103, LT-00176"
+    "address": "Palanga, Vilimiškės kel. 103, LT-00176",
+    "vatcode": "LT100015883513"
   },
   {
     "name": "MB \"Plovikas\"",
@@ -244,12 +267,14 @@
   {
     "name": "Ultragarsinis plovimas MB",
     "code": "305657227",
-    "address": "Kaunas, Dvarų g. 37, LT-46399"
+    "address": "Kaunas, Dvarų g. 37, LT-46399",
+    "vatcode": "LT100013576117"
   },
   {
     "name": "MB Plovimo ekspertai",
     "code": "307098498",
-    "address": "Kaunas, Liucernų g. 15, LT-47243"
+    "address": "Kaunas, Liucernų g. 15, LT-47243",
+    "vatcode": "LT100019666512"
   },
   {
     "name": "MB Plovimo meistrai",
@@ -264,7 +289,8 @@
   {
     "name": "UAB \"Plovimo sistemos\"",
     "code": "305033893",
-    "address": "Šiauliai, Gegužių g. 28, LT-78346"
+    "address": "Šiauliai, Gegužių g. 28, LT-78346",
+    "vatcode": "LT100012194013"
   },
   {
     "name": "UAB Plovimo profesionalai",
@@ -284,12 +310,14 @@
   {
     "name": "MB \"Plovo meistrai\"",
     "code": "304927591",
-    "address": "Vilnius, Architektų g. 89-65, LT-04207"
+    "address": "Vilnius, Architektų g. 89-65, LT-04207",
+    "vatcode": "LT100011916511"
   },
   {
     "name": "UAB Plovo Karalius",
     "code": "307140495",
-    "address": "Vilnius, Gurių Sodų 33-ioji g. 18, LT-11316"
+    "address": "Vilnius, Gurių Sodų 33-ioji g. 18, LT-11316",
+    "vatcode": "LT100019374817"
   },
   {
     "name": "Express PRO plovykla, UAB",
@@ -297,9 +325,14 @@
     "address": "Vilnius, Senosios Pilaitės kel. 7, LT-06229"
   },
   {
+    "name": "IĮ \"Naujoji plovykla\"",
+    "code": "300555439"
+  },
+  {
     "name": "MB \"Ekologiška plovykla\"",
     "code": "303073202",
-    "address": "Kaunas, Šiaurės pr. 75-5, LT-49217"
+    "address": "Kaunas, Šiaurės pr. 75-5, LT-49217",
+    "vatcode": "LT100007796313"
   },
   {
     "name": "MB \"Mobili plovykla\"",
@@ -328,7 +361,8 @@
   {
     "name": "MB Pilies plovykla",
     "code": "305577717",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
+    "vatcode": "LT100015156915"
   },
   {
     "name": "MB plovykla \"Sakla\"",
@@ -343,12 +377,14 @@
   {
     "name": "UAB \"Automobilių plovykla\"",
     "code": "302554108",
-    "address": "Marijampolė, V. Šlekio g. 3, LT-68288"
+    "address": "Marijampolė, V. Šlekio g. 3, LT-68288",
+    "vatcode": "LT100005725313"
   },
   {
     "name": "UAB \"Mix plovykla\"",
     "code": "302867505",
-    "address": "Vilnius, S. Stanevičiaus g. 96A-61, LT-07103"
+    "address": "Vilnius, S. Stanevičiaus g. 96A-61, LT-07103",
+    "vatcode": "LT100007162310"
   },
   {
     "name": "UAB \"Ukmergės plovykla\"",
@@ -363,7 +399,7 @@
   {
     "name": "UAB \"Plovyklos LT\"",
     "code": "305321447",
-    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
+    "address": "Vilnius, Lenktoji g. 34, LT-08112"
   },
   {
     "name": "UAB \"Vokiškos plovyklos\"",
@@ -373,7 +409,13 @@
   {
     "name": "UAB Plovyklos Finance LT",
     "code": "307037506",
-    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
+    "address": "Vilnius, Lenktoji g. 34, LT-08112"
+  },
+  {
+    "name": "D. Daukanto įmonė \"Plovyklų meistras\"",
+    "code": "125527641",
+    "address": "Vilnius, Pašilaičių g. 4-61, LT-06117",
+    "vatcode": "LT255276410"
   },
   {
     "name": "UAB Klaipėdos plovėjai",

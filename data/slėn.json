@@ -1,10 +1,5 @@
 [
   {
-    "name": "\"Parko slėnio\" bendrija",
-    "code": "304722615",
-    "address": "Druskininkai, Klonio g. 4, LT-66102"
-  },
-  {
     "name": "Asociacija \"Merkio slėnio HUB\"",
     "code": "306382691",
     "address": "Varėnos r. sav., Varėnos sen., Senosios Varėnos k., Vytauto g. 149, LT-65487"
@@ -70,24 +65,33 @@
     "address": "Vilniaus m. sav., Grigiškės, Kunigiškių g. 15-10, LT-27105"
   },
   {
+    "name": "Lanko slėnio bendruomenė",
+    "code": "307593798",
+    "address": "Šiauliai, S. Šalkauskio g. 10-10, LT-76287"
+  },
+  {
     "name": "MB \"Balajano slėnio baldai\"",
     "code": "307164852",
-    "address": "Raseiniai, Geišių g. 8, LT-60120"
+    "address": "Raseiniai, Geišių g. 8, LT-60120",
+    "vatcode": "LT100019203811"
   },
   {
     "name": "MB \"Rojaus slėnio gama\"",
     "code": "306063868",
-    "address": "Druskininkų sav., Viečiūnų sen., Jaskonių k., Bruknių g. 48, LT-66443"
+    "address": "Druskininkų sav., Viečiūnų sen., Jaskonių k., Bruknių g. 48, LT-66443",
+    "vatcode": "LT100018392618"
   },
   {
     "name": "MB Slėnio sprendimai",
     "code": "306951349",
-    "address": "Kaunas, Neveronių g. 9-1, LT-52284"
+    "address": "Kaunas, Neveronių g. 9-1, LT-52284",
+    "vatcode": "LT100017773611"
   },
   {
     "name": "MB Slėnio statyba",
     "code": "307185177",
-    "address": "Tauragės r. sav., Tauragės sen., Meldikviršių k., Meldikviršių g. 5A, LT-72129"
+    "address": "Tauragės r. sav., Tauragės sen., Meldikviršių k., Meldikviršių g. 5A, LT-72129",
+    "vatcode": "LT100019477212"
   },
   {
     "name": "Radžiūnų slėnio bendruomenė",
@@ -113,7 +117,8 @@
   {
     "name": "Slėnio pramogos, MB",
     "code": "307056823",
-    "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Pušyno g. 2-5, LT-92404"
+    "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Pušyno g. 2-5, LT-92404",
+    "vatcode": "LT100017714010"
   },
   {
     "name": "UAB \"Slėnio projektai\"",
@@ -129,7 +134,8 @@
   {
     "name": "Viešoji įstaiga Uogų slėnio mokymosykla",
     "code": "305600863",
-    "address": "Vilniaus r. sav., Nemėžio sen., Paliepių k., Lyglaukių g. 38, LT-13280"
+    "address": "Vilniaus r. sav., Nemėžio sen., Paliepių k., Lyglaukių g. 38, LT-13280",
+    "vatcode": "LT100015599611"
   },
   {
     "name": "Vilniaus r. Zujūnų sen. Antežerių k. Gaisų g. 1C ir Gaisų g. 1D gyvenamųjų namų savininkų bendrija \"Slėnio kotedžai\"",
@@ -174,7 +180,8 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Nemuno slėnio tradicijos\"",
     "code": "300041224",
-    "address": "Lazdijų r. sav., Kučiūnų sen., Kučiūnų k., Alnos g. 15-4, LT-67371"
+    "address": "Lazdijų r. sav., Kučiūnų sen., Kučiūnų k., Alnos g. 15-4, LT-67371",
+    "vatcode": "LT100001188311"
   },
   {
     "name": "\"Atlantų slėnis\", MB",
@@ -184,7 +191,8 @@
   {
     "name": "\"Bijūnų slėnis\", UAB",
     "code": "305195009",
-    "address": "Vilnius, Rokantiškių g. 177, LT-10252"
+    "address": "Vilnius, Rokantiškių g. 177, LT-10252",
+    "vatcode": "LT100014388517"
   },
   {
     "name": "Alijošiškių kaimo bendruomenė \"Lakštingalų slėnis\"",
@@ -370,7 +378,8 @@
   {
     "name": "Gyvenvietės \"Žaliasis slėnis\" bendruomenė",
     "code": "303121437",
-    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Italų g. 22B, LT-92359"
+    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Italų g. 22B, LT-92359",
+    "vatcode": "LT100014115710"
   },
   {
     "name": "Individualių gyvenamųjų butų savininkų bendrija \"Vakarinis slėnis\"",
@@ -388,6 +397,12 @@
     "address": "Vilnius, Rasų g. 51, LT-11351"
   },
   {
+    "name": "IĮ \"Liūdesio slėnis\"",
+    "code": "303928854",
+    "address": "Šilutė, Nemuno g. 12B, LT-99150",
+    "vatcode": "LT100015530614"
+  },
+  {
     "name": "Klaipėdos apskrities sporto klubas \"Slėnis\"",
     "code": "193425975"
   },
@@ -399,22 +414,26 @@
   {
     "name": "MB \"Grilio slėnis\"",
     "code": "306974579",
-    "address": "Klaipėdos r. sav., Kretingalė, Šaltinio g. 7, LT-96330"
+    "address": "Klaipėdos r. sav., Kretingalė, Šaltinio g. 7, LT-96330",
+    "vatcode": "LT100017129111"
   },
   {
     "name": "MB \"Gėlių slėnis\"",
     "code": "306253928",
-    "address": "Vilnius, Kopūstėlių g. 17, LT-14124"
+    "address": "Vilnius, Kopūstėlių g. 17, LT-14124",
+    "vatcode": "LT100016390419"
   },
   {
     "name": "MB \"Harmonijos slėnis\"",
     "code": "305644137",
-    "address": "Anykščių r. sav., Svėdasų sen., Vikonių k., Vikonių g. 15, LT-29357"
+    "address": "Anykščių r. sav., Svėdasų sen., Vikonių k., Vikonių g. 15, LT-29357",
+    "vatcode": "LT100015692015"
   },
   {
     "name": "MB \"Jesios slėnis\"",
     "code": "307404977",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019567312"
   },
   {
     "name": "MB \"Kalnų slėnis\"",
@@ -424,7 +443,8 @@
   {
     "name": "MB \"Katino slėnis\"",
     "code": "307151260",
-    "address": "Anykščiai, Dariaus ir Girėno g. 8, LT-29131"
+    "address": "Anykščiai, Dariaus ir Girėno g. 8, LT-29131",
+    "vatcode": "LT100019493517"
   },
   {
     "name": "MB \"Laimės slėnis\"",
@@ -454,18 +474,19 @@
   {
     "name": "MB \"Perkūno slėnis\"",
     "code": "305569923",
-    "address": "Vilniaus r. sav., Avižienių sen., Žemųjų Rusokų vs., Bendorių kel. 4A-1, LT-14336",
-    "vatcode": "LT100013778419"
+    "address": "Vilniaus r. sav., Avižienių sen., Žemųjų Rusokų vs., Bendorių kel. 4A-1, LT-14336"
   },
   {
     "name": "MB \"Renginių slėnis\"",
     "code": "306211103",
-    "address": "Vilnius, Vaduvos g. 32-31, LT-02307"
+    "address": "Vilnius, Vaduvos g. 32-31, LT-02307",
+    "vatcode": "LT100015805713"
   },
   {
     "name": "MB \"Sausmedžių slėnis\"",
     "code": "306860846",
-    "address": "Varėnos r. sav., Jakėnų sen., Kaniūkų k., Liepų g. 12, LT-65418"
+    "address": "Varėnos r. sav., Jakėnų sen., Kaniūkų k., Liepų g. 12, LT-65418",
+    "vatcode": "LT100017470618"
   },
   {
     "name": "MB \"Skaičių slėnis\"",
@@ -497,7 +518,8 @@
   {
     "name": "MB \"Velveto slėnis\"",
     "code": "303166891",
-    "address": "Vilnius, V. Mačernio g. 3H, LT-08336"
+    "address": "Vilnius, V. Mačernio g. 3H, LT-08336",
+    "vatcode": "LT100008697815"
   },
   {
     "name": "MB \"Verknės slėnis\"",
@@ -508,6 +530,10 @@
     "name": "MB \"Šilėngirės slėnis\"",
     "code": "305572741",
     "address": "Joniškis, Livonijos g. 31, LT-84115"
+  },
+  {
+    "name": "MB \"Švaros slėnis\"",
+    "code": "303184409"
   },
   {
     "name": "MB \"Žiedų slėnis\"",
@@ -522,7 +548,8 @@
   {
     "name": "MB Bališkių slėnis",
     "code": "305445740",
-    "address": "Akmenės r. sav., Venta, Statybininkų g. 53, LT-85305"
+    "address": "Akmenės r. sav., Venta, Statybininkų g. 53, LT-85305",
+    "vatcode": "LT100014821710"
   },
   {
     "name": "MB Gervių Slėnis",
@@ -547,12 +574,14 @@
   {
     "name": "MB Pelėdos slėnis",
     "code": "305536414",
-    "address": "Panevėžio r. sav., Velžio sen., Liūdynės k., Verslo g. 9, LT-38130"
+    "address": "Panevėžio r. sav., Velžio sen., Liūdynės k., Verslo g. 9, LT-38130",
+    "vatcode": "LT100013090312"
   },
   {
     "name": "MB Pramogų slėnis \"Pakalnė\"",
     "code": "307132616",
-    "address": "Raseinių r. sav., Šiluvos sen., Katauskių k., Pakalnės g. 1, LT-60423"
+    "address": "Raseinių r. sav., Šiluvos sen., Katauskių k., Pakalnės g. 1, LT-60423",
+    "vatcode": "LT100018670010"
   },
   {
     "name": "MB Spaudos slėnis",
@@ -562,7 +591,8 @@
   {
     "name": "MB Stebuklų slėnis",
     "code": "305845108",
-    "address": "Birštonas, Svarainių g. 13, LT-59215"
+    "address": "Birštonas, Svarainių g. 13, LT-59215",
+    "vatcode": "LT100015388119"
   },
   {
     "name": "MB Triušiukų slėnis",
@@ -572,7 +602,8 @@
   {
     "name": "MB Užmiškio slėnis",
     "code": "307131998",
-    "address": "Jonavos r. sav., Šveicarijos sen., Šveicarijos k., Pramonės g. 24, LT-55302"
+    "address": "Jonavos r. sav., Šveicarijos sen., Šveicarijos k., Pramonės g. 24, LT-55302",
+    "vatcode": "LT100019299614"
   },
   {
     "name": "MB Verslo slėnis",
@@ -603,12 +634,14 @@
   {
     "name": "Mažoji bendrija \"Ąžuolų slėnis 2023\"",
     "code": "306316314",
-    "address": "Kelmės r. sav., Kukečių sen., Targauskių k. 4, LT-86432"
+    "address": "Kelmės r. sav., Kukečių sen., Targauskių k. 4, LT-86432",
+    "vatcode": "LT100017606215"
   },
   {
     "name": "Mažoji bendrija Poilsio slėnis",
     "code": "306341221",
-    "address": "Klaipėda, Kauno g. 31-49, LT-91168"
+    "address": "Klaipėda, Kauno g. 31-49, LT-91168",
+    "vatcode": "LT100019585512"
   },
   {
     "name": "Melioracijos statinių naudotojų asociacija \"Aivos slėnis\"",
@@ -650,7 +683,8 @@
   {
     "name": "UAB \"Ateities slėnis\"",
     "code": "303219625",
-    "address": "Vilnius, J. Čerskio g. 10, LT-10239"
+    "address": "Vilnius, J. Čerskio g. 10, LT-10239",
+    "vatcode": "LT100008279014"
   },
   {
     "name": "UAB \"Aukso slėnis\"",
@@ -685,17 +719,20 @@
   {
     "name": "UAB \"Elijos slėnis\"",
     "code": "307023061",
-    "address": "Vilnius, Lvivo g. 105A-101, LT-08104"
+    "address": "Vilnius, Lvivo g. 105A-101, LT-08104",
+    "vatcode": "LT100017401716"
   },
   {
     "name": "UAB \"Elnių slėnis\"",
     "code": "306726523",
-    "address": "Joniškio r. sav., Skaistgirio sen., Normantėlių k. 1, LT-84379"
+    "address": "Joniškio r. sav., Skaistgirio sen., Normantėlių k. 1, LT-84379",
+    "vatcode": "LT100018417314"
   },
   {
     "name": "UAB \"Fredos slėnis\"",
     "code": "304291887",
-    "address": "Kaunas, H. ir O. Minkovskių g. 89, LT-46222"
+    "address": "Kaunas, H. ir O. Minkovskių g. 89, LT-46222",
+    "vatcode": "LT100010311910"
   },
   {
     "name": "UAB \"Gerovės slėnis\"",
@@ -708,6 +745,10 @@
     "address": "Vilnius, Pilies g. 36-51, LT-01123"
   },
   {
+    "name": "UAB \"Girios slėnis\"",
+    "code": "300566535"
+  },
+  {
     "name": "UAB \"Helijos slėnis\"",
     "code": "302431949",
     "address": "Vilnius, Didlaukio g. 39-66, LT-08321"
@@ -715,7 +756,8 @@
   {
     "name": "UAB \"INNO slėnis\"",
     "code": "305690572",
-    "address": "Vilnius, Upės g. 21-1, LT-08128"
+    "address": "Vilnius, Upės g. 21-1, LT-08128",
+    "vatcode": "LT100014907519"
   },
   {
     "name": "UAB \"Inovacijų slėnis\"",
@@ -726,7 +768,8 @@
   {
     "name": "UAB \"Investicijos slėnis\"",
     "code": "305238503",
-    "address": "Kaunas, S. Raštikio g. 47, LT-50117"
+    "address": "Kaunas, S. Raštikio g. 47, LT-50117",
+    "vatcode": "LT100012604615"
   },
   {
     "name": "UAB \"Inžinerijos slėnis\"",
@@ -737,12 +780,14 @@
   {
     "name": "UAB \"Kopų slėnis\"",
     "code": "305645189",
-    "address": "Vilnius, Upės g. 21-1, LT-08128"
+    "address": "Vilnius, Upės g. 21-1, LT-08128",
+    "vatcode": "LT100013524114"
   },
   {
     "name": "UAB \"Kretingalės slėnis\"",
     "code": "300590041",
-    "address": "Klaipėdos r. sav., Kretingalė, Žalioji g. 16-4, LT-96332"
+    "address": "Klaipėdos r. sav., Kretingalė, Žalioji g. 16-4, LT-96332",
+    "vatcode": "LT100003296312"
   },
   {
     "name": "UAB \"Kulpės slėnis\"",
@@ -752,7 +797,12 @@
   {
     "name": "UAB \"Lapės slėnis\"",
     "code": "306657002",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100018312014"
+  },
+  {
+    "name": "UAB \"Laukinis slėnis\"",
+    "code": "303819374"
   },
   {
     "name": "UAB \"Laukžemės slėnis\"",
@@ -762,7 +812,8 @@
   {
     "name": "UAB \"Mairos slėnis\"",
     "code": "305892549",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100014355611"
   },
   {
     "name": "UAB \"Mūšos slėnis\"",
@@ -772,7 +823,8 @@
   {
     "name": "UAB \"NT slėnis\"",
     "code": "303557107",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
+    "address": "Vilnius, Jogailos g. 4, LT-01116",
+    "vatcode": "LT100009147610"
   },
   {
     "name": "UAB \"Nemuno slėnis\"",
@@ -782,12 +834,14 @@
   {
     "name": "UAB \"Neravų slėnis\"",
     "code": "304298209",
-    "address": "Kauno r. sav., Domeikavos sen., Šakių k., Tvenkinių g. 8A-54, LT-47413"
+    "address": "Kauno r. sav., Domeikavos sen., Šakių k., Tvenkinių g. 8A-54, LT-47413",
+    "vatcode": "LT100011023214"
   },
   {
     "name": "UAB \"Nordika prekybos slėnis\"",
     "code": "303091887",
-    "address": "Vilnius, Vikingų g. 3, LT-02189"
+    "address": "Vilnius, Vikingų g. 3, LT-02189",
+    "vatcode": "LT100007859618"
   },
   {
     "name": "UAB \"Odontologijos slėnis\"",
@@ -808,7 +862,8 @@
   {
     "name": "UAB \"Palangos jūros slėnis\"",
     "code": "306687522",
-    "address": "Vilnius, Upės g. 5, LT-09308"
+    "address": "Vilnius, Upės g. 5, LT-09308",
+    "vatcode": "LT100016864714"
   },
   {
     "name": "UAB \"Paupio slėnis\"",
@@ -819,12 +874,14 @@
   {
     "name": "UAB \"Pavilnių saulės slėnis 14\"",
     "code": "302791139",
-    "address": "Vilnius, Gedimino pr. 23, LT-01103"
+    "address": "Vilnius, Gedimino pr. 23, LT-01103",
+    "vatcode": "LT100010893412"
   },
   {
     "name": "UAB \"Pavilnių saulės slėnis 15\"",
     "code": "302791114",
-    "address": "Vilnius, Žalgirio g. 112-1, LT-09300"
+    "address": "Vilnius, Žalgirio g. 112-1, LT-09300",
+    "vatcode": "LT100010890014"
   },
   {
     "name": "UAB \"Pavilnių saulės slėnis 17\"",
@@ -834,12 +891,14 @@
   {
     "name": "UAB \"Pavilnių saulės slėnis 18\"",
     "code": "302791064",
-    "address": "Vilnius, Didžioji g. 18, LT-01128"
+    "address": "Vilnius, Didžioji g. 18, LT-01128",
+    "vatcode": "LT100014004910"
   },
   {
     "name": "UAB \"Pavilnių saulės slėnis 22\"",
     "code": "302790973",
-    "address": "Vilnius, Ozo g. 10A-10, LT-08200"
+    "address": "Vilnius, Ozo g. 10A-10, LT-08200",
+    "vatcode": "LT100015668910"
   },
   {
     "name": "UAB \"Pavilnių saulės slėnis 25\"",
@@ -849,17 +908,20 @@
   {
     "name": "UAB \"Pavilnių saulės slėnis 4\"",
     "code": "302784536",
-    "address": "Vilnius, Ozo g. 10A-10, LT-08200"
+    "address": "Vilnius, Ozo g. 10A-10, LT-08200",
+    "vatcode": "LT100010558718"
   },
   {
     "name": "UAB \"Pavilnių saulės slėnis 5\"",
     "code": "302784397",
-    "address": "Vilnius, Ozo g. 10A-10, LT-08200"
+    "address": "Vilnius, Ozo g. 10A-10, LT-08200",
+    "vatcode": "LT100010557710"
   },
   {
     "name": "UAB \"Pavilnių saulės slėnis 6\"",
     "code": "302784372",
-    "address": "Vilnius, Ozo g. 10A-10, LT-08200"
+    "address": "Vilnius, Ozo g. 10A-10, LT-08200",
+    "vatcode": "LT100010558819"
   },
   {
     "name": "UAB \"Pietų saulės slėnis\"",
@@ -869,7 +931,8 @@
   {
     "name": "UAB \"Pušyno slėnis\"",
     "code": "303134000",
-    "address": "Vilnius, A. Gustaičio g. 23-255A, LT-02189"
+    "address": "Vilnius, A. Gustaičio g. 23-255A, LT-02189",
+    "vatcode": "LT100008111917"
   },
   {
     "name": "UAB \"Pylimo slėnis\"",
@@ -883,6 +946,10 @@
     "address": "Marijampolės sav., Marijampolės sen., Meškučių k., Vytauto g. 9B, LT-68129"
   },
   {
+    "name": "UAB \"SVAJONIŲ SLĖNIS\"",
+    "code": "300099811"
+  },
+  {
     "name": "UAB \"Saulėtekio slėnis\"",
     "code": "305701307",
     "address": "Vilnius, Tuskulėnų g. 33C-41, LT-09219"
@@ -890,12 +957,18 @@
   {
     "name": "UAB \"Silicio slėnis\"",
     "code": "305615121",
-    "address": "Vilkaviškis, Gedimino g. 3A, LT-70125"
+    "address": "Vilkaviškis, Gedimino g. 3A, LT-70125",
+    "vatcode": "LT100013368416"
   },
   {
     "name": "UAB \"Slengių slėnis\"",
     "code": "304172527",
-    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Ežero g. 47, LT-92343"
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Ežero g. 47, LT-92343",
+    "vatcode": "LT100010266518"
+  },
+  {
+    "name": "UAB \"Statybų slėnis\"",
+    "code": "302791203"
   },
   {
     "name": "UAB \"Taurų slėnis\"",
@@ -905,7 +978,8 @@
   {
     "name": "UAB \"Teresiečių slėnis\"",
     "code": "304407391",
-    "address": "Palanga, Malūno g. 2, LT-00126"
+    "address": "Palanga, Malūno g. 2, LT-00126",
+    "vatcode": "LT100010463516"
   },
   {
     "name": "UAB \"Trakų slėnis\"",
@@ -915,7 +989,8 @@
   {
     "name": "UAB \"Urbo slėnis\"",
     "code": "300149417",
-    "address": "Vilnius, Didžiųjų Gulbinų g. 45, LT-14281"
+    "address": "Vilnius, Didžiųjų Gulbinų g. 45, LT-14281",
+    "vatcode": "LT100001996111"
   },
   {
     "name": "UAB \"Vienaragio slėnis\"",
@@ -969,7 +1044,8 @@
   {
     "name": "UAB \"Žaliasis slėnis\"",
     "code": "305795107",
-    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Jungtinė g. 2, LT-92359"
+    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Jungtinė g. 2, LT-92359",
+    "vatcode": "LT100014690417"
   },
   {
     "name": "UAB Akmens slėnis",
@@ -979,12 +1055,14 @@
   {
     "name": "UAB Didlaukio slėnis",
     "code": "305571810",
-    "address": "Vilnius, Ozo g. 12A-1, LT-08200"
+    "address": "Vilnius, Ozo g. 12A-1, LT-08200",
+    "vatcode": "LT100013239315"
   },
   {
     "name": "UAB Ežerų slėnis",
     "code": "306025974",
-    "address": "Vilniaus r. sav., Avižienių sen., Saldenės k., Saldenės g. 11, LT-14186"
+    "address": "Vilniaus r. sav., Avižienių sen., Saldenės k., Saldenės g. 11, LT-14186",
+    "vatcode": "LT100014872310"
   },
   {
     "name": "UAB Kadagių slėnis",
@@ -1009,12 +1087,14 @@
   {
     "name": "UAB Pramogų slėnis",
     "code": "302545326",
-    "address": "Vilnius, Santariškių g. 41-11, LT-08440"
+    "address": "Vilnius, Santariškių g. 41-11, LT-08440",
+    "vatcode": "LT100005656014"
   },
   {
     "name": "UAB Slėnis LT",
     "code": "305723225",
-    "address": "Mažeikiai, Laisvės g. 214D, LT-89305"
+    "address": "Mažeikiai, Laisvės g. 214D, LT-89305",
+    "vatcode": "LT100013923616"
   },
   {
     "name": "UAB Užupio slėnis",
@@ -1034,12 +1114,14 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Kartenos slėnis\"",
     "code": "164259568",
-    "address": "Kretinga, Klaipėdos g. 76-3, LT-97156"
+    "address": "Kretinga, Klaipėdos g. 76-3, LT-97156",
+    "vatcode": "LT642595610"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Slėnis\"",
     "code": "180152569",
-    "address": "Telšiai, Mažeikių g. 7-1"
+    "address": "Telšiai, Mažeikių g. 7-1",
+    "vatcode": "LT801525610"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Švarios energijos slėnis\"",
@@ -1060,7 +1142,8 @@
   {
     "name": "Viešoji įstaiga \"Jaunimo slėnis\"",
     "code": "121866822",
-    "address": "Vilnius, Konstitucijos pr. 25, LT-08105"
+    "address": "Vilnius, Konstitucijos pr. 25, LT-08105",
+    "vatcode": "LT218668219"
   },
   {
     "name": "Viešoji įstaiga \"Patyrimų slėnis\"",
@@ -1071,6 +1154,11 @@
     "name": "Viešoji įstaiga \"Tvenkinių slėnis\"",
     "code": "305550780",
     "address": "Vilnius, Vilniaus g. 31, LT-01402"
+  },
+  {
+    "name": "Viešoji įstaiga \"Šilko slėnis\"",
+    "code": "307585520",
+    "address": "Raseinių r. sav., Šiluva, Ežerėlio g. 3, LT-60432"
   },
   {
     "name": "Vilniaus miesto kompleksinių paslaugų centras \"Šeimos slėnis\"",
@@ -1095,12 +1183,14 @@
   {
     "name": "Viršupio slėnis, UAB",
     "code": "307409718",
-    "address": "Vilnius, J. Jasinskio g. 16B, LT-03163"
+    "address": "Vilnius, J. Jasinskio g. 16B, LT-03163",
+    "vatcode": "LT100019323514"
   },
   {
     "name": "Vyčio slėnis, UAB",
     "code": "306728346",
-    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Šv. Faustinos g. 13F-2, LT-13276"
+    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Šv. Faustinos g. 13F-2, LT-13276",
+    "vatcode": "LT100016856814"
   },
   {
     "name": "VŠĮ Žirgininkystės klubas \"Žemaitukų slėnis\"",
@@ -1155,7 +1245,8 @@
   {
     "name": "VšĮ \"Teniso slėnis\"",
     "code": "303126936",
-    "address": "Plungė, Lentpjūvės g. 26, LT-90117"
+    "address": "Plungė, Lentpjūvės g. 26, LT-90117",
+    "vatcode": "LT100014913115"
   },
   {
     "name": "VšĮ \"Uogų slėnis\"",
@@ -1195,7 +1286,8 @@
   {
     "name": "VšĮ Mokymosi namai \"Patirčių slėnis\"",
     "code": "304552294",
-    "address": "Trakų r. sav., Senųjų Trakų sen., Pabalių k., Pabalių g. 11, LT-21157"
+    "address": "Trakų r. sav., Senųjų Trakų sen., Pabalių k., Pabalių g. 11, LT-21157",
+    "vatcode": "LT100017959518"
   },
   {
     "name": "VšĮ Obuolynės slėnis",
@@ -1220,7 +1312,8 @@
   {
     "name": "VšĮ Žvaigždžių slėnis LT",
     "code": "305728788",
-    "address": "Ukmergės r. sav., Veprių sen., Kultuvėnų k., Klevų g. 26, LT-20265"
+    "address": "Ukmergės r. sav., Veprių sen., Kultuvėnų k., Klevų g. 26, LT-20265",
+    "vatcode": "LT100014382316"
   },
   {
     "name": "Žemės sklypų adresais Vilniaus r. sav. Avižienių sen. Užubalių k. Blindžių g. 1 - 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, savininkų bendrija \"Bendorėlių slėnis\"",
@@ -1262,7 +1355,8 @@
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"KEMPINGAS SLĖNYJE\"",
     "code": "181209770",
-    "address": "Trakai, Slėnio g. 1, LT-21121"
+    "address": "Trakai, Slėnio g. 1, LT-21121",
+    "vatcode": "LT812097716"
   },
   {
     "name": "VšĮ \"Vilties slėnyje\"",

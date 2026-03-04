@@ -5,9 +5,17 @@
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
+    "name": "MB \"Mados taškai\"",
+    "code": "304200492"
+  },
+  {
     "name": "MB Keturi taškai",
     "code": "307059214",
     "address": "Vilnius, Girių g. 31-3, LT-02238"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Trys taškai\"",
+    "code": "133507072"
   },
   {
     "name": "VIEŠIEJI INTERNETO PRIEIGOS TAŠKAI (VIPT)",
@@ -59,7 +67,8 @@
   {
     "name": "MB \"Atspirties taškas\"",
     "code": "306255950",
-    "address": "Plungė, Miškų g. 24, LT-90155"
+    "address": "Plungė, Miškų g. 24, LT-90155",
+    "vatcode": "LT100015821412"
   },
   {
     "name": "MB \"Baltas taškas\"",
@@ -94,13 +103,19 @@
   {
     "name": "MB \"Grožio taškas\"",
     "code": "305200367",
-    "address": "Šiauliai, Lyros g. 7-48, LT-78286"
+    "address": "Šiauliai, Lyros g. 7-48, LT-78286",
+    "vatcode": "LT100018643619"
   },
   {
     "name": "MB \"IT ir taškas\"",
     "code": "305172537",
     "address": "Vilnius, Igno Šimulionio g. 3-119, LT-04330",
     "vatcode": "LT100012424011"
+  },
+  {
+    "name": "MB \"Infra taškas\"",
+    "code": "307588541",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Linija ir taškas\"",
@@ -122,7 +137,8 @@
   {
     "name": "MB \"Metalo taškas\"",
     "code": "306112596",
-    "address": "Šiauliai, K. Korsako g. 43-3, LT-78372"
+    "address": "Šiauliai, K. Korsako g. 43-3, LT-78372",
+    "vatcode": "LT100019699014"
   },
   {
     "name": "MB \"Nuomos taškas\"",
@@ -132,7 +148,8 @@
   {
     "name": "MB \"Rasos taškas\"",
     "code": "305738825",
-    "address": "Vilnius, Elbingo g. 17-11, LT-06285"
+    "address": "Vilnius, Elbingo g. 17-11, LT-06285",
+    "vatcode": "LT100015175619"
   },
   {
     "name": "MB \"Reklamos taškas\"",
@@ -177,7 +194,8 @@
   {
     "name": "MB Statybų taškas",
     "code": "305726495",
-    "address": "Kauno r. sav., Alšėnų sen., Jonučių k., Gulbės g. 9D, LT-53212"
+    "address": "Kauno r. sav., Alšėnų sen., Jonučių k., Gulbės g. 9D, LT-53212",
+    "vatcode": "LT100013944518"
   },
   {
     "name": "MB Tamsos Taškas",
@@ -218,12 +236,14 @@
   {
     "name": "UAB \"Auksinis taškas\"",
     "code": "306264547",
-    "address": "Mažeikiai, Senkelio g. 18A, LT-89126"
+    "address": "Mažeikiai, Senkelio g. 18A, LT-89126",
+    "vatcode": "LT100016286111"
   },
   {
     "name": "UAB \"Baldų taškas\"",
     "code": "304995101",
-    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., K. Dulksnio g. 13, LT-53304"
+    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., K. Dulksnio g. 13, LT-53304",
+    "vatcode": "LT100012154115"
   },
   {
     "name": "UAB \"CNC taškas\"",
@@ -233,7 +253,8 @@
   {
     "name": "UAB \"Dizaino taškas\"",
     "code": "301579578",
-    "address": "Kaunas, Medvėgalio g. 4-8, LT-44443"
+    "address": "Kaunas, Medvėgalio g. 4-8, LT-44443",
+    "vatcode": "LT100005328110"
   },
   {
     "name": "UAB \"Dvigubas taškas\"",
@@ -255,17 +276,20 @@
   {
     "name": "UAB \"Mėsos taškas\"",
     "code": "304944434",
-    "address": "Klaipėda, Jūros g. 2-11, LT-92118"
+    "address": "Klaipėda, Jūros g. 2-11, LT-92118",
+    "vatcode": "LT100012004718"
   },
   {
     "name": "UAB \"Ratų taškas\"",
     "code": "304406243",
-    "address": "Klaipėda, Jūrininkų pr. 2, LT-95264"
+    "address": "Klaipėda, Jūrininkų pr. 2, LT-95264",
+    "vatcode": "LT100010467811"
   },
   {
     "name": "UAB \"Raudonas taškas\"",
     "code": "304532847",
-    "address": "Vilnius, Savičiaus g. 3A, LT-01127"
+    "address": "Vilnius, Savičiaus g. 3A, LT-01127",
+    "vatcode": "LT100014402112"
   },
   {
     "name": "UAB \"Remonto taškas\"",
@@ -275,7 +299,8 @@
   {
     "name": "UAB \"Taškas ir Mekas\"",
     "code": "306173930",
-    "address": "Kaunas, Europos pr. 122, LT-46351"
+    "address": "Kaunas, Europos pr. 122, LT-46351",
+    "vatcode": "LT100015909410"
   },
   {
     "name": "UAB \"Taškas į tašką ir kompanija\"",
@@ -297,7 +322,8 @@
   {
     "name": "UAB \"Tvirtas taškas\"",
     "code": "305588642",
-    "address": "Alytus, Naujoji g. 126, LT-62175"
+    "address": "Alytus, Naujoji g. 126, LT-62175",
+    "vatcode": "LT100013284916"
   },
   {
     "name": "UAB \"Verslo taškas\"",
@@ -312,7 +338,8 @@
   {
     "name": "UAB \"Vėjo taškas\"",
     "code": "306259849",
-    "address": "Kauno r. sav., Babtai, Šiltnamių g. 8, LT-54334"
+    "address": "Kauno r. sav., Babtai, Šiltnamių g. 8, LT-54334",
+    "vatcode": "LT100015830119"
   },
   {
     "name": "UAB \"Šiaurinis taškas\"",
@@ -323,12 +350,14 @@
   {
     "name": "UAB \"Šilumos taškas\"",
     "code": "304757064",
-    "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Melioratorių g. 9-30, LT-38187"
+    "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Melioratorių g. 9-30, LT-38187",
+    "vatcode": "LT100012429315"
   },
   {
     "name": "UAB EKO TAŠKAS",
     "code": "304503183",
-    "address": "Kauno r. sav., Alšėnų sen., Dievogalos k., Stiklo g. 11, LT-53321"
+    "address": "Kauno r. sav., Alšėnų sen., Dievogalos k., Stiklo g. 11, LT-53321",
+    "vatcode": "LT100011249917"
   },
   {
     "name": "UAB Vienuoliktas taškas",
@@ -351,7 +380,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"TE taškas\"",
     "code": "148510245",
-    "address": "Panevėžys, S. Kerbedžio g. 4, LT-35102"
+    "address": "Panevėžys, S. Kerbedžio g. 4, LT-35102",
+    "vatcode": "LT485102417"
   },
   {
     "name": "Viešoji įstaiga \"Žaliasis taškas\"",
@@ -410,11 +440,6 @@
     "address": "Vilnius, Šiaurės Sodų 3-ioji g. 22, LT-11123"
   },
   {
-    "name": "UAB \"Trys taškeliai\"",
-    "code": "305231658",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "UAB \"Taškius\"",
     "code": "304540865",
     "address": "Vilnius, Aušros Vartų g. 7A, LT-01304",
@@ -433,7 +458,8 @@
   {
     "name": "UAB \"Energija taškos\"",
     "code": "304219795",
-    "address": "Tauragė, Strazdo g. 11, LT-72217"
+    "address": "Tauragė, Strazdo g. 11, LT-72217",
+    "vatcode": "LT100010171013"
   },
   {
     "name": "MB \"IK taškuota\"",

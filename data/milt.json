@@ -1,5 +1,10 @@
 [
   {
+    "name": "IĮ MILT group company LT",
+    "code": "302871877",
+    "address": "Rokiškio r. sav., Juodupė, Pergalės g. 12-44, LT-42458"
+  },
+  {
     "name": "UAB \"Milta\"",
     "code": "304990428",
     "address": "Alytus, Vilties g. 8-57, LT-63201",
@@ -29,7 +34,8 @@
   {
     "name": "MB MILTAI ORE",
     "code": "307126823",
-    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Smilgų g. 13-2, LT-54464"
+    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Smilgų g. 13-2, LT-54464",
+    "vatcode": "LT100018199410"
   },
   {
     "name": "Rupūs miltai LT, MB",
@@ -37,9 +43,13 @@
     "address": "Druskininkų sav., Leipalingio sen., Stračiūnų k., Žaliamiškio g. 29A, LT-67267"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Žemaitijos miltai\"",
+    "code": "166869673"
+  },
+  {
     "name": "MB \"Miltainė\"",
     "code": "306725492",
-    "address": "Vilniaus r. sav., Zujūnų sen., Papiškių k., Sūkurio g. 4, LT-06292"
+    "address": "Vilniaus r. sav., Zujūnų sen., Papiškių k., Medžiakalnio g. 24, LT-06292"
   },
   {
     "name": "IĮ A. Gaižausko imonė \"Miltauja\"",
@@ -50,12 +60,14 @@
   {
     "name": "UAB \"MILTECH\"",
     "code": "302680249",
-    "address": "Vilnius, Krokuvos g. 11-74, LT-09314"
+    "address": "Vilnius, Krokuvos g. 11-74, LT-09314",
+    "vatcode": "LT100006449811"
   },
   {
     "name": "UAB \"Miltecha\"",
     "code": "303519850",
-    "address": "Kaunas, Gedimino g. 47-R1, LT-44242"
+    "address": "Kaunas, Gedimino g. 47-R1, LT-44242",
+    "vatcode": "LT100009528014"
   },
   {
     "name": "UAB \"Miltegona\"",
@@ -66,12 +78,14 @@
   {
     "name": "UAB Milteka",
     "code": "305682643",
-    "address": "Kupiškis, Vytauto g. 32B, LT-40115"
+    "address": "Kupiškis, Vytauto g. 32B, LT-40115",
+    "vatcode": "LT100013780713"
   },
   {
     "name": "UAB \"Miltelena\"",
     "code": "304139993",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Girkalių k., Nemirsetos g. 51, LT-92371"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Girkalių k., Nemirsetos g. 51, LT-92371",
+    "vatcode": "LT100011143810"
   },
   {
     "name": "MB \"Miltelina\"",
@@ -104,17 +118,24 @@
   {
     "name": "UAB \"Miltelinis dažymas Pilviškiuose\"",
     "code": "304998962",
-    "address": "Šakių r. sav., Barzdų sen., Baltrušių k., Stasio Lozoraičio g. 33, LT-71286"
+    "address": "Šakių r. sav., Barzdų sen., Baltrušių k., Stasio Lozoraičio g. 33, LT-71286",
+    "vatcode": "LT100014048519"
   },
   {
     "name": "UAB \"Miltelinis dažymas\"",
     "code": "304224130",
-    "address": "Alytaus r. sav., Alytaus sen., Luksnėnų k., Mechanizatorių g. 21, LT-64381"
+    "address": "Alytaus r. sav., Alytaus sen., Luksnėnų k., Mechanizatorių g. 21, LT-64381",
+    "vatcode": "LT100010101618"
+  },
+  {
+    "name": "Gintaro Miltenio įmonė",
+    "code": "145771852"
   },
   {
     "name": "UAB \"Milterva\"",
     "code": "305833312",
-    "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194"
+    "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194",
+    "vatcode": "LT100016465818"
   },
   {
     "name": "MB Milti",
@@ -138,6 +159,11 @@
     "address": "Mažeikių r. sav., Viekšniai, Akmenės g. 4, LT-89490"
   },
   {
+    "name": "Miltiniečių bendruomenė",
+    "code": "307598304",
+    "address": "Panevėžys, Nevėžio g. 16-14, LT-35133"
+  },
+  {
     "name": "Dirbančių Juozo Miltinio dramos teatre profesinė sąjunga",
     "code": "302890468",
     "address": "Panevėžys, Laisvės a. 5, LT-35183"
@@ -145,16 +171,12 @@
   {
     "name": "Juozo Miltinio dramos teatras",
     "code": "190754983",
-    "address": "Panevėžys, Laisvės a. 5, LT-35183"
+    "address": "Panevėžys, Laisvės a. 5, LT-35183",
+    "vatcode": "LT907549811"
   },
   {
     "name": "Juozo Miltinio dramos teatro aktorių profesinė sąjunga",
     "code": "302755723",
-    "address": "Panevėžys, Laisvės a. 5, LT-35183"
-  },
-  {
-    "name": "Juozo Miltinio dramos teatro darbuotojų profesinė sąjunga",
-    "code": "302617544",
     "address": "Panevėžys, Laisvės a. 5, LT-35183"
   },
   {
@@ -170,7 +192,8 @@
   {
     "name": "UAB \"Miltinis\"",
     "code": "304404783",
-    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Avižų g. 11, LT-14185"
+    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Avižų g. 11, LT-14185",
+    "vatcode": "LT100010467912"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Miltinuko receptas\"",
@@ -182,6 +205,12 @@
     "name": "MB \"Miltmega\"",
     "code": "305237127",
     "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Šiaurinė g. 4, LT-81491"
+  },
+  {
+    "name": "L.V.Milto individuali įmonė",
+    "code": "124529333",
+    "address": "Vilnius, Karklėnų g. 15-3, LT-11223",
+    "vatcode": "LT245293314"
   },
   {
     "name": "UAB \"T. Milto odontologijos kabinetas\"",
@@ -196,12 +225,19 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Miltonas\"",
     "code": "133952688",
-    "address": "Kauno r. sav., Neveronių sen., Pabiržio k., Keramikų g. 102, LT-54475"
+    "address": "Kauno r. sav., Neveronių sen., Pabiržio k., Keramikų g. 102, LT-54475",
+    "vatcode": "LT339526811"
+  },
+  {
+    "name": "Irenos Butvilienės IĮ \"MILTONIJA\"",
+    "code": "144883624",
+    "address": "Šiauliai, Ganyklų g. 113, LT-77120"
   },
   {
     "name": "UAB Miltonija",
     "code": "307189841",
-    "address": "Jonava, Chemikų g. 74-13, LT-55236"
+    "address": "Jonava, Chemikų g. 74-13, LT-55236",
+    "vatcode": "LT100019346811"
   },
   {
     "name": "MB \"Miltorija\"",
@@ -227,7 +263,8 @@
   {
     "name": "UAB \"Miltukas\"",
     "code": "304725586",
-    "address": "Alytaus r. sav., Alytaus sen., Genių k., Senamiesčio g. 6, LT-64392"
+    "address": "Alytaus r. sav., Alytaus sen., Genių k., Senamiesčio g. 6, LT-64392",
+    "vatcode": "LT100011329717"
   },
   {
     "name": "MB \"Miltuota nosis\"",
@@ -237,12 +274,14 @@
   {
     "name": "UAB \"Miltuoti pirštai\"",
     "code": "305604121",
-    "address": "Kaunas, Amerikos Lietuvių g. 15-3, LT-46254"
+    "address": "Kaunas, Amerikos Lietuvių g. 15-3, LT-46254",
+    "vatcode": "LT100013545319"
   },
   {
     "name": "MB Miltuotos rankos",
     "code": "306221827",
-    "address": "Kėdainių r. sav., Dotnuva, Vytauto g. 52, LT-58388"
+    "address": "Kėdainių r. sav., Dotnuva, Vytauto g. 52, LT-58388",
+    "vatcode": "LT100016511916"
   },
   {
     "name": "MB Svaidau miltus",
@@ -252,12 +291,14 @@
   {
     "name": "UAB \"Miltėja\"",
     "code": "304227767",
-    "address": "Šiauliai, Radviliškio g. 120, LT-77108"
+    "address": "Šiauliai, Radviliškio g. 120, LT-77108",
+    "vatcode": "LT100010118315"
   },
   {
     "name": "MB \"Miltų bankas\"",
     "code": "305810993",
-    "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Lietaus g. 4, LT-37175"
+    "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Lietaus g. 4, LT-37175",
+    "vatcode": "LT100018755215"
   },
   {
     "name": "MB \"Miltų elfai\"",
@@ -273,11 +314,13 @@
   {
     "name": "MB \"Miltų ūsai\"",
     "code": "304708551",
-    "address": "Vilnius, Vėtrungių g. 87-113, LT-06331"
+    "address": "Vilnius, Vėtrungių g. 87-113, LT-06331",
+    "vatcode": "LT100011251414"
   },
   {
     "name": "MB Miltų karaliai",
     "code": "306686662",
-    "address": "Varėnos r. sav., Matuizų sen., Matuizų k., Kalno g. 7-21, LT-65469"
+    "address": "Varėnos r. sav., Matuizų sen., Matuizų k., Kalno g. 7-21, LT-65469",
+    "vatcode": "LT100017046418"
   }
 ]

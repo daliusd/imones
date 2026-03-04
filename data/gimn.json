@@ -12,7 +12,8 @@
   {
     "name": "UAB \"Gimnastika\"",
     "code": "305209843",
-    "address": "Vilnius, Ateities g. 31B-4, LT-06326"
+    "address": "Vilnius, Ateities g. 31B-4, LT-06326",
+    "vatcode": "LT100012528111"
   },
   {
     "name": "VšĮ \"Gimnastika ir aš\"",
@@ -22,7 +23,8 @@
   {
     "name": "VšĮ AKV gimnastika",
     "code": "305605554",
-    "address": "Vilnius, Architektų g. 182-80, LT-04204"
+    "address": "Vilnius, Architektų g. 182-80, LT-04204",
+    "vatcode": "LT100013619810"
   },
   {
     "name": "VšĮ Nedos Juščės meninė gimnastika",
@@ -434,7 +436,8 @@
   {
     "name": "Jonavos Jeronimo Ralio gimnazija",
     "code": "190301488",
-    "address": "Jonava, Žeimių g. 20, LT-55125"
+    "address": "Jonava, Žeimių g. 20, LT-55125",
+    "vatcode": "LT100019366614"
   },
   {
     "name": "Jonavos Senamiesčio gimnazija",
@@ -595,6 +598,10 @@
     "name": "Kauno r. Domeikavos gimnazija",
     "code": "191090122",
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Bažnyčios g. 3, LT-54349"
+  },
+  {
+    "name": "Kauno r. Garliavos Jonučių gimnazija",
+    "code": "303383044"
   },
   {
     "name": "Kauno r. Garliavos Juozo Lukšos gimnazija",
@@ -864,7 +871,8 @@
   {
     "name": "Marinos Mižigurskajos privati gimnazija",
     "code": "191713199",
-    "address": "Vilnius, Darželio g. 7, LT-11209"
+    "address": "Vilnius, Darželio g. 7, LT-11209",
+    "vatcode": "LT100018529213"
   },
   {
     "name": "Mažeikių Gabijos gimnazija",
@@ -1329,7 +1337,8 @@
   {
     "name": "Viešoji įstaiga Vilniaus privati gimnazija",
     "code": "191784577",
-    "address": "Vilnius, V. Grybo g. 7, LT-10313"
+    "address": "Vilnius, V. Grybo g. 7, LT-10313",
+    "vatcode": "LT100018829111"
   },
   {
     "name": "Viešoji įstaiga Vytauto Didžiojo universiteto Ugnės Karvelis gimnazija",
@@ -1993,8 +2002,7 @@
   },
   {
     "name": "Biržų miesto Gimnazijos g. 1 gyvenamojo namo savininkų bendrija",
-    "code": "154894590",
-    "address": "Biržai, Gimnazijos g. 1, LT-41142"
+    "code": "154894590"
   },
   {
     "name": "Biržų miesto Gimnazijos g. 5 gyvenamojo namo savininkų bendrija",
@@ -2010,11 +2018,6 @@
     "name": "Biržų miesto Gimnazijos g. 9 daugiabučio namo savininkų bendrija",
     "code": "155308176",
     "address": "Biržai, Gimnazijos g. 9-53, LT-41141"
-  },
-  {
-    "name": "Daugų Vlado Mirono gimnazijos profesinė sąjunga \"Solidarumas\"",
-    "code": "302614295",
-    "address": "Alytaus r. sav., Daugai, Vlado Mirono g. 2, LT-64140"
   },
   {
     "name": "Druskininkų \"Ryto\" gimnazijos darbuotojų profesinė sąjunga",
@@ -2102,14 +2105,9 @@
     "address": "Marijampolė, Kauno g. 7, LT-68175"
   },
   {
-    "name": "Mažeikių \"Gabijos\" gimnazijos darbuotojų profesinė sąjunga",
-    "code": "167338266",
-    "address": "Mažeikiai, Ventos g. 25"
-  },
-  {
     "name": "Mažeikių r. Sedos Vytauto Mačernio gimnazijos bendruomenė",
     "code": "307558046",
-    "address": "Mažeikiai, Vydūno g. 12, LT-89225"
+    "address": "Mažeikių r. sav., Seda, Dariaus ir Girėno g. 16, LT-89383"
   },
   {
     "name": "PANEVĖŽIO JUOZO BALČIKONIO GIMNAZIJOS ALUMNŲ ASOCIACIJA",
@@ -2135,6 +2133,14 @@
     "name": "Petro Vileišio gimnazijos moksleivių kūno kultūros ir sveikatingumo klubas \"Clarus\"",
     "code": "169281675",
     "address": "Pasvalys, P. Vileišio g. 7, LT-39144"
+  },
+  {
+    "name": "Pranciškonų gimnazijos labdaros ir paramos fondas",
+    "code": "302253980"
+  },
+  {
+    "name": "Radviliškio Lizdeikos gimnazijos švietimo darbuotojų profesinė sąjunga",
+    "code": "171656342"
   },
   {
     "name": "Rietavo Lauryno Ivinskio gimnazijos darbuotojų profesinė sąjunga",
@@ -2194,11 +2200,6 @@
   {
     "name": "Vilniaus Antakalnio gimnazijos profesinė sąjunga",
     "code": "305052648",
-    "address": "Vilnius, J. Jasinskio g. 9, LT-01112"
-  },
-  {
-    "name": "Vilniaus Mykolo Biržiškos gimnazijos profesinė sąjunga",
-    "code": "305170244",
     "address": "Vilnius, J. Jasinskio g. 9, LT-01112"
   },
   {

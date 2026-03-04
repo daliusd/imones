@@ -7,7 +7,8 @@
   {
     "name": "MB Viso labo",
     "code": "306398208",
-    "address": "Vilnius, Laisvės pr. 60-414, LT-05120"
+    "address": "Vilnius, Laisvės pr. 60-414, LT-05120",
+    "vatcode": "LT100016830316"
   },
   {
     "name": "UAB \"Labochema LT\"",
@@ -16,9 +17,27 @@
     "vatcode": "LT100003107911"
   },
   {
+    "name": "S. Smirnovos firma \"Labochroma\"",
+    "code": "134388265",
+    "address": "Kaunas, Vievio g. 74-32, LT-44424"
+  },
+  {
     "name": "MB \"Labodenta\"",
     "code": "304094313",
     "address": "Vilnius, Didlaukio g. 31-10, LT-08320"
+  },
+  {
+    "name": "MB LaboHa",
+    "code": "307601661",
+    "address": "Vilnius, Didlaukio g. 80-96, LT-08326"
+  },
+  {
+    "name": "D. Laboko individuali įmonė",
+    "code": "142093072"
+  },
+  {
+    "name": "P. Laboko individuali įmonė",
+    "code": "141977940"
   },
   {
     "name": "MB \"Labomeda\"",
@@ -65,6 +84,10 @@
     "name": "UAB \"Lucrosus labor\"",
     "code": "307388042",
     "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+  },
+  {
+    "name": "Individuali įmonė \"Labora Modus\"",
+    "code": "300568504"
   },
   {
     "name": "MB Amber Labora",
@@ -132,12 +155,14 @@
   {
     "name": "UAB \"SOREPA LABORATORIES\"",
     "code": "302461967",
-    "address": "Vilnius, V. A. Graičiūno g. 32, LT-02244"
+    "address": "Vilnius, V. A. Graičiūno g. 32, LT-02244",
+    "vatcode": "LT100008742118"
   },
   {
     "name": "UAB DYNAMIC DEVELOPMENT LABORATORIES (LT) CO., LTD",
     "code": "302753512",
-    "address": "Šiauliai, Vilniaus g. 175, LT-76351"
+    "address": "Šiauliai, Vilniaus g. 175, LT-76351",
+    "vatcode": "LT100006765116"
   },
   {
     "name": "UAB Pharma Quality Laboratories",
@@ -157,7 +182,13 @@
   {
     "name": "Biosprendimų laboratorija, UAB",
     "code": "304997426",
-    "address": "Vilnius, Justiniškių g. 62A-201, LT-05239"
+    "address": "Vilnius, Justiniškių g. 62A-201, LT-05239",
+    "vatcode": "LT100012140317"
+  },
+  {
+    "name": "D. Valodskos dantų techniko laboratorija",
+    "code": "177405083",
+    "address": "Šilutės r. sav., Šilutės sen., Pagrynių k., K. Griniaus g. 14, LT-99161"
   },
   {
     "name": "Dantų techniko Mažvydo Kekio laboratorija, MB",
@@ -170,15 +201,86 @@
     "address": "Vilnius, Birbynių g. 4, LT-02121"
   },
   {
+    "name": "Gedemino Urbanavičiaus dantų protezavimo laboratorija",
+    "code": "151311997",
+    "address": "Marijampolė, Geležinkelio g. 3, LT-68127"
+  },
+  {
+    "name": "Individuali įmonė Palangos dantų protezavimo laboratorija",
+    "code": "300066327",
+    "address": "Klaipėda, Laukininkų g. 16-94, LT-95142"
+  },
+  {
+    "name": "IĮ \"Astos laboratorija\"",
+    "code": "302488619",
+    "address": "Radviliškis, Dariaus ir Girėno g. 40, LT-82138"
+  },
+  {
+    "name": "IĮ \"D. Baublio dantų techniko laboratorija\"",
+    "code": "300576127",
+    "address": "Šiauliai, Gardino g. 11-30, LT-78240"
+  },
+  {
+    "name": "IĮ \"JUSTO LABORATORIJA\"",
+    "code": "302448788",
+    "address": "Vilnius, Oršos g. 7, LT-09300"
+  },
+  {
+    "name": "IĮ \"Juvelyrikos laboratorija\"",
+    "code": "305250669",
+    "address": "Vilnius, A. Goštauto g. 8-306B, LT-01108",
+    "vatcode": "LT100014667715"
+  },
+  {
+    "name": "IĮ \"Jūratės laboratorija\"",
+    "code": "302846361",
+    "address": "Radviliškis, Vasario 16-osios g. 2-7, LT-82135"
+  },
+  {
+    "name": "IĮ \"Vejūnos dantų techniko laboratorija\"",
+    "code": "300597274",
+    "address": "Šiauliai, Aušros al. 68, LT-76233"
+  },
+  {
+    "name": "IĮ \"Vilties dantų protezų gamybos laboratorija\"",
+    "code": "305083914",
+    "address": "Panevėžys, Vilties g. 12-18, LT-35130"
+  },
+  {
     "name": "IĮ E. laboratorija",
     "code": "304442517",
     "address": "Vilnius, Ateities g. 5-45, LT-08305"
+  },
+  {
+    "name": "IĮ Evelinos grožio laboratorija",
+    "code": "305728592",
+    "address": "Panevėžys, Liepų al. 13A-1, LT-35124"
+  },
+  {
+    "name": "IĮ G. Galvydžio dantų techniko laboratorija",
+    "code": "301735568",
+    "address": "Kaunas, Rimvydo g. 17, LT-50233"
+  },
+  {
+    "name": "IĮ Genovaitės Makarevičienės dantų technikų laboratorija",
+    "code": "145180447",
+    "address": "Šiauliai, Vytauto g. 125, LT-77161"
+  },
+  {
+    "name": "J. Skamarako dantų techniko laboratorija",
+    "code": "174397044",
+    "address": "Šakiai, V. Kudirkos g. 63, LT-71127"
   },
   {
     "name": "Kosmetikos laboratorija, MB",
     "code": "304452130",
     "address": "Marijampolė, Gamyklų g. 9, LT-68108",
     "vatcode": "LT100010769817"
+  },
+  {
+    "name": "M. Giraičio IĮ \"Dantų protezavimo laboratorija\"",
+    "code": "303201577",
+    "address": "Marijampolė, Taikos g. 9, LT-68292"
   },
   {
     "name": "MB \"A laboratorija\"",
@@ -209,7 +311,8 @@
   {
     "name": "MB \"Fitoterapijos laboratorija\"",
     "code": "306714193",
-    "address": "Vilnius, Salomėjos Nėries g. 101-193, LT-06334"
+    "address": "Vilnius, Salomėjos Nėries g. 101-193, LT-06334",
+    "vatcode": "LT100016786113"
   },
   {
     "name": "MB \"Gamtos laboratorija\"",
@@ -250,7 +353,8 @@
   {
     "name": "MB \"Mvp laboratorija\"",
     "code": "306894357",
-    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319",
+    "vatcode": "LT100017035917"
   },
   {
     "name": "MB \"Ortodontijos laboratorija\"",
@@ -277,7 +381,8 @@
   {
     "name": "MB \"Psichologijos laboratorija\"",
     "code": "305591407",
-    "address": "Ukmergės r. sav., Veprių sen., Kultuvėnų k., Klevų g. 26, LT-20265"
+    "address": "Ukmergės r. sav., Veprių sen., Kultuvėnų k., Klevų g. 26, LT-20265",
+    "vatcode": "LT100018382812"
   },
   {
     "name": "MB \"Redentes\" dantų protezų laboratorija",
@@ -292,7 +397,8 @@
   {
     "name": "MB \"Santykių ir emocijų laboratorija\"",
     "code": "304833811",
-    "address": "Vilnius, Pauliaus Širvio g. 6-41, LT-10213"
+    "address": "Vilnius, Pauliaus Širvio g. 6-41, LT-10213",
+    "vatcode": "LT100012163013"
   },
   {
     "name": "MB \"Selfie laboratorija\"",
@@ -333,7 +439,8 @@
   {
     "name": "MB Automobilių estetikos laboratorija",
     "code": "304663355",
-    "address": "Vilnius, Medeinos g. 9-4, LT-06141"
+    "address": "Vilnius, Medeinos g. 9-4, LT-06141",
+    "vatcode": "LT100012391516"
   },
   {
     "name": "MB Damalako dantų techniko laboratorija",
@@ -373,7 +480,8 @@
   {
     "name": "MB Grafikos laboratorija",
     "code": "305737463",
-    "address": "Vilnius, Kaštonų g. 2-13A, LT-01107"
+    "address": "Vilnius, Kaštonų g. 2-13A, LT-01107",
+    "vatcode": "LT100014548016"
   },
   {
     "name": "MB Greičio laboratorija",
@@ -396,9 +504,15 @@
     "address": "Kaunas, Raudondvario pl. 204A-30, LT-47153"
   },
   {
+    "name": "MB Kazimiero dantų laboratorija",
+    "code": "307578077",
+    "address": "Vilnius, Jono Kairiūkščio g. 11A-107, LT-08411"
+  },
+  {
     "name": "MB Konsultacijų laboratorija",
     "code": "306879615",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017064910"
   },
   {
     "name": "MB Koučingo laboratorija",
@@ -418,7 +532,8 @@
   {
     "name": "MB Laipiojimo laboratorija",
     "code": "307549168",
-    "address": "Vilnius, Kauno g. 32A-22, LT-03202"
+    "address": "Vilnius, Kauno g. 32A-22, LT-03202",
+    "vatcode": "LT100019532713"
   },
   {
     "name": "MB Ledo laboratorija",
@@ -428,7 +543,8 @@
   {
     "name": "MB Luko laboratorija",
     "code": "306095944",
-    "address": "Ukmergė, Žiedo g. 7-17, LT-20122"
+    "address": "Ukmergė, Žiedo g. 7-17, LT-20122",
+    "vatcode": "LT100017574913"
   },
   {
     "name": "MB Luko Čekanavičiaus laboratorija",
@@ -453,7 +569,8 @@
   {
     "name": "MB Mėnulio laboratorija",
     "code": "305281084",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100015455613"
   },
   {
     "name": "MB Mėsos laboratorija",
@@ -519,7 +636,8 @@
   {
     "name": "MB Šeštadienio laboratorija",
     "code": "305436467",
-    "address": "Šiauliai, Tilžės g. 22, LT-78243"
+    "address": "Šiauliai, Tilžės g. 22, LT-78243",
+    "vatcode": "LT100015964614"
   },
   {
     "name": "Mano laboratorija, MB",
@@ -554,7 +672,8 @@
   {
     "name": "Mažoji bendrija Testavimo laboratorija",
     "code": "306059955",
-    "address": "Vilnius, Žirmūnų g. 72-7, LT-09126"
+    "address": "Vilnius, Žirmūnų g. 72-7, LT-09126",
+    "vatcode": "LT100015023811"
   },
   {
     "name": "Muitinės laboratorija",
@@ -575,7 +694,8 @@
   {
     "name": "Namų laboratorija, MB",
     "code": "306420117",
-    "address": "Vilnius, Visorių g. 12A-56, LT-08300"
+    "address": "Vilnius, Visorių g. 12A-56, LT-08300",
+    "vatcode": "LT100016611216"
   },
   {
     "name": "Nepriklausoma sveikatos laboratorija, MB",
@@ -593,9 +713,15 @@
     "address": "Zarasai, Šiaulių g. 44, LT-32107"
   },
   {
+    "name": "T. Navasaičio dantų protezavimo laboratorija",
+    "code": "164275572",
+    "address": "Kretinga, Kalno g. 18A, LT-97124"
+  },
+  {
     "name": "UAB \"Affidea laboratorija\"",
     "code": "125375183",
-    "address": "Vilnius, Kalvarijų g. 137A-15, LT-08248"
+    "address": "Vilnius, Kalvarijų g. 137A-15, LT-08248",
+    "vatcode": "LT100002566111"
   },
   {
     "name": "UAB \"Aki laboratorija\"",
@@ -605,17 +731,20 @@
   {
     "name": "UAB \"Ateities laboratorija\"",
     "code": "305796127",
-    "address": "Vilnius, Šeimyniškių g. 21B, LT-09236"
+    "address": "Vilnius, Šeimyniškių g. 21B, LT-09236",
+    "vatcode": "LT100018351711"
   },
   {
     "name": "UAB \"Auto laboratorija\"",
     "code": "302519032",
-    "address": "Kaunas, Sukilėlių pr. 65-50, LT-49333"
+    "address": "Kaunas, Sukilėlių pr. 65-50, LT-49333",
+    "vatcode": "LT100005828314"
   },
   {
     "name": "UAB \"BIOK laboratorija\"",
     "code": "120536985",
-    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Ukmergės g. 451, LT-14199"
+    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Ukmergės g. 451, LT-14199",
+    "vatcode": "LT205369811"
   },
   {
     "name": "UAB \"Birutės Vilcinienės dantų techniko laboratorija\"",
@@ -625,7 +754,8 @@
   {
     "name": "UAB \"Dinamikos laboratorija\"",
     "code": "306620616",
-    "address": "Vilnius, Tramvajų g. 2-21, LT-10322"
+    "address": "Vilnius, Tramvajų g. 2-21, LT-10322",
+    "vatcode": "LT100016423610"
   },
   {
     "name": "UAB \"E. Šatkutės dantų technikos laboratorija\"",
@@ -668,7 +798,8 @@
   {
     "name": "UAB \"Laboratorija 1\"",
     "code": "305049189",
-    "address": "Vilnius, Dariaus ir Girėno g. 32A-1, LT-02188"
+    "address": "Vilnius, Dariaus ir Girėno g. 32A-1, LT-02188",
+    "vatcode": "LT100013143619"
   },
   {
     "name": "UAB \"MK laboratorija\"",
@@ -683,7 +814,8 @@
   {
     "name": "UAB \"Meksikos laboratorija\"",
     "code": "304084543",
-    "address": "Neringa, Pamario g. 24B, LT-93124"
+    "address": "Neringa, Pamario g. 24B, LT-93124",
+    "vatcode": "LT100010466218"
   },
   {
     "name": "UAB \"Melnikavičių dantų laboratorija\"",
@@ -693,27 +825,32 @@
   {
     "name": "UAB \"Saugių namų laboratorija\"",
     "code": "305607427",
-    "address": "Druskininkų sav., Viečiūnų sen., Neravų k., Neravų g. 2A-6, LT-66412"
+    "address": "Druskininkų sav., Viečiūnų sen., Neravų k., Neravų g. 2A-6, LT-66412",
+    "vatcode": "LT100013343410"
   },
   {
     "name": "UAB \"SĖKMĖS LABORATORIJA\"",
     "code": "300151717",
-    "address": "Vilnius, Aguonų g. 14-64, LT-03213"
+    "address": "Vilnius, Aguonų g. 14-64, LT-03213",
+    "vatcode": "LT100001962510"
   },
   {
     "name": "UAB \"VAKARŲ CENTRINĖ LABORATORIJA\"",
     "code": "142175174",
-    "address": "Klaipėda, Minijos g. 180, LT-93269"
+    "address": "Klaipėda, Minijos g. 180, LT-93269",
+    "vatcode": "LT421751716"
   },
   {
     "name": "UAB \"VKK laboratorija\"",
     "code": "302556543",
-    "address": "Vilnius, T. Ševčenkos g. 16A-306, LT-03111"
+    "address": "Vilnius, T. Ševčenkos g. 16A-306, LT-03111",
+    "vatcode": "LT100005973215"
   },
   {
     "name": "UAB \"Verslo informacijos laboratorija\"",
     "code": "305072394",
-    "address": "Vilnius, Rinktinės g. 35-1, LT-09205"
+    "address": "Vilnius, Rinktinės g. 35-1, LT-09205",
+    "vatcode": "LT100012304010"
   },
   {
     "name": "UAB \"Verslo laboratorija\"",
@@ -729,7 +866,8 @@
   {
     "name": "UAB Alchemiko laboratorija",
     "code": "306975841",
-    "address": "Vilnius, Savanorių pr. 108, LT-03151"
+    "address": "Vilnius, Savanorių pr. 108, LT-03151",
+    "vatcode": "LT100019458418"
   },
   {
     "name": "UAB Architekto Ričardo Vyšniausko laboratorija",
@@ -739,12 +877,14 @@
   {
     "name": "UAB Architektūros laboratorija",
     "code": "303035397",
-    "address": "Vilnius, Algirdo g. 53-4, LT-03212"
+    "address": "Vilnius, Algirdo g. 53-4, LT-03212",
+    "vatcode": "LT100014719711"
   },
   {
     "name": "UAB Atlygio laboratorija",
     "code": "305591193",
-    "address": "Vilnius, J. Jasinskio g. 4-15, LT-01112"
+    "address": "Vilnius, J. Jasinskio g. 4-15, LT-01112",
+    "vatcode": "LT100013275110"
   },
   {
     "name": "UAB Baldų laboratorija",
@@ -759,7 +899,8 @@
   {
     "name": "UAB Bitų laboratorija",
     "code": "302644363",
-    "address": "Vilnius, Rygos g. 6-82, LT-05270"
+    "address": "Vilnius, Rygos g. 6-82, LT-05270",
+    "vatcode": "LT100006369910"
   },
   {
     "name": "UAB Centrinė ortotechnikos laboratorija",
@@ -779,7 +920,8 @@
   {
     "name": "UAB Diagnostikos laboratorija",
     "code": "300598351",
-    "address": "Kaunas, Žemaičių pl. 37, LT-48178"
+    "address": "Kaunas, Žemaičių pl. 37, LT-48178",
+    "vatcode": "LT100018789916"
   },
   {
     "name": "UAB Grožio laboratorija",
@@ -790,7 +932,8 @@
   {
     "name": "UAB Grunto laboratorija",
     "code": "305991839",
-    "address": "Kretinga, Guobų aklg. 1I, LT-97120"
+    "address": "Kretinga, Guobų aklg. 1I, LT-97120",
+    "vatcode": "LT100019583112"
   },
   {
     "name": "UAB Informacinių sistemų laboratorija",
@@ -812,7 +955,8 @@
   {
     "name": "UAB Kraujo laboratorija",
     "code": "304119453",
-    "address": "Vilnius, Kalvarijų g. 137B-32, LT-08248"
+    "address": "Šiauliai, Gardino g. 3-2, LT-78230",
+    "vatcode": "LT100014099019"
   },
   {
     "name": "UAB LT laboratorija",
@@ -827,7 +971,8 @@
   {
     "name": "UAB Medicina practica laboratorija",
     "code": "300887021",
-    "address": "Vilnius, Ližiškių g. 4, LT-10239"
+    "address": "Vilnius, Ližiškių g. 4, LT-10239",
+    "vatcode": "LT100012194911"
   },
   {
     "name": "UAB Mindaugo laboratorija",
@@ -848,7 +993,8 @@
   {
     "name": "UAB NEPRIKLAUSOMA TYRIMŲ LABORATORIJA",
     "code": "110824551",
-    "address": "Telšiai, Narutavičių g. 4, LT-87101"
+    "address": "Telšiai, Narutavičių g. 4, LT-87101",
+    "vatcode": "LT100006002618"
   },
   {
     "name": "UAB Nelinijinės sistemos laboratorija",
@@ -858,7 +1004,8 @@
   {
     "name": "UAB Pelno laboratorija",
     "code": "304538768",
-    "address": "Vilnius, Antano Gelgaudo g. 2A, LT-12188"
+    "address": "Vilnius, Antano Gelgaudo g. 2A, LT-12188",
+    "vatcode": "LT100010963619"
   },
   {
     "name": "UAB Railos laboratorija",
@@ -873,7 +1020,8 @@
   {
     "name": "UAB Statybinės fizikos laboratorija",
     "code": "304566422",
-    "address": "Kaunas, Sopranų g. 5-16, LT-44327"
+    "address": "Kaunas, Sopranų g. 5-16, LT-44327",
+    "vatcode": "LT100011023416"
   },
   {
     "name": "UAB Statybų laboratorija",
@@ -910,7 +1058,8 @@
   {
     "name": "UAB Šypsenos laboratorija",
     "code": "304129173",
-    "address": "Vilnius, Raitininkų g. 4-104, LT-09236"
+    "address": "Vilnius, Raitininkų g. 4-104, LT-09236",
+    "vatcode": "LT100018814618"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"MIKROBANGŲ LABORATORIJA\"",
@@ -920,7 +1069,12 @@
   {
     "name": "Uždaroji akcinė bendrovė \"STATYBINIŲ KONSTRUKCIJŲ LABORATORIJA\"",
     "code": "122605444",
-    "address": "Vilnius, Savanorių pr. 221, LT-02300"
+    "address": "Vilnius, Savanorių pr. 221, LT-02300",
+    "vatcode": "LT226054415"
+  },
+  {
+    "name": "VAIDO PUŽO dantų protezų gamybos laboratorija",
+    "code": "145907925"
   },
   {
     "name": "VM laboratorija, MB",
@@ -974,6 +1128,10 @@
     "address": "Kauno r. sav., Užliedžių sen., Užliedžių k., Griežlės g. 35-3, LT-54303"
   },
   {
+    "name": "VšĮ Atviro kodo laboratorija",
+    "code": "304032817"
+  },
+  {
     "name": "VšĮ Kultūros laboratorija",
     "code": "307474000",
     "address": "Vilnius, Geležinio Vilko g. 57A-21, LT-08217"
@@ -1007,6 +1165,10 @@
     "name": "Įmonės LABORATORIJA \"KOLASTYNA\" atstovybė",
     "code": "110293990",
     "address": "Vilnius, Ateities g. 25B, LT-06326"
+  },
+  {
+    "name": "MB \"Geros laboratorijos kodas\"",
+    "code": "304587402"
   },
   {
     "name": "Nacionalinės visuomenės sveikatos priežiūros laboratorijos profesinė sąjunga",
@@ -1060,7 +1222,8 @@
   {
     "name": "UAB \"Laboratoriniai tyrimai\"",
     "code": "303329655",
-    "address": "Rokiškio r. sav., Kamajų sen., Mikniūnų k. 5, LT-42290"
+    "address": "Rokiškio r. sav., Kamajų sen., Mikniūnų k. 5, LT-42290",
+    "vatcode": "LT100010658512"
   },
   {
     "name": "Baltijos laboratorinių gyvūnų mokslo asociacija",
@@ -1075,7 +1238,8 @@
   {
     "name": "UAB Laboratorinių bandymų centras",
     "code": "135641038",
-    "address": "Kaunas, R. Kalantos g. 85A, LT-52308"
+    "address": "Kaunas, R. Kalantos g. 85A, LT-52308",
+    "vatcode": "LT356410314"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"LABORATORINĖ MEDICINA\"",
@@ -1101,7 +1265,8 @@
   {
     "name": "UAB \"Laboratorinės technologijos\"",
     "code": "303072399",
-    "address": "Vilnius, Polocko g. 40-10, LT-01205"
+    "address": "Vilnius, Polocko g. 40-10, LT-01205",
+    "vatcode": "LT100007989616"
   },
   {
     "name": "LABORATORIUM \"KOLASTYNA\" S.A. atstovybė",
@@ -1127,7 +1292,8 @@
   {
     "name": "UAB Melisa Laboratorium",
     "code": "123631164",
-    "address": "Šalčininkų r. sav., Baltoji Vokė, Geležinkelio g. 51, LT-17235"
+    "address": "Šalčininkų r. sav., Baltoji Vokė, Geležinkelio g. 51, LT-17235",
+    "vatcode": "LT236311610"
   },
   {
     "name": "MB Intelligens laboratory",
@@ -1143,12 +1309,17 @@
   {
     "name": "UAB \"ALISA MANAGEMENT LABORATORY\"",
     "code": "302552121",
-    "address": "Neringa, Taikos g. 14-26, LT-93121"
+    "address": "Neringa, Taikos g. 14-26, LT-93121",
+    "vatcode": "LT100005730612"
   },
   {
     "name": "UAB \"Advance Technology Laboratory\"",
     "code": "302442397",
     "address": "Vilnius, Geležinkelio g. 3-14A, LT-02100"
+  },
+  {
+    "name": "UAB \"Power Laboratory\"",
+    "code": "305569599"
   },
   {
     "name": "UAB \"Vision DEM4 laboratory\"",
@@ -1164,7 +1335,12 @@
   {
     "name": "Uždaroji akcinė bendrovė Smart laboratory",
     "code": "306650164",
-    "address": "Vilnius, Jeronimo Ralio g. 4-104, LT-08356"
+    "address": "Vilnius, Jeronimo Ralio g. 4-104, LT-08356",
+    "vatcode": "LT100016547715"
+  },
+  {
+    "name": "VŠĮ LABORATORY OF IDEAS",
+    "code": "302791178"
   },
   {
     "name": "MB \"Labordenta\"",
@@ -1177,19 +1353,26 @@
     "address": "Klaipėdos r. sav., Dauparų-Kvietinių sen., Šakinių k., Proskynos g. 7B, LT-96177"
   },
   {
+    "name": "VšĮ \"LABORES\"",
+    "code": "302064531"
+  },
+  {
     "name": "UAB \"Laborina\"",
     "code": "305735284",
-    "address": "Akmenės r. sav., Venta, Žemaičių g. 41-73, LT-85317"
+    "address": "Akmenės r. sav., Venta, Žemaičių g. 41-73, LT-85317",
+    "vatcode": "LT100017763715"
   },
   {
     "name": "UAB \"Laboris\"",
     "code": "304639913",
-    "address": "Mažeikiai, M. Daukšos g. 48-81, LT-89179"
+    "address": "Mažeikiai, M. Daukšos g. 48-81, LT-89179",
+    "vatcode": "LT100011170919"
   },
   {
     "name": "UAB \"Laboro\"",
     "code": "302547213",
-    "address": "Vilnius, Pranciškonų g. 1, LT-01133"
+    "address": "Vilnius, Pranciškonų g. 1, LT-01133",
+    "vatcode": "LT100010566113"
   },
   {
     "name": "MB \"Laborro\"",
@@ -1209,17 +1392,20 @@
   {
     "name": "MB \"Labos nakties\"",
     "code": "305217060",
-    "address": "Vilnius, Pavilnio Sodų 5-oji g. 17, LT-11303"
+    "address": "Vilnius, Pavilnio Sodų 5-oji g. 17, LT-11303",
+    "vatcode": "LT100012524613"
   },
   {
     "name": "\"Labosertika\" UAB",
     "code": "306238196",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Vinkšnėnų k., V. Bielskio g. 114, LT-76151"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Vinkšnėnų k., V. Bielskio g. 114, LT-76151",
+    "vatcode": "LT100015682018"
   },
   {
     "name": "UAB \"Labostera\"",
     "code": "300084574",
-    "address": "Kaunas, Chemijos g. 13, LT-51327"
+    "address": "Kaunas, Chemijos g. 13, LT-51327",
+    "vatcode": "LT100001804416"
   },
   {
     "name": "MB \"Labotega\"",

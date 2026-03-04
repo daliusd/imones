@@ -5,11 +5,6 @@
     "address": "Klaipėda, Burių g. 19, LT-92276"
   },
   {
-    "name": "Akcinės bendrovės \"Mažeikių nafta\" elektrinės profesinė sąjunga",
-    "code": "167241080",
-    "address": "Mažeikių r. sav., Židikų sen., Juodeikių k."
-  },
-  {
     "name": "Bendra Lietuvos, Suomijos ir JAV įmonė uždaroji akcinė bendrovė \"BALTIJOS NAFTA\"",
     "code": "110394530",
     "address": "Kaunas, J. Kumpio g. 7-1",
@@ -18,7 +13,8 @@
   {
     "name": "Bendra Lietuvos-Švedijos įmonė uždaroji akcinė bendrovė \"Genčių nafta\"",
     "code": "110507572",
-    "address": "Gargždai, Gamyklos g. 11, LT-96155"
+    "address": "Gargždai, Gamyklos g. 11, LT-96155",
+    "vatcode": "LT105075716"
   },
   {
     "name": "Bendrovės \"NAFTA - UKRAINA\" Ltd atstovybė",
@@ -28,12 +24,17 @@
   {
     "name": "Lietuvos ir Danijos uždaroji akcinė bendrovė \"MINIJOS NAFTA\"",
     "code": "110699717",
-    "address": "Gargždai, Gamyklos g. 11, LT-96155"
+    "address": "Gargždai, Gamyklos g. 11, LT-96155",
+    "vatcode": "LT106997113"
   },
   {
     "name": "UAB \"Mūsų nafta - investicijos\"",
     "code": "303344803",
     "address": "Vilnius, Liepkalnio g. 26-2, LT-02105"
+  },
+  {
+    "name": "UAB \"Nafta LT\"",
+    "code": "303213729"
   },
   {
     "name": "UAB Nafta Films",
@@ -61,7 +62,8 @@
   {
     "name": "UAB \"Naftekas\"",
     "code": "302877549",
-    "address": "Kretinga, Pasieniečių g. 16, LT-97120"
+    "address": "Kretinga, Pasieniečių g. 16, LT-97120",
+    "vatcode": "LT100007232315"
   },
   {
     "name": "Lietuvos ir Prancūzijos uždaroji akcinė bendrovė \"NAFTELF\"",
@@ -108,7 +110,8 @@
   {
     "name": "Viešoji įstaiga \"Naftkartas\"",
     "code": "166925862",
-    "address": "Mažeikiai, Birutės g. 59, LT-89215"
+    "address": "Mažeikiai, Birutės g. 59, LT-89215",
+    "vatcode": "LT669258610"
   },
   {
     "name": "NAFTO S.A. LT Division",
@@ -118,7 +121,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Naftolis\"",
     "code": "167225261",
-    "address": "Mažeikiai, Respublikos g. 27, LT-89225"
+    "address": "Mažeikiai, Respublikos g. 27, LT-89225",
+    "vatcode": "LT672252610"
   },
   {
     "name": "Akcinės bendrovės naftos biržos \"KAVKAZ\" atstovybė",
@@ -155,7 +159,8 @@
   {
     "name": "UAB \"Naftos produktai\"",
     "code": "303105575",
-    "address": "Vilnius, Fabijoniškių g. 5C-1005, LT-06335"
+    "address": "Vilnius, Fabijoniškių g. 5C-1005, LT-06335",
+    "vatcode": "LT100007898215"
   },
   {
     "name": "UAB \"Tatlitos naftos produktai\"",
@@ -176,7 +181,8 @@
   {
     "name": "UAB \"Naftotrans\"",
     "code": "302636847",
-    "address": "Klaipėda, Taikos pr. 24-13, LT-91222"
+    "address": "Klaipėda, Taikos pr. 24-13, LT-91222",
+    "vatcode": "LT100006367414"
   },
   {
     "name": "MB \"Naftriukas\"",
@@ -187,11 +193,13 @@
   {
     "name": "UAB \"Naftrus\"",
     "code": "172337671",
-    "address": "Raseinių r. sav., Paliepių sen., Slabados k., Pievų g. 17, LT-60109"
+    "address": "Raseinių r. sav., Paliepių sen., Slabados k., Pievų g. 17, LT-60109",
+    "vatcode": "LT723376716"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"NAFTĖNAS\"",
     "code": "148238336",
-    "address": "Panevėžys, Tiekimo g. 5, LT-35289"
+    "address": "Panevėžys, Tiekimo g. 5, LT-35289",
+    "vatcode": "LT482383314"
   }
 ]

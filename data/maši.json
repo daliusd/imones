@@ -23,7 +23,8 @@
   {
     "name": "BIURO MAŠINOS, UAB",
     "code": "124272166",
-    "address": "Vilnius, Savanorių pr. 32, LT-03120"
+    "address": "Vilnius, Savanorių pr. 32, LT-03120",
+    "vatcode": "LT242721610"
   },
   {
     "name": "IĮ \"Seta mašinos\"",
@@ -33,12 +34,14 @@
   {
     "name": "Laiko mašinos, MB",
     "code": "305658286",
-    "address": "Vilnius, Švenčionių g. 21-1, LT-11350"
+    "address": "Vilnius, Švenčionių g. 21-1, LT-11350",
+    "vatcode": "LT100018041311"
   },
   {
     "name": "MB \"Mašinos ir technologijos\"",
     "code": "303310968",
-    "address": "Vilnius, Lūkesčių g. 27, LT-04125"
+    "address": "Vilnius, Lūkesčių g. 27, LT-04125",
+    "vatcode": "LT100008621916"
   },
   {
     "name": "MB \"Sodybos mašinos\"",
@@ -63,7 +66,8 @@
   {
     "name": "UAB \"Verslo mašinos\"",
     "code": "305278736",
-    "address": "Elektrėnų sav., Vievio sen., Lapiakalnio k., Mindaugo g. 6, LT-21368"
+    "address": "Elektrėnų sav., Vievio sen., Lapiakalnio k., Mindaugo g. 6, LT-21368",
+    "vatcode": "LT100013859515"
   },
   {
     "name": "UAB GINTO MAŠINOS",
@@ -95,12 +99,29 @@
   {
     "name": "Akcinė bendrovė \"Rokiškio mašinų gamykla\"",
     "code": "173108864",
-    "address": "Rokiškis, Respublikos g. 113, LT-42150"
+    "address": "Rokiškis, Respublikos g. 113, LT-42150",
+    "vatcode": "LT731088610"
   },
   {
     "name": "Akcinės bendrovės mašinų gamyklos \"Astra\" profesinė sąjunga \"Metalistas\"",
     "code": "150085043",
     "address": "Alytus, Ulonų g. 33, LT-62161"
+  },
+  {
+    "name": "Individuali Juozo Marcelionio mašinų remonto įmonė",
+    "code": "185117593",
+    "address": "Vilkaviškio r. sav., Šeimenos sen., Kisiniškių k., Eglių g. 2A, LT-70191",
+    "vatcode": "LT851175917"
+  },
+  {
+    "name": "L. Bičkaičio mašinų kėbulų remonto individuali įmonė",
+    "code": "263178580",
+    "address": "Klaipėdos r. sav., Priekulė, Klaipėdos g. 59, LT-96341"
+  },
+  {
+    "name": "Stanislovo Andriulaičio žemės ūkio mašinų remonto įmonė",
+    "code": "257576640",
+    "address": "Joniškio r. sav., Joniškio sen., Ziniūnų k., Sodų g. 51, LT-84164"
   },
   {
     "name": "UAB \"GRAFINIŲ MAŠINŲ SERVISAS\"",
@@ -116,7 +137,8 @@
   {
     "name": "UAB \"Radviliškio mašinų gamykla\"",
     "code": "171367918",
-    "address": "Radviliškis, Vytauto g. 3, LT-82151"
+    "address": "Radviliškis, Vytauto g. 3, LT-82151",
+    "vatcode": "LT713679113"
   },
   {
     "name": "UAB \"Statybos ir kelių tiesimo mašinų dalys\"",
@@ -127,7 +149,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"BIZNIO MAŠINŲ KOMPANIJA\"",
     "code": "122266912",
-    "address": "Vilnius, Juozo Rutkausko g. 6, LT-05132"
+    "address": "Vilnius, Juozo Rutkausko g. 6, LT-05132",
+    "vatcode": "LT222669113"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"STATYBOS APDAILOS MAŠINŲ PREKYBA\"",
@@ -135,10 +158,19 @@
     "address": "Vilnius, Dūmų g. 3, LT-11119"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"STATYBOS MAŠINŲ SERVISAS\"",
+    "code": "122916331"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė Mašinų bandymo stotis",
     "code": "190819979",
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Neries g. 4, LT-54370",
     "vatcode": "LT908199716"
+  },
+  {
+    "name": "Vaiškūno mašinų remonto dirbtuvės",
+    "code": "178607351",
+    "address": "Švenčionių r. sav., Švenčionėliai, Aušros g. 7, LT-18219"
   },
   {
     "name": "Daugiabučių namų savininkų bendrija \"P. Mašioto 41\"",

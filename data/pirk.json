@@ -1,5 +1,10 @@
 [
   {
+    "name": "IĮ \"Pirk Kitaip\"",
+    "code": "301844336",
+    "address": "Vilnius, Šešuolių g. 1-8, LT-05129"
+  },
+  {
     "name": "MB \"Pirk daugiau\"",
     "code": "305691375",
     "address": "Kaunas, Laisvės al. 110, LT-44253"
@@ -12,7 +17,8 @@
   {
     "name": "MB Pirk maistą",
     "code": "305885387",
-    "address": "Vilnius, Žirmūnų g. 79-100, LT-09112"
+    "address": "Vilnius, Žirmūnų g. 79-100, LT-09112",
+    "vatcode": "LT100014757512"
   },
   {
     "name": "UAB \"Pirk LT\"",
@@ -44,7 +50,8 @@
   {
     "name": "UAB \"Pirkena\"",
     "code": "305720574",
-    "address": "Kauno r. sav., Garliava, Draugystės g. 4, LT-53251"
+    "address": "Kauno r. sav., Garliava, Draugystės g. 4, LT-53251",
+    "vatcode": "LT100013911814"
   },
   {
     "name": "Butų savininkų bendrija \"Pirkia\"",
@@ -57,9 +64,15 @@
     "address": "Varėnos r. sav., Marcinkonių sen., Musteikos k., Gandrų g. 35, LT-65283"
   },
   {
+    "name": "IĮ \"Protingi pirkimai\"",
+    "code": "305161843",
+    "address": "Vilnius, Pilaitės Sodų 6-oji g. 24, LT-06230"
+  },
+  {
     "name": "MB \"Pirkimai internetu\"",
     "code": "304505864",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100017917512"
   },
   {
     "name": "UAB \"Miškų pirkimai\"",
@@ -70,7 +83,8 @@
   {
     "name": "UAB \"Pirkimai ir pardavimai\"",
     "code": "305564698",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100013211113"
   },
   {
     "name": "VšĮ \"Viešieji pirkimai jums\"",
@@ -95,7 +109,8 @@
   {
     "name": "UAB \"Grupinis pirkimas\"",
     "code": "302983374",
-    "address": "Vilkaviškio r. sav., Klausučių sen., Bučiūnų k., Giedrių g. 141, LT-70192"
+    "address": "Vilkaviškio r. sav., Klausučių sen., Bučiūnų k., Giedrių g. 141, LT-70192",
+    "vatcode": "LT100007453916"
   },
   {
     "name": "UAB PIRKIMAS",
@@ -143,11 +158,6 @@
     "address": "Šiaulių r. sav., Kužių sen., Sauginių k., Ąžuolų g. 4, LT-80186"
   },
   {
-    "name": "UAB \"Pirkimų namai\"",
-    "code": "305586132",
-    "address": "Kaunas, Kukučių g. 39, LT-51338"
-  },
-  {
     "name": "UAB \"Pirkimų sprendimai\"",
     "code": "300621227",
     "address": "Vilnius, Labdarių g. 5, LT-01120",
@@ -162,17 +172,20 @@
   {
     "name": "UAB \"Viešųjų pirkimų agentūra eTenders\"",
     "code": "300989649",
-    "address": "Vilnius, Viršupio Sodų 10-oji g. 7, LT-10230"
+    "address": "Vilnius, Viršupio Sodų 10-oji g. 7, LT-10230",
+    "vatcode": "LT100003392717"
   },
   {
     "name": "UAB \"Viešųjų pirkimų technologijos\"",
     "code": "303379156",
-    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Parko g. 2A-2, LT-14198"
+    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Parko g. 2A-2, LT-14198",
+    "vatcode": "LT100008820814"
   },
   {
     "name": "UAB Viešųjų pirkimų ekspertų grupė",
     "code": "300126614",
-    "address": "Vilnius, A. Goštauto g. 8, LT-01108"
+    "address": "Vilnius, A. Goštauto g. 8, LT-01108",
+    "vatcode": "LT100001778918"
   },
   {
     "name": "Viešoji įstaiga \"Viešųjų pirkimų agentūra\"",
@@ -197,7 +210,8 @@
   {
     "name": "MB \"Pirkinių menė\"",
     "code": "304944669",
-    "address": "Kaunas, Ašigalio g. 47-7, LT-49144"
+    "address": "Kaunas, Ašigalio g. 47-7, LT-49144",
+    "vatcode": "LT100011996116"
   },
   {
     "name": "MB \"Pirkinių pasaulis\"",
@@ -207,12 +221,14 @@
   {
     "name": "MB \"Virtualus pirkinys\"",
     "code": "306635237",
-    "address": "Vilnius, Laisvės pr. 55A-40, LT-07191"
+    "address": "Vilnius, Laisvės pr. 55A-40, LT-07191",
+    "vatcode": "LT100017020919"
   },
   {
     "name": "UAB \"Pirkios\"",
     "code": "305619625",
-    "address": "Vilniaus r. sav., Maišiagalos sen., Lutiškių vs. 1B, LT-14245"
+    "address": "Vilniaus r. sav., Maišiagalos sen., Lutiškių vs. 1B, LT-14245",
+    "vatcode": "LT100013470313"
   },
   {
     "name": "UAB Pirkis",
@@ -222,12 +238,18 @@
   {
     "name": "MB Pirklandija",
     "code": "307096127",
-    "address": "Vilnius, Volungės g. 9-17, LT-10316"
+    "address": "Vilnius, Volungės g. 9-17, LT-10316",
+    "vatcode": "LT100017610314"
   },
   {
     "name": "LDK Pirkliai, UAB",
     "code": "306259952",
     "address": "Vilniaus r. sav., Zujūnų sen., Zujūnų k., Buivydiškių g. 43A, LT-14160"
+  },
+  {
+    "name": "MB \"Aukso pirkliai\"",
+    "code": "306626793",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Auto pirkliai\"",
@@ -238,12 +260,14 @@
   {
     "name": "MB \"IT pirkliai\"",
     "code": "304957766",
-    "address": "Vilnius, Žirmūnų g. 30E-2, LT-09229"
+    "address": "Vilnius, Žirmūnų g. 30E-2, LT-09229",
+    "vatcode": "LT100012039014"
   },
   {
     "name": "MB \"Minties pirkliai\"",
     "code": "306081866",
-    "address": "Raseiniai, Vytauto Didžiojo g. 35-15, LT-60127"
+    "address": "Raseiniai, Vytauto Didžiojo g. 35-15, LT-60127",
+    "vatcode": "LT100015012513"
   },
   {
     "name": "MB \"Pajūrio pirkliai\"",
@@ -253,7 +277,8 @@
   {
     "name": "MB \"Sprendimo pirkliai\"",
     "code": "305361267",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100014881219"
   },
   {
     "name": "MB Interneto pirkliai",
@@ -263,7 +288,13 @@
   {
     "name": "MB Pirkliai",
     "code": "307074839",
-    "address": "Prienų r. sav., Jieznas, Sodo g. 41, LT-59424"
+    "address": "Prienų r. sav., Jieznas, Sodo g. 41, LT-59424",
+    "vatcode": "LT100017571612"
+  },
+  {
+    "name": "MB Statybų pirkliai",
+    "code": "307579389",
+    "address": "Šiaulių r. sav., Kuršėnai, Gintaro g. 30, LT-81135"
   },
   {
     "name": "MB Vingio pirkliai",
@@ -290,12 +321,13 @@
   {
     "name": "UAB \"Medaus pirkliai\"",
     "code": "301894613",
-    "address": "Raseinių r. sav., Raseinių sen., Gabšių k., Pramonės g. 1A, LT-60192"
+    "address": "Raseinių r. sav., Raseinių sen., Gabšių k., Pramonės g. 1A, LT-60192",
+    "vatcode": "LT100004420913"
   },
   {
     "name": "UAB \"Turto pirkliai\"",
     "code": "303371241",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "address": "Vilnius, Lietaus g. 11-8, LT-04125",
     "vatcode": "LT100008798817"
   },
   {
@@ -319,9 +351,14 @@
     "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
   },
   {
+    "name": "MB \"Pirklio transportas\"",
+    "code": "304413412"
+  },
+  {
     "name": "UAB \"Pirklio baldai\"",
     "code": "152403651",
-    "address": "Kretingos r. sav., Kretingos sen., Vydmantų k., Verslininkų g. 15, LT-97227"
+    "address": "Kretingos r. sav., Kretingos sen., Vydmantų k., Verslininkų g. 15, LT-97227",
+    "vatcode": "LT524036515"
   },
   {
     "name": "UAB Pirklio Keidangeno namai",
@@ -362,7 +399,8 @@
   {
     "name": "MB \"Miško pirklys\"",
     "code": "303412396",
-    "address": "Vilnius, Raitininkų g. 2D-23, LT-09232"
+    "address": "Vilnius, Raitininkų g. 2D-23, LT-09232",
+    "vatcode": "LT100008907112"
   },
   {
     "name": "MB Sėkmės pirklys",
@@ -377,7 +415,8 @@
   {
     "name": "UAB \"Kavos pirklys\"",
     "code": "304713826",
-    "address": "Klaipėda, Baltijos pr. 43-65, LT-94129"
+    "address": "Klaipėda, Baltijos pr. 43-65, LT-94129",
+    "vatcode": "LT100011280317"
   },
   {
     "name": "UAB \"Šiaurės Pirklys\"",
@@ -388,7 +427,8 @@
   {
     "name": "UAB PIRKLYS",
     "code": "302715999",
-    "address": "Kaišiadorių r. sav., Rumšiškės, Nemuno g. 36, LT-56335"
+    "address": "Kaišiadorių r. sav., Rumšiškės, Nemuno g. 36, LT-56335",
+    "vatcode": "LT100006692319"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"PAJŪRIO PIRKLYS\"",
@@ -408,7 +448,8 @@
   {
     "name": "MB \"Pirks\"",
     "code": "306653954",
-    "address": "Vilnius, Balsių Sodų 11-oji g. 40, LT-08425"
+    "address": "Vilnius, Balsių Sodų 11-oji g. 40, LT-08425",
+    "vatcode": "LT100017234710"
   },
   {
     "name": "MB \"Lengva pirkti\"",
@@ -435,6 +476,7 @@
   {
     "name": "UAB \"Slapto pirkėjo tyrimai\"",
     "code": "300072942",
-    "address": "Vilnius, Švitrigailos g. 11M, LT-03228"
+    "address": "Vilnius, Švitrigailos g. 11M, LT-03228",
+    "vatcode": "LT100001374314"
   }
 ]

@@ -81,6 +81,10 @@
     "address": "Vilnius, Naujininkų g. 20, LT-02109"
   },
   {
+    "name": "Lietuvos sporto draugijos \"Žalgiris\" Alytaus miesto taryba",
+    "code": "191711038"
+  },
+  {
     "name": "Lietuvos sporto draugijos \"Žalgiris\" Jurbarko rajono taryba",
     "code": "193216153",
     "address": "Jurbarkas, Kauno g. 25, LT-74122"
@@ -118,7 +122,8 @@
   {
     "name": "Lietuvos žaliųjų pastatų taryba",
     "code": "303107658",
-    "address": "Vilnius, Konstitucijos pr. 7, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 7, LT-09308",
+    "vatcode": "LT100012232413"
   },
   {
     "name": "Lietuvos žemės ūkio taryba",
@@ -139,11 +144,6 @@
     "name": "Marijampolės regiono plėtros taryba",
     "code": "305700575",
     "address": "Marijampolė, Vytauto g. 28, LT-68295"
-  },
-  {
-    "name": "Mažeikių rajono profesinių sąjungų koordinacinė taryba",
-    "code": "167204858",
-    "address": "Mažeikiai, J. Basanavičiaus g. 22, LT-89217"
   },
   {
     "name": "Mažosios Lietuvos reikalų taryba",
@@ -189,6 +189,10 @@
     "name": "Panevėžio regiono plėtros taryba",
     "code": "305693732",
     "address": "Panevėžys, Respublikos g. 38, LT-35173"
+  },
+  {
+    "name": "Raseinių rajono jaunimo reikalų taryba",
+    "code": "172439313"
   },
   {
     "name": "Savivaldybės bendruomenės sveikatos taryba",
@@ -281,11 +285,6 @@
     "address": "Vilnius, Jogailos g. 14, LT-01116"
   },
   {
-    "name": "Lietuvos žemės ūkio darbuotojų profesinių sąjungų federacijos Lazdijų rajono tarybos profsąjungos komitetas",
-    "code": "165239287",
-    "address": "Lazdijai, Vilniaus g. 41, LT-67106"
-  },
-  {
     "name": "Pasvalio rajono tarybos deputatų klubas",
     "code": "300126272",
     "address": "Pasvalys, Vytauto Didžiojo a. 1, LT-39143"
@@ -324,6 +323,10 @@
     "name": "Daugiabučio namo savininkų bendrija \"Tarybų 15\"",
     "code": "302614466",
     "address": "Visaginas, Tarybų g. 15-8, LT-31202"
+  },
+  {
+    "name": "Savivaldybių bendruomenių sveikatos tarybų asociacija",
+    "code": "300650385"
   },
   {
     "name": "Tarybų g. 17 namo butų savininkų bendrija",

@@ -15,9 +15,15 @@
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
+    "name": "Indre int MB",
+    "code": "307597654",
+    "address": "Klaipėda, Tauro 18-oji g. 22, LT-92345"
+  },
+  {
     "name": "UAB \"BAUER INT\"",
     "code": "302299789",
-    "address": "Vilnius, Sausio 13-osios g. 2, LT-04343"
+    "address": "Vilnius, Sausio 13-osios g. 2, LT-04343",
+    "vatcode": "LT100004649218"
   },
   {
     "name": "UAB \"DOPITA INT.\"",
@@ -44,7 +50,8 @@
   {
     "name": "UAB \"SAVICKAS INT\"",
     "code": "302506608",
-    "address": "Molėtų r. sav., Luokesos sen., Ščiūriškių k., Svajonių g. 17, LT-33162"
+    "address": "Molėtų r. sav., Luokesos sen., Ščiūriškių k., Svajonių g. 17, LT-33162",
+    "vatcode": "LT100005438215"
   },
   {
     "name": "UAB AfriCred Int",
@@ -55,5 +62,10 @@
     "name": "UAB DMK INT",
     "code": "306716803",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
+    "name": "UAB Domain Haus Services INT",
+    "code": "307591854",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   }
 ]

@@ -20,10 +20,18 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Budrikų k., Šaltinių g. 11, LT-96328"
   },
   {
+    "name": "Gyvenamųjų namų statybos bendrija \"Sudmantų sodyba\"",
+    "code": "300569403"
+  },
+  {
     "name": "IĮ \"Gintaro sodyba\"",
     "code": "302329378",
     "address": "Švenčionių r. sav., Švenčionėliai, Kaltanėnų g. 24, LT-18209",
     "vatcode": "LT100005471015"
+  },
+  {
+    "name": "IĮ \"Seno dvaro sodyba\"",
+    "code": "301128671"
   },
   {
     "name": "Klaipėdos rajono turizmo informacijos centro filialas J. Gižo etnografinė sodyba",
@@ -33,7 +41,8 @@
   {
     "name": "Labdaros ir paramos fondas \"Jaunimo sodyba\"",
     "code": "164596578",
-    "address": "Kretingos r. sav., Žalgirio sen., Kėkštų k."
+    "address": "Kretingos r. sav., Žalgirio sen., Kėkštų k.",
+    "vatcode": "LT100016039510"
   },
   {
     "name": "MB \"Bakšio sodyba\"",
@@ -76,17 +85,20 @@
   {
     "name": "MB \"Sodyba prie Mūšos\"",
     "code": "307164222",
-    "address": "Pakruojo r. sav., Klovainių sen., Pamūšio k., Vilties g. 12, LT-83473"
+    "address": "Pakruojo r. sav., Klovainių sen., Pamūšio k., Vilties g. 12, LT-83473",
+    "vatcode": "LT100018416417"
   },
   {
     "name": "MB \"Sodyba šventėms\"",
     "code": "306465094",
-    "address": "Kauno r. sav., Ringaudų sen., Čebeliškės k., Gelžkeliuko g. 9, LT-53368"
+    "address": "Kauno r. sav., Ringaudų sen., Čebeliškės k., Gelžkeliuko g. 9, LT-53368",
+    "vatcode": "LT100017087516"
   },
   {
     "name": "MB \"Tirevičių sodyba\"",
     "code": "305589737",
-    "address": "Kretingos r. sav., Kretingos sen., Voveraičių k., Laukų g. 8C, LT-97158"
+    "address": "Kretingos r. sav., Kretingos sen., Voveraičių k., Laukų g. 8C, LT-97158",
+    "vatcode": "LT100017591617"
   },
   {
     "name": "MB \"Valero sodyba\"",
@@ -142,7 +154,8 @@
   {
     "name": "Mažoji bendrija \"Varžupio sodyba\"",
     "code": "306064557",
-    "address": "Kauno r. sav., Akademija, Liudo Vailionio g. 13, LT-53372"
+    "address": "Kauno r. sav., Akademija, Liudo Vailionio g. 13, LT-53372",
+    "vatcode": "LT100017100910"
   },
   {
     "name": "Pakarklių sodyba MB",
@@ -177,7 +190,8 @@
   {
     "name": "UAB \"Balta Sodyba\"",
     "code": "303023587",
-    "address": "Vilniaus r. sav., Maišiagalos sen., Melkio k., Sabutos g. 38, LT-14245"
+    "address": "Vilniaus r. sav., Maišiagalos sen., Melkio k., Sabutos g. 38, LT-14245",
+    "vatcode": "LT100007601512"
   },
   {
     "name": "UAB \"Genutės sodyba\"",
@@ -193,12 +207,14 @@
   {
     "name": "UAB \"Kirkšnovės sodyba\"",
     "code": "302913066",
-    "address": "Raseinių r. sav., Betygalos sen., Darbutų k. 2, LT-60205"
+    "address": "Raseinių r. sav., Betygalos sen., Darbutų k. 2, LT-60205",
+    "vatcode": "LT100007305516"
   },
   {
     "name": "UAB \"Pajūrio sodyba\"",
     "code": "252665010",
-    "address": "Palanga, Mokyklos g. 50A, LT-00303"
+    "address": "Palanga, Mokyklos g. 50A, LT-00303",
+    "vatcode": "LT526650113"
   },
   {
     "name": "UAB \"SAVA SODYBA\"",
@@ -215,17 +231,20 @@
   {
     "name": "UAB \"Sodyba \"Vienkiemis\"",
     "code": "164291434",
-    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Vienkiemio g. 3, LT-97196"
+    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Vienkiemio g. 3, LT-97196",
+    "vatcode": "LT642914314"
   },
   {
     "name": "UAB \"Stasinės dvaro sodyba\"",
     "code": "304065621",
-    "address": "Kėdainių r. sav., Vilainių sen., Stasinės k., Vėjo g. 1, LT-58438"
+    "address": "Kėdainių r. sav., Vilainių sen., Stasinės k., Vėjo g. 1, LT-58438",
+    "vatcode": "LT100009760616"
   },
   {
     "name": "UAB \"Žemaičių sodyba\"",
     "code": "305198934",
-    "address": "Plungės r. sav., Babrungo sen., Babrungo k., Pušelės g. 9, LT-90108"
+    "address": "Plungės r. sav., Babrungo sen., Babrungo k., Pušelės g. 9, LT-90108",
+    "vatcode": "LT100013157710"
   },
   {
     "name": "UAB Kukių sodyba",
@@ -252,7 +271,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"TAVO SODYBA\"",
     "code": "140478233",
-    "address": "Šiauliai, V. Bielskio g. 16, LT-76161"
+    "address": "Šiauliai, V. Bielskio g. 16, LT-76161",
+    "vatcode": "LT404782314"
   },
   {
     "name": "Uždaroji akcinė bendrovė-prekybos namai \"Sodyba\"",
@@ -294,6 +314,10 @@
     "name": "VšĮ Vytauto ir Birutės Benokraičių sodyba \"Tarpučiai\"",
     "code": "306700382",
     "address": "Kaunas, Baltijos g. 92-5, LT-48217"
+  },
+  {
+    "name": "Asociacija \"Vikingų sodybos\"",
+    "code": "301067777"
   },
   {
     "name": "GNSB \"Graudūšių sodybos\"",
@@ -341,9 +365,15 @@
     "address": "Klaipėdos r. sav., Kretingalės sen., Kalotės k., Glaudėnų g. 9, LT-92284"
   },
   {
+    "name": "MB \"Lietuvos Sodybos\"",
+    "code": "307590752",
+    "address": "Panevėžys, Liepų al. 7-55, LT-35140"
+  },
+  {
     "name": "MB \"Sodybos hobis\"",
     "code": "303251039",
-    "address": "Kaišiadorys, Koplytėlės g. 11, LT-56175"
+    "address": "Kaišiadorys, Koplytėlės g. 11, LT-56175",
+    "vatcode": "LT100008639414"
   },
   {
     "name": "MB \"Sodybos mašinos\"",
@@ -363,7 +393,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Druskininkų sodybos\"",
     "code": "152052818",
-    "address": "Druskininkai, Pramonės g. 6, LT-66181"
+    "address": "Druskininkai, Pramonės g. 6, LT-66181",
+    "vatcode": "LT520528113"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Prie sodybos\"",
@@ -388,6 +419,10 @@
     "vatcode": "LT685916716"
   },
   {
+    "name": "185-oji sodybų statybos bendrija \"Saulėtekio alėja\"",
+    "code": "126028762"
+  },
+  {
     "name": "GIMINĖS SODYBŲ BENDRUOMENĖ",
     "code": "301541613",
     "address": "Kazlų Rūdos sav., Jankų sen., Dovydų k. 3, LT-71256"
@@ -396,6 +431,12 @@
     "name": "Giminės sodybų asociacija",
     "code": "305550093",
     "address": "Vilniaus r. sav., Maišiagalos sen., Daučionių k., Pakamšės g. 17, LT-14245"
+  },
+  {
+    "name": "IĮ \"Sodybų priežiūra\"",
+    "code": "304215672",
+    "address": "Molėtų r. sav., Suginčių sen., Verbiškių k., Paupio g. 1A, LT-33331",
+    "vatcode": "LT100013876913"
   },
   {
     "name": "Lietuvos ekologinių sodybų asociacija",
@@ -408,11 +449,6 @@
     "address": "Anykščių r. sav., Anykščių sen., Rubikių k., Didžioji g. 4B, LT-29202"
   },
   {
-    "name": "Sodybų nuoma MB",
-    "code": "306241908",
-    "address": "Vilnius, Taikos g. 163-18, LT-05208"
-  },
-  {
     "name": "UAB \"SODYBŲ PASAULIS\"",
     "code": "306032164",
     "address": "Utena, J. Basanavičiaus g. 49A, LT-28133"
@@ -420,7 +456,8 @@
   {
     "name": "UAB \"Sodybų grupė\"",
     "code": "305585799",
-    "address": "Vilniaus r. sav., Sudervės sen., Purviškių k., Vilniaus g. 115, LT-14204"
+    "address": "Vilniaus r. sav., Sudervės sen., Purviškių k., Vilniaus g. 115, LT-14204",
+    "vatcode": "LT100018340312"
   },
   {
     "name": "UAB \"Sodybų servisas\"",
@@ -431,6 +468,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"SODYBŲ SKYRIUS\"",
     "code": "121180588",
-    "address": "Vilnius, Rolando Jankausko g. 15-29, LT-04315"
+    "address": "Vilnius, Rolando Jankausko g. 15-29, LT-04315",
+    "vatcode": "LT211805811"
   }
 ]

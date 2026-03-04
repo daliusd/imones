@@ -33,7 +33,8 @@
   {
     "name": "AK gerbuva UAB",
     "code": "305733924",
-    "address": "Vilnius, Krokuvos g. 53-3, LT-09306"
+    "address": "Vilnius, Krokuvos g. 53-3, LT-09306",
+    "vatcode": "LT100015059610"
   },
   {
     "name": "AK service, UAB",
@@ -49,12 +50,14 @@
   {
     "name": "Ak autotransportas mažoji bendrija",
     "code": "305986137",
-    "address": "Klaipėda, Kretingos g. 10-9, LT-92209"
+    "address": "Klaipėda, Kretingos g. 10-9, LT-92209",
+    "vatcode": "LT100015681918"
   },
   {
     "name": "Ak baldai MB",
     "code": "307139258",
-    "address": "Alytaus r. sav., Butrimonių sen., Eičiūnų k., Alyvų g. 8, LT-64424"
+    "address": "Alytaus r. sav., Butrimonių sen., Eičiūnų k., Alyvų g. 8, LT-64424",
+    "vatcode": "LT100017762111"
   },
   {
     "name": "Ak digital services, MB",
@@ -64,7 +67,8 @@
   {
     "name": "Ak programavimo sprendimai, MB",
     "code": "306212671",
-    "address": "Vilnius, Loretos Asanavičiūtės g. 38-212, LT-04313"
+    "address": "Vilnius, Loretos Asanavičiūtės g. 38-212, LT-04313",
+    "vatcode": "LT100015934410"
   },
   {
     "name": "Ak servisas MB",
@@ -72,14 +76,21 @@
     "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
   },
   {
+    "name": "IĮ \"AK dress\"",
+    "code": "305636165",
+    "address": "Panevėžys, Paliūniškio g. 3A, LT-35114"
+  },
+  {
     "name": "MB \"AK Dev\"",
     "code": "305793540",
-    "address": "Vilnius, Valonų g. 20A, LT-11330"
+    "address": "Vilnius, Valonų g. 20A, LT-11330",
+    "vatcode": "LT100018141116"
   },
   {
     "name": "MB \"AK FREZAVIMAS\"",
     "code": "306235759",
-    "address": "Alytus, Likiškėlių g. 80-34, LT-63359"
+    "address": "Alytus, Likiškėlių g. 80-34, LT-63359",
+    "vatcode": "LT100015864618"
   },
   {
     "name": "MB \"AK Grupė\"",
@@ -105,12 +116,18 @@
   {
     "name": "MB \"AK ranga\"",
     "code": "305928109",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100014707819"
   },
   {
     "name": "MB \"AK statyba LT\"",
     "code": "306153625",
     "address": "Šiauliai, Spindulio g. 10-22, LT-76173"
+  },
+  {
+    "name": "MB AK",
+    "code": "307579617",
+    "address": "Druskininkų sav., Viečiūnų sen., Grūto k., Grūto g. 34, LT-66441"
   },
   {
     "name": "MB AK Consulting",
@@ -125,27 +142,32 @@
   {
     "name": "MB AK Plutus",
     "code": "305864126",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103",
+    "vatcode": "LT100019018014"
   },
   {
     "name": "MB AK Solutions",
     "code": "306669385",
-    "address": "Vilnius, Giedraičių g. 60B-87, LT-08212"
+    "address": "Vilnius, Giedraičių g. 60B-87, LT-08212",
+    "vatcode": "LT100016618011"
   },
   {
     "name": "MB AK TECH",
     "code": "306634523",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100016945916"
   },
   {
     "name": "MB AK konstrukcijos",
     "code": "306245155",
-    "address": "Kaunas, I. Štaro g. 16-1, LT-47484"
+    "address": "Kaunas, I. Štaro g. 16-1, LT-47484",
+    "vatcode": "LT100016847815"
   },
   {
     "name": "MB AK konsultacijos",
     "code": "307543578",
-    "address": "Vilnius, Labdarių g. 8A-15, LT-01120"
+    "address": "Vilnius, Labdarių g. 8A-15, LT-01120",
+    "vatcode": "LT100019494616"
   },
   {
     "name": "MB AK laboratorija",
@@ -160,7 +182,8 @@
   {
     "name": "MB Ak auto",
     "code": "305710060",
-    "address": "Kaunas, Jonavos g. 162-505, LT-44135"
+    "address": "Kaunas, Jonavos g. 162-505, LT-44135",
+    "vatcode": "LT100014302913"
   },
   {
     "name": "MB Ak finansai",
@@ -180,7 +203,8 @@
   {
     "name": "MB Ak projects",
     "code": "306000106",
-    "address": "Vilnius, Elbingo g. 29-6, LT-06285"
+    "address": "Vilnius, Elbingo g. 29-6, LT-06285",
+    "vatcode": "LT100016046210"
   },
   {
     "name": "MB Ak services",
@@ -191,6 +215,11 @@
     "name": "MB Ak statybos darbai",
     "code": "306261679",
     "address": "Kupiškio r. sav., Skapiškio sen., Dailiūnų k., Dailiūnų g. 4, LT-40462"
+  },
+  {
+    "name": "MB Ak trade",
+    "code": "307580480",
+    "address": "Panevėžys, Nepriklausomybės a. 10, LT-35209"
   },
   {
     "name": "MB Ak works",
@@ -209,19 +238,31 @@
     "address": "Prienų r. sav., Stakliškių sen., Pieštuvėnų k., Liepų g. 1, LT-59352"
   },
   {
+    "name": "Paramos fondas AK Rytojus",
+    "code": "307601921",
+    "address": "Plungė, Kalniškių g. 10-2, LT-90158"
+  },
+  {
     "name": "UAB \"AK Baltic\"",
     "code": "302859412",
-    "address": "Vilnius, Salomėjos Nėries g. 99-4, LT-06334"
+    "address": "Vilnius, Salomėjos Nėries g. 99-4, LT-06334",
+    "vatcode": "LT100007130615"
+  },
+  {
+    "name": "UAB \"AK Cargotransit\"",
+    "code": "302602421"
   },
   {
     "name": "UAB \"AK Consult\"",
     "code": "300648612",
-    "address": "Kaunas, P. Višinskio g. 22, LT-44173"
+    "address": "Kaunas, P. Višinskio g. 22, LT-44173",
+    "vatcode": "LT100003614512"
   },
   {
     "name": "UAB \"AK MIŠKAI\"",
     "code": "303058766",
-    "address": "Kelmė, Atgimimo g. 17, LT-86124"
+    "address": "Kelmė, Atgimimo g. 17, LT-86124",
+    "vatcode": "LT100007717515"
   },
   {
     "name": "UAB \"AK Studija\"",
@@ -253,12 +294,14 @@
   {
     "name": "UAB 2 AK",
     "code": "303058741",
-    "address": "Klaipėda, Rokiškio g. 40, LT-92308"
+    "address": "Klaipėda, Rokiškio g. 40, LT-92308",
+    "vatcode": "LT100010959812"
   },
   {
     "name": "UAB AK Design Factory",
     "code": "305643829",
-    "address": "Klaipėda, Šturmanų g. 20-1, LT-93201"
+    "address": "Klaipėda, Šturmanų g. 20-1, LT-93201",
+    "vatcode": "LT100015126217"
   },
   {
     "name": "UAB AK Electro",
@@ -276,9 +319,15 @@
     "address": "Panevėžys, Kranto g. 43-36, LT-35172"
   },
   {
+    "name": "UAB AK turto valdymas",
+    "code": "307582321",
+    "address": "Vilnius, Fabijoniškių g. 3-17, LT-07130"
+  },
+  {
     "name": "UAB Ak Group",
     "code": "305697766",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
+    "address": "Vilnius, Architektų g. 56-101, LT-04111",
+    "vatcode": "LT100019039416"
   },
   {
     "name": "Viešoji įstaiga \"AK RACING TEAM\"",

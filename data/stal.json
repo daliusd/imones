@@ -53,7 +53,8 @@
   {
     "name": "MB \"Ilgas stalas\"",
     "code": "307094005",
-    "address": "Klaipėda, Birutės g. 23-72, LT-91214"
+    "address": "Klaipėda, Birutės g. 23-72, LT-91214",
+    "vatcode": "LT100018723812"
   },
   {
     "name": "MB Bendras stalas",
@@ -63,7 +64,8 @@
   {
     "name": "MB Senas stalas",
     "code": "306627824",
-    "address": "Vilnius, Jurgio Lebedžio g. 9-376, LT-08353"
+    "address": "Vilnius, Jurgio Lebedžio g. 9-376, LT-08353",
+    "vatcode": "LT100019209518"
   },
   {
     "name": "MB Stalas",
@@ -108,7 +110,8 @@
   {
     "name": "UAB \"Saldus stalas\"",
     "code": "305245138",
-    "address": "Pagėgių sav., Pagėgių sen., Panemunės m., K. Donelaičio g. 16, LT-99276"
+    "address": "Pagėgių sav., Pagėgių sen., Panemunės m., K. Donelaičio g. 16, LT-99276",
+    "vatcode": "LT100012641115"
   },
   {
     "name": "UKMERGĖS RAJONO JAUNIMO ORGANIZACIJŲ SĄJUNGA \"APSKRITASIS STALAS\"",
@@ -153,12 +156,14 @@
   {
     "name": "UAB \"STALBALTA\"",
     "code": "242061830",
-    "address": "Klaipėda, Minijos g. 180, LT-93269"
+    "address": "Klaipėda, Minijos g. 180, LT-93269",
+    "vatcode": "LT420618314"
   },
   {
     "name": "UAB \"StalCorp\"",
     "code": "303527861",
-    "address": "Kaunas, Trakų g. 35-20, LT-44326"
+    "address": "Kaunas, Trakų g. 35-20, LT-44326",
+    "vatcode": "LT100009099516"
   },
   {
     "name": "UAB StalCorp Holding",
@@ -168,12 +173,17 @@
   {
     "name": "UAB \"STALDA\"",
     "code": "300536613",
-    "address": "Vilniaus r. sav., Mickūnų sen., Galgių k., Žiedo g. 15, LT-13103"
+    "address": "Vilniaus r. sav., Mickūnų sen., Galgių k., Žiedo g. 15, LT-13103",
+    "vatcode": "LT100002243111"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"STALDĖ\"",
     "code": "221522110",
     "address": "Vilnius, Latvių g. 56-23, LT-08113"
+  },
+  {
+    "name": "UAB \"Staldūmė\"",
+    "code": "126280222"
   },
   {
     "name": "UAB \"Staleksa\"",
@@ -189,7 +199,8 @@
   {
     "name": "Stalenpro UAB",
     "code": "306642694",
-    "address": "Vilniaus r. sav., Nemėžio sen., Nemėžio k., Vyšnių g. 16-2, LT-13285"
+    "address": "Vilniaus r. sav., Nemėžio sen., Nemėžio k., Vyšnių g. 16-2, LT-13285",
+    "vatcode": "LT100019008517"
   },
   {
     "name": "UAB \"Stalernė\"",
@@ -200,6 +211,15 @@
     "name": "UAB \"Staleta\"",
     "code": "305596831",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+  },
+  {
+    "name": "MB \"Stalgida\"",
+    "code": "303125300"
+  },
+  {
+    "name": "A. Stalgio įmonė",
+    "code": "123111174",
+    "address": "Vilnius, Subačiaus g. 103-1, LT-11343"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"STALGVITA\"",
@@ -235,12 +255,18 @@
   {
     "name": "UAB \"Žemaitijos staliai\"",
     "code": "126164812",
-    "address": "Vilnius, Verkių g. 44, LT-09117"
+    "address": "Vilnius, Verkių g. 44, LT-09117",
+    "vatcode": "LT261648113"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"STALIAI\"",
     "code": "168406898",
     "address": "Panevėžio r. sav., Karsakiškio sen., Naujikų k., Naujikų g. 5, LT-38464"
+  },
+  {
+    "name": "Babano staliaus darbų individuali įmonė \"Beriozka\"",
+    "code": "186021911",
+    "address": "Vilniaus r. sav., Bezdonių sen., Pasakiškių k."
   },
   {
     "name": "IĮ \"Staliaus pastogė\"",
@@ -249,9 +275,20 @@
     "vatcode": "LT100002030914"
   },
   {
+    "name": "MB \"Staliaus namai\"",
+    "code": "307594380",
+    "address": "Kaunas, Vandžiogalos pl. 45, LT-47419"
+  },
+  {
+    "name": "V. Urbano staliaus dirbinių dirbtuvė",
+    "code": "178628484",
+    "address": "Švenčionių r. sav., Švenčionėlių sen., Augustavo vs."
+  },
+  {
     "name": "UAB \"Stalida\"",
     "code": "304194872",
-    "address": "Tauragės r. sav., Tauragės sen., Taurų k., Verslininkų g. 9, LT-72116"
+    "address": "Tauragės r. sav., Tauragės sen., Taurų k., Verslininkų g. 9, LT-72116",
+    "vatcode": "LT100010844616"
   },
   {
     "name": "UAB \"Stalina\"",
@@ -259,9 +296,33 @@
     "address": "Vilnius, Pramonės g. 141, LT-11115"
   },
   {
+    "name": "R. STALIONIENĖS stomatologijos kabinetas",
+    "code": "283111450",
+    "address": "Ukmergė, Anykščių g. 3-19, LT-20181"
+  },
+  {
+    "name": "Pauliaus Stalionio IĮ",
+    "code": "304175548",
+    "address": "Radviliškio r. sav., Šeduva, Šaltinio g. 3-1, LT-82225"
+  },
+  {
+    "name": "UAB B. Stalioraitienės mokymo centras",
+    "code": "151259333"
+  },
+  {
+    "name": "Renaldo Stalioraičio IĮ",
+    "code": "300024157",
+    "address": "Marijampolė, R. Juknevičiaus g. 22-14, LT-68212"
+  },
+  {
+    "name": "Vinco Stalioraičio parduotuvė \"Upė\"",
+    "code": "185207119"
+  },
+  {
     "name": "MB \"Stalis\"",
     "code": "303068130",
-    "address": "Kaunas, Raseinių g. 4-1, LT-44200"
+    "address": "Kaunas, Raseinių g. 4-1, LT-44200",
+    "vatcode": "LT100010602214"
   },
   {
     "name": "UAB \"Stalita\"",
@@ -281,7 +342,13 @@
   {
     "name": "UAB \"Staliukai\"",
     "code": "304438497",
-    "address": "Vilnius, Olandų g. 10A-5, LT-01100"
+    "address": "Vilnius, Olandų g. 10A-5, LT-01100",
+    "vatcode": "LT100012218216"
+  },
+  {
+    "name": "V. Staliulionienės bendros praktikos gydytojo kabinetas",
+    "code": "186491042",
+    "address": "Vilniaus r. sav., Lavoriškių sen., Mostiškių k."
   },
   {
     "name": "MB \"Būk geras stalius\"",
@@ -320,9 +387,25 @@
     "address": "Kauno r. sav., Babtų sen., Muniškių k., Upės g. 29, LT-54337"
   },
   {
+    "name": "J. D. Staliūnienės audito konsultacinė firma",
+    "code": "135752939",
+    "address": "Kaunas, Kuršių g. 40-44, LT-48143"
+  },
+  {
+    "name": "S. Staliūno firma",
+    "code": "133540040"
+  },
+  {
+    "name": "A. Voro stalių dirbtuvės \"Arbor\"",
+    "code": "172232962",
+    "address": "Raseinių r. sav., Raseinių sen., Stonų k.",
+    "vatcode": "LT722329610"
+  },
+  {
     "name": "Akcinė bendrovė \"STALIŲ GAMINIAI\"",
     "code": "149733112",
-    "address": "Alytus, Naujoji g. 130, LT-62175"
+    "address": "Alytus, Naujoji g. 130, LT-62175",
+    "vatcode": "LT497331113"
   },
   {
     "name": "MB \"Stalių darbai\"",
@@ -332,7 +415,8 @@
   {
     "name": "MB \"Stalių dirbiniai\"",
     "code": "304774380",
-    "address": "Telšiai, Miško g. 45, LT-87389"
+    "address": "Telšiai, Miško g. 45, LT-87389",
+    "vatcode": "LT100011471411"
   },
   {
     "name": "MB \"Stalių statyba\"",
@@ -358,7 +442,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Jundos stalių gaminiai\"",
     "code": "153731633",
-    "address": "Alytaus r. sav., Punios sen., Padvariškių k., Jundos g. 2, LT-64463"
+    "address": "Alytaus r. sav., Punios sen., Padvariškių k., Jundos g. 2, LT-64463",
+    "vatcode": "LT537316314"
   },
   {
     "name": "UAB \"Stalkalnis\"",
@@ -492,7 +577,8 @@
   {
     "name": "MB \"Stalo studija\"",
     "code": "304913969",
-    "address": "Kaunas, Santarvės g. 15D, LT-46398"
+    "address": "Kaunas, Santarvės g. 15D, LT-46398",
+    "vatcode": "LT100011893317"
   },
   {
     "name": "MB Stalo sprendimai",
@@ -533,6 +619,10 @@
     "name": "Rokiškio rajono stalo teniso klubas \"Rokis\"",
     "code": "303240459",
     "address": "Rokiškis, J. Basanavičiaus g. 3, LT-42134"
+  },
+  {
+    "name": "Rokiškio stalo žaidimų klubas",
+    "code": "304270409"
   },
   {
     "name": "STALO TENISO KLUBAS \"LAISVA RANKA\"",
@@ -632,7 +722,8 @@
   {
     "name": "UAB \"Stalo\"",
     "code": "305627344",
-    "address": "Kaunas, Skuodo g. 2B-4, LT-45204"
+    "address": "Kaunas, Skuodo g. 2B-4, LT-45204",
+    "vatcode": "LT100013422212"
   },
   {
     "name": "Ukmergės stalo teniso ir teniso klubas",
@@ -753,7 +844,8 @@
   {
     "name": "MB \"Stalsera\"",
     "code": "305561047",
-    "address": "Klaipėdos r. sav., Dovilai, Laukų g. 15, LT-96225"
+    "address": "Klaipėdos r. sav., Dovilai, Laukų g. 15, LT-96225",
+    "vatcode": "LT100013694818"
   },
   {
     "name": "UAB \"Staltena\"",
@@ -801,7 +893,8 @@
   {
     "name": "MB Sekmės stalčius",
     "code": "305977266",
-    "address": "Vilnius, Fabijoniškių g. 3A-32, LT-07130"
+    "address": "Vilnius, Fabijoniškių g. 3A-32, LT-07130",
+    "vatcode": "LT100014672217"
   },
   {
     "name": "MB \"Stalė\"",

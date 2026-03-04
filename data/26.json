@@ -35,11 +35,6 @@
     "address": "Kaunas, Antanavos g. 17A, LT-46274"
   },
   {
-    "name": "262-oji garažų statybos ir eksploatavimo bendrija",
-    "code": "135384750",
-    "address": "Kaunas, Rusų g. 4A"
-  },
-  {
     "name": "Daugiabučio namo Vilniaus g. 262 savininkų bendrija",
     "code": "145470354",
     "address": "Šiauliai, Vilniaus g. 262, LT-76306"
@@ -261,8 +256,7 @@
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Vyšnia-26\"",
-    "code": "169293453",
-    "address": "Pasvalys, Vyšnių g. 26, LT-39141"
+    "code": "169293453"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija Architektų g. 26",
@@ -312,7 +306,8 @@
   {
     "name": "Individualių gyvenamųjų namų statybos bendrija Nr. 26",
     "code": "186698646",
-    "address": "Vilniaus r. sav., Nemenčinės sen., Eitminiškių k."
+    "address": "Vilniaus r. sav., Nemenčinės sen., Eitminiškių k.",
+    "vatcode": "LT100002944810"
   },
   {
     "name": "Kniaudiškių g. 26-ojo namo savininkų bendrija",
@@ -360,6 +355,11 @@
     "address": "Vilnius, Šeškinės g. 26, LT-07157"
   },
   {
+    "name": "Pilėnų g. 26-ojo namo savininkų bendrija",
+    "code": "307595176",
+    "address": "Panevėžys, Pilėnų g. 26-5, LT-36239"
+  },
+  {
     "name": "Respublikos 26 namo savininkų bendrija",
     "code": "161764572",
     "address": "Kėdainiai, Respublikos g. 26-37, LT-57401"
@@ -373,6 +373,11 @@
     "name": "Statybininkų g. 26-ojo namo savininkų bendrija",
     "code": "148290571",
     "address": "Panevėžys, Statybininkų g. 26, LT-37351"
+  },
+  {
+    "name": "V 26 UAB",
+    "code": "307585972",
+    "address": "Vilnius, Švitrigailos g. 36, LT-03230"
   },
   {
     "name": "Vilniaus miesto Pilkalnio g. 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28 ir 30 savininkų bendrija \"NOK NOK NAMAI\"",
@@ -408,5 +413,10 @@
     "name": "Neries g. 26B daugiabučio gyvenamojo namo savininkų bendrija",
     "code": "301531996",
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Neries g. 26B-11, LT-54365"
+  },
+  {
+    "name": "26NGLS, UAB",
+    "code": "307584500",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
   }
 ]

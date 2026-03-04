@@ -65,6 +65,11 @@
     "address": "Kaunas, Vytauto pr. 32, LT-44328"
   },
   {
+    "name": "MB Tvarus kūnas",
+    "code": "307581276",
+    "address": "Kaunas, Kukučių g. 39, LT-51338"
+  },
+  {
     "name": "MB Žavus kūnas",
     "code": "306276752",
     "address": "Vilnius, A. Juozapavičiaus g. 13-1, LT-09311",
@@ -88,7 +93,8 @@
   {
     "name": "Viešoji įstaiga \"Sveikame kūne sveika siela\"",
     "code": "302521058",
-    "address": "Vilnius, Skroblų g. 3A, LT-03144"
+    "address": "Vilnius, Skroblų g. 3A, LT-03144",
+    "vatcode": "LT100008011517"
   },
   {
     "name": "\"Kūno resursai\", MB",
@@ -181,6 +187,10 @@
     "address": "Telšių r. sav., Gadūnavo sen., Kalnėnų k., Subedžio g. 30, LT-88436"
   },
   {
+    "name": "MB \"Kūno balansas\"",
+    "code": "305419471"
+  },
+  {
     "name": "MB \"Kūno ir dvasios vienetas\"",
     "code": "305202382",
     "address": "Druskininkų sav., Leipalingio sen., Leipalingio k., Leipalingio pl. 51, LT-67280"
@@ -198,7 +208,8 @@
   {
     "name": "MB \"Kūno meistrai\"",
     "code": "305809592",
-    "address": "Tauragės r. sav., Tauragės sen., Juodpetrių k., Lapių g. 5, LT-72381"
+    "address": "Tauragės r. sav., Tauragės sen., Juodpetrių k., Lapių g. 5, LT-72381",
+    "vatcode": "LT100018800719"
   },
   {
     "name": "MB \"Kūno menas\"",
@@ -389,12 +400,8 @@
   {
     "name": "Viešoji įstaiga Mažeikių kūno kultūros klubas",
     "code": "300529280",
-    "address": "Mažeikiai, P. Vileišio g. 2-41, LT-89220"
-  },
-  {
-    "name": "Visagino kūno kultūros ir sporto centro trenerių profesinė sąjunga",
-    "code": "155960723",
-    "address": "Visaginas, Taikos pr. 23, LT-31107"
+    "address": "Mažeikiai, P. Vileišio g. 2-41, LT-89220",
+    "vatcode": "LT100003035416"
   },
   {
     "name": "VšĮ \"Kūno laboratorija\"",
@@ -444,12 +451,14 @@
   {
     "name": "Labdaros ir paramos fondas \"Maistas kūnui ir sielai\"",
     "code": "302456799",
-    "address": "Kaunas, Panerių g. 187, LT-48437"
+    "address": "Kaunas, Panerių g. 187, LT-48437",
+    "vatcode": "LT100016503410"
   },
   {
     "name": "MB \"Kūnui ir sielai\"",
     "code": "304126017",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
+    "vatcode": "LT100010481514"
   },
   {
     "name": "MB \"Protui, kūnui, sielai\"",
@@ -470,7 +479,8 @@
   {
     "name": "UAB Investicija kūnui",
     "code": "305676366",
-    "address": "Vilnius, Vingrių g. 13-1, LT-01141"
+    "address": "Vilnius, Vingrių g. 13-1, LT-01141",
+    "vatcode": "LT100016511613"
   },
   {
     "name": "VILNIAUS MIESTO LABDAROS IR PARAMOS FONDAS \"HARĖ KRIŠNA MAISTAS KŪNUI IR SIELAI\"",

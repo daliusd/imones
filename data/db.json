@@ -11,9 +11,20 @@
     "address": "Vilnius, Ukmergės g. 126, LT-08100"
   },
   {
+    "name": "DB United UAB",
+    "code": "307583455",
+    "address": "Vilnius, Architektų g. 56-101, LT-04111"
+  },
+  {
     "name": "DB stato, MB",
     "code": "307177472",
-    "address": "Klaipėdos r. sav., Sendvario sen., Klausmylių vs., Vikių g. 54, LT-91292"
+    "address": "Klaipėdos r. sav., Sendvario sen., Klausmylių vs., Vikių g. 54, LT-91292",
+    "vatcode": "LT100018464215"
+  },
+  {
+    "name": "IĮ DB Arts Garage",
+    "code": "305711109",
+    "address": "Vilniaus r. sav., Avižienių sen., Žemųjų Rusokų vs., Bendorių kel. 20-1, LT-14336"
   },
   {
     "name": "MB \"Advance Group DB\"",
@@ -39,7 +50,8 @@
   {
     "name": "MB \"DB&Team\"",
     "code": "306979537",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019005213"
   },
   {
     "name": "MB DB Apskaita",
@@ -65,12 +77,14 @@
   {
     "name": "MB DB statyba Vilniuje",
     "code": "306422207",
-    "address": "Pagėgiai, Žemaičių g. 16-3, LT-99289"
+    "address": "Pagėgiai, Žemaičių g. 16-3, LT-99289",
+    "vatcode": "LT100016310219"
   },
   {
     "name": "UAB \"DB Investment\"",
     "code": "304168817",
-    "address": "Vilniaus miesto savivaldybės teritorija"
+    "address": "Vilniaus miesto savivaldybės teritorija",
+    "vatcode": "LT100010651818"
   },
   {
     "name": "UAB \"DB Sound\"",
@@ -80,13 +94,14 @@
   {
     "name": "UAB \"DB ir partneriai\"",
     "code": "302552744",
-    "address": "Kaunas, Kuršių g. 7, LT-48107",
+    "address": "Šilutės r. sav., Rusnė, Taikos g. 17-3, LT-99349",
     "vatcode": "LT100010365819"
   },
   {
     "name": "UAB \"DB motors\"",
     "code": "305898121",
-    "address": "Kaunas, Vasarvidžio g. 19, LT-44105"
+    "address": "Kaunas, Vasarvidžio g. 19, LT-44105",
+    "vatcode": "LT100014399411"
   },
   {
     "name": "UAB \"DB\"",
@@ -97,7 +112,8 @@
   {
     "name": "UAB \"Db statyba\"",
     "code": "306030380",
-    "address": "Telšių r. sav., Ryškėnų sen., Užgirių k., Putino Sodų 14-oji g. 9, LT-87419"
+    "address": "Telšių r. sav., Ryškėnų sen., Užgirių k., Putino Sodų 14-oji g. 9, LT-87419",
+    "vatcode": "LT100015741118"
   },
   {
     "name": "UAB DB \"Sauridos garantas\"",
@@ -128,7 +144,8 @@
   {
     "name": "MB \"DBA service\"",
     "code": "306135260",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+    "address": "Kaunas, Europos pr. 34-47, LT-46370",
+    "vatcode": "LT100015760417"
   },
   {
     "name": "MB Dba logistika",
@@ -138,12 +155,18 @@
   {
     "name": "Mažoji bendrija \"DBA projektai\"",
     "code": "302918138",
-    "address": "Kaunas, Partizanų g. 27E-51, LT-49449"
+    "address": "Kaunas, Partizanų g. 27E-51, LT-49449",
+    "vatcode": "LT100007475614"
   },
   {
     "name": "MB \"Dbac\"",
     "code": "306080515",
     "address": "Vilnius, Karklėnų g. 23-24, LT-11223"
+  },
+  {
+    "name": "IĮ \"Dbara statyba\"",
+    "code": "305732523",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "DBC Consulting, MB",
@@ -168,7 +191,8 @@
   {
     "name": "UAB \"DBK group\"",
     "code": "307063561",
-    "address": "Kaunas, Naujakurių g. 29-4, LT-47142"
+    "address": "Kaunas, Naujakurių g. 29-4, LT-47142",
+    "vatcode": "LT100017500714"
   },
   {
     "name": "MB DBlu made",
@@ -178,17 +202,20 @@
   {
     "name": "UAB Dbp investments",
     "code": "307133764",
-    "address": "Kauno r. sav., Lapių sen., Ginėnų k., Neries g. 4, LT-54430"
+    "address": "Kauno r. sav., Lapių sen., Ginėnų k., Neries g. 4, LT-54430",
+    "vatcode": "LT100017958015"
   },
   {
     "name": "Dbreeze MB",
     "code": "306143524",
-    "address": "Klaipėdos r. sav., Kretingalė, Klaipėdos g. 35-2, LT-96330"
+    "address": "Klaipėdos r. sav., Kretingalė, Klaipėdos g. 35-2, LT-96330",
+    "vatcode": "LT100015310516"
   },
   {
     "name": "MB \"DBS Group\"",
     "code": "306620438",
-    "address": "Kauno r. sav., Ringaudų sen., Karkiškių k., Parko g. 8, LT-53367"
+    "address": "Kauno r. sav., Ringaudų sen., Karkiškių k., Parko g. 8, LT-53367",
+    "vatcode": "LT100016387419"
   },
   {
     "name": "MB Dbs ride",
@@ -203,7 +230,8 @@
   {
     "name": "UAB Dbservis",
     "code": "306278073",
-    "address": "Šiauliai, Pempių g. 58, LT-76381"
+    "address": "Šiauliai, Pempių g. 58, LT-76381",
+    "vatcode": "LT100015850618"
   },
   {
     "name": "DBT Systems, UAB",
@@ -213,7 +241,8 @@
   {
     "name": "UAB \"DBT Group\"",
     "code": "306153461",
-    "address": "Vilnius, Labdarių g. 6A-18, LT-01120"
+    "address": "Vilnius, Labdarių g. 6A-18, LT-01120",
+    "vatcode": "LT100017363417"
   },
   {
     "name": "VšĮ \"DBV Antik\"",

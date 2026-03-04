@@ -1,5 +1,15 @@
 [
   {
+    "name": "\"Mados kultas\", IĮ",
+    "code": "300580809",
+    "address": "Šilutė, Liepų g. 11-27, LT-99181"
+  },
+  {
+    "name": "IĮ \"Spalvų Kultas\"",
+    "code": "306705778",
+    "address": "Šiaulių r. sav., Kairių sen., Žadžiūnų k., J. Grušo g. 25, LT-80106"
+  },
+  {
     "name": "MB \"Gražaus kūno kultas\"",
     "code": "305522820",
     "address": "Marijampolė, Uosupio g. 1-38, LT-68162"
@@ -33,12 +43,14 @@
   {
     "name": "MB Vilko kultas",
     "code": "305697339",
-    "address": "Vilnius, L. Giros g. 104-41, LT-06300"
+    "address": "Vilnius, L. Giros g. 104-41, LT-06300",
+    "vatcode": "LT100016619615"
   },
   {
     "name": "UAB \"Kultas\"",
     "code": "300553502",
-    "address": "Kauno r. sav., Samylų sen., Šlienavos k., Dubravų g. 18, LT-53145"
+    "address": "Kauno r. sav., Samylų sen., Šlienavos k., Dubravų g. 18, LT-53145",
+    "vatcode": "LT100002605518"
   },
   {
     "name": "UAB \"Kūno kultas\"",
@@ -48,7 +60,8 @@
   {
     "name": "UAB \"Maisto kultas\"",
     "code": "304164217",
-    "address": "Kaunas, Šv. Gertrūdos g. 22-2, LT-44260"
+    "address": "Kaunas, Šv. Gertrūdos g. 22-2, LT-44260",
+    "vatcode": "LT100010201412"
   },
   {
     "name": "UAB \"Saulės kultas\"",
@@ -69,12 +82,14 @@
   {
     "name": "UAB \"Žuvies kultas\"",
     "code": "306735294",
-    "address": "Kauno r. sav., Rokų sen., Girininkų k., Knygnešio Petro Varkalos g. 55A, LT-46169"
+    "address": "Kauno r. sav., Rokų sen., Girininkų k., Knygnešio Petro Varkalos g. 55A, LT-46169",
+    "vatcode": "LT100017023711"
   },
   {
     "name": "UAB \"Žvejo kultas\"",
     "code": "301691591",
-    "address": "Kauno r. sav., Kulautuva, S. Jasiūnaitės g. 4-4, LT-53485"
+    "address": "Kauno r. sav., Kulautuva, S. Jasiūnaitės g. 4-4, LT-53485",
+    "vatcode": "LT100004043816"
   },
   {
     "name": "UAB Tech kultas",
@@ -85,7 +100,8 @@
   {
     "name": "Viešoji įstaiga \"Kino kultas\"",
     "code": "301492664",
-    "address": "Vilnius, Algimanto Petro Kavoliuko g. 2A, LT-04351"
+    "address": "Vilnius, Algimanto Petro Kavoliuko g. 2A, LT-04351",
+    "vatcode": "LT100005341612"
   },
   {
     "name": "VšĮ \"Proto kultas\"",
@@ -110,7 +126,8 @@
   {
     "name": "UAB \"Kulto group\"",
     "code": "303033802",
-    "address": "Kaunas, Panerių g. 212A K4, LT-48459"
+    "address": "Kaunas, Panerių g. 212A K4, LT-48459",
+    "vatcode": "LT100014562718"
   },
   {
     "name": "Asociacija Deutscher Kultur Verein Memel",
@@ -130,12 +147,18 @@
   {
     "name": "MB \"Kulturtinga\"",
     "code": "302750313",
-    "address": "Vilnius, Žvejų g. 14A, LT-09310"
+    "address": "Vilnius, Žvejų g. 14A, LT-09310",
+    "vatcode": "LT100006794210"
   },
   {
     "name": "Vokiečių kultūros draugija \"Kulturverband\"",
     "code": "307015075",
     "address": "Kaunas, Ryšių g. 32A, LT-51306"
+  },
+  {
+    "name": "R. Navicko IĮ \"Kultė\"",
+    "code": "133115228",
+    "address": "Kaunas, Laisvės al. 98-14, LT-44252"
   },
   {
     "name": "\"Architektūra ir kultūra\", VšĮ",
@@ -155,32 +178,38 @@
   {
     "name": "MB \"Darbo kultūra\"",
     "code": "306298617",
-    "address": "Klaipėda, Šaltkalvių g. 3-1, LT-91246"
+    "address": "Klaipėda, Šaltkalvių g. 3-1, LT-91246",
+    "vatcode": "LT100015923915"
   },
   {
     "name": "MB \"Garso kultūra\"",
     "code": "305222417",
-    "address": "Kaišiadorys, Kriaučiškių 3-asis tak. 4, LT-56132"
+    "address": "Kaišiadorys, Kriaučiškių 3-asis tak. 4, LT-56132",
+    "vatcode": "LT100018949516"
   },
   {
     "name": "MB \"Kedų kultūra\"",
     "code": "304866124",
-    "address": "Vilnius, Vytauto g. 44A-2, LT-08122"
+    "address": "Vilnius, Vytauto g. 44A-2, LT-08122",
+    "vatcode": "LT100013601212"
   },
   {
     "name": "MB \"Nauja kultūra\"",
     "code": "306221268",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100018720515"
   },
   {
     "name": "MB \"Oro kultūra\"",
     "code": "306242629",
-    "address": "Kauno r. sav., Ringaudų sen., Bajorų k., Volungių g. 8, LT-53368"
+    "address": "Kauno r. sav., Ringaudų sen., Bajorų k., Volungių g. 8, LT-53368",
+    "vatcode": "LT100015679018"
   },
   {
     "name": "MB \"Peronas. Kava ir kultūra\"",
     "code": "306101646",
-    "address": "Vilniaus r. sav., Avižienių sen., Bajorų k., Mėtų g. 23F-1, LT-14182"
+    "address": "Vilniaus r. sav., Avižienių sen., Bajorų k., Mėtų g. 23F-1, LT-14182",
+    "vatcode": "LT100015253715"
   },
   {
     "name": "MB \"Tvarumo kultūra\"",
@@ -190,7 +219,8 @@
   {
     "name": "MB \"Verslo kultūra\"",
     "code": "305742916",
-    "address": "Vilnius, Santariškių g. 75-34, LT-08457"
+    "address": "Vilnius, Santariškių g. 75-34, LT-08457",
+    "vatcode": "LT100014604111"
   },
   {
     "name": "MB \"Virtuvės kultūra\"",
@@ -216,7 +246,8 @@
   {
     "name": "MB Svetingumo kultūra",
     "code": "307021224",
-    "address": "Kaunas, Nemuno g. 17-10, LT-44295"
+    "address": "Kaunas, Nemuno g. 17-10, LT-44295",
+    "vatcode": "LT100018505519"
   },
   {
     "name": "Mažoji bendrija \"Pušų kultūra\"",
@@ -226,7 +257,8 @@
   {
     "name": "UAB \"Kultūra\"",
     "code": "303876368",
-    "address": "Kaunas, Romuvos g. 40B, LT-47197"
+    "address": "Kaunas, Romuvos g. 40B, LT-47197",
+    "vatcode": "LT100009312610"
   },
   {
     "name": "UAB \"Kūno kultūra\"",
@@ -237,7 +269,8 @@
   {
     "name": "UAB \"Maisto kultūra\"",
     "code": "304167957",
-    "address": "Vilnius, Vilniaus g. 27, LT-01402"
+    "address": "Vilnius, Vilniaus g. 27, LT-01402",
+    "vatcode": "LT100009919414"
   },
   {
     "name": "UAB \"ŠVAROS KULTŪRA\"",
@@ -342,12 +375,14 @@
   {
     "name": "VšĮ \"Kultūringai\"",
     "code": "304114538",
-    "address": "Vilnius, Veiverių g. 9B-62, LT-11346"
+    "address": "Vilnius, Veiverių g. 9B-62, LT-11346",
+    "vatcode": "LT100018110419"
   },
   {
     "name": "UAB \"Kultūringi vyrai\"",
     "code": "304057902",
-    "address": "Vilnius, Didžioji g. 39-11, LT-01128"
+    "address": "Vilnius, Didžioji g. 39-11, LT-01128",
+    "vatcode": "LT100009494813"
   },
   {
     "name": "Lietuvos ir Ukrainos ekonominio ir kultūrinio bendradarbiavimo labdaros ir paramos fondas",
@@ -411,6 +446,10 @@
     "vatcode": "LT100012466814"
   },
   {
+    "name": "Kultūrinių iniciatyvų centras",
+    "code": "302565282"
+  },
+  {
     "name": "Kūrybos ir tarpregioninių kultūrinių ryšių palaikymo sambūris LIEPTAS",
     "code": "160310182",
     "address": "Kupiškis, Gedimino g. 40, LT-40129"
@@ -429,7 +468,8 @@
   {
     "name": "Viešoji įstaiga JAUNIMO IR STUDENTŲ KULTŪRINIŲ MAINŲ CENTRAS",
     "code": "224627440",
-    "address": "Vilnius, Mėsinių g. 5, LT-01133"
+    "address": "Vilnius, Mėsinių g. 5, LT-01133",
+    "vatcode": "LT246274416"
   },
   {
     "name": "Visuomeninė organizacija \"Regionų kultūrinių iniciatyvų centras\"",
@@ -492,6 +532,14 @@
     "address": "Prienų r. sav., Jieznas, Lentpjūvės g. 24-4, LT-59422"
   },
   {
+    "name": "Kauno kultūrizmo klubas \"Eladas\"",
+    "code": "302658733"
+  },
+  {
+    "name": "Kauno kultūrizmo klubas \"Jėga\"",
+    "code": "193260712"
+  },
+  {
     "name": "Klaipėdos miesto kultūrizmo klubas \"Sanūra\"",
     "code": "141635584",
     "address": "Klaipėda, Taikos pr. 61A, LT-91182"
@@ -540,6 +588,10 @@
     "name": "Panevėžio kultūrizmo klubas \"Giliukas\"",
     "code": "148499845",
     "address": "Panevėžys, Parko g. 93-1, LT-37308"
+  },
+  {
+    "name": "Sauliaus Misevičiaus kultūrizmo klubas \"Geležiniai žmonės\"",
+    "code": "133359054"
   },
   {
     "name": "Viešoji įstaiga kultūrizmo ir fitneso sporto klubas \"Tauras plius\"",
@@ -749,6 +801,11 @@
     "address": "Alytus, Savanorių g. 6, LT-62142"
   },
   {
+    "name": "Dženės Rudaitienės ir Barboros Garnienės tikroji ūkinė bendrija \"Panevėžio kultūros ir poilsio parkas\"",
+    "code": "148005339",
+    "address": "Panevėžys, Vasario 16-osios g. 20, LT-35169"
+  },
+  {
     "name": "Edukacijos ir kultūros iniciatyvų asociacija",
     "code": "303207719",
     "address": "Vilnius, I. Simonaitytės g. 7-23, LT-06294"
@@ -851,6 +908,10 @@
     "name": "Jurbarko kultūros centras",
     "code": "158746870",
     "address": "Jurbarkas, Dariaus ir Girėno g. 94, LT-74187"
+  },
+  {
+    "name": "Jurbarko prancūzų kultūros klubas \"Bonjor\"",
+    "code": "158745811"
   },
   {
     "name": "KULTŪROS IR SPORTO KLUBAS \"FAJERLECH-MAKABI\"",
@@ -1040,7 +1101,8 @@
   {
     "name": "Kretingos rajono kultūros centras",
     "code": "190294442",
-    "address": "Kretinga, J. Pabrėžos g. 1, LT-97129"
+    "address": "Kretinga, J. Pabrėžos g. 1, LT-97129",
+    "vatcode": "LT100018834915"
   },
   {
     "name": "Krikščioniškos kultūros tyrimų centras",
@@ -1442,7 +1504,8 @@
   {
     "name": "MB Kinų kalbos ir kultūros namai",
     "code": "305686549",
-    "address": "Vilnius, Eigulių g. 5-66, LT-03150"
+    "address": "Vilnius, Eigulių g. 5-66, LT-03150",
+    "vatcode": "LT100018068010"
   },
   {
     "name": "MB Kultūros ir kūrybos erdvė",
@@ -1457,7 +1520,8 @@
   {
     "name": "MB Kultūros kavinė",
     "code": "304785918",
-    "address": "Pasvalys, Ežero g. 2-18, LT-39182"
+    "address": "Pasvalys, Ežero g. 2-18, LT-39182",
+    "vatcode": "LT100015037519"
   },
   {
     "name": "Marijampolės kultūros centras",
@@ -1503,11 +1567,6 @@
     "name": "Mažeikių rajono Viekšnių kultūros centras",
     "code": "300603962",
     "address": "Mažeikių r. sav., Viekšniai, Bažnyčios g. 15A, LT-89491"
-  },
-  {
-    "name": "Mažeikių rajono savivaldybės kaimo kultūros darbuotojų profesinė sąjunga",
-    "code": "167400885",
-    "address": "Mažeikiai, J. Basanavičiaus g. 24, LT-89217"
   },
   {
     "name": "Mažeikių rajono Šerkšnėnų kultūros centras",
@@ -1558,7 +1617,8 @@
   {
     "name": "PAŽAISLIO KULTŪROS IR TURIZMO CENTRAS",
     "code": "300710505",
-    "address": "Kaunas, T. Masiulio g. 31, LT-52436"
+    "address": "Kaunas, T. Masiulio g. 31, LT-52436",
+    "vatcode": "LT100011688711"
   },
   {
     "name": "Pabiržės tautinės kultūros draugija",
@@ -1574,6 +1634,10 @@
     "name": "Pagėgių savivaldybės Kultūros centras",
     "code": "188210483",
     "address": "Pagėgiai, Jaunimo g. 3, LT-99287"
+  },
+  {
+    "name": "Pagėgių savivaldybės VŠĮ \"Natkiškių kultūros centras\"",
+    "code": "300025191"
   },
   {
     "name": "Pakruojo kultūros centras",
@@ -1817,9 +1881,17 @@
     "address": "Kaišiadorių r. sav., Rumšiškės, Rumšos g. 37, LT-56335"
   },
   {
+    "name": "Rusų kultūros asociacija \"Kėdainiai RU\"",
+    "code": "300555713"
+  },
+  {
     "name": "Rusų kultūros centras",
     "code": "291920850",
     "address": "Vilnius, Išganytojo g. 2, LT-01125"
+  },
+  {
+    "name": "Rusų kultūros centro personalinė įmonė \"MECENAT\"",
+    "code": "121320549"
   },
   {
     "name": "Rūdiškių kultūros centras",
@@ -1900,7 +1972,8 @@
   {
     "name": "Tauragės kultūros centras",
     "code": "307019426",
-    "address": "Tauragė, Dariaus ir Girėno g. 3, LT-72212"
+    "address": "Tauragė, Dariaus ir Girėno g. 3, LT-72212",
+    "vatcode": "LT100018896915"
   },
   {
     "name": "Tauragės rajono kultūros darbuotojų profesinė sąjunga",
@@ -1959,11 +2032,6 @@
     "address": "Trakų r. sav., Lentvaris, Vokės g. 10C, LT-25144"
   },
   {
-    "name": "Trakų rajono kultūros darbuotojų profesinė sąjunga",
-    "code": "181685417",
-    "address": "Trakai, Vytauto g. 69, LT-21105"
-  },
-  {
     "name": "Truskavos kultūros centras",
     "code": "300630137",
     "address": "Kėdainių r. sav., Truskavos sen., Pavermenio k., Derliaus g. 5-1, LT-58466"
@@ -1976,7 +2044,8 @@
   {
     "name": "UAB \"Kultūros vertybių paieška\"",
     "code": "300608151",
-    "address": "Vilnius, Dzūkų g. 10-62, LT-02163"
+    "address": "Vilnius, Dzūkų g. 10-62, LT-02163",
+    "vatcode": "LT100003353013"
   },
   {
     "name": "UZBEKŲ KULTŪROS CENTRAS",
@@ -2149,7 +2218,8 @@
   {
     "name": "Viešoji įstaiga \"Klaipėdos kultūros fabrikas\"",
     "code": "142031277",
-    "address": "Klaipėda, Bangų g. 5A, LT-91250"
+    "address": "Klaipėda, Bangų g. 5A, LT-91250",
+    "vatcode": "LT420312716"
   },
   {
     "name": "Viešoji įstaiga \"Kultūros atodangos\"",
@@ -2189,12 +2259,14 @@
   {
     "name": "Viešoji įstaiga \"Kultūros versmės\"",
     "code": "300133516",
-    "address": "Vilnius, Pranciškaus Smuglevičiaus g. 8-4, LT-08333"
+    "address": "Vilnius, Pranciškaus Smuglevičiaus g. 8-4, LT-08333",
+    "vatcode": "LT100016095713"
   },
   {
     "name": "Viešoji įstaiga \"Kultūros vertybių globos tarnyba\"",
     "code": "124015969",
-    "address": "Vilnius, J. Basanavičiaus g. 5, LT-01118"
+    "address": "Vilnius, J. Basanavičiaus g. 5, LT-01118",
+    "vatcode": "LT100012520812"
   },
   {
     "name": "Viešoji įstaiga \"Kultūros vizija\"",
@@ -2235,7 +2307,8 @@
   {
     "name": "Viešoji įstaiga \"Vilniaus kultūros ir dvasingumo centras\"",
     "code": "304497652",
-    "address": "Vilnius, Pranciškonų g. 4, LT-01133"
+    "address": "Vilnius, Pranciškonų g. 4, LT-01133",
+    "vatcode": "LT100010896316"
   },
   {
     "name": "Viešoji įstaiga Alytaus kultūros centras",
@@ -2301,7 +2374,8 @@
   {
     "name": "Viešoji įstaiga Mažeikių kūno kultūros klubas",
     "code": "300529280",
-    "address": "Mažeikiai, P. Vileišio g. 2-41, LT-89220"
+    "address": "Mažeikiai, P. Vileišio g. 2-41, LT-89220",
+    "vatcode": "LT100003035416"
   },
   {
     "name": "Viešoji įstaiga Pasaulio lietuvių kultūros, mokslo ir švietimo centras",
@@ -2332,7 +2406,8 @@
   {
     "name": "Viešoji įstaiga kultūros ir meno klubas \"Užbėgtukė\"",
     "code": "171462348",
-    "address": "Radviliškis, Dariaus ir Girėno g. 46, LT-82139"
+    "address": "Radviliškis, Dariaus ir Girėno g. 46, LT-82139",
+    "vatcode": "LT714623412"
   },
   {
     "name": "Viešoji įstaiga kultūros ir švietimo centras Vilniaus mokytojų namai",
@@ -2341,7 +2416,8 @@
   {
     "name": "Viešoji įstaiga ŠVIETIMO IR KULTŪROS CENTRAS \"JAUNIMAS VAIKAMS\"",
     "code": "224366570",
-    "address": "Vilnius, Apkasų g. 31-39, LT-08226"
+    "address": "Vilnius, Apkasų g. 31-39, LT-08226",
+    "vatcode": "LT100019195110"
   },
   {
     "name": "Viešoji įstaiga Šv. Jokūbo kultūros centras",
@@ -2386,7 +2462,8 @@
   {
     "name": "Vilniaus kultūros centras",
     "code": "302448350",
-    "address": "Vilnius, Rinktinės g. 50, LT-09318"
+    "address": "Vilnius, Rinktinės g. 50, LT-09318",
+    "vatcode": "LT100009192919"
   },
   {
     "name": "Vilniaus kultūros paramos fondas",
@@ -2407,16 +2484,6 @@
     "name": "Visagino kultūros centro darbininkų sąjunga",
     "code": "300559035",
     "address": "Visaginas, Parko g. 7, LT-31130"
-  },
-  {
-    "name": "Visagino kultūros centro profesinė sąjunga",
-    "code": "302554994",
-    "address": "Visaginas, Parko g. 7B, LT-31131"
-  },
-  {
-    "name": "Visagino kūno kultūros ir sporto centro trenerių profesinė sąjunga",
-    "code": "155960723",
-    "address": "Visaginas, Taikos pr. 23, LT-31107"
   },
   {
     "name": "Visuomeninė organizacija Alytaus tautinių mažumų kultūros centras",
@@ -2456,7 +2523,8 @@
   {
     "name": "VšĮ \"Asmenybės ugdymo kultūros centras\"",
     "code": "304158883",
-    "address": "Klaipėda, Sausio 15-osios g. 24-195, LT-91124"
+    "address": "Klaipėda, Sausio 15-osios g. 24-195, LT-91124",
+    "vatcode": "LT100017936811"
   },
   {
     "name": "VšĮ \"Interaktyvios kultūros centras\"",
@@ -2486,7 +2554,8 @@
   {
     "name": "VšĮ \"Kultūros gija\"",
     "code": "306323077",
-    "address": "Kaunas, Studentų g. 8-2, LT-50245"
+    "address": "Kaunas, Studentų g. 8-2, LT-50245",
+    "vatcode": "LT100017847518"
   },
   {
     "name": "VšĮ \"Kultūros guru\"",
@@ -2541,7 +2610,8 @@
   {
     "name": "VšĮ \"Kultūros platforma\"",
     "code": "305048977",
-    "address": "Kaunas, Stakių g. 8-2, LT-44355"
+    "address": "Kaunas, Stakių g. 8-2, LT-44355",
+    "vatcode": "LT100017904712"
   },
   {
     "name": "VšĮ \"Kultūros projektai\"",
@@ -2717,7 +2787,8 @@
   {
     "name": "VšĮ Vaišnavų kultūros namai Gauranga",
     "code": "307448137",
-    "address": "Vilnius, Raugyklos g. 23-7, LT-01140"
+    "address": "Vilnius, Raugyklos g. 23-7, LT-01140",
+    "vatcode": "LT100019007115"
   },
   {
     "name": "VšĮ Vakarų Lietuvos socialinės gerovės ir kultūros plėtros centras",
@@ -2727,6 +2798,10 @@
   {
     "name": "VšĮ meno ir kultūros centras \"SPIRIT-ART-LOVE\"",
     "code": "300144459"
+  },
+  {
+    "name": "VšĮ tarptautinis akademinis kultūros centras \"Terra\"",
+    "code": "304516914"
   },
   {
     "name": "VšĮ Šviesos kultūros namai",
@@ -2886,6 +2961,10 @@
     "address": "Kėdainių r. sav., Šėta, Kėdainių g. 6, LT-58131"
   },
   {
+    "name": "ŽEMAIČIŲ KULTŪROS, AKADEMINIO JAUNIMO IR VAIKŲ PARAMOS FONDAS",
+    "code": "192034678"
+  },
+  {
     "name": "Žagarės kultūros centras",
     "code": "300542630",
     "address": "Joniškio r. sav., Žagarė, Miesto a. 36, LT-84322"
@@ -2979,6 +3058,10 @@
     "name": "Pasaulio kultūrų meno centras",
     "code": "305645292",
     "address": "Vilniaus m. sav."
+  },
+  {
+    "name": "Pasvalio valstybinio žemės ūkio kultūrų veislių tyrimo punkto profsąjunginė organizacija",
+    "code": "169279980"
   },
   {
     "name": "Pluoštinių kultūrų augintojų asociacija",

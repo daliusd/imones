@@ -7,7 +7,8 @@
   {
     "name": "Akcinė bendrovė \"PANEVĖŽIO BUTŲ ŪKIS\"",
     "code": "147146714",
-    "address": "Panevėžys, Beržų g. 48, LT-36145"
+    "address": "Panevėžys, Beržų g. 48, LT-36145",
+    "vatcode": "LT471467113"
   },
   {
     "name": "Akcinė bendrovė \"Vilkijos ūkis\"",
@@ -39,12 +40,19 @@
   {
     "name": "Druskininkų savivaldybės paslaugų ūkis",
     "code": "152158248",
-    "address": "Druskininkai, Gardino g. 45, LT-66191"
+    "address": "Druskininkai, Gardino g. 45, LT-66191",
+    "vatcode": "LT100003805617"
   },
   {
     "name": "Idėjų ūkis, UAB",
     "code": "306178258",
-    "address": "Jonavos r. sav., Bukonių sen., Bukonių k., Lankesos g. 2, LT-55418"
+    "address": "Jonavos r. sav., Bukonių sen., Bukonių k., Lankesos g. 2, LT-55418",
+    "vatcode": "LT100016209219"
+  },
+  {
+    "name": "IĮ Mažasis gėlių ūkis",
+    "code": "166846347",
+    "address": "Mažeikių r. sav., Židikų sen., Ukrinų k."
   },
   {
     "name": "J. Gabriūnienės firma \"Stetiškių ūkis\"",
@@ -71,7 +79,8 @@
   {
     "name": "Kooperatinė bendrovė Austėjos pieno ūkis",
     "code": "303428094",
-    "address": "Mažeikių r. sav., Mažeikių apylinkės sen., Naikių k., Mažeikių aplinkl. 9, LT-89236"
+    "address": "Mažeikių r. sav., Mažeikių apylinkės sen., Naikių k., Mažeikių aplinkl. 9, LT-89236",
+    "vatcode": "LT100009379016"
   },
   {
     "name": "Kooperatinė bendrovė Giraičio pieno ūkis",
@@ -82,17 +91,20 @@
   {
     "name": "Kooperatinė bendrovė Laumės pieno ūkis",
     "code": "303427996",
-    "address": "Raseinių r. sav., Ariogalos sen., Gėluvos k., Dvaro g. 30, LT-60246"
+    "address": "Raseinių r. sav., Ariogalos sen., Gėluvos k., Dvaro g. 30, LT-60246",
+    "vatcode": "LT100009379218"
   },
   {
     "name": "Kooperatinė bendrovė Lygiadienio ūkis",
     "code": "303428087",
-    "address": "Radviliškio r. sav., Skėmių sen., Skėmių k., Alyvų g. 1-3, LT-82350"
+    "address": "Radviliškio r. sav., Skėmių sen., Skėmių k., Alyvų g. 1-3, LT-82350",
+    "vatcode": "LT100009379410"
   },
   {
     "name": "Kooperatinė bendrovė Žemėpačio pieno ūkis",
     "code": "303432388",
-    "address": "Raseinių r. sav., Ariogalos sen., Gėluvos k., Dvaro g. 30, LT-60246"
+    "address": "Raseinių r. sav., Ariogalos sen., Gėluvos k., Dvaro g. 30, LT-60246",
+    "vatcode": "LT100009378916"
   },
   {
     "name": "Kooperatyvas \"Bendras ūkis\"",
@@ -113,7 +125,8 @@
   {
     "name": "MB \"Agro ūkis\"",
     "code": "305684167",
-    "address": "Klaipėda, Palangos g. 15-5, LT-92282"
+    "address": "Klaipėda, Palangos g. 15-5, LT-92282",
+    "vatcode": "LT100015571016"
   },
   {
     "name": "MB \"Akmenytės ūkis\"",
@@ -151,12 +164,14 @@
   {
     "name": "MB \"Igorio ūkis\"",
     "code": "305235927",
-    "address": "Vilnius, Taikos g. 44-107, LT-05237"
+    "address": "Vilnius, Taikos g. 44-107, LT-05237",
+    "vatcode": "LT100012593414"
   },
   {
     "name": "MB \"Jasiukaičių ūkis\"",
     "code": "306021246",
-    "address": "Lazdijų r. sav., Seirijų sen., Bagdononių k., Senkučio g. 9, LT-67234"
+    "address": "Lazdijų r. sav., Seirijų sen., Bagdononių k., Senkučio g. 9, LT-67234",
+    "vatcode": "LT100016849912"
   },
   {
     "name": "MB \"Kažemėkų ūkis\"",
@@ -192,7 +207,8 @@
   {
     "name": "MB \"Pavarčių ūkis\"",
     "code": "307273563",
-    "address": "Alytaus r. sav., Daugų sen., Pavarčių k. 1, LT-64184"
+    "address": "Alytaus r. sav., Daugų sen., Pavarčių k. 1, LT-64184",
+    "vatcode": "LT100019599916"
   },
   {
     "name": "MB \"Protingas ūkis\"",
@@ -239,6 +255,11 @@
     "address": "Šilalės r. sav., Kvėdarnos sen., Gražjūrio k. 13, LT-75344"
   },
   {
+    "name": "MB Bešonių ūkis",
+    "code": "307591509",
+    "address": "Pakruojis, Vytauto Didžiojo g. 92-25, LT-83162"
+  },
+  {
     "name": "MB Burbulio ūkis",
     "code": "305276190",
     "address": "Vilnius, Gedimino pr. 64-50, LT-01111"
@@ -271,12 +292,14 @@
   {
     "name": "MB Girios ūkis",
     "code": "307546791",
-    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Kamšos g. 27B, LT-53331"
+    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Kamšos g. 27B, LT-53331",
+    "vatcode": "LT100019505918"
   },
   {
     "name": "MB IT ūkis",
     "code": "306445241",
-    "address": "Marijampolė, Mokolų g. 47-12, LT-68167"
+    "address": "Marijampolė, Mokolų g. 47-12, LT-68167",
+    "vatcode": "LT100016513115"
   },
   {
     "name": "MB Jono ūkis",
@@ -286,12 +309,18 @@
   {
     "name": "MB Katinų ūkis",
     "code": "307096846",
-    "address": "Utenos r. sav., Utenos sen., Griūčių k., Kalvų g. 4, LT-28123"
+    "address": "Utenos r. sav., Utenos sen., Griūčių k., Kalvų g. 4, LT-28123",
+    "vatcode": "LT100017602717"
+  },
+  {
+    "name": "MB Kilkų ūkis",
+    "code": "304423716"
   },
   {
     "name": "MB Lelių ūkis",
     "code": "307270581",
-    "address": "Vilnius, Kanklių g. 6-4, LT-10321"
+    "address": "Vilnius, Kanklių g. 6-4, LT-10321",
+    "vatcode": "LT100019079415"
   },
   {
     "name": "MB Lietuviškas ūkis",
@@ -326,7 +355,8 @@
   {
     "name": "MB Marcinkevičių ūkis",
     "code": "302891538",
-    "address": "Panevėžys, Elektronikos g. 50, LT-35116"
+    "address": "Panevėžys, Elektronikos g. 50, LT-35116",
+    "vatcode": "LT100007390016"
   },
   {
     "name": "MB Martyno ekologinis ūkis",
@@ -341,7 +371,8 @@
   {
     "name": "MB Mėsos ūkis",
     "code": "305892595",
-    "address": "Klaipėdos r. sav., Dovilų sen., Gelžinių k., Senoji g. 46, LT-96164"
+    "address": "Klaipėdos r. sav., Dovilų sen., Gelžinių k., Senoji g. 46, LT-96164",
+    "vatcode": "LT100014523515"
   },
   {
     "name": "MB Obelaukių ūkis",
@@ -366,7 +397,8 @@
   {
     "name": "MB Saugus ūkis",
     "code": "306713426",
-    "address": "Vilniaus r. sav., Bezdonių sen., Vilkiškių k., Septintoji g. 12, LT-15206"
+    "address": "Vilniaus r. sav., Bezdonių sen., Vilkiškių k., Septintoji g. 12, LT-15206",
+    "vatcode": "LT100017454212"
   },
   {
     "name": "MB Smilgių šeimos ūkis",
@@ -376,12 +408,14 @@
   {
     "name": "MB Stirniškių ūkis",
     "code": "306340742",
-    "address": "Vilkaviškio r. sav., Šeimenos sen., Stirniškių k., Stirniškių g. 7B, LT-70200"
+    "address": "Vilkaviškio r. sav., Šeimenos sen., Stirniškių k., Stirniškių g. 7B, LT-70200",
+    "vatcode": "LT100017688310"
   },
   {
     "name": "MB Sąžiningas ūkis",
     "code": "305441749",
-    "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Mėtų g. 20A-1, LT-14306"
+    "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Mėtų g. 20A-1, LT-14306",
+    "vatcode": "LT100015910312"
   },
   {
     "name": "MB Tikslus ūkis",
@@ -407,7 +441,8 @@
   {
     "name": "MB Šamų ūkis",
     "code": "305801478",
-    "address": "Molėtų r. sav., Luokesos sen., Ažubalių k., S. Dariaus ir S. Girėno g. 42, LT-33103"
+    "address": "Molėtų r. sav., Luokesos sen., Ažubalių k., S. Dariaus ir S. Girėno g. 42, LT-33103",
+    "vatcode": "LT100014452219"
   },
   {
     "name": "MB Šepučių ūkis",
@@ -423,7 +458,8 @@
   {
     "name": "MB Ūkis Tyras",
     "code": "305566375",
-    "address": "Jurbarko r. sav., Šimkaičių sen., Paskynų k., Juozo Dargužo g. 68, LT-74320"
+    "address": "Jurbarko r. sav., Šimkaičių sen., Paskynų k., Juozo Dargužo g. 68, LT-74320",
+    "vatcode": "LT100014447617"
   },
   {
     "name": "MB Ūkis viktorija",
@@ -438,12 +474,14 @@
   {
     "name": "Mažoji bendrija \"Andriaus ūkis\"",
     "code": "307186635",
-    "address": "Alytaus r. sav., Pivašiūnų sen., Junčionių k., Liepų g. 17, LT-64485"
+    "address": "Alytaus r. sav., Pivašiūnų sen., Junčionių k., Liepų g. 17, LT-64485",
+    "vatcode": "LT100018894919"
   },
   {
     "name": "Mažoji bendrija Brazių ūkis",
     "code": "304546156",
-    "address": "Elektrėnų sav., Vievis, Vilniaus g. 29, LT-21376"
+    "address": "Elektrėnų sav., Vievis, Vilniaus g. 29, LT-21376",
+    "vatcode": "LT100012287219"
   },
   {
     "name": "Mažoji bendrija Gedo ūkis",
@@ -463,21 +501,6 @@
     "vatcode": "LT612688610"
   },
   {
-    "name": "SP UAB \"Prienų butų ūkis\" profesinė sąjunga",
-    "code": "170772536",
-    "address": "Prienai, Kęstučio g. 37, LT-59129"
-  },
-  {
-    "name": "SPUAB \"Rietavo komunalinis ūkis\" profsąjunga",
-    "code": "171670349",
-    "address": "Rietavo sav., Rietavo sen., Pelaičių k."
-  },
-  {
-    "name": "Specialios paskirties uždarosios akcinės bendrovės \"Palangos komunalinis ūkis\" darbininkų sąjunga",
-    "code": "125188739",
-    "address": "Palanga, Ganyklų g. 34, LT-00126"
-  },
-  {
     "name": "UAB \"3D ūkis\"",
     "code": "304104615",
     "address": "Šiauliai, Medvėgalio g. 17, LT-76191"
@@ -485,42 +508,44 @@
   {
     "name": "UAB \"Alsių ūkis\"",
     "code": "306983813",
-    "address": "Joniškio r. sav., Skaistgirio sen., Alsių k., Šaltinio g. 34, LT-84389"
+    "address": "Joniškio r. sav., Skaistgirio sen., Alsių k., Šaltinio g. 34, LT-84389",
+    "vatcode": "LT100017181412"
   },
   {
     "name": "UAB \"Antano ūkis\"",
     "code": "302771866",
-    "address": "Neringa, Purvynės g. 6-1, LT-93128"
-  },
-  {
-    "name": "UAB \"Anykščių komunalinis ūkis\" profesinė sąjunga \"SOLIDARUMAS\"",
-    "code": "154300917",
-    "address": "Anykščiai, Gegužės g. 47, LT-29107"
+    "address": "Neringa, Purvynės g. 6-1, LT-93128",
+    "vatcode": "LT100006912118"
   },
   {
     "name": "UAB \"Ateities ūkis\"",
     "code": "301684650",
-    "address": "Radviliškio r. sav., Radviliškio sen., Miežaičių k., Laukų g. 8, LT-82109"
+    "address": "Radviliškio r. sav., Radviliškio sen., Miežaičių k., Laukų g. 8, LT-82109",
+    "vatcode": "LT100004125713"
   },
   {
     "name": "UAB \"Augalų ūkis\"",
     "code": "305556790",
-    "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Pajuosčio pl. 42C, LT-38184"
+    "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Pajuosčio pl. 42C, LT-38184",
+    "vatcode": "LT100013179711"
   },
   {
     "name": "UAB \"Baltijos ūkis\"",
     "code": "300634993",
-    "address": "Vilnius, Smolensko g. 6, LT-03201"
+    "address": "Vilnius, Smolensko g. 6, LT-03201",
+    "vatcode": "LT100002919315"
   },
   {
     "name": "UAB \"Bazilionų ūkis\"",
     "code": "306984096",
-    "address": "Šiaulių r. sav., Bubių sen., Mekių k., Mekių g. 3, LT-80163"
+    "address": "Šiaulių r. sav., Bubių sen., Mekių k., Mekių g. 3, LT-80163",
+    "vatcode": "LT100017178116"
   },
   {
     "name": "UAB \"Biržų miškų ūkis\"",
     "code": "304988612",
-    "address": "Biržai, Rotušės g. 8, LT-41175"
+    "address": "Biržai, Rotušės g. 8, LT-41175",
+    "vatcode": "LT100012124113"
   },
   {
     "name": "UAB \"CIO ŪKIS\"",
@@ -530,7 +555,8 @@
   {
     "name": "UAB \"Darnus ūkis\"",
     "code": "305421127",
-    "address": "Kaunas, Elektrėnų g. 8N-89, LT-51221"
+    "address": "Kaunas, Elektrėnų g. 8N-89, LT-51221",
+    "vatcode": "LT100012908617"
   },
   {
     "name": "UAB \"Duobiškių ūkis\"",
@@ -557,12 +583,14 @@
   {
     "name": "UAB \"Gaurės ūkis\"",
     "code": "158162082",
-    "address": "Tauragės r. sav., Gaurės sen., Gauraičių k. 10, LT-73110"
+    "address": "Tauragės r. sav., Gaurės sen., Gauraičių k. 10, LT-73110",
+    "vatcode": "LT100013628812"
   },
   {
     "name": "UAB \"Giedručių ūkis\"",
     "code": "305204383",
-    "address": "Šakių r. sav., Šakių sen., Duobiškių k., Pušų g. 11, LT-71374"
+    "address": "Šakių r. sav., Šakių sen., Duobiškių k., Pušų g. 11, LT-71374",
+    "vatcode": "LT100014234612"
   },
   {
     "name": "UAB \"Inovacinių šiltnamių ūkis\"",
@@ -572,22 +600,26 @@
   {
     "name": "UAB \"Johanos ūkis\"",
     "code": "303325831",
-    "address": "Šiaulių r. sav., Šakynos sen., Žarėnų k., Draugystės g. 60, LT-81334"
+    "address": "Šiaulių r. sav., Šakynos sen., Žarėnų k., Draugystės g. 60, LT-81334",
+    "vatcode": "LT100011163916"
   },
   {
     "name": "UAB \"Jukniškių energijos ūkis\"",
     "code": "302559525",
-    "address": "Trakų r. sav., Trakų sen., Strėvos k. 10, LT-21281"
+    "address": "Trakų r. sav., Trakų sen., Strėvos k. 10, LT-21281",
+    "vatcode": "LT100005715619"
   },
   {
     "name": "UAB \"KLAUSO ŪKIS\"",
     "code": "110756399",
-    "address": "Šiaulių r. sav., Šakynos sen., Žarėnų k., Draugystės g. 60, LT-81334"
+    "address": "Šiaulių r. sav., Šakynos sen., Žarėnų k., Draugystės g. 60, LT-81334",
+    "vatcode": "LT107563917"
   },
   {
     "name": "UAB \"Kantališkių ūkis\"",
     "code": "306615124",
-    "address": "Marijampolė, Šakališkių g. 29, LT-68139"
+    "address": "Marijampolė, Šakališkių g. 29, LT-68139",
+    "vatcode": "LT100016495416"
   },
   {
     "name": "UAB \"Kiaušinių ūkis\"",
@@ -603,7 +635,8 @@
   {
     "name": "UAB \"LIT-DAN ŪKIS\"",
     "code": "125336561",
-    "address": "Mažeikiai, Gamyklos g. 31E, LT-89103"
+    "address": "Mažeikiai, Gamyklos g. 31E, LT-89103",
+    "vatcode": "LT253365610"
   },
   {
     "name": "UAB \"Leketų ūkis\"",
@@ -625,7 +658,8 @@
   {
     "name": "UAB \"Maisto ūkis Jums\"",
     "code": "304832321",
-    "address": "Vilnius, Architektų g. 56-101, LT-04111"
+    "address": "Vilnius, Architektų g. 56-101, LT-04111",
+    "vatcode": "LT100012763819"
   },
   {
     "name": "UAB \"Maisto ūkis\"",
@@ -647,7 +681,8 @@
   {
     "name": "UAB \"Miško ūkis\"",
     "code": "302570240",
-    "address": "Anykščiai, J. Jablonskio g. 7, LT-29111"
+    "address": "Anykščiai, J. Jablonskio g. 7, LT-29111",
+    "vatcode": "LT100005777316"
   },
   {
     "name": "UAB \"Modernus ūkis\"",
@@ -663,7 +698,8 @@
   {
     "name": "UAB \"Namų ūkis\"",
     "code": "302692251",
-    "address": "Vilnius, Kviečių g. 2-2, LT-08418"
+    "address": "Vilnius, Kviečių g. 2-2, LT-08418",
+    "vatcode": "LT100007824514"
   },
   {
     "name": "UAB \"Naujas ūkis\"",
@@ -679,7 +715,8 @@
   {
     "name": "UAB \"Palangos ūkis\"",
     "code": "301542327",
-    "address": "Palanga, Mokyklos g. 62 K11-R3, LT-00303"
+    "address": "Palanga, Mokyklos g. 62 K11-R3, LT-00303",
+    "vatcode": "LT100004965814"
   },
   {
     "name": "UAB \"Palomenės ūkis\"",
@@ -689,12 +726,14 @@
   {
     "name": "UAB \"Pauliaus ūkis\"",
     "code": "304196916",
-    "address": "Prienų r. sav., Stakliškių sen., Pakrovų k., Vilniaus g. 15, LT-59374"
+    "address": "Prienų r. sav., Stakliškių sen., Pakrovų k., Vilniaus g. 15, LT-59374",
+    "vatcode": "LT100010002519"
   },
   {
     "name": "UAB \"Pilviškių ūkis\"",
     "code": "303502502",
-    "address": "Vilkaviškio r. sav., Pilviškiai, Stoties g. 38P, LT-70484"
+    "address": "Vilkaviškio r. sav., Pilviškiai, Stoties g. 38P, LT-70484",
+    "vatcode": "LT100009066217"
   },
   {
     "name": "UAB \"Romo ūkis\"",
@@ -732,22 +771,26 @@
   {
     "name": "UAB \"Sūduvos ūkis\"",
     "code": "305945215",
-    "address": "Panevėžio r. sav., Raguvos sen., Užubalių k. 6, LT-38174"
+    "address": "Panevėžio r. sav., Raguvos sen., Užubalių k. 6, LT-38174",
+    "vatcode": "LT100014564310"
   },
   {
     "name": "UAB \"Transporto Ūkis\"",
     "code": "302661583",
-    "address": "Vilnius, Konstitucijos pr. 12, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 12, LT-09308",
+    "vatcode": "LT100006342818"
   },
   {
     "name": "UAB \"Tėviškės ūkis\"",
     "code": "305246724",
-    "address": "Alytaus r. sav., Alytaus sen., Zaidų k. 1, LT-62182"
+    "address": "Alytaus r. sav., Alytaus sen., Zaidų k. 1, LT-62182",
+    "vatcode": "LT100012649615"
   },
   {
     "name": "UAB \"UDO ŪKIS\"",
     "code": "302440318",
-    "address": "Šiaulių r. sav., Šakynos sen., Žarėnų k., Draugystės g. 60, LT-81334"
+    "address": "Šiaulių r. sav., Šakynos sen., Žarėnų k., Draugystės g. 60, LT-81334",
+    "vatcode": "LT100007257613"
   },
   {
     "name": "UAB \"VĖJO ŪKIS\"",
@@ -757,7 +800,8 @@
   {
     "name": "UAB \"Čekiškės ūkis\"",
     "code": "304521847",
-    "address": "Kauno r. sav., Čekiškės sen., Purvaičių k. 8, LT-54271"
+    "address": "Kauno r. sav., Čekiškės sen., Purvaičių k. 8, LT-54271",
+    "vatcode": "LT100014701012"
   },
   {
     "name": "UAB \"Šalčininkų žuvininkystės ūkis\"",
@@ -768,12 +812,14 @@
   {
     "name": "UAB \"Šilavoto žemės ūkis\"",
     "code": "306647606",
-    "address": "Prienų r. sav., Šilavoto sen., Lėsiškio k., Pievų g. 10, LT-59272"
+    "address": "Prienų r. sav., Šilavoto sen., Lėsiškio k., Pievų g. 10, LT-59272",
+    "vatcode": "LT100016648810"
   },
   {
     "name": "UAB \"Šilų ūkis\"",
     "code": "304828127",
-    "address": "Joniškis, Vilniaus g. 31, LT-84167"
+    "address": "Joniškis, Vilniaus g. 31, LT-84167",
+    "vatcode": "LT100011616217"
   },
   {
     "name": "UAB \"ŪKIS-AGRO\"",
@@ -783,7 +829,8 @@
   {
     "name": "UAB \"Ūkis mums\"",
     "code": "302604714",
-    "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Agarinio g. 2-14, LT-30158"
+    "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Agarinio g. 2-14, LT-30158",
+    "vatcode": "LT100006198215"
   },
   {
     "name": "UAB Agrarinis ūkis",
@@ -804,7 +851,8 @@
   {
     "name": "UAB Aristavos ūkis",
     "code": "161298135",
-    "address": "Kėdainių r. sav., Vilainių sen., Aristavos k., Liepų al. 7, LT-58111"
+    "address": "Kėdainių r. sav., Vilainių sen., Aristavos k., Liepų al. 7, LT-58111",
+    "vatcode": "LT612981314"
   },
   {
     "name": "UAB Arūno ūkis",
@@ -814,17 +862,20 @@
   {
     "name": "UAB Baušų ūkis",
     "code": "174931263",
-    "address": "Šalčininkų r. sav., Šalčininkų sen., Didžiųjų Baušių k., Lauko g. 15, LT-17118"
+    "address": "Šalčininkų r. sav., Šalčininkų sen., Didžiųjų Baušių k., Lauko g. 15, LT-17118",
+    "vatcode": "LT749312610"
   },
   {
     "name": "UAB Beržų ūkis",
     "code": "161266098",
-    "address": "Kėdainių r. sav., Dotnuvos sen., Beržų k., Bokštų g. 1, LT-58360"
+    "address": "Kėdainių r. sav., Dotnuvos sen., Beržų k., Bokštų g. 1, LT-58360",
+    "vatcode": "LT612660917"
   },
   {
     "name": "UAB Biržų žemės ūkis",
     "code": "303124547",
-    "address": "Biržai, Plento g. 2B, LT-41128"
+    "address": "Biržai, Plento g. 2B, LT-41128",
+    "vatcode": "LT100008281914"
   },
   {
     "name": "UAB Bukonių ekologinis ūkis",
@@ -834,7 +885,8 @@
   {
     "name": "UAB Einorių ūkis",
     "code": "305642645",
-    "address": "Biržų r. sav., Papilio sen., Einorių k., Einorių g. 22, LT-41247"
+    "address": "Biržų r. sav., Papilio sen., Einorių k., Einorių g. 22, LT-41247",
+    "vatcode": "LT100013732511"
   },
   {
     "name": "UAB Gedimino ūkis",
@@ -849,32 +901,38 @@
   {
     "name": "UAB Giniškių ūkis",
     "code": "306653769",
-    "address": "Lazdijų r. sav., Teizų sen., Verstaminų k., Sodų g. 12, LT-67412"
+    "address": "Lazdijų r. sav., Teizų sen., Verstaminų k., Sodų g. 12, LT-67412",
+    "vatcode": "LT100016614513"
   },
   {
     "name": "UAB Ilzenbergo ūkis",
     "code": "304894910",
-    "address": "Rokiškio r. sav., Juodupės sen., Ilzenbergo k. 4, LT-42440"
+    "address": "Rokiškio r. sav., Juodupės sen., Ilzenbergo k. 4, LT-42440",
+    "vatcode": "LT100012002217"
   },
   {
     "name": "UAB Kalpokų ūkis",
     "code": "167936331",
-    "address": "Pakruojo r. sav., Linkuvos sen., Kalpokų k., S. Dariaus ir S. Girėno g. 45, LT-83447"
+    "address": "Pakruojo r. sav., Linkuvos sen., Kalpokų k., S. Dariaus ir S. Girėno g. 45, LT-83447",
+    "vatcode": "LT679363314"
   },
   {
     "name": "UAB Kalėdienės ūkis",
     "code": "159620440",
-    "address": "Kauno r. sav., Samylų sen., Šlienavos k., Dubravų g. 12, LT-53145"
+    "address": "Kauno r. sav., Samylų sen., Šlienavos k., Dubravų g. 12, LT-53145",
+    "vatcode": "LT100013038112"
   },
   {
     "name": "UAB Karalienės Bonos ūkis",
     "code": "305720948",
-    "address": "Varėnos r. sav., Kaniavos sen., Dubičių k., Naujoji g. 25, LT-65262"
+    "address": "Varėnos r. sav., Kaniavos sen., Dubičių k., Naujoji g. 25, LT-65262",
+    "vatcode": "LT100014313515"
   },
   {
     "name": "UAB Kauno butų ūkis",
     "code": "132532496",
-    "address": "Kaunas, Chemijos g. 18, LT-51339"
+    "address": "Kaunas, Chemijos g. 18, LT-51339",
+    "vatcode": "LT325324917"
   },
   {
     "name": "UAB Kelmės vietinis ūkis",
@@ -885,7 +943,8 @@
   {
     "name": "UAB Kelmės žvėrelių ūkis",
     "code": "305214986",
-    "address": "Šiauliai, Dvaro g. 41, LT-76345"
+    "address": "Šiauliai, Dvaro g. 41, LT-76345",
+    "vatcode": "LT100012817811"
   },
   {
     "name": "UAB Krekenavos ūkis",
@@ -895,17 +954,20 @@
   {
     "name": "UAB Krivilių ūkis",
     "code": "306148959",
-    "address": "Varėnos r. sav., Vydenių sen., Krivilių k., Krivio g. 23, LT-65247"
+    "address": "Varėnos r. sav., Vydenių sen., Krivilių k., Krivio g. 23, LT-65247",
+    "vatcode": "LT100016462218"
   },
   {
     "name": "UAB Kuršėnų komunalinis ūkis",
     "code": "175606358",
-    "address": "Šiaulių r. sav., Kuršėnai, Sodo g. 18, LT-81178"
+    "address": "Šiaulių r. sav., Kuršėnai, Sodo g. 18, LT-81178",
+    "vatcode": "LT756063515"
   },
   {
     "name": "UAB Kvedarų ūkis",
     "code": "305988608",
-    "address": "Kėdainių r. sav., Vilainių sen., Lančiūnavos k., Aukštuvių g. 12, LT-58433"
+    "address": "Kėdainių r. sav., Vilainių sen., Lančiūnavos k., Aukštuvių g. 12, LT-58433",
+    "vatcode": "LT100016054413"
   },
   {
     "name": "UAB Lietuvos kailių ūkis",
@@ -920,12 +982,14 @@
   {
     "name": "UAB Peckaus ūkis",
     "code": "307191632",
-    "address": "Alytaus r. sav., Alytaus sen., Nemunaičio k., Pušų g. 16, LT-62192"
+    "address": "Alytaus r. sav., Krokialaukio sen., Kalesninkų k., Vytauto g. 62, LT-64371",
+    "vatcode": "LT100018658617"
   },
   {
     "name": "UAB Ranktinėlių ūkis",
     "code": "171331669",
-    "address": "Radviliškio r. sav., Skėmių sen., Valmančių k. 7, LT-82303"
+    "address": "Radviliškio r. sav., Skėmių sen., Valmančių k. 7, LT-82303",
+    "vatcode": "LT713316610"
   },
   {
     "name": "UAB Strūnaičio ūkis",
@@ -935,12 +999,14 @@
   {
     "name": "UAB Vidiškių ūkis",
     "code": "303279241",
-    "address": "Akmenės r. sav., Naujosios Akmenės kaimiškoji sen., Gaušių k., Žiedo g. 10, LT-85105"
+    "address": "Akmenės r. sav., Naujosios Akmenės kaimiškoji sen., Gaušių k., Žiedo g. 10, LT-85105",
+    "vatcode": "LT100008664718"
   },
   {
     "name": "UAB ČERNIAUS ŪKIS",
     "code": "302622630",
-    "address": "Kupiškio r. sav., Kupiškio sen., Papilių k., Piliakalnio g. 36, LT-40330"
+    "address": "Kupiškio r. sav., Kupiškio sen., Papilių k., Piliakalnio g. 36, LT-40330",
+    "vatcode": "LT100006230313"
   },
   {
     "name": "UAB Šalčininkų komunalinis ūkis",
@@ -957,7 +1023,8 @@
   {
     "name": "UAB Šlapaberžės ūkis",
     "code": "161290398",
-    "address": "Kėdainių r. sav., Dotnuvos sen., Šlapaberžės k., Naujaberžės g. 10A, LT-58318"
+    "address": "Kėdainių r. sav., Dotnuvos sen., Šlapaberžės k., Naujaberžės g. 10A, LT-58318",
+    "vatcode": "LT612903917"
   },
   {
     "name": "UAB Ūkininko mišrus ūkis",
@@ -978,22 +1045,26 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Biržų butų ūkis\"",
     "code": "254709320",
-    "address": "Biržai, Rotušės g. 12-1, LT-41175"
+    "address": "Biržai, Rotušės g. 12-1, LT-41175",
+    "vatcode": "LT547093219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Biržų komunalinis ūkis\"",
     "code": "154799441",
-    "address": "Biržai, Tiekimo g. 10, LT-41128"
+    "address": "Biržai, Tiekimo g. 10, LT-41128",
+    "vatcode": "LT547994410"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Druskininkų butų ūkis\"",
     "code": "152007157",
-    "address": "Druskininkai, Ligoninės g. 12, LT-66249"
+    "address": "Druskininkai, Ligoninės g. 12, LT-66249",
+    "vatcode": "LT520071515"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Druskininkų komunalinis ūkis\"",
     "code": "152010096",
-    "address": "Druskininkai, Pramonės g. 4, LT-66181"
+    "address": "Druskininkai, Pramonės g. 4, LT-66181",
+    "vatcode": "LT520100917"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"ELEKTRĖNŲ KOMUNALINIS ŪKIS\"",
@@ -1016,12 +1087,18 @@
   {
     "name": "Uždaroji akcinė bendrovė \"LENTVARIO KOMUNALINIS ŪKIS\"",
     "code": "181382772",
-    "address": "Trakų r. sav., Lentvaris, Klevų al. 30, LT-25105"
+    "address": "Trakų r. sav., Lentvaris, Klevų al. 30, LT-25105",
+    "vatcode": "LT813827716"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Marijampolės butų ūkis\"",
+    "code": "151005356"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Mažeikių komunalinis ūkis\"",
     "code": "166445258",
-    "address": "Mažeikiai, Kęstučio g. 15, LT-89227"
+    "address": "Mažeikiai, Kęstučio g. 15, LT-89227",
+    "vatcode": "LT664452515"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Naujininkų ūkis\"",
@@ -1032,7 +1109,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"PALANGOS KOMUNALINIS ŪKIS\"",
     "code": "152409729",
-    "address": "Palanga, Ganyklų g. 34, LT-00126"
+    "address": "Palanga, Ganyklų g. 34, LT-00126",
+    "vatcode": "LT524097219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Pagėgių komunalinis ūkis\"",
@@ -1043,12 +1121,14 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Pasvalio butų ūkis\"",
     "code": "169176222",
-    "address": "Pasvalys, Gėlių g. 5A, LT-39136"
+    "address": "Pasvalys, Gėlių g. 5A, LT-39136",
+    "vatcode": "LT691762219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Prienų butų ūkis\"",
     "code": "170609076",
-    "address": "Prienai, Kęstučio g. 37, LT-59129"
+    "address": "Prienai, Kęstučio g. 37, LT-59129",
+    "vatcode": "LT706090716"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Rietavo komunalinis ūkis\"",
@@ -1064,7 +1144,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Ukmergės butų ūkis\"",
     "code": "182701785",
-    "address": "Ukmergė, S. Daukanto g. 18, LT-20176"
+    "address": "Ukmergė, S. Daukanto g. 18, LT-20176",
+    "vatcode": "LT827017811"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Universalus ūkis\"",
@@ -1080,32 +1161,38 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Vilkaviškio komunalinis ūkis\"",
     "code": "185105324",
-    "address": "Vilkaviškis, Šiaurės g. 56, LT-70171"
+    "address": "Vilkaviškis, Šiaurės g. 56, LT-70171",
+    "vatcode": "LT851053219"
   },
   {
     "name": "Uždaroji akcinė bendrovė Anykščių komunalinis ūkis",
     "code": "154111083",
-    "address": "Anykščiai, Gegužės g. 47, LT-29107"
+    "address": "Anykščiai, Gegužės g. 47, LT-29107",
+    "vatcode": "LT541110811"
   },
   {
     "name": "Uždaroji akcinė bendrovė Dotnuvos eksperimentinis ūkis",
     "code": "161640934",
-    "address": "Kėdainių r. sav., Dotnuvos sen., Vainotiškių k., Vainotiškių g. 1D, LT-58338"
+    "address": "Kėdainių r. sav., Dotnuvos sen., Vainotiškių k., Vainotiškių g. 1D, LT-58338",
+    "vatcode": "LT616409314"
   },
   {
     "name": "Uždaroji akcinė bendrovė Ignalinos butų ūkis",
     "code": "255512870",
-    "address": "Ignalina, Turistų g. 9, LT-30105"
+    "address": "Ignalina, Turistų g. 9, LT-30105",
+    "vatcode": "LT555128716"
   },
   {
     "name": "Uždaroji akcinė bendrovė JONIŠKIO BUTŲ ŪKIS",
     "code": "157521319",
-    "address": "Joniškis, Vilniaus g. 46, LT-84166"
+    "address": "Joniškis, Vilniaus g. 46, LT-84166",
+    "vatcode": "LT575213113"
   },
   {
     "name": "Uždaroji akcinė bendrovė Telšių butų ūkis",
     "code": "180102018",
-    "address": "Telšiai, Plungės g. 29, LT-87329"
+    "address": "Telšiai, Plungės g. 29, LT-87329",
+    "vatcode": "LT801020113"
   },
   {
     "name": "V. Romanovskij žemės ūkis, MB",
@@ -1116,12 +1203,14 @@
   {
     "name": "VDU Žemės ūkio akademijos mokomasis ūkis",
     "code": "302635752",
-    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Rapsų g. 1, LT-53365"
+    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Rapsų g. 1, LT-53365",
+    "vatcode": "LT100006191410"
   },
   {
     "name": "VYŽULIONIŲ DVARO ŪKIS, UAB",
     "code": "307156745",
-    "address": "Vilnius, Turniškių g. 6, LT-10104"
+    "address": "Vilnius, Turniškių g. 6, LT-10104",
+    "vatcode": "LT100017904611"
   },
   {
     "name": "Vaišnavų religinės kaimo bendruomenės ekologinis eksperimentinis ūkis",
@@ -1136,12 +1225,14 @@
   {
     "name": "Viešoji įstaiga \"STAČIATIKIŲ ŪKIS\"",
     "code": "124246424",
-    "address": "Vilnius, Aušros Vartų g. 10, LT-01303"
+    "address": "Vilnius, Aušros Vartų g. 10, LT-01303",
+    "vatcode": "LT242464219"
   },
   {
     "name": "Viešoji įstaiga Velžio komunalinis ūkis",
     "code": "168967899",
-    "address": "Panevėžio r. sav., Velžio sen., Velžio k., Nevėžio g. 62, LT-38128"
+    "address": "Panevėžio r. sav., Velžio sen., Velžio k., Nevėžio g. 62, LT-38128",
+    "vatcode": "LT689678917"
   },
   {
     "name": "Viešosios įstaigos Lietuvos žemės ūkio konsultavimo tarnybos redakcija \"Mano ūkis\"",
@@ -1182,7 +1273,8 @@
   {
     "name": "Žemės ūkio bendrovė Panoterių ūkis",
     "code": "111799777",
-    "address": "Jonavos r. sav., Šilų sen., Panoterių mstl."
+    "address": "Jonavos r. sav., Šilų sen., Panoterių mstl.",
+    "vatcode": "LT117997716"
   },
   {
     "name": "Žemės ūkio kooperatinė bendrovė \"EKO ūkis\"",
@@ -1193,12 +1285,14 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Kairių ūkis\"",
     "code": "302615194",
-    "address": "Panevėžio r. sav., Naujamiesčio sen., Gustonių k., M. Kriaučiūno g. 15, LT-38355"
+    "address": "Panevėžio r. sav., Naujamiesčio sen., Gustonių k., M. Kriaučiūno g. 15, LT-38355",
+    "vatcode": "LT100009547010"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Lietuviškas ūkis\"",
     "code": "302300138",
-    "address": "Šakių r. sav., Šakių sen., Girėnų k., Kauno g. 50, LT-71129"
+    "address": "Šakių r. sav., Šakių sen., Girėnų k., Kauno g. 50, LT-71129",
+    "vatcode": "LT100005124418"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Mūsų ūkis\"",
@@ -1214,7 +1308,8 @@
   {
     "name": "Žemės ūkio kooperatyvas Nagarbos ūkis",
     "code": "164073478",
-    "address": "Kretingos r. sav., Kretingos sen., Rūdaičių k."
+    "address": "Kretingos r. sav., Kretingos sen., Rūdaičių k.",
+    "vatcode": "LT640734716"
   },
   {
     "name": "ŽŪB \"Bernotų ūkis\"",
@@ -1238,9 +1333,14 @@
     "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Kaštonų g. 4, LT-14117"
   },
   {
+    "name": "ŽŪB \"Noteros ūkis\"",
+    "code": "303444419"
+  },
+  {
     "name": "ŽŪB \"Pajieslio žemės ūkis\"",
     "code": "306666282",
-    "address": "Kėdainių r. sav., Krakių sen., Pajieslio k., Žemdirbių g. 56, LT-58238"
+    "address": "Kėdainių r. sav., Krakių sen., Pajieslio k., Žemdirbių g. 56, LT-58238",
+    "vatcode": "LT100016636817"
   },
   {
     "name": "ŽŪB \"Tikras lietuviškas ūkis\"",
@@ -1251,7 +1351,8 @@
   {
     "name": "ŽŪB \"Vilijos ūkis\"",
     "code": "304403343",
-    "address": "Biržų r. sav., Vabalninko sen., Čypėnų k., Respublikos g. 12, LT-41355"
+    "address": "Biržų r. sav., Vabalninko sen., Čypėnų k., Respublikos g. 12, LT-41355",
+    "vatcode": "LT100013448317"
   },
   {
     "name": "ŽŪB \"Žemaitijos ūkis\"",
@@ -1267,7 +1368,8 @@
   {
     "name": "ŽŪB Dumšiškių ekologinis ūkis",
     "code": "303324722",
-    "address": "Raseinių r. sav., Paliepių sen., Paraseinio k., Paraseinio g. 2, LT-60194"
+    "address": "Raseinių r. sav., Paliepių sen., Paraseinio k., Paraseinio g. 2, LT-60194",
+    "vatcode": "LT100008751410"
   },
   {
     "name": "ŽŪB Eimučių ekologinis ūkis",
@@ -1284,7 +1386,8 @@
   {
     "name": "ŽŪB Grūduvos ekologinis ūkis",
     "code": "303324804",
-    "address": "Šakių r. sav., Šakių sen., Gotlybiškių k., Mokyklos g. 2, LT-71372"
+    "address": "Šakių r. sav., Šakių sen., Gotlybiškių k., Mokyklos g. 2, LT-71372",
+    "vatcode": "LT100008736910"
   },
   {
     "name": "ŽŪB Jurbarkų ekologinis ūkis",
@@ -1295,7 +1398,8 @@
   {
     "name": "ŽŪB Kairėnų ekologinis ūkis",
     "code": "303325774",
-    "address": "Radviliškio r. sav., Grinkiškio sen., Vaitiekūnų k., Spindulio g. 13-2, LT-82380"
+    "address": "Radviliškio r. sav., Grinkiškio sen., Vaitiekūnų k., Spindulio g. 13-2, LT-82380",
+    "vatcode": "LT100008736618"
   },
   {
     "name": "ŽŪB Lankesos ekologinis ūkis",
@@ -1306,12 +1410,14 @@
   {
     "name": "ŽŪB Mantviliškio ekologinis ūkis",
     "code": "303325703",
-    "address": "Kėdainių r. sav., Dotnuvos sen., Mantviliškio k., Liepos 6-osios g. 60, LT-58332"
+    "address": "Kėdainių r. sav., Dotnuvos sen., Mantviliškio k., Liepos 6-osios g. 60, LT-58332",
+    "vatcode": "LT100008741110"
   },
   {
     "name": "ŽŪB Nausodės ekologinis ūkis",
     "code": "303325781",
-    "address": "Anykščių r. sav., Troškūnų sen., Nausodės k., Nausodės g. 55, LT-29308"
+    "address": "Anykščių r. sav., Troškūnų sen., Nausodės k., Nausodės g. 55, LT-29308",
+    "vatcode": "LT100008737414"
   },
   {
     "name": "ŽŪB Skėmių ekologinis ūkis",
@@ -1322,22 +1428,26 @@
   {
     "name": "ŽŪB Smilgių ekologinis ūkis",
     "code": "303325824",
-    "address": "Panevėžio r. sav., Smilgiai, Panevėžio g. 23-1, LT-38375"
+    "address": "Panevėžio r. sav., Smilgiai, Panevėžio g. 23-1, LT-38375",
+    "vatcode": "LT100008748016"
   },
   {
     "name": "ŽŪB Spindulio ekologinis ūkis",
     "code": "303325817",
-    "address": "Radviliškio r. sav., Grinkiškio sen., Vaitiekūnų k., Spindulio g. 13-2, LT-82380"
+    "address": "Radviliškio r. sav., Grinkiškio sen., Vaitiekūnų k., Spindulio g. 13-2, LT-82380",
+    "vatcode": "LT100008747815"
   },
   {
     "name": "ŽŪB Vėriškių ekologinis ūkis",
     "code": "303325849",
-    "address": "Radviliškio r. sav., Skėmių sen., Skėmių k., Kėdainių g. 13, LT-82350"
+    "address": "Radviliškio r. sav., Skėmių sen., Skėmių k., Kėdainių g. 13, LT-82350",
+    "vatcode": "LT100008738019"
   },
   {
     "name": "ŽŪB Žadžiūnų ekologinis ūkis",
     "code": "303325870",
-    "address": "Šiaulių r. sav., Kairių sen., Žadžiūnų k., Gudelių g. 30-2, LT-80103"
+    "address": "Šiaulių r. sav., Kairių sen., Žadžiūnų k., Gudelių g. 30-2, LT-80103",
+    "vatcode": "LT100008737919"
   },
   {
     "name": "ŽŪB Želsvelės ekologinis ūkis",
@@ -1354,7 +1464,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Kauno ūkiskaitinė dirbtuvė\"",
     "code": "133735713",
-    "address": "Kaunas, Nemuno g. 16A"
+    "address": "Kaunas, Nemuno g. 16A",
+    "vatcode": "LT337357113"
   },
   {
     "name": "Užsienio prekybos ūkiskaitinės firmos \"UZVNEŠKONTRAKTTORG\" filialas",

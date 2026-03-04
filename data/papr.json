@@ -54,7 +54,8 @@
   {
     "name": "MB \"Paprastai\"",
     "code": "304743367",
-    "address": "Vilniaus m. sav., Grigiškių m., Kovo 11-osios g. 48-21, LT-27125"
+    "address": "Vilniaus m. sav., Grigiškių m., Kovo 11-osios g. 48-21, LT-27125",
+    "vatcode": "LT100011441510"
   },
   {
     "name": "MB \"Verslo paslaugos paprastai\"",
@@ -62,19 +63,15 @@
     "address": "Trakai, Žvejų g. 8, LT-21123"
   },
   {
-    "name": "MB Investavimas paprastai",
-    "code": "306126674",
-    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Agnytės g. 16-1, LT-92337"
-  },
-  {
     "name": "MB Logistika paprastai",
     "code": "306142027",
-    "address": "Vilnius, Savičiaus g. 3A-58, LT-01127"
+    "address": "Vilnius, Savičiaus g. 3A-58, LT-01127",
+    "vatcode": "LT100015776110"
   },
   {
     "name": "MB Paprastai nepaprasta",
     "code": "307118748",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Kalotės k., Ežero g. 7, LT-92380"
+    "address": "Klaipėda, Bijūnų g. 10A-2, LT-91223"
   },
   {
     "name": "MB Pelnas paprastai",
@@ -92,6 +89,11 @@
     "name": "VšĮ Paprastai kartu",
     "code": "307065060",
     "address": "Jurbarko r. sav., Jurbarkų sen., Žindaičių k., Tilto g. 32, LT-74265"
+  },
+  {
+    "name": "MB \"Paprastas žmogus\"",
+    "code": "307579439",
+    "address": "Vilnius, Sporto g. 5-10, LT-09238"
   },
   {
     "name": "MB Paprastas skonis",
@@ -124,6 +126,10 @@
     "address": "Vilnius, Mindaugo g. 27-268, LT-03210"
   },
   {
+    "name": "Vytauto Papreckio taksi",
+    "code": "272404690"
+  },
+  {
     "name": "UAB Papricado",
     "code": "306745648",
     "address": "Vilnius, Polocko g. 56-72, LT-01205"
@@ -131,7 +137,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"PAPRIENIAI\"",
     "code": "170753564",
-    "address": "Prienai, Vilniaus g. 20, LT-59115"
+    "address": "Prienai, Vilniaus g. 20, LT-59115",
+    "vatcode": "LT707535610"
   },
   {
     "name": "Paprienės bendruomenė",
@@ -151,12 +158,14 @@
   {
     "name": "UAB \"Paprika filmai\"",
     "code": "305421974",
-    "address": "Vilnius, P. Lukšio g. 5B, LT-08221"
+    "address": "Vilnius, P. Lukšio g. 5B, LT-08221",
+    "vatcode": "LT100012928510"
   },
   {
     "name": "UAB \"Raudona paprika\"",
     "code": "303859365",
-    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Žeimių g. 2A-26, LT-81486"
+    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Žeimių g. 2A-26, LT-81486",
+    "vatcode": "LT100011185715"
   },
   {
     "name": "UAB studija \"Paprika\"",
