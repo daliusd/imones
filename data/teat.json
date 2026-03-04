@@ -55,6 +55,11 @@
     "address": "Druskininkai, Veisiejų g. 28-42, LT-66243"
   },
   {
+    "name": "E. Kučinsko estrados teatras",
+    "code": "141512514",
+    "address": "Klaipėda, S. Šimkaus g. 12-40, LT-92129"
+  },
+  {
     "name": "IMAGINACIJAUS TEATRAS",
     "code": "305543615",
     "address": "Vilnius, Taikos g. 168-21, LT-05229"
@@ -62,7 +67,8 @@
   {
     "name": "Juozo Miltinio dramos teatras",
     "code": "190754983",
-    "address": "Panevėžys, Laisvės a. 5, LT-35183"
+    "address": "Panevėžys, Laisvės a. 5, LT-35183",
+    "vatcode": "LT907549811"
   },
   {
     "name": "Kauno Kazio Binkio teatras",
@@ -102,7 +108,8 @@
   {
     "name": "Klaipėdos valstybinis muzikinis teatras",
     "code": "190755028",
-    "address": "Klaipėda, Danės g. 19, LT-92111"
+    "address": "Klaipėda, Danės g. 19, LT-92111",
+    "vatcode": "LT907550219"
   },
   {
     "name": "Klubas \"Dainos teatras\"",
@@ -128,7 +135,8 @@
   {
     "name": "Lietuvos nacionalinis operos ir baleto teatras",
     "code": "190753881",
-    "address": "Vilnius, A. Vienuolio g. 1, LT-01104"
+    "address": "Vilnius, A. Vienuolio g. 1, LT-01104",
+    "vatcode": "LT907538811"
   },
   {
     "name": "MB \"No Shoes teatras\"",
@@ -153,12 +161,18 @@
   {
     "name": "MB O tada teatras",
     "code": "306275593",
-    "address": "Klaipėda, Švyturio g. 14-29, LT-92264"
+    "address": "Klaipėda, Švyturio g. 14-29, LT-92264",
+    "vatcode": "LT100019467114"
   },
   {
     "name": "MB Teatras \"Arbatvakariai\"",
     "code": "306185092",
     "address": "Vilnius, Liepkalnio g. 12-5A, LT-02103"
+  },
+  {
+    "name": "N. Bižanaitės teatras \"PARŠIUKAS IKARAS\"",
+    "code": "124030871",
+    "address": "Vilnius, Didžioji g. 25-15, LT-01128"
   },
   {
     "name": "Nacionalinis Kauno dramos teatras",
@@ -183,7 +197,8 @@
   {
     "name": "Panevėžio lėlių vežimo teatras",
     "code": "191782373",
-    "address": "Panevėžys, Respublikos g. 30, LT-35174"
+    "address": "Panevėžys, Respublikos g. 30, LT-35174",
+    "vatcode": "LT100018512713"
   },
   {
     "name": "Panevėžio muzikinis teatras",
@@ -203,7 +218,8 @@
   {
     "name": "Solo teatras",
     "code": "304901917",
-    "address": "Vilnius, Žuvėdrų g. 49, LT-10103"
+    "address": "Vilnius, Žuvėdrų g. 49, LT-10103",
+    "vatcode": "LT100018750012"
   },
   {
     "name": "Teatras \"MENS PUBLICA\", VšĮ",
@@ -213,7 +229,8 @@
   {
     "name": "Teatras vaikams \"Pradžia\"",
     "code": "304182934",
-    "address": "Vilnius, Kazio Ulvydo g. 11-90, LT-08355"
+    "address": "Vilnius, Kazio Ulvydo g. 11-90, LT-08355",
+    "vatcode": "LT100018539019"
   },
   {
     "name": "Teatras-studija \"Theaomai\"",
@@ -233,7 +250,8 @@
   {
     "name": "UAB Vabalo teatras",
     "code": "307485566",
-    "address": "Klaipėda, Girulių pl. 23A-2, LT-92282"
+    "address": "Klaipėda, Girulių pl. 23A-2, LT-92282",
+    "vatcode": "LT100019372316"
   },
   {
     "name": "VILNIAUS MIESTO SENOSIOS MUZIKOS IR ŠOKIO VAIKŲ TEATRAS \"PUELLI VILNENSES\"",
@@ -241,9 +259,14 @@
     "address": "Vilnius, Šv. Ignoto g. 6, LT-01144"
   },
   {
+    "name": "Vaikų teatras \"KRASNAJA KURICA\"",
+    "code": "191854890"
+  },
+  {
     "name": "Valstybinis Vilniaus mažasis teatras",
     "code": "188200375",
-    "address": "Vilnius, Gedimino pr. 22, LT-01103"
+    "address": "Vilnius, Gedimino pr. 22, LT-01103",
+    "vatcode": "LT100019455312"
   },
   {
     "name": "Valstybinis jaunimo teatras",
@@ -253,7 +276,8 @@
   {
     "name": "Valstybinis Šiaulių dramos teatras",
     "code": "190755170",
-    "address": "Šiauliai, Tilžės g. 155, LT-76297"
+    "address": "Šiauliai, Tilžės g. 155, LT-76297",
+    "vatcode": "LT100018905014"
   },
   {
     "name": "Viešoji įstaiga \"Anželikos Cholinos šokio teatras\"",
@@ -263,7 +287,8 @@
   {
     "name": "Viešoji įstaiga \"Artūro Areimos teatras\"",
     "code": "303452864",
-    "address": "Vilnius, Bistryčios g. 40-21, LT-10321"
+    "address": "Vilnius, Bistryčios g. 40-21, LT-10321",
+    "vatcode": "LT100019040413"
   },
   {
     "name": "Viešoji įstaiga \"BRAVO TEATRAS\"",
@@ -318,7 +343,8 @@
   {
     "name": "Viešoji įstaiga Oskaro Koršunovo teatras",
     "code": "124016537",
-    "address": "Vilnius, Ašmenos g. 8, LT-01135"
+    "address": "Vilnius, Ašmenos g. 8, LT-01135",
+    "vatcode": "LT240165314"
   },
   {
     "name": "Viešoji įstaiga Stalo Teatras",
@@ -338,7 +364,8 @@
   {
     "name": "Viešoji įstaiga Vilniaus keistuolių teatras",
     "code": "300090303",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
+    "address": "Vilnius, Laisvės pr. 60, LT-05120",
+    "vatcode": "LT100003313010"
   },
   {
     "name": "Viešoji įstaiga Vyčio Jankausko šokio teatras",
@@ -388,7 +415,8 @@
   {
     "name": "VšĮ \"Geras teatras\"",
     "code": "304948653",
-    "address": "Kaunas, V. Krėvės pr. 74-15, LT-50393"
+    "address": "Kaunas, V. Krėvės pr. 74-15, LT-50393",
+    "vatcode": "LT100018192211"
   },
   {
     "name": "VšĮ \"J. S. mados teatras\"",
@@ -439,7 +467,8 @@
   {
     "name": "VšĮ \"Ugnies teatras\"",
     "code": "306114800",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100016603518"
   },
   {
     "name": "VšĮ \"Žiūrovų teatras\"",
@@ -588,7 +617,8 @@
   {
     "name": "VšĮ Šeiko šokio teatras",
     "code": "302897135",
-    "address": "Neringa, Vilų g. 12-13, LT-93102"
+    "address": "Neringa, Vilų g. 12-13, LT-93102",
+    "vatcode": "LT100018687514"
   },
   {
     "name": "VšĮ Šiaulių teatras vaikams \"BIRBIRONAS\"",
@@ -648,7 +678,8 @@
   {
     "name": "Viešoji įstaiga \"TEATRIUKAS\"",
     "code": "124544246",
-    "address": "Molėtų r. sav., Dubingių sen., Drąsių k., Šilo g. 4, LT-33264"
+    "address": "Molėtų r. sav., Dubingių sen., Drąsių k., Šilo g. 4, LT-33264",
+    "vatcode": "LT100018399615"
   },
   {
     "name": "Alytaus miesto teatro darbuotojų profesinė sąjunga",
@@ -686,11 +717,6 @@
     "address": "Panevėžys, Laisvės a. 5, LT-35183"
   },
   {
-    "name": "Juozo Miltinio dramos teatro darbuotojų profesinė sąjunga",
-    "code": "302617544",
-    "address": "Panevėžys, Laisvės a. 5, LT-35183"
-  },
-  {
     "name": "Jurbarko teatro mėgėjų klubas",
     "code": "158330740",
     "address": "Jurbarkas, Dariaus ir Girėno g. 94, LT-74187"
@@ -718,7 +744,8 @@
   {
     "name": "Lietuvos muzikos ir teatro akademija",
     "code": "111950624",
-    "address": "Vilnius, Gedimino pr. 42, LT-01110"
+    "address": "Vilnius, Gedimino pr. 42, LT-01110",
+    "vatcode": "LT119506219"
   },
   {
     "name": "Lietuvos muzikos ir teatro akademijos Alumnų draugija",
@@ -741,14 +768,13 @@
     "address": "Klaipėda, K. Donelaičio g. 4, LT-92144"
   },
   {
-    "name": "Lietuvos nacionalinio dramos teatro darbuotojų profesinė sąjunga",
-    "code": "302563580",
-    "address": "Vilnius, Gedimino pr. 4, LT-01103"
-  },
-  {
     "name": "Lietuvos nacionalinio operos ir baleto teatro paramos fondas \"Orfėjaus lyra\"",
     "code": "195774687",
     "address": "Vilnius, Lydos g. 4-10, LT-01133"
+  },
+  {
+    "name": "Lietuvos operos ir baleto teatro personalinė įmonė - gamybinės dirbtuvės",
+    "code": "122485742"
   },
   {
     "name": "Lietuvos teatro sąjunga",
@@ -788,7 +814,8 @@
   {
     "name": "MB Teatro svečių namai",
     "code": "305005207",
-    "address": "Kauno r. sav., Babtų sen., Muniškių k., Dvaro g. 24, LT-54337"
+    "address": "Kauno r. sav., Babtų sen., Muniškių k., Dvaro g. 24, LT-54337",
+    "vatcode": "LT100017988713"
   },
   {
     "name": "Marijampolės teatro draugija \"Gabija\"",
@@ -868,7 +895,8 @@
   {
     "name": "UAB Teatro turtas",
     "code": "307093782",
-    "address": "Vilnius, Teatro g. 9B-19, LT-03107"
+    "address": "Vilnius, Teatro g. 9B-19, LT-03107",
+    "vatcode": "LT100018810110"
   },
   {
     "name": "VILNIAUS LENKŲ TEATRO STUDIJA",
@@ -889,6 +917,10 @@
     "name": "Valstybinio jaunimo teatro aktorių profesinė sąjunga",
     "code": "304778432",
     "address": "Vilnius, Arklių g. 5-1, LT-01305"
+  },
+  {
+    "name": "Vasaros teatro festivalis",
+    "code": "303032052"
   },
   {
     "name": "Viešoji įstaiga \"Teatro projektai\"",
@@ -936,6 +968,10 @@
     "address": "Vilnius, Elnių g. 27, LT-08101"
   },
   {
+    "name": "VŠĮ \"Teatro pasaulis\"",
+    "code": "302571812"
+  },
+  {
     "name": "VšĮ \"Teatro Studija MI11\"",
     "code": "302598097",
     "address": "Vilnius, Geležinkelio g. 3-14A, LT-02100"
@@ -968,7 +1004,8 @@
   {
     "name": "VšĮ Teatro informacijos centras",
     "code": "305595989",
-    "address": "Vilnius, Minties g. 34-26, LT-09222"
+    "address": "Vilnius, Minties g. 34-26, LT-09222",
+    "vatcode": "LT100017974511"
   },
   {
     "name": "VšĮ Teatro studija \"Lulu\"",
@@ -993,7 +1030,8 @@
   {
     "name": "\"Teatronas\"",
     "code": "302430039",
-    "address": "Vilnius, Šeškinės g. 21-48, LT-07153"
+    "address": "Vilnius, Šeškinės g. 21-48, LT-07153",
+    "vatcode": "LT100018106219"
   },
   {
     "name": "VšĮ \"ŽAIDŽIU TEATRĄ\"",

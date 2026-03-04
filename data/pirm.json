@@ -17,7 +17,8 @@
   {
     "name": "MB Pirma pavara",
     "code": "307114123",
-    "address": "Kretinga, Teresiečių g. 19-2, LT-97140"
+    "address": "Kretinga, Teresiečių g. 19-2, LT-97140",
+    "vatcode": "LT100018675718"
   },
   {
     "name": "MB Pirma siunta",
@@ -27,17 +28,20 @@
   {
     "name": "Pirma apskaita, MB",
     "code": "303646869",
-    "address": "Vilnius, Vito Gerulaičio g. 6-1, LT-08200"
+    "address": "Vilnius, Vito Gerulaičio g. 6-1, LT-08200",
+    "vatcode": "LT100012475712"
   },
   {
     "name": "UAB \"Pirma energija\"",
     "code": "307242977",
-    "address": "Šilutė, Lietuvininkų g. 23-10, LT-99134"
+    "address": "Šilutė, Lietuvininkų g. 23-10, LT-99134",
+    "vatcode": "LT100018893812"
   },
   {
     "name": "UAB \"Pirma investicija\"",
     "code": "305154973",
-    "address": "Vilnius, Rygos g. 54-136, LT-05272"
+    "address": "Vilnius, Rygos g. 54-136, LT-05272",
+    "vatcode": "LT100012374819"
   },
   {
     "name": "UAB \"Pirma laiptinė\"",
@@ -47,7 +51,8 @@
   {
     "name": "UAB \"Pirma sesija\"",
     "code": "303400522",
-    "address": "Vilnius, A. Jakšto g. 14-2, LT-01105"
+    "address": "Vilnius, A. Jakšto g. 14-2, LT-01105",
+    "vatcode": "LT100008912815"
   },
   {
     "name": "UAB \"Pirma vertus\"",
@@ -83,22 +88,25 @@
   {
     "name": "MB Pirmadienis",
     "code": "302992850",
-    "address": "Klaipėda, Maumedžių g. 5, LT-92357"
+    "address": "Gargždai, Dvarelio tak. 25, LT-96191"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"PIRMAGRA\"",
     "code": "183220057",
-    "address": "Ukmergės r. sav., Deltuva"
+    "address": "Ukmergės r. sav., Deltuva",
+    "vatcode": "LT832200515"
   },
   {
     "name": "MB \"Pirmas blynas\"",
     "code": "304856895",
-    "address": "Vilnius, Deltuvos g. 31-120, LT-08100"
+    "address": "Vilnius, Deltuvos g. 31-120, LT-08100",
+    "vatcode": "LT100012355812"
   },
   {
     "name": "MB \"Pirmas kodas\"",
     "code": "306129624",
-    "address": "Kaunas, Birželio 23-iosios g. 8-19, LT-50423"
+    "address": "Kaunas, Birželio 23-iosios g. 8-19, LT-50423",
+    "vatcode": "LT100016394411"
   },
   {
     "name": "MB \"Pirmas lokomotyvas\"",
@@ -108,7 +116,8 @@
   {
     "name": "MB \"Pirmas namas\"",
     "code": "306129866",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
+    "vatcode": "LT100017753112"
   },
   {
     "name": "MB \"Pirmas nulis\"",
@@ -123,12 +132,14 @@
   {
     "name": "MB \"Pirmas projektas\"",
     "code": "304434449",
-    "address": "Neringa, Pervalkos g. 6-10, LT-93104"
+    "address": "Neringa, Pervalkos g. 6-10, LT-93104",
+    "vatcode": "LT100012319917"
   },
   {
     "name": "MB \"Pirmas stiklas\"",
     "code": "305493201",
-    "address": "Vilnius, Girulių g. 5, LT-12124"
+    "address": "Vilnius, Girulių g. 5, LT-12124",
+    "vatcode": "LT100014644615"
   },
   {
     "name": "MB \"Pirmas verslas\"",
@@ -138,12 +149,14 @@
   {
     "name": "MB \"Visada pirmas\"",
     "code": "304832271",
-    "address": "Kaunas, Saulės g. 30-6, LT-51366"
+    "address": "Kaunas, Saulės g. 30-6, LT-51366",
+    "vatcode": "LT100012798115"
   },
   {
     "name": "MB Ne pirmas rodeo",
     "code": "307556337",
-    "address": "Kaunas, J. Lukšos-Daumanto g. 2-216, LT-50106"
+    "address": "Kaunas, J. Lukšos-Daumanto g. 2-216, LT-50106",
+    "vatcode": "LT100019612311"
   },
   {
     "name": "MB Pirmas bėgis",
@@ -158,17 +171,13 @@
   {
     "name": "MB Pirmas pasirinkimas",
     "code": "305629167",
-    "address": "Molėtų r. sav., Giedraičių sen., Žalvarių k., Grabuostos g. 11, LT-33284"
+    "address": "Molėtų r. sav., Giedraičių sen., Žalvarių k., Grabuostos g. 11, LT-33284",
+    "vatcode": "LT100014109017"
   },
   {
     "name": "MB Pirmas sapnas",
     "code": "306047807",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
-  },
-  {
-    "name": "UAB \"Pirmas administratorių biuras\"",
-    "code": "302559557",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "UAB \"Pirmas bitas\"",
@@ -178,12 +187,18 @@
   {
     "name": "UAB \"Pirmas būstas\"",
     "code": "306394462",
-    "address": "Vilnius, Musninkų g. 6-12, LT-07184"
+    "address": "Vilnius, Musninkų g. 6-12, LT-07184",
+    "vatcode": "LT100016304214"
+  },
+  {
+    "name": "UAB \"Pirmas frontas\"",
+    "code": "300851580"
   },
   {
     "name": "UAB \"Pirmas kartas\"",
     "code": "304317175",
-    "address": "Vilnius, Pylimo g. 7A-4, LT-01118"
+    "address": "Vilnius, Pylimo g. 7A-4, LT-01118",
+    "vatcode": "LT100011550516"
   },
   {
     "name": "UAB \"Pirmas punktas\"",
@@ -199,6 +214,10 @@
     "name": "UAB \"Pirmas sprendimas\"",
     "code": "304048967",
     "address": "Vilniaus r. sav., Mickūnų sen., Galgių k., Rožių g. 5-2, LT-13103"
+  },
+  {
+    "name": "UAB \"Pirmas srautas\"",
+    "code": "302506540"
   },
   {
     "name": "UAB \"Pirmas veidas\"",
@@ -219,7 +238,8 @@
   {
     "name": "UAB Pirmas vėjas",
     "code": "305727704",
-    "address": "Kaunas, Raudondvario pl. 131B-9, LT-47191"
+    "address": "Kaunas, Raudondvario pl. 131B-9, LT-47191",
+    "vatcode": "LT100013941019"
   },
   {
     "name": "Viešoji įstaiga \"Būk pirmas pagalbos teikėjas\"",
@@ -230,6 +250,11 @@
     "name": "VšĮ \"Pirmas šuolis\"",
     "code": "305638878",
     "address": "Vilnius, Vokiečių g. 11-18, LT-01130"
+  },
+  {
+    "name": "VšĮ Pirmas lietuvis",
+    "code": "307601088",
+    "address": "Panevėžys, Įmonių g. 5D-3, LT-35101"
   },
   {
     "name": "\"Pirmasis ūkis\", žemės ūkio bendrovė",
@@ -244,13 +269,13 @@
   {
     "name": "MB \"Pirmasis milijonas\"",
     "code": "305687619",
-    "address": "Skuodo r. sav., Aleksandrijos sen., Aleksandrijos k., Alyvų g. 8, LT-98333",
-    "vatcode": "LT100017527312"
+    "address": "Skuodo r. sav., Aleksandrijos sen., Aleksandrijos k., Alyvų g. 8, LT-98333"
   },
   {
     "name": "MB Pirmasis būstas",
     "code": "306933447",
-    "address": "Vilniaus r. sav., Nemėžio sen., Murlinės k., Poezijos g. 25, LT-13280"
+    "address": "Vilniaus r. sav., Nemėžio sen., Murlinės k., Poezijos g. 25, LT-13280",
+    "vatcode": "LT100019348616"
   },
   {
     "name": "Stalo teniso klubas \"Pirmasis setas\"",
@@ -290,7 +315,8 @@
   {
     "name": "MB \"Pirmi batai\"",
     "code": "304416522",
-    "address": "Šiauliai, Architektų g. 4-43, LT-78335"
+    "address": "Šiauliai, Architektų g. 4-43, LT-78335",
+    "vatcode": "LT100010505313"
   },
   {
     "name": "MB \"Pirmi langai\"",
@@ -310,12 +336,14 @@
   {
     "name": "MB Pirmi trys",
     "code": "306370340",
-    "address": "Vilnius, S. Stanevičiaus g. 60-48, LT-07117"
+    "address": "Vilnius, S. Stanevičiaus g. 60-48, LT-07117",
+    "vatcode": "LT100017835716"
   },
   {
     "name": "UAB \"Pirmi namai\"",
     "code": "304420307",
-    "address": "Vilnius, Gabijos g. 38-1, LT-06157"
+    "address": "Vilnius, Gabijos g. 38-1, LT-06157",
+    "vatcode": "LT100010992219"
   },
   {
     "name": "VšĮ \"Pirmi atvažiavo\"",
@@ -391,7 +419,8 @@
   {
     "name": "UAB \"Pirminis kodas\"",
     "code": "303184964",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100008186010"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"PIRMINIS GREITIS\"",
@@ -402,6 +431,10 @@
     "name": "Lietuvos pirminių imunodeficitų draugija Imunas",
     "code": "304824659",
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
+  },
+  {
+    "name": "Lietuvoje gyvenančių Antrojo pasaulinio karo dalyvių, kovojusių antihitlerinės koalicijos pusėje, Plungės rajono pirminė organizacija",
+    "code": "171708077"
   },
   {
     "name": "VENTOS PENSIONATO PIRMINĖ PROFESINĖ SĄJUNGA",
@@ -422,11 +455,6 @@
     "name": "Gargždų pirminės sveikatos priežiūros centro darbuotojų profesinė sąjunga \"Solidarumas\"",
     "code": "305241047",
     "address": "Vilnius, Ulonų g. 5-301, LT-08240"
-  },
-  {
-    "name": "Joniškio pirminės sveikatos priežiūros centro gydytojų sąjunga",
-    "code": "157696076",
-    "address": "Joniškis, Pašvitinio g. 21, LT-84152"
   },
   {
     "name": "Klaipėdos rajono savivaldybės Priekulės pirminės sveikatos priežiūros centras",
@@ -479,11 +507,6 @@
     "address": "Telšiai, Kalno g. 40, LT-87134"
   },
   {
-    "name": "Ukmergės pirminės sveikatos priežiūros centro slaugos specialistų organizacija",
-    "code": "182938318",
-    "address": "Ukmergė, Vytauto g. 105, LT-20184"
-  },
-  {
     "name": "VIEŠOJI ĮSTAIGA ROKIŠKIO PIRMINĖS ASMENS SVEIKATOS PRIEŽIŪROS CENTRAS",
     "code": "173223934",
     "address": "Rokiškis, Juodupės g. 1A, LT-42106"
@@ -512,7 +535,8 @@
   {
     "name": "Viešoji įstaiga Alytaus rajono savivaldybės pirminės sveikatos priežiūros centras",
     "code": "193107218",
-    "address": "Alytus, Naujoji g. 48, LT-62381"
+    "address": "Alytus, Naujoji g. 48, LT-62381",
+    "vatcode": "LT931072113"
   },
   {
     "name": "Viešoji įstaiga Anykščių rajono savivaldybės pirminės sveikatos priežiūros centras",
@@ -548,6 +572,10 @@
     "name": "Viešoji įstaiga Druskininkų pirminės sveikatos priežiūros centras",
     "code": "152114846",
     "address": "Druskininkai, M. K. Čiurlionio g. 82, LT-66144"
+  },
+  {
+    "name": "Viešoji įstaiga Eržvilko pirminės sveikatos priežiūros centras",
+    "code": "158326471"
   },
   {
     "name": "Viešoji įstaiga Garliavos pirminės sveikatos priežiūros centras",
@@ -587,7 +615,8 @@
   {
     "name": "Viešoji įstaiga Kazlų Rūdos pirminės sveikatos priežiūros centras",
     "code": "165801331",
-    "address": "Kazlų Rūda, Vytauto g. 45, LT-69417"
+    "address": "Kazlų Rūda, Vytauto g. 45, LT-69417",
+    "vatcode": "LT658013314"
   },
   {
     "name": "Viešoji įstaiga Kelmės rajono pirminės sveikatos priežiūros centras",
@@ -792,7 +821,13 @@
   {
     "name": "VšĮ \"Pirmoj eilėj\"",
     "code": "306707640",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100018127211"
+  },
+  {
+    "name": "IĮ \"Pirmoji srovė\"",
+    "code": "303267716",
+    "address": "Vilnius, Minties g. 42-102, LT-09221"
   },
   {
     "name": "Kopų žuvėdros pirmoji bendrija",
@@ -812,7 +847,8 @@
   {
     "name": "UAB \"Pirmoji grupė\"",
     "code": "303235540",
-    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Neries g. 22-18, LT-54364"
+    "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Neries g. 22-18, LT-54364",
+    "vatcode": "LT100008495513"
   },
   {
     "name": "UAB \"Pirmoji investicija\"",
@@ -832,7 +868,8 @@
   {
     "name": "UAB \"Pirmoji verslo grupė\"",
     "code": "303455903",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
+    "address": "Vilnius, Laisvės pr. 60, LT-05120",
+    "vatcode": "LT100009438812"
   },
   {
     "name": "UAB Pirmoji tuopos įmonė",
@@ -848,17 +885,20 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Pirmoji kregždutė\"",
     "code": "134734742",
-    "address": "Kaunas, K. Petrausko g. 33, LT-44162"
+    "address": "Kaunas, K. Petrausko g. 33, LT-44162",
+    "vatcode": "LT347347411"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB Pirmoji investavimo įmonė",
     "code": "303185226",
-    "address": "Vilnius, Upės g. 21-1, LT-08128"
+    "address": "Vilnius, Upės g. 21-1, LT-08128",
+    "vatcode": "LT100010763313"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA \"PIRMOJI KAVA\"",
     "code": "225293310",
-    "address": "Vilnius, P. Vileišio g. 18A-128, LT-10306"
+    "address": "Vilnius, P. Vileišio g. 18A-128, LT-10306",
+    "vatcode": "LT252933113"
   },
   {
     "name": "Viešoji įstaiga \"Pirmoji akademija\"",
@@ -918,7 +958,8 @@
   {
     "name": "UAB Pirmos rankos",
     "code": "306682557",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100016936412"
   },
   {
     "name": "Draugiška Pagubės sodų pirmosios gatvės gyventojų asociacija",
@@ -958,17 +999,25 @@
   {
     "name": "UAB \"PIRMOSIOS SNIEGUOLĖS\"",
     "code": "142171877",
-    "address": "Klaipėda, Kuncų g. 16-17, LT-95204"
+    "address": "Klaipėda, Kuncų g. 16-17, LT-95204",
+    "vatcode": "LT421718716"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"PIRMTAKAS\"",
     "code": "125507425",
-    "address": "Vilniaus m. sav., Grigiškių m., Vilniaus g. 55-11, LT-27112"
+    "address": "Vilniaus m. sav., Grigiškių m., Vilniaus g. 55-11, LT-27112",
+    "vatcode": "LT255074219"
   },
   {
     "name": "MB Pirmukas",
     "code": "306815922",
-    "address": "Vilnius, Vytenio g. 63A-37, LT-03202"
+    "address": "Vilnius, Vytenio g. 63A-37, LT-03202",
+    "vatcode": "LT100016947014"
+  },
+  {
+    "name": "Aldonos Orlienės IĮ \"Pirmyn\"",
+    "code": "133763659",
+    "address": "Kaunas, Kęstučio g. 59-11, LT-44303"
   },
   {
     "name": "Asociacija \"Judėk pirmyn\"",
@@ -998,7 +1047,8 @@
   {
     "name": "MB \"Žingsnis pirmyn\"",
     "code": "305350630",
-    "address": "Vilnius, Polocko g. 17-108, LT-01205"
+    "address": "Vilnius, Polocko g. 17-108, LT-01205",
+    "vatcode": "LT100015050718"
   },
   {
     "name": "Pirmyn, MB",
@@ -1043,7 +1093,8 @@
   {
     "name": "MB \"Po pirmą\"",
     "code": "305632487",
-    "address": "Kaišiadorių r. sav., Žiežmarių apylinkės sen., Skudenių k. 6, LT-56262"
+    "address": "Kaišiadorių r. sav., Žiežmarių apylinkės sen., Skudenių k. 6, LT-56262",
+    "vatcode": "LT100015535817"
   },
   {
     "name": "Namo bendrija \"Juknaičių pirmūnai\"",

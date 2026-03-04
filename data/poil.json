@@ -12,7 +12,8 @@
   {
     "name": "UAB \"Sartų poilsiavietė\"",
     "code": "235750540",
-    "address": "Vilnius, Gedimino pr. 64-62, LT-01111"
+    "address": "Vilnius, Gedimino pr. 64-62, LT-01111",
+    "vatcode": "LT357505416"
   },
   {
     "name": "Viešoji įstaiga \"Balsių poilsiavietė\"",
@@ -27,12 +28,14 @@
   {
     "name": "Viešoji įstaiga \"Karklės SOS vaikų poilsiavietė\"",
     "code": "163677251",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Karklės k."
+    "address": "Klaipėdos r. sav., Kretingalės sen., Karklės k.",
+    "vatcode": "LT100003470611"
   },
   {
     "name": "Viešoji įstaiga PUŠYNO POILSIAVIETĖ",
     "code": "135284636",
-    "address": "Kauno r. sav., Zapyškio sen., Jadagonių k., Jono Šileikos g. 1, LT-53401"
+    "address": "Kauno r. sav., Zapyškio sen., Jadagonių k., Jono Šileikos g. 1, LT-53401",
+    "vatcode": "LT100002877619"
   },
   {
     "name": "VšĮ Poilsiavietė \"Žilvitis\"",
@@ -53,7 +56,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS SIGMOS POILSINĖS\"",
     "code": "123058323",
-    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221",
+    "vatcode": "LT230583219"
   },
   {
     "name": "AKTYVAUS POILSIO KLUBAS",
@@ -86,6 +90,11 @@
     "address": "Palanga, S. Daukanto g. 17, LT-00135"
   },
   {
+    "name": "Dženės Rudaitienės ir Barboros Garnienės tikroji ūkinė bendrija \"Panevėžio kultūros ir poilsio parkas\"",
+    "code": "148005339",
+    "address": "Panevėžys, Vasario 16-osios g. 20, LT-35169"
+  },
+  {
     "name": "Gyvenamųjų ir poilsio namų savininkų bendrija \"Svencelės salos\"",
     "code": "305960295",
     "address": "Gargždai, Kvietinių g. 14, LT-96136"
@@ -108,7 +117,8 @@
   {
     "name": "MB \"Poilsio krantas\"",
     "code": "305219346",
-    "address": "Kretingos r. sav., Žalgirio sen., Budrių k., Sodžiaus g. 13, LT-97360"
+    "address": "Klaipėdos r. sav., Sendvario sen., Žemgrindžių k., Žiobrių g. 26, LT-92398",
+    "vatcode": "LT100013897916"
   },
   {
     "name": "MB \"Poilsio laboratorija\"",
@@ -119,7 +129,8 @@
   {
     "name": "MB \"Poilsio ratas\"",
     "code": "305436951",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100015276411"
   },
   {
     "name": "MB \"Poilsio sala\"",
@@ -134,7 +145,8 @@
   {
     "name": "MB \"Poilsio vingis\"",
     "code": "306270169",
-    "address": "Širvintų r. sav., Širvintų sen., Širvintų k., Gluosnių g. 2, LT-19103"
+    "address": "Širvintų r. sav., Širvintų sen., Širvintų k., Gluosnių g. 2, LT-19103",
+    "vatcode": "LT100015814117"
   },
   {
     "name": "MB Elix poilsio namai",
@@ -144,7 +156,8 @@
   {
     "name": "MB Gero poilsio",
     "code": "307162545",
-    "address": "Jonavos r. sav., Šveicarijos sen., Barborlaukio k., Saulės g. 21, LT-55303"
+    "address": "Jonavos r. sav., Šveicarijos sen., Barborlaukio k., Saulės g. 21, LT-55303",
+    "vatcode": "LT100018112819"
   },
   {
     "name": "MB Jūsų poilsio namai",
@@ -154,7 +167,8 @@
   {
     "name": "MB Poilsio Uostas",
     "code": "307164763",
-    "address": "Klaipėda, Baltijos pr. 16-216, LT-94109"
+    "address": "Klaipėda, Baltijos pr. 16-216, LT-94109",
+    "vatcode": "LT100019256812"
   },
   {
     "name": "MB Poilsio pakrantė",
@@ -164,12 +178,14 @@
   {
     "name": "MB Poilsio projektai",
     "code": "306027758",
-    "address": "Šakių r. sav., Šakių sen., Girėnų k., Kauno g. 44G K1, LT-71129"
+    "address": "Šakių r. sav., Šakių sen., Girėnų k., Kauno g. 44G K1, LT-71129",
+    "vatcode": "LT100015478612"
   },
   {
     "name": "Mažoji bendrija Poilsio slėnis",
     "code": "306341221",
-    "address": "Klaipėda, Kauno g. 31-49, LT-91168"
+    "address": "Klaipėda, Kauno g. 31-49, LT-91168",
+    "vatcode": "LT100019585512"
   },
   {
     "name": "Meilės al. 13, Palanga poilsio namų savininkų bendrija",
@@ -215,11 +231,6 @@
     "name": "Poilsio namų savininkų bendrija \"Baltijos žuvėdra\"",
     "code": "301622620",
     "address": "Palanga, S. Dariaus ir S. Girėno g. 1, LT-00131"
-  },
-  {
-    "name": "Poilsio namų, esančių Mokyklos g. 28, Palangoje, patalpų savininkų bendrija",
-    "code": "300139572",
-    "address": "Palanga, Mokyklos g. 28, LT-00303"
   },
   {
     "name": "Poilsio namų, esančių Vanagupės g. 33, Palangoje savininkų bendrija",
@@ -309,7 +320,8 @@
   {
     "name": "UAB \"Druskininkų sveikatinimo ir poilsio centras AQUA\"",
     "code": "300076944",
-    "address": "Druskininkai, Vilniaus al. 13-1, LT-66119"
+    "address": "Druskininkai, Vilniaus al. 13-1, LT-66119",
+    "vatcode": "LT100001786717"
   },
   {
     "name": "UAB \"Laikšių poilsio centras\"",
@@ -324,17 +336,20 @@
   {
     "name": "UAB \"POILSIO MEDŪNA\"",
     "code": "304063652",
-    "address": "Druskininkai, Liškiavos g. 33B-20, LT-66283"
+    "address": "Druskininkai, Liškiavos g. 33B-20, LT-66283",
+    "vatcode": "LT100010562013"
   },
   {
     "name": "UAB \"Poilsio Aura\"",
     "code": "306831353",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
+    "vatcode": "LT100017361314"
   },
   {
     "name": "UAB \"Poilsio erdvė\"",
     "code": "305289227",
-    "address": "Vilnius, M. Daukšos g. 8-10A, LT-02101"
+    "address": "Vilnius, M. Daukšos g. 8-10A, LT-02101",
+    "vatcode": "LT100012760915"
   },
   {
     "name": "UAB \"Poilsio investicija\"",
@@ -344,7 +359,8 @@
   {
     "name": "UAB \"Poilsio parkas\"",
     "code": "304324515",
-    "address": "Kaišiadorių r. sav., Rumšiškės, Užtakėlio g. 8, LT-56335"
+    "address": "Kaišiadorių r. sav., Rumšiškės, Užtakėlio g. 8, LT-56335",
+    "vatcode": "LT100014639810"
   },
   {
     "name": "UAB \"Poilsio spektras\"",
@@ -360,7 +376,8 @@
   {
     "name": "UAB Aktyvaus poilsio centras",
     "code": "302466619",
-    "address": "Anykščių r. sav., Kavarsko sen., Džiugų k. 15, LT-29240"
+    "address": "Anykščių r. sav., Kavarsko sen., Džiugų k. 15, LT-29240",
+    "vatcode": "LT100005552015"
   },
   {
     "name": "UAB poilsio namai \"Ąžuolynas\"",
@@ -376,12 +393,17 @@
   {
     "name": "Uždaroji akcinė bendrovė poilsio namai \"Baltija\"",
     "code": "152409533",
-    "address": "Palanga, S. Dariaus ir S. Girėno g. 20, LT-00101"
+    "address": "Palanga, S. Dariaus ir S. Girėno g. 20, LT-00101",
+    "vatcode": "LT524095314"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"Stotis\" filialas poilsio namai \"Tulpė\"",
     "code": "152593745",
     "address": "Palanga, S. Dariaus ir S. Girėno g. 11, LT-00131"
+  },
+  {
+    "name": "V. Grigaravičienės įmonė \"Poilsio zona\"",
+    "code": "150151721"
   },
   {
     "name": "Viešoji įstaiga \"Sveikatingumo ir poilsio centras\"",
@@ -396,7 +418,8 @@
   {
     "name": "Asociacija Jaukus poilsis",
     "code": "305665081",
-    "address": "Tauragės r. sav., Mažonų sen., Mažonų k., Vilties g. 45, LT-72152"
+    "address": "Tauragės r. sav., Mažonų sen., Mažonų k., Vilties g. 45, LT-72152",
+    "vatcode": "LT100014414116"
   },
   {
     "name": "Daugiabučių namų savininkų bendrija \"Vanagupės poilsis\"",
@@ -406,7 +429,8 @@
   {
     "name": "MB \"Baltijos poilsis\"",
     "code": "303238579",
-    "address": "Kaunas, Marių g. 12-8, LT-52251"
+    "address": "Kaunas, Marių g. 12-8, LT-52251",
+    "vatcode": "LT100014207011"
   },
   {
     "name": "MB \"JUGRI POILSIS\"",
@@ -416,7 +440,8 @@
   {
     "name": "MB \"Patogus poilsis\"",
     "code": "305177160",
-    "address": "Panevėžio r. sav., Panevėžio sen., Piniavos k., Pilies g. 16, LT-38416"
+    "address": "Panevėžio r. sav., Panevėžio sen., Piniavos k., Pilies g. 16, LT-38416",
+    "vatcode": "LT100012417210"
   },
   {
     "name": "MB \"Poilsis Graikinėje\"",
@@ -437,7 +462,8 @@
   {
     "name": "MB Vasaros poilsis",
     "code": "307412618",
-    "address": "Kaunas, Karklytės g. 17, LT-47259"
+    "address": "Kaunas, Karklytės g. 17, LT-47259",
+    "vatcode": "LT100018868819"
   },
   {
     "name": "Mažeikių rajono sodininkų bendrija \"Poilsis\"",
@@ -483,7 +509,8 @@
   {
     "name": "UAB \"Kelionės ir poilsis\"",
     "code": "300605290",
-    "address": "Klaipėda, Taikos pr. 3-7, LT-91133"
+    "address": "Klaipėda, Taikos pr. 3-7, LT-91133",
+    "vatcode": "LT100003328614"
   },
   {
     "name": "UAB \"Pagaliau poilsis\"",
@@ -494,7 +521,8 @@
   {
     "name": "UAB \"Poilsis Druskininkuose\"",
     "code": "184538059",
-    "address": "Druskininkai, Laisvės a. 21, LT-66117"
+    "address": "Druskininkai, Laisvės a. 21, LT-66117",
+    "vatcode": "LT845380515"
   },
   {
     "name": "UAB \"Sėkmingas poilsis\"",
@@ -504,12 +532,14 @@
   {
     "name": "UAB \"TERRA POILSIS\"",
     "code": "302754596",
-    "address": "Molėtų r. sav., Balninkų sen., Gruodžių k., Gruodžių g. 29, LT-33147"
+    "address": "Molėtų r. sav., Balninkų sen., Gruodžių k., Gruodžių g. 29, LT-33147",
+    "vatcode": "LT100009811614"
   },
   {
     "name": "UAB \"Verslas ir poilsis\"",
     "code": "302250863",
-    "address": "Vilnius, Linkmenų g. 25B, LT-08217"
+    "address": "Vilnius, Linkmenų g. 25B, LT-08217",
+    "vatcode": "LT100004700211"
   },
   {
     "name": "UAB Anykščių poilsis",
@@ -535,7 +565,8 @@
   {
     "name": "VIEŠOJI ĮSTAIGA \"SPORTAS IR POILSIS\"",
     "code": "125452929",
-    "address": "Vilnius, Ąžuolyno g. 5, LT-07196"
+    "address": "Vilnius, Ąžuolyno g. 5, LT-07196",
+    "vatcode": "LT254529219"
   },
   {
     "name": "VšĮ \"Krepšinis ir poilsis\"",

@@ -2,7 +2,8 @@
   {
     "name": "Žemės ūkio kooperatyvas \"LIT-KOOP\"",
     "code": "302482089",
-    "address": "Kėdainių r. sav., Josvainių sen., Juodkaimių k., Gėlių g. 2, LT-58196"
+    "address": "Kėdainių r. sav., Josvainių sen., Juodkaimių k., Gėlių g. 2, LT-58196",
+    "vatcode": "LT100005204813"
   },
   {
     "name": "Kooperatinė bendrovė \"Šiaulių kooperacija\"",
@@ -18,16 +19,6 @@
     "name": "MB Skaitmeninė kooperacija",
     "code": "307134268",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
-  },
-  {
-    "name": "Joniškio rajono komercijos ir kooperacijos darbuotojų profesinė sąjunga",
-    "code": "157649169",
-    "address": "Joniškis, Vilniaus g. 14A, LT-84147"
-  },
-  {
-    "name": "Kauno komercijos ir kooperacijos darbuotojų profesinė sąjunga",
-    "code": "135643231",
-    "address": "Kaunas, Gedimino g. 33, LT-44311"
   },
   {
     "name": "Lietuvos komercijos ir kooperacijos darbuotojų profesinė sąjunga",
@@ -48,17 +39,20 @@
   {
     "name": "UAB \"TRAKŲ KOOPERACIJOS PREKYBA\"",
     "code": "300101041",
-    "address": "Trakai, Vytauto g. 60, LT-21113"
+    "address": "Trakai, Vytauto g. 60, LT-21113",
+    "vatcode": "LT100001537010"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"KOOPERACIJOS PASLAUGA\"",
     "code": "123920884",
-    "address": "Vilnius, Gedimino pr. 26, LT-01104"
+    "address": "Vilnius, Gedimino pr. 26, LT-01104",
+    "vatcode": "LT239208811"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Vilniaus kooperacijos prekyba\"",
     "code": "125392147",
-    "address": "Vilnius, Metalo g. 2, LT-02190"
+    "address": "Vilnius, Metalo g. 2, LT-02190",
+    "vatcode": "LT253921410"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"Vilniaus kooperacijos didmeninė prekyba\" Marijampolės filialas",
@@ -121,6 +115,10 @@
     "address": "Klaipėda, Tiltų g. 26-1, LT-91246"
   },
   {
+    "name": "Agroserviso kooperatyvas \"Akmenės agrochemija\"",
+    "code": "153065252"
+  },
+  {
     "name": "Agroserviso kooperatyvas \"Papynaujis\"",
     "code": "276603750",
     "address": "Šilalės r. sav., Kvėdarna, Šilalės g. 1, LT-75348",
@@ -138,9 +136,14 @@
     "address": "Švenčionių r. sav., Svirkų sen., Svirkų k."
   },
   {
+    "name": "Agroserviso kooperatyvas \"Tabariškių linelis\"",
+    "code": "259957960"
+  },
+  {
     "name": "Anykščių rajono vartotojų kooperatyvas",
     "code": "154245634",
-    "address": "Anykščiai, J. Biliūno g. 4, LT-29114"
+    "address": "Anykščiai, J. Biliūno g. 4, LT-29114",
+    "vatcode": "LT542456314"
   },
   {
     "name": "Ariogalos vartotojų kooperatyvas",
@@ -149,27 +152,32 @@
   {
     "name": "Baltic Cereals, Žemės ūkio kooperatyvas",
     "code": "304422393",
-    "address": "Kaunas, Ąžuolyno g. 2A-2, LT-44225"
+    "address": "Kaunas, Ąžuolyno g. 2A-2, LT-44225",
+    "vatcode": "LT100010846814"
   },
   {
     "name": "Baltos avies kooperatyvas",
     "code": "303076878",
-    "address": "Elektrėnų sav., Pastrėvio sen., Lunkiškių k. 3A, LT-21342"
+    "address": "Elektrėnų sav., Pastrėvio sen., Lunkiškių k. 3A, LT-21342",
+    "vatcode": "LT100008071117"
   },
   {
     "name": "Birštono vartotojų kooperatyvas",
     "code": "152817588",
-    "address": "Birštonas, S. Dariaus ir S. Girėno g. 24, LT-59212"
+    "address": "Birštonas, S. Dariaus ir S. Girėno g. 24, LT-59212",
+    "vatcode": "LT528175811"
   },
   {
     "name": "Burbiškio agroserviso kooperatyvas",
     "code": "154162626",
-    "address": "Anykščių r. sav., Anykščių sen., Burbiškio k., Pagraužių g. 28A, LT-29211"
+    "address": "Anykščių r. sav., Anykščių sen., Burbiškio k., Pagraužių g. 28A, LT-29211",
+    "vatcode": "LT541626219"
   },
   {
     "name": "Ekologinių ūkių kooperatyvas",
     "code": "305859862",
-    "address": "Elektrėnų sav., Gilučių sen., Koncepto k. 1, LT-26131"
+    "address": "Elektrėnų sav., Gilučių sen., Koncepto k. 1, LT-26131",
+    "vatcode": "LT100014278816"
   },
   {
     "name": "Garažų bendrija \"Senasis kooperatyvas XV\"",
@@ -179,7 +187,8 @@
   {
     "name": "Ignalinos rajono Ignalinos miesto vartotojų kooperatyvas",
     "code": "155474212",
-    "address": "Ignalina, Vasario 16-osios g. 16, LT-30114"
+    "address": "Ignalina, Vasario 16-osios g. 16, LT-30114",
+    "vatcode": "LT554742113"
   },
   {
     "name": "JAVAS.LT, Kooperatyvas",
@@ -189,17 +198,20 @@
   {
     "name": "Joniškio vartotojų kooperatyvas",
     "code": "157543924",
-    "address": "Joniškis, Upytės g. 31, LT-84132"
+    "address": "Joniškis, Upytės g. 31, LT-84132",
+    "vatcode": "LT575439219"
   },
   {
     "name": "Jurbarko vartotojų kooperatyvas \"Vienybė\"",
     "code": "158168726",
-    "address": "Jurbarkas, Dariaus ir Girėno g. 21, LT-74127"
+    "address": "Jurbarkas, Dariaus ir Girėno g. 21, LT-74127",
+    "vatcode": "LT581687219"
   },
   {
     "name": "Kaišiadorių vartotojų kooperatyvas",
     "code": "158867594",
-    "address": "Kaišiadorys, Vytauto Didžiojo g. 114, LT-56111"
+    "address": "Kaišiadorys, Vytauto Didžiojo g. 114, LT-56111",
+    "vatcode": "LT588675917"
   },
   {
     "name": "Kauno rajono centrinis vartotojų kooperatyvas",
@@ -219,6 +231,10 @@
     "vatcode": "LT631858113"
   },
   {
+    "name": "Klaipėdos rajono gyvulių sėklintojų kooperatyvas",
+    "code": "163739475"
+  },
+  {
     "name": "Kooperatinė bendrovė \"Žalių laukų kooperatyvas\"",
     "code": "303166973",
     "address": "Šakių r. sav., Šakių sen., Giedručių k., Valių g. 3, LT-71104",
@@ -232,7 +248,8 @@
   {
     "name": "Kooperatyvas \"Agro rangovai\"",
     "code": "305964742",
-    "address": "Vilnius, Vilkpėdės g. 22, LT-03151"
+    "address": "Vilnius, Vilkpėdės g. 22, LT-03151",
+    "vatcode": "LT100014725716"
   },
   {
     "name": "Kooperatyvas \"Agroaruodai\"",
@@ -243,7 +260,8 @@
   {
     "name": "Kooperatyvas \"Agrograna\"",
     "code": "305177331",
-    "address": "Panevėžio r. sav., Miežiškių sen., Pašilių k. 10, LT-35257"
+    "address": "Panevėžio r. sav., Miežiškių sen., Pašilių k. 10, LT-35257",
+    "vatcode": "LT100012504911"
   },
   {
     "name": "Kooperatyvas \"Agroliuksas\"",
@@ -264,7 +282,8 @@
   {
     "name": "Kooperatyvas \"Avininkas\"",
     "code": "303497902",
-    "address": "Molėtų r. sav., Inturkės sen., Pakrovų k., Alksnių g. 2, LT-33211"
+    "address": "Molėtų r. sav., Inturkės sen., Pakrovų k., Alksnių g. 2, LT-33211",
+    "vatcode": "LT100009091319"
   },
   {
     "name": "Kooperatyvas \"Baltijos pienas\"",
@@ -286,12 +305,14 @@
   {
     "name": "Kooperatyvas \"EKO tikslas\"",
     "code": "300629081",
-    "address": "Rokiškis, Laisvės g. 19A, LT-42116"
+    "address": "Rokiškis, Laisvės g. 19A, LT-42116",
+    "vatcode": "LT100003004517"
   },
   {
     "name": "Kooperatyvas \"EKO Žemaitija\"",
     "code": "300538774",
-    "address": "Telšių r. sav., Ryškėnų sen., Želvaičių k., Žarėnų g. 41, LT-87432"
+    "address": "Telšių r. sav., Ryškėnų sen., Želvaičių k., Žarėnų g. 41, LT-87432",
+    "vatcode": "LT100002379018"
   },
   {
     "name": "Kooperatyvas \"Eiriogala\"",
@@ -310,22 +331,26 @@
   {
     "name": "Kooperatyvas \"Galstų galvijai\"",
     "code": "304047915",
-    "address": "Lazdijų r. sav., Veisiejų sen., Galstų k., Galsto g. 43, LT-67331"
+    "address": "Lazdijų r. sav., Veisiejų sen., Galstų k., Galsto g. 43, LT-67331",
+    "vatcode": "LT100009458312"
   },
   {
     "name": "Kooperatyvas \"Gera mėsa\"",
     "code": "302331817",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Karklės k., Karklininkų g. 51, LT-92383"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Karklės k., Karklininkų g. 51, LT-92383",
+    "vatcode": "LT100004904812"
   },
   {
     "name": "Kooperatyvas \"Gerkonių elevatorius\"",
     "code": "301098687",
-    "address": "Rokiškis, Pramonės g. 9A, LT-42150"
+    "address": "Rokiškis, Pramonės g. 9A, LT-42150",
+    "vatcode": "LT100003477710"
   },
   {
     "name": "Kooperatyvas \"Grainharbor\"",
     "code": "304796626",
-    "address": "Kupiškio r. sav., Kupiškio sen., Laukminiškių k., Unės Babickaitės g. 40, LT-40100"
+    "address": "Kupiškio r. sav., Kupiškio sen., Laukminiškių k., Unės Babickaitės g. 40, LT-40100",
+    "vatcode": "LT100011544118"
   },
   {
     "name": "Kooperatyvas \"Javo kelias\"",
@@ -341,12 +366,14 @@
   {
     "name": "Kooperatyvas \"Kelmės agroservisas\"",
     "code": "300567982",
-    "address": "Kelmės r. sav., Liolių sen., Maneikių k., Kelmės g. 3, LT-86200"
+    "address": "Kelmės r. sav., Liolių sen., Maneikių k., Kelmės g. 3, LT-86200",
+    "vatcode": "LT100002406210"
   },
   {
     "name": "Kooperatyvas \"Kupiškio žemės\"",
     "code": "304470915",
-    "address": "Kupiškio r. sav., Šimonių sen., Nociūnų k., Ilgės g. 30, LT-40356"
+    "address": "Kupiškio r. sav., Šimonių sen., Nociūnų k., Ilgės g. 30, LT-40356",
+    "vatcode": "LT100010746010"
   },
   {
     "name": "Kooperatyvas \"Lietuviški javai\"",
@@ -391,7 +418,8 @@
   {
     "name": "Kooperatyvas \"Neries vingis\"",
     "code": "305659018",
-    "address": "Elektrėnų sav., Kazokiškių sen., Zabarijos k., Tilto g. 7, LT-21353"
+    "address": "Elektrėnų sav., Kazokiškių sen., Zabarijos k., Tilto g. 7, LT-21353",
+    "vatcode": "LT100013677010"
   },
   {
     "name": "Kooperatyvas \"Pamario jautis\"",
@@ -402,7 +430,8 @@
   {
     "name": "Kooperatyvas \"Pienininkai\"",
     "code": "302325294",
-    "address": "Kupiškio r. sav., Alizavos sen., Salamiesčio mstl., Biržų g. 22, LT-40438"
+    "address": "Kupiškio r. sav., Alizavos sen., Salamiesčio mstl., Biržų g. 22, LT-40438",
+    "vatcode": "LT100004649416"
   },
   {
     "name": "Kooperatyvas \"Pieno puta\"",
@@ -424,12 +453,14 @@
   {
     "name": "Kooperatyvas \"Saulėta pieva\"",
     "code": "307024373",
-    "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Sakalėlių g. 8, LT-92400"
+    "address": "Klaipėdos r. sav., Sendvario sen., Radailių k., Sakalėlių g. 8, LT-92400",
+    "vatcode": "LT100017336218"
   },
   {
     "name": "Kooperatyvas \"Tatulos aruodai\"",
     "code": "304050338",
-    "address": "Biržų r. sav., Pabiržės sen., Kirdonių k., Plento g. 38, LT-41372"
+    "address": "Biržų r. sav., Pabiržės sen., Kirdonių k., Plento g. 38, LT-41372",
+    "vatcode": "LT100009454315"
   },
   {
     "name": "Kooperatyvas \"Upienas\"",
@@ -439,7 +470,8 @@
   {
     "name": "Kooperatyvas \"Vedrupys\"",
     "code": "306996141",
-    "address": "Kupiškio r. sav., Šimonių sen., Migonių k., Vedrupio g. 37, LT-40355"
+    "address": "Kupiškio r. sav., Šimonių sen., Migonių k., Vedrupio g. 37, LT-40355",
+    "vatcode": "LT100017231019"
   },
   {
     "name": "Kooperatyvas \"Vente\"",
@@ -450,7 +482,8 @@
   {
     "name": "Kooperatyvas \"Vfarm Agro\"",
     "code": "305625560",
-    "address": "Klaipėdos r. sav., Priekulės sen., Drevernos k., Svencelės g. 1, LT-96240"
+    "address": "Klaipėdos r. sav., Priekulės sen., Drevernos k., Svencelės g. 1, LT-96240",
+    "vatcode": "LT100013408419"
   },
   {
     "name": "Kooperatyvas \"Vilniaus grikiai\"",
@@ -461,12 +494,14 @@
   {
     "name": "Kooperatyvas \"Čer group\"",
     "code": "305535636",
-    "address": "Kupiškio r. sav., Šimonių sen., Migonių k., Vedrupio g. 7, LT-40355"
+    "address": "Kupiškio r. sav., Šimonių sen., Migonių k., Vedrupio g. 7, LT-40355",
+    "vatcode": "LT100013097915"
   },
   {
     "name": "Kooperatyvas \"Šiaulių aruodas\"",
     "code": "302469348",
-    "address": "Šiaulių r. sav., Kužių sen., Beržynės k., Sodų g. 9, LT-80269"
+    "address": "Šiaulių r. sav., Kužių sen., Beržynės k., Sodų g. 9, LT-80269",
+    "vatcode": "LT100005091912"
   },
   {
     "name": "Kooperatyvas \"Ūkio ratas\"",
@@ -486,7 +521,8 @@
   {
     "name": "Kooperatyvas \"Žemčiuga\"",
     "code": "305782120",
-    "address": "Kupiškio r. sav., Šimonių sen., Aluotų k., Tvenkinio g. 3, LT-40320"
+    "address": "Kupiškio r. sav., Šimonių sen., Aluotų k., Tvenkinio g. 3, LT-40320",
+    "vatcode": "LT100014097910"
   },
   {
     "name": "Kooperatyvas 100 procentų LT",
@@ -496,7 +532,8 @@
   {
     "name": "Kooperatyvas Derliaus centras",
     "code": "306054335",
-    "address": "Vilniaus r. sav., Kalvelių sen., Kenos k., Laisvės g. 76, LT-13146"
+    "address": "Vilniaus r. sav., Kalvelių sen., Kenos k., Laisvės g. 76, LT-13146",
+    "vatcode": "LT100014953211"
   },
   {
     "name": "Kooperatyvas Giedraičių agroservisas",
@@ -517,7 +554,8 @@
   {
     "name": "Kruopių žemės ūkio kooperatyvas",
     "code": "305697638",
-    "address": "Akmenės r. sav., Kruopių sen., Gembūčių k. 1B, LT-85202"
+    "address": "Akmenės r. sav., Kruopių sen., Gembūčių k. 1B, LT-85202",
+    "vatcode": "LT100013842111"
   },
   {
     "name": "Kėdainių rajono vartotojų kooperatyvas",
@@ -545,7 +583,8 @@
   {
     "name": "Miško savininkų kooperatyvas \"AUKŠTAITIJOS ŠILAS\"",
     "code": "167598520",
-    "address": "Molėtai, Inturkės g. 55, LT-33131"
+    "address": "Molėtai, Inturkės g. 55, LT-33131",
+    "vatcode": "LT675985219"
   },
   {
     "name": "Miško savininkų kooperatyvas \"JONAVOS ŠILAS\"",
@@ -556,7 +595,8 @@
   {
     "name": "Miško savininkų kooperatyvas \"Jonavos miškai\"",
     "code": "300010232",
-    "address": "Jonavos r. sav., Užusalių sen., Išorų k., Neries g. 4, LT-55328"
+    "address": "Jonavos r. sav., Užusalių sen., Išorų k., Neries g. 4, LT-55328",
+    "vatcode": "LT100001134514"
   },
   {
     "name": "Miško savininkų kooperatyvas \"Miško žemė\"",
@@ -567,7 +607,8 @@
   {
     "name": "Miško savininkų kooperatyvas \"Privati girininkija\"",
     "code": "300077252",
-    "address": "Kretingos r. sav., Žalgirio sen., Žutautų k., Pamiškės g. 7, LT-97361"
+    "address": "Kretingos r. sav., Žalgirio sen., Žutautų k., Pamiškės g. 7, LT-97361",
+    "vatcode": "LT100001408918"
   },
   {
     "name": "Miško savininkų kooperatyvas \"Zanavykų šilas\"",
@@ -578,22 +619,26 @@
   {
     "name": "Miško savininkų kooperatyvas \"Žemaitijos šilas\"",
     "code": "300005961",
-    "address": "Kretingos r. sav., Darbėnų sen., Grūšlaukės k., Mokyklos g. 1-1, LT-97290"
+    "address": "Kretingos r. sav., Darbėnų sen., Grūšlaukės k., Mokyklos g. 1-1, LT-97290",
+    "vatcode": "LT100001075212"
   },
   {
     "name": "Miškų savininkų kooperatyvas \"Tauragės šilas\"",
     "code": "279903710",
-    "address": "Tauragė, Klevų g. 14"
+    "address": "Tauragė, Klevų g. 14",
+    "vatcode": "LT799037113"
   },
   {
     "name": "Molėtų rajono vartotojų kooperatyvas",
     "code": "167525472",
-    "address": "Molėtai, Vilniaus g. 95A, LT-33111"
+    "address": "Molėtai, Vilniaus g. 95A, LT-33111",
+    "vatcode": "LT675254716"
   },
   {
     "name": "Nemenčinės vartotojų kooperatyvas",
     "code": "286074320",
-    "address": "Vilniaus r. sav., Nemenčinė, Švenčionių g. 43, LT-15168"
+    "address": "Vilniaus r. sav., Nemenčinė, Švenčionių g. 43, LT-15168",
+    "vatcode": "LT860743219"
   },
   {
     "name": "Nemuno deltos kooperatyvas",
@@ -604,7 +649,8 @@
   {
     "name": "Pakruojo vartotojų kooperatyvas",
     "code": "167927282",
-    "address": "Pakruojis, Statybininkų g. 6A, LT-83182"
+    "address": "Pakruojis, Statybininkų g. 6A, LT-83182",
+    "vatcode": "LT679272811"
   },
   {
     "name": "Pienininkystės kooperatyvas \"ŽALMARGĖ\"",
@@ -615,7 +661,8 @@
   {
     "name": "Raseinių vartotojų kooperatyvas \"Dubysa\"",
     "code": "172257054",
-    "address": "Raseiniai, Vytauto Didžiojo g. 5, LT-60149"
+    "address": "Raseiniai, Vytauto Didžiojo g. 5, LT-60149",
+    "vatcode": "LT722570515"
   },
   {
     "name": "Rečionių lentpjūvės kooperatyvas",
@@ -625,22 +672,26 @@
   {
     "name": "Trakų rajono vartotojų kooperatyvas",
     "code": "181225828",
-    "address": "Trakų r. sav., Trakų sen., Žaizdrių k."
+    "address": "Trakų r. sav., Trakų sen., Žaizdrių k.",
+    "vatcode": "LT812258219"
   },
   {
     "name": "Tyrų laukų kooperatyvas",
     "code": "303179604",
-    "address": "Elektrėnų sav., Vievis, Stoties g. 65, LT-21366"
+    "address": "Elektrėnų sav., Vievis, Stoties g. 65, LT-21366",
+    "vatcode": "LT100008881616"
   },
   {
     "name": "UAB \"Leonpolio dvaro kooperatyvas\"",
     "code": "305737723",
-    "address": "Ukmergės r. sav., Deltuvos sen., Leonpolio k., Sodo g. 12, LT-20288"
+    "address": "Ukmergės r. sav., Deltuvos sen., Leonpolio k., Sodo g. 12, LT-20288",
+    "vatcode": "LT100014030910"
   },
   {
     "name": "Ukmergės rajono vartotojų kooperatyvas",
     "code": "182906466",
-    "address": "Ukmergė, Vasario 16-osios g. 30, LT-20130"
+    "address": "Ukmergė, Vasario 16-osios g. 30, LT-20130",
+    "vatcode": "LT829064610"
   },
   {
     "name": "Utenos ūkininkų kooperatyvas",
@@ -656,7 +707,8 @@
   {
     "name": "Vartotojų kooperatyvas \"Kelmės prekyba\"",
     "code": "162447386",
-    "address": "Kelmė, Vytauto Didžiojo g. 51, LT-86135"
+    "address": "Kelmė, Vytauto Didžiojo g. 51, LT-86135",
+    "vatcode": "LT624473811"
   },
   {
     "name": "Vartotojų kooperatyvas \"ŽEMDIRBIŲ GLOBĖJAS\"",
@@ -668,6 +720,10 @@
     "name": "Veislinių galvijų augintojų kooperatyvas",
     "code": "306630820",
     "address": "Širvintų r. sav., Alionių sen., Trimputiškių k. 7, LT-19145"
+  },
+  {
+    "name": "Šalčininkų rajono vartotojų kooperatyvas",
+    "code": "174924831"
   },
   {
     "name": "Širvintų vartotojų kooperatyvas \"Veivera\"",
@@ -683,12 +739,14 @@
   {
     "name": "ŽEMĖS ŪKIO KOOPERATYVAS \"Dievo karvutė\"",
     "code": "303142100",
-    "address": "Utenos r. sav., Vyžuonų sen., Šiaudinių k., Senojo Kaimo g. 3, LT-28376"
+    "address": "Utenos r. sav., Vyžuonų sen., Šiaudinių k., Senojo Kaimo g. 3, LT-28376",
+    "vatcode": "LT100008979917"
   },
   {
     "name": "ŽEMĖS ŪKIO KOOPERATYVAS \"NAUJIEJI BERNIŪNAI\"",
     "code": "168948621",
-    "address": "Panevėžio r. sav., Naujamiesčio sen., Berniūnų k."
+    "address": "Panevėžio r. sav., Naujamiesčio sen., Berniūnų k.",
+    "vatcode": "LT689486219"
   },
   {
     "name": "ŽEMĖS ŪKIO KOOPERATYVAS \"ŠEIMYNIŠKIAI\"",
@@ -715,12 +773,14 @@
   {
     "name": "Žemės ūkio kooperatyvas \"AgroBokštai\"",
     "code": "302485217",
-    "address": "Vilnius, Konstitucijos pr. 21C, LT-08105"
+    "address": "Vilnius, Konstitucijos pr. 21C, LT-08105",
+    "vatcode": "LT100005266016"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Agroimpulsas\"",
     "code": "275032430",
-    "address": "Šalčininkų r. sav., Butrimonių sen., Jančiūnų k., Parko g. 22, LT-17154"
+    "address": "Šalčininkų r. sav., Butrimonių sen., Jančiūnų k., Parko g. 22, LT-17154",
+    "vatcode": "LT750324314"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Agrolanka\"",
@@ -737,7 +797,8 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Bajorų žemė\"",
     "code": "173728979",
-    "address": "Rokiškio r. sav., Rokiškio kaimiškoji sen., Bajorų k., Bajorų g. 22B, LT-42102"
+    "address": "Rokiškio r. sav., Rokiškio kaimiškoji sen., Bajorų k., Bajorų g. 22B, LT-42102",
+    "vatcode": "LT737289716"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Baltas lašas\"",
@@ -753,7 +814,8 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Baltoji smilga\"",
     "code": "164818064",
-    "address": "Kupiškio r. sav., Kupiškio sen., Papilių k."
+    "address": "Kupiškio r. sav., Kupiškio sen., Papilių k.",
+    "vatcode": "LT648180610"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Beržai\"",
@@ -788,7 +850,8 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Dubysa agro\"",
     "code": "305650994",
-    "address": "Raseinių r. sav., Betygalos sen., Ilgižių III k., Paminklo g. 11, LT-60483"
+    "address": "Raseinių r. sav., Betygalos sen., Ilgižių III k., Paminklo g. 11, LT-60483",
+    "vatcode": "LT100013540711"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Dusetų krašto gaspadoriai\"",
@@ -816,17 +879,20 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Ekologinė sėklininkystė\"",
     "code": "300585425",
-    "address": "Kaišiadorių r. sav., Žaslių sen., Žuvų k., Žuvų g. 23, LT-56414"
+    "address": "Kaišiadorių r. sav., Žaslių sen., Žuvų k., Žuvų g. 23, LT-56414",
+    "vatcode": "LT100009597118"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Ekoop\"",
     "code": "307053065",
-    "address": "Kaunas, R. Kalantos g. 171-7, LT-52326"
+    "address": "Kaunas, R. Kalantos g. 171-7, LT-52326",
+    "vatcode": "LT100017481613"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Festuma\"",
     "code": "302916322",
-    "address": "Anykščių r. sav., Kavarsko sen., Knitiškių k. 5, LT-29250"
+    "address": "Anykščių r. sav., Kavarsko sen., Knitiškių k. 5, LT-29250",
+    "vatcode": "LT100012029410"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Gelmė\"",
@@ -843,7 +909,8 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Jakiškiai\"",
     "code": "157636321",
-    "address": "Joniškio r. sav., Gataučių sen., Gataučių k., Eglynlaukio g. 1, LT-84262"
+    "address": "Joniškio r. sav., Gataučių sen., Gataučių k., Eglynlaukio g. 1, LT-84262",
+    "vatcode": "LT100008756118"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Jonavos javai\"",
@@ -864,7 +931,8 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Jukagros\"",
     "code": "305010834",
-    "address": "Jonava, Darbininkų g. 4, LT-55101"
+    "address": "Jonava, Darbininkų g. 4, LT-55101",
+    "vatcode": "LT100012242915"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Juodoji uoga\"",
@@ -875,17 +943,24 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Kairių ūkis\"",
     "code": "302615194",
-    "address": "Panevėžio r. sav., Naujamiesčio sen., Gustonių k., M. Kriaučiūno g. 15, LT-38355"
+    "address": "Panevėžio r. sav., Naujamiesčio sen., Gustonių k., M. Kriaučiūno g. 15, LT-38355",
+    "vatcode": "LT100009547010"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Kirienos krantas\"",
     "code": "157701146",
-    "address": "Joniškio r. sav., Kepalių sen., Šlapakių k., Šlapakių g. 16, LT-84197"
+    "address": "Joniškio r. sav., Kepalių sen., Šlapakių k., Šlapakių g. 16, LT-84197",
+    "vatcode": "LT577011419"
+  },
+  {
+    "name": "Žemės ūkio kooperatyvas \"Klevų Būda\"",
+    "code": "158931545"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Krosnos pienas\"",
     "code": "300667267",
-    "address": "Lazdijų r. sav., Krosnos sen., Pėdiškių k., Akmenų g. 4, LT-67441"
+    "address": "Lazdijų r. sav., Krosnos sen., Pėdiškių k., Akmenų g. 4, LT-67441",
+    "vatcode": "LT100003082710"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Kėdainių krašto cukriniai runkeliai\"",
@@ -895,17 +970,20 @@
   {
     "name": "Žemės ūkio kooperatyvas \"LIETUVIŠKAS PIENAS\"",
     "code": "174444565",
-    "address": "Kaunas, K. Donelaičio g. 2, LT-44213"
+    "address": "Kaunas, K. Donelaičio g. 2, LT-44213",
+    "vatcode": "LT100015870310"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"LIT-KOOP\"",
     "code": "302482089",
-    "address": "Kėdainių r. sav., Josvainių sen., Juodkaimių k., Gėlių g. 2, LT-58196"
+    "address": "Kėdainių r. sav., Josvainių sen., Juodkaimių k., Gėlių g. 2, LT-58196",
+    "vatcode": "LT100005204813"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Lagrenas\"",
     "code": "305049132",
-    "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k., Inovacijų g. 3, LT-54469"
+    "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k., Inovacijų g. 3, LT-54469",
+    "vatcode": "LT100012233613"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Lietuviška mėsa\"",
@@ -921,7 +999,8 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Lietuviškas ūkis\"",
     "code": "302300138",
-    "address": "Šakių r. sav., Šakių sen., Girėnų k., Kauno g. 50, LT-71129"
+    "address": "Šakių r. sav., Šakių sen., Girėnų k., Kauno g. 50, LT-71129",
+    "vatcode": "LT100005124418"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Lietuviško ūkio kokybė\"",
@@ -932,17 +1011,20 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Linkuvos kraštas\"",
     "code": "168041353",
-    "address": "Pakruojo r. sav., Linkuva, S. Dariaus ir S. Girėno g. 32A, LT-83446"
+    "address": "Pakruojo r. sav., Linkuva, S. Dariaus ir S. Girėno g. 32A, LT-83446",
+    "vatcode": "LT680413515"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Lumpėnų Rambynas\"",
     "code": "177095784",
-    "address": "Pagėgių sav., Lumpėnų sen., Lumpėnų k."
+    "address": "Pagėgių sav., Lumpėnų sen., Lumpėnų k.",
+    "vatcode": "LT770957811"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"MELBRAS\"",
     "code": "185480388",
-    "address": "Vilkaviškio r. sav., Bartninkai"
+    "address": "Vilkaviškio r. sav., Bartninkai",
+    "vatcode": "LT854803811"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Mano tau\"",
@@ -963,12 +1045,14 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Nemuno slėnio tradicijos\"",
     "code": "300041224",
-    "address": "Lazdijų r. sav., Kučiūnų sen., Kučiūnų k., Alnos g. 15-4, LT-67371"
+    "address": "Lazdijų r. sav., Kučiūnų sen., Kučiūnų k., Alnos g. 15-4, LT-67371",
+    "vatcode": "LT100001188311"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Normas\"",
     "code": "302487271",
-    "address": "Vilkaviškio r. sav., Virbalis, Vilniaus g. 6, LT-70389"
+    "address": "Vilkaviškio r. sav., Virbalis, Vilniaus g. 6, LT-70389",
+    "vatcode": "LT100005231810"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Novasa\"",
@@ -979,12 +1063,18 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Olrevita\"",
     "code": "185341118",
-    "address": "Vilkaviškio r. sav., Kybartų sen., Gudkaimio k."
+    "address": "Vilkaviškio r. sav., Kybartų sen., Gudkaimio k.",
+    "vatcode": "LT853411113"
+  },
+  {
+    "name": "Žemės ūkio kooperatyvas \"PAŠALYS\"",
+    "code": "158999222"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"PRIE PAĮSTRIO\"",
     "code": "268652790",
-    "address": "Panevėžio r. sav., Paįstrio sen., Gegužinės k., Verslo g. 8, LT-38428"
+    "address": "Panevėžio r. sav., Paįstrio sen., Gegužinės k., Verslo g. 8, LT-38428",
+    "vatcode": "LT686527917"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Paežerių pienas\"",
@@ -995,17 +1085,20 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Panevėžio aruodas\"",
     "code": "304292672",
-    "address": "Panevėžio r. sav., Naujamiesčio sen., Gustonių k., Šiaulių g. 84, LT-38355"
+    "address": "Panevėžio r. sav., Naujamiesčio sen., Gustonių k., Šiaulių g. 84, LT-38355",
+    "vatcode": "LT100010280816"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Pašarai\"",
     "code": "300108235",
-    "address": "Skuodas, Vytauto g. 8-22, LT-98123"
+    "address": "Skuodas, Vytauto g. 8-22, LT-98123",
+    "vatcode": "LT100002796717"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Pienas LT\"",
     "code": "302291237",
-    "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k., Kokybės g. 1, LT-54469"
+    "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k., Kokybės g. 1, LT-54469",
+    "vatcode": "LT100004465913"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Pieno šaltinis\"",
@@ -1021,17 +1114,20 @@
   {
     "name": "Žemės ūkio kooperatyvas \"REŠKETĖNAI\"",
     "code": "280768590",
-    "address": "Telšių r. sav., Žarėnai, Alytaus g. 7, LT-88381"
+    "address": "Telšių r. sav., Žarėnai, Alytaus g. 7, LT-88381",
+    "vatcode": "LT807685917"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Radviliškio aruodas\"",
     "code": "304541351",
-    "address": "Radviliškis, Gedimino g. 52, LT-82168"
+    "address": "Radviliškis, Gedimino g. 52, LT-82168",
+    "vatcode": "LT100010952411"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Rūšna\"",
     "code": "300113047",
-    "address": "Skuodo r. sav., Skuodo sen., Kanyzelio k., J. Basanavičiaus g. 53, LT-98101"
+    "address": "Skuodo r. sav., Skuodo sen., Kanyzelio k., J. Basanavičiaus g. 53, LT-98101",
+    "vatcode": "LT100001679910"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"SGC\"",
@@ -1045,9 +1141,14 @@
     "address": "Vilniaus r. sav., Sudervės sen., Rastinėnų k."
   },
   {
+    "name": "Žemės ūkio kooperatyvas \"SODŽIAI\"",
+    "code": "302475714"
+  },
+  {
     "name": "Žemės ūkio kooperatyvas \"SUVALKIJOS PIENAS\"",
     "code": "151429433",
-    "address": "Šakių r. sav., Lukšiai, Pergalės g. 10, LT-71177"
+    "address": "Šakių r. sav., Lukšiai, Pergalės g. 10, LT-71177",
+    "vatcode": "LT100002843210"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Sartų lankų jautiena\"",
@@ -1068,17 +1169,20 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Senoji kryžkelė\"",
     "code": "185489565",
-    "address": "Vilkaviškio r. sav., Pilviškių sen., Alksnėnų k."
+    "address": "Vilkaviškio r. sav., Pilviškių sen., Alksnėnų k.",
+    "vatcode": "LT854895610"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Sosdvaris\"",
     "code": "168082026",
-    "address": "Pakruojo r. sav., Pašvitinio sen., Sosdvario k., Kranto g. 18, LT-83100"
+    "address": "Pakruojo r. sav., Pašvitinio sen., Sosdvario k., Kranto g. 18, LT-83100",
+    "vatcode": "LT680820219"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Suvalkijos daržovės\"",
     "code": "303041770",
-    "address": "Šakių r. sav., Kriūkų sen., Jokūbonių k., Jokūbonių g. 10, LT-71217"
+    "address": "Šakių r. sav., Kriūkų sen., Jokūbonių k., Jokūbonių g. 10, LT-71217",
+    "vatcode": "LT100007762712"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"SŪDUVOS CUKRINIAI RUNKELIAI\"",
@@ -1098,7 +1202,8 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Ylakių aruodas\"",
     "code": "304754367",
-    "address": "Skuodo r. sav., Ylakiai, Žvaigždžių g. 6, LT-98348"
+    "address": "Skuodo r. sav., Ylakiai, Žvaigždžių g. 6, LT-98348",
+    "vatcode": "LT100011414816"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Šarkiai\"",
@@ -1113,12 +1218,14 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Šiaurinė valda\"",
     "code": "302615187",
-    "address": "Šiaulių r. sav., Gruzdžių sen., Poviliškių k. 15, LT-81411"
+    "address": "Šiaulių r. sav., Gruzdžių sen., Poviliškių k. 15, LT-81411",
+    "vatcode": "LT100009528115"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Šiaurės aruodai\"",
     "code": "303166884",
-    "address": "Pasvalio r. sav., Pasvalio apylinkių sen., Talačkonių k., Baltijos Kelio g. 1C, LT-39199"
+    "address": "Pasvalio r. sav., Pasvalio apylinkių sen., Talačkonių k., Baltijos Kelio g. 1C, LT-39199",
+    "vatcode": "LT100009523810"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Šilalės Agro\"",
@@ -1129,7 +1236,12 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Šušvės žemė\"",
     "code": "302618767",
-    "address": "Kelmės r. sav., Tytuvėnų apylinkių sen., Pašiaušės k., Vilties g. 2, LT-86443"
+    "address": "Kelmės r. sav., Tytuvėnų apylinkių sen., Pašiaušės k., Vilties g. 2, LT-86443",
+    "vatcode": "LT100007656116"
+  },
+  {
+    "name": "Žemės ūkio kooperatyvas \"ŪKPAS\"",
+    "code": "167594842"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Ūkininkų paslaugos\"",
@@ -1144,7 +1256,8 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Žemaitijos aruodai\"",
     "code": "303472429",
-    "address": "Kretingos r. sav., Žalgirio sen., Raguviškių k., Mišučių g. 2, LT-97160"
+    "address": "Kretingos r. sav., Žalgirio sen., Raguviškių k., Mišučių g. 2, LT-97160",
+    "vatcode": "LT100009018610"
   },
   {
     "name": "Žemės ūkio kooperatyvas \"Žemaitijos mėsa\"",
@@ -1155,7 +1268,8 @@
   {
     "name": "Žemės ūkio kooperatyvas Alseikiai",
     "code": "305820635",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Peskojų k., Alseikių g. 7, LT-96334"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Peskojų k., Alseikių g. 7, LT-96334",
+    "vatcode": "LT100014226611"
   },
   {
     "name": "Žemės ūkio kooperatyvas Aukštaitijos aruodai",
@@ -1166,7 +1280,8 @@
   {
     "name": "Žemės ūkio kooperatyvas Biržų sėklos",
     "code": "303469504",
-    "address": "Biržų r. sav., Parovėjos sen., Paežerių k., Apaščios g. 13, LT-41189"
+    "address": "Biržų r. sav., Parovėjos sen., Paežerių k., Apaščios g. 13, LT-41189",
+    "vatcode": "LT100009040819"
   },
   {
     "name": "Žemės ūkio kooperatyvas Lithuanian cattle",
@@ -1182,22 +1297,26 @@
   {
     "name": "Žemės ūkio kooperatyvas Nagarbos ūkis",
     "code": "164073478",
-    "address": "Kretingos r. sav., Kretingos sen., Rūdaičių k."
+    "address": "Kretingos r. sav., Kretingos sen., Rūdaičių k.",
+    "vatcode": "LT640734716"
   },
   {
     "name": "Žemės ūkio kooperatyvas Plant",
     "code": "304857431",
-    "address": "Elektrėnų sav., Kietaviškių sen., Kareivonių k., Šiltnamių g. 4, LT-21411"
+    "address": "Elektrėnų sav., Kietaviškių sen., Kareivonių k., Šiltnamių g. 4, LT-21411",
+    "vatcode": "LT100011711518"
   },
   {
     "name": "Žemės ūkio kooperatyvas Sėlių aruodai",
     "code": "303469536",
-    "address": "Biržų r. sav., Parovėjos sen., Paežerių k., Apaščios g. 13, LT-41189"
+    "address": "Biržų r. sav., Parovėjos sen., Paežerių k., Apaščios g. 13, LT-41189",
+    "vatcode": "LT100009040718"
   },
   {
     "name": "Žemės ūkio kooperatyvas VIDUKLĖ",
     "code": "302647352",
-    "address": "Raseiniai, Jurbarko g. 35, LT-60177"
+    "address": "Raseiniai, Jurbarko g. 35, LT-60177",
+    "vatcode": "LT100006301215"
   },
   {
     "name": "Žemės ūkio paslaugų kooperatyvas \"Pamario žiedas\"",
@@ -1213,11 +1332,6 @@
     "name": "Anykščių rajono vartotojų kooperatyvo darbuotojų profesinė sąjunga",
     "code": "154330294",
     "address": "Anykščiai, J. Biliūno g. 4, LT-29114"
-  },
-  {
-    "name": "Garliavos vartotojų kooperatyvo darbuotojų profesinė sąjunga",
-    "code": "159987575",
-    "address": "Kauno r. sav., Garliava, Vytauto g. 69"
   },
   {
     "name": "Joniškio vartotojų kooperatyvo darbuotojų profesinė sąjunga",
@@ -1277,7 +1391,8 @@
   {
     "name": "Kooperatinė bendrovė Lietuvos kooperatyvų sąjunga",
     "code": "110054563",
-    "address": "Vilnius, Gedimino pr. 28, LT-01104"
+    "address": "Vilnius, Gedimino pr. 28, LT-01104",
+    "vatcode": "LT100000021411"
   },
   {
     "name": "Lietuvos kooperatyvų konfederacija",
@@ -1319,11 +1434,7 @@
   {
     "name": "UAB \"Koopverslas\"",
     "code": "300592423",
-    "address": "Klaipėda, Sulupės g. 7, LT-93241"
-  },
-  {
-    "name": "UAB \"Koopverslas\" darbuotojų profesinė sąjunga",
-    "code": "141711466",
-    "address": "Klaipėda, Sulupės g. 7, LT-93241"
+    "address": "Klaipėda, Sulupės g. 7, LT-93241",
+    "vatcode": "LT100002595517"
   }
 ]

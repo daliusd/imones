@@ -41,6 +41,16 @@
     "address": "Širvintų r. sav., Zibalų sen., Drublionių k., Bitininkų g. 15, LT-19100"
   },
   {
+    "name": "IĮ \"Antano žirgai\"",
+    "code": "304924129",
+    "address": "Mažeikių r. sav., Reivyčių sen., Reivyčių k., Samanų g. 27, LT-89309"
+  },
+  {
+    "name": "IĮ Jojimo centras \"Aistės žirgai\"",
+    "code": "304835723",
+    "address": "Telšių r. sav., Viešvėnų sen., Rainių k., Telšių g. 6, LT-88401"
+  },
+  {
     "name": "Jojimo sporto klubas \"Saulėtekio žirgai\"",
     "code": "307570116",
     "address": "Kaunas, Užliedžių g. 7B-1, LT-47262"
@@ -78,7 +88,8 @@
   {
     "name": "MB \"Rytų žirgai\"",
     "code": "305563201",
-    "address": "Ignalinos r. sav., Ignalinos sen., Petriškės k., Petravo g. 19, LT-30200"
+    "address": "Ignalinos r. sav., Ignalinos sen., Petriškės k., Petravo g. 19, LT-30200",
+    "vatcode": "LT100013361510"
   },
   {
     "name": "Sporto klubas \"Priekulės žirgai\"",
@@ -108,12 +119,14 @@
   {
     "name": "UAB \"Laisvalaikio žirgai\"",
     "code": "305702277",
-    "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Mėguvos g. 13, LT-14166"
+    "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Mėguvos g. 13, LT-14166",
+    "vatcode": "LT100014122713"
   },
   {
     "name": "UAB \"Plieno žirgai\"",
     "code": "303095768",
-    "address": "Klaipėdos r. sav., Priekulės sen., Priekulės II k., Žirgų g. 6, LT-96359"
+    "address": "Klaipėdos r. sav., Priekulės sen., Priekulės II k., Žirgų g. 6, LT-96359",
+    "vatcode": "LT100007900412"
   },
   {
     "name": "Viešoji įstaiga \"Seirijų žirgai\"",
@@ -138,7 +151,8 @@
   {
     "name": "VšĮ \"Gintariniai žirgai\"",
     "code": "304514532",
-    "address": "Palanga, Vanagupės g. 16A-2, LT-00172"
+    "address": "Palanga, Vanagupės g. 16A-2, LT-00172",
+    "vatcode": "LT100013875915"
   },
   {
     "name": "VšĮ \"Laimos žirgai\"",
@@ -148,7 +162,8 @@
   {
     "name": "VšĮ \"Odeta ir žirgai\"",
     "code": "304489545",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100018982417"
   },
   {
     "name": "VšĮ \"Pamario žirgai\"",
@@ -181,6 +196,10 @@
     "address": "Klaipėdos r. sav., Dovilų sen., Šiūparių k., Agluonos g. 50, LT-96165"
   },
   {
+    "name": "Žirgininkystės klubas \"Ventos žirgai\"",
+    "code": "162943133"
+  },
+  {
     "name": "Žirginio sporto klubas \"Naujadvario žirgai\"",
     "code": "302282537",
     "address": "Trakų r. sav., Trakų sen., Jovariškių k., Jovarų g. 5, LT-21101"
@@ -196,6 +215,12 @@
     "address": "Alytaus r. sav., Alytaus sen., Luksnėnų k., Sodų g. 26, LT-64382"
   },
   {
+    "name": "IĮ \"Karališkas žirgas\"",
+    "code": "301732974",
+    "address": "Kaunas, Savanorių pr. 192, LT-44151",
+    "vatcode": "LT100004195613"
+  },
+  {
     "name": "Jojimo centras Žirgas, UAB",
     "code": "302554364",
     "address": "Vilniaus r. sav., Dūkštų sen., Pūstelninkų k. 1, LT-14230",
@@ -204,7 +229,8 @@
   {
     "name": "MB Sidabrinis žirgas",
     "code": "306429618",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Voveriškių k., Žirgyno g. 7, LT-77194"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Voveriškių k., Žirgyno g. 7, LT-77194",
+    "vatcode": "LT100016672117"
   },
   {
     "name": "MB Tobulas žirgas",
@@ -233,6 +259,10 @@
     "address": "Ignalinos r. sav., Ignalinos sen., Leileikų k. 7, LT-30191"
   },
   {
+    "name": "UAB \"Žirgeliai\"",
+    "code": "302937430"
+  },
+  {
     "name": "Asociacija \"Žirgija\"",
     "code": "305053718",
     "address": "Šiaulių r. sav., Bubių sen., Pašvinių k., Pašvinių g. 15, LT-80228"
@@ -253,6 +283,10 @@
     "address": "Vilnius, Jogailos g. 4, LT-01116"
   },
   {
+    "name": "Žirgininkystės klubas \"Ventos žirgai\"",
+    "code": "162943133"
+  },
+  {
     "name": "LAZDIJŲ ŽIRGININKŲ KLUBAS",
     "code": "300860871",
     "address": "Lazdijų r. sav., Šeštokų sen., Krosnėnų k., Beržų g. 25, LT-67445"
@@ -270,7 +304,8 @@
   {
     "name": "Lietuvos žirginio sporto federacija",
     "code": "190738598",
-    "address": "Vilnius, Žemaitės g. 6, LT-03117"
+    "address": "Vilnius, Žemaitės g. 6, LT-03117",
+    "vatcode": "LT100001158612"
   },
   {
     "name": "Marijampolės žirginio sporto ir turizmo klubas \"Horsina\"",
@@ -320,7 +355,8 @@
   {
     "name": "UAB \"ŽIRGINĖLIS\"",
     "code": "144893013",
-    "address": "Šiauliai, Pramonės g. 21H, LT-78136"
+    "address": "Šiauliai, Pramonės g. 21H, LT-78136",
+    "vatcode": "LT448930113"
   },
   {
     "name": "Asociacija \"Seno žirgo namai\"",
@@ -376,12 +412,28 @@
   {
     "name": "Asocijacija \"Sanatorijoje su žirgu\"",
     "code": "305646405",
-    "address": "Druskininkų sav., Leipalingio sen., Kaziulių k., Leipalingio pl. 5, LT-67281"
+    "address": "Druskininkų sav., Leipalingio sen., Kaziulių k., Leipalingio pl. 5, LT-67281",
+    "vatcode": "LT100014234410"
+  },
+  {
+    "name": "Luko Jono Žirgulio IĮ",
+    "code": "305721701",
+    "address": "Vilnius, Santariškių g. 75-34, LT-08457"
   },
   {
     "name": "VšĮ \"Mylėkime žirgus\"",
     "code": "305739336",
     "address": "Kaunas, T. Daugirdo g. 7-15, LT-44279"
+  },
+  {
+    "name": "Flow State žirgynas",
+    "code": "307600545",
+    "address": "Vilniaus r. sav., Rukainių sen., Šinkalaukio k., Čepurniškių g. 3, LT-13179"
+  },
+  {
+    "name": "IĮ Kurorto žirgynas",
+    "code": "305211545",
+    "address": "Palanga, Kurorto g. 26, LT-00200"
   },
   {
     "name": "MB \"Žirgynas pegasas\"",
@@ -411,22 +463,26 @@
   {
     "name": "UAB \"Lietuvos žirgynas\"",
     "code": "302795881",
-    "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Žirgų g. 2, LT-14265"
+    "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Žirgų g. 2, LT-14265",
+    "vatcode": "LT100006915819"
   },
   {
     "name": "UAB \"Pajūrio žirgynas\"",
     "code": "302916151",
-    "address": "Klaipėda, Baltijos pr. 53A, LT-94125"
+    "address": "Klaipėda, Baltijos pr. 53A, LT-94125",
+    "vatcode": "LT100007425315"
   },
   {
     "name": "UAB \"Veiverių žirgynas\"",
     "code": "302687261",
-    "address": "Prienų r. sav., Veiveriai, Pažėrų g. 6D, LT-59293"
+    "address": "Prienų r. sav., Veiveriai, Pažėrų g. 6D, LT-59293",
+    "vatcode": "LT100008919610"
   },
   {
     "name": "UAB Vilono žirgynas",
     "code": "306323885",
-    "address": "Vilnius, Švitrigailos g. 8-205, LT-03223"
+    "address": "Vilnius, Švitrigailos g. 8-205, LT-03223",
+    "vatcode": "LT100016084819"
   },
   {
     "name": "Viešoji įstaiga \"Rietavo žirgynas\"",
@@ -450,12 +506,14 @@
   {
     "name": "VšĮ Rodeo klubas Marvelės žirgynas",
     "code": "304996185",
-    "address": "Kaunas, Marvelės g. 199, LT-46202"
+    "address": "Kaunas, Marvelės g. 199, LT-46202",
+    "vatcode": "LT100013483910"
   },
   {
     "name": "VšĮ sporto klubas Aukštaitijos žirgynas",
     "code": "304150406",
-    "address": "Panevėžys, Ramygalos g. 154G, LT-36224"
+    "address": "Panevėžys, Ramygalos g. 154G, LT-36224",
+    "vatcode": "LT100009844812"
   },
   {
     "name": "ŽEMĖS ŪKIO BENDROVĖ \"ŽIRGYNAS\"",
@@ -465,7 +523,8 @@
   {
     "name": "Žemės ūkio bendrovė Vilniaus žirgynas",
     "code": "286072650",
-    "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Žirgyno g. 3, LT-14196"
+    "address": "Vilniaus r. sav., Avižienių sen., Bendorių k., Žirgyno g. 3, LT-14196",
+    "vatcode": "LT860726515"
   },
   {
     "name": "Žirginio sporto klubas \"Utenos žirgynas\"",
@@ -507,22 +566,26 @@
   {
     "name": "UAB \"Sportinių žirgų investicija\"",
     "code": "303496857",
-    "address": "Palanga, Virbališkės tak. 3J-7, LT-00127"
+    "address": "Palanga, Virbališkės tak. 3J-7, LT-00127",
+    "vatcode": "LT100009089115"
   },
   {
     "name": "UAB \"Žirgų pasaulis\"",
     "code": "302318385",
-    "address": "Vilnius, Tuputiškių g. 42, LT-11300"
+    "address": "Vilnius, Tuputiškių g. 42, LT-11300",
+    "vatcode": "LT100004644913"
   },
   {
     "name": "UAB Žirgų Turtas",
     "code": "304198575",
-    "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Žirgų g. 3, LT-14158"
+    "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Žirgų g. 3, LT-14158",
+    "vatcode": "LT100010021919"
   },
   {
     "name": "Viešoji įstaiga Respublikinė lenktyninių žirgų lyga",
     "code": "135486011",
-    "address": "Lazdijų r. sav., Lazdijų sen., Buktos k. 2, LT-67168"
+    "address": "Lazdijų r. sav., Lazdijų sen., Buktos k. 2, LT-67168",
+    "vatcode": "LT100016090712"
   },
   {
     "name": "Vilniaus raj. sav., Zujūnų sen., Antežerių k., Žirgų g. gyvenamųjų namų savininkų bendrija \"Žirgų slėnis\"",

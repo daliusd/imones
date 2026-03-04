@@ -1,5 +1,10 @@
 [
   {
+    "name": "Henriko Godos įmonė \"KODA\"",
+    "code": "168448477",
+    "address": "Panevėžio r. sav., Karsakiškio sen., Breiviškių k."
+  },
+  {
     "name": "MB KODA Lab",
     "code": "307552680",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
@@ -23,22 +28,26 @@
   {
     "name": "MB Pasaulio kodai",
     "code": "305943431",
-    "address": "Vilnius, Kreivasis skg. 18-28, LT-01205"
+    "address": "Vilnius, Kreivasis skg. 18-28, LT-01205",
+    "vatcode": "LT100014541412"
   },
   {
     "name": "MB Sodo kodai",
     "code": "305682547",
-    "address": "Vilnius, Paribio g. 16-55, LT-08101"
+    "address": "Vilnius, Paribio g. 16-55, LT-08101",
+    "vatcode": "LT100013714210"
   },
   {
     "name": "UAB \"Kodai\"",
     "code": "304606219",
-    "address": "Vilnius, Džiaugsmo g. 52H, LT-11302"
+    "address": "Vilnius, Džiaugsmo g. 52H, LT-11302",
+    "vatcode": "LT100011096815"
   },
   {
     "name": "UAB \"Vido kodai\"",
     "code": "306146634",
-    "address": "Vilnius, Girulių g. 10, LT-12112"
+    "address": "Vilnius, Girulių g. 10, LT-12112",
+    "vatcode": "LT100015328317"
   },
   {
     "name": "MB Kodalijus",
@@ -48,7 +57,8 @@
   {
     "name": "MB Kodame",
     "code": "306221108",
-    "address": "Panevėžys, Ramygalos g. 61-38, LT-36217"
+    "address": "Panevėžys, Ramygalos g. 61-38, LT-36217",
+    "vatcode": "LT100017130317"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"KODARA\"",
@@ -109,7 +119,28 @@
   {
     "name": "Gudrus kodas, MB",
     "code": "306986909",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017633212"
+  },
+  {
+    "name": "IĮ \"Kodas - mudu\"",
+    "code": "304984432",
+    "address": "Klaipėda, Dragūnų g. 6-40, LT-92331",
+    "vatcode": "LT100013380011"
+  },
+  {
+    "name": "IĮ \"Vilko kodas\"",
+    "code": "304498213",
+    "address": "Klaipėda, Baltijos pr. 12B-111, LT-94108"
+  },
+  {
+    "name": "IĮ \"Švaros kodas\"",
+    "code": "302808460",
+    "address": "Šakių r. sav., Griškabūdžio sen., Degutinės k., Degutinės g. 12, LT-71297"
+  },
+  {
+    "name": "Kauno apsaugos policijos skyriaus prie VPK AGS elektromonterių profesinės sąjungos įmonė \"Aliarmo kodas\"",
+    "code": "135203292"
   },
   {
     "name": "Kirpimo kodas, UAB",
@@ -128,6 +159,11 @@
     "address": "Vilnius, Gabijos g. 2-91, LT-12103"
   },
   {
+    "name": "Kovotojo Kodas",
+    "code": "307591594",
+    "address": "Panevėžio r. sav., Karsakiškio sen., Paliūniškio k., Žemdirbių g. 9, LT-38439"
+  },
+  {
     "name": "Kvadratinis kodas, MB",
     "code": "307010078",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -140,7 +176,8 @@
   {
     "name": "MB \"Apdailos kodas\"",
     "code": "304977516",
-    "address": "Šilutės r. sav., Šilutės sen., Grabupių k., Kampo g. 7, LT-99152"
+    "address": "Šilutės r. sav., Šilutės sen., Grabupių k., Kampo g. 7, LT-99152",
+    "vatcode": "LT100012518518"
   },
   {
     "name": "MB \"Asinchroninis kodas\"",
@@ -157,7 +194,8 @@
   {
     "name": "MB \"Baldų kodas\"",
     "code": "307038871",
-    "address": "Vilnius, Jonažolių g. 3-13, LT-04134"
+    "address": "Vilnius, Jonažolių g. 3-13, LT-04134",
+    "vatcode": "LT100019051314"
   },
   {
     "name": "MB \"Darnus kodas\"",
@@ -182,7 +220,8 @@
   {
     "name": "MB \"Drūtas kodas\"",
     "code": "305643302",
-    "address": "Alytaus r. sav., Alytaus sen., Praniūnų k., Nemuno g. 34, LT-62187"
+    "address": "Alytaus r. sav., Alytaus sen., Praniūnų k., Nemuno g. 34, LT-62187",
+    "vatcode": "LT100017681212"
   },
   {
     "name": "MB \"Dzūko kodas\"",
@@ -197,12 +236,17 @@
   {
     "name": "MB \"Finansų kodas\"",
     "code": "307540404",
-    "address": "Vilnius, Dubelės g. 7, LT-14121"
+    "address": "Vilnius, Dubelės g. 7, LT-14121",
+    "vatcode": "LT100019453810"
   },
   {
     "name": "MB \"Gamybos kodas\"",
     "code": "303150168",
     "address": "Vilnius, S. Žukausko g. 34-52, LT-08235"
+  },
+  {
+    "name": "MB \"Geros laboratorijos kodas\"",
+    "code": "304587402"
   },
   {
     "name": "MB \"Giluminis kodas\"",
@@ -220,6 +264,11 @@
     "address": "Šakiai, Bažnyčios g. 56, LT-71123"
   },
   {
+    "name": "MB \"Gyvybės kodas\"",
+    "code": "307581714",
+    "address": "Vilnius, Švedų g. 6A, LT-11329"
+  },
+  {
     "name": "MB \"Išmanusis kodas\"",
     "code": "306260367",
     "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Stumbro g. 30, LT-53277"
@@ -227,7 +276,8 @@
   {
     "name": "MB \"Jaunystės kodas\"",
     "code": "303298416",
-    "address": "Kaunas, Baltijos g. 45-12, LT-48298"
+    "address": "Kaunas, Baltijos g. 45-12, LT-48298",
+    "vatcode": "LT100014342912"
   },
   {
     "name": "MB \"Kitas kodas\"",
@@ -252,17 +302,20 @@
   {
     "name": "MB \"Kodas nuo nulio\"",
     "code": "305146439",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100014619210"
   },
   {
     "name": "MB \"Kūrybinis Kodas\"",
     "code": "306968074",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019644017"
   },
   {
     "name": "MB \"Mako kodas\"",
     "code": "304158278",
-    "address": "Vilniaus r. sav., Marijampolio sen., Kalvelių k., Miško g. 3, LT-13213"
+    "address": "Vilniaus r. sav., Marijampolio sen., Kalvelių k., Miško g. 3, LT-13213",
+    "vatcode": "LT100009971117"
   },
   {
     "name": "MB \"Mano kodas\"",
@@ -298,12 +351,14 @@
   {
     "name": "MB \"Nesuprantamas kodas\"",
     "code": "307555954",
-    "address": "Palanga, Austėjos g. 16, LT-00205"
+    "address": "Palanga, Austėjos g. 16, LT-00205",
+    "vatcode": "LT100019587418"
   },
   {
     "name": "MB \"Net kodas\"",
     "code": "306318564",
-    "address": "Vilnius, Justiniškių g. 64A-56, LT-05239"
+    "address": "Vilnius, Justiniškių g. 64A-56, LT-05239",
+    "vatcode": "LT100016307410"
   },
   {
     "name": "MB \"Nt kodas\"",
@@ -318,17 +373,20 @@
   {
     "name": "MB \"Pakuotės kodas\"",
     "code": "305943584",
-    "address": "Kaunas, Raudondvario pl. 230-215, LT-47157"
+    "address": "Kaunas, Raudondvario pl. 230-215, LT-47157",
+    "vatcode": "LT100014573017"
   },
   {
     "name": "MB \"Pardavimų kodas\"",
     "code": "304959710",
-    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
+    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120",
+    "vatcode": "LT100012122510"
   },
   {
     "name": "MB \"Pirmas kodas\"",
     "code": "306129624",
-    "address": "Kaunas, Birželio 23-iosios g. 8-19, LT-50423"
+    "address": "Kaunas, Birželio 23-iosios g. 8-19, LT-50423",
+    "vatcode": "LT100016394411"
   },
   {
     "name": "MB \"Ponas kodas\"",
@@ -338,7 +396,8 @@
   {
     "name": "MB \"Projekto kodas\"",
     "code": "303262548",
-    "address": "Vilnius, Padekaniškių g. 44-34, LT-06232"
+    "address": "Vilnius, Padekaniškių g. 44-34, LT-06232",
+    "vatcode": "LT100012822515"
   },
   {
     "name": "MB \"Reaktyvinis kodas\"",
@@ -353,7 +412,8 @@
   {
     "name": "MB \"Rinkodaros kodas\"",
     "code": "305885273",
-    "address": "Kaunas, Tvirtovės al. 83-8, LT-50154"
+    "address": "Kaunas, Tvirtovės al. 83-8, LT-50154",
+    "vatcode": "LT100017034212"
   },
   {
     "name": "MB \"Saugus kodas\"",
@@ -380,17 +440,20 @@
   {
     "name": "MB \"Tinkamas kodas\"",
     "code": "304894255",
-    "address": "Elektrėnai, Pergalės g. 5-2, LT-26126"
+    "address": "Elektrėnai, Pergalės g. 5-2, LT-26126",
+    "vatcode": "LT100012399713"
   },
   {
     "name": "MB \"Turbo kodas\"",
     "code": "307559963",
-    "address": "Vilnius, Pylimėlių g. 26-17, LT-10229"
+    "address": "Vilnius, Pylimėlių g. 26-17, LT-10229",
+    "vatcode": "LT100019569510"
   },
   {
     "name": "MB \"Tvarkingas kodas\"",
     "code": "305328000",
-    "address": "Vilniaus r. sav., Nemėžio sen., Kuprioniškių k., Ilgoji g. 43A-2, LT-13279"
+    "address": "Vilniaus r. sav., Nemėžio sen., Kuprioniškių k., Ilgoji g. 43A-2, LT-13279",
+    "vatcode": "LT100012793718"
   },
   {
     "name": "MB \"Tylus kodas\"",
@@ -405,7 +468,8 @@
   {
     "name": "MB \"Vandenvalos kodas\"",
     "code": "305273415",
-    "address": "Kaunas, Šiaurės pr. 79-18, LT-49217"
+    "address": "Kaunas, Šiaurės pr. 79-18, LT-49217",
+    "vatcode": "LT100013723815"
   },
   {
     "name": "MB \"Vytauto kodas\"",
@@ -420,7 +484,8 @@
   {
     "name": "MB \"Šiaurės kodas\"",
     "code": "305211680",
-    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Kalnelio g. 3A, LT-81490"
+    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Kalnelio g. 3A, LT-81490",
+    "vatcode": "LT100017323317"
   },
   {
     "name": "MB 18 kodas",
@@ -430,12 +495,14 @@
   {
     "name": "MB Akademija DNR KODAS",
     "code": "306787355",
-    "address": "Vilnius, Trinapolio g. 27-6, LT-08344"
+    "address": "Vilnius, Trinapolio g. 27-6, LT-08344",
+    "vatcode": "LT100019656515"
   },
   {
     "name": "MB Apskaitos kodas lt",
     "code": "306278657",
-    "address": "Pasvalys, Svalios g. 15, LT-39152"
+    "address": "Pasvalys, Svalios g. 15, LT-39152",
+    "vatcode": "LT100017952712"
   },
   {
     "name": "MB Augimo kodas",
@@ -445,7 +512,8 @@
   {
     "name": "MB Baldo kodas",
     "code": "306138922",
-    "address": "Alytaus r. sav., Punios sen., Medukštos k., Genių g. 6, LT-64469"
+    "address": "Alytaus r. sav., Punios sen., Medukštos k., Genių g. 6, LT-64469",
+    "vatcode": "LT100016310410"
   },
   {
     "name": "MB Binarinis kodas",
@@ -465,7 +533,8 @@
   {
     "name": "MB Elektros kodas",
     "code": "306396716",
-    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Beržų g. 39-2, LT-54310"
+    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Beržų g. 39-2, LT-54310",
+    "vatcode": "LT100016224414"
   },
   {
     "name": "MB Garso kodas",
@@ -490,7 +559,8 @@
   {
     "name": "MB Idėjų kodas",
     "code": "307130864",
-    "address": "Vilnius, Dilgynės g. 3B-1, LT-11307"
+    "address": "Vilnius, Dilgynės g. 3B-1, LT-11307",
+    "vatcode": "LT100017758719"
   },
   {
     "name": "MB Judesio kodas",
@@ -505,7 +575,8 @@
   {
     "name": "MB KP kodas",
     "code": "305660141",
-    "address": "Vilnius, S. Žukausko g. 49-44, LT-09131"
+    "address": "Vilnius, S. Žukausko g. 49-44, LT-09131",
+    "vatcode": "LT100013564517"
   },
   {
     "name": "MB Kodas lokys",
@@ -515,7 +586,8 @@
   {
     "name": "MB Kruzo kodas",
     "code": "306795836",
-    "address": "Vilnius, Žirmūnų g. 26-73, LT-09229"
+    "address": "Vilnius, Žirmūnų g. 26-73, LT-09229",
+    "vatcode": "LT100017506612"
   },
   {
     "name": "MB Laimės Kodas",
@@ -525,12 +597,18 @@
   {
     "name": "MB Laisvas kodas",
     "code": "307017560",
-    "address": "Širvintų r. sav., Gelvonų sen., Mančiušėnų k., Mančiušėnų g. 23, LT-19200"
+    "address": "Širvintų r. sav., Gelvonų sen., Mančiušėnų k., Mančiušėnų g. 23, LT-19200",
+    "vatcode": "LT100017321411"
   },
   {
     "name": "MB Maisto kodas",
     "code": "307232043",
     "address": "Kaišiadorių r. sav., Žiežmarių apylinkės sen., Kibučių k., Kibučių g. 42, LT-56265"
+  },
+  {
+    "name": "MB Maisto saugos kodas",
+    "code": "307601907",
+    "address": "Marijampolės sav., Mokolų sen., Mokolų k., Vėdrynų g. 6, LT-68461"
   },
   {
     "name": "MB Melo kodas",
@@ -540,7 +618,8 @@
   {
     "name": "MB Mitybos kodas",
     "code": "307551048",
-    "address": "Kaunas, V. Krėvės pr. 27-56, LT-49466"
+    "address": "Kaunas, V. Krėvės pr. 27-56, LT-49466",
+    "vatcode": "LT100019653319"
   },
   {
     "name": "MB Pamatai ir kodas",
@@ -555,7 +634,8 @@
   {
     "name": "MB Plieno kodas",
     "code": "307158422",
-    "address": "Kupiškis, Alyvų g. 13, LT-40112"
+    "address": "Kupiškis, Alyvų g. 13, LT-40112",
+    "vatcode": "LT100018633117"
   },
   {
     "name": "MB Prieigos kodas",
@@ -591,7 +671,13 @@
   {
     "name": "MB Sklandus kodas",
     "code": "306050034",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100015795319"
+  },
+  {
+    "name": "MB Sprendimo kodas",
+    "code": "307577541",
+    "address": "Varėnos r. sav., Valkininkų sen., Pirčiupių k., Klevų g. 6, LT-65446"
   },
   {
     "name": "MB Transformacijos kodas",
@@ -627,12 +713,14 @@
   {
     "name": "MB Švaresnis kodas",
     "code": "306661958",
-    "address": "Vilnius, Dvarčionių Sodų 3-ioji g. 5, LT-10234"
+    "address": "Vilnius, Dvarčionių Sodų 3-ioji g. 5, LT-10234",
+    "vatcode": "LT100016574712"
   },
   {
     "name": "MB Šviesos Kodas",
     "code": "307087480",
-    "address": "Anykščių r. sav., Anykščių sen., Ažuožerių k., Sturtupio g. 13-1, LT-29171"
+    "address": "Anykščių r. sav., Anykščių sen., Ažuožerių k., Sturtupio g. 13-1, LT-29171",
+    "vatcode": "LT100019062410"
   },
   {
     "name": "UAB \"Aistės kodas\"",
@@ -652,6 +740,10 @@
     "vatcode": "LT100004627513"
   },
   {
+    "name": "UAB \"Apskaitos kodas\"",
+    "code": "300151158"
+  },
+  {
     "name": "UAB \"Atviras kodas verslui\"",
     "code": "302253973",
     "address": "Vilnius, Naugarduko g. 91-211"
@@ -668,6 +760,10 @@
     "vatcode": "LT355510219"
   },
   {
+    "name": "UAB \"Gatvės kodas\"",
+    "code": "304857926"
+  },
+  {
     "name": "UAB \"Inovacijų kodas\"",
     "code": "307091386",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
@@ -680,7 +776,8 @@
   {
     "name": "UAB \"Jūros kodas\"",
     "code": "305705946",
-    "address": "Klaipėda, Kauno g. 19-71, LT-91158"
+    "address": "Klaipėda, Kauno g. 19-71, LT-91158",
+    "vatcode": "LT100016893011"
   },
   {
     "name": "UAB \"KALBOS KODAS\"",
@@ -697,7 +794,8 @@
   {
     "name": "UAB \"Kopenhagos kodas\"",
     "code": "304485810",
-    "address": "Vilnius, Antakalnio g. 17, LT-10312"
+    "address": "Vilnius, Antakalnio g. 17, LT-10312",
+    "vatcode": "LT100011218019"
   },
   {
     "name": "UAB \"Kvapo kodas\"",
@@ -708,7 +806,8 @@
   {
     "name": "UAB \"Meistro kodas\"",
     "code": "302498339",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Stanaičių k., Kumės g. 8, LT-53285"
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Stanaičių k., Kumės g. 8, LT-53285",
+    "vatcode": "LT100005319313"
   },
   {
     "name": "UAB \"Miesto kodas\"",
@@ -728,12 +827,14 @@
   {
     "name": "UAB \"Pirminis kodas\"",
     "code": "303184964",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100008186010"
   },
   {
     "name": "UAB \"Prekybos kodas\"",
     "code": "305361395",
-    "address": "Šiauliai, Vilniaus g. 72, LT-76283"
+    "address": "Šiauliai, Vilniaus g. 72, LT-76283",
+    "vatcode": "LT100012823311"
   },
   {
     "name": "UAB \"RINKOS KODAS\"",
@@ -743,7 +844,8 @@
   {
     "name": "UAB \"Reklamos kodas\"",
     "code": "302713382",
-    "address": "Vilnius, Laisvės pr. 71B-10, LT-07189"
+    "address": "Vilnius, Laisvės pr. 71B-10, LT-07189",
+    "vatcode": "LT100006625918"
   },
   {
     "name": "UAB \"SAULĖS KODAS\"",
@@ -765,7 +867,8 @@
   {
     "name": "UAB \"Solidus kodas\"",
     "code": "304447806",
-    "address": "Šiauliai, Gardino g. 23-91, LT-78238"
+    "address": "Šiauliai, Gardino g. 23-91, LT-78238",
+    "vatcode": "LT100011161011"
   },
   {
     "name": "UAB \"Spalvos kodas\"",
@@ -798,12 +901,14 @@
   {
     "name": "UAB \"Tikslus kodas\"",
     "code": "304893114",
-    "address": "Vilnius, T. Ševčenkos g. 16K-403, LT-03111"
+    "address": "Vilnius, T. Ševčenkos g. 16K-403, LT-03111",
+    "vatcode": "LT100011945010"
   },
   {
     "name": "UAB \"VANDENS KODAS\"",
     "code": "159976931",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Rinkūnų k."
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Rinkūnų k.",
+    "vatcode": "LT599769314"
   },
   {
     "name": "UAB \"Vasaros kodas\"",
@@ -814,12 +919,14 @@
   {
     "name": "UAB \"Verslo kodas\"",
     "code": "300531502",
-    "address": "Panevėžys, Beržų g. 31-41, LT-36202"
+    "address": "Panevėžys, Beržų g. 31-41, LT-36202",
+    "vatcode": "LT100002800610"
   },
   {
     "name": "UAB \"X kodas\"",
     "code": "305236915",
-    "address": "Marijampolė, Gedimino g. 28A, LT-68305"
+    "address": "Marijampolė, Gedimino g. 28A, LT-68305",
+    "vatcode": "LT100012583114"
   },
   {
     "name": "UAB \"Šildymo kodas\"",
@@ -829,7 +936,8 @@
   {
     "name": "UAB \"Šilumos kodas\"",
     "code": "305788632",
-    "address": "Šiauliai, Gardino g. 27-1, LT-78238"
+    "address": "Šiauliai, Gardino g. 27-1, LT-78238",
+    "vatcode": "LT100014126110"
   },
   {
     "name": "UAB AI kodas",
@@ -839,12 +947,14 @@
   {
     "name": "UAB Gamtos kodas",
     "code": "300060776",
-    "address": "Vilniaus r. sav., Bezdonių sen., Bezdonių k., Užupio g. 53, LT-15203"
+    "address": "Vilniaus r. sav., Bezdonių sen., Bezdonių k., Užupio g. 53, LT-15203",
+    "vatcode": "LT100018585113"
   },
   {
     "name": "UAB Interneto kodas",
     "code": "307130106",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100018271013"
   },
   {
     "name": "UAB Kava ir kodas",
@@ -926,6 +1036,10 @@
     "name": "VšĮ Kodas penki",
     "code": "305713996",
     "address": "Šiauliai, Tilžės g. 31A-17, LT-78229"
+  },
+  {
+    "name": "VšĮ Sportinių šokių klubas \"Šokio kodas\"",
+    "code": "302574744"
   },
   {
     "name": "MB Kodaslab",

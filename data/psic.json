@@ -1,5 +1,15 @@
 [
   {
+    "name": "Individuali įmonė \"Nino Mackinos psichiatrijos ir psichoterapijos praktika\"",
+    "code": "301892587",
+    "address": "Vilnius, J. Basanavičiaus g. 6-13, LT-01118"
+  },
+  {
+    "name": "IĮ \"Astos Strigockaitės psichiatrijos kabinetas\"",
+    "code": "300138463",
+    "address": "Vilnius, Kazliškių g. 13-14, LT-09204"
+  },
+  {
     "name": "Kauno psichiatrijos ligoninės sveikatos apsaugos darbuotojų profesinė sąjunga",
     "code": "300046627",
     "address": "Kaunas, Gedimino g. 33-11, LT-44311"
@@ -40,11 +50,6 @@
     "address": "Klaipėda, Panevėžio g. 9-46, LT-92316"
   },
   {
-    "name": "Rokiškio psichiatrijos ligoninės profesinė sąjunga \"Solidarumas\"",
-    "code": "173745213",
-    "address": "Rokiškis, Vytauto g. 47, LT-42100"
-  },
-  {
     "name": "UAB Nepriklausoma teismo psichiatrijos tarnyba",
     "code": "303048035",
     "address": "Vilnius, Džiaugsmo g. 22, LT-11306"
@@ -57,7 +62,7 @@
   {
     "name": "Valstybinė teismo psichiatrijos tarnyba prie Sveikatos apsaugos ministerijos",
     "code": "191671615",
-    "address": "Vilnius, A. Kojelavičiaus g. 121, LT-11106"
+    "address": "Vilnius, Kalvarijų g. 153, LT-08352"
   },
   {
     "name": "Viešoji įstaiga \"Rokiškio psichiatrijos ligoninė\"",
@@ -72,7 +77,8 @@
   {
     "name": "Viešoji įstaiga RESPUBLIKINĖ VILNIAUS PSICHIATRIJOS LIGONINĖ",
     "code": "124247526",
-    "address": "Vilnius, Parko g. 21, LT-11205"
+    "address": "Vilnius, Parko g. 21, LT-11205",
+    "vatcode": "LT242475219"
   },
   {
     "name": "Viešoji įstaiga SENAMIESČIO PSICHIATRIJOS IR PSICHOTERAPIJOS CENTRAS",
@@ -93,6 +99,10 @@
     "name": "VšĮ Modernios psichologijos, psichoterapijos ir psichiatrijos centras",
     "code": "307162666",
     "address": "Vilniaus r. sav., Pagirių sen., Pagirių k., Šiltnamių g. 16-23, LT-14116"
+  },
+  {
+    "name": "VšĮ Respublikinės Vilniaus psichiatrijos ligoninės darbuotojų profesinė sąjunga",
+    "code": "304502697"
   },
   {
     "name": "VšĮ Respublikinės Šiaulių ligoninės Psichiatrijos klinikos darbuotojų profesinė sąjunga",
@@ -148,6 +158,10 @@
     "name": "Anykščių rajono psichikos sveikatos centras",
     "code": "154335074",
     "address": "Anykščiai, Vinco Kudirkos g. 1, LT-29145"
+  },
+  {
+    "name": "Biržų rajono sutrikusios psichikos žmonių globos bendrija",
+    "code": "255318470"
   },
   {
     "name": "Joniškio rajono sutrikusios psichikos žmonių globos bendrija",
@@ -254,6 +268,10 @@
     "address": "Kaunas, Kovo 11-osios g. 22, LT-51349"
   },
   {
+    "name": "UAB Skuodo psichikos sveikatos ir psichoterapijos centras",
+    "code": "300890640"
+  },
+  {
     "name": "UAB ŠILALĖS PSICHIKOS SVEIKATOS IR PSICHOLOGINIO KONSULTAVIMO CENTRAS",
     "code": "300575153",
     "address": "Šilalė, Maironio g. 20A, LT-75136"
@@ -321,7 +339,8 @@
   {
     "name": "Viešoji įstaiga Vilniaus miesto psichikos sveikatos centras",
     "code": "224244940",
-    "address": "Vilnius, Vasaros g. 5, LT-10309"
+    "address": "Vilnius, Vasaros g. 5, LT-10309",
+    "vatcode": "LT242449416"
   },
   {
     "name": "Viešoji įstaiga ŽIRMŪNŲ PSICHIKOS SVEIKATOS CENTRAS",
@@ -341,12 +360,18 @@
   {
     "name": "VšĮ \"Psichikos sveikatos perspektyvos\"",
     "code": "125446837",
-    "address": "Vilnius, Vasaros g. 3, LT-10309"
+    "address": "Vilnius, Vasaros g. 3, LT-10309",
+    "vatcode": "LT100018997314"
   },
   {
     "name": "VšĮ \"Žmogaus teisių ir psichikos sveikatos centras\"",
     "code": "306185854",
     "address": "Vilnius, Igno Šimulionio g. 4-223, LT-04331"
+  },
+  {
+    "name": "VšĮ Skuodo psichikos sveikatos centras",
+    "code": "307595062",
+    "address": "Skuodo r. sav., Ylakių sen., Vižančių k., Mokyklos g. 1-6, LT-98322"
   },
   {
     "name": "Šakių rajono sutrikusios psichikos žmonių globos bendrija",
@@ -447,12 +472,17 @@
   {
     "name": "MB \"Visi psichologai\"",
     "code": "305535458",
-    "address": "Alytus, Lelijų g. 106A, LT-62146"
+    "address": "Alytus, Lelijų g. 106A, LT-62146",
+    "vatcode": "LT100014998613"
   },
   {
     "name": "MB \"Šeimos psichologas\"",
     "code": "307091500",
     "address": "Vilnius, Šeškinės g. 65-23, LT-07163"
+  },
+  {
+    "name": "UAB \"Tavo psichologas\"",
+    "code": "300044957"
   },
   {
     "name": "VšĮ Psichologas",
@@ -462,12 +492,14 @@
   {
     "name": "MB \"Gyvoji psichologija\"",
     "code": "305423808",
-    "address": "Vilnius, Liepyno g. 2-65, LT-08108"
+    "address": "Vilnius, Liepyno g. 2-65, LT-08108",
+    "vatcode": "LT100019160713"
   },
   {
     "name": "MB \"Mitybos psichologija\"",
     "code": "306208993",
-    "address": "Kaunas, Mirtų g. 12D, LT-46442"
+    "address": "Kaunas, Mirtų g. 12D, LT-46442",
+    "vatcode": "LT100019014118"
   },
   {
     "name": "MB \"Psichologija 365\"",
@@ -487,12 +519,14 @@
   {
     "name": "MB \"Psichologija\"",
     "code": "305467701",
-    "address": "Panevėžys, Parko g. 97-10, LT-37308"
+    "address": "Panevėžys, Parko g. 97-10, LT-37308",
+    "vatcode": "LT100018239817"
   },
   {
     "name": "MB \"Žaidimo psichologija\"",
     "code": "305770171",
-    "address": "Prienų r. sav., Balbieriškio sen., Nešeikių k., Panemunės g. 6, LT-59240"
+    "address": "Prienų r. sav., Balbieriškio sen., Nešeikių k., Panemunės g. 6, LT-59240",
+    "vatcode": "LT100018007019"
   },
   {
     "name": "MB Asmenybės psichologija",
@@ -507,7 +541,8 @@
   {
     "name": "MB Moderni verslo psichologija",
     "code": "306984000",
-    "address": "Klaipėda, Debreceno g. 20-76, LT-94144"
+    "address": "Klaipėda, Debreceno g. 20-76, LT-94144",
+    "vatcode": "LT100019035010"
   },
   {
     "name": "MB Talentų psichologija",
@@ -518,7 +553,8 @@
   {
     "name": "Psichologija tau, UAB",
     "code": "305655945",
-    "address": "Vilnius, Trakų g. 8, LT-01132"
+    "address": "Vilnius, Trakų g. 8, LT-01132",
+    "vatcode": "LT100013548919"
   },
   {
     "name": "Sportas ir psichologija MB",
@@ -528,7 +564,8 @@
   {
     "name": "UAB \"Darbo psichologija\"",
     "code": "301532361",
-    "address": "Vilnius, Šaltupio g. 9, LT-02300"
+    "address": "Vilnius, Šaltupio g. 9, LT-02300",
+    "vatcode": "LT100004796216"
   },
   {
     "name": "UAB Vaikų psichologija",
@@ -569,6 +606,10 @@
     "name": "Individualiosios psichologijos konsultantų asociacija",
     "code": "302645127",
     "address": "Vilnius, Sausio 13-osios g. 21-30, LT-04347"
+  },
+  {
+    "name": "L. Cemnalianskienės psichologijos konsultavimo įmonė",
+    "code": "179879482"
   },
   {
     "name": "LIETUVOS ANALITINĖS PSICHOLOGIJOS ASOCIACIJA",
@@ -613,7 +654,8 @@
   {
     "name": "MB \"Psichologijos laboratorija\"",
     "code": "305591407",
-    "address": "Ukmergės r. sav., Veprių sen., Kultuvėnų k., Klevų g. 26, LT-20265"
+    "address": "Ukmergės r. sav., Veprių sen., Kultuvėnų k., Klevų g. 26, LT-20265",
+    "vatcode": "LT100018382812"
   },
   {
     "name": "MB \"Psichologijos mokslas ir praktika\"",
@@ -664,7 +706,8 @@
   {
     "name": "Psichologijos akademija, UAB",
     "code": "302608246",
-    "address": "Vilnius, Trakų g. 8, LT-01132"
+    "address": "Vilnius, Trakų g. 8, LT-01132",
+    "vatcode": "LT100006390515"
   },
   {
     "name": "Psichologijos centras",
@@ -674,7 +717,8 @@
   {
     "name": "Psichologijos mokymų centras, UAB",
     "code": "305743263",
-    "address": "Širvintų r. sav., Zibalai, Gojaus g. 1, LT-19106"
+    "address": "Širvintų r. sav., Zibalai, Gojaus g. 1, LT-19106",
+    "vatcode": "LT100014333519"
   },
   {
     "name": "Psichologijos paslaugų centras",
@@ -694,12 +738,14 @@
   {
     "name": "UAB \"Žmogaus psichologijos studija\"",
     "code": "300561755",
-    "address": "Kaunas, Vieškūnų g. 19, LT-51432"
+    "address": "Kaunas, Vieškūnų g. 19, LT-51432",
+    "vatcode": "LT100005217916"
   },
   {
     "name": "UAB Vadybos ir psichologijos (VIP) institutas",
     "code": "301809538",
-    "address": "Vilniaus r. sav., Avižienių sen., Gilužių k., Gilužio g. 9, LT-14195"
+    "address": "Vilniaus r. sav., Avižienių sen., Gilužių k., Gilužio g. 9, LT-14195",
+    "vatcode": "LT100014464314"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA INDIVIDUALIOSIOS PSICHOLOGIJOS INSTITUTAS",
@@ -791,6 +837,11 @@
     "address": "Vilnius, Veiverių g. 9B-41, LT-11346"
   },
   {
+    "name": "IĮ V. Kerdoko \"Psichologinio konsultavimo tarnyba\"",
+    "code": "141428532",
+    "address": "Klaipėda, Taikos pr. 38, LT-91218"
+  },
+  {
     "name": "MB Psichologinio konsultavimo ir psichoterapijos praktika",
     "code": "307035544",
     "address": "Vilnius, V. Grybo g. 40-29B, LT-10326"
@@ -818,7 +869,8 @@
   {
     "name": "VšĮ \"PSICHOLOGINIO KONSULTAVIMO GRUPĖ\"",
     "code": "302471491",
-    "address": "Kaunas, K. Škirpos g. 15-35, LT-49211"
+    "address": "Kaunas, K. Škirpos g. 15-35, LT-49211",
+    "vatcode": "LT100016185712"
   },
   {
     "name": "VšĮ Lėlių terapijos ir psichologinio konsultavimo centras",
@@ -859,6 +911,10 @@
     "name": "Alytaus miesto pedagoginė psichologinė tarnyba",
     "code": "195320656",
     "address": "Alytus, Miklusėnų g. 36, LT-62333"
+  },
+  {
+    "name": "J. H. Rapalio psichologinė konsultacija \"Rapalis ir partneriai\"",
+    "code": "134687221"
   },
   {
     "name": "Kaišiadorių pedagoginė psichologinė tarnyba",
@@ -962,6 +1018,11 @@
     "address": "Druskininkai, Vilniaus al. 24, LT-66119"
   },
   {
+    "name": "IĮ D. Jakeliūnienės psichologinės psichoterapijos kabinetas",
+    "code": "300509908",
+    "address": "Vilnius, S. Žukausko g. 33, LT-09129"
+  },
+  {
     "name": "Lietuvos psichologinės pagalbos ir savipagalbos asociacija",
     "code": "305588496",
     "address": "Kaunas, Tvirtovės al. 90A, LT-50185"
@@ -1005,7 +1066,8 @@
   {
     "name": "Viešoji įstaiga Psichologinės paramos ir konsultavimo centras",
     "code": "160303227",
-    "address": "Kaunas, Laisvės al. 38C, LT-44240"
+    "address": "Kaunas, Laisvės al. 38C, LT-44240",
+    "vatcode": "LT100018084517"
   },
   {
     "name": "Viešoji įstaiga Vaiko psichologinės pagalbos centras",
@@ -1021,6 +1083,10 @@
     "name": "VšĮ \"Psichologinės konsultacijos\"",
     "code": "305137283",
     "address": "Vilnius, Birželio 23-iosios g. 4-7, LT-03204"
+  },
+  {
+    "name": "VšĮ Ligos paliestųjų psichologinės pagalbos centras",
+    "code": "304042633"
   },
   {
     "name": "VšĮ Psichologinės gerovės centras",
@@ -1100,7 +1166,8 @@
   {
     "name": "UAB \"Psichomera\"",
     "code": "305717375",
-    "address": "Vilnius, Pranciškonų g. 1, LT-01133"
+    "address": "Vilnius, Pranciškonų g. 1, LT-01133",
+    "vatcode": "LT100014520016"
   },
   {
     "name": "Asociacija Nepriklausyk psichopatui",
@@ -1173,9 +1240,34 @@
     "address": "Vilnius, Žirmūnų g. 62-42, LT-09100"
   },
   {
+    "name": "Dr. Vijolės Aputytės psichoterapijos kabinetas",
+    "code": "125908090",
+    "address": "Vilnius, V. Grybo g. 17-19, LT-10318"
+  },
+  {
     "name": "Geštaltinės psichoterapijos institutas \"DIALOGAS\"",
     "code": "302752467",
     "address": "Vilnius, Džiaugsmo g. 74, LT-11302"
+  },
+  {
+    "name": "Individuali įmonė \"Nino Mackinos psichiatrijos ir psichoterapijos praktika\"",
+    "code": "301892587",
+    "address": "Vilnius, J. Basanavičiaus g. 6-13, LT-01118"
+  },
+  {
+    "name": "IĮ Arvydo Packevičiaus psichoterapijos kabinetas",
+    "code": "300554935",
+    "address": "Druskininkai, V. Kudirkos g. 37, LT-66120"
+  },
+  {
+    "name": "IĮ D. Jakeliūnienės psichologinės psichoterapijos kabinetas",
+    "code": "300509908",
+    "address": "Vilnius, S. Žukausko g. 33, LT-09129"
+  },
+  {
+    "name": "IĮ VILNIAUS PSICHOTERAPIJOS CENTRAS",
+    "code": "300612025",
+    "address": "Vilnius, J. Basanavičiaus g. 6-13, LT-01118"
   },
   {
     "name": "Kauno psichoanalizės ir psichoterapijos studijų draugija",
@@ -1240,7 +1332,7 @@
   {
     "name": "MB Eurikos Žvinytės psichoterapijos studija",
     "code": "305925433",
-    "address": "Vilnius, Mokyklos g. 3-6, LT-08413"
+    "address": "Vilnius, Trinapolio g. 2-76, LT-08313"
   },
   {
     "name": "MB Giedrės psichoterapijos studija",
@@ -1376,7 +1468,8 @@
   {
     "name": "Psichoterapijos klinika",
     "code": "305698359",
-    "address": "Vilnius, Žemaitijos g. 5-2, LT-01134"
+    "address": "Vilnius, Žemaitijos g. 5-2, LT-01134",
+    "vatcode": "LT100018162613"
   },
   {
     "name": "Sisteminės Šeimos Psichoterapijos Asociacija",
@@ -1387,6 +1480,10 @@
     "name": "UAB Humanistinės ir egzistencinės psichoterapijos institutas",
     "code": "305605561",
     "address": "Vilnius, Bokšto g. 23-24, LT-01301"
+  },
+  {
+    "name": "UAB Skuodo psichikos sveikatos ir psichoterapijos centras",
+    "code": "300890640"
   },
   {
     "name": "Viešoji įstaiga \"Kauno psichologijos ir psichoterapijos institutas\"",
@@ -1441,7 +1538,8 @@
   {
     "name": "VšĮ Vaikų psichoterapijos studija",
     "code": "307565966",
-    "address": "Vilnius, S. Žukausko g. 49-4, LT-09100"
+    "address": "Vilnius, S. Žukausko g. 49-4, LT-09100",
+    "vatcode": "LT100019637710"
   },
   {
     "name": "VšĮ Vilniaus psichoterapijos namai",
@@ -1457,6 +1555,16 @@
     "name": "MB Psichoterapiniai projektai",
     "code": "306098997",
     "address": "Kaunas, Sukilėlių pr. 9A, LT-50166"
+  },
+  {
+    "name": "Individuali įmonė Igorio Kuprijaškino psichoterapinis kabinetas",
+    "code": "182920843",
+    "address": "Ukmergė, Vytauto g. 20, LT-20106"
+  },
+  {
+    "name": "Vytauto Žukausko psichoterapinis kabinetas",
+    "code": "134644355",
+    "address": "Kaunas, Varnių g. 35-63, LT-48416"
   },
   {
     "name": "Bajarūnienės psichoterapinė pagalba \"Savastis\"",

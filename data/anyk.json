@@ -7,12 +7,24 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Anykštos redakcija\"",
     "code": "154129124",
-    "address": "Anykščiai, Vilniaus g. 29, LT-29145"
+    "address": "Anykščiai, Vilniaus g. 29, LT-29145",
+    "vatcode": "LT541291219"
+  },
+  {
+    "name": "IĮ \"Anykštukai\"",
+    "code": "302473777",
+    "address": "Anykščiai, A. Baranausko a. 15A, LT-29132"
   },
   {
     "name": "UAB Anykštukas",
     "code": "302899944",
-    "address": "Anykščiai, Vilniaus g. 30, LT-29145"
+    "address": "Anykščiai, Vilniaus g. 30, LT-29145",
+    "vatcode": "LT100007268810"
+  },
+  {
+    "name": "IĮ \"Anykštėlė\"",
+    "code": "304025363",
+    "address": "Anykščiai, Anykštos g. 15, LT-29111"
   },
   {
     "name": "Pasaulio anykštėnų bendrija",
@@ -27,27 +39,31 @@
   {
     "name": "UAB \"Anykščiai PV\"",
     "code": "305812923",
-    "address": "Vilnius, Ukmergės g. 219-1, LT-07152"
+    "address": "Vilnius, Ukmergės g. 219-1, LT-07152",
+    "vatcode": "LT100014733616"
   },
   {
     "name": "UAB \"Anykščiai Renew\"",
     "code": "305894817",
-    "address": "Vilnius, Ukmergės g. 219-1, LT-07152"
+    "address": "Vilnius, Ukmergės g. 219-1, LT-07152",
+    "vatcode": "LT100014424910"
   },
   {
     "name": "UAB Anykščiai BS",
     "code": "306068274",
-    "address": "Vilniaus r. sav., Avižienių sen., Lindiniškių k., Bajorų g. 26, LT-14181"
+    "address": "Vilnius, Fabijoniškių g. 5C-1031, LT-06335",
+    "vatcode": "LT100018988416"
   },
   {
     "name": "UAB Anykščiai hybrid",
     "code": "305938847",
-    "address": "Vilniaus r. sav., Avižienių sen., Lindiniškių k., Bajorų g. 26, LT-14181"
+    "address": "Klaipėdos r. sav., Priekulės sen., Svencelės k., Pervalkos g. 7, LT-96243"
   },
   {
     "name": "UAB Bitės batai Anykščiai",
     "code": "307186877",
-    "address": "Pasvalio r. sav., Krinčino sen., Pajiešmenių k., Plytinės g. 7, LT-39449"
+    "address": "Pasvalio r. sav., Krinčino sen., Pajiešmenių k., Plytinės g. 7, LT-39449",
+    "vatcode": "LT100018345212"
   },
   {
     "name": "VšĮ Anykščiai Kviečia",
@@ -68,11 +84,6 @@
     "name": "VšĮ \"Tenisas Anykščiuose\"",
     "code": "305744454",
     "address": "Anykščiai, Žiburio g. 5-5, LT-29120"
-  },
-  {
-    "name": "AB \"Anykščių vynas\" profesinė sąjunga \"SOLIDARUMAS\"",
-    "code": "154301595",
-    "address": "Anykščiai, Dariaus ir Girėno g. 8, LT-29131"
   },
   {
     "name": "ANYKŠČIŲ MENININKŲ ASOCIACIJA",
@@ -282,6 +293,10 @@
     "address": "Anykščių r. sav., Kurkliai, Šviesos g. 15, LT-29234"
   },
   {
+    "name": "Anykščių rajono Levaniškio kaimo bendruomenė",
+    "code": "154331243"
+  },
+  {
     "name": "Anykščių rajono Mačionių kaimo bendruomenė",
     "code": "254334920",
     "address": "Anykščių r. sav., Skiemonių sen., Mačionių k."
@@ -342,11 +357,6 @@
     "address": "Anykščiai, Vinco Kudirkos g. 1, LT-29145"
   },
   {
-    "name": "Anykščių rajono dirbančiųjų profesinė sąjunga \"Solidarumas\"",
-    "code": "154300155",
-    "address": "Anykščiai, Vilniaus g. 13, LT-29145"
-  },
-  {
     "name": "Anykščių rajono medžiotojų klubas \"Debeikiai\"",
     "code": "154299482",
     "address": "Anykščių r. sav., Debeikių sen., Mickūnų k. 2, LT-29360"
@@ -380,11 +390,6 @@
     "name": "Anykščių rajono neįgaliųjų draugija",
     "code": "154315762",
     "address": "Anykščiai, Vinco Kudirkos g. 14, LT-29145"
-  },
-  {
-    "name": "Anykščių rajono pašto profesinė sąjunga",
-    "code": "154275054",
-    "address": "Anykščiai, J. Biliūno g. 5, LT-29113"
   },
   {
     "name": "Anykščių rajono psichikos sveikatos centras",
@@ -499,7 +504,8 @@
   {
     "name": "Anykščių rajono vartotojų kooperatyvas",
     "code": "154245634",
-    "address": "Anykščiai, J. Biliūno g. 4, LT-29114"
+    "address": "Anykščiai, J. Biliūno g. 4, LT-29114",
+    "vatcode": "LT542456314"
   },
   {
     "name": "Anykščių rajono vartotojų kooperatyvo darbuotojų profesinė sąjunga",
@@ -539,7 +545,16 @@
   {
     "name": "Anykščių rajono žemės ūkio bendrovė \"Elma\"",
     "code": "154170683",
-    "address": "Anykščių r. sav., Anykščių sen., Elmininkų I k."
+    "address": "Anykščių r. sav., Anykščių sen., Elmininkų I k.",
+    "vatcode": "LT541706811"
+  },
+  {
+    "name": "Anykščių rajono žemės ūkio bendrovė \"Lanka\"",
+    "code": "154178420"
+  },
+  {
+    "name": "Anykščių rajono žemės ūkio bendrovė \"Liva\"",
+    "code": "154199553"
   },
   {
     "name": "Anykščių rajono žemės ūkio bendrovė \"Naujonys\"",
@@ -550,7 +565,8 @@
   {
     "name": "Anykščių rajono žemės ūkio bendrovė \"Sodžius\"",
     "code": "154152856",
-    "address": "Anykščių r. sav., Kavarsko sen., Svirnų II k., Šermukšnių g. 32, LT-29251"
+    "address": "Anykščių r. sav., Kavarsko sen., Svirnų II k., Šermukšnių g. 32, LT-29251",
+    "vatcode": "LT541528515"
   },
   {
     "name": "Anykščių slidinėjimo sporto klubas \"Viesulas\"",
@@ -658,6 +674,11 @@
     "address": "Ukmergė, Anykščių g. 35-41, LT-20178"
   },
   {
+    "name": "IĮ \"Anykščių taksi\"",
+    "code": "154123623",
+    "address": "Anykščiai, Statybininkų g. 13-13, LT-29121"
+  },
+  {
     "name": "Klubas \"Anykščių senjorai\"",
     "code": "301670558",
     "address": "Anykščiai, A. Vienuolio g. 32, LT-29148"
@@ -671,11 +692,6 @@
     "name": "Lietuvos aklųjų ir silpnaregių sąjungos Anykščių rajono filialas",
     "code": "300776583",
     "address": "Anykščiai, Statybininkų g. 23-1, LT-29121"
-  },
-  {
-    "name": "Lietuvos darbininkų sąjungos AB \"Lietuvos spauda\" Anykščių skyriaus darbuotojų profesinė sąjunga",
-    "code": "154302359",
-    "address": "Anykščiai, J. Biliūno g. 5, LT-29113"
   },
   {
     "name": "Lietuvos gatvės vaikų futbolo federacijos Anykščių skyrius",
@@ -725,7 +741,8 @@
   {
     "name": "MB Anykščių transportas",
     "code": "306283483",
-    "address": "Anykščių r. sav., Anykščių sen., Kuniškių k., Kuniškių g. 10, LT-29172"
+    "address": "Anykščių r. sav., Anykščių sen., Kuniškių k., Kuniškių g. 10, LT-29172",
+    "vatcode": "LT100015847517"
   },
   {
     "name": "Panevėžio vysk. Anykščių dekanato šeimos centras",
@@ -782,7 +799,8 @@
   {
     "name": "UAB \"Anykščių daržovės\"",
     "code": "304412207",
-    "address": "Anykščiai, A. Vienuolio g. 32, LT-29149"
+    "address": "Anykščiai, A. Vienuolio g. 32, LT-29149",
+    "vatcode": "LT100010522010"
   },
   {
     "name": "UAB \"Anykščių geodezija\"",
@@ -790,14 +808,10 @@
     "address": "Anykščiai, Dariaus ir Girėno g. 5-33, LT-29116"
   },
   {
-    "name": "UAB \"Anykščių komunalinis ūkis\" profesinė sąjunga \"SOLIDARUMAS\"",
-    "code": "154300917",
-    "address": "Anykščiai, Gegužės g. 47, LT-29107"
-  },
-  {
     "name": "UAB \"Anykščių kvarcas\"",
     "code": "154111464",
-    "address": "Anykščiai, Troškūnų g. 5, LT-29100"
+    "address": "Anykščiai, Troškūnų g. 5, LT-29100",
+    "vatcode": "LT541114610"
   },
   {
     "name": "UAB \"Anykščių sporto ir laisvalaikio centras\"",
@@ -813,17 +827,20 @@
   {
     "name": "UAB \"Anykščių vėjas\"",
     "code": "305341414",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
+    "address": "Vilnius, Jogailos g. 4, LT-01116",
+    "vatcode": "LT100012972013"
   },
   {
     "name": "UAB \"Anykščių šiltnamiai\"",
     "code": "306720709",
-    "address": "Kėdainių r. sav., Josvainių sen., Šingalių k., Lauko g. 1A, LT-58191"
+    "address": "Kėdainių r. sav., Josvainių sen., Šingalių k., Lauko g. 1A, LT-58191",
+    "vatcode": "LT100017014712"
   },
   {
     "name": "UAB Anykščių agrocentras",
     "code": "154334691",
-    "address": "Anykščių r. sav., Anykščių sen., Elmininkų I k., Žvejų g. 13, LT-29155"
+    "address": "Anykščių r. sav., Anykščių sen., Elmininkų I k., Žvejų g. 13, LT-29155",
+    "vatcode": "LT543346917"
   },
   {
     "name": "UAB Anykščių komunalinis ūkis profsąjunginė organizacija",
@@ -860,22 +877,30 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Anykščių medis\"",
     "code": "154204242",
-    "address": "Anykščių r. sav., Anykščių sen., Burbiškio k., Pagraužių g. 14-3, LT-29211"
+    "address": "Anykščių r. sav., Anykščių sen., Burbiškio k., Pagraužių g. 14-3, LT-29211",
+    "vatcode": "LT542042411"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Anykščių profilaktinė dezinfekcija\"",
+    "code": "154159797"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Anykščių vandenys\"",
     "code": "154138664",
-    "address": "Anykščiai, Liudiškių g. 28, LT-29126"
+    "address": "Anykščiai, Liudiškių g. 28, LT-29126",
+    "vatcode": "LT541386610"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Anykščių šiluma\"",
     "code": "154112751",
-    "address": "Anykščiai, Vairuotojų g. 11, LT-29107"
+    "address": "Anykščiai, Vairuotojų g. 11, LT-29107",
+    "vatcode": "LT541127515"
   },
   {
     "name": "Uždaroji akcinė bendrovė Anykščių komunalinis ūkis",
     "code": "154111083",
-    "address": "Anykščiai, Gegužės g. 47, LT-29107"
+    "address": "Anykščiai, Gegužės g. 47, LT-29107",
+    "vatcode": "LT541110811"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"UKMERGĖS VERSMĖ\" Anykščių filialas",
@@ -900,7 +925,8 @@
   {
     "name": "Viešoji įstaiga Anykščių menų inkubatorius-menų studija",
     "code": "302054537",
-    "address": "Anykščiai, J. Biliūno g. 53, LT-29110"
+    "address": "Anykščiai, J. Biliūno g. 53, LT-29110",
+    "vatcode": "LT100019286814"
   },
   {
     "name": "Viešoji įstaiga Anykščių rajono savivaldybės ligoninė",
@@ -946,7 +972,8 @@
   {
     "name": "VšĮ Anykščių laisvalaikis",
     "code": "306755927",
-    "address": "Anykščių r. sav., Kurkliai, Gegužės g. 13, LT-29234"
+    "address": "Anykščių r. sav., Kurkliai, Gegužės g. 13, LT-29234",
+    "vatcode": "LT100017813019"
   },
   {
     "name": "VšĮ Anykščių šokių erdvė",
@@ -956,6 +983,7 @@
   {
     "name": "Žemės ūkio bendrovė \"Anykščių vaismedžiai\"",
     "code": "154162779",
-    "address": "Anykščių r. sav., Anykščių sen., Ažuožerių k., Šeimyniškių g. 36, LT-29171"
+    "address": "Anykščių r. sav., Anykščių sen., Ažuožerių k., Šeimyniškių g. 36, LT-29171",
+    "vatcode": "LT541627716"
   }
 ]

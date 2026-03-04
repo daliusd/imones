@@ -46,6 +46,11 @@
     "address": "Vilnius, Stepono Batoro g. 15A-21, LT-11100"
   },
   {
+    "name": "Asociacija \"Al Maghrib\"",
+    "code": "304642382",
+    "address": "Kaunas, Islandijos pl. 95-57, LT-49176"
+  },
+  {
     "name": "Birutės al. 43, Palanga, savininkų bendrija",
     "code": "302994972",
     "address": "Palanga, Birutės al. 43, LT-00135"
@@ -72,8 +77,7 @@
   },
   {
     "name": "Daugiabučio namo Aušros al. 23 savininkų bendrija",
-    "code": "145527816",
-    "address": "Šiauliai, Aušros al. 23, LT-76300"
+    "code": "145527816"
   },
   {
     "name": "Daugiabučio namo I. Kanto al. 23, Vilniuje, savininkų bendrija",
@@ -134,6 +138,17 @@
     "name": "Diar Al-Manasik Real Estate Limited Liability Lietuvos filialas",
     "code": "304541312",
     "address": "Vilnius, Stepono Batoro g. 15A-21, LT-11100"
+  },
+  {
+    "name": "IĮ \"AL Soft\"",
+    "code": "302346648",
+    "address": "Kaunas, Draugystės g. 15B, LT-51228"
+  },
+  {
+    "name": "IĮ \"AL apskaita\"",
+    "code": "302317899",
+    "address": "Šiauliai, Architektų g. 24-42, LT-78281",
+    "vatcode": "LT100017800219"
   },
   {
     "name": "IĮ \"AL-AMINE\"",
@@ -282,7 +297,8 @@
   {
     "name": "MB \"Al projektų valdymas\"",
     "code": "307105188",
-    "address": "Vilnius, Krokuvos g. 60-109, LT-09306"
+    "address": "Vilnius, Krokuvos g. 60-109, LT-09306",
+    "vatcode": "LT100018583914"
   },
   {
     "name": "MB \"Al-Syed traders\"",
@@ -297,7 +313,7 @@
   {
     "name": "MB AL Devs",
     "code": "307055493",
-    "address": "Vilnius, Visorių g. 16-35, LT-08300"
+    "address": "Panevėžys, Ainių g. 7A-11, LT-37311"
   },
   {
     "name": "MB Al Agha",
@@ -315,6 +331,11 @@
     "address": "Pakruojo r. sav., Linkuva, Vaškų g. 1, LT-83434"
   },
   {
+    "name": "MB Al turtas",
+    "code": "307585794",
+    "address": "Vilnius, Lazdynėlių g. 26-26, LT-04126"
+  },
+  {
     "name": "MB Hermis AL",
     "code": "306659398",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
@@ -322,7 +343,8 @@
   {
     "name": "Mažoji bendrija \"Al konsultacija\"",
     "code": "307061539",
-    "address": "Vilnius, Fabijoniškių g. 3B-84, LT-07130"
+    "address": "Vilnius, Fabijoniškių g. 3B-84, LT-07130",
+    "vatcode": "LT100017502912"
   },
   {
     "name": "Meilės al. 13, Palanga poilsio namų savininkų bendrija",
@@ -382,7 +404,8 @@
   {
     "name": "UAB \"AL Engineering\"",
     "code": "302474256",
-    "address": "Utena, Metalo g. 3F, LT-28216"
+    "address": "Utena, Metalo g. 3F, LT-28216",
+    "vatcode": "LT100005154016"
   },
   {
     "name": "UAB \"AL Logistics\"",
@@ -403,7 +426,8 @@
   {
     "name": "UAB \"AL Valdos\"",
     "code": "306347758",
-    "address": "Utena, Metalo g. 3, LT-28216"
+    "address": "Utena, Metalo g. 3, LT-28216",
+    "vatcode": "LT100016168813"
   },
   {
     "name": "UAB \"Al consulting\"",
@@ -421,6 +445,10 @@
     "address": "Vilnius, Kazio Borutos g. 24-1A, LT-08335"
   },
   {
+    "name": "UAB \"Ludin-AL\"",
+    "code": "302917399"
+  },
+  {
     "name": "UAB AL Capital",
     "code": "306435635",
     "address": "Vilnius, Ukmergės g. 283, LT-06313",
@@ -434,11 +462,16 @@
   {
     "name": "UAB AL holdingas",
     "code": "302288643",
-    "address": "Vilnius, Ulonų g. 2-101, LT-08245"
+    "address": "Vilnius, Ulonų g. 2-101, LT-08245",
+    "vatcode": "LT100005067718"
   },
   {
     "name": "UAB Al Noor Trading",
     "code": "306162108",
     "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Al' Adonis\"",
+    "code": "177983386"
   }
 ]

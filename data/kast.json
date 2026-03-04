@@ -38,14 +38,21 @@
     "address": "Vilnius, Polocko g. 4B-R1, LT-01204"
   },
   {
+    "name": "Vidos Kastanauskienės personalinė įmonė",
+    "code": "121784154",
+    "address": "Vilnius, P. Žadeikos g. 13-2A, LT-06324"
+  },
+  {
     "name": "UAB \"Kastaneda\"",
     "code": "303304367",
-    "address": "Kaunas, Zanavykų g. 25H, LT-44142"
+    "address": "Kaunas, Zanavykų g. 25H, LT-44142",
+    "vatcode": "LT100009546214"
   },
   {
     "name": "UAB \"Kastanie\"",
     "code": "307289261",
-    "address": "Šilalės r. sav., Upynos sen., Vytogalos k., S. Girėno g. 1, LT-75244"
+    "address": "Šilalės r. sav., Upynos sen., Vytogalos k., S. Girėno g. 1, LT-75244",
+    "vatcode": "LT100019435812"
   },
   {
     "name": "UAB \"Kastauda\"",
@@ -61,12 +68,22 @@
   {
     "name": "UAB \"Kastava\"",
     "code": "305895157",
-    "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k., Putinų g. 4, LT-54469"
+    "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k., Putinų g. 4, LT-54469",
+    "vatcode": "LT100015268612"
+  },
+  {
+    "name": "M. Sadausko individuali įmonė \"Kastaveda\"",
+    "code": "301119708",
+    "address": "Kauno r. sav., Vilkijos apylinkių sen., Antalkių k., Jurbarko pl. 351, LT-54217"
+  },
+  {
+    "name": "\"Kaste\" individuali įmonė",
+    "code": "300047736"
   },
   {
     "name": "MB \"Kastekas\"",
     "code": "305664702",
-    "address": "Klaipėda, Klemiškės g. 42D-2, LT-91279"
+    "address": "Klaipėda, Barškių g. 18H, LT-91272"
   },
   {
     "name": "MB Kastela",
@@ -86,7 +103,8 @@
   {
     "name": "UAB \"Kastelnokas\"",
     "code": "303317432",
-    "address": "Alytaus r. sav., Alytaus sen., Miklusėnų k., Beržų g. 6, LT-62472"
+    "address": "Alytaus r. sav., Alytaus sen., Miklusėnų k., Beržų g. 6, LT-62472",
+    "vatcode": "LT100009622819"
   },
   {
     "name": "MB \"Kastelum NT\"",
@@ -110,29 +128,38 @@
     "address": "Vilnius, Šv. Stepono g. 17-3, LT-01139"
   },
   {
+    "name": "Kastijaus Pažerausko įmonė",
+    "code": "145431013"
+  },
+  {
     "name": "UAB \"KASTILITA\"",
     "code": "302616951",
-    "address": "Vilniaus r. sav., Bezdonių sen., Vilkiškių k., Tapelių g. 80, LT-15206"
+    "address": "Vilniaus r. sav., Bezdonių sen., Vilkiškių k., Tapelių g. 80, LT-15206",
+    "vatcode": "LT100006181614"
   },
   {
     "name": "MB \"DS kastingas\"",
     "code": "306163007",
-    "address": "Vilnius, A. Juozapavičiaus g. 11-101, LT-09311"
+    "address": "Vilnius, A. Juozapavičiaus g. 11-101, LT-09311",
+    "vatcode": "LT100015381414"
   },
   {
     "name": "UAB \"Editos kastingas\"",
     "code": "126404517",
-    "address": "Vilnius, Maironio g. 27-16, LT-01301"
+    "address": "Vilnius, Maironio g. 27-16, LT-01301",
+    "vatcode": "LT100001010319"
   },
   {
     "name": "UAB \"Kastinida\"",
     "code": "300028967",
-    "address": "Vilnius, Švitrigailos g. 11A, LT-03228"
+    "address": "Vilnius, Švitrigailos g. 11A, LT-03228",
+    "vatcode": "LT100003295715"
   },
   {
     "name": "UAB \"Kastis\"",
     "code": "300766500",
-    "address": "Vilnius, Padekaniškių g. 44-8, LT-06232"
+    "address": "Vilnius, Padekaniškių g. 44-8, LT-06232",
+    "vatcode": "LT100005413815"
   },
   {
     "name": "UAB \"Kastita\"",
@@ -160,7 +187,8 @@
   {
     "name": "MB Kastra",
     "code": "307160170",
-    "address": "Jurbarkas, Miškininkų g. 10-12, LT-74212"
+    "address": "Jurbarkas, Miškininkų g. 10-12, LT-74212",
+    "vatcode": "LT100019375714"
   },
   {
     "name": "MB Kastranga",
@@ -174,6 +202,10 @@
     "address": "Vilniaus r. sav., Sužionių sen., Daukšių k., Liepų g. 49, LT-15120"
   },
   {
+    "name": "J. Kastravicko individuali įmonė",
+    "code": "300975546"
+  },
+  {
     "name": "Kastu International",
     "code": "302103596",
     "address": "Vilniaus m. sav.",
@@ -182,7 +214,8 @@
   {
     "name": "UAB \"Kastu\"",
     "code": "305373440",
-    "address": "Vilnius, Gelvonų g. 38-8, LT-07143"
+    "address": "Vilnius, Gelvonų g. 38-8, LT-07143",
+    "vatcode": "LT100012829411"
   },
   {
     "name": "MB \"Kastukas\"",
@@ -198,27 +231,34 @@
   {
     "name": "MB \"Smailas kastuvas\"",
     "code": "304984375",
-    "address": "Kauno r. sav., Garliava, Arimų g. 21A, LT-53258"
+    "address": "Kauno r. sav., Garliava, Arimų g. 21A, LT-53258",
+    "vatcode": "LT100012252216"
   },
   {
     "name": "UAB Kastuvėlis",
     "code": "305644272",
-    "address": "Kaišiadorių r. sav., Palomenės sen., Šimkaučiškių k. 1, LT-56101"
+    "address": "Kaišiadorių r. sav., Palomenės sen., Šimkaučiškių k. 1, LT-56101",
+    "vatcode": "LT100013502113"
+  },
+  {
+    "name": "UAB \"Kastvaida\"",
+    "code": "161642376"
   },
   {
     "name": "UAB \"Kastvila\"",
     "code": "302490890",
-    "address": "Klaipėdos r. sav., Sendvario sen., Mazūriškių k., Jurgaičių g. 12, LT-92377"
+    "address": "Klaipėdos r. sav., Sendvario sen., Mazūriškių k., Jurgaičių g. 12, LT-92377",
+    "vatcode": "LT100005278817"
   },
   {
     "name": "\"Kastytis\", UAB",
     "code": "134115882",
-    "address": "Kaunas, A. Juozapavičiaus pr. 68, LT-45217"
+    "address": "Kaunas, A. Juozapavičiaus pr. 68, LT-45217",
+    "vatcode": "LT341158811"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Kastytis\"",
-    "code": "141786337",
-    "address": "Klaipėda, Baltijos pr. 75, LT-94121"
+    "code": "141786337"
   },
   {
     "name": "Panevėžio lopšelis-darželis \"Kastytis\"",
@@ -231,6 +271,16 @@
     "address": "Raseiniai, Aguonų g. 9, LT-60117"
   },
   {
+    "name": "Kastyčio Cekanausko įmonė",
+    "code": "168692937",
+    "address": "Panevėžio r. sav., Panevėžio sen., Piniavos k., Sodžiaus g. 1, LT-38415"
+  },
+  {
+    "name": "Kastyčio Chainausko IĮ",
+    "code": "305684181",
+    "address": "Pakruojo r. sav., Žeimelis, Vytauto Didžiojo g. 29, LT-83376"
+  },
+  {
     "name": "Kastyčio Girdausko automobilių sporto klubas",
     "code": "193029666",
     "address": "Kaunas, Kaunakiemio g. 5, LT-44351"
@@ -238,6 +288,10 @@
   {
     "name": "Kastyčio Juškos įmonė",
     "code": "171667214"
+  },
+  {
+    "name": "Kastyčio Pečiulio įmonė",
+    "code": "175813638"
   },
   {
     "name": "MB \"Kastyčio transportas\"",
@@ -252,11 +306,17 @@
   {
     "name": "UAB \"Kastyčio namai\"",
     "code": "306097468",
-    "address": "Klaipėda, Minijos g. 39, LT-91207"
+    "address": "Klaipėda, Minijos g. 39, LT-91207",
+    "vatcode": "LT100015333717"
   },
   {
     "name": "VšĮ \"Kastyčio tinklas\"",
     "code": "307496395",
     "address": "Kaunas, A. Juozapavičiaus pr. 68-1, LT-45217"
+  },
+  {
+    "name": "IĮ R. Kastėno personalinė įmonė",
+    "code": "124608510",
+    "address": "Vilnius, Erfurto g. 20-7, LT-04116"
   }
 ]

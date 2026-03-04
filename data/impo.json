@@ -10,6 +10,11 @@
     "address": "Vilnius, Tauro g. 20"
   },
   {
+    "name": "IĮ \"IBERIJA IMPORT\"",
+    "code": "302731220",
+    "address": "Vilnius, T. Ševčenkos g. 11-5, LT-03223"
+  },
+  {
     "name": "JAV firmos \"TRANSLINK IMPORT EXPORT LIMITED\" atstovybė",
     "code": "110240710",
     "address": "Klaipėda, Laukininkų g. 16-12, LT-95142"
@@ -62,7 +67,18 @@
   {
     "name": "MB \"USAuto Import\"",
     "code": "306737402",
-    "address": "Klaipėdos r. sav., Sendvario sen., Baukštininkų k., Žiemos g. 24, LT-92402"
+    "address": "Klaipėdos r. sav., Sendvario sen., Baukštininkų k., Žiemos g. 24, LT-92402",
+    "vatcode": "LT100016867214"
+  },
+  {
+    "name": "MB Aa import",
+    "code": "307576489",
+    "address": "Vilnius, Apolinaro Juozo Povilaičio g. 14-100, LT-04338"
+  },
+  {
+    "name": "MB Baltic Auto Import",
+    "code": "307580053",
+    "address": "Kaunas, Laisvės al. 110, LT-44253"
   },
   {
     "name": "MB Baltic car import",
@@ -109,7 +125,8 @@
   {
     "name": "UAB \"D&D import\"",
     "code": "302345788",
-    "address": "Vilnius, Tuskulėnų g. 48-1, LT-09209"
+    "address": "Vilnius, Tuskulėnų g. 48-1, LT-09209",
+    "vatcode": "LT100004758917"
   },
   {
     "name": "UAB \"FMCG Import\"",
@@ -124,17 +141,23 @@
   {
     "name": "UAB \"LT USA Import\"",
     "code": "306160420",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
+    "vatcode": "LT100015541710"
   },
   {
     "name": "UAB \"MOLSKI IMPORT & EXPORT\"",
     "code": "302534098",
-    "address": "Molėtų r. sav., Mindūnų sen., Janiškių k., Janiškių g. 11, LT-33200"
+    "address": "Molėtų r. sav., Mindūnų sen., Janiškių k., Janiškių g. 11, LT-33200",
+    "vatcode": "LT100005546616"
   },
   {
     "name": "UAB \"MS import\"",
     "code": "300109337",
     "address": "Jonava, Fabriko g. 3A, LT-55111"
+  },
+  {
+    "name": "UAB \"Prime Import\"",
+    "code": "302688897"
   },
   {
     "name": "UAB \"Saria Import & Export\"",
@@ -215,7 +238,8 @@
   {
     "name": "MB Importai",
     "code": "307194361",
-    "address": "Kretingos r. sav., Žalgirio sen., Jokūbavo k., Kretingos g. 25-5, LT-97210"
+    "address": "Kretingos r. sav., Žalgirio sen., Jokūbavo k., Kretingos g. 25-5, LT-97210",
+    "vatcode": "LT100018779818"
   },
   {
     "name": "IĮ \"Eksportas, importas ir konsultacija\"",
@@ -263,7 +287,8 @@
   {
     "name": "UAB \"Baltikos importas ir eksportas\"",
     "code": "304133894",
-    "address": "Kaunas, Raudondvario pl. 287A, LT-47165"
+    "address": "Kaunas, Raudondvario pl. 287A, LT-47165",
+    "vatcode": "LT100009855919"
   },
   {
     "name": "UAB \"Gourmet select importas\"",
@@ -273,7 +298,8 @@
   {
     "name": "UAB \"Gs importas\"",
     "code": "305663746",
-    "address": "Zarasų r. sav., Dusetos, K. Būgos g. 34, LT-32304"
+    "address": "Zarasų r. sav., Dusetos, K. Būgos g. 34, LT-32304",
+    "vatcode": "LT100013621511"
   },
   {
     "name": "UAB \"Gėrimų importas\"",
@@ -294,7 +320,8 @@
   {
     "name": "UAB \"Pašarų eksportas ir importas\"",
     "code": "303250535",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
+    "address": "Vilnius, Laisvės pr. 60, LT-05120",
+    "vatcode": "LT100008418318"
   },
   {
     "name": "UAB \"Privatus importas\"",
@@ -310,7 +337,8 @@
   {
     "name": "MB \"Importauto\"",
     "code": "306023222",
-    "address": "Alytus, S. Dariaus ir S. Girėno g. 1-23, LT-62137"
+    "address": "Alytus, S. Dariaus ir S. Girėno g. 1-23, LT-62137",
+    "vatcode": "LT100014998018"
   },
   {
     "name": "Afganistano firmos \"MASUD SALIM Co. Ltd\" Importer-Exporter atstovybė",
@@ -320,7 +348,8 @@
   {
     "name": "UAB Importer",
     "code": "306165595",
-    "address": "Klaipėdos r. sav., Dovilų sen., Ketvergių k., Garnių g. 2-1, LT-95410"
+    "address": "Klaipėdos r. sav., Dovilų sen., Ketvergių k., Garnių g. 2-1, LT-95410",
+    "vatcode": "LT100015392016"
   },
   {
     "name": "MB MT Importex",
@@ -371,7 +400,8 @@
   {
     "name": "UAB \"Importo\"",
     "code": "303142972",
-    "address": "Vilnius, Jogailos g. 8, LT-01116"
+    "address": "Vilnius, Jogailos g. 8, LT-01116",
+    "vatcode": "LT100015555912"
   },
   {
     "name": "UAB \"Personalo importo sprendimai\"",
@@ -386,7 +416,8 @@
   {
     "name": "MB \"RV imports\"",
     "code": "305792762",
-    "address": "Marijampolės sav., Šunskų sen., Tursučių k., Pašešupio g. 2, LT-69358"
+    "address": "Marijampolės sav., Šunskų sen., Tursučių k., Pašešupio g. 2, LT-69358",
+    "vatcode": "LT100014125819"
   },
   {
     "name": "UAB \"Universal imports\"",
@@ -397,7 +428,8 @@
   {
     "name": "Autogamintojų ir importuotojų asociacija",
     "code": "304141446",
-    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Silvestro Žukausko g. 13, LT-54464"
+    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Silvestro Žukausko g. 13, LT-54464",
+    "vatcode": "LT100010842811"
   },
   {
     "name": "Gamintojų ir Importuotojų Asociacija",
@@ -424,7 +456,8 @@
   {
     "name": "Padangų importuotojų organizacija",
     "code": "303003606",
-    "address": "Vilnius, Perkūnkiemio g. 3, LT-12127"
+    "address": "Vilnius, Perkūnkiemio g. 3, LT-12127",
+    "vatcode": "LT100007804217"
   },
   {
     "name": "VšĮ \"Elektronikos gamintojų ir importuotojų organizacija\"",

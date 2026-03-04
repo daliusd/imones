@@ -30,11 +30,6 @@
     "address": "Jonava, Kęstučio g. 19, LT-55156"
   },
   {
-    "name": "Jurbarko rajono ugniagesių gelbėtojų profesinė sąjunga",
-    "code": "158756640",
-    "address": "Jurbarko rajono savivaldybės teritorija"
-  },
-  {
     "name": "Jurbarko savanorių ugniagesių draugija",
     "code": "305796604",
     "address": "Jurbarko r. sav., Viešvilės sen., Kalvelių k. 3, LT-74232"
@@ -43,11 +38,6 @@
     "name": "Kauno rajono ugniagesių savanorių draugija",
     "code": "159982457",
     "address": "Kauno r. sav., Ringaudų sen., Poderiškių k."
-  },
-  {
-    "name": "Kauno rajono ugniagesių-gelbėtojų nepriklausoma profesinė sąjunga",
-    "code": "300516468",
-    "address": "Kauno r. sav., Zapyškio sen., Dievogalos k."
   },
   {
     "name": "Kauno ugniagesių ir gelbėtojų profesinė sąjunga",
@@ -182,12 +172,14 @@
   {
     "name": "Vilniaus rajono ugniagesių savanorių draugija",
     "code": "186479969",
-    "address": "Vilniaus r. sav., Zujūnų sen., Gineitiškių k., Alyvų g. 29, LT-14159"
+    "address": "Vilniaus r. sav., Zujūnų sen., Gineitiškių k., Alyvų g. 29, LT-14159",
+    "vatcode": "LT100012977710"
   },
   {
     "name": "VšĮ \"Savanorių ugniagesių ambasada\"",
     "code": "304116279",
-    "address": "Šilutės r. sav., Rusnė, Krantinės g. 5, LT-99344"
+    "address": "Šilutės r. sav., Rusnė, Krantinės g. 5, LT-99344",
+    "vatcode": "LT100011504214"
   },
   {
     "name": "Šiaulių apskrities ugniagesių gelbėtojų profesinė sąjunga",
@@ -241,7 +233,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"UGNIAVIETĖ\"",
     "code": "124579012",
-    "address": "Vilnius, Žydų g. 4A-7, LT-01131"
+    "address": "Vilnius, Žydų g. 4A-7, LT-01131",
+    "vatcode": "LT100002102915"
   },
   {
     "name": "MB \"Ugnica\"",
@@ -267,6 +260,10 @@
     "name": "Asociacijos \"Ugnies aidas\" Palangos m. filialas",
     "code": "304399247",
     "address": "Palanga, Ganyklų g. 12-7, LT-00126"
+  },
+  {
+    "name": "IĮ \"Ugnies meistrai\"",
+    "code": "300549589"
   },
   {
     "name": "MB \"Ugnies gėlės\"",
@@ -307,7 +304,8 @@
   {
     "name": "UAB \"Ugnies broliai\"",
     "code": "304193304",
-    "address": "Kaunas, Neries krant. 18, LT-48401"
+    "address": "Kaunas, Neries krant. 18, LT-48401",
+    "vatcode": "LT100009999210"
   },
   {
     "name": "UAB \"Ugnies lapė\"",
@@ -328,17 +326,20 @@
   {
     "name": "UAB \"Ugnies virtuvė\"",
     "code": "306822354",
-    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Beržų g. 1, LT-53335"
+    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Beržų g. 1, LT-53335",
+    "vatcode": "LT100017582416"
   },
   {
     "name": "UAB \"Ugnies žiedai\"",
     "code": "304228919",
-    "address": "Vilnius, Žirmūnų g. 131-28, LT-09120"
+    "address": "Vilnius, Žirmūnų g. 131-28, LT-09120",
+    "vatcode": "LT100010114216"
   },
   {
     "name": "UAB Maistas ant ugnies",
     "code": "306620228",
-    "address": "Vilnius, Totorių g. 12-18, LT-01121"
+    "address": "Vilnius, Totorių g. 12-18, LT-01121",
+    "vatcode": "LT100016512813"
   },
   {
     "name": "Ugniagesių sporto klubas \"Ugnies valdovai\"",
@@ -348,12 +349,14 @@
   {
     "name": "VšĮ \"Ugnies teatras\"",
     "code": "306114800",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100016603518"
   },
   {
     "name": "UAB \"Ugnija\"",
     "code": "133715835",
-    "address": "Kaunas, Pramonės pr. 83-108, LT-50353"
+    "address": "Kaunas, Pramonės pr. 83-108, LT-50353",
+    "vatcode": "LT100003675413"
   },
   {
     "name": "VšĮ Ugnija Lela",
@@ -363,12 +366,14 @@
   {
     "name": "MB Ugnilo",
     "code": "306109027",
-    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Vėjo g. 12-2, LT-91276"
+    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Vėjo g. 12-2, LT-91276",
+    "vatcode": "LT100019522110"
   },
   {
     "name": "UAB \"Ugninga\"",
     "code": "305349382",
-    "address": "Tauragė, Gedimino g. 43-1, LT-72293"
+    "address": "Tauragė, Gedimino g. 43-1, LT-72293",
+    "vatcode": "LT100012799315"
   },
   {
     "name": "MB Ugningai",
@@ -378,7 +383,8 @@
   {
     "name": "UAB \"Ugninta\"",
     "code": "305206893",
-    "address": "Vilnius, Jono Kairiūkščio g. 7-56, LT-08454"
+    "address": "Vilnius, Jono Kairiūkščio g. 7-56, LT-08454",
+    "vatcode": "LT100012934717"
   },
   {
     "name": "Sporto klubas \"Ugninė strėlė\"",
@@ -393,7 +399,8 @@
   {
     "name": "Baltic ugnis UAB",
     "code": "305734182",
-    "address": "Vilnius, J. Tiškevičiaus g. 4-4, LT-02232"
+    "address": "Vilnius, J. Tiškevičiaus g. 4-4, LT-02232",
+    "vatcode": "LT100014008015"
   },
   {
     "name": "MB \"Prometėjo ugnis\"",
@@ -425,17 +432,20 @@
   {
     "name": "UAB \"Ugnis ir ledas\"",
     "code": "302594729",
-    "address": "Kaunas, Ateities g. 4B, LT-52322"
+    "address": "Kaunas, Ateities g. 4B, LT-52322",
+    "vatcode": "LT100006075211"
   },
   {
     "name": "UAB \"Ugnis ir vanduo\"",
     "code": "304544970",
-    "address": "Druskininkai, Ringeliškės g. 12-407, LT-66376"
+    "address": "Druskininkai, Ringeliškės g. 12-407, LT-66376",
+    "vatcode": "LT100011116016"
   },
   {
     "name": "UAB Ugnis ir dūmai",
     "code": "307185330",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100019200312"
   },
   {
     "name": "VšĮ \"Vasarą gyva ugnis\"",
@@ -472,7 +482,8 @@
   {
     "name": "UAB \"Ugnius ir architektai\"",
     "code": "304222097",
-    "address": "Kaunas, J. Jablonskio g. 21-5, LT-44284"
+    "address": "Kaunas, J. Jablonskio g. 21-5, LT-44284",
+    "vatcode": "LT100011320219"
   },
   {
     "name": "UAB Ugnius kepa",
@@ -488,7 +499,8 @@
   {
     "name": "VšĮ \"UGNIUS-AUTO\"",
     "code": "301773533",
-    "address": "Kaunas, Benediktinių g. 25, LT-44262"
+    "address": "Kaunas, Benediktinių g. 25, LT-44262",
+    "vatcode": "LT100011540811"
   },
   {
     "name": "UAB \"Ugniva\"",
@@ -498,7 +510,8 @@
   {
     "name": "UAB \"Ugnivita\"",
     "code": "304283381",
-    "address": "Klaipėda, Taikos pr. 24-6, LT-91222"
+    "address": "Klaipėda, Taikos pr. 24-6, LT-91222",
+    "vatcode": "LT100010231616"
   },
   {
     "name": "Ugnix UAB",

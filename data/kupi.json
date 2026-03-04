@@ -1,9 +1,19 @@
 [
   {
+    "name": "UAB \"Kupidonas\"",
+    "code": "305589413"
+  },
+  {
     "name": "UAB \"KUPINA\"",
     "code": "126070551",
     "address": "Vilnius, Liepkalnio g. 17, LT-02105",
     "vatcode": "LT100002201610"
+  },
+  {
+    "name": "V. Kupino firma \"Vajulitas\"",
+    "code": "157665935",
+    "address": "Joniškis, Mūšos g. 9, LT-84167",
+    "vatcode": "LT576659314"
   },
   {
     "name": "UAB \"Kupis\"",
@@ -14,11 +24,6 @@
     "name": "TOV \"Kupitut\" filialas",
     "code": "304296877",
     "address": "Klaipėda, Tauralaukio g. 30A-45, LT-92347"
-  },
-  {
-    "name": "Akcinės bendrovės \"Lelija\" Kupiškio siuvimo įmonės profesinė sąjunga",
-    "code": "164828172",
-    "address": "Kupiškis, Gedimino g. 53A, LT-40127"
   },
   {
     "name": "Asociacija \"Kupiškio kraštą keiskime kartu\"",
@@ -53,7 +58,8 @@
   {
     "name": "Kooperatyvas \"Kupiškio žemės\"",
     "code": "304470915",
-    "address": "Kupiškio r. sav., Šimonių sen., Nociūnų k., Ilgės g. 30, LT-40356"
+    "address": "Kupiškio r. sav., Šimonių sen., Nociūnų k., Ilgės g. 30, LT-40356",
+    "vatcode": "LT100010746010"
   },
   {
     "name": "Kupiškio Kristaus Žengimo į dangų parapija",
@@ -68,11 +74,6 @@
   {
     "name": "Kupiškio Povilo Matulionio progimnazija",
     "code": "290043380",
-    "address": "Kupiškis, Jaunimo g. 2, LT-40128"
-  },
-  {
-    "name": "Kupiškio Povilo Matulionio vidurinės mokyklos švietimo darbuotojų profesinė sąjunga",
-    "code": "160327317",
     "address": "Kupiškis, Jaunimo g. 2, LT-40128"
   },
   {
@@ -220,11 +221,6 @@
     "address": "Kupiškis, Gedimino g. 36-2, LT-40130"
   },
   {
-    "name": "Kupiškio rajono policijos darbuotojų profesinė sąjunga",
-    "code": "165380099",
-    "address": "Kupiškis, Gedimino g. 54, LT-40129"
-  },
-  {
     "name": "Kupiškio rajono savivaldybės administracija",
     "code": "188774975",
     "address": "Kupiškis, Vytauto g. 2, LT-40115"
@@ -307,22 +303,37 @@
   {
     "name": "Kupiškio rajono žemės ūkio bendrovė \"Antašavos centras\"",
     "code": "164750688",
-    "address": "Kupiškio r. sav., Kupiškio sen., Antašavos mstl., Vabalninko g. 17, LT-40422"
+    "address": "Kupiškio r. sav., Kupiškio sen., Antašavos mstl., Vabalninko g. 17, LT-40422",
+    "vatcode": "LT647506811"
   },
   {
     "name": "Kupiškio rajono žemės ūkio bendrovė \"Daukučiai\"",
     "code": "164767050",
-    "address": "Kupiškio r. sav., Alizavos sen., Daukučių k. 9, LT-40453"
+    "address": "Kupiškio r. sav., Alizavos sen., Daukučių k. 9, LT-40453",
+    "vatcode": "LT647670515"
+  },
+  {
+    "name": "Kupiškio rajono žemės ūkio bendrovė \"Gyvakarai\"",
+    "code": "164756940"
+  },
+  {
+    "name": "Kupiškio rajono žemės ūkio bendrovė \"Migonių grūdai\"",
+    "code": "164755468"
   },
   {
     "name": "Kupiškio rajono žemės ūkio bendrovė \"Žvikė\"",
     "code": "164760839",
-    "address": "Kupiškio r. sav., Kupiškio sen., Akmenytės k. 7, LT-40102"
+    "address": "Kupiškio r. sav., Kupiškio sen., Akmenytės k. 7, LT-40102",
+    "vatcode": "LT647608314"
   },
   {
     "name": "Kupiškio ritinio sporto klubas \"Aukštaičiai\"",
     "code": "302642355",
     "address": "Kupiškis, Vilniaus g. 8, LT-40114"
+  },
+  {
+    "name": "Kupiškio seniūnijos Šepetos melioracijos statinių naudotojų asociacija",
+    "code": "301792124"
   },
   {
     "name": "Kupiškio senjorų sportinių šokių klubas \"AMRITA\"",
@@ -347,7 +358,8 @@
   {
     "name": "Kupiškio technologijos ir verslo mokykla",
     "code": "190805125",
-    "address": "Kupiškis, Jaunimo g. 8, LT-40128"
+    "address": "Kupiškis, Jaunimo g. 8, LT-40128",
+    "vatcode": "LT908051219"
   },
   {
     "name": "Kupiškio televizijos ir informacijos centras",
@@ -416,6 +428,10 @@
     "address": "Kupiškis, Vytauto g. 64, LT-40116"
   },
   {
+    "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Kupiškio skyrius",
+    "code": "165386166"
+  },
+  {
     "name": "Lietuvos ūkininkų sąjungos Kupiškio skyrius",
     "code": "164832975",
     "address": "Kupiškis, Gedimino g. 36, LT-40130"
@@ -423,7 +439,8 @@
   {
     "name": "MB \"Kupiškio gėlės\"",
     "code": "305889784",
-    "address": "Kupiškis, Gedimino g. 53-18, LT-40127"
+    "address": "Kupiškis, Gedimino g. 53-18, LT-40127",
+    "vatcode": "LT100015735012"
   },
   {
     "name": "Sodininkų bendrija \"KUPIŠKIO VERSMĖ\"",
@@ -458,12 +475,14 @@
   {
     "name": "UAB \"Kupiškio baseinas\"",
     "code": "304826674",
-    "address": "Kupiškis, K. Šimonio g. 1A, LT-40117"
+    "address": "Kupiškis, K. Šimonio g. 1A, LT-40117",
+    "vatcode": "LT100016285113"
   },
   {
     "name": "UAB \"Kupiškio vandenys\"",
     "code": "164702145",
-    "address": "Kupiškis, Ugniagesių g. 5, LT-40112"
+    "address": "Kupiškis, Ugniagesių g. 5, LT-40112",
+    "vatcode": "LT647021417"
   },
   {
     "name": "UAB \"Kupiškio vandenys\" profesinė sąjunga",
@@ -478,22 +497,26 @@
   {
     "name": "UAB Kupiškio agrocentras",
     "code": "164781395",
-    "address": "Kupiškis, Panevėžio g. 5, LT-40134"
+    "address": "Kupiškis, Panevėžio g. 5, LT-40134",
+    "vatcode": "LT647813917"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kupiškio Akmenlita\"",
     "code": "169203146",
-    "address": "Kupiškio r. sav., Noriūnų sen., Rudilių k."
+    "address": "Kupiškio r. sav., Noriūnų sen., Rudilių k.",
+    "vatcode": "LT692031419"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kupiškio autobusų parkas\"",
     "code": "164742773",
-    "address": "Kupiškis, Gedimino g. 96, LT-40128"
+    "address": "Kupiškis, Gedimino g. 96, LT-40128",
+    "vatcode": "LT647427716"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kupiškio komunalininkas\"",
     "code": "164702526",
-    "address": "Kupiškis, Energetikų g. 4, LT-40134"
+    "address": "Kupiškis, Energetikų g. 4, LT-40134",
+    "vatcode": "LT647025219"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"Kurklių karjeras\" Kupiškio filialas",
@@ -518,7 +541,7 @@
   {
     "name": "Viešosios įstaigos Lietuvos žemės ūkio konsultavimo tarnybos Kupiškio rajono biuras",
     "code": "164828934",
-    "address": "Kupiškis, Maironio g. 2-2, LT-40130"
+    "address": "Kupiškis, Energetikų g. 7, LT-40134"
   },
   {
     "name": "VšĮ \"Kupiškio auto-moto sportas\"",
@@ -558,7 +581,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Kupiškėnų mintys\"",
     "code": "164724750",
-    "address": "Kupiškis, Gedimino g. 34, LT-40130"
+    "address": "Kupiškis, Gedimino g. 34, LT-40130",
+    "vatcode": "LT647247515"
   },
   {
     "name": "VILNIAUS KUPIŠKĖNŲ SPORTO KLUBAS",

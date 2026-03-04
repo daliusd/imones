@@ -1,5 +1,10 @@
 [
   {
+    "name": "R. Trusevičiaus įmonė \"Print\"",
+    "code": "120632930",
+    "address": "Vilnius, Justiniškių g. 117-5, LT-05245"
+  },
+  {
     "name": "A. Truskausko personalinė įmonė \"Felis\"",
     "code": "121389851",
     "address": "Vilnius, P. Žadeikos g. 24-49, LT-06321",
@@ -13,7 +18,8 @@
   {
     "name": "Kėdainių rajono Truskavos žemės ūkio bendrovė",
     "code": "161274383",
-    "address": "Kėdainių r. sav., Truskavos sen., Pavermenio k."
+    "address": "Kėdainių r. sav., Truskavos sen., Pavermenio k.",
+    "vatcode": "LT612743811"
   },
   {
     "name": "Kėdainių rajono savivaldybės administracijos Truskavos seniūnija",
@@ -41,13 +47,28 @@
     "address": "Alytus, Jaunimo g. 12-9, LT-63350"
   },
   {
+    "name": "G. Truskos personalinė įmonė",
+    "code": "165159236",
+    "address": "Lazdijai, Liepų g. 6, LT-67117"
+  },
+  {
+    "name": "Valdo Truskos individuali įmonė",
+    "code": "149964254"
+  },
+  {
     "name": "VIKTORO TRUSOVO įmonė",
     "code": "145898796"
   },
   {
     "name": "MB Trust2U",
     "code": "307125963",
-    "address": "Kaunas, Kuršėnų g. 32-1, LT-48483"
+    "address": "Kaunas, Kuršėnų g. 32-1, LT-48483",
+    "vatcode": "LT100018262613"
+  },
+  {
+    "name": "Apex Trust, UAB",
+    "code": "307577331",
+    "address": "Prienų r. sav., Balbieriškis, Klevų g. 25-22, LT-59243"
   },
   {
     "name": "Asociacija \"Lithuanian Crypto Trust\"",
@@ -82,12 +103,14 @@
   {
     "name": "MB \"IM Trust\"",
     "code": "306269238",
-    "address": "Vilnius, Pylimo g. 27, LT-01309"
+    "address": "Vilnius, Pylimo g. 27, LT-01309",
+    "vatcode": "LT100015974712"
   },
   {
     "name": "MB \"Newlink Trust\"",
     "code": "305347424",
-    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Vėjo g. 12-2, LT-91276"
+    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Vėjo g. 12-2, LT-91276",
+    "vatcode": "LT100012791410"
   },
   {
     "name": "MB \"Trust service\"",
@@ -97,7 +120,8 @@
   {
     "name": "MB Ava trust",
     "code": "307518016",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019372013"
   },
   {
     "name": "MB Camper trust",
@@ -118,7 +142,8 @@
   {
     "name": "MB Trust based solutions",
     "code": "306153618",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Tvarkiškių k., Šilėnų g. 10D, LT-53285"
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Tvarkiškių k., Šilėnų g. 10D, LT-53285",
+    "vatcode": "LT100015810518"
   },
   {
     "name": "MB Trust partner",
@@ -140,17 +165,20 @@
   {
     "name": "Trust Group, UAB",
     "code": "304244994",
-    "address": "Klaipėda, Dubysos g. 58C-6, LT-94107"
+    "address": "Klaipėda, Dubysos g. 58C-6, LT-94107",
+    "vatcode": "LT100010152219"
   },
   {
     "name": "Trust International, UAB",
     "code": "304530351",
-    "address": "Klaipėda, Dubysos g. 58C-6, LT-94107"
+    "address": "Klaipėda, Dubysos g. 58C-6, LT-94107",
+    "vatcode": "LT100011497718"
   },
   {
     "name": "Trust Subcontracting, UAB",
     "code": "304435800",
-    "address": "Kretinga, Tiekėjų g. 23D, LT-97123"
+    "address": "Kretinga, Tiekėjų g. 23D, LT-97123",
+    "vatcode": "LT100011481116"
   },
   {
     "name": "Trust ventures, UAB",
@@ -165,17 +193,20 @@
   {
     "name": "UAB \"NOR trust\"",
     "code": "302684240",
-    "address": "Utena, Pramonės g. 21D, LT-28216"
+    "address": "Utena, Pramonės g. 21D, LT-28216",
+    "vatcode": "LT100009492615"
   },
   {
     "name": "UAB \"Paulus Trust\"",
     "code": "304184508",
-    "address": "Vilnius, Tolminkiemio g. 17-12, LT-06212"
+    "address": "Vilnius, Tolminkiemio g. 17-12, LT-06212",
+    "vatcode": "LT100009982014"
   },
   {
     "name": "UAB \"TRUST DH ITALIA\"",
     "code": "304045056",
-    "address": "Vilnius, Gedimino pr. 20, LT-01103"
+    "address": "Vilnius, Gedimino pr. 20, LT-01103",
+    "vatcode": "LT100009478912"
   },
   {
     "name": "UAB \"Trust Capital\"",
@@ -185,7 +216,8 @@
   {
     "name": "UAB \"Trust Logistic\"",
     "code": "306346745",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017616717"
   },
   {
     "name": "UAB \"Trust Marine\"",
@@ -195,12 +227,14 @@
   {
     "name": "UAB \"Trust Project Services Holding\"",
     "code": "304835997",
-    "address": "Klaipėda, Dubysos g. 58C-6, LT-94107"
+    "address": "Klaipėda, Dubysos g. 58C-6, LT-94107",
+    "vatcode": "LT100018902217"
   },
   {
     "name": "UAB \"Trust Project Services\"",
     "code": "304069089",
-    "address": "Klaipėda, Dubysos g. 58C-6, LT-94107"
+    "address": "Klaipėda, Dubysos g. 58C-6, LT-94107",
+    "vatcode": "LT100009559519"
   },
   {
     "name": "UAB \"Trust Systems\"",
@@ -210,12 +244,14 @@
   {
     "name": "UAB Inner trust",
     "code": "306677193",
-    "address": "Vilnius, Olimpiečių g. 6-1, LT-09237"
+    "address": "Vilnius, Olimpiečių g. 6-1, LT-09237",
+    "vatcode": "LT100017250318"
   },
   {
     "name": "UAB JFK Trust",
     "code": "302715180",
-    "address": "Vilnius, Turniškių g. 29-1, LT-10104"
+    "address": "Vilnius, Turniškių g. 29-1, LT-10104",
+    "vatcode": "LT100006737716"
   },
   {
     "name": "UAB Lara trust",
@@ -245,7 +281,8 @@
   {
     "name": "UAB World Halal Trust",
     "code": "303536419",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100010229917"
   },
   {
     "name": "Viešoji įstaiga \"AMBER TRUST\"",
@@ -255,7 +292,7 @@
   {
     "name": "Trans Trustas, UAB",
     "code": "307024430",
-    "address": "Vilkaviškio r. sav., Kybartai, Vištyčio g. 43A, LT-70428",
+    "address": "Vilkaviškio r. sav., Kybartų sen., Gudkaimio k., Dvaro g. 20-2, LT-70455",
     "vatcode": "LT100017328419"
   },
   {
@@ -272,7 +309,8 @@
   {
     "name": "UAB Trustauto",
     "code": "306033017",
-    "address": "Kaunas, Pabradės g. 20, LT-45444"
+    "address": "Kaunas, Pabradės g. 20, LT-45444",
+    "vatcode": "LT100014900118"
   },
   {
     "name": "TRUSTCOM FINANCIAL UAB",
@@ -298,7 +336,8 @@
   {
     "name": "Trusted, MB",
     "code": "306362265",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100016864119"
   },
   {
     "name": "WORLD TRUSTED INVESTMENTS INC Lietuvos filialas",
@@ -323,7 +362,13 @@
   {
     "name": "UAB \"Trustek\"",
     "code": "305604114",
-    "address": "Kauno r. sav., Garliava, Liepų g. 34, LT-53205"
+    "address": "Kauno r. sav., Garliava, Liepų g. 34, LT-53205",
+    "vatcode": "LT100013363819"
+  },
+  {
+    "name": "UAB Trustera",
+    "code": "307478874",
+    "address": "Vilnius, Žirmūnų g. 115-96, LT-09118"
   },
   {
     "name": "MB \"Trustful projects\"",
@@ -334,12 +379,14 @@
   {
     "name": "UAB Trustguru",
     "code": "305570263",
-    "address": "Kaunas, K. Petrausko g. 26, LT-44156"
+    "address": "Kaunas, K. Petrausko g. 26, LT-44156",
+    "vatcode": "LT100013506318"
   },
   {
     "name": "UAB \"Trusthill\"",
     "code": "300608361",
-    "address": "Vilnius, Sporto g. 8-72, LT-09238"
+    "address": "Vilnius, Sporto g. 8-72, LT-09238",
+    "vatcode": "LT100002959718"
   },
   {
     "name": "MB Trusthire",
@@ -359,12 +406,14 @@
   {
     "name": "\"Trustlog\", UAB",
     "code": "306177829",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100015462010"
   },
   {
     "name": "MB \"Trustlogistics\"",
     "code": "306657568",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100017727517"
   },
   {
     "name": "\"Trustmedicas\", UAB",
@@ -374,12 +423,14 @@
   {
     "name": "UAB \"Trustpack\"",
     "code": "305669044",
-    "address": "Vilnius, Vėtrungių g. 69, LT-06304"
+    "address": "Vilnius, Vėtrungių g. 69, LT-06304",
+    "vatcode": "LT100013626418"
   },
   {
     "name": "Trustpilot UAB",
     "code": "304498206",
-    "address": "Vilnius, Lvivo g. 105A, LT-08104"
+    "address": "Vilnius, Lvivo g. 105A, LT-08104",
+    "vatcode": "LT100010894511"
   },
   {
     "name": "MB Trustra",
@@ -389,7 +440,8 @@
   {
     "name": "UAB \"Trustransa\"",
     "code": "305012155",
-    "address": "Tauragė, Ateities tak. 8-1, LT-72286"
+    "address": "Tauragė, Ateities tak. 8-1, LT-72286",
+    "vatcode": "LT100012198016"
   },
   {
     "name": "Trustsolutions MB",

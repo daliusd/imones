@@ -1,28 +1,13 @@
 [
   {
-    "name": "AB \"Lietuvos geležinkeliai\" Keleivių vežimo direkcijos Keleivinių vagonų depo darbuotojų profesinė sąjunga",
-    "code": "125533733",
-    "address": "Vilnius, Iešmininkų g. 17A, LT-02151"
-  },
-  {
     "name": "AB \"Lietuvos geležinkeliai\" Radviliškio lokomotyvų depo profesinė sąjunga",
     "code": "191999932",
     "address": "Radviliškis, Laisvės al. 17, LT-82119"
   },
   {
-    "name": "AB \"Lietuvos geležinkeliai\" Radviliškio prekinių vagonų depo darbuotojų profesinė sąjunga",
-    "code": "171661147",
-    "address": "Radviliškis, Puškino g. 1, LT-82124"
-  },
-  {
     "name": "Elektrinių traukinių depo profesinė sąjunga",
     "code": "302850324",
     "address": "Vilnius, Pramonės g. 78, LT-11115"
-  },
-  {
-    "name": "Panevėžio \"Depo\" darbuotojų profesinė sąjunga \"Solidarumas\"",
-    "code": "305216115",
-    "address": "Vilnius, Ulonų g. 5-301, LT-08240"
   },
   {
     "name": "Radviliškio prekinių vagonų depo darbuotojų profesinė sąjunga",
@@ -48,7 +33,13 @@
   {
     "name": "UAB \"Deporo\"",
     "code": "305818591",
-    "address": "Kaunas, Ašigalio g. 51-13, LT-49145"
+    "address": "Kaunas, Ašigalio g. 51-13, LT-49145",
+    "vatcode": "LT100014216614"
+  },
+  {
+    "name": "\"BALTIJOS ALJANSAS\" tremčių ir deportacijų istorinės atminties asociacija",
+    "code": "307600997",
+    "address": "Kaunas, Laisvės al. 39, LT-44309"
   },
   {
     "name": "UAB \"Deposta\"",
@@ -58,12 +49,14 @@
   {
     "name": "UAB \"Depot Vilnius\"",
     "code": "305368386",
-    "address": "Vilnius, Kirtimų g. 61, LT-02244"
+    "address": "Vilnius, Kirtimų g. 61, LT-02244",
+    "vatcode": "LT100012836414"
   },
   {
     "name": "UAB Monk's Depot",
     "code": "305669005",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Pakapės k., Kalno g. 7, LT-80146"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Pakapės k., Kalno g. 7, LT-80146",
+    "vatcode": "LT100013675519"
   },
   {
     "name": "MB \"Depotus\"",

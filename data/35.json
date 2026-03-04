@@ -58,7 +58,8 @@
   {
     "name": "355-oji garažų statybos ir eksploatavimo bendrija",
     "code": "124751679",
-    "address": "Vilnius, Šeškinės g. 2, LT-07152"
+    "address": "Vilnius, Šeškinės g. 2, LT-07152",
+    "vatcode": "LT247516716"
   },
   {
     "name": "356-oji daugiabučio namo savininkų bendrija",
@@ -77,8 +78,7 @@
   },
   {
     "name": "357-oji daugiabučio namo savininkų bendrija",
-    "code": "135404719",
-    "address": "Kaunas, Vilniaus g. 74A, LT-44291"
+    "code": "135404719"
   },
   {
     "name": "357-oji garažų statybos ir eksploatavimo bendrija",
@@ -99,11 +99,6 @@
     "name": "359-oji garažų statybos ir eksploatavimo bendrija",
     "code": "124754974",
     "address": "Vilnius, Gerovės g. 55-31, LT-11221"
-  },
-  {
-    "name": "359-oji gyvenamojo namo statybos bendrija",
-    "code": "124773565",
-    "address": "Vilnius, Linksmoji g. 3-11, LT-11222"
   },
   {
     "name": "35-oji butų savininkų bendrija",
@@ -149,11 +144,6 @@
     "name": "Daugiabučio namo Gytarių g. 35 savininkų bendrija",
     "code": "300074199",
     "address": "Šiauliai, Gytarių g. 35, LT-78414"
-  },
-  {
-    "name": "Daugiabučio namo Kauno g. 35, Vilniuje savininkų bendrija",
-    "code": "300616739",
-    "address": "Vilnius, Kauno g. 35-37, LT-03229"
   },
   {
     "name": "Daugiabučio namo Korsako g. 35 savininkų bendrija",
@@ -266,6 +256,11 @@
     "address": "Alytus, Volungės g. 46-11, LT-63183"
   },
   {
+    "name": "IĮ 35 milimetrai",
+    "code": "305716825",
+    "address": "Rokiškis, Serapiniškių g. 2, LT-42126"
+  },
+  {
     "name": "Kniaudiškių g. 35-ojo namo savininkų bendrija",
     "code": "148299944",
     "address": "Panevėžys, Kniaudiškių g. 35, LT-37115"
@@ -294,7 +289,8 @@
   {
     "name": "Namų S. Žukausko g. 33 ir 35 Vilniuje savininkų bendrija",
     "code": "304746363",
-    "address": "Vilnius, S. Žukausko g. 35-73, LT-09129"
+    "address": "Vilnius, S. Žukausko g. 35-73, LT-09129",
+    "vatcode": "LT100016843812"
   },
   {
     "name": "Nevėžio g. 35-ojo namo savininkų bendrija",

@@ -1,5 +1,9 @@
 [
   {
+    "name": "UAB \"Angebotas\"",
+    "code": "304705701"
+  },
+  {
     "name": "MB \"ANGEL ANAMIKA\"",
     "code": "306377160",
     "address": "Vilnius, Girulių g. 5, LT-12124"
@@ -23,7 +27,8 @@
   {
     "name": "UAB Angel Trans",
     "code": "304822366",
-    "address": "Vilnius, Girulių g. 5, LT-12124"
+    "address": "Vilnius, Girulių g. 5, LT-12124",
+    "vatcode": "LT100011629211"
   },
   {
     "name": "VšĮ Vaikų meno studija \"Angel\"",
@@ -59,12 +64,22 @@
   {
     "name": "UAB \"Didieji angelai\"",
     "code": "307069774",
-    "address": "Pakruojo r. sav., Pašvitinys, Aleksandro Vainausko g. 8, LT-83342"
+    "address": "Pakruojo r. sav., Pašvitinys, Aleksandro Vainausko g. 8, LT-83342",
+    "vatcode": "LT100019028118"
+  },
+  {
+    "name": "UAB \"Skyrybų angelai\"",
+    "code": "307599502",
+    "address": "Klaipėda, Tiltų g. 19, LT-91249"
   },
   {
     "name": "UAB \"Teisės angelai\"",
     "code": "303290693",
     "address": "Vilnius, Veiverių g. 9B-1, LT-11346"
+  },
+  {
+    "name": "UAB Verslo angelai",
+    "code": "302815914"
   },
   {
     "name": "Viešoji įstaiga Pagalbos angelai",
@@ -94,12 +109,18 @@
   {
     "name": "UAB Duoklė Angelams",
     "code": "302863994",
-    "address": "Vilnius, J. Basanavičiaus g. 16-16, LT-03224"
+    "address": "Vilnius, J. Basanavičiaus g. 16-16, LT-03224",
+    "vatcode": "LT100007145119"
   },
   {
     "name": "UAB \"Angelana\"",
     "code": "304451523",
     "address": "Vilnius, Tramvajų g. 8-27, LT-10322"
+  },
+  {
+    "name": "IĮ \"Pūkuotas angelas\"",
+    "code": "302414234",
+    "address": "Kaunas, Taikos pr. 46-16, LT-50234"
   },
   {
     "name": "MB \"Apskaitos angelas\"",
@@ -120,7 +141,8 @@
   {
     "name": "UAB \"Miegantis angelas\"",
     "code": "304027866",
-    "address": "Tauragė, Dariaus ir Girėno g. 36-77, LT-72243"
+    "address": "Tauragė, Dariaus ir Girėno g. 36-77, LT-72243",
+    "vatcode": "LT100009321519"
   },
   {
     "name": "UAB koncernas \"Angelas\"",
@@ -158,6 +180,17 @@
     "address": "Vilnius, Linksmoji g. 133-4, LT-11233"
   },
   {
+    "name": "Z. Angelienės IĮ",
+    "code": "180768447",
+    "address": "Telšiai, Respublikos g. 71, LT-87337"
+  },
+  {
+    "name": "Angelijos Skačkauskienės įmonė",
+    "code": "279885760",
+    "address": "Tauragės r. sav., Batakiai, Ateities g. 22, LT-73463",
+    "vatcode": "LT798857610"
+  },
+  {
     "name": "UAB Angelijos Kubilienės odontologijos klinika",
     "code": "170691874",
     "address": "Prienai, Vytauto g. 32-26, LT-59126"
@@ -169,7 +202,8 @@
   {
     "name": "MB \"Angelita\"",
     "code": "306337034",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017049715"
   },
   {
     "name": "MB \"ANGELITAZ\"",
@@ -199,7 +233,8 @@
   {
     "name": "UAB \"Angelma\"",
     "code": "151163979",
-    "address": "Marijampolė, Sasnavos g. 78, LT-68110"
+    "address": "Marijampolė, Sasnavos g. 78, LT-68110",
+    "vatcode": "LT511639716"
   },
   {
     "name": "Asociacija Angelo galerija",
@@ -212,6 +247,10 @@
     "address": "Panevėžys, Gėlainių g. 62, LT-36252"
   },
   {
+    "name": "Linos Baziukienės studija \"Angelo šviesa\"",
+    "code": "135500240"
+  },
+  {
     "name": "MB \"Angelo Romarus\"",
     "code": "305592644",
     "address": "Vilnius, Meistrų g. 9, LT-02190"
@@ -219,7 +258,8 @@
   {
     "name": "MB \"Angelo akmuo\"",
     "code": "305559509",
-    "address": "Vilniaus r. sav., Mickūnai, Vilniaus g. 16B, LT-13116"
+    "address": "Vilniaus r. sav., Mickūnai, Vilniaus g. 16B, LT-13116",
+    "vatcode": "LT100013768411"
   },
   {
     "name": "MB \"Angelo svetainė\"",
@@ -235,7 +275,8 @@
   {
     "name": "MB Angelo terapija",
     "code": "306627767",
-    "address": "Naujoji Akmenė, Ramučių g. 2-3, LT-85137"
+    "address": "Naujoji Akmenė, Ramučių g. 2-3, LT-85137",
+    "vatcode": "LT100017914715"
   },
   {
     "name": "UAB \"Angelo Decor\"",
@@ -246,7 +287,8 @@
   {
     "name": "UAB \"Angelo kelionės\"",
     "code": "300622980",
-    "address": "Visaginas, Veteranų g. 10-16, LT-31134"
+    "address": "Visaginas, Veteranų g. 10-16, LT-31134",
+    "vatcode": "LT100003829210"
   },
   {
     "name": "UAB \"Angelo miestas\"",
@@ -316,7 +358,8 @@
   {
     "name": "UAB \"Foto Angels LT\"",
     "code": "305182652",
-    "address": "Vilnius, Krokuvos g. 13, LT-09314"
+    "address": "Vilnius, Krokuvos g. 13, LT-09314",
+    "vatcode": "LT100012491815"
   },
   {
     "name": "VšĮ AngelsBand",
@@ -324,8 +367,50 @@
     "address": "Vilnius, Jogailos g. 4, LT-01116"
   },
   {
+    "name": "IĮ \"Angelyja\"",
+    "code": "305940339",
+    "address": "Jonava, Chemikų g. 74-32, LT-55236"
+  },
+  {
+    "name": "ANGELĖS GELAŽIENĖS įmonė",
+    "code": "145890949"
+  },
+  {
+    "name": "Angelės Balsevičienės įmonė",
+    "code": "145780673"
+  },
+  {
+    "name": "Angelės Dvareckaitės IĮ",
+    "code": "300009707",
+    "address": "Kalvarijos sav., Sangrūdos sen., Mockų k., Klevų g. 53, LT-69266"
+  },
+  {
+    "name": "Angelės Gadeikienės įmonė \"Notė\"",
+    "code": "157532148",
+    "address": "Joniškis, Žemaičių g. 1B, LT-84147",
+    "vatcode": "LT575321412"
+  },
+  {
     "name": "Angelės Inokaitienės įmonė",
     "code": "132407012"
+  },
+  {
+    "name": "Angelės Lelienės individuali įmonė",
+    "code": "302656718"
+  },
+  {
+    "name": "Angelės Mikalauskienės įmonė",
+    "code": "159813724"
+  },
+  {
+    "name": "Angelės Papečkienės prekybos IĮ",
+    "code": "151412537",
+    "address": "Marijampolė, J. Ambrazevičiaus-Brazaičio g. 1-23, LT-68160"
+  },
+  {
+    "name": "Angelės Skinkienės individuali įmonė",
+    "code": "170796430",
+    "address": "Prienų r. sav., Naujosios Ūtos sen., Dūmiškių k., Rožių g. 5, LT-59256"
   },
   {
     "name": "Angelės Stankevičienės individuali įmonė",
@@ -333,9 +418,26 @@
     "address": "Alytus, Likiškėlių g. 102, LT-63355"
   },
   {
+    "name": "Angelės Vaišnorienės individuali įmonė",
+    "code": "184842877"
+  },
+  {
+    "name": "Angelės Valesės Plioplienės prekybos įmonė",
+    "code": "165832387"
+  },
+  {
     "name": "Angelės Vižainiškienės stomatologinis kabinetas",
     "code": "165774222",
     "address": "Kalvarija, Sodų g. 4-3"
+  },
+  {
+    "name": "IĮ \"Angelės viltis\"",
+    "code": "302688737",
+    "address": "Panevėžys, Žemaičių g. 43-31, LT-36117"
+  },
+  {
+    "name": "UAB \"Angelės Garmuvienės vaistinė\"",
+    "code": "170769369"
   },
   {
     "name": "ANGELŲ KALVOS BENDRUOMENĖ",
@@ -378,6 +480,11 @@
     "address": "Biržų r. sav., Širvėnos sen., Geidžiūnų k."
   },
   {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB \"Verslo angelų fondas II\"",
+    "code": "304869519",
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
+  },
+  {
     "name": "IĮ \"Angelų rojus\"",
     "code": "300013118"
   },
@@ -394,12 +501,14 @@
   {
     "name": "MB \"11 Angelų\"",
     "code": "307562404",
-    "address": "Klaipėdos r. sav., Vėžaičių sen., Lapių k., Žvelsos g. 11, LT-96200"
+    "address": "Klaipėdos r. sav., Vėžaičių sen., Lapių k., Žvelsos g. 11, LT-96200",
+    "vatcode": "LT100019630319"
   },
   {
     "name": "MB \"Angelų namai\"",
     "code": "305566884",
-    "address": "Alytaus r. sav., Alytaus sen., Nemunaičio k., Giraitės g. 12, LT-62202"
+    "address": "Alytaus r. sav., Alytaus sen., Nemunaičio k., Giraitės g. 12, LT-62202",
+    "vatcode": "LT100018374912"
   },
   {
     "name": "MB \"Angelų vizija\"",
@@ -434,7 +543,8 @@
   {
     "name": "UAB \"Angelų pramogos\"",
     "code": "302500434",
-    "address": "Vilnius, Sėlių g. 64, LT-08109"
+    "address": "Vilnius, Sėlių g. 64, LT-08109",
+    "vatcode": "LT100005357316"
   },
   {
     "name": "UAB Angelų studija",
@@ -461,6 +571,10 @@
     "name": "VšĮ Krizių centras \"Angelų pieva\"",
     "code": "300052039",
     "address": "Utenos r. sav., Daugailių sen., Ruklių k., Žvejų g. 7, LT-28404"
+  },
+  {
+    "name": "VšĮ Šiaulių vaikų darželis \"Angelų lopšys\"",
+    "code": "306080974"
   },
   {
     "name": "Šventųjų angelų labdaros ir paramos fondas",

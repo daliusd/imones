@@ -235,12 +235,14 @@
   {
     "name": "UAB \"Varėnos medžioklė ir žūklė\"",
     "code": "304607424",
-    "address": "Varėna, Marcinkonių g. 8-14, LT-65164"
+    "address": "Varėna, Marcinkonių g. 8-14, LT-65164",
+    "vatcode": "LT100011098115"
   },
   {
     "name": "UAB \"Varėnos pienelis\"",
     "code": "300076289",
-    "address": "Varėna, J. Basanavičiaus g. 52, LT-65210"
+    "address": "Varėna, J. Basanavičiaus g. 52, LT-65210",
+    "vatcode": "LT100001453913"
   },
   {
     "name": "UAB Varėnos medicinos centras",
@@ -256,7 +258,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Varėnos aplinkotvarkos grupė\"",
     "code": "184842158",
-    "address": "Varėna, Pramonės g. 3, LT-65210"
+    "address": "Varėna, Pramonės g. 3, LT-65210",
+    "vatcode": "LT848421515"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Varėnos autobusų parkas\"",
@@ -273,7 +276,12 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Varėnos knyga\"",
     "code": "184552774",
-    "address": "Varėna, Vytauto g. 8, LT-65184"
+    "address": "Varėna, Vytauto g. 8, LT-65184",
+    "vatcode": "LT845527716"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Varėnos ritualinės paslaugos\"",
+    "code": "184627910"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Varėnos sporto ir technikos klubas\"",
@@ -283,7 +291,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Varėnos vandenys\"",
     "code": "184626819",
-    "address": "Varėna, Žalioji g. 26, LT-65210"
+    "address": "Varėna, Žalioji g. 26, LT-65210",
+    "vatcode": "LT846268113"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Varėnos šiluma\"",
@@ -325,11 +334,6 @@
     "name": "Valstybės sienos apsaugos tarnybos Varėnos rinktinės profesinė sąjunga",
     "code": "295764950",
     "address": "Varėnos r. sav., Matuizų sen., Matuizų k., Statybininkų g. 9-1, LT-65470"
-  },
-  {
-    "name": "Valstybės įmonė Varėnos miškų urėdija profesinė sąjunga \"Solidarumas\"",
-    "code": "300528417",
-    "address": "Varėna, Miškininkų g. 5, LT-65156"
   },
   {
     "name": "Varėnos \"Pasakos\" vaikų lopšelis-darželis",
@@ -469,12 +473,14 @@
   {
     "name": "Varėnos rajono Dubičių žemės ūkio bendrovė",
     "code": "184550047",
-    "address": "Varėna, Mechanizatorių g. 34A, LT-65204"
+    "address": "Varėna, Mechanizatorių g. 34A, LT-65204",
+    "vatcode": "LT845500410"
   },
   {
     "name": "Varėnos rajono Merkinės tiekimo ir techninio aptarnavimo žemės ūkio bendrovė",
     "code": "184544521",
-    "address": "Varėnos r. sav., Merkinė"
+    "address": "Varėnos r. sav., Merkinė",
+    "vatcode": "LT100002742811"
   },
   {
     "name": "Varėnos rajono Strielčiškių žemės ūkio bendrovė",
@@ -614,17 +620,24 @@
   {
     "name": "Varėnos rajono žemės ūkio bendrovė \"Kalnas\"",
     "code": "184566756",
-    "address": "Varėnos r. sav., Kaniavos sen., Dubičių k."
+    "address": "Varėnos r. sav., Kaniavos sen., Dubičių k.",
+    "vatcode": "LT845667515"
   },
   {
     "name": "Varėnos rajono žemės ūkio bendrovė \"Kibyšiai\"",
     "code": "184545057",
-    "address": "Varėnos r. sav., Merkinės sen., Kibyšių k."
+    "address": "Varėnos r. sav., Merkinės sen., Kibyšių k.",
+    "vatcode": "LT845450515"
   },
   {
     "name": "Varėnos rajono žemės ūkio bendrovė \"Kriviliai\"",
     "code": "184553157",
-    "address": "Varėnos r. sav., Vydenių sen., Krivilių k."
+    "address": "Varėnos r. sav., Vydenių sen., Krivilių k.",
+    "vatcode": "LT845531515"
+  },
+  {
+    "name": "Varėnos rajono žemės ūkio bendrovė \"Krūminių lentpjūvė\"",
+    "code": "184547065"
   },
   {
     "name": "Varėnos rajono žemės ūkio bendrovė \"Tėviškė\"",
@@ -676,6 +689,10 @@
     "name": "Varėnos triatlono klubas",
     "code": "306220127",
     "address": "Varėnos r. sav., Varėnos sen., Senosios Varėnos k., Rūtų g. 9, LT-65488"
+  },
+  {
+    "name": "Varėnos turizmo ir verslo informacijos centras",
+    "code": "300058775"
   },
   {
     "name": "Varėnos turizmo ir verslumo centras \"Korys\"",
@@ -761,12 +778,14 @@
   {
     "name": "MB Varėnės marina",
     "code": "306092695",
-    "address": "Varėnos r. sav., Varėnos sen., Senosios Varėnos k., Vytauto g. 163, LT-65487"
+    "address": "Varėnos r. sav., Varėnos sen., Senosios Varėnos k., Vytauto g. 163, LT-65487",
+    "vatcode": "LT100015033011"
   },
   {
     "name": "UAB \"Senosios Varėnės HE\"",
     "code": "301851590",
-    "address": "Kaunas, Lazdijų g. 8, LT-46349"
+    "address": "Kaunas, Lazdijų g. 8, LT-46349",
+    "vatcode": "LT100004278216"
   },
   {
     "name": "UAB \"Varėnės vingis\"",

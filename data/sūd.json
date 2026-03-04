@@ -166,6 +166,11 @@
     "address": "Marijampolės sav., Sasnava, Žemdirbių g. 5A, LT-69480"
   },
   {
+    "name": "IĮ \"Sūduvos taksi\"",
+    "code": "151273863",
+    "address": "Marijampolė, R. Juknevičiaus g. 96-38, LT-68195"
+  },
+  {
     "name": "Klubas \"Sūduvos narai\"",
     "code": "303335373",
     "address": "Trakai, Kalno g. 5, LT-21110"
@@ -178,7 +183,8 @@
   {
     "name": "MB \"Sūduvos reklama\"",
     "code": "304791892",
-    "address": "Marijampolė, P. Cvirkos g. 3-31, LT-68178"
+    "address": "Marijampolė, P. Cvirkos g. 3-31, LT-68178",
+    "vatcode": "LT100012018011"
   },
   {
     "name": "MB Sūduvos darbai",
@@ -284,7 +290,8 @@
   {
     "name": "UAB \"Sūduvos arka\"",
     "code": "151133982",
-    "address": "Marijampolė, Vasaros g. 88, LT-68266"
+    "address": "Marijampolė, Vasaros g. 88, LT-68266",
+    "vatcode": "LT100002461617"
   },
   {
     "name": "UAB \"Sūduvos galvijai\"",
@@ -301,12 +308,14 @@
   {
     "name": "UAB \"Sūduvos kalva\"",
     "code": "302593417",
-    "address": "Vilkaviškio r. sav., Keturvalakių sen., Bačkiškių k., Beržų g. 1, LT-70312"
+    "address": "Vilkaviškio r. sav., Keturvalakių sen., Bačkiškių k., Beržų g. 1, LT-70312",
+    "vatcode": "LT100007992313"
   },
   {
     "name": "UAB \"Sūduvos kompiuteriai\"",
     "code": "305393546",
-    "address": "Marijampolė, Draugystės g. 14A, LT-68261"
+    "address": "Marijampolė, Draugystės g. 14A, LT-68261",
+    "vatcode": "LT100012849719"
   },
   {
     "name": "UAB \"Sūduvos leidyba\"",
@@ -326,12 +335,14 @@
   {
     "name": "UAB \"Sūduvos optika\"",
     "code": "302522466",
-    "address": "Marijampolė, P. Armino g. 5, LT-68295"
+    "address": "Marijampolė, P. Armino g. 5, LT-68295",
+    "vatcode": "LT100005679316"
   },
   {
     "name": "UAB \"Sūduvos statyba\"",
     "code": "303389524",
-    "address": "Kalvarijos sav., Kalvarijos sen., Jonų k., Eglės g. 33, LT-69316"
+    "address": "Kalvarijos sav., Kalvarijos sen., Jonų k., Eglės g. 33, LT-69316",
+    "vatcode": "LT100008836311"
   },
   {
     "name": "UAB \"Sūduvos vandenys\" darbininkų sąjunga",
@@ -341,7 +352,8 @@
   {
     "name": "UAB \"Sūduvos ūkis\"",
     "code": "305945215",
-    "address": "Panevėžio r. sav., Raguvos sen., Užubalių k. 6, LT-38174"
+    "address": "Panevėžio r. sav., Raguvos sen., Užubalių k. 6, LT-38174",
+    "vatcode": "LT100014564310"
   },
   {
     "name": "UAB Sūduvos vėjas",
@@ -357,7 +369,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Sūduvos vandenys\"",
     "code": "151104226",
-    "address": "Marijampolė, Vasaros g. 7, LT-68114"
+    "address": "Marijampolė, Vasaros g. 7, LT-68114",
+    "vatcode": "LT511042219"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"Sūduvos vandenys\" profesinė sąjunga",
@@ -397,5 +410,9 @@
   {
     "name": "Žemės ūkio kooperatyvas \"Sūduvos artojas\"",
     "code": "302836310"
+  },
+  {
+    "name": "Ingridos Sūdžienės įmonė",
+    "code": "133111920"
   }
 ]

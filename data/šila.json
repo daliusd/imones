@@ -12,7 +12,8 @@
   {
     "name": "Šiaulių rajono Šiladžio žemės ūkio bendrovė",
     "code": "175744035",
-    "address": "Šiaulių r. sav., Kairiai"
+    "address": "Šiaulių r. sav., Kairiai",
+    "vatcode": "LT757440314"
   },
   {
     "name": "Panevėžio rajono Šilagalio kultūros centras",
@@ -27,7 +28,8 @@
   {
     "name": "PANEVĖŽIO RAJONO ŽEMĖS ŪKIO BENDROVĖ \"ŠILAGALIS\"",
     "code": "268565360",
-    "address": "Panevėžio r. sav., Panevėžio sen., Šilagalio k., Durpyno g. 22, LT-36258"
+    "address": "Panevėžio r. sav., Panevėžio sen., Šilagalio k., Durpyno g. 22, LT-36258",
+    "vatcode": "LT685653610"
   },
   {
     "name": "Gyventojų bendruomenės centras \"Šilagalys\"",
@@ -56,8 +58,11 @@
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Šilagėlė\"",
-    "code": "277378160",
-    "address": "Šilutės r. sav., Šilutės sen., Traksėdžių k., Šilojų g. 3, LT-99106"
+    "code": "277378160"
+  },
+  {
+    "name": "MB \"Šilagėlė ir ko\"",
+    "code": "303166158"
   },
   {
     "name": "UAB \"Šilagėlės būstai\"",
@@ -73,7 +78,8 @@
   {
     "name": "MB \"Šilai agro\"",
     "code": "306341068",
-    "address": "Raseinių r. sav., Betygalos sen., Ilgižių III k., Žvairupio g. 7, LT-60483"
+    "address": "Raseinių r. sav., Betygalos sen., Ilgižių III k., Žvairupio g. 7, LT-60483",
+    "vatcode": "LT100016978811"
   },
   {
     "name": "Šilalės rajono žemės ūkio bendrovė \"Šilai\"",
@@ -90,6 +96,11 @@
     "name": "Šilaikienės įmonė \"Pasakyk visiems\"",
     "code": "222060030",
     "address": "Vilnius, Minties g. 11-57, LT-08231"
+  },
+  {
+    "name": "Alvydo Kasiulevičiaus įmonė \"Šilainiai\"",
+    "code": "233091810",
+    "address": "Kaunas, Sukilėlių pr. 112-58, LT-49240"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Šilainiai-5\"",
@@ -157,6 +168,11 @@
     "address": "Alytaus r. sav., Pivašiūnų sen., Mikalavo k., Mikalavo kel. 26, LT-64484"
   },
   {
+    "name": "A. Šilalienės įmonė",
+    "code": "135803038",
+    "address": "Kaunas, Kuršių g. 60-5, LT-48133"
+  },
+  {
     "name": "Visuomeninis judėjimas \"ŠILALIŠKIAI\"",
     "code": "302625797",
     "address": "Šilalė, J. Basanavičiaus g. 4, LT-75138"
@@ -195,6 +211,17 @@
     "name": "Centro judėjimas už Šilalės kraštą",
     "code": "305982886",
     "address": "Šilalė, Aušros g. 43, LT-75132"
+  },
+  {
+    "name": "G. Šilalės individuali įmonė",
+    "code": "301347537",
+    "address": "Alytus, Ligoninės g. 4-15, LT-62114",
+    "vatcode": "LT100003682810"
+  },
+  {
+    "name": "K. Šilalės individuali įmonė",
+    "code": "153695137",
+    "address": "Alytaus r. sav., Daugų sen., Kančėnų k., Mokyklos g. 22, LT-64133"
   },
   {
     "name": "Lietuvos aklųjų ir silpnaregių sąjungos Šilalės rajono filialas",
@@ -259,7 +286,8 @@
   {
     "name": "MB \"Šilalės granitas\"",
     "code": "305659858",
-    "address": "Šilalės r. sav., Šilalės kaimiškoji sen., Struikų k., Sodininkų g. 8, LT-75110"
+    "address": "Šilalės r. sav., Šilalės kaimiškoji sen., Struikų k., Sodininkų g. 8, LT-75110",
+    "vatcode": "LT100018326615"
   },
   {
     "name": "MB \"Šilalės legenda\"",
@@ -320,7 +348,8 @@
   {
     "name": "UAB \"Šilalės vėjas\"",
     "code": "302851807",
-    "address": "Vilnius, Vito Gerulaičio g. 10-101, LT-08200"
+    "address": "Vilnius, Vito Gerulaičio g. 10-101, LT-08200",
+    "vatcode": "LT100007376818"
   },
   {
     "name": "UAB \"Šilalės žinios\"",
@@ -340,12 +369,14 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Šilalės artojas\"",
     "code": "176600454",
-    "address": "Šilalė, J. Basanavičiaus g. 2, LT-75138"
+    "address": "Šilalė, J. Basanavičiaus g. 2, LT-75138",
+    "vatcode": "LT766004515"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Šilalės autobusų parkas\"",
     "code": "176523132",
-    "address": "Šilalė, Pūtvės Pilies g. 3, LT-75122"
+    "address": "Šilalė, Pūtvės Pilies g. 3, LT-75122",
+    "vatcode": "LT765231314"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Šilalės statyba\"",
@@ -524,6 +555,10 @@
     "name": "Šilalės rajono \"Piliakalnio\" medžiotojų klubas",
     "code": "190957275",
     "address": "Šilalės r. sav., Pajūrio sen., Jomantų k."
+  },
+  {
+    "name": "Šilalės rajono Kaltinėnų statybos bendrovė \"Statyba\"",
+    "code": "176553271"
   },
   {
     "name": "Šilalės rajono Vingininkų medžiotojų klubas",
@@ -740,6 +775,11 @@
     "vatcode": "LT100005934113"
   },
   {
+    "name": "VšĮ Negirdėti faktai apie Šilalę",
+    "code": "307602076",
+    "address": "Šilalė, Sporto g. 13, LT-75133"
+  },
+  {
     "name": "UAB \"Šilamiškis\"",
     "code": "307540258",
     "address": "Kaunas, Užkurių g. 8, LT-45476"
@@ -747,12 +787,19 @@
   {
     "name": "UAB \"Šilamiškė\"",
     "code": "304369001",
-    "address": "Vilnius, Kirtimų g. 2, LT-02300"
+    "address": "Vilnius, Kirtimų g. 2, LT-02300",
+    "vatcode": "LT100011819419"
   },
   {
     "name": "MB Šilamo",
     "code": "307409472",
     "address": "Molėtai, Kauno g. 5, LT-33101"
+  },
+  {
+    "name": "Z. Šilanskienės individuali įmonė",
+    "code": "158341950",
+    "address": "Jurbarko r. sav., Eržvilko sen., Pašaltuonio k., Alytaus g. 5, LT-74277",
+    "vatcode": "LT583419515"
   },
   {
     "name": "310-oji garažų statybos ir eksploatavimo bendrija \"ŠILAS\"",
@@ -796,8 +843,7 @@
   },
   {
     "name": "Biržų miesto Karaimų g. 5 gyvenamojo namo savininkų bendrija \"Šilas\"",
-    "code": "154893346",
-    "address": "Biržai, Karaimų g. 3, LT-41171"
+    "code": "154893346"
   },
   {
     "name": "Biržų rajono Pabiržės mstl., Likėnų g. 16 gyvenamojo namo savininkų bendrija \"Šilas\"",
@@ -807,7 +853,8 @@
   {
     "name": "Biržų rajono žemės ūkio bendrovė \"Šilas\"",
     "code": "154790079",
-    "address": "Biržų r. sav., Parovėjos sen., Užušilių k."
+    "address": "Biržų r. sav., Parovėjos sen., Užušilių k.",
+    "vatcode": "LT547900716"
   },
   {
     "name": "Butų savininkų bendrija \"Šilas\"",
@@ -875,6 +922,10 @@
     "address": "Vilniaus r. sav., Avižienių sen., Pikutiškių k., Grybų g. 37, LT-14194"
   },
   {
+    "name": "Individuali įmonė \"Šilas\"",
+    "code": "154115523"
+  },
+  {
     "name": "Individualių gyvenamųjų namų bendrija \"Gulbinų šilas\"",
     "code": "306290887",
     "address": "Vilniaus r. sav., Riešės sen., Kalino k., Užuovėjos g. 19, LT-14258"
@@ -883,6 +934,10 @@
     "name": "Individualiųjų gyvenamųjų namų savininkų bendrija \"Žalesos šilas\"",
     "code": "300566001",
     "address": "Vilnius, Konstitucijos pr. 9-96, LT-09308"
+  },
+  {
+    "name": "K. Liudviko ir R. Liudvikienės įmonė \"Šilas\"",
+    "code": "159537560"
   },
   {
     "name": "Klaipėdos miesto medžiotojų ir žvejų klubas \"ŠILAS\"",
@@ -901,14 +956,21 @@
     "address": "Šilalė, D. Poškos g. 20-2, LT-75134"
   },
   {
+    "name": "MB \"Draustinės Šilas\"",
+    "code": "307602279",
+    "address": "Kaunas, Kovo 11-osios g. 69-24, LT-49433"
+  },
+  {
     "name": "MB Vasa šilas",
     "code": "307535720",
-    "address": "Telšių r. sav., Varniai, Ežero g. 7, LT-88318"
+    "address": "Telšių r. sav., Varniai, Ežero g. 7, LT-88318",
+    "vatcode": "LT100019472615"
   },
   {
     "name": "MB Veprių šilas",
     "code": "304433685",
-    "address": "Ukmergės r. sav., Deltuva, Paliepės g. 6, LT-20306"
+    "address": "Ukmergės r. sav., Deltuva, Paliepės g. 6, LT-20306",
+    "vatcode": "LT100010952018"
   },
   {
     "name": "MB Čiobiškio šilas",
@@ -944,7 +1006,8 @@
   {
     "name": "Miško savininkų kooperatyvas \"AUKŠTAITIJOS ŠILAS\"",
     "code": "167598520",
-    "address": "Molėtai, Inturkės g. 55, LT-33131"
+    "address": "Molėtai, Inturkės g. 55, LT-33131",
+    "vatcode": "LT675985219"
   },
   {
     "name": "Miško savininkų kooperatyvas \"JONAVOS ŠILAS\"",
@@ -961,12 +1024,14 @@
   {
     "name": "Miško savininkų kooperatyvas \"Žemaitijos šilas\"",
     "code": "300005961",
-    "address": "Kretingos r. sav., Darbėnų sen., Grūšlaukės k., Mokyklos g. 1-1, LT-97290"
+    "address": "Kretingos r. sav., Darbėnų sen., Grūšlaukės k., Mokyklos g. 1-1, LT-97290",
+    "vatcode": "LT100001075212"
   },
   {
     "name": "Miškų savininkų kooperatyvas \"Tauragės šilas\"",
     "code": "279903710",
-    "address": "Tauragė, Klevų g. 14"
+    "address": "Tauragė, Klevų g. 14",
+    "vatcode": "LT799037113"
   },
   {
     "name": "Orientavimosi sporto klubas \"Šilas\"",
@@ -1019,9 +1084,14 @@
     "address": "Kelmės r. sav., Tytuvėnai, Miškininkų g. 14, LT-86469"
   },
   {
+    "name": "UAB \"Gudelių šilas\"",
+    "code": "300126913"
+  },
+  {
     "name": "UAB \"Kavarsko šilas\"",
     "code": "302569569",
-    "address": "Vilnius, Karių Kapų g. 27-8, LT-10313"
+    "address": "Vilnius, Karių Kapų g. 27-8, LT-10313",
+    "vatcode": "LT100007650510"
   },
   {
     "name": "UAB \"Molėtų šilas\"",
@@ -1034,9 +1104,14 @@
     "address": "Šilutė, Klaipėdos g. 29A-3, LT-99115"
   },
   {
+    "name": "UAB \"SIMOKŲ ŠILAS\"",
+    "code": "301162620"
+  },
+  {
     "name": "UAB \"Senasis šilas\"",
     "code": "162433066",
-    "address": "Kelmė, Birutės g. 31B, LT-86139"
+    "address": "Kelmė, Birutės g. 31B, LT-86139",
+    "vatcode": "LT624330610"
   },
   {
     "name": "UAB \"Šlapias šilas\"",
@@ -1051,12 +1126,18 @@
   {
     "name": "UAB Šilas NT",
     "code": "306987587",
-    "address": "Anykščiai, J. Biliūno g. 7-3, LT-29113"
+    "address": "Anykščiai, J. Biliūno g. 7-3, LT-29113",
+    "vatcode": "LT100017180010"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kauno šilas\"",
     "code": "132039891",
-    "address": "Kaunas, Energetikų g. 32, LT-52485"
+    "address": "Kaunas, Energetikų g. 32, LT-52485",
+    "vatcode": "LT320398917"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"PAVILNIO ŠILAS\"",
+    "code": "300089450"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Platelių šilas\"",
@@ -1067,7 +1148,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Utenos šilas\"",
     "code": "183698210",
-    "address": "Utenos r. sav., Leliūnų sen., Antalgės k., Šilo g. 20, LT-28101"
+    "address": "Utenos r. sav., Leliūnų sen., Antalgės k., Šilo g. 20, LT-28101",
+    "vatcode": "LT836982113"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Šilas\"",
@@ -1097,7 +1179,8 @@
   {
     "name": "UAB Ela šilauogių namai",
     "code": "307327477",
-    "address": "Ignalinos r. sav., Didžiasalio sen., Navikų k., Kalno g. 18A-8, LT-30150"
+    "address": "Ignalinos r. sav., Didžiasalio sen., Navikų k., Kalno g. 18A-8, LT-30150",
+    "vatcode": "LT100019178918"
   },
   {
     "name": "UAB \"Šilaupis\"",
@@ -1107,7 +1190,14 @@
   {
     "name": "UAB \"Šilaupė\"",
     "code": "172333993",
-    "address": "Raseinių r. sav., Viduklė, Kęstučio g. 3, LT-60348"
+    "address": "Raseinių r. sav., Viduklė, Kęstučio g. 3, LT-60348",
+    "vatcode": "LT723339917"
+  },
+  {
+    "name": "P. V. Ramanausko įmonė \"Šilauta\"",
+    "code": "177350772",
+    "address": "Šilutė, Geležinkelio g. 3-1",
+    "vatcode": "LT773507716"
   },
   {
     "name": "Medžiotojų klubas \"Šilavotas\"",
@@ -1138,7 +1228,8 @@
   {
     "name": "UAB \"Šilavoto žemės ūkis\"",
     "code": "306647606",
-    "address": "Prienų r. sav., Šilavoto sen., Lėsiškio k., Pievų g. 10, LT-59272"
+    "address": "Prienų r. sav., Šilavoto sen., Lėsiškio k., Pievų g. 10, LT-59272",
+    "vatcode": "LT100016648810"
   },
   {
     "name": "Viešoji įstaiga Šilavoto interdisciplininis centras",
@@ -1163,6 +1254,7 @@
   {
     "name": "UAB \"Šilažolė\"",
     "code": "168511326",
-    "address": "Panevėžys, Paliūniškio g. 4, LT-35114"
+    "address": "Panevėžys, Paliūniškio g. 4, LT-35114",
+    "vatcode": "LT685113219"
   }
 ]

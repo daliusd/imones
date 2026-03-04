@@ -55,7 +55,8 @@
   {
     "name": "UAB \"Maistas ant lentelės\"",
     "code": "305690227",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100014802310"
   },
   {
     "name": "UAB \"Lenteo\"",
@@ -75,12 +76,14 @@
   {
     "name": "MB Lentmedis",
     "code": "305564901",
-    "address": "Anykščių r. sav., Svėdasai, Beržų g. 3, LT-29352"
+    "address": "Anykščių r. sav., Svėdasai, Beržų g. 3, LT-29352",
+    "vatcode": "LT100014144119"
   },
   {
     "name": "UAB \"Lentmena\"",
     "code": "304834436",
-    "address": "Šilalės r. sav., Kvėdarnos sen., Pajūralio k., Ąžuolų g. 5, LT-75322"
+    "address": "Šilalės r. sav., Kvėdarnos sen., Pajūralio k., Ąžuolų g. 5, LT-75322",
+    "vatcode": "LT100012175410"
   },
   {
     "name": "UAB \"Lentoma\"",
@@ -101,7 +104,8 @@
   {
     "name": "Mažoji bendrija \"Vandens lentos\"",
     "code": "304516704",
-    "address": "Klaipėda, Pajūrio g. 3 K3, LT-92347"
+    "address": "Klaipėda, Pajūrio g. 3 K3, LT-92347",
+    "vatcode": "LT100011769913"
   },
   {
     "name": "UAB \"Ant lentos\"",
@@ -130,6 +134,10 @@
     "address": "Druskininkų sav., Leipalingis, Nemuno g. 21, LT-67280"
   },
   {
+    "name": "UAB \"Liepaloto lentpjūvė\"",
+    "code": "170665947"
+  },
+  {
     "name": "UAB \"Milašaičių lentpjūvė\"",
     "code": "169814810",
     "address": "Plungės r. sav., Stalgėnų sen., Milašaičių k.",
@@ -138,7 +146,8 @@
   {
     "name": "UAB \"Mobili lentpjūvė\"",
     "code": "302643457",
-    "address": "Molėtų r. sav., Čiulėnų sen., Pašekščių k., Pušyno g. 14, LT-33346"
+    "address": "Molėtų r. sav., Čiulėnų sen., Pašekščių k., Pušyno g. 14, LT-33346",
+    "vatcode": "LT100008775013"
   },
   {
     "name": "UAB Laičių lentpjūvė",
@@ -148,12 +157,18 @@
   {
     "name": "UAB Petrašiūnų lentpjūvė",
     "code": "134133229",
-    "address": "Kaunas, R. Kalantos g. 15C, LT-52303"
+    "address": "Kaunas, R. Kalantos g. 15C, LT-52303",
+    "vatcode": "LT341332219"
   },
   {
     "name": "UAB Vido Rusecko lentpjūvė",
     "code": "170733914",
-    "address": "Prienų r. sav., Veiveriai, Petkeliškių g. 30, LT-59291"
+    "address": "Prienų r. sav., Veiveriai, Petkeliškių g. 30, LT-59291",
+    "vatcode": "LT707339113"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Rūdiškių lentpjūvė\"",
+    "code": "181319131"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Spadviliškio lentpjūvė\"",
@@ -163,18 +178,24 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Staniūnų lentpjūvė\"",
     "code": "168535035",
-    "address": "Panevėžio r. sav., Velžio sen., Staniūnų k."
+    "address": "Panevėžio r. sav., Velžio sen., Staniūnų k.",
+    "vatcode": "LT685350314"
   },
   {
     "name": "Uždaroji akcinė bendrovė Dirvonų lentpjūvė",
     "code": "169251874",
-    "address": "Pasvalio r. sav., Pumpėnų sen., Rinkūnų k."
+    "address": "Pasvalio r. sav., Pumpėnų sen., Rinkūnų k.",
+    "vatcode": "LT692518716"
   },
   {
     "name": "Uždaroji akcinė bendrovė Strielčių lentpjūvė",
     "code": "170794575",
     "address": "Prienų r. sav., Ašmintos sen., Strielčių k.",
     "vatcode": "LT707945716"
+  },
+  {
+    "name": "Varėnos rajono žemės ūkio bendrovė \"Krūminių lentpjūvė\"",
+    "code": "184547065"
   },
   {
     "name": "Rečionių lentpjūvės kooperatyvas",
@@ -189,7 +210,8 @@
   {
     "name": "UAB \"Lentransa\"",
     "code": "304139769",
-    "address": "Vilnius, Pramonės g. 97, LT-11115"
+    "address": "Vilnius, Pramonės g. 97, LT-11115",
+    "vatcode": "LT100010058012"
   },
   {
     "name": "Daugiabučių namų Lentupio g. 10 savininkų bendrija",
@@ -237,11 +259,6 @@
     "address": "Trakų r. sav., Lentvaris, Pietų g. 28, LT-25117"
   },
   {
-    "name": "Lentvario garažų eksploatavimo bendrija \"SIGNALAS\"",
-    "code": "181628697",
-    "address": "Trakų r. sav., Lentvaris, Bažnyčios g. 23-46, LT-25118"
-  },
-  {
     "name": "Lentvario m. krikščionių bendruomenė \"Biblijos kelias\"",
     "code": "192076823",
     "address": "Trakų r. sav., Lentvaris, Klevų al. 20, LT-25109"
@@ -269,12 +286,14 @@
   {
     "name": "MB \"Lentvario pirtis\"",
     "code": "302917456",
-    "address": "Vilnius, Dariaus ir Girėno g. 6-13, LT-02159"
+    "address": "Vilnius, Dariaus ir Girėno g. 6-13, LT-02159",
+    "vatcode": "LT100015498112"
   },
   {
     "name": "MB \"Lentvario veterinarijos klinika\"",
     "code": "181606462",
-    "address": "Trakų r. sav., Lentvaris, Račkūnų g. 36A, LT-25113"
+    "address": "Trakų r. sav., Lentvaris, Račkūnų g. 36A, LT-25113",
+    "vatcode": "LT100011719614"
   },
   {
     "name": "Trakų r. Lentvario \"Versmės\" gimnazija",
@@ -319,7 +338,8 @@
   {
     "name": "UAB \"LENTVARIO AUTOCENTRAS\"",
     "code": "300127328",
-    "address": "Vilnius, Kalvarijų g. 126-4, LT-08210"
+    "address": "Vilnius, Kalvarijų g. 126-4, LT-08210",
+    "vatcode": "LT100007267217"
   },
   {
     "name": "UAB \"Lentvario 18\"",
@@ -335,7 +355,8 @@
   {
     "name": "UAB \"Lentvario dvaras\"",
     "code": "304670378",
-    "address": "Trakų r. sav., Lentvaris, Klevų al. 48, LT-25101"
+    "address": "Trakų r. sav., Lentvaris, Klevų al. 48, LT-25101",
+    "vatcode": "LT100011183813"
   },
   {
     "name": "UAB \"Lentvario kilimai\"",
@@ -351,17 +372,20 @@
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"LENTVARIO VAISTINĖ\"",
     "code": "181288725",
-    "address": "Trakų r. sav., Lentvaris, Lauko g. 12, LT-25119"
+    "address": "Trakų r. sav., Lentvaris, Lauko g. 12, LT-25119",
+    "vatcode": "LT812887219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"LENTVARIO KOMUNALINIS ŪKIS\"",
     "code": "181382772",
-    "address": "Trakų r. sav., Lentvaris, Klevų al. 30, LT-25105"
+    "address": "Trakų r. sav., Lentvaris, Klevų al. 30, LT-25105",
+    "vatcode": "LT813827716"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Lentvario mediena\"",
     "code": "181531173",
-    "address": "Trakų r. sav., Lentvaris, Kęstučio g. 1M, LT-25144"
+    "address": "Trakų r. sav., Lentvaris, Kęstučio g. 1M, LT-25144",
+    "vatcode": "LT815311716"
   },
   {
     "name": "Viešoji įstaiga Lentvario ambulatorija",
@@ -401,7 +425,8 @@
   {
     "name": "UAB \"Lentvaris GM\"",
     "code": "306119847",
-    "address": "Vilnius, K. Donelaičio g. 3A-2, LT-03102"
+    "address": "Vilnius, K. Donelaičio g. 3A-2, LT-03102",
+    "vatcode": "LT100015816910"
   },
   {
     "name": "DAUGIABUČIO NAMO, MOKYKLOS G.5, LENTVARYJE, SAVININKŲ BENDRIJA",
@@ -438,16 +463,19 @@
   {
     "name": "UAB Sena lentyna",
     "code": "307501077",
-    "address": "Mažeikių r. sav., Tirkšlių sen., Krucių k., Piliakalnio g. 6, LT-89327"
+    "address": "Mažeikių r. sav., Tirkšlių sen., Krucių k., Piliakalnio g. 6, LT-89327",
+    "vatcode": "LT100019243417"
   },
   {
     "name": "UAB \"7 lentynos\"",
     "code": "306105331",
-    "address": "Kaunas, Pelėžirnių tak. 6, LT-48445"
+    "address": "Kaunas, Pelėžirnių tak. 6, LT-48445",
+    "vatcode": "LT100015087919"
   },
   {
     "name": "UAB \"Lentų broliai\"",
     "code": "304536735",
-    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Akacijų g. 38, LT-13268"
+    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Akacijų g. 38, LT-13268",
+    "vatcode": "LT100010958612"
   }
 ]

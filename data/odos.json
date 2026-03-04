@@ -5,6 +5,11 @@
     "address": "Radviliškio r. sav., Baisogala, Juozo Šarausko g. 2-3, LT-82323"
   },
   {
+    "name": "A. Petrošienės odos ir l.p. ligų kabinetas",
+    "code": "167262637",
+    "address": "Mažeikiai, Naftininkų g. 12-1, LT-89121"
+  },
+  {
     "name": "Lietuvos retomis odos ligomis sergančių pacientų draugija",
     "code": "304453976",
     "address": "Kaunas, Eivenių g. 2, LT-50161"
@@ -12,7 +17,8 @@
   {
     "name": "MB \"Baltijos odos\"",
     "code": "305010478",
-    "address": "Raseinių r. sav., Ariogalos sen., Butkiškės k., Plento g. 8, LT-60271"
+    "address": "Raseinių r. sav., Ariogalos sen., Butkiškės k., Plento g. 8, LT-60271",
+    "vatcode": "LT100012168216"
   },
   {
     "name": "MB \"Maani gražios odos namai\"",
@@ -41,9 +47,19 @@
     "address": "Jonava, Kosmonautų g. 48-35, LT-55154"
   },
   {
+    "name": "MB \"Odos interjeras\"",
+    "code": "304324839"
+  },
+  {
     "name": "MB \"Odos priežiūra ir estetika\"",
     "code": "307157306",
     "address": "Kaunas, K. Čerbulėno g. 21-11, LT-47239"
+  },
+  {
+    "name": "MB \"Odos revoliucija\"",
+    "code": "307577452",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019655618"
   },
   {
     "name": "MB \"Odos spindesys\"",
@@ -58,17 +74,20 @@
   {
     "name": "MB \"Sveikos odos formulė\"",
     "code": "306988746",
-    "address": "Alytaus r. sav., Alytaus sen., Likiškėlių k., Tėviškės g. 9F, LT-62442"
+    "address": "Alytaus r. sav., Alytaus sen., Likiškėlių k., Tėviškės g. 9F, LT-62442",
+    "vatcode": "LT100019233914"
   },
   {
     "name": "MB Deluxe odos restauravimas",
     "code": "307073872",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Vijolių k., Žalioji g. 1, LT-76310"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Vijolių k., Žalioji g. 1, LT-76310",
+    "vatcode": "LT100018841514"
   },
   {
     "name": "MB Gražios odos sprendimai",
     "code": "307085860",
-    "address": "Vilnius, Verkių Sodų 1-oji g. 9, LT-08429"
+    "address": "Vilnius, Verkių Sodų 1-oji g. 9, LT-08429",
+    "vatcode": "LT100018838312"
   },
   {
     "name": "MB Minties odos klinika",
@@ -78,7 +97,13 @@
   {
     "name": "MB Odos IQ",
     "code": "306673362",
-    "address": "Vilnius, Kelmijos Sodų 85-oji g. 74, LT-02217"
+    "address": "Vilnius, Kelmijos Sodų 85-oji g. 74, LT-02217",
+    "vatcode": "LT100016642519"
+  },
+  {
+    "name": "MB Odos dermė",
+    "code": "307581949",
+    "address": "Vilniaus r. sav., Nemėžio sen., Murlinės k., Poezijos g. 19, LT-13280"
   },
   {
     "name": "MB Odos džiaugsmai",
@@ -88,7 +113,8 @@
   {
     "name": "MB Odos ekspertas",
     "code": "307117219",
-    "address": "Vilnius, Padvarės g. 18, LT-14281"
+    "address": "Vilnius, Padvarės g. 18, LT-14281",
+    "vatcode": "LT100017642211"
   },
   {
     "name": "MB Odos formulė",
@@ -129,7 +155,8 @@
   {
     "name": "MB Odos vitaminai",
     "code": "307055657",
-    "address": "Klaipėda, Žardininkų g. 8-9, LT-94235"
+    "address": "Klaipėda, Žardininkų g. 8-9, LT-94235",
+    "vatcode": "LT100019167811"
   },
   {
     "name": "MB Odos vizija",
@@ -159,7 +186,8 @@
   {
     "name": "UAB \"ODOS KLINIKA\"",
     "code": "302696940",
-    "address": "Vilnius, Kanklių g. 12-53, LT-10321"
+    "address": "Vilnius, Kanklių g. 12-53, LT-10321",
+    "vatcode": "LT100018025118"
   },
   {
     "name": "UAB \"Odos guru\"",
@@ -175,7 +203,8 @@
   {
     "name": "UAB ODOS IR LAZERINĖS CHIRURGIJOS CENTRAS",
     "code": "125221897",
-    "address": "Vilnius, M. K. Čiurlionio g. 19-30, LT-03104"
+    "address": "Vilnius, M. K. Čiurlionio g. 19-30, LT-03104",
+    "vatcode": "LT100017860313"
   },
   {
     "name": "UAB Odos grožis",
@@ -186,13 +215,14 @@
   {
     "name": "UAB Odos namai",
     "code": "303480447",
-    "address": "Kaunas, Gabijos g. 24, LT-47103",
+    "address": "Kauno r. sav., Akademija, Gluosnių tak. 9, LT-53348",
     "vatcode": "LT100009038413"
   },
   {
     "name": "UAB Odos projektai",
     "code": "306231209",
-    "address": "Vilnius, Liepkalnio g. 5-2, LT-02103"
+    "address": "Vilnius, Liepkalnio g. 5-2, LT-02103",
+    "vatcode": "LT100016279714"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"ODOS GAMINIAI\" ir KO",

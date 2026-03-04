@@ -17,7 +17,8 @@
   {
     "name": "MB \"Pagal siūlą\"",
     "code": "305889204",
-    "address": "Kaunas, Geležinio Vilko g. 4-37, LT-49279"
+    "address": "Kaunas, Geležinio Vilko g. 4-37, LT-49279",
+    "vatcode": "LT100014696214"
   },
   {
     "name": "MB \"Pagal įstatymą\"",
@@ -56,6 +57,11 @@
     "address": "Kaunas, Baltijos g. 2-56, LT-48255"
   },
   {
+    "name": "A. Blazgio IĮ \"Intelektuali pagalba\"",
+    "code": "305243404",
+    "address": "Šakių r. sav., Gelgaudiškis, Taikos g. 64, LT-71430"
+  },
+  {
     "name": "Asociacija \"Pagalba ir Partnerystė\"",
     "code": "305537950",
     "address": "Vilkaviškio r. sav., Šeimenos sen., Patunkiškių k., Liepų g. 6, LT-70371",
@@ -69,7 +75,8 @@
   {
     "name": "Asociacija sveikatinimo pagalba",
     "code": "305645367",
-    "address": "Plungės r. sav., Babrungo sen., Babrungo k., Vienkiemio g. 1, LT-90108"
+    "address": "Plungės r. sav., Babrungo sen., Babrungo k., Vienkiemio g. 1, LT-90108",
+    "vatcode": "LT100014056217"
   },
   {
     "name": "Bajarūnienės psichoterapinė pagalba \"Savastis\"",
@@ -77,9 +84,30 @@
     "address": "Vilnius, A. Smetonos g. 3-47, LT-01115"
   },
   {
+    "name": "Ingridos Žičkienės stomatologinė pagalba",
+    "code": "123102887",
+    "address": "Vilnius, Klaipėdos g. 5-14, LT-01118"
+  },
+  {
+    "name": "IĮ \"Švaros pagalba\"",
+    "code": "305413956",
+    "address": "Klaipėda, Taikos pr. 57-79, LT-91153"
+  },
+  {
     "name": "IĮ Pagalba Norvegijoje",
     "code": "304540993",
     "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Akacijų g. 7A-1, LT-53363"
+  },
+  {
+    "name": "K. Bočkaus įmonė \"Pagalba\"",
+    "code": "259700720",
+    "address": "Kauno r. sav., Babtų sen., Panevėžiuko k.",
+    "vatcode": "LT100016930716"
+  },
+  {
+    "name": "L. Trainavičienės stomatologinė pagalba",
+    "code": "121267317",
+    "address": "Vilnius, Kalvarijų g. 168-67, LT-08206"
   },
   {
     "name": "Labdaros ir paramos fondas \"Pagalba regionų jaunimo studijoms\"",
@@ -104,7 +132,8 @@
   {
     "name": "Lietuvos ir Švedijos uždaroji akcinė bendrovė \"PAGALBA ŠEIMININKĖMS\"",
     "code": "110653926",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Kalotės k., Volungių g. 1, LT-92284"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Kalotės k., Volungių g. 1, LT-92284",
+    "vatcode": "LT106539219"
   },
   {
     "name": "MB \"IT pagalba\"",
@@ -207,6 +236,11 @@
     "address": "Vilnius, Vandenio g. 1C-1, LT-14189"
   },
   {
+    "name": "Pleskačiausko diagnostinė ir gydymo pagalba bevaikių šeimų vyrams",
+    "code": "121607093",
+    "address": "Vilnius, Kęstučio g. 42"
+  },
+  {
     "name": "UAB \"Aiskaudos pagalba\"",
     "code": "301489910",
     "address": "Klaipėda, Turgaus g. 10-40, LT-91247"
@@ -214,7 +248,8 @@
   {
     "name": "UAB \"Autotech pagalba\"",
     "code": "302589148",
-    "address": "Kaunas, Kiškių g. 24-24, LT-45375"
+    "address": "Kaunas, Kiškių g. 24-24, LT-45375",
+    "vatcode": "LT100006955010"
   },
   {
     "name": "UAB \"Buhalterinė pagalba\"",
@@ -249,7 +284,8 @@
   {
     "name": "UAB \"Santechninė pagalba\"",
     "code": "145056360",
-    "address": "Šiauliai, Karaliaučiaus g. 30F, LT-78374"
+    "address": "Šiauliai, Karaliaučiaus g. 30F, LT-78374",
+    "vatcode": "LT100004500219"
   },
   {
     "name": "UAB \"Verslo pagalba\"",
@@ -274,7 +310,8 @@
   {
     "name": "UAB Pagalba",
     "code": "305579928",
-    "address": "Vilnius, Gedvydžių g. 7-3, LT-06311"
+    "address": "Vilnius, Gedvydžių g. 7-3, LT-06311",
+    "vatcode": "LT100013972816"
   },
   {
     "name": "UAB Pagalba pirmiausia",
@@ -292,6 +329,11 @@
     "code": "120201321",
     "address": "Vilnius, Lazdynų g. 17-24, LT-04129",
     "vatcode": "LT202013219"
+  },
+  {
+    "name": "Vaclovo Martinkaus įmonė \"Veterinarinė pagalba\"",
+    "code": "279213620",
+    "address": "Tauragės r. sav., Mažonų sen., Lomių k., Stotelės g. 3, LT-73359"
   },
   {
     "name": "Viešoji įstaiga \"Moters pagalba moteriai\"",
@@ -421,7 +463,8 @@
   {
     "name": "MB \"Pagalbininkai\"",
     "code": "304859820",
-    "address": "Vilnius, Žirmūnų g. 57-86, LT-09110"
+    "address": "Vilnius, Žirmūnų g. 57-86, LT-09110",
+    "vatcode": "LT100017692218"
   },
   {
     "name": "Pagalbinio pastato ir negyvenamojo namo savininkų bendrija \"Prieupis\"",
@@ -432,6 +475,10 @@
     "name": "Mažoji bendrija \"Pagalbinis inkaras\"",
     "code": "305680731",
     "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Paringuvio k., Ringuvos g. 7A-3, LT-81107"
+  },
+  {
+    "name": "MB \"Pagalbinė ranga\"",
+    "code": "304990392"
   },
   {
     "name": "UAB \"Pagalbinė ranga ir partneriai\"",
@@ -534,9 +581,18 @@
     "address": "Kaunas, Laisvės al. 45, LT-44309"
   },
   {
+    "name": "Kazimiero Jankevičiaus veterinarinės pagalbos įmonė",
+    "code": "158107641"
+  },
+  {
     "name": "Kelmės švietimo pagalbos tarnyba",
     "code": "300008847",
     "address": "Kelmė, Vytauto Didžiojo g. 110, LT-86140"
+  },
+  {
+    "name": "Komanditinė ūkinė bendrija \"Pagalbos verslui fondas\"",
+    "code": "305640822",
+    "address": "Vilnius, Ukmergės g. 124, LT-08100"
   },
   {
     "name": "Konsultavimo ir socialinės pagalbos asociacija \"Joandra\"",
@@ -617,7 +673,8 @@
   {
     "name": "MB \"Techninės pagalbos sprendimai\"",
     "code": "306043292",
-    "address": "Klaipėdos r. sav., Priekulės sen., Derceklių k., Nevėžio g. 5, LT-96388"
+    "address": "Klaipėdos r. sav., Priekulės sen., Derceklių k., Nevėžio g. 5, LT-96388",
+    "vatcode": "LT100014848812"
   },
   {
     "name": "MB Pagalbos ABC",
@@ -677,7 +734,8 @@
   {
     "name": "Nacionalinis pagalbos centras",
     "code": "300128323",
-    "address": "Vilnius, Konstitucijos pr. 26, LT-08131"
+    "address": "Vilnius, Konstitucijos pr. 26, LT-08131",
+    "vatcode": "LT100013134517"
   },
   {
     "name": "Nacionalinė psichosocialinės pagalbos vyrams asociacija",
@@ -813,7 +871,8 @@
   {
     "name": "UAB Paliatyvios pagalbos ir šeimos sveikatos centras",
     "code": "302646859",
-    "address": "Klaipėda, Jūros g. 4, LT-92118"
+    "address": "Klaipėda, Jūros g. 4, LT-92118",
+    "vatcode": "LT100019638315"
   },
   {
     "name": "UAB Vilniaus tarptautinis paliatyviosios pagalbos centras",
@@ -834,6 +893,11 @@
     "name": "Ukmergės švietimo pagalbos tarnyba",
     "code": "195005532",
     "address": "Ukmergė, Klaipėdos g. 17, LT-20131"
+  },
+  {
+    "name": "V. M. Ragėnienės individuali įmonė. Odontologijos priežiūros (pagalbos) įstaiga",
+    "code": "300064493",
+    "address": "Trakų r. sav., Rūdiškės, Ismonių g. 6A, LT-21173"
   },
   {
     "name": "Valstybės garantuojamos teisinės pagalbos tarnyba",
@@ -894,7 +958,7 @@
   {
     "name": "Viešoji įstaiga Pal. J. Matulaičio šeimos pagalbos centras",
     "code": "126366917",
-    "address": "Vilnius, Šeškinės g. 65-74"
+    "address": "Vilnius, Šeškinės g. 65, LT-07163"
   },
   {
     "name": "Viešoji įstaiga Plungės rajono greitosios medicinos pagalbos Lietuvos sveikatos apsaugos darbuotojų profesinė sąjunga",
@@ -914,11 +978,6 @@
   {
     "name": "Viešosios įstaigos Marijampolės greitosios medicinos pagalbos stoties pirminė profesinė sąjunga",
     "code": "165809189",
-    "address": "Marijampolė, P. Kriaučiūno g. 2, LT-68298"
-  },
-  {
-    "name": "Viešosios įstaigos Marijampolės greitosios medicinos pagalbos stoties sveikatos apsaugos darbuotojų profesinė sąjunga",
-    "code": "301842972",
     "address": "Marijampolė, P. Kriaučiūno g. 2, LT-68298"
   },
   {
@@ -1000,6 +1059,10 @@
     "name": "VšĮ Klaipėdos apskrities pagalbos vyrams centras",
     "code": "305659744",
     "address": "Klaipėda, Smilčių g. 6, LT-92277"
+  },
+  {
+    "name": "VšĮ Ligos paliestųjų psichologinės pagalbos centras",
+    "code": "304042633"
   },
   {
     "name": "VšĮ Logopedinės pagalbos centras",
@@ -1117,7 +1180,8 @@
   {
     "name": "MB Meistras ir pagaliukai",
     "code": "305704812",
-    "address": "Vilnius, Lyglaukių g. 22-5, LT-01215"
+    "address": "Vilnius, Lyglaukių g. 22-5, LT-01215",
+    "vatcode": "LT100014387710"
   },
   {
     "name": "MB Pagaliukai",
@@ -1127,7 +1191,8 @@
   {
     "name": "Mažoji bendrija Pagalog",
     "code": "306214487",
-    "address": "Vilnius, Naugarduko g. 47-1, LT-03208"
+    "address": "Vilnius, Naugarduko g. 47-1, LT-03208",
+    "vatcode": "LT100016295110"
   },
   {
     "name": "MB \"PagalVA\"",
@@ -1141,24 +1206,37 @@
     "address": "Šiauliai, V. Bielskio g. 14, LT-76162"
   },
   {
+    "name": "Pagalvoji padaryk MB",
+    "code": "307581162",
+    "address": "Rokiškis, Laisvės g. 5B-20, LT-42118"
+  },
+  {
     "name": "MB \"Pagalvosiu\"",
     "code": "306964859",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017080317"
   },
   {
     "name": "\"Reikia pagalvoti\", MB",
     "code": "304515506",
-    "address": "Vilnius, Bajorų kel. 15-24, LT-08446"
+    "address": "Vilnius, Bajorų kel. 15-24, LT-08446",
+    "vatcode": "LT100011382017"
   },
   {
     "name": "UAB \"ORO PAGALVĖS\"",
     "code": "302456589",
-    "address": "Kaunas, K. Donelaičio g. 79-11, LT-44249"
+    "address": "Kaunas, K. Donelaičio g. 79-11, LT-44249",
+    "vatcode": "LT100005697213"
   },
   {
     "name": "MB \"Pagaminsime\"",
     "code": "306785411",
     "address": "Vilnius, Tuskulėnų g. 13A-5, LT-09217"
+  },
+  {
+    "name": "IĮ \"Pagaminta vilkų\"",
+    "code": "304874135",
+    "address": "Varėna, M. K. Čiurlionio g. 11-27, LT-65199"
   },
   {
     "name": "MB \"Pagaminta Anykščiuose\"",
@@ -1168,17 +1246,23 @@
   {
     "name": "MB Pagan head",
     "code": "305920347",
-    "address": "Vilnius, Gelvonų g. 39-16, LT-07137"
+    "address": "Vilnius, Gelvonų g. 39-16, LT-07137",
+    "vatcode": "LT100016701417"
   },
   {
     "name": "MB \"Pagana\"",
     "code": "305161925",
-    "address": "Klaipėda, Rumpiškės g. 29-36, LT-91120"
+    "address": "Klaipėda, Rumpiškės g. 29-36, LT-91120",
+    "vatcode": "LT100013990118"
   },
   {
     "name": "MB \"Paganware\"",
     "code": "306354553",
     "address": "Klaipėda, Taikos pr. 24-13, LT-91222"
+  },
+  {
+    "name": "Remigijaus Pagarausko įmonė",
+    "code": "145751821"
   },
   {
     "name": "Jonaviečių karų dalyvių asociacija \"Pagarba\"",
@@ -1203,12 +1287,14 @@
   {
     "name": "MB \"Žemaitiški pagardai\"",
     "code": "305056625",
-    "address": "Telšiai, Dvaro g. 10, LT-87151"
+    "address": "Telšiai, Dvaro g. 10, LT-87151",
+    "vatcode": "LT100012227911"
   },
   {
     "name": "UAB \"Pagardenis\"",
     "code": "305601221",
-    "address": "Plungė, Gandingos g. 8, LT-90142"
+    "address": "Plungė, Gandingos g. 8, LT-90142",
+    "vatcode": "LT100013755712"
   },
   {
     "name": "Žemės ūkio bendrovė \"Pagardė\"",
@@ -1234,17 +1320,20 @@
   {
     "name": "MB \"Pagauk saulę\"",
     "code": "306337867",
-    "address": "Kaunas, Butrimonių g. 7, LT-50218"
+    "address": "Kaunas, Butrimonių g. 7, LT-50218",
+    "vatcode": "LT100016092719"
   },
   {
     "name": "MB \"Pagauk\"",
     "code": "304086925",
-    "address": "Šakiai, V. Kudirkos g. 41-9, LT-71125"
+    "address": "Šakiai, V. Kudirkos g. 41-9, LT-71125",
+    "vatcode": "LT100009978117"
   },
   {
     "name": "MB Pagauk momentą",
     "code": "307116149",
-    "address": "Joniškis, Vilniaus g. 34A, LT-84160"
+    "address": "Joniškis, Vilniaus g. 34A, LT-84160",
+    "vatcode": "LT100018666819"
   },
   {
     "name": "MB Pagauk ryšį",
@@ -1255,12 +1344,14 @@
   {
     "name": "Mažoji bendrija \"Pagauk kampą\"",
     "code": "304398355",
-    "address": "Vilnius, Jurgio Baltrušaičio g. 9-146, LT-06145"
+    "address": "Vilnius, Jurgio Baltrušaičio g. 9-146, LT-06145",
+    "vatcode": "LT100010584919"
   },
   {
     "name": "Pagauk bangas, UAB",
     "code": "305757455",
-    "address": "Varėnos r. sav., Merkinė, Vilniaus g. 39, LT-65334"
+    "address": "Varėnos r. sav., Merkinė, Vilniaus g. 39, LT-65334",
+    "vatcode": "LT100014038713"
   },
   {
     "name": "UAB Pagauk mėnulį",
@@ -1276,17 +1367,19 @@
   {
     "name": "MB \"Vėjo pagauti\"",
     "code": "306220077",
-    "address": "Vilnius, M. Mažvydo g. 6-42, LT-06277"
+    "address": "Kaunas, Raudondvario pl. 192-510, LT-47151"
   },
   {
     "name": "UAB \"Pagautė\"",
     "code": "300053454",
-    "address": "Vilnius, Fabijoniškių g. 5C-1031, LT-06335"
+    "address": "Vilnius, Fabijoniškių g. 5C-1031, LT-06335",
+    "vatcode": "LT100001209015"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Šiaulių pagautė\"",
     "code": "144730863",
-    "address": "Šiauliai, V. Bielskio g. 70, LT-76133"
+    "address": "Šiauliai, V. Bielskio g. 70, LT-76133",
+    "vatcode": "LT447308610"
   },
   {
     "name": "Lietuvos šeimų, auginančių kurčius ir neprigirdinčius vaikus, bendrija PAGAVA",
@@ -1316,7 +1409,8 @@
   {
     "name": "MB Pagavita",
     "code": "305966907",
-    "address": "Kauno r. sav., Alšėnų sen., Mastaičių k., Garliavos g. 33, LT-53309"
+    "address": "Kauno r. sav., Alšėnų sen., Mastaičių k., Garliavos g. 33, LT-53309",
+    "vatcode": "LT100018021317"
   },
   {
     "name": "Utenos aktyvių moterų sporto asociacija \"Pagavom\"",

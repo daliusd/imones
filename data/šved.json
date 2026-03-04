@@ -21,6 +21,17 @@
     "vatcode": "LT100008067512"
   },
   {
+    "name": "Daivos Švedienės individuali įmonė",
+    "code": "134104291",
+    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Beržų g. 18, LT-54466",
+    "vatcode": "LT341042917"
+  },
+  {
+    "name": "Lilijos Švedienės paslaugų įmonė",
+    "code": "151410529",
+    "address": "Marijampolė, Uosupio g. 14-56, LT-68157"
+  },
+  {
     "name": "MB Mildos Švedienės odontologijos kabinetas",
     "code": "258311050",
     "address": "Jurbarkas, Pušyno g. 15, LT-74207"
@@ -33,12 +44,18 @@
   {
     "name": "Bendra Lietuvos ir Švedijos įmonė uždaroji akcinė bendrovė \"TINDRA\"",
     "code": "110396887",
-    "address": "Kaunas, Algirdo g. 54, LT-50157"
+    "address": "Kaunas, Algirdo g. 54, LT-50157",
+    "vatcode": "LT103968811"
+  },
+  {
+    "name": "Bendra Lietuvos ir Švedijos įmonė uždaroji akcinė bendrovė \"ŠVEDIJOS MUGĖ\"",
+    "code": "110570341"
   },
   {
     "name": "Bendra Lietuvos-Švedijos įmonė uždaroji akcinė bendrovė \"Genčių nafta\"",
     "code": "110507572",
-    "address": "Gargždai, Gamyklos g. 11, LT-96155"
+    "address": "Gargždai, Gamyklos g. 11, LT-96155",
+    "vatcode": "LT105075716"
   },
   {
     "name": "Bendros TSRS-Švedijos-Lenkijos įmonės \"INTERPROGRESS\" Uralo filialo atstovybė",
@@ -46,19 +63,30 @@
     "address": "Vilnius, Pergalės g. 33A, LT-11202"
   },
   {
+    "name": "Lietuvos - Švedijos uždaroji akcinė bendrovė \"ALTEXPRESS\"",
+    "code": "110618188"
+  },
+  {
     "name": "Lietuvos ir Švedijos uždaroji akcinė bendrovė \"PAGALBA ŠEIMININKĖMS\"",
     "code": "110653926",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Kalotės k., Volungių g. 1, LT-92284"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Kalotės k., Volungių g. 1, LT-92284",
+    "vatcode": "LT106539219"
+  },
+  {
+    "name": "Lietuvos ir Švedijos uždaroji akcinė bendrovė \"V. RUTKAUSKO, R. SKYRIAUS IR PARTNERIŲ KONSULTACINĖ FIRMA\"",
+    "code": "110691446"
   },
   {
     "name": "UAB \"Švedijos paukštis\"",
     "code": "300533439",
-    "address": "Ukmergė, Gružų g. 3, LT-20139"
+    "address": "Ukmergė, Gružų g. 3, LT-20139",
+    "vatcode": "LT100003117515"
   },
   {
     "name": "UAB \"Švedijos pienas\"",
     "code": "303151170",
-    "address": "Telšių r. sav., Viešvėnų sen., Plepų k. 1, LT-88404"
+    "address": "Telšių r. sav., Viešvėnų sen., Plepų k. 1, LT-88404",
+    "vatcode": "LT100009072514"
   },
   {
     "name": "Švedijos akcinės bendrovės \"JOHNSON & JOHNSON\" atstovybė",
@@ -127,9 +155,51 @@
     "address": "Kaunas, Baltų pr. 139-36, LT-48201"
   },
   {
+    "name": "T. Švedko gydytojos kabinetas",
+    "code": "158301660",
+    "address": "Jurbarkas, Kęstučio g. 20-48, LT-74164"
+  },
+  {
     "name": "A. Švedo individuali įmonė",
     "code": "150129244",
     "address": "Alytus, Topolių g. 11B-14, LT-63336"
+  },
+  {
+    "name": "D. Švedo firma \"FINANSŲ TYRIMAI\"",
+    "code": "124591153",
+    "address": "Vilnius, Lvivo g. 89-32, LT-08104",
+    "vatcode": "LT245911515"
+  },
+  {
+    "name": "Gintauto Švedo IĮ \"SISTEMINIO ADMINISTRAVIMO TECHNOLOGIJOS\"",
+    "code": "225130060",
+    "address": "Vilnius, Antakalnio g. 66-13, LT-10300"
+  },
+  {
+    "name": "IĮ \"Kęstučio Švedo įmonė\"",
+    "code": "134889130",
+    "address": "Kaunas, Maironiškių g. 23, LT-48183"
+  },
+  {
+    "name": "IĮ Virginijaus Švedo veterinarinių paslaugų įmonė",
+    "code": "170672183",
+    "address": "Prienų r. sav., Stakliškių sen., Stakliškių k., Kauno g. 11A-1, LT-59371"
+  },
+  {
+    "name": "M. R. Švedo prekybos įmonė",
+    "code": "152837270",
+    "address": "Birštonas, Vaižganto g. 28, LT-59204",
+    "vatcode": "LT528372716"
+  },
+  {
+    "name": "Prano Švedo individuali įmonė",
+    "code": "173730478",
+    "address": "Rokiškis, Panevėžio g. 34-24, LT-42161",
+    "vatcode": "LT737304716"
+  },
+  {
+    "name": "Asociacija Švedriškės bendruomenė",
+    "code": "300028390"
   },
   {
     "name": "Švedriškės bažnytkaimio bendruomenė \"Švedriškės santalka\"",
@@ -150,6 +220,10 @@
     "name": "Kėdainių lietuvių ir švedų draugija",
     "code": "161634319",
     "address": "Kėdainiai, J. Basanavičiaus g. 47C, LT-57284"
+  },
+  {
+    "name": "PRIENŲ LIETUVIŲ IR ŠVEDŲ DRAUGIJA",
+    "code": "302561992"
   },
   {
     "name": "UAB \"Švedų statyba\"",

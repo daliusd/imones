@@ -5,9 +5,18 @@
     "address": "Vilnius, Šeškinės g. 63-62, LT-07163"
   },
   {
+    "name": "R. Meliausko individuali įmonė",
+    "code": "141269076"
+  },
+  {
     "name": "MB Meliberi",
     "code": "307218499",
     "address": "Švenčionių r. sav., Pabradės sen., Katelninkų k. 6, LT-18187"
+  },
+  {
+    "name": "UAB \"Melica Farmacy\"",
+    "code": "306133238",
+    "address": "Vilniaus r. sav., Šatrininkų sen., Grigaičių k., Geležinkelio g. 26, LT-11237"
   },
   {
     "name": "UAB \"Melidana\"",
@@ -20,14 +29,20 @@
     "address": "Visaginas, Statybininkų g. 15-47, LT-31205"
   },
   {
+    "name": "E. Meliešiaus individuali įmonė",
+    "code": "168051123"
+  },
+  {
     "name": "UAB \"Melifera\"",
     "code": "181283411",
-    "address": "Elektrėnų sav., Pastrėvio sen., Pastrėvio k., Mokyklos g. 11, LT-21332"
+    "address": "Elektrėnų sav., Pastrėvio sen., Pastrėvio k., Mokyklos g. 11, LT-21332",
+    "vatcode": "LT812834113"
   },
   {
     "name": "UAB \"Melija\"",
     "code": "180121285",
-    "address": "Telšiai, Tilžės g. 10, LT-87307"
+    "address": "Telšiai, Tilžės g. 10, LT-87307",
+    "vatcode": "LT801212811"
   },
   {
     "name": "MB \"Meliktra\"",
@@ -37,7 +52,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"MELINGOS\" KELIAI",
     "code": "167600971",
-    "address": "Molėtai, Vilniaus g. 102, LT-33114"
+    "address": "Molėtai, Vilniaus g. 102, LT-33114",
+    "vatcode": "LT676009716"
   },
   {
     "name": "UAB Melini",
@@ -53,6 +69,11 @@
     "name": "UAB \"Melinum\"",
     "code": "303426969",
     "address": "Klaipėda, Medelyno g. 58-2, LT-92335"
+  },
+  {
+    "name": "Rimanto Melio veterinarijos paslaugų tarnyba",
+    "code": "157568920",
+    "address": "Joniškio r. sav., Žagarės sen., Žagariškių k."
   },
   {
     "name": "ASOCIACIJA \"MELIOATRA\"",
@@ -99,9 +120,8 @@
     "vatcode": "LT541103610"
   },
   {
-    "name": "Akcinės bendrovės \"Dusetų melioracija\" profesinė organizacija",
-    "code": "291881810",
-    "address": "Zarasų r. sav., Dusetų sen., Užtiltės k., Melioratorių g. 15, LT-32303"
+    "name": "Akcinės bendrovės \"Alytaus melioracija\" profesinė sąjunga",
+    "code": "253733980"
   },
   {
     "name": "Asociacija \"Bekupės melioracija\"",
@@ -261,12 +281,18 @@
   {
     "name": "UAB \"Ignalinos melioracija\"",
     "code": "303966367",
-    "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Ignalinos g. 12, LT-30159"
+    "address": "Ignalinos r. sav., Didžiasalio sen., Didžiasalio k., Ignalinos g. 12, LT-30159",
+    "vatcode": "LT100009269416"
+  },
+  {
+    "name": "UAB \"Panevėžio melioracija\" profesinė sąjunga",
+    "code": "168687947"
   },
   {
     "name": "UAB \"Šiaulių melioracija\"",
     "code": "175788722",
-    "address": "Šiauliai, Išradėjų g. 13, LT-78149"
+    "address": "Šiauliai, Išradėjų g. 13, LT-78149",
+    "vatcode": "LT757887219"
   },
   {
     "name": "UAB \"Šiaulių melioracija\" Radviliškio filialas",
@@ -309,7 +335,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"UKMERGĖS MELIORACIJA\"",
     "code": "182828761",
-    "address": "Ukmergės r. sav., Vidiškių sen., Šventupės k., Melioratorių g. 4, LT-20361"
+    "address": "Ukmergės r. sav., Vidiškių sen., Šventupės k., Melioratorių g. 4, LT-20361",
+    "vatcode": "LT828287610"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Šilutės melioracija\"",
@@ -319,7 +346,8 @@
   {
     "name": "Uždaroji akcinė bendrovė firma \"LIETUVOS MELIORACIJA\"",
     "code": "122264338",
-    "address": "Vilnius, A. Juozapavičiaus g. 9-3, LT-09311"
+    "address": "Vilnius, A. Juozapavičiaus g. 9-3, LT-09311",
+    "vatcode": "LT222643314"
   },
   {
     "name": "\"Aušrūtas\" melioracijos statinių naudotojų asociacija",
@@ -329,7 +357,8 @@
   {
     "name": "AB \"Utenos melioracijos NT\"",
     "code": "304167042",
-    "address": "Utena, Užpalių g. 86C, LT-28197"
+    "address": "Utena, Užpalių g. 86C, LT-28197",
+    "vatcode": "LT100009909619"
   },
   {
     "name": "Agurkiškio melioracijos statinių naudotojų asociacija",
@@ -344,7 +373,8 @@
   {
     "name": "Alaušų melioracijos sistemų naudotojų asociacija",
     "code": "305547147",
-    "address": "Utenos r. sav., Daugailių sen., Bajoriškių k., Šlaito g. 1, LT-28411"
+    "address": "Utenos r. sav., Daugailių sen., Bajoriškių k., Šlaito g. 1, LT-28411",
+    "vatcode": "LT100016589618"
   },
   {
     "name": "Alkos melioracijos sistemų naudotojų asociacija",
@@ -556,6 +586,10 @@
     "address": "Kauno r. sav., Čekiškės sen., Gaigalų k. 11, LT-54207"
   },
   {
+    "name": "Galakaušių kaimo melioracijos sistemų naudotojų asociacija",
+    "code": "302568531"
+  },
+  {
     "name": "Gegiedžių melioracijos statinių naudotojų asociacija",
     "code": "303125439",
     "address": "Pakruojis, Rožių g. 38, LT-83111"
@@ -613,6 +647,10 @@
     "name": "Janapolės melioracijos sistemų naudotojų asociacija",
     "code": "305198927",
     "address": "Telšių r. sav., Varnių sen., Patilčio k. 1, LT-88266"
+  },
+  {
+    "name": "Joniškio rajono Gataučių seniūnijos melioracijos statinių naudotojų asociacija",
+    "code": "302453529"
   },
   {
     "name": "Joniškio rajono Kirnaičių kadastro vietovės melioracijos sistemų naudotojų asociacija",
@@ -700,6 +738,10 @@
     "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Ringuvėnų k., Svirbučių g. 50, LT-81201"
   },
   {
+    "name": "Kupiškio seniūnijos Šepetos melioracijos statinių naudotojų asociacija",
+    "code": "301792124"
+  },
+  {
     "name": "Kėdainių rajono melioracijos sistemų naudotojų asociacija \"Nikys\"",
     "code": "302494967",
     "address": "Kėdainių r. sav., Gudžiūnų sen., Vikaičių k., Mokyklos g. 4, LT-58270"
@@ -712,7 +754,8 @@
   {
     "name": "LIETUVOS MELIORACIJOS ĮMONIŲ ASOCIACIJA",
     "code": "120793378",
-    "address": "Vilnius, Kalvarijų g. 98, LT-08211"
+    "address": "Vilnius, Kalvarijų g. 98, LT-08211",
+    "vatcode": "LT207933716"
   },
   {
     "name": "Lauckaimio kaimo melioracijos sistemų naudotojų asociacija",
@@ -742,12 +785,17 @@
   {
     "name": "MB \"Melioracijos servisas\"",
     "code": "304781688",
-    "address": "Kelmės r. sav., Liolių sen., Maironių k., Maironio g. 31-3, LT-86203"
+    "address": "Kelmės r. sav., Liolių sen., Maironių k., Maironio g. 31-3, LT-86203",
+    "vatcode": "LT100012111515"
   },
   {
     "name": "MELIORACIJOS SISTEMŲ NAUDOTOJŲ ASOCIACIJA \"UŽUPIS\"",
     "code": "303116536",
     "address": "Akmenės r. sav., Naujosios Akmenės kaimiškoji sen., Sablauskių k., Žalioji g. 34, LT-85273"
+  },
+  {
+    "name": "Mažučių kaimo melioracijos sistemų naudotojų asociacija",
+    "code": "302449032"
   },
   {
     "name": "Melioracijos asociacija \"Armukšna\"",
@@ -1083,6 +1131,10 @@
     "name": "Melioracijos sistemų naudotojų asociacija \"Upyna\"",
     "code": "306456387",
     "address": "Telšių r. sav., Upynos sen., Upynos k., Naujoji g. 1D, LT-88227"
+  },
+  {
+    "name": "Melioracijos sistemų naudotojų asociacija \"Vaitiekupis\"",
+    "code": "302583565"
   },
   {
     "name": "Melioracijos sistemų naudotojų asociacija \"Vepriai\"",
@@ -1485,6 +1537,14 @@
     "address": "Pasvalio r. sav., Joniškėlio apylinkių sen., Meškalaukio k., Tėviškės g. 53, LT-39309"
   },
   {
+    "name": "Pasvalio rajono Nečionių k. melioracijos statinių naudotojų asociacija",
+    "code": "302441007"
+  },
+  {
+    "name": "Pasvalio rajono Saločių kadastrinės vietovės melioracijos sistemų naudotojų asociacija",
+    "code": "302527602"
+  },
+  {
     "name": "Pasvalio rajono melioracijos sistemų naudotojų asociacija \"Tetirvinai\"",
     "code": "302463021",
     "address": "Pasvalio r. sav., Vaškų sen., Tetirvinų k., Vytauto Lapėno g. 34, LT-39394"
@@ -1583,6 +1643,12 @@
     "name": "Ryliškių melioracijos statinių naudotojų asociacija",
     "code": "307085561",
     "address": "Utenos r. sav., Kuktiškių sen., Aviniškio k. 1, LT-28345"
+  },
+  {
+    "name": "S. Vanago melioracijos darbų įmonė",
+    "code": "158200978",
+    "address": "Jurbarkas, Saulėtekio g. 26, LT-74208",
+    "vatcode": "LT582009716"
   },
   {
     "name": "Sablauskių kadastrinės vietovės melioracijos sistemų naudotojų asociacija",
@@ -1837,7 +1903,8 @@
   {
     "name": "MB Melioras",
     "code": "306738835",
-    "address": "Kauno r. sav., Garliava, Žaros g. 2D-2, LT-53251"
+    "address": "Kauno r. sav., Garliava, Žaros g. 2D-2, LT-53251",
+    "vatcode": "LT100016871717"
   },
   {
     "name": "Sodininkų bendrija \"Melioratoriai\"",
@@ -1855,11 +1922,6 @@
     "address": "Kaunas, Žuvinto g. 15, LT-51417"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija \"MELIORATORIUS 10\"",
-    "code": "277374710",
-    "address": "Šilutė, Melioratorių al. 10, LT-99146"
-  },
-  {
     "name": "Daugiabučio namo savininkų bendrija \"MELIORATORIUS\"",
     "code": "177370084",
     "address": "Šilutė, Melioratorių al. 1, LT-99142"
@@ -1875,11 +1937,6 @@
     "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Melioratorių g. 7-8, LT-38187"
   },
   {
-    "name": "Garažų eksploatavimo bendrija \"Melioratorius - 2\"",
-    "code": "160331358",
-    "address": "Kupiškio r. sav., Noriūnų sen., Noriūnų k."
-  },
-  {
     "name": "Garažų eksploatavimo bendrija \"Melioratorius-1\"",
     "code": "160190861",
     "address": "Kupiškio r. sav., Noriūnų sen., Noriūnų k., Lėvens g. 4B, LT-40386"
@@ -1888,6 +1945,10 @@
     "name": "Garažų savininkų bendrija \"Melioratorius-3\"",
     "code": "300654355",
     "address": "Kupiškio r. sav., Noriūnų sen., Noriūnų k., Lėvens g. 4A, LT-40386"
+  },
+  {
+    "name": "Garažų savininkų bendrija \"Vilainių melioratorius\"",
+    "code": "304522479"
   },
   {
     "name": "Garažų savininkų bendrija ''Melioratorius - 2A''",
@@ -1946,8 +2007,7 @@
   },
   {
     "name": "Mažeikių melioratorių garažų savininkų bendrija",
-    "code": "301649539",
-    "address": "Mažeikiai, Ventos g. 20-9, LT-89188"
+    "code": "301649539"
   },
   {
     "name": "Melioratorių draugija",
@@ -1957,7 +2017,8 @@
   {
     "name": "MB \"Meliorem vitam\"",
     "code": "306411082",
-    "address": "Vilnius, Girulių g. 5, LT-12124"
+    "address": "Vilnius, Girulių g. 5, LT-12124",
+    "vatcode": "LT100017969414"
   },
   {
     "name": "UAB \"Ad meliorem\"",
@@ -1988,7 +2049,8 @@
   {
     "name": "UAB Melisa Laboratorium",
     "code": "123631164",
-    "address": "Šalčininkų r. sav., Baltoji Vokė, Geležinkelio g. 51, LT-17235"
+    "address": "Šalčininkų r. sav., Baltoji Vokė, Geležinkelio g. 51, LT-17235",
+    "vatcode": "LT236311610"
   },
   {
     "name": "UAB \"Melisija\"",
@@ -2004,7 +2066,8 @@
   {
     "name": "UAB \"Melisis\"",
     "code": "304942383",
-    "address": "Vilnius, Šeškinės g. 63-62, LT-07163"
+    "address": "Vilnius, Šeškinės g. 63-62, LT-07163",
+    "vatcode": "LT100011996913"
   },
   {
     "name": "MB Melisita",
@@ -2014,7 +2077,8 @@
   {
     "name": "MB \"Melisora\"",
     "code": "306249794",
-    "address": "Kaunas, Kuršių g. 4-34, LT-48149"
+    "address": "Kaunas, Kuršių g. 4-34, LT-48149",
+    "vatcode": "LT100016524817"
   },
   {
     "name": "MB \"Melisos desertai\"",
@@ -2022,14 +2086,19 @@
     "address": "Jonava, Kosmonautų g. 44-49, LT-55142"
   },
   {
-    "name": "MB \"Melissa Vilnius\"",
-    "code": "305781748",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "UAB \"Melisus\"",
     "code": "304622052",
     "address": "Kaunas, Raudondvario pl. 288A-40, LT-47164"
+  },
+  {
+    "name": "Dubinsko firma \"Melita\"",
+    "code": "169726812",
+    "address": "Plungė, Salantų g. 12, LT-90115",
+    "vatcode": "LT697268113"
+  },
+  {
+    "name": "UAB \"MELITAMIDĖ\"",
+    "code": "125693798"
   },
   {
     "name": "UAB \"Melitera\"",
@@ -2050,7 +2119,8 @@
   {
     "name": "UAB \"Melitransa\"",
     "code": "304407377",
-    "address": "Klaipėda, Nidos g. 72-36, LT-93179"
+    "address": "Klaipėda, Nidos g. 72-36, LT-93179",
+    "vatcode": "LT100010465310"
   },
   {
     "name": "MB \"Melius cras\"",
@@ -2070,11 +2140,19 @@
   {
     "name": "UAB Melivo",
     "code": "307319612",
-    "address": "Klaipėda, Taikos pr. 24A, LT-91222"
+    "address": "Klaipėda, Taikos pr. 24A, LT-91222",
+    "vatcode": "LT100019500019"
   },
   {
     "name": "UAB \"Melix LT\"",
     "code": "306228184",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Žuvinto g. 2-2, LT-53277"
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Žuvinto g. 2-2, LT-53277",
+    "vatcode": "LT100017735619"
+  },
+  {
+    "name": "IĮ A. Meliūnienės firma \"TAUDRĖ\"",
+    "code": "148199253",
+    "address": "Panevėžys, J. Janonio g. 3A, LT-35101",
+    "vatcode": "LT481992515"
   }
 ]

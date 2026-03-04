@@ -10,6 +10,11 @@
     "address": "Biržai, Vilniaus g. 6-20, LT-41172"
   },
   {
+    "name": "MB Sand to thought",
+    "code": "307588153",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
     "name": "MB Studio SAND",
     "code": "305243938",
     "address": "Vilnius, Naugarduko g. 3-401, LT-03231"
@@ -23,7 +28,8 @@
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"SANDAILA\"",
     "code": "145269860",
-    "address": "Šiauliai, Aušros al. 49, LT-76302"
+    "address": "Šiauliai, Aušros al. 49, LT-76302",
+    "vatcode": "LT452698610"
   },
   {
     "name": "UAB \"Sandaja\"",
@@ -54,7 +60,8 @@
   {
     "name": "MB Sandariai",
     "code": "306676216",
-    "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Obelyno g. 23, LT-14182"
+    "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Obelyno g. 23, LT-14182",
+    "vatcode": "LT100018921617"
   },
   {
     "name": "UAB \"SANDARIKLIS\"",
@@ -64,12 +71,19 @@
   {
     "name": "MB Ekologiško sandarinimo sprendimai",
     "code": "306671322",
-    "address": "Vilnius, Gurių Sodų 8-oji g. 5, LT-11310"
+    "address": "Vilnius, Gurių Sodų 8-oji g. 5, LT-11310",
+    "vatcode": "LT100016852115"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"SANDARINIMŲ PASAULIS\"",
     "code": "141721574",
-    "address": "Klaipėda, Minijos g. 2, LT-91234"
+    "address": "Klaipėda, Minijos g. 2, LT-91234",
+    "vatcode": "LT417215716"
+  },
+  {
+    "name": "A. Sandaro įmonė \"Poleris\"",
+    "code": "158149569",
+    "address": "Jurbarkas, Algirdo g. 10-1, LT-74151"
   },
   {
     "name": "MB \"Sandarta\"",
@@ -80,12 +94,14 @@
   {
     "name": "\"Sandarumas LT\", UAB",
     "code": "305257546",
-    "address": "Kaunas, S. Daukanto g. 1-50, LT-44306"
+    "address": "Kaunas, S. Daukanto g. 1-50, LT-44306",
+    "vatcode": "LT100017321512"
   },
   {
     "name": "MB \"Pastatų sandarumas\"",
     "code": "306023119",
-    "address": "Prienai, Vytauto g. 24-1, LT-59126"
+    "address": "Prienai, Vytauto g. 24-1, LT-59126",
+    "vatcode": "LT100019129314"
   },
   {
     "name": "MB \"Sandarumo laboratorija\"",
@@ -95,22 +111,26 @@
   {
     "name": "MB \"Sandarumo sprendimai\"",
     "code": "306095307",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Saulės g. 19, LT-53277"
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Saulės g. 19, LT-53277",
+    "vatcode": "LT100015046518"
   },
   {
     "name": "UAB \"Sandarus būstas\"",
     "code": "306375259",
-    "address": "Klaipėda, Žiobrių g. 9-2, LT-92277"
+    "address": "Klaipėda, Žiobrių g. 9-2, LT-92277",
+    "vatcode": "LT100016208412"
   },
   {
     "name": "UAB \"Sandarus langas\"",
     "code": "305857555",
-    "address": "Mažeikiai, Taikos g. 11-3, LT-89186"
+    "address": "Mažeikiai, Taikos g. 11-3, LT-89186",
+    "vatcode": "LT100014283610"
   },
   {
     "name": "UAB \"Sandarus stogas\"",
     "code": "305638141",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103",
+    "vatcode": "LT100013476413"
   },
   {
     "name": "UAB \"Sandas\"",
@@ -124,9 +144,20 @@
     "address": "Vilnius, Kalno g. 77-2, LT-13105"
   },
   {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB Baltic Sandbox Pre-seed Fund I",
+    "code": "306192286",
+    "address": "Vilnius, Vašingtono a. 1-11, LT-01108"
+  },
+  {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB Baltic Sandbox Seed Fund II",
+    "code": "306192254",
+    "address": "Vilnius, Vašingtono a. 1-11, LT-01108"
+  },
+  {
     "name": "UAB \"Baltic Sandbox\"",
     "code": "304915411",
-    "address": "Vilnius, Saulėtekio al. 15-1, LT-10224"
+    "address": "Vilnius, Saulėtekio al. 15-1, LT-10224",
+    "vatcode": "LT100017388210"
   },
   {
     "name": "UAB \"Sandeco baltic\"",
@@ -137,7 +168,8 @@
   {
     "name": "MB Sandee LT",
     "code": "305693216",
-    "address": "Kaunas, Laisvės al. 21, LT-44311"
+    "address": "Kaunas, Laisvės al. 21, LT-44311",
+    "vatcode": "LT100017722415"
   },
   {
     "name": "MB \"Sandega\"",
@@ -157,7 +189,8 @@
   {
     "name": "UAB \"Sandena\"",
     "code": "304173084",
-    "address": "Vilnius, Latvių g. 15-18, LT-08123"
+    "address": "Vilnius, Latvių g. 15-18, LT-08123",
+    "vatcode": "LT100010161813"
   },
   {
     "name": "UAB \"Sandentas\"",
@@ -167,7 +200,8 @@
   {
     "name": "UAB \"Sander Baltic\"",
     "code": "300015208",
-    "address": "Kaunas, Neries krant. 16, LT-48402"
+    "address": "Kaunas, Neries krant. 16, LT-48402",
+    "vatcode": "LT100001022312"
   },
   {
     "name": "MB \"Sandera\"",
@@ -182,7 +216,8 @@
   {
     "name": "UAB \"SANDEX\"",
     "code": "302589707",
-    "address": "Vilnius, Geležinkelio g. 3-14A, LT-02100"
+    "address": "Vilnius, Geležinkelio g. 3-14A, LT-02100",
+    "vatcode": "LT100005883519"
   },
   {
     "name": "MB \"Sandi\"",
@@ -229,7 +264,17 @@
   {
     "name": "MB Sandmade",
     "code": "307175717",
-    "address": "Vilnius, Statybininkų g. 1-77, LT-03205"
+    "address": "Vilnius, Statybininkų g. 1-77, LT-03205",
+    "vatcode": "LT100018572414"
+  },
+  {
+    "name": "IĮ \"SANDNES MALERE\"",
+    "code": "300677247",
+    "address": "Šiauliai, Architektų g. 1, LT-78366"
+  },
+  {
+    "name": "UAB \"Sando investment\"",
+    "code": "302870985"
   },
   {
     "name": "MB Sandolima",
@@ -245,7 +290,8 @@
   {
     "name": "UAB \"Sandomus\"",
     "code": "302594355",
-    "address": "Vilnius, S. Žukausko g. 32-7, LT-08235"
+    "address": "Vilnius, S. Žukausko g. 32-7, LT-08235",
+    "vatcode": "LT100005964216"
   },
   {
     "name": "Jurbarko evangelikų liuteronų parapijos diakonija \"Jurbarko sandora\"",
@@ -280,12 +326,14 @@
   {
     "name": "UAB \"Sandora Group\"",
     "code": "302575255",
-    "address": "Vilnius, A. Goštauto g. 8-319, LT-01108"
+    "address": "Vilnius, A. Goštauto g. 8-319, LT-01108",
+    "vatcode": "LT100005808017"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA Vilniaus evangelikų liuteronų bažnyčios diakonija \"VILNIAUS SANDORA\"",
     "code": "121900178",
-    "address": "Vilnius, Vokiečių g. 22, LT-01130"
+    "address": "Vilnius, Vokiečių g. 22, LT-01130",
+    "vatcode": "LT219001716"
   },
   {
     "name": "Viešoji įstaiga Šakių evangelikų liuteronų religinės bendruomenės diakonija \"ŠAKIŲ SANDORA\"",
@@ -376,7 +424,8 @@
   {
     "name": "\"Sandorių konsultantai\", UAB",
     "code": "303369945",
-    "address": "Druskininkai, Šlaito g. 4A, LT-66371"
+    "address": "Druskininkai, Šlaito g. 4A, LT-66371",
+    "vatcode": "LT100009223418"
   },
   {
     "name": "E. Anciaus įmonė \"SANDOROS BALSAS\"",
@@ -386,7 +435,12 @@
   {
     "name": "UAB \"Sandoros NT\"",
     "code": "304215512",
-    "address": "Lazdijai, Vytauto g. 16, LT-67122"
+    "address": "Lazdijai, Vytauto g. 16, LT-67122",
+    "vatcode": "LT100010048214"
+  },
+  {
+    "name": "UAB \"Sandoros skrynia\"",
+    "code": "302567283"
   },
   {
     "name": "UAB \"Sandoros takas\"",
@@ -401,7 +455,8 @@
   {
     "name": "UAB \"SANDORY INDUSTRIALS\"",
     "code": "304156672",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100009964813"
   },
   {
     "name": "UAB \"Sandosa\"",
@@ -424,6 +479,12 @@
     "address": "Vilnius, M. Valančiaus g. 7-40, LT-03158"
   },
   {
+    "name": "IĮ \"Sandra\"",
+    "code": "159517910",
+    "address": "Kaunas, Valakų g. 17, LT-46399",
+    "vatcode": "LT100001900611"
+  },
+  {
     "name": "Labdaros ir paramos fondas \"Sandra's aid\"",
     "code": "302333490",
     "address": "Kaunas, Partizanų g. 228-10, LT-50317"
@@ -444,6 +505,15 @@
     "address": "Kaunas, Č. Sasnausko g. 54-6, LT-44150"
   },
   {
+    "name": "S. Gako įmonė \"Sandra\"",
+    "code": "152728292"
+  },
+  {
+    "name": "Sandra Balke Creative, MB",
+    "code": "307594291",
+    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Sandra and Co\"",
     "code": "110708760",
     "address": "Kėdainiai, Šėtos g. 32, LT-57216"
@@ -451,7 +521,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Sandra\"",
     "code": "161243719",
-    "address": "Kėdainių r. sav., Dotnuva, Vytauto g. 45, LT-58387"
+    "address": "Kėdainių r. sav., Dotnuva, Vytauto g. 45, LT-58387",
+    "vatcode": "LT612437113"
   },
   {
     "name": "Mažoji bendrija Sandrafurs",
@@ -502,10 +573,20 @@
     "address": "Vilnius, Petro Baublio g. 3B, LT-08406"
   },
   {
+    "name": "IĮ \"Sandrelijos Nenortienės įmonė\"",
+    "code": "135927242",
+    "address": "Kaunas, Kiečių g. 9, LT-46356"
+  },
+  {
     "name": "UAB \"Sandrema\"",
     "code": "305831119",
     "address": "Raseinių r. sav., Betygalos sen., Požečių k., Sodų g. 13, LT-60204",
     "vatcode": "LT100017346417"
+  },
+  {
+    "name": "MB Sandress",
+    "code": "307596634",
+    "address": "Vilnius, Architektų g. 111-54, LT-04211"
   },
   {
     "name": "UAB Sandriaus Baldai",
@@ -522,7 +603,8 @@
   {
     "name": "MB Sandrina",
     "code": "306792338",
-    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Jazminų g. 12-1, LT-53339"
+    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Jazminų g. 12-1, LT-53339",
+    "vatcode": "LT100016908114"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Sandris\"",
@@ -538,12 +620,25 @@
   {
     "name": "UAB Sandritas",
     "code": "302584891",
-    "address": "Klaipėda, Žolynų g. 45-16, LT-92325"
+    "address": "Klaipėda, Žolynų g. 45-16, LT-92325",
+    "vatcode": "LT100009130919"
   },
   {
     "name": "MB \"SANDROPAS\"",
     "code": "306698497",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017230919"
+  },
+  {
+    "name": "\"Sandros Pleskūnaitės-Bordiugovienės\" individuali įmonė",
+    "code": "145460050",
+    "address": "Šiauliai, Krymo g. 14-1, LT-78294"
+  },
+  {
+    "name": "IĮ \"SANDROS\"",
+    "code": "302449438",
+    "address": "Varėnos r. sav., Merkinės sen., Panaros k., Parko g. 14, LT-65320",
+    "vatcode": "LT100005429710"
   },
   {
     "name": "Kirpėjos Sandros individuali įmonė",
@@ -553,7 +648,8 @@
   {
     "name": "MB \"Sandros kebabai\"",
     "code": "305569873",
-    "address": "Tauragės r. sav., Tauragės sen., Tauragės Dvaro k., Tauragės Dvaro g. 16-1, LT-72134"
+    "address": "Tauragės r. sav., Tauragės sen., Tauragės Dvaro k., Tauragės Dvaro g. 16-1, LT-72134",
+    "vatcode": "LT100015691017"
   },
   {
     "name": "MB \"Sandros meno namai\"",
@@ -578,7 +674,36 @@
   {
     "name": "MB Sandros stilius",
     "code": "307562176",
-    "address": "Telšiai, Gimnazijos g. 31A, LT-87108"
+    "address": "Telšiai, Gimnazijos g. 31A, LT-87108",
+    "vatcode": "LT100019624113"
+  },
+  {
+    "name": "Sandros Aukštikalnienės individuali įmonė",
+    "code": "306246809",
+    "address": "Biržų r. sav., Papilio sen., Kučgalio k., Senoji g. 11, LT-41241",
+    "vatcode": "LT100015720115"
+  },
+  {
+    "name": "Sandros Bernotienės prekybos įmonė",
+    "code": "179366152",
+    "address": "Tauragė, Linų g. 9, LT-72112"
+  },
+  {
+    "name": "Sandros Januševičienės įmonė",
+    "code": "179863492",
+    "address": "Tauragė, Versmės g. 41, LT-72309"
+  },
+  {
+    "name": "Sandros Merkelienės IĮ",
+    "code": "306185701",
+    "address": "Pasvalio r. sav., Pumpėnų sen., Vilkiškių k., Liepų g. 1, LT-39224",
+    "vatcode": "LT100016183211"
+  },
+  {
+    "name": "Sandros Turkaitės IĮ",
+    "code": "302582100",
+    "address": "Utena, Taikos g. 76-33, LT-28162",
+    "vatcode": "LT100005884214"
   },
   {
     "name": "Sandros Zavadzkienės įmonė",
@@ -598,14 +723,21 @@
     "vatcode": "LT100012293011"
   },
   {
+    "name": "IĮ \"Sandrėja\"",
+    "code": "304787883",
+    "address": "Kretinga, Savanorių g. 31-1, LT-97111"
+  },
+  {
     "name": "UAB \"SANDTRUCK\"",
     "code": "302721240",
-    "address": "Vilnius, Braškių g. 46-2, LT-08416"
+    "address": "Vilnius, Braškių g. 46-2, LT-08416",
+    "vatcode": "LT100006650515"
   },
   {
     "name": "UAB \"SANDU COMFORT\"",
     "code": "302652082",
-    "address": "Raseinių r. sav., Raseinių sen., Stonų k., Stonų g. 165, LT-60193"
+    "address": "Raseinių r. sav., Raseinių sen., Stonų k., Stonų g. 165, LT-60193",
+    "vatcode": "LT100006306014"
   },
   {
     "name": "UAB \"Sanduva\"",
@@ -615,7 +747,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Sandva\"",
     "code": "135687352",
-    "address": "Kaunas, Baltų pr. 57-4, LT-48232"
+    "address": "Kaunas, Baltų pr. 57-4, LT-48232",
+    "vatcode": "LT356873515"
   },
   {
     "name": "UAB \"Sandvitana\"",
@@ -640,17 +773,20 @@
   {
     "name": "MB \"Dobilo sandėliai\"",
     "code": "307032904",
-    "address": "Kaunas, Lubinų g. 290E-1, LT-47222"
+    "address": "Kaunas, Lubinų g. 290E-1, LT-47222",
+    "vatcode": "LT100019463111"
   },
   {
     "name": "UAB \"Pamario sandėliai\"",
     "code": "302536747",
-    "address": "Klaipėda, Taikos pr. 77-34, LT-94114"
+    "address": "Klaipėda, Taikos pr. 77-34, LT-94114",
+    "vatcode": "LT100006096616"
   },
   {
     "name": "UAB \"Triušelių sandėliai\"",
     "code": "163742838",
-    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k."
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k.",
+    "vatcode": "LT100003747212"
   },
   {
     "name": "UAB \"Šilko sandėliai\"",
@@ -665,9 +801,15 @@
     "vatcode": "LT100011022014"
   },
   {
+    "name": "IĮ \"Innos Malkenzon sandėliavimo paslaugų įmonė\"",
+    "code": "140738535",
+    "address": "Klaipėda, Nidos g. 40C, LT-93215"
+  },
+  {
     "name": "UAB \"Sandėliavimo įranga\"",
     "code": "304089832",
-    "address": "Mažeikių r. sav., Židikai, Viliotės g. 4, LT-89442"
+    "address": "Mažeikių r. sav., Židikai, Viliotės g. 4, LT-89442",
+    "vatcode": "LT100009666911"
   },
   {
     "name": "MB Sandėlio prekės",
@@ -710,7 +852,8 @@
   {
     "name": "UAB \"Medžio sandėlis\"",
     "code": "302529368",
-    "address": "Klaipėda, Tilžės g. 82, LT-91101"
+    "address": "Klaipėda, Tilžės g. 82, LT-91101",
+    "vatcode": "LT100005526218"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Vaisių ir daržovių sandėlis\"",
@@ -752,12 +895,14 @@
   {
     "name": "UAB Sandėliukų centras",
     "code": "303521513",
-    "address": "Vilnius, Naujoji Riovonių g. 25, LT-03153"
+    "address": "Vilnius, Naujoji Riovonių g. 25, LT-03153",
+    "vatcode": "LT100009233718"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS SIGMOS SANDĖLIŲ CENTRAS\"",
     "code": "123443618",
-    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221",
+    "vatcode": "LT234436113"
   },
   {
     "name": "MB \"Daiktų sandėris\"",

@@ -30,11 +30,6 @@
     "address": "Vilnius, P. Žadeikos g. 30A, LT-06322"
   },
   {
-    "name": "433-oji gyvenamųjų namų statybos bendrija",
-    "code": "125613784",
-    "address": "Vilniaus miesto savivaldybės teritorija"
-  },
-  {
     "name": "MB \"433 games\"",
     "code": "307400612",
     "address": "Kaunas, A. Juozapavičiaus pr. 21-27, LT-45256"
@@ -145,11 +140,6 @@
     "address": "Klaipėda, Vingio g. 43-72, LT-95218"
   },
   {
-    "name": "DNSB L. Asanavičiūtės g. 4/3, Vilnius",
-    "code": "302514665",
-    "address": "Vilnius, Loretos Asanavičiūtės g. 4-146, LT-04301"
-  },
-  {
     "name": "Danutės g. 43-ojo namo savininkų bendrija",
     "code": "248308650",
     "address": "Panevėžys, Danutės g. 43, LT-36234"
@@ -251,8 +241,7 @@
   },
   {
     "name": "Marijonų g. 43-ojo namo savininkų bendrija",
-    "code": "148463781",
-    "address": "Panevėžys, Marijonų g. 43, LT-35125"
+    "code": "148463781"
   },
   {
     "name": "Mažeikių garažų bendrija Nr. 43",
@@ -277,7 +266,8 @@
   {
     "name": "SPV-43 UAB",
     "code": "305372420",
-    "address": "Vilnius, Konstitucijos pr. 7, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 7, LT-09308",
+    "vatcode": "LT100013785613"
   },
   {
     "name": "Stoties g. 43-ojo namo savininkų bendrija",
@@ -285,9 +275,14 @@
     "address": "Panevėžys, Stoties g. 43, LT-35105"
   },
   {
+    "name": "UAB \"Pylimo 43\"",
+    "code": "302769477"
+  },
+  {
     "name": "UAB B-43",
     "code": "306998968",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100017683814"
   },
   {
     "name": "Žemaičių g. 43-ojo ir 45-ojo namų savininkų bendrija",

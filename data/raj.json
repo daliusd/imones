@@ -5,16 +5,6 @@
     "address": "Kauno r. sav., Neveronių sen., Neveronių k., Karmėlavos g. 30A-7, LT-54483"
   },
   {
-    "name": "Daugiabučio namo Vytauto g. Nr. 49, Jiezne, Prienų raj. savininkų bendrija",
-    "code": "300662697",
-    "address": "Prienų r. sav., Jieznas, Vytauto g. 49-5, LT-59427"
-  },
-  {
-    "name": "Daugiabučio namo savininkų bendrija S. Daukanto g. 19c, Varniai, Telšių raj.",
-    "code": "305236388",
-    "address": "Telšių r. sav., Varniai, S. Daukanto g. 19C-2, LT-88318"
-  },
-  {
     "name": "Kauno raj. Karatė klubas \"Asahi karate do\"",
     "code": "306250939",
     "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Lūšių g. 10, LT-53277"
@@ -43,16 +33,6 @@
     "name": "Paviešečių kaimo Panevėžio raj. Perkūno, Gabijos, Austėjos, Žemynos, Slenkstainio gatvių gyvenamųjų namų statybos bendrija",
     "code": "300575274",
     "address": "Panevėžys, J. Janonio g. 5, LT-35101"
-  },
-  {
-    "name": "Plungės raj. vidaus reikalų sistemos darbuotojų profesinė sąjunga",
-    "code": "171042091",
-    "address": "Plungė, Vytauto g. 1, LT-90123"
-  },
-  {
-    "name": "Raseinių raj. vidaus reikalų sistemos darbuotojų profesinė sąjunga",
-    "code": "172435069",
-    "address": "Raseiniai, T. Daugirdo g. 8, LT-60151"
   },
   {
     "name": "Trakų raj. Būdos kaimo daugiabučio namo bendrija Nr. 2",
@@ -98,7 +78,8 @@
   {
     "name": "UAB \"Raja auto\"",
     "code": "306043246",
-    "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105"
+    "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105",
+    "vatcode": "LT100016910610"
   },
   {
     "name": "UAB \"Rajagas\"",
@@ -114,12 +95,18 @@
   {
     "name": "UAB \"Rajasta\"",
     "code": "305189903",
-    "address": "Kaunas, Aukštaičių g. 55, LT-44162"
+    "address": "Kaunas, Aukštaičių g. 55, LT-44162",
+    "vatcode": "LT100016459218"
   },
   {
     "name": "RAJASTHAN ARTS & HANDICRAFT filialas",
     "code": "304622209",
     "address": "Vilnius, Olandų g. 10A-5, LT-01100"
+  },
+  {
+    "name": "Ilonos Rajeckaitės firma \"Lemurija\"",
+    "code": "126085973",
+    "address": "Vilnius, Rinktinės g. 4-4, LT-09312"
   },
   {
     "name": "T. Rajecko stomatologijos kabinetas",
@@ -132,9 +119,15 @@
     "address": "Kaunas, Raguvos g. 5-2, LT-44275"
   },
   {
+    "name": "IĮ \"Rajenas\"",
+    "code": "302432759",
+    "address": "Anykščių r. sav., Anykščių sen., Storių k., Šlavės g. 11, LT-29166"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Rajesas\"",
     "code": "135832118",
-    "address": "Kaunas, Radvilų Dvaro g. 6, LT-48322"
+    "address": "Kaunas, Radvilų Dvaro g. 6, LT-48322",
+    "vatcode": "LT358321113"
   },
   {
     "name": "Daugiabučio gyvenamojo namo adresu Jono Pauliaus II-ojo g. 37, Eišiškės, Šalčininkų rajonas, savininkų bendrija \"Rytas\"",
@@ -215,7 +208,8 @@
   {
     "name": "MB \"Rajosa\"",
     "code": "305176083",
-    "address": "Jurbarko r. sav., Jurbarkų sen., Jurbarkų k., Mituvos g. 8, LT-74206"
+    "address": "Jurbarko r. sav., Jurbarkų sen., Jurbarkų k., Mituvos g. 8, LT-74206",
+    "vatcode": "LT100012426219"
   },
   {
     "name": "MB \"Raju media\"",
@@ -245,7 +239,8 @@
   {
     "name": "UAB \"Rajuva\"",
     "code": "304823984",
-    "address": "Palanga, Ganyklų g. 22-2, LT-00126"
+    "address": "Palanga, Ganyklų g. 22-2, LT-00126",
+    "vatcode": "LT100011666811"
   },
   {
     "name": "Rajyashree Ramesh scenos meno ir šokio teatro akademija",

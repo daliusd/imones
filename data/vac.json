@@ -2,7 +2,8 @@
   {
     "name": "UAB \"Vacatio\"",
     "code": "303001466",
-    "address": "Vilnius, Bajorų kel. 1-10, LT-08459"
+    "address": "Vilnius, Bajorų kel. 1-10, LT-08459",
+    "vatcode": "LT100008501017"
   },
   {
     "name": "UAB \"Condor Vacation\"",
@@ -23,6 +24,12 @@
     "vatcode": "LT526315314"
   },
   {
+    "name": "V. Vachoviak gamybos-prekybos įmonė",
+    "code": "174971934",
+    "address": "Šalčininkų r. sav., Dieveniškės, Šermukšnių g. 31, LT-17138",
+    "vatcode": "LT749719314"
+  },
+  {
     "name": "UAB \"Vacija\"",
     "code": "302644922",
     "address": "Klaipėda, Kretingos g. 39-31, LT-92303"
@@ -35,12 +42,30 @@
   {
     "name": "MB Vacio autoservisas",
     "code": "304744394",
-    "address": "Kauno r. sav., Garliava, K. Aglinsko g. 25, LT-53270"
+    "address": "Kauno r. sav., Garliava, K. Aglinsko g. 25, LT-53270",
+    "vatcode": "LT100013552210"
+  },
+  {
+    "name": "Vacio Brazlausko įmonė",
+    "code": "175835862"
+  },
+  {
+    "name": "Vacio Marčiulionio individualus taksi",
+    "code": "132333163"
   },
   {
     "name": "UAB \"Vacivus\"",
     "code": "303329648",
     "address": "Vilnius, Dūkštų g. 9-28, LT-07176"
+  },
+  {
+    "name": "E. Vackonio IĮ",
+    "code": "302034538",
+    "address": "Panevėžys, J. Basanavičiaus g. 3-122, LT-35182"
+  },
+  {
+    "name": "Vaclavo Dzenovagio individuali įmonė",
+    "code": "186444092"
   },
   {
     "name": "Vaclavos Grinienės individuali įmonė \"GMDG\"",
@@ -49,9 +74,34 @@
     "vatcode": "LT485077917"
   },
   {
+    "name": "Juozapo Vaclovo Skarbaliaus individuali įmonė",
+    "code": "179409251"
+  },
+  {
     "name": "Kaišiadorių Vaclovo Giržado progimnazija",
     "code": "190596323",
     "address": "Kaišiadorys, Paukštininkų g. 5, LT-56166"
+  },
+  {
+    "name": "Vaclovo Akavicko įmonė",
+    "code": "167386994",
+    "address": "Mažeikių r. sav., Sedos sen., Dingailų k., Jurginų g. 30, LT-89403"
+  },
+  {
+    "name": "Vaclovo Baltakio individuali įmonė",
+    "code": "155604556",
+    "address": "Ignalina, Švenčionių g. 29C, LT-30132",
+    "vatcode": "LT556045515"
+  },
+  {
+    "name": "Vaclovo Gendvilo individuali įmonė",
+    "code": "170081344",
+    "address": "Rietavas, Vingio g. 7, LT-90311"
+  },
+  {
+    "name": "Vaclovo Glinsko gamybinė įmonė",
+    "code": "165723975",
+    "address": "Vilnius, Adutiškio g. 3-3, LT-02112"
   },
   {
     "name": "Vaclovo Into akmenų muziejus",
@@ -64,8 +114,53 @@
     "address": "Skuodo r. sav., Mosėdis, Akmenų g. 28, LT-98269"
   },
   {
+    "name": "Vaclovo IĮ",
+    "code": "302657229",
+    "address": "Plungė, Sukilėlių g. 34, LT-90125"
+  },
+  {
+    "name": "Vaclovo Jakučio individuali įmonė",
+    "code": "133766420",
+    "address": "Kaunas, J. Vienožinskio g. 45, LT-48469",
+    "vatcode": "LT337664219"
+  },
+  {
+    "name": "Vaclovo Jasiulio individuali įmonė \"GUSTAVA\"",
+    "code": "301818512",
+    "address": "Joniškio r. sav., Skaistgirio sen., Jurdaičių k., Miško g. 5, LT-84377"
+  },
+  {
+    "name": "Vaclovo Jurgučio įmonė",
+    "code": "174397763",
+    "address": "Šakių r. sav., Šakių sen., Valiulių k.",
+    "vatcode": "LT743977610"
+  },
+  {
+    "name": "Vaclovo Laimos individuali įmonė",
+    "code": "183800971",
+    "address": "Utena, Smėlio g. 15-110, LT-28223"
+  },
+  {
+    "name": "Vaclovo Laurecko veterinarijos paslaugų individuali įmonė",
+    "code": "167347991",
+    "address": "Mažeikių r. sav., Seda, Skrynlankės g. 7, LT-89379"
+  },
+  {
+    "name": "Vaclovo Levinsko įmonė",
+    "code": "132424314"
+  },
+  {
     "name": "Vaclovo Liatuko įmonė",
     "code": "177982284"
+  },
+  {
+    "name": "Vaclovo Maksimavičiaus įmonė",
+    "code": "132796962"
+  },
+  {
+    "name": "Vaclovo Martinkaus įmonė \"Veterinarinė pagalba\"",
+    "code": "279213620",
+    "address": "Tauragės r. sav., Mažonų sen., Lomių k., Stotelės g. 3, LT-73359"
   },
   {
     "name": "Vaclovo Rekašiaus labdaros ir paramos fondas",
@@ -77,5 +172,29 @@
     "code": "307181990",
     "address": "Skuodo r. sav., Skuodo sen., Užluobės k. 2, LT-98107",
     "vatcode": "LT100018341119"
+  },
+  {
+    "name": "Vaclovo Šimulio įmonė",
+    "code": "175811391"
+  },
+  {
+    "name": "Vaclovo Špilevičiaus įmonė",
+    "code": "135162582"
+  },
+  {
+    "name": "Individuali įmonė \"Pas Vaclovą\"",
+    "code": "303021091",
+    "address": "Palanga, Saulėtekio tak. 16-6, LT-00123"
+  },
+  {
+    "name": "IĮ \"VACUUM TRADE\"",
+    "code": "302639583",
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+  },
+  {
+    "name": "V. Vaišvilos individuali įmonė \"Vacys\"",
+    "code": "168501937",
+    "address": "Panevėžio r. sav., Upytės sen., Upytės k., Linininkų g. 1, LT-38294",
+    "vatcode": "LT685019314"
   }
 ]

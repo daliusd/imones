@@ -1,8 +1,18 @@
 [
   {
+    "name": "G. Valiukevičiaus spaudos platinimo įmonė \"Veja\"",
+    "code": "120313224",
+    "address": "Ukmergė, Lelijų g. 4, LT-20139"
+  },
+  {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Veja\"",
     "code": "177374339",
     "address": "Šilutė, Knygnešių g. 9A, LT-99172"
+  },
+  {
+    "name": "IĮ \"Ritininė veja\"",
+    "code": "302303305",
+    "address": "Kretingos r. sav., Salantai, Dariaus ir Girėno g. 1-12, LT-97312"
   },
   {
     "name": "MB \"Klaipėdos veja\"",
@@ -12,7 +22,8 @@
   {
     "name": "MB \"Svajonių veja\"",
     "code": "307056079",
-    "address": "Panevėžys, Anykščių g. 3-1, LT-35158"
+    "address": "Panevėžys, Anykščių g. 3-1, LT-35158",
+    "vatcode": "LT100017473317"
   },
   {
     "name": "MB Kiemo veja",
@@ -27,22 +38,31 @@
   {
     "name": "UAB \"Miško veja\"",
     "code": "306005174",
-    "address": "Šiauliai, Žuvininkų g. 2-3, LT-76252"
+    "address": "Šiauliai, Žuvininkų g. 2-3, LT-76252",
+    "vatcode": "LT100014910216"
   },
   {
     "name": "UAB \"Žalia veja\"",
     "code": "302343285",
-    "address": "Šiauliai, Klaipėdos g. 55, LT-76156"
+    "address": "Šiauliai, Klaipėdos g. 55, LT-76156",
+    "vatcode": "LT100010751219"
   },
   {
     "name": "MB Sprendimai vejai",
     "code": "305947472",
-    "address": "Kauno r. sav., Akademija, Lingių g. 17, LT-53348"
+    "address": "Vilnius, Girulių g. 10-201, LT-12112",
+    "vatcode": "LT100015216418"
   },
   {
     "name": "MB Viskas vejai",
     "code": "307438043",
     "address": "Vilnius, Nočios g. 16-3, LT-03103"
+  },
+  {
+    "name": "MB VejaPRO",
+    "code": "303236172",
+    "address": "Varėnos r. sav., Matuizų sen., Krūminių k., Versekos g. 3, LT-65474",
+    "vatcode": "LT100010763616"
   },
   {
     "name": "Mp vejas, MB",
@@ -52,7 +72,8 @@
   {
     "name": "VEJAS CARGO UAB",
     "code": "306544296",
-    "address": "Panevėžys, Tinklų g. 25, LT-35115"
+    "address": "Panevėžys, Tinklų g. 25, LT-35115",
+    "vatcode": "LT100016585314"
   },
   {
     "name": "UAB \"Vejavita\"",

@@ -31,6 +31,12 @@
     "address": "Klaipėda, S. Daukanto g. 11-26, LT-92235"
   },
   {
+    "name": "D. Daukanto įmonė \"Plovyklų meistras\"",
+    "code": "125527641",
+    "address": "Vilnius, Pašilaičių g. 4-61, LT-06117",
+    "vatcode": "LT255276410"
+  },
+  {
     "name": "Daugiabučio namo Daukanto g. 45 savininkų bendrija",
     "code": "303392125",
     "address": "Šiauliai, S. Daukanto g. 45, LT-76303"
@@ -44,11 +50,6 @@
     "name": "Daugiabučio namo S. Daukanto g. 65, Ukmergėje savininkų bendrija",
     "code": "300600489",
     "address": "Ukmergė, S. Daukanto g. 65, LT-20178"
-  },
-  {
-    "name": "Daugiabučio namo savininkų bendrija S. Daukanto g. 19c, Varniai, Telšių raj.",
-    "code": "305236388",
-    "address": "Telšių r. sav., Varniai, S. Daukanto g. 19C-2, LT-88318"
   },
   {
     "name": "Daugiabučių namų savininkų bendrija Daukanto g. 12a Varniai",
@@ -85,9 +86,20 @@
     "address": "Kaunas, S. Daukanto g. 13, LT-44305"
   },
   {
+    "name": "Sauliaus Daukanto individuali įmonė",
+    "code": "180778021",
+    "address": "Telšių r. sav., Gadūnavo sen., Siraičių k.",
+    "vatcode": "LT807780219"
+  },
+  {
     "name": "UAB Daukanto apartamentai",
     "code": "305734232",
-    "address": "Klaipėda, Baltijos pr. 33-16, LT-94130"
+    "address": "Klaipėda, Baltijos pr. 33-16, LT-94130",
+    "vatcode": "LT100014138417"
+  },
+  {
+    "name": "V. Daukanto individuali įmonė",
+    "code": "141144336"
   },
   {
     "name": "Vilniaus Simono Daukanto gimnazija",
@@ -116,16 +128,34 @@
   {
     "name": "UAB \"DAUKASTA\"",
     "code": "302924422",
-    "address": "Ukmergės r. sav., Deltuvos sen., Statikų k., Pramonės g. 21, LT-20123"
+    "address": "Ukmergės r. sav., Deltuvos sen., Statikų k., Pramonės g. 21, LT-20123",
+    "vatcode": "LT100007324411"
   },
   {
     "name": "Mažoji bendrija \"Daukilė\"",
     "code": "306059916",
-    "address": "Tauragės r. sav., Tauragės sen., Dacijonų k., Tuopų g. 20, LT-72365"
+    "address": "Tauragės r. sav., Tauragės sen., Dacijonų k., Tuopų g. 20, LT-72365",
+    "vatcode": "LT100015318410"
   },
   {
     "name": "A. Daukinčio individuali įmonė",
     "code": "141577953"
+  },
+  {
+    "name": "B. Daukinčio įmonė",
+    "code": "164238435",
+    "address": "Kretinga, M. Daujoto g. 6, LT-97106",
+    "vatcode": "LT642384314"
+  },
+  {
+    "name": "IĮ A. Daukinčio gamybinė-komercinė įmonė",
+    "code": "170019481",
+    "address": "Plungės r. sav., Alsėdžiai, Draugystės g. 19, LT-90471",
+    "vatcode": "LT700194811"
+  },
+  {
+    "name": "J. Daukinčio individuali įmonė",
+    "code": "141288386"
   },
   {
     "name": "Gyventojų bendruomenė \"Daukniūnai\"",
@@ -135,7 +165,8 @@
   {
     "name": "PANEVĖŽIO RAJONO DAUKNIŪNŲ ŽEMĖS ŪKIO BENDROVĖ",
     "code": "168577867",
-    "address": "Panevėžio r. sav., Panevėžio sen., Daukniūnų k., Sodų g. 8, LT-38358"
+    "address": "Panevėžio r. sav., Panevėžio sen., Daukniūnų k., Sodų g. 8, LT-38358",
+    "vatcode": "LT685778610"
   },
   {
     "name": "Panevėžio seniūnijos Daukniūnų melioracijos statinių naudotojų asociacija",
@@ -145,27 +176,32 @@
   {
     "name": "UAB \"Dauknora\"",
     "code": "303323150",
-    "address": "Panevėžys, Pelkių g. 14A, LT-37461"
+    "address": "Panevėžys, Pelkių g. 14A, LT-37461",
+    "vatcode": "LT100017929617"
   },
   {
     "name": "MB Dauko",
     "code": "307483558",
-    "address": "Panevėžys, Tulpių g. 2-85, LT-35165"
+    "address": "Panevėžys, Tulpių g. 2-85, LT-35165",
+    "vatcode": "LT100019200918"
   },
   {
     "name": "UAB Daukrida",
     "code": "307094998",
-    "address": "Vilnius, Rokantiškių Sodų 9-oji g. 8, LT-10252"
+    "address": "Vilnius, Rokantiškių Sodų 9-oji g. 8, LT-10252",
+    "vatcode": "LT100017685518"
   },
   {
     "name": "UAB \"Dauksta\"",
     "code": "134419433",
-    "address": "Kaunas, Pramonės pr. 15, LT-51327"
+    "address": "Kaunas, Pramonės pr. 15, LT-51327",
+    "vatcode": "LT344194314"
   },
   {
     "name": "Kupiškio rajono žemės ūkio bendrovė \"Daukučiai\"",
     "code": "164767050",
-    "address": "Kupiškio r. sav., Alizavos sen., Daukučių k. 9, LT-40453"
+    "address": "Kupiškio r. sav., Alizavos sen., Daukučių k. 9, LT-40453",
+    "vatcode": "LT647670515"
   },
   {
     "name": "Bendruomenė \"Daukšaičių pušynėlis\"",
@@ -173,9 +209,25 @@
     "address": "Klaipėdos r. sav., Veiviržėnų sen., Daukšaičių k., Mokyklos g. 6, LT-96271"
   },
   {
+    "name": "Josifo Daukševič individuali įmonė",
+    "code": "300079844",
+    "address": "Šalčininkų r. sav., Jašiūnų sen., Rūdninkų k., Bažnyčios g. 37, LT-17237"
+  },
+  {
+    "name": "Valdo Daukševičiaus individuali įmonė",
+    "code": "172201536",
+    "address": "Raseinių r. sav., Ariogala, Smėlynų g. 11, LT-60265"
+  },
+  {
     "name": "UAB \"Daukšiagirio sodai\"",
     "code": "170701877",
-    "address": "Prienų r. sav., Pakuonio sen., Pakuonio k."
+    "address": "Prienų r. sav., Pakuonio sen., Pakuonio k.",
+    "vatcode": "LT707018716"
+  },
+  {
+    "name": "Daivos Daukšienės individuali įmonė \"Clean & Tidy\"",
+    "code": "302605150",
+    "address": "Radviliškis, Vaižganto g. 32, LT-82148"
   },
   {
     "name": "J. Daukšienės individuali įmonė",
@@ -187,6 +239,21 @@
     "code": "273825450",
     "address": "Skuodas, Vytauto g. 3-3, LT-98117",
     "vatcode": "LT738254515"
+  },
+  {
+    "name": "Rozalijos Daukšienės firma",
+    "code": "134908488"
+  },
+  {
+    "name": "V. Daukšienės stomatologijos paslaugų įmonė",
+    "code": "169945457",
+    "address": "Plungė, A. Jucio g. 36-16"
+  },
+  {
+    "name": "P. Daukšio įmonė",
+    "code": "177187841",
+    "address": "Šilutės r. sav., Gardamo sen., Šiaudėnų I k., Tenenių g. 25, LT-99424",
+    "vatcode": "LT771878410"
   },
   {
     "name": "Daukšių kaimo bendruomenė",
@@ -212,7 +279,8 @@
   {
     "name": "MB Daukšių parduotuvė",
     "code": "173942342",
-    "address": "Skuodo r. sav., Skuodo sen., Daukšių k., Mosėdžio g. 36, LT-98289"
+    "address": "Skuodo r. sav., Skuodo sen., Daukšių k., Mosėdžio g. 36, LT-98289",
+    "vatcode": "LT739423411"
   },
   {
     "name": "Medžiotojų ir žvejų draugijos Joniškio skyriaus Daukšių medžiotojų būrelis",
@@ -240,6 +308,14 @@
     "code": "171489014",
     "address": "Šiauliai, Žagarės g. 80, LT-76150",
     "vatcode": "LT714890113"
+  },
+  {
+    "name": "Mindaugo Daukšo dantų protezų gamybos įmonė",
+    "code": "145466085"
+  },
+  {
+    "name": "V. Daukšo prekybos įmonė",
+    "code": "140619972"
   },
   {
     "name": "Bendrija \"Daukšos 8\"",
@@ -272,6 +348,10 @@
     "address": "Vilnius, M. Daukšos g. 5-23, LT-02101"
   },
   {
+    "name": "Igno Daukšos įmonė",
+    "code": "145832440"
+  },
+  {
     "name": "IĮ \"K. Daukšos įmonė\"",
     "code": "164594940",
     "address": "Kretingos r. sav., Salantai, S. Nėries g. 9-2, LT-97315"
@@ -287,14 +367,13 @@
     "address": "Kėdainiai, Didžiosios Rinkos a. 5, LT-57248"
   },
   {
-    "name": "M. DAUKŠOS 56A GARAŽŲ EKSPLOATAVIMO BENDRIJA",
-    "code": "161757421",
-    "address": "Kėdainiai, M. Daukšos g. 56A-1"
-  },
-  {
     "name": "M. Daukšos g. 53-ojo namo bendrija",
     "code": "302492770",
     "address": "Kaunas, M. Daukšos g. 53-7, LT-44269"
+  },
+  {
+    "name": "Mažeikių Daukšos g. 34-ojo namo savininkų bendrija",
+    "code": "167390359"
   },
   {
     "name": "UAB \"Daukšos 29A\"",
@@ -304,7 +383,7 @@
   {
     "name": "UAB Daukšos 12",
     "code": "306057769",
-    "address": "Palanga, Vasaros g. 13B-2, LT-00104"
+    "address": "Palangos m. sav."
   },
   {
     "name": "Vilniaus m. daugiabučio gyvenamojo namo M. Daukšos g. 3 savininkų bendrija Nikodemo",
@@ -312,8 +391,17 @@
     "address": "Vilnius, M. Daukšos g. 3-23, LT-02101"
   },
   {
+    "name": "Vytauto Daukšos firma",
+    "code": "134954717",
+    "address": "Kaunas, Technikumo g. 44, LT-46455"
+  },
+  {
     "name": "Šv. Gertrūdos g. 64/M. Daukšos g. 51 daugiabučio namo savininkų bendrija",
     "code": "302522669",
     "address": "Kaunas, Šv. Gertrūdos g. 64-6, LT-44269"
+  },
+  {
+    "name": "V. Daukštos įmonė",
+    "code": "155936761"
   }
 ]

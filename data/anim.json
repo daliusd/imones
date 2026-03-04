@@ -15,6 +15,11 @@
     "address": "Kaunas, Taikos pr. 38-12, LT-50232"
   },
   {
+    "name": "IĮ \"VET ANIMA\"",
+    "code": "302409899",
+    "address": "Tauragė, Stoties g. 19, LT-72263"
+  },
+  {
     "name": "MB \"Anima Florens\"",
     "code": "307203287",
     "address": "Vilnius, Krivių g. 5, LT-01204"
@@ -23,6 +28,11 @@
     "name": "MB \"Doctor Anima\"",
     "code": "303160340",
     "address": "Vilnius, J. Basanavičiaus g. 17A-14, LT-03108"
+  },
+  {
+    "name": "MB Anima studio",
+    "code": "307601526",
+    "address": "Klaipėda, Rumpiškės g. 28-37, LT-91146"
   },
   {
     "name": "MB Baltic anima",
@@ -70,14 +80,20 @@
     "address": "Vilnius, Birutės g. 18, LT-08117"
   },
   {
+    "name": "Viešoji įstaiga \"Animacijos erdvė\"",
+    "code": "126363426"
+  },
+  {
     "name": "UAB \"Animagena\"",
     "code": "304139274",
-    "address": "Kaunas, Europos pr. 121, LT-46339"
+    "address": "Kaunas, Europos pr. 121, LT-46339",
+    "vatcode": "LT100013410118"
   },
   {
     "name": "\"Animal Medic\", UAB",
     "code": "302443937",
-    "address": "Kaunas, K. Baršausko g. 81-8, LT-51385"
+    "address": "Kaunas, K. Baršausko g. 81-8, LT-51385",
+    "vatcode": "LT100005019011"
   },
   {
     "name": "\"Animal Protector\" VšĮ",
@@ -87,12 +103,14 @@
   {
     "name": "MB \"Animal food\"",
     "code": "307445073",
-    "address": "Šilutė, Statybininkų g. 8A, LT-99113"
+    "address": "Šilutė, Statybininkų g. 8A, LT-99113",
+    "vatcode": "LT100018980511"
   },
   {
     "name": "UAB \"Pilkutė Animal Health Holdings\"",
     "code": "304869437",
-    "address": "Vilnius, A. Mickevičiaus g. 24-1, LT-08117"
+    "address": "Vilnius, A. Mickevičiaus g. 24-1, LT-08117",
+    "vatcode": "LT100011786913"
   },
   {
     "name": "Animalab Baltic UAB",
@@ -112,7 +130,8 @@
   {
     "name": "UAB \"Animatika\"",
     "code": "304404609",
-    "address": "Mažeikiai, Gamyklos g. 3-70, LT-89231"
+    "address": "Mažeikiai, Gamyklos g. 3-70, LT-89231",
+    "vatcode": "LT100010502016"
   },
   {
     "name": "MB Kapi animation LT",
@@ -137,12 +156,14 @@
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"ANIMATRIX\"",
     "code": "125934060",
-    "address": "Vilnius, Rudens g. 29B-2, LT-01214"
+    "address": "Vilnius, Rudens g. 29B-2, LT-01214",
+    "vatcode": "LT259340610"
   },
   {
     "name": "Animbus, MB",
     "code": "306640832",
-    "address": "Vilnius, Bajorų kel. 25-110, LT-08467"
+    "address": "Vilnius, Bajorų kel. 25-110, LT-08467",
+    "vatcode": "LT100016502614"
   },
   {
     "name": "Matrix anime MB",
@@ -152,12 +173,24 @@
   {
     "name": "MB \"Mappa animi\"",
     "code": "306987683",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100018571812"
+  },
+  {
+    "name": "IĮ Animo Grožio Studija",
+    "code": "307084032",
+    "address": "Šiauliai, Stoties g. 12-15, LT-77157"
   },
   {
     "name": "UAB \"Animo LT\"",
     "code": "304611903",
-    "address": "Kaunas, Gintaro g. 35-3, LT-47198"
+    "address": "Kaunas, Gintaro g. 35-3, LT-47198",
+    "vatcode": "LT100011110219"
+  },
+  {
+    "name": "MB Animore",
+    "code": "307568108",
+    "address": "Kaunas, Raudondvario pl. 228A-55, LT-47156"
   },
   {
     "name": "UAB Animorium",
@@ -167,7 +200,8 @@
   {
     "name": "Canes Animorum, UAB",
     "code": "304502882",
-    "address": "Kauno r. sav., Alšėnų sen., Mastaičių k., Mokslo g. 1-10, LT-53312"
+    "address": "Kauno r. sav., Alšėnų sen., Mastaičių k., Mokslo g. 1-10, LT-53312",
+    "vatcode": "LT100010950112"
   },
   {
     "name": "MB \"Animos juvelyrika\"",
@@ -194,12 +228,14 @@
   {
     "name": "MB ANIMRI",
     "code": "306975670",
-    "address": "Šiaulių r. sav., Kužiai, Gėlių g. 12, LT-80264"
+    "address": "Šiaulių r. sav., Kužiai, Gėlių g. 12, LT-80264",
+    "vatcode": "LT100019207316"
   },
   {
     "name": "\"ANIMUS AGILIS\", UAB",
     "code": "302491241",
-    "address": "Vilniaus r. sav., Maišiagala, Kiemelių g. 18B, LT-14240"
+    "address": "Vilniaus r. sav., Maišiagala, Kiemelių g. 18B, LT-14240",
+    "vatcode": "LT100005761118"
   },
   {
     "name": "IĮ \"Animus\"",
@@ -209,12 +245,18 @@
   {
     "name": "MB \"Animus audax\"",
     "code": "304531777",
-    "address": "Vilnius, Įsruties g. 17-8, LT-06284"
+    "address": "Vilnius, Įsruties g. 17-8, LT-06284",
+    "vatcode": "LT100010943816"
   },
   {
     "name": "MB \"Animus novus\"",
     "code": "303860353",
     "address": "Alytus, Rotušės a. 16-7A, LT-62141"
+  },
+  {
+    "name": "MB Animus klinika",
+    "code": "307594149",
+    "address": "Vilnius, Šv. Stepono g. 29-64, LT-01312"
   },
   {
     "name": "MB Studio animus",
@@ -234,7 +276,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Animus mobilis\"",
     "code": "135622066",
-    "address": "Kaunas, Veiverių g. 63, LT-46359"
+    "address": "Kaunas, Veiverių g. 63, LT-46359",
+    "vatcode": "LT356220610"
   },
   {
     "name": "Viešoji įstaiga LEIDYBOS IR EDUKACIJOS CENTRAS \"BONUS ANIMUS\"",

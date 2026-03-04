@@ -22,12 +22,14 @@
   {
     "name": "\"Daivaldos investicijos\", UAB",
     "code": "302334126",
-    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Deimenos g. 13, LT-92438"
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Deimenos g. 13, LT-92438",
+    "vatcode": "LT100005167916"
   },
   {
     "name": "UAB \"Daivalita\"",
     "code": "302506106",
-    "address": "Panevėžys, Vilniaus g. 55-2, LT-36101"
+    "address": "Panevėžys, Vilniaus g. 55-2, LT-36101",
+    "vatcode": "LT100015565011"
   },
   {
     "name": "MB \"Daivalsta\"",
@@ -37,7 +39,8 @@
   {
     "name": "UAB \"Daivana\"",
     "code": "305272384",
-    "address": "Kaunas, Savanorių pr. 301, LT-50123"
+    "address": "Kaunas, Savanorių pr. 301, LT-50123",
+    "vatcode": "LT100012782916"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Daivanta\"",
@@ -46,9 +49,24 @@
     "vatcode": "LT341021314"
   },
   {
+    "name": "Individuali D. Mateliūno įmonė \"Daivas\"",
+    "code": "168017434",
+    "address": "Pakruojo r. sav., Pakruojo sen., Paliečių k.",
+    "vatcode": "LT680174314"
+  },
+  {
     "name": "MB \"Daivasa\"",
     "code": "306334013",
     "address": "Joniškis, Melioratorių a. 6-25, LT-84171"
+  },
+  {
+    "name": "UAB \"Daivasta\"",
+    "code": "300023500"
+  },
+  {
+    "name": "IĮ \"Daivava\"",
+    "code": "302595343",
+    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Parko g. 40, LT-54464"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Daiveda\"",
@@ -58,7 +76,8 @@
   {
     "name": "UAB \"DAIVEKA\"",
     "code": "123989282",
-    "address": "Vilniaus r. sav., Rukainių sen., Bareikiškių k., Bareikiškių g. 3, LT-13176"
+    "address": "Vilniaus r. sav., Rukainių sen., Bareikiškių k., Bareikiškių g. 3, LT-13176",
+    "vatcode": "LT239892811"
   },
   {
     "name": "UAB \"Daivela\"",
@@ -69,12 +88,14 @@
   {
     "name": "Uždaroji akcinė bendrovė \"DAIVENA\"",
     "code": "300591830",
-    "address": "Vilnius, Gabijos g. 38-1, LT-06157"
+    "address": "Vilnius, Gabijos g. 38-1, LT-06157",
+    "vatcode": "LT100002607110"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"DAIVERA\"",
     "code": "222665570",
-    "address": "Vilnius, Krivių g. 53A, LT-01209"
+    "address": "Vilnius, Krivių g. 53A, LT-01209",
+    "vatcode": "LT226655716"
   },
   {
     "name": "IĮ \"Daivesa\"",
@@ -90,7 +111,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Daivida\"",
     "code": "173113092",
-    "address": "Rokiškis, Ąžuolų g. 21, LT-42135"
+    "address": "Rokiškis, Ąžuolų g. 21, LT-42135",
+    "vatcode": "LT731130917"
   },
   {
     "name": "UAB \"Daividma\"",
@@ -106,17 +128,24 @@
   {
     "name": "Uždaroji akcinė bendrovė \"DAIVILA\"",
     "code": "122769568",
-    "address": "Vilnius, A. Vienuolio g. 4, LT-01104"
+    "address": "Vilnius, A. Vienuolio g. 4, LT-01104",
+    "vatcode": "LT227695610"
+  },
+  {
+    "name": "UAB \"Daivilda\"",
+    "code": "300577421"
   },
   {
     "name": "UAB \"Daiviltė\"",
     "code": "304974580",
-    "address": "Kaunas, Leipalingio g. 2-5, LT-46426"
+    "address": "Kaunas, Leipalingio g. 2-5, LT-46426",
+    "vatcode": "LT100012404410"
   },
   {
     "name": "UAB \"DAIVILVA BALTIC\"",
     "code": "300671130",
-    "address": "Vilnius, Zietelos g. 3, LT-03160"
+    "address": "Vilnius, Zietelos g. 3, LT-03160",
+    "vatcode": "LT100003094411"
   },
   {
     "name": "UAB \"Daivilė\"",
@@ -177,9 +206,20 @@
     "address": "Trakų r. sav., Lentvaris, Slyvų g. 25, LT-25129"
   },
   {
+    "name": "\"Daivos Raudonienės\" IĮ",
+    "code": "303360266",
+    "address": "Vilnius, Rugių g. 8B-39, LT-08430"
+  },
+  {
     "name": "\"Daivos automobilių servisas\" MB",
     "code": "305759011",
-    "address": "Radviliškis, Vaižganto g. 44-3, LT-82148"
+    "address": "Radviliškis, Vaižganto g. 44-3, LT-82148",
+    "vatcode": "LT100014091316"
+  },
+  {
+    "name": "DAIVOS GRIGALIŪNIENĖS IĮ",
+    "code": "244920080",
+    "address": "Šiauliai, Vilniaus g. 373, LT-76326"
   },
   {
     "name": "DAIVOS KUKLIENĖS INDIVIDUALI ĮMONĖ",
@@ -191,9 +231,53 @@
     "address": "Kauno r. sav., Samylų sen., Girionių k., Liepų g. 11-10, LT-53103"
   },
   {
+    "name": "Daivos Andrikonytės individuali įmonė",
+    "code": "135650959",
+    "address": "Kaunas, Partizanų g. 74-115, LT-50352"
+  },
+  {
+    "name": "Daivos Baltrūnienės IĮ \"Garažas\"",
+    "code": "300023646",
+    "address": "Kaunas, Vidurinė g. 8, LT-48339",
+    "vatcode": "LT100010826517"
+  },
+  {
+    "name": "Daivos Bartkutės įmonė",
+    "code": "145826697"
+  },
+  {
+    "name": "Daivos Bubelienės stomatologijos kabinetas",
+    "code": "157648786",
+    "address": "Joniškio r. sav., Žagarės sen., Daukšių k., Šermukšnių g. 1, LT-84363"
+  },
+  {
     "name": "Daivos Bublaitienės floristikos salonas",
     "code": "174442557",
     "address": "Šakiai, Kęstučio g. 6, LT-71130"
+  },
+  {
+    "name": "Daivos Butkienės prekybinė įmonė",
+    "code": "152579553"
+  },
+  {
+    "name": "Daivos Danienės individuali įmonė",
+    "code": "173200946",
+    "address": "Rokiškis, Respublikos g. 7, LT-42118"
+  },
+  {
+    "name": "Daivos Daukšienės individuali įmonė \"Clean & Tidy\"",
+    "code": "302605150",
+    "address": "Radviliškis, Vaižganto g. 32, LT-82148"
+  },
+  {
+    "name": "Daivos Deltuvienės įmonė",
+    "code": "135558681"
+  },
+  {
+    "name": "Daivos Dyrienės IĮ",
+    "code": "165388217",
+    "address": "Kupiškis, Pergalės g. 4, LT-40108",
+    "vatcode": "LT100003683616"
   },
   {
     "name": "Daivos Gedvilienės labdaros ir paramos fondas",
@@ -207,6 +291,15 @@
     "vatcode": "LT100001735914"
   },
   {
+    "name": "Daivos Gubarienės įmonė \"Velora\"",
+    "code": "135612677"
+  },
+  {
+    "name": "Daivos Gudavičienės įmonė",
+    "code": "135125064",
+    "address": "Kaunas, Partizanų g. 102-34, LT-50344"
+  },
+  {
     "name": "Daivos Jablonskienės individuali įmonė",
     "code": "182937935",
     "address": "Ukmergė, Bažnyčios g. 30, LT-20105"
@@ -217,6 +310,72 @@
     "address": "Kauno r. sav., Karmėlavos sen., Biruliškių k., Pastotės g. 2, LT-54469"
   },
   {
+    "name": "Daivos Janulaitienės prekybos įmonė",
+    "code": "151217754",
+    "address": "Marijampolės sav., Marijampolės sen., Kumelionių k., Pilies 8-oji g. 2, LT-68130"
+  },
+  {
+    "name": "Daivos Jasulaitienės IĮ",
+    "code": "301620530",
+    "address": "Vilkaviškio r. sav., Pilviškiai, Žvejų g. 13, LT-70495"
+  },
+  {
+    "name": "Daivos Jonelaitienės individuali įmonė",
+    "code": "300011277",
+    "address": "Klaipėda, Smiltelės g. 8-52, LT-95195",
+    "vatcode": "LT100001205214"
+  },
+  {
+    "name": "Daivos Kibirkštienės individuali įmonė",
+    "code": "300064785",
+    "address": "Druskininkai, M. K. Čiurlionio g. 44-3, LT-66142"
+  },
+  {
+    "name": "Daivos Kireilienės individuali įmonė",
+    "code": "179358052",
+    "address": "Tauragė, Daržų g. 23, LT-72300"
+  },
+  {
+    "name": "Daivos Kuklienės individuali įmonė \"Dviračio dalys\"",
+    "code": "300025889",
+    "address": "Vilnius, S. Stanevičiaus g. 74-33, LT-07112"
+  },
+  {
+    "name": "Daivos Kurapkienės individuali įmonė",
+    "code": "125135188",
+    "address": "Vilnius, Pašilaičių g. 6A-5, LT-06116"
+  },
+  {
+    "name": "Daivos Kurienės IĮ \"Saukura\"",
+    "code": "300034817",
+    "address": "Kaunas, Puodžių g. 2-3"
+  },
+  {
+    "name": "Daivos Laurinčiukienės įmonė",
+    "code": "155637086",
+    "address": "Ignalinos r. sav., Tverečiaus sen., Dietkauščiznos k.",
+    "vatcode": "LT556370811"
+  },
+  {
+    "name": "Daivos Liorančienės individuali įmonė",
+    "code": "179387132",
+    "address": "Tauragė, K. Donelaičio g. 51A, LT-72264"
+  },
+  {
+    "name": "Daivos Meigienės parduotuvė",
+    "code": "154286983"
+  },
+  {
+    "name": "Daivos Misonienės individuali įmonė",
+    "code": "160287132",
+    "address": "Kauno r. sav., Garliava, Bijūnų g. 7, LT-53265"
+  },
+  {
+    "name": "Daivos Mičelienės individuali įmonė",
+    "code": "173729166",
+    "address": "Rokiškis, Taikos g. 23-98, LT-42140"
+  },
+  {
     "name": "Daivos Paliūnienės individuali įmonė",
     "code": "165775139",
     "address": "Marijampolė, Kauno g. 60-4, LT-68247"
@@ -225,6 +384,11 @@
     "name": "Daivos Petrauskienės labdaros ir paramos fondas",
     "code": "306303014",
     "address": "Vilnius, Šaltinių g. 5-32, LT-03214"
+  },
+  {
+    "name": "Daivos Petravičienės įmonė",
+    "code": "145374822",
+    "address": "Šiauliai, Palangos g. 63, LT-76191"
   },
   {
     "name": "Daivos Ramanauskienės personalinė įmonė",
@@ -243,17 +407,84 @@
     "address": "Šakiai, Kranto g. 5, LT-71132"
   },
   {
+    "name": "Daivos Rovienės IĮ",
+    "code": "167359431",
+    "address": "Mažeikiai, Klevų g. 9, LT-89213"
+  },
+  {
+    "name": "Daivos Sadauskaitės IĮ",
+    "code": "302323628",
+    "address": "Kėdainių r. sav., Pelėdnagių sen., Pelėdnagių k., V. Koncevičiaus g. 20-28, LT-58161",
+    "vatcode": "LT100007581918"
+  },
+  {
+    "name": "Daivos Saročkienės individuali įmonė",
+    "code": "301694833",
+    "address": "Jurbarko r. sav., Jurbarkų sen., Vertimų k., Šlaito g. 3, LT-74264"
+  },
+  {
+    "name": "Daivos Selmistraitienės IĮ GYVYBĖS ŠVIESA",
+    "code": "124189667",
+    "address": "Vilniaus r. sav., Riešės sen., Skirgiškių k., Panerio g. 6, LT-15148"
+  },
+  {
     "name": "Daivos Sliesarčiukienės įmonė",
     "code": "135802993"
+  },
+  {
+    "name": "Daivos Tindžiulienės individuali įmonė",
+    "code": "134954489"
+  },
+  {
+    "name": "Daivos Veikelienės firma",
+    "code": "235618930"
+  },
+  {
+    "name": "Daivos Zaikauskienės įmonė \"Piranija\"",
+    "code": "133198918"
   },
   {
     "name": "Daivos Zemeckienės įmonė",
     "code": "145123421"
   },
   {
+    "name": "Daivos Zeninienės įmonė",
+    "code": "245528680"
+  },
+  {
     "name": "Daivos Čiuknienės IĮ",
     "code": "145830966",
     "address": "Šiauliai, S. Šalkauskio g. 14A-6, LT-76286"
+  },
+  {
+    "name": "Daivos Šimkienės firma",
+    "code": "159796342"
+  },
+  {
+    "name": "Daivos Šimkūnienės individuali įmonė",
+    "code": "124333473",
+    "address": "Vilnius, Nugalėtojų g. 15-2, LT-10105"
+  },
+  {
+    "name": "Daivos Švedienės individuali įmonė",
+    "code": "134104291",
+    "address": "Kauno r. sav., Karmėlavos sen., Ramučių k., Beržų g. 18, LT-54466",
+    "vatcode": "LT341042917"
+  },
+  {
+    "name": "Daivos Žvirblienės firma",
+    "code": "132544655"
+  },
+  {
+    "name": "IĮ \"Daivos Šukienės įmonė\"",
+    "code": "162414322",
+    "address": "Kelmės r. sav., Šaukėnai, Laisvės g. 13, LT-86382",
+    "vatcode": "LT624143219"
+  },
+  {
+    "name": "IĮ \"Daivos Žvikienės kavinė-baras\"",
+    "code": "154254640",
+    "address": "Anykščių r. sav., Troškūnų sen., Juostininkų k."
   },
   {
     "name": "MB \"DAIVOS BALDŲ STUDIJA\"",
@@ -273,7 +504,8 @@
   {
     "name": "MB Daivos projektai",
     "code": "306280576",
-    "address": "Vilnius, Leičių g. 9-65, LT-12109"
+    "address": "Vilnius, Leičių g. 9-65, LT-12109",
+    "vatcode": "LT100016155115"
   },
   {
     "name": "MB Daivos siuvyklėlė",
@@ -289,7 +521,8 @@
   {
     "name": "UAB \"Daivos grožio namai\"",
     "code": "304271895",
-    "address": "Klaipėda, Šaulių g. 40-1, LT-92231"
+    "address": "Klaipėda, Šaulių g. 40-1, LT-92231",
+    "vatcode": "LT100018794014"
   },
   {
     "name": "UAB \"Daivos užuolaidos\"",
@@ -305,12 +538,8 @@
   {
     "name": "UAB Daivos tekstilės namai",
     "code": "305925547",
-    "address": "Panevėžys, Nemuno g. 34-14, LT-35236"
-  },
-  {
-    "name": "UAB Mamos Daivos servisas",
-    "code": "304477984",
-    "address": "Klaipėdos r. sav., Dovilų sen., Kiškėnų k., Žalioji g. 15, LT-92491"
+    "address": "Panevėžys, Nemuno g. 34-14, LT-35236",
+    "vatcode": "LT100014504014"
   },
   {
     "name": "MB \"Daivu\"",
@@ -318,9 +547,20 @@
     "address": "Kaunas, Bernatonių g. 13, LT-47268"
   },
   {
+    "name": "Daivutės Činčiukienės įmonė",
+    "code": "175807927",
+    "address": "Šiaulių r. sav., Raudėnų sen., Pamockės k., Pušyno g. 7, LT-81304",
+    "vatcode": "LT758079219"
+  },
+  {
     "name": "UAB Daivutės gėlės",
     "code": "307537319",
     "address": "Telšiai, Geniškių g. 18, LT-87426"
+  },
+  {
+    "name": "IĮ \"Pas Daivutę\"",
+    "code": "302730684",
+    "address": "Jurbarko r. sav., Seredžiaus sen., Klausučių k., A. Daugėlos g. 1-1, LT-74408"
   },
   {
     "name": "UAB \"Daivyba\"",

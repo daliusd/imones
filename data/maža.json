@@ -28,12 +28,14 @@
   {
     "name": "MB \"Maža sala\"",
     "code": "307017603",
-    "address": "Molėtai, Sakalo g. 3, LT-33133"
+    "address": "Molėtai, Sakalo g. 3, LT-33133",
+    "vatcode": "LT100018006313"
   },
   {
     "name": "MB Maža meška",
     "code": "306864556",
-    "address": "Vilniaus r. sav., Avižienių sen., Gilužių k., Skardžio g. 48-1, LT-06241"
+    "address": "Vilniaus r. sav., Avižienių sen., Gilužių k., Skardžio g. 48-1, LT-06241",
+    "vatcode": "LT100017493915"
   },
   {
     "name": "MB Maža saulė",
@@ -53,7 +55,8 @@
   {
     "name": "UAB \"Maža kaina\"",
     "code": "303270064",
-    "address": "Kaunas, Technikos g. 18-1, LT-51211"
+    "address": "Kaunas, Technikos g. 18-1, LT-51211",
+    "vatcode": "LT100008494111"
   },
   {
     "name": "UAB \"Maža krautuvėlė\"",
@@ -70,7 +73,8 @@
   {
     "name": "UAB \"Maža pilis\"",
     "code": "305630454",
-    "address": "Vilnius, Kazimiero Jelskio g. 43, LT-04132"
+    "address": "Vilnius, Kazimiero Jelskio g. 43, LT-04132",
+    "vatcode": "LT100013521917"
   },
   {
     "name": "Šeimyna \"Maža kėdutė\"",
@@ -79,18 +83,22 @@
   },
   {
     "name": "Gyvenamosios teritorijos, mažaaukščių gyvenamųjų namų \"Likiškių\" II rajono savininkų bendrija",
-    "code": "302326250",
-    "address": "Alytus, Šienpjovių g. 2B, LT-63394"
+    "code": "302326250"
   },
   {
     "name": "UAB \"Mažai didelis\"",
     "code": "304161954",
-    "address": "Vilnius, Vyšnių g. 6-36, LT-02173"
+    "address": "Vilnius, Vyšnių g. 6-36, LT-02173",
+    "vatcode": "LT100011250618"
   },
   {
     "name": "VšĮ Mezgu mažam kovotojui",
     "code": "305553890",
     "address": "Šiauliai, Radviliškio g. 74-5, LT-76367"
+  },
+  {
+    "name": "I. Perechrest įmonė \"MAŽAS ŠALTIS\"",
+    "code": "155916926"
   },
   {
     "name": "MB \"Kai aš mažas buvau\"",
@@ -114,6 +122,10 @@
     "address": "Kauno r. sav., Garliavos apylinkių sen., Seniavos k., Taurėnų g. 20-2, LT-53275"
   },
   {
+    "name": "MB \"Mažas medis\"",
+    "code": "303159441"
+  },
+  {
     "name": "MB \"Mažas mėnulis\"",
     "code": "305944960",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
@@ -133,7 +145,8 @@
   {
     "name": "MB Mažas moto",
     "code": "306288046",
-    "address": "Kaunas, Kalvarijos g. 67, LT-46408"
+    "address": "Kaunas, Kalvarijos g. 67, LT-46408",
+    "vatcode": "LT100019594017"
   },
   {
     "name": "MB Mažas pranašumas",
@@ -158,7 +171,8 @@
   {
     "name": "Mažoji bendrija Mažas baltas kadras",
     "code": "306209052",
-    "address": "Vilnius, Architektų g. 194-87, LT-04212"
+    "address": "Vilnius, Architektų g. 194-87, LT-04212",
+    "vatcode": "LT100016383315"
   },
   {
     "name": "UAB \"Mažas pasaulis\"",
@@ -193,14 +207,30 @@
     "address": "Varėnos r. sav., Valkininkų sen., Pirčiupių k., Klevų g. 30, LT-65446"
   },
   {
+    "name": "B. Savickienės firma \"MAŽASIS PUNTUKAS\"",
+    "code": "247114710",
+    "address": "Panevėžys, Respublikos g. 2, LT-35199",
+    "vatcode": "LT471147113"
+  },
+  {
     "name": "DNSB \"Mažasis Paryžius\"",
     "code": "304143511",
     "address": "Klaipėda, Paryžiaus Komunos g. 1A, LT-91148"
   },
   {
+    "name": "IĮ Mažasis gėlių ūkis",
+    "code": "166846347",
+    "address": "Mažeikių r. sav., Židikų sen., Ukrinų k."
+  },
+  {
     "name": "Kelmės mažasis teatras",
     "code": "193025454",
     "address": "Kelmė, Vytauto Didžiojo g. 73, LT-86136"
+  },
+  {
+    "name": "M. Peckuvienės individuali įmonė \"MAŽASIS ŽIOGELIS\"",
+    "code": "149967930",
+    "address": "Alytus, Šaltinių g. 7-1, LT-62348"
   },
   {
     "name": "MB \"Mažasis prekeivis\"",
@@ -232,11 +262,6 @@
     "address": "Prienų r. sav., Balbieriškis, Parko g. 40, LT-59241"
   },
   {
-    "name": "MB Mažasis bosas",
-    "code": "306229603",
-    "address": "Vilnius, Antano Gudaičio g. 46-1, LT-25128"
-  },
-  {
     "name": "MB Mažasis kūrėjas",
     "code": "306692334",
     "address": "Druskininkai, Merkinės g. 11-36, LT-66265"
@@ -245,6 +270,12 @@
     "name": "MB Mažasis nuotykis",
     "code": "306850108",
     "address": "Vilnius, Jonažolių g. 7-107, LT-04138"
+  },
+  {
+    "name": "R. Mažeikaitės individuali įmonė \"Mažasis atriumas\"",
+    "code": "122874868",
+    "address": "Vilnius, Gerosios Vilties g. 26-3, LT-03144",
+    "vatcode": "LT228748610"
   },
   {
     "name": "Sodininkų bendrija \"Mažasis ąžuoliukas\"",
@@ -265,7 +296,8 @@
   {
     "name": "UAB \"Mažasis modelis\"",
     "code": "178694363",
-    "address": "Švenčionių r. sav., Pabradės sen., Merionių II k."
+    "address": "Švenčionių r. sav., Pabradės sen., Merionių II k.",
+    "vatcode": "LT100010990111"
   },
   {
     "name": "UAB \"Mažasis pubas\"",
@@ -275,7 +307,8 @@
   {
     "name": "UAB \"Mažasis rojus\"",
     "code": "136060057",
-    "address": "Kaunas, Laisvės al. 84, LT-44250"
+    "address": "Kaunas, Laisvės al. 84, LT-44250",
+    "vatcode": "LT360600515"
   },
   {
     "name": "UAB \"Mažasis skorpionas\"",
@@ -300,6 +333,10 @@
     "vatcode": "LT352518716"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Mažasis retrobaras\"",
+    "code": "122255136"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Mažasis salonas\"",
     "code": "159803573",
     "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., J. Naujalio g. 20, LT-54138",
@@ -308,7 +345,8 @@
   {
     "name": "Valstybinis Vilniaus mažasis teatras",
     "code": "188200375",
-    "address": "Vilnius, Gedimino pr. 22, LT-01103"
+    "address": "Vilnius, Gedimino pr. 22, LT-01103",
+    "vatcode": "LT100019455312"
   },
   {
     "name": "Viešoji įstataiga \"Mažasis Trinapolis\"",

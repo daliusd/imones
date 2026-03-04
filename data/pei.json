@@ -12,7 +12,8 @@
   {
     "name": "UAB \"Peikko Lietuva\"",
     "code": "300512612",
-    "address": "Kaunas, R. Kalantos g. 49, LT-52303"
+    "address": "Kaunas, R. Kalantos g. 49, LT-52303",
+    "vatcode": "LT100002100818"
   },
   {
     "name": "UAB \"Peikša\"",
@@ -21,9 +22,15 @@
     "vatcode": "LT100010871212"
   },
   {
+    "name": "IĮ Svietlanos Peikštenienės odontologijos kabinetas",
+    "code": "301507536",
+    "address": "Mažeikiai, Pavenčių g. 5-3, LT-89186"
+  },
+  {
     "name": "Peil Transporte, MB",
     "code": "305875585",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100015037912"
   },
   {
     "name": "MB Alfa peiliai",
@@ -58,12 +65,14 @@
   {
     "name": "MB Grožio peilis",
     "code": "305475032",
-    "address": "Kaunas, Pilies g. 7-3, LT-44275"
+    "address": "Kaunas, Pilies g. 7-3, LT-44275",
+    "vatcode": "LT100014920112"
   },
   {
     "name": "UAB \"Aštrus peilis\"",
     "code": "304169399",
-    "address": "Vilnius, Lvivo g. 38A-30, LT-09307"
+    "address": "Vilnius, Lvivo g. 38A-30, LT-09307",
+    "vatcode": "LT100009961819"
   },
   {
     "name": "MB \"Peilių ekspertai\"",
@@ -90,7 +99,12 @@
   {
     "name": "UAB \"PEIS\"",
     "code": "302577110",
-    "address": "Vilnius, Tuskulėnų g. 3-50, LT-09215"
+    "address": "Vilnius, Tuskulėnų g. 3-50, LT-09215",
+    "vatcode": "LT100005969812"
+  },
+  {
+    "name": "Rasos Peisarevičienės įmonė",
+    "code": "162762161"
   },
   {
     "name": "UAB \"Peitė\"",
@@ -101,5 +115,9 @@
     "name": "UAB Peiveris",
     "code": "306375711",
     "address": "Šiauliai, Žalgirio Sodų 12-oji g. 39, LT-76394"
+  },
+  {
+    "name": "Antano Peizos įmonė",
+    "code": "145104111"
   }
 ]

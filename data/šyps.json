@@ -10,6 +10,11 @@
     "address": "Tauragės r. sav., Mažonų sen., Pagramančio mstl., Juozo Mažeikos g. 11, LT-73305"
   },
   {
+    "name": "J. Suslavičienės odontologijos klinika \"Šypsena Jums\"",
+    "code": "303211393",
+    "address": "Vilnius, Baltupio g. 65-61, LT-08322"
+  },
+  {
     "name": "Kelionių šypsena, MB",
     "code": "306963180",
     "address": "Ukmergė, Miškų g. 6, LT-20159"
@@ -40,11 +45,6 @@
     "address": "Šiauliai, Gumbinės g. 33C, LT-77171"
   },
   {
-    "name": "MB \"Graži šypsena\"",
-    "code": "305616910",
-    "address": "Molėtų r. sav., Mindūnų sen., Juočių k., Siesarties g. 34, LT-33200"
-  },
-  {
     "name": "MB \"Misija Šypsena\"",
     "code": "307132071",
     "address": "Kaunas, Želvos g. 14-8, LT-50172"
@@ -62,7 +62,8 @@
   {
     "name": "MB \"Tobula šypsena\"",
     "code": "303428678",
-    "address": "Kėdainiai, Chemikų g. 3-13, LT-57419"
+    "address": "Kėdainiai, Chemikų g. 3-13, LT-57419",
+    "vatcode": "LT100011512917"
   },
   {
     "name": "MB \"Šypsena tau\"",
@@ -77,7 +78,8 @@
   {
     "name": "MB Depresija su šypsena",
     "code": "306634085",
-    "address": "Kupiškio r. sav., Kupiškio sen., Pyragių k., Beržytės g. 7, LT-40106"
+    "address": "Kupiškio r. sav., Kupiškio sen., Pyragių k., Beržytės g. 7, LT-40106",
+    "vatcode": "LT100016869311"
   },
   {
     "name": "MB Laiminga šypsena",
@@ -92,7 +94,8 @@
   {
     "name": "MB Pajūrio šypsena",
     "code": "306687593",
-    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Karališkių g. 26, LT-92437"
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Karališkių g. 26, LT-92437",
+    "vatcode": "LT100017872317"
   },
   {
     "name": "MB Vaivos šypsena",
@@ -172,12 +175,14 @@
   {
     "name": "UAB Implantologijos ir odontologijos klinika \"Šypsena\"",
     "code": "304067946",
-    "address": "Vilnius, Didžioji g. 20-27, LT-01128"
+    "address": "Vilnius, Didžioji g. 20-27, LT-01128",
+    "vatcode": "LT100017917411"
   },
   {
     "name": "UAB Šypsena iki ausų",
     "code": "307419477",
-    "address": "Kaunas, Vinių g. 4-11, LT-45274"
+    "address": "Kaunas, Vinių g. 4-11, LT-45274",
+    "vatcode": "LT100019159013"
   },
   {
     "name": "Vilniaus lopšelis-darželis \"Šypsena\"",
@@ -220,6 +225,11 @@
     "address": "Vilnius, I. Simonaitytės g. 10-43, LT-06294"
   },
   {
+    "name": "IĮ \"Šypsenos namai\"",
+    "code": "135714657",
+    "address": "Kaunas, Baltų pr. 25-56, LT-48237"
+  },
+  {
     "name": "Labdaros ir paramos fondas \"Vaikų šypsenos\"",
     "code": "305418946",
     "address": "Pasvalio r. sav., Pumpėnų sen., Lavėnų k. 8, LT-39230"
@@ -237,7 +247,8 @@
   {
     "name": "MB \"Šypsenos klinika\"",
     "code": "306326319",
-    "address": "Kauno r. sav., Užliedžių sen., Romainių Kaimelės k., Romainių g. 200, LT-54306"
+    "address": "Kauno r. sav., Užliedžių sen., Romainių Kaimelės k., Romainių g. 200, LT-54306",
+    "vatcode": "LT100019032913"
   },
   {
     "name": "MB \"Šypsenos meistrai Vilnius\"",
@@ -272,12 +283,14 @@
   {
     "name": "MB Šypsenos dizaino studija",
     "code": "305440946",
-    "address": "Vilnius, Smalinės g. 21-3, LT-06225"
+    "address": "Vilnius, Smalinės g. 21-3, LT-06225",
+    "vatcode": "LT100019670712"
   },
   {
     "name": "MB Šypsenos formulė",
     "code": "307115264",
-    "address": "Kaunas, Lazūnų g. 4-16, LT-50141"
+    "address": "Kaunas, Lazūnų g. 4-16, LT-50141",
+    "vatcode": "LT100019181716"
   },
   {
     "name": "MB Šypsenos harmonija",
@@ -302,12 +315,14 @@
   {
     "name": "UAB \"Skaitmeninės šypsenos\"",
     "code": "304744444",
-    "address": "Vilnius, S. Žukausko g. 4-109, LT-08244"
+    "address": "Vilnius, S. Žukausko g. 4-109, LT-08244",
+    "vatcode": "LT100019496410"
   },
   {
     "name": "UAB \"Šypsenos akademija\"",
     "code": "304689389",
-    "address": "Vilnius, Švitrigailos g. 11G-100, LT-03228"
+    "address": "Vilnius, Švitrigailos g. 11G-100, LT-03228",
+    "vatcode": "LT100011951711"
   },
   {
     "name": "UAB \"Šypsenos dizainas\"",
@@ -333,12 +348,14 @@
   {
     "name": "UAB \"Šypsenos magija\"",
     "code": "302721781",
-    "address": "Kaunas, Žuvinto g. 5A-9, LT-51419"
+    "address": "Kaunas, Žuvinto g. 5A-9, LT-51419",
+    "vatcode": "LT100018144413"
   },
   {
     "name": "UAB \"Šypsenos meistrai\"",
     "code": "305224553",
-    "address": "Vilnius, Vasario 16-osios g. 2-79, LT-01106"
+    "address": "Vilnius, Vasario 16-osios g. 2-79, LT-01106",
+    "vatcode": "LT100012547410"
   },
   {
     "name": "UAB \"Šypsenos oazė\"",
@@ -363,17 +380,25 @@
   {
     "name": "UAB Šypsenos galerija",
     "code": "303400629",
-    "address": "Kaunas, Rimties skg. 1, LT-47160"
+    "address": "Kaunas, Rimties skg. 1, LT-47160",
+    "vatcode": "LT100008881014"
   },
   {
     "name": "UAB Šypsenos laboratorija",
     "code": "304129173",
-    "address": "Vilnius, Raitininkų g. 4-104, LT-09236"
+    "address": "Vilnius, Raitininkų g. 4-104, LT-09236",
+    "vatcode": "LT100018814618"
   },
   {
     "name": "VšĮ \"Šypsenos ore\"",
     "code": "306231604",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
+    "vatcode": "LT100016875619"
+  },
+  {
+    "name": "VšĮ Mažųjų šypsenos",
+    "code": "307593481",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
   },
   {
     "name": "Šypsenos aura, MB",
@@ -444,7 +469,8 @@
   {
     "name": "MB \"Šypsenų šalis\"",
     "code": "305163036",
-    "address": "Pasvalio r. sav., Pasvalio apylinkių sen., Diliauskų k., Atžalyno g. 7, LT-39188"
+    "address": "Pasvalio r. sav., Pasvalio apylinkių sen., Diliauskų k., Atžalyno g. 7, LT-39188",
+    "vatcode": "LT100018541212"
   },
   {
     "name": "MB Šypsenų fabrikas",
@@ -509,7 +535,8 @@
   {
     "name": "UAB \"Gurmano šypsnys\"",
     "code": "302498727",
-    "address": "Vilnius, Ulonų g. 5, LT-08240"
+    "address": "Vilnius, Ulonų g. 5, LT-08240",
+    "vatcode": "LT100005469215"
   },
   {
     "name": "VšĮ \"Likimo šypsnys\"",
@@ -524,7 +551,8 @@
   {
     "name": "MB \"ŠYPSOKIS PASAULIUI\"",
     "code": "142122428",
-    "address": "Klaipėda, I. Kanto g. 10-1, LT-92235"
+    "address": "Klaipėda, I. Kanto g. 10-1, LT-92235",
+    "vatcode": "LT100012847712"
   },
   {
     "name": "MB Šypsokis",

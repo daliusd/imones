@@ -15,6 +15,10 @@
     "address": "Vilnius, Rinktinės g. 55-212, LT-09207"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Ultima ratio\"",
+    "code": "235259420"
+  },
+  {
     "name": "Asociacija ZERO ULTIMATE",
     "code": "302580423",
     "address": "Vilnius, Jonažolių g. 15-32, LT-04136"
@@ -22,12 +26,14 @@
   {
     "name": "MB \"Ultimate Rental LT\"",
     "code": "307194354",
-    "address": "Vilnius, Elbingo g. 6-8, LT-06285"
+    "address": "Vilnius, Elbingo g. 6-8, LT-06285",
+    "vatcode": "LT100018393313"
   },
   {
     "name": "MB \"Ultimate Self Defense Championship\"",
     "code": "307024448",
-    "address": "Panevėžio r. sav., Panevėžio sen., Tičkūnų k., Sodžiaus g. 24, LT-38413"
+    "address": "Panevėžio r. sav., Panevėžio sen., Tičkūnų k., Sodžiaus g. 24, LT-38413",
+    "vatcode": "LT100019130812"
   },
   {
     "name": "SPORTO KLUBAS ŠIAULIAI ULTIMATE",
@@ -37,7 +43,12 @@
   {
     "name": "UAB \"ULTIMATE LOGISTICS\"",
     "code": "304986515",
-    "address": "Vilnius, Elbingo g. 6-8, LT-06285"
+    "address": "Vilnius, Elbingo g. 6-8, LT-06285",
+    "vatcode": "LT100012126917"
+  },
+  {
+    "name": "UAB \"Ultimate Beverage Trade\"",
+    "code": "305038399"
   },
   {
     "name": "UAB \"Ultimate Casa\"",
@@ -55,14 +66,21 @@
     "address": "Kaunas, Perkūno al. 50A, LT-44226"
   },
   {
+    "name": "UltimaThule, MB",
+    "code": "307587642",
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+  },
+  {
     "name": "UAB \"In ultimo\"",
     "code": "302676546",
-    "address": "Kauno r. sav., Ringaudų sen., Gaižėnėlių k., Strazdų g. 1, LT-53454"
+    "address": "Kauno r. sav., Ringaudų sen., Gaižėnėlių k., Strazdų g. 1, LT-53454",
+    "vatcode": "LT100011332111"
   },
   {
     "name": "UAB \"Magnus ultimo\"",
     "code": "302600833",
-    "address": "Tauragė, Tilžės pl. 1, LT-72148"
+    "address": "Tauragė, Tilžės pl. 1, LT-72148",
+    "vatcode": "LT100009154613"
   },
   {
     "name": "UAB \"Ultimus LT\"",
@@ -88,13 +106,19 @@
   {
     "name": "MB Ultra Squared Ventures",
     "code": "306311954",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100016751514"
   },
   {
     "name": "MB Ultra autodalys",
     "code": "307015303",
     "address": "Kaunas, V. Krėvės pr. 17-108, LT-49466",
     "vatcode": "LT100017309513"
+  },
+  {
+    "name": "MB Ultra performance agency",
+    "code": "307579001",
+    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Žalioji g. 50, LT-91276"
   },
   {
     "name": "Sporto ir laisvalaikio klubas \"ULTRA\"",
@@ -109,12 +133,14 @@
   {
     "name": "UAB \"Nec plus ultra\"",
     "code": "124618390",
-    "address": "Vilnius, Čiobiškio g. 9-22, LT-07180"
+    "address": "Vilnius, Čiobiškio g. 9-22, LT-07180",
+    "vatcode": "LT246183917"
   },
   {
     "name": "UAB \"Ultra Group\"",
     "code": "301272547",
-    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Olandų g. 28, LT-92359"
+    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Olandų g. 28, LT-92359",
+    "vatcode": "LT100003621616"
   },
   {
     "name": "UAB \"Ultra Klinika\"",
@@ -124,7 +150,8 @@
   {
     "name": "UAB \"Ultra nominum\"",
     "code": "125163732",
-    "address": "Vilnius, A. Goštauto g. 2-1B, LT-01104"
+    "address": "Vilnius, A. Goštauto g. 2-1B, LT-01104",
+    "vatcode": "LT251637314"
   },
   {
     "name": "UAB \"Ultra švara\"",
@@ -176,17 +203,20 @@
   {
     "name": "\"Ultradition\", MB",
     "code": "305836689",
-    "address": "Vilnius, Rolando Jankausko g. 7-56, LT-04314"
+    "address": "Vilnius, Rolando Jankausko g. 7-56, LT-04314",
+    "vatcode": "LT100015036117"
   },
   {
     "name": "UAB \"Ultraforma\"",
     "code": "145410186",
-    "address": "Šiauliai, Tilžės g. 42-48, LT-78185"
+    "address": "Šiauliai, Tilžės g. 42-48, LT-78185",
+    "vatcode": "LT454101811"
   },
   {
     "name": "Ultragarsinis plovimas MB",
     "code": "305657227",
-    "address": "Kaunas, Dvarų g. 37, LT-46399"
+    "address": "Kaunas, Dvarų g. 37, LT-46399",
+    "vatcode": "LT100013576117"
   },
   {
     "name": "Raumenų ir skeleto ultragarsinės diagnostikos draugija",
@@ -201,7 +231,8 @@
   {
     "name": "UAB Ultragarso akademija",
     "code": "305080245",
-    "address": "Kaunas, Šiaurės pr. 40-32, LT-49224"
+    "address": "Kaunas, Šiaurės pr. 40-32, LT-49224",
+    "vatcode": "LT100012658513"
   },
   {
     "name": "UAB \"Ultraglob\"",
@@ -212,7 +243,8 @@
   {
     "name": "UAB \"Ultrainvest med\"",
     "code": "301700834",
-    "address": "Vilnius, Polocko g. 4B-20, LT-01204"
+    "address": "Vilnius, Polocko g. 4B-20, LT-01204",
+    "vatcode": "LT100005382216"
   },
   {
     "name": "UAB \"Ultralasik\"",
@@ -222,7 +254,8 @@
   {
     "name": "Lietuvos ultralengvųjų orlaivių pilotų federacija",
     "code": "191939045",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
+    "vatcode": "LT100019016114"
   },
   {
     "name": "Ultralengvųjų skraidymo aparatų pilotų klubas \"Omega\"",
@@ -242,12 +275,14 @@
   {
     "name": "UAB \"ULTRAMARINAS\"",
     "code": "123897987",
-    "address": "Vilnius, Užupio g. 7C, LT-01200"
+    "address": "Vilnius, Užupio g. 7C, LT-01200",
+    "vatcode": "LT238979811"
   },
   {
     "name": "UAB \"Ultransa\"",
     "code": "175784478",
-    "address": "Šiaulių r. sav., Kužių sen., Sauginių k., Pakrantės g. 19, LT-80186"
+    "address": "Šiaulių r. sav., Kužių sen., Sauginių k., Pakrantės g. 19, LT-80186",
+    "vatcode": "LT757844716"
   },
   {
     "name": "ASOCIACIJA \"ULTRAPILOTŲ KLUBAS\"",
@@ -257,12 +292,14 @@
   {
     "name": "UAB \"Ultrapolymers Baltics\"",
     "code": "302661220",
-    "address": "Vilnius, Ozo g. 12A-1, LT-08200"
+    "address": "Vilnius, Ozo g. 12A-1, LT-08200",
+    "vatcode": "LT100006329417"
   },
   {
     "name": "UAB \"Ultraprojektai\"",
     "code": "304371575",
-    "address": "Vilnius, Žalgirio g. 92-46, LT-09303"
+    "address": "Vilnius, Žalgirio g. 92-46, LT-09303",
+    "vatcode": "LT100010495013"
   },
   {
     "name": "MB \"Ultrasen\"",
@@ -272,7 +309,8 @@
   {
     "name": "MB Ultrasound center",
     "code": "306047636",
-    "address": "Kaunas, Kalnų g. 56A-11, LT-47142"
+    "address": "Kaunas, Kalnų g. 56A-11, LT-47142",
+    "vatcode": "LT100019217317"
   },
   {
     "name": "MB \"Ultrasprendimai\"",
@@ -282,7 +320,8 @@
   {
     "name": "MB \"Ultratestas\"",
     "code": "304961316",
-    "address": "Klaipėdos r. sav., Sendvario sen., Jakų k., Pašto g. 15A, LT-96324"
+    "address": "Klaipėdos r. sav., Sendvario sen., Jakų k., Pašto g. 15A, LT-96324",
+    "vatcode": "LT100012535911"
   },
   {
     "name": "UAB \"Ultraturas\"",
@@ -293,7 +332,8 @@
   {
     "name": "MB \"Ultraventus\"",
     "code": "307256471",
-    "address": "Panevėžys, Molainių g. 18-38, LT-37142"
+    "address": "Panevėžys, Molainių g. 18-38, LT-37142",
+    "vatcode": "LT100018687419"
   },
   {
     "name": "MB \"Ultraverso\"",
@@ -309,6 +349,11 @@
     "name": "UAB \"Ultrawires\"",
     "code": "302849279",
     "address": "Kretingos r. sav., Žalgirio sen., Budrių k., Bažnyčios g. 6, LT-97360"
+  },
+  {
+    "name": "IĮ ULTRAZONA",
+    "code": "154250058",
+    "address": "Vilnius, Gabijos g. 73-51, LT-06103"
   },
   {
     "name": "Ultrd MB",
@@ -329,7 +374,8 @@
   {
     "name": "UAB \"ULTS Invest Group\"",
     "code": "304447980",
-    "address": "Vilnius, Mindaugo g. 14A-42, LT-03225"
+    "address": "Vilnius, Mindaugo g. 14A-42, LT-03225",
+    "vatcode": "LT100012733413"
   },
   {
     "name": "ULTUS Logistics UAB",

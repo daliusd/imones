@@ -5,6 +5,11 @@
     "address": "Vilnius, Pavasario g. 2-15, LT-10309"
   },
   {
+    "name": "J. Skalandžiūnienės individuali įmonė",
+    "code": "152594313",
+    "address": "Palanga, Plytų g. 34, LT-00132"
+  },
+  {
     "name": "UAB \"Skalba\"",
     "code": "302702667",
     "address": "Telšiai, Muziejaus g. 14A-3, LT-87341",
@@ -13,12 +18,14 @@
   {
     "name": "UAB \"Skalbiklis\"",
     "code": "304505985",
-    "address": "Vilniaus r. sav., Bezdonių sen., Aukštuolės k., Vakaro 2-oji g. 10, LT-15250"
+    "address": "Vilniaus r. sav., Bezdonių sen., Aukštuolės k., Vakaro 2-oji g. 10, LT-15250",
+    "vatcode": "LT100010881217"
   },
   {
     "name": "UAB \"Tvarus skalbimas\"",
     "code": "306347199",
-    "address": "Vilnius, Bernardinų g. 10-10, LT-01124"
+    "address": "Vilnius, Bernardinų g. 10-10, LT-01124",
+    "vatcode": "LT100016968915"
   },
   {
     "name": "UAB \"Marškinių skalbimo centras\"",
@@ -28,12 +35,14 @@
   {
     "name": "UAB \"Skalbimo paslaugos\"",
     "code": "141423371",
-    "address": "Klaipėda, Šilutės pl. 40, LT-94137"
+    "address": "Klaipėda, Šilutės pl. 40, LT-94137",
+    "vatcode": "LT414233716"
   },
   {
     "name": "UAB \"Valymo skalbimo vizija\"",
     "code": "302508833",
-    "address": "Vilnius, S. Žukausko g. 31-28, LT-09129"
+    "address": "Vilnius, S. Žukausko g. 31-28, LT-09129",
+    "vatcode": "LT100005421311"
   },
   {
     "name": "MB Skalbinių bitės",
@@ -48,7 +57,19 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Skalbsena\"",
     "code": "134679993",
-    "address": "Kaunas, Partizanų g. 26, LT-50219"
+    "address": "Kaunas, Partizanų g. 26, LT-50219",
+    "vatcode": "LT346799917"
+  },
+  {
+    "name": "IĮ \"Janinos Ališauskienės skalbykla\"",
+    "code": "170758497",
+    "address": "Prienai, Pramonės g. 2, LT-59138",
+    "vatcode": "LT707584917"
+  },
+  {
+    "name": "IĮ TZubkonienės skalbykla",
+    "code": "123528449",
+    "address": "Vilnius, Taikos g. 182-15, LT-05229"
   },
   {
     "name": "MB \"Menų skalbykla\"",
@@ -80,12 +101,14 @@
   {
     "name": "UAB Mažeikių skalbykla",
     "code": "304404541",
-    "address": "Mažeikiai, Juodpelkio g. 3, LT-89144"
+    "address": "Mažeikiai, Juodpelkio g. 3, LT-89144",
+    "vatcode": "LT100010710312"
   },
   {
     "name": "UAB \"Savitarnos skalbyklos\"",
     "code": "304046425",
-    "address": "Kaunas, R. Kalantos g. 131-31, LT-52312"
+    "address": "Kaunas, R. Kalantos g. 131-31, LT-52312",
+    "vatcode": "LT100009445512"
   },
   {
     "name": "UAB \"Skalbyklų pardavimas\"",
@@ -95,7 +118,8 @@
   {
     "name": "Akcinė bendrovė \"KLOVAINIŲ SKALDA\"",
     "code": "167901031",
-    "address": "Pakruojo r. sav., Klovainių sen., Beržinių k., Gamyklos g. 2, LT-83209"
+    "address": "Pakruojo r. sav., Klovainių sen., Beržinių k., Gamyklos g. 2, LT-83209",
+    "vatcode": "LT679010314"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Skalda\"",
@@ -121,13 +145,19 @@
   {
     "name": "Uždaroji akcinė bendrovė \"GRANITINĖ SKALDA\"",
     "code": "120090821",
-    "address": "Vilnius, Granito g. 5, LT-02300"
+    "address": "Vilnius, Granito g. 5, LT-02300",
+    "vatcode": "LT200908219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kybartų skalda\"",
     "code": "185104418",
     "address": "Vilkaviškio r. sav., Kybartų sen., Kybeikių k.",
     "vatcode": "LT851044113"
+  },
+  {
+    "name": "IĮ Skaldau malkas",
+    "code": "305642606",
+    "address": "Rietavo sav., Rietavo sen., Giliogirio k., Liepų g. 2, LT-90300"
   },
   {
     "name": "Individuali įmonė \"Skaldeka\"",
@@ -143,7 +173,8 @@
   {
     "name": "UAB \"Skaldera\"",
     "code": "304317111",
-    "address": "Vilniaus r. sav., Dūkštų sen., Antakalnių k., Antakalnio g. 25, LT-14232"
+    "address": "Vilniaus r. sav., Dūkštų sen., Antakalnių k., Antakalnio g. 25, LT-14232",
+    "vatcode": "LT100010349615"
   },
   {
     "name": "UAB \"Skalderus\"",
@@ -180,12 +211,14 @@
   {
     "name": "UAB \"Skalduvos gamyba\"",
     "code": "302419523",
-    "address": "Pakruojis, Statybininkų g. 9, LT-83163"
+    "address": "Pakruojis, Statybininkų g. 9, LT-83163",
+    "vatcode": "LT100004812716"
   },
   {
     "name": "UAB \"Skalduvos prekyba\"",
     "code": "302419509",
-    "address": "Pakruojis, Statybininkų g. 9, LT-83163"
+    "address": "Pakruojis, Statybininkų g. 9, LT-83163",
+    "vatcode": "LT100004812918"
   },
   {
     "name": "Skale media, MB",
@@ -200,7 +233,8 @@
   {
     "name": "MB Tado Skaleviciaus skaitmenine komercija",
     "code": "306488221",
-    "address": "Vilnius, Vašingtono a. 1-84, LT-01108"
+    "address": "Vilnius, Vašingtono a. 1-84, LT-01108",
+    "vatcode": "LT100017623810"
   },
   {
     "name": "UAB \"SKALEVITA\"",
@@ -240,34 +274,49 @@
     "address": "Marijampolė, R. Juknevičiaus g. 54, LT-68203"
   },
   {
+    "name": "J. Diksienės individuali įmonė \"Skalsa\"",
+    "code": "279220390",
+    "address": "Tauragė, J. Tumo-Vaižganto g. 118-58, LT-72265"
+  },
+  {
     "name": "MB \"Skalsa LT\"",
     "code": "303052941",
-    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Bajorų g. 5, LT-97179"
+    "address": "Kretingos r. sav., Kretingos sen., Padvarių k., Bajorų g. 5, LT-97179",
+    "vatcode": "LT100010384411"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Skalsa\"",
     "code": "173835372",
-    "address": "Skuodo r. sav., Mosėdis, Gėlių g. 2A, LT-98268"
+    "address": "Skuodo r. sav., Mosėdis, Gėlių g. 2A, LT-98268",
+    "vatcode": "LT738353716"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS SKALSA\"",
     "code": "121732271",
-    "address": "Vilnius, Traidenio g. 24-1, LT-08116"
+    "address": "Vilnius, Traidenio g. 24-1, LT-08116",
+    "vatcode": "LT217322716"
   },
   {
     "name": "UAB \"Skalsi prekyba\"",
     "code": "305154539",
-    "address": "Kaunas, Vandžiogalos pl. 20, LT-47442"
+    "address": "Kaunas, Vandžiogalos pl. 20, LT-47442",
+    "vatcode": "LT100012401113"
+  },
+  {
+    "name": "Vidmanto Skalsio įmonė",
+    "code": "171659114"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Skalsmėja\"",
     "code": "135872212",
-    "address": "Kaunas, Gebenių g. 31, LT-46326"
+    "address": "Kaunas, Gebenių g. 31, LT-46326",
+    "vatcode": "LT358722113"
   },
   {
     "name": "MB Skalsu",
     "code": "306963262",
-    "address": "Vilnius, Žirmūnų g. 62-36, LT-09100"
+    "address": "Vilnius, Žirmūnų g. 62-36, LT-09100",
+    "vatcode": "LT100017618511"
   },
   {
     "name": "Labdaros ir paramos fondas \"Skalsuma\"",
@@ -292,7 +341,8 @@
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"NIDOS SKALVA\"",
     "code": "152765515",
-    "address": "Neringa, Purvynės g. 19, LT-93128"
+    "address": "Neringa, Purvynės g. 19, LT-93128",
+    "vatcode": "LT527655113"
   },
   {
     "name": "MB Skalvaitis",
@@ -302,7 +352,8 @@
   {
     "name": "UAB \"SKALVAS\"",
     "code": "302635407",
-    "address": "Vilnius, Geologų g. 6-2, LT-02190"
+    "address": "Vilnius, Geologų g. 6-2, LT-02190",
+    "vatcode": "LT100006165915"
   },
   {
     "name": "Jaunimo klubas \"Žukų skalviai\"",
@@ -360,7 +411,8 @@
   {
     "name": "UAB Skalė",
     "code": "306317380",
-    "address": "Klaipėda, Ragainės g. 14-5, LT-92196"
+    "address": "Klaipėda, Ragainės g. 14-5, LT-92196",
+    "vatcode": "LT100016075214"
   },
   {
     "name": "DNSB \"SKALŪNAS 1\"",

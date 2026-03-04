@@ -1,18 +1,82 @@
 [
   {
+    "name": "A. Macaičio veterinarinė gydykla",
+    "code": "172445024",
+    "address": "Raseinių r. sav., Ariogala, Žemaičių g. 41, LT-60252"
+  },
+  {
+    "name": "Alinos Barkauskaitės stomatologijos gydykla",
+    "code": "126194766"
+  },
+  {
+    "name": "B. Balčaičio veterinarinė gydykla",
+    "code": "158164329"
+  },
+  {
     "name": "Individuali įmonė K. Kliknos vet. gydykla",
     "code": "172257816",
     "address": "Raseiniai, Tulpių g. 7, LT-60182"
   },
   {
+    "name": "IĮ \"Mildos Radžiūnienės odontologijos gydykla\"",
+    "code": "300133683",
+    "address": "Vilnius, Vytauto g. 2-13, LT-08118"
+  },
+  {
+    "name": "IĮ \"P. Pociaus veterinarinė gydykla\"",
+    "code": "172267924",
+    "address": "Raseinių r. sav., Šiluvos sen., Žaiginio mstl., Gėlių g. 24, LT-60445"
+  },
+  {
+    "name": "IĮ \"Raudondvario veterinarinė gydykla\"",
+    "code": "300095802",
+    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Šiaurinė g. 1, LT-54116"
+  },
+  {
+    "name": "IĮ D. Tautkienės veterinarijos gydykla",
+    "code": "172328131",
+    "address": "Raseinių r. sav., Nemakščių sen., Užkalnių k., Parko g. 3, LT-60374"
+  },
+  {
+    "name": "IĮ J. Rokaičio vet. gydykla",
+    "code": "172255950",
+    "address": "Raseinių r. sav., Betygalos sen., Požečių k., Pavasario g. 9, LT-60204"
+  },
+  {
+    "name": "IĮ Ramunės Semėnienės stomatologijos gydykla",
+    "code": "125036884",
+    "address": "Vilnius, Žygio g. 48-9, LT-08232"
+  },
+  {
+    "name": "IĮ TRAKŲ VET GYDYKLA",
+    "code": "181543670",
+    "address": "Trakų r. sav., Trakų sen., Žaizdrių k."
+  },
+  {
+    "name": "K. Palaičio veterinarinė gydykla",
+    "code": "158165192",
+    "address": "Jurbarko r. sav., Skirsnemunės sen., Pilies I k., Vėjo g. 6, LT-74464"
+  },
+  {
+    "name": "Kuzerio veterinarinė gydykla",
+    "code": "172305524",
+    "address": "Raseinių r. sav., Viduklė, Raseinių g. 8, LT-60347"
+  },
+  {
     "name": "MB \"Varpų veterinarijos gydykla\"",
     "code": "306178297",
-    "address": "Klaipėda, Mogiliovo g. 6-52, LT-95208"
+    "address": "Klaipėda, Mogiliovo g. 6-52, LT-95208",
+    "vatcode": "LT100015565314"
   },
   {
     "name": "R. Gudavičiaus vet. gydykla",
     "code": "172258156",
     "address": "Raseinių r. sav., Ariogalos sen., Verėduvos k., Plento g. 10, LT-60291"
+  },
+  {
+    "name": "Renatos Baltrūnaitės stomatologijos gydykla",
+    "code": "125036927",
+    "address": "Vilnius, Mokyklos g. 40-20, LT-08414"
   },
   {
     "name": "UAB Antakalnio veterinarijos gydykla",
@@ -33,7 +97,8 @@
   {
     "name": "UAB Plungės veterinarijos gydykla",
     "code": "305658635",
-    "address": "Plungės r. sav., Nausodžio sen., Varkalių k., Kalniškių Kelio g. 7, LT-90105"
+    "address": "Plungės r. sav., Nausodžio sen., Varkalių k., Kalniškių Kelio g. 7, LT-90105",
+    "vatcode": "LT100013932615"
   },
   {
     "name": "UAB Žvėryno veterinarijos gydykla",
@@ -44,22 +109,26 @@
   {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS VETERINARIJOS GYDYKLA\"",
     "code": "122360240",
-    "address": "Vilnius, Siesikų g. 15, LT-07170"
+    "address": "Vilnius, Siesikų g. 15, LT-07170",
+    "vatcode": "LT223602418"
   },
   {
     "name": "Viešoji įstaiga Indrės veterinarijos gydykla",
     "code": "126139182",
-    "address": "Vilnius, Žemynos g. 1, LT-06126"
+    "address": "Vilnius, Žemynos g. 1, LT-06126",
+    "vatcode": "LT100002540419"
   },
   {
     "name": "Viešoji įstaiga Naujosios Vilnios veterinarijos gydykla ir vaistinė",
     "code": "125873472",
-    "address": "Vilnius, Parko g. 52-4, LT-11224"
+    "address": "Vilnius, Parko g. 52-4, LT-11224",
+    "vatcode": "LT100002558217"
   },
   {
     "name": "VšĮ Nemenčinės miesto veterinarijos gydykla",
     "code": "303285340",
-    "address": "Vilniaus r. sav., Nemenčinė, Arklių g. 7-3, LT-15171"
+    "address": "Vilniaus r. sav., Nemenčinė, Arklių g. 7-3, LT-15171",
+    "vatcode": "LT100016854616"
   },
   {
     "name": "MB \"Dantų gydymas\"",
@@ -107,9 +176,19 @@
     "address": "Rokiškio r. sav., Kamajų sen., Vaštakų k. 9, LT-42283"
   },
   {
+    "name": "Algio Masilionio gydymo klinika",
+    "code": "165842723",
+    "address": "Kalvarija, Ugniagesių g. 9, LT-69206"
+  },
+  {
     "name": "Diagnostikos ir gydymo įstaigų asociacija",
     "code": "303003823",
     "address": "Šiauliai, Tilžės g. 67-17, LT-78146"
+  },
+  {
+    "name": "Gyd. A. Narutavičienės stomatologinio gydymo paslaugų IĮ",
+    "code": "169956133",
+    "address": "Plungės r. sav., Kuliai, Parko g. 7, LT-90371"
   },
   {
     "name": "Gydymo algoritmai, UAB",
@@ -132,9 +211,23 @@
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
+    "name": "Pleskačiausko diagnostinė ir gydymo pagalba bevaikių šeimų vyrams",
+    "code": "121607093",
+    "address": "Vilnius, Kęstučio g. 42"
+  },
+  {
+    "name": "R. Jakavičiaus veterinarinė gydymo įstaiga",
+    "code": "162446099",
+    "address": "Kelmės r. sav., Pakražančio sen., Kerkasių k., Kerkasių g. 32, LT-86246"
+  },
+  {
     "name": "Subtiliųjų operacijų neuroreabilitacijos sistemos - Gydymo Judesiu ir Edukacijos Asociacija",
     "code": "305366143",
     "address": "Kaunas, Draugystės g. 9A-11, LT-51285"
+  },
+  {
+    "name": "UAB \"Dantų gydymo metodai\"",
+    "code": "304988982"
   },
   {
     "name": "UAB \"Jono Girskio stuburo ligų gydymo centras\"",
@@ -164,12 +257,19 @@
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ ALERGINIŲ SUSIRGIMŲ DIAGNOSTIKOS IR GYDYMO CENTRAS",
     "code": "125259620",
-    "address": "Vilnius, Neužmirštuolių g. 5-17, LT-04123"
+    "address": "Vilnius, Neužmirštuolių g. 5-17, LT-04123",
+    "vatcode": "LT100018355815"
   },
   {
     "name": "Uždaroji akcinė bendrovė Natūralaus gydymo centras",
     "code": "300057890",
-    "address": "Kaunas, Šiaurės pr. 69-47, LT-49215"
+    "address": "Kaunas, Šiaurės pr. 69-47, LT-49215",
+    "vatcode": "LT100014668511"
+  },
+  {
+    "name": "V. Šėvelio veterinarinė gydymo įstaiga",
+    "code": "162446131",
+    "address": "Kelmės r. sav., Šaukėnai, Žemdirbių g. 3, LT-86387"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA PANEVĖŽIO PALAIKOMOJO GYDYMO IR SLAUGOS LIGONINĖ",
@@ -185,6 +285,11 @@
     "name": "Vet. gyd. K. Repšio gydymo paslaugų individuali įmonė",
     "code": "169883571",
     "address": "Plungės r. sav., Alsėdžiai, Lieplaukės g. 7, LT-90472"
+  },
+  {
+    "name": "Vet. gyd. P. Pilipausko gydymo įmonė",
+    "code": "169914369",
+    "address": "Plungės r. sav., Nausodžio sen., Varkalių k., Beržų g. 8, LT-90105"
   },
   {
     "name": "Viešoji įstaiga \"FUNKCINĖS MEDICINOS MOKYMO IR GYDYMO CENTRAS\"",
@@ -245,7 +350,8 @@
   {
     "name": "MB \"Kartu su vaikų gydytoja\"",
     "code": "306383811",
-    "address": "Vilnius, Duburio g. 11-25, LT-13105"
+    "address": "Vilnius, Duburio g. 11-25, LT-13105",
+    "vatcode": "LT100019633617"
   },
   {
     "name": "MB Gydytoja gv",
@@ -260,7 +366,8 @@
   {
     "name": "Asociacija \"RAUDONOS NOSYS Gydytojai klounai\"",
     "code": "302555555",
-    "address": "Vilnius, Kauno g. 12-35, LT-01310"
+    "address": "Vilnius, Kauno g. 12-35, LT-01310",
+    "vatcode": "LT100006897716"
   },
   {
     "name": "VšĮ \"Gydytojai už teisybę ir teisingumą\"",
@@ -285,7 +392,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"MANO ŠEIMOS GYDYTOJAS\"",
     "code": "141891594",
-    "address": "Klaipėda, Naujoji Uosto g. 20-3, LT-92122"
+    "address": "Klaipėda, Naujoji Uosto g. 20-3, LT-92122",
+    "vatcode": "LT100017936317"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"ŠEIMOS GYDYTOJAS\"",
@@ -298,6 +406,14 @@
     "address": "Vilnius, Gedimino pr. 49-42, LT-01109"
   },
   {
+    "name": "A. Jasaičio gydytojo kabinetas",
+    "code": "182915091"
+  },
+  {
+    "name": "Gydytojo Juozo Vidmanto Ramanausko įmonė",
+    "code": "171412288"
+  },
+  {
     "name": "Gydytojo K. Griciūno praktika, IĮ",
     "code": "301733791",
     "address": "Biržai, Karaimų g. 3-3, LT-41171"
@@ -306,6 +422,11 @@
     "name": "Gydytojo homeopato Antano Januškevičiaus klinika",
     "code": "305350235",
     "address": "Utenos rajono savivaldybės teritorija"
+  },
+  {
+    "name": "I. Kurcevič bendrosios praktikos gydytojo kabinetas",
+    "code": "225105420",
+    "address": "Vilnius, Bitininkų g. 12-2, LT-08417"
   },
   {
     "name": "IĮ Gydytojo A. Kaleinikovo kabinetas",
@@ -331,12 +452,14 @@
   {
     "name": "MB Gydytojo A. Čebatoriaus konsultacinis kabinetas",
     "code": "304510306",
-    "address": "Alytaus r. sav., Alovės sen., Alytaus k., Sodininkų g. 5, LT-64100"
+    "address": "Alytaus r. sav., Alovės sen., Alytaus k., Sodininkų g. 5, LT-64100",
+    "vatcode": "LT100018959412"
   },
   {
     "name": "MB Gydytojo Benjamino Čižiūno kabinetas",
     "code": "145380533",
-    "address": "Šiauliai, Vėkės g. 4, LT-77111"
+    "address": "Šiauliai, Vėkės g. 4, LT-77111",
+    "vatcode": "LT100016524211"
   },
   {
     "name": "MB Gydytojo kabinetas",
@@ -349,6 +472,16 @@
     "address": "Ukmergė, Jaunimo g. 42A-23, LT-20154"
   },
   {
+    "name": "Reginos Gabrilavičienės bendrosios praktikos gydytojo kabinetas",
+    "code": "151466766",
+    "address": "Marijampolės sav., Šunskai, Sūduvos g. 10, LT-69360"
+  },
+  {
+    "name": "S. Kulikauskienės įmonė bendrosios praktikos gydytojo centras",
+    "code": "152402898",
+    "address": "Palanga, Medvalakio g. 6-1, LT-00143"
+  },
+  {
     "name": "UAB Reginos šeimos gydytojo centras",
     "code": "278850710",
     "address": "Švenčionių r. sav., Švenčionėliai, Lauko g. 37-1, LT-18217"
@@ -359,9 +492,42 @@
     "address": "Šilalė, Vytauto Didžiojo g. 19, LT-75132"
   },
   {
+    "name": "V. Prielgausko šeimos gydytojo kabinetas, IĮ",
+    "code": "300124435",
+    "address": "Gargždai, J. Janonio g. 8A, LT-96125"
+  },
+  {
+    "name": "V. Staliulionienės bendros praktikos gydytojo kabinetas",
+    "code": "186491042",
+    "address": "Vilniaus r. sav., Lavoriškių sen., Mostiškių k."
+  },
+  {
+    "name": "VIEŠOJI ĮSTAIGA GINEKOLOGIJOS IR ŠEIMOS GYDYTOJO KABINETAS",
+    "code": "125879354"
+  },
+  {
     "name": "Vet. gydytojo A. ŠNEIDERIO individuali įmonė",
     "code": "186126435",
     "address": "Vilniaus r. sav., Paberžės sen., Paberžės k., Mokyklos g. 3, LT-14273"
+  },
+  {
+    "name": "Vet. gydytojo G. Lečo paslaugų ir komercijos įmonė",
+    "code": "169941779",
+    "address": "Rietavas, Kaštonų g. 3, LT-90310"
+  },
+  {
+    "name": "Gydytojos Birutės Čepienės firma",
+    "code": "171332575",
+    "address": "Radviliškis, Dariaus ir Girėno g. 4-15, LT-82136"
+  },
+  {
+    "name": "Gydytojos Genovaitės Žemaitienės firma",
+    "code": "171332041"
+  },
+  {
+    "name": "Gydytojos R. Remenčienės konsultacijų kabinetas",
+    "code": "136016445",
+    "address": "Kaunas, Kuršių g. 30-16, LT-48159"
   },
   {
     "name": "Gydytojos stomatologės Nijolės Genienės individuali įmonė",
@@ -369,9 +535,23 @@
     "address": "Vilnius, Viršuliškių g. 49, LT-05102"
   },
   {
+    "name": "T. Švedko gydytojos kabinetas",
+    "code": "158301660",
+    "address": "Jurbarkas, Kęstučio g. 20-48, LT-74164"
+  },
+  {
     "name": "V. SUZANOVIČIENĖS BENDROSIOS PRAKTIKOS GYDYTOJOS KABINETAS",
     "code": "125578422",
     "address": "Vilnius, Vinco Kudirkos g. 7-2, LT-03105"
+  },
+  {
+    "name": "Vet. gydytojos S. Kaktienės IĮ",
+    "code": "303521495",
+    "address": "Plungės r. sav., Žemaičių Kalvarijos sen., Gegrėnų k., Mokyklos g. 15, LT-90440"
+  },
+  {
+    "name": "Vet. gydytojos S. Šarko individuali įmonė",
+    "code": "186092919"
   },
   {
     "name": "UAB \"Pas gydytoją\"",
@@ -389,6 +569,11 @@
     "address": "Vilnius, Santariškių g. 2, LT-08406"
   },
   {
+    "name": "Gydytojų Pranevičių kabinetas",
+    "code": "182887838",
+    "address": "Ukmergė, V. Krėvės g. 3, LT-20112"
+  },
+  {
     "name": "Gydytojų klinikinių farmakologų asociacija",
     "code": "305695320",
     "address": "Kaunas, Pramonės pr. 41A-63, LT-50464"
@@ -399,19 +584,23 @@
     "address": "Kaunas, Partizanų g. 27E-29, LT-49449"
   },
   {
+    "name": "IĮ \"Gydažolės\" šeimos gydytojų centras",
+    "code": "148416155",
+    "address": "Panevėžys, Žemaičių g. 14-85, LT-36128"
+  },
+  {
+    "name": "IĮ J. Jankauskienės šeimos gydytojų centras",
+    "code": "145565489",
+    "address": "Šiauliai, Aušros al. 59, LT-76303"
+  },
+  {
     "name": "JAUNŲJŲ GYDYTOJŲ ASOCIACIJA",
     "code": "302300234",
     "address": "Kaunas, Eivenių g. 2, LT-50161"
   },
   {
-    "name": "Joniškio pirminės sveikatos priežiūros centro gydytojų sąjunga",
-    "code": "157696076",
-    "address": "Joniškis, Pašvitinio g. 21, LT-84152"
-  },
-  {
-    "name": "Joniškio rajono gydytojų sąjunga",
-    "code": "157676045",
-    "address": "Joniškis, Pašvitinio g. 21, LT-84152"
+    "name": "Jonavos gydytojų sąjunga",
+    "code": "157010673"
   },
   {
     "name": "LIETUVOS AKUPUNKTŪROS GYDYTOJŲ ASOCIACIJA",
@@ -421,7 +610,8 @@
   {
     "name": "LIETUVOS GYDYTOJŲ SĄJUNGA",
     "code": "191368760",
-    "address": "Vilnius, Teatro g. 1, LT-03107"
+    "address": "Vilnius, Teatro g. 1, LT-03107",
+    "vatcode": "LT913687610"
   },
   {
     "name": "LIETUVOS GYDYTOJŲ TENISO SĄJUNGA",
@@ -429,9 +619,8 @@
     "address": "Kaunas, A. Mickevičiaus g. 9, LT-44307"
   },
   {
-    "name": "Lazdijų gydytojų sąjunga",
-    "code": "191514432",
-    "address": "Lazdijai, Kauno g. 8, LT-67128"
+    "name": "Lietuvos Gydytojų sąjungos Kelmės skyriaus profesinė organizacija",
+    "code": "191179165"
   },
   {
     "name": "Lietuvos akių gydytojų draugija",
@@ -599,11 +788,6 @@
     "address": "Rokiškis, V. Lašo g. 3, LT-42106"
   },
   {
-    "name": "Lietuvos gydytojų sąjungos Rokiškio skyrius",
-    "code": "191082556",
-    "address": "Rokiškis, V. Lašo g. 3, LT-42106"
-  },
-  {
     "name": "Lietuvos gydytojų sąjungos Tauragės filialas",
     "code": "300648014",
     "address": "Tauragė, V. Kudirkos g. 2, LT-72214"
@@ -654,16 +838,6 @@
     "address": "Zarasai, Malūno g. 2, LT-32129"
   },
   {
-    "name": "Lietuvos gydytojų sąjungos Zarasų skyrius",
-    "code": "187896321",
-    "address": "Zarasai, Malūno g. 4, LT-32129"
-  },
-  {
-    "name": "Lietuvos gydytojų sąjungos viešosios įstaigos \"Lazdijų ligoninė\" skyrius",
-    "code": "265248860",
-    "address": "Lazdijai, Kauno g. 8, LT-67128"
-  },
-  {
     "name": "Lietuvos gydytojų sąjungos Šakių filialas",
     "code": "300648078",
     "address": "Šakiai, Bažnyčios g. 37, LT-71123"
@@ -697,11 +871,6 @@
     "name": "Lietuvos gydytojų vadovų sąjunga",
     "code": "190722793",
     "address": "Vilnius, Parko g. 21, LT-11205"
-  },
-  {
-    "name": "Lietuvos privačių gydytojų stomatologų profesinė sąjunga",
-    "code": "191997543",
-    "address": "Druskininkai, Ateities g. 34A"
   },
   {
     "name": "Lietuvos retų plaučių ligų gydytojų draugija",
@@ -787,7 +956,8 @@
   {
     "name": "UAB Eivenių jungtinis gydytojų centras",
     "code": "304401029",
-    "address": "Kaunas, Savanorių pr. 136, LT-44148"
+    "address": "Kaunas, Savanorių pr. 136, LT-44148",
+    "vatcode": "LT100016088912"
   },
   {
     "name": "UAB Staniūnų gatvės šeimos gydytojų centras",
@@ -800,9 +970,8 @@
     "address": "Raseiniai, Saulėtekio g. 2, LT-60164"
   },
   {
-    "name": "Vaikų ligoninės gydytojų profesinė sąjunga \"Santariškės\"",
-    "code": "225993280",
-    "address": "Vilnius, Santariškių g. 7, LT-08406"
+    "name": "VILNIAUS GYDYTOJŲ SĄJUNGA",
+    "code": "124459696"
   },
   {
     "name": "Viešoji įstaiga Gydytojų paramos centras",
@@ -815,9 +984,8 @@
     "address": "Kelmė, A. Mackevičiaus g. 10, LT-86135"
   },
   {
-    "name": "Viešosios įstaigos Ukmergės ligoninės gydytojų sąjunga",
-    "code": "183120270",
-    "address": "Ukmergė, Vytauto g. 105, LT-20184"
+    "name": "Viešosios įstaigos Vilniaus Universiteto ligoninės Santariškių klinikos gydytojų profesinė sąjunga",
+    "code": "300133847"
   },
   {
     "name": "Vilniaus krašto akių ligų gydytojų asociacija",
@@ -827,11 +995,6 @@
   {
     "name": "Visagino gydytojų sąjunga",
     "code": "155969149",
-    "address": "Visaginas, Taikos pr. 15, LT-31107"
-  },
-  {
-    "name": "Visagino gydytojų sąjungos Visagino ligoninės skyrius",
-    "code": "255981280",
     "address": "Visaginas, Taikos pr. 15, LT-31107"
   },
   {

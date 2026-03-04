@@ -21,6 +21,17 @@
     "address": "Jurbarko r. sav., Eržvilko sen., Lybiškių k., Stoties g. 1, LT-74295"
   },
   {
+    "name": "IĮ \"Žvejo stotelė\"",
+    "code": "151332596",
+    "address": "Marijampolė, Žalioji g. 2, LT-68111",
+    "vatcode": "LT513325917"
+  },
+  {
+    "name": "Jauki stotelė, MB",
+    "code": "307588865",
+    "address": "Tauragė, Dariaus ir Girėno g. 38-102, LT-72242"
+  },
+  {
     "name": "MB \"Maisto stotelė\"",
     "code": "304485632",
     "address": "Kelmės r. sav., Užvenčio sen., Minupių k., Šatrijos g. 88, LT-86361"
@@ -28,12 +39,18 @@
   {
     "name": "MB \"Skani stotelė\"",
     "code": "307022333",
-    "address": "Vilnius, Rygos g. 50-4, LT-05272"
+    "address": "Vilnius, Rygos g. 50-4, LT-05272",
+    "vatcode": "LT100018865511"
+  },
+  {
+    "name": "MB \"Turistų stotelė\"",
+    "code": "303242563"
   },
   {
     "name": "MB Apdailos stotelė",
     "code": "306124972",
-    "address": "Kauno r. sav., Ringaudų sen., Virbališkių k., Jorio g. 7, LT-53458"
+    "address": "Kauno r. sav., Ringaudų sen., Virbališkių k., Jorio g. 7, LT-53458",
+    "vatcode": "LT100016125910"
   },
   {
     "name": "MB Rubikių stotelė",
@@ -70,13 +87,19 @@
   {
     "name": "UAB \"Mėsos Stotelė\"",
     "code": "307127665",
-    "address": "Kaunas, Baltijos g. 2-47, LT-48255"
+    "address": "Kaunas, Baltijos g. 2-47, LT-48255",
+    "vatcode": "LT100018264818"
   },
   {
     "name": "UAB \"Obuolių stotelė\"",
     "code": "304079770",
     "address": "Kaunas, Žeimenos g. 64-25, LT-49332",
     "vatcode": "LT100009630416"
+  },
+  {
+    "name": "UAB \"Skonio stotelė\"",
+    "code": "307579332",
+    "address": "Mažeikių r. sav., Laižuvos sen., Auksūdžio k., Auksodės g. 82, LT-89473"
   },
   {
     "name": "UAB \"Šviežia stotelė\"",
@@ -87,22 +110,19 @@
   {
     "name": "MB \"Stotera\"",
     "code": "305864336",
-    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
+    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120",
+    "vatcode": "LT100014610516"
   },
   {
     "name": "MB \"Stotfordas\"",
     "code": "305238880",
-    "address": "Alytaus r. sav., Alytaus sen., Miklusėnų k., Jurginų g. 14, LT-62471"
+    "address": "Alytaus r. sav., Alytaus sen., Miklusėnų k., Jurginų g. 14, LT-62471",
+    "vatcode": "LT100014482110"
   },
   {
     "name": "\"ZNAD WILII\" RADIJO STOTIES LABDAROS IR PARAMOS FONDAS",
     "code": "193524311",
     "address": "Vilnius, Laisvės pr. 60, LT-05120"
-  },
-  {
-    "name": "AB \"Lietuvos geležinkeliai\" Bugenių geležinkelio stoties darbuotojų profesinė sąjunga",
-    "code": "302465645",
-    "address": "Mažeikių r. sav., Židikų sen., Juodeikių k., Geležinkelio g. 11, LT-89451"
   },
   {
     "name": "Batakių geležinkelio stoties kaimo bendruomenė \"Santakai\"",
@@ -172,7 +192,8 @@
   {
     "name": "UAB \"Laikinosios stoties metro\"",
     "code": "304409887",
-    "address": "Vilnius, A. Mickevičiaus g. 25, LT-08117"
+    "address": "Vilnius, A. Mickevičiaus g. 25, LT-08117",
+    "vatcode": "LT100010742119"
   },
   {
     "name": "UAB STOTIES DEGALINĖ",
@@ -182,7 +203,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"STOTIES VAISTINĖ\"",
     "code": "147627092",
-    "address": "Panevėžys, Stoties g. 7-1A, LT-35133"
+    "address": "Panevėžys, Stoties g. 7-1A, LT-35133",
+    "vatcode": "LT476270917"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Stoties turgus\"",
@@ -198,11 +220,6 @@
   {
     "name": "Viešosios įstaigos Marijampolės greitosios medicinos pagalbos stoties pirminė profesinė sąjunga",
     "code": "165809189",
-    "address": "Marijampolė, P. Kriaučiūno g. 2, LT-68298"
-  },
-  {
-    "name": "Viešosios įstaigos Marijampolės greitosios medicinos pagalbos stoties sveikatos apsaugos darbuotojų profesinė sąjunga",
-    "code": "301842972",
     "address": "Marijampolė, P. Kriaučiūno g. 2, LT-68298"
   },
   {
@@ -223,22 +240,31 @@
   {
     "name": "MB \"Pašto stotis\"",
     "code": "305648406",
-    "address": "Anykščių r. sav., Kurklių sen., Staškūniškio k., Mokyklos g. 1, LT-29241"
+    "address": "Anykščių r. sav., Kurklių sen., Staškūniškio k., Mokyklos g. 1, LT-29241",
+    "vatcode": "LT100013817014"
+  },
+  {
+    "name": "R. Ambraziūno automobilių remonto stotis",
+    "code": "158183781",
+    "address": "Jurbarko r. sav., Seredžius, Dubysos g. 11, LT-74424"
   },
   {
     "name": "UAB \"Kauno autobusų stotis\"",
     "code": "306161077",
-    "address": "Kaunas, A. Juozapavičiaus pr. 84, LT-45212"
+    "address": "Kaunas, A. Juozapavičiaus pr. 84, LT-45212",
+    "vatcode": "LT100015577711"
   },
   {
     "name": "UAB \"Limuzinų galvijų stotis\"",
     "code": "305778086",
-    "address": "Panevėžio r. sav., Smilgių sen., Perekšlių k., Švaininkų g. 9, LT-38388"
+    "address": "Panevėžio r. sav., Smilgių sen., Perekšlių k., Švaininkų g. 9, LT-38388",
+    "vatcode": "LT100014235514"
   },
   {
     "name": "UAB VILNIAUS AUTOBUSŲ STOTIS",
     "code": "300573259",
-    "address": "Vilnius, Sodų g. 22, LT-03211"
+    "address": "Vilnius, Sodų g. 22, LT-03211",
+    "vatcode": "LT100002444819"
   },
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ RADIJO STOTIS \"ULTRA VIRES\"",
@@ -254,17 +280,20 @@
   {
     "name": "Uždaroji akcinė bendrovė \"LAUKO GĖLININKYSTĖS BANDYMŲ STOTIS\"",
     "code": "221496060",
-    "address": "Vilnius, A. Kojelavičiaus g. 1, LT-11100"
+    "address": "Vilnius, A. Kojelavičiaus g. 1, LT-11100",
+    "vatcode": "LT100000008311"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"RADIJO STOTIS LALUNA\"",
     "code": "141252365",
-    "address": "Klaipėda, Taikos pr. 81, LT-94114"
+    "address": "Klaipėda, Taikos pr. 81, LT-94114",
+    "vatcode": "LT412523610"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Stotis\"",
     "code": "134217481",
-    "address": "Kaunas, Vytauto pr. 18, LT-44355"
+    "address": "Kaunas, Vytauto pr. 18, LT-44355",
+    "vatcode": "LT342174811"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"ZNAD WILII RADIJO STOTIS\"",
@@ -286,7 +315,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Stotras\"",
     "code": "135474429",
-    "address": "Kaunas, Kalnų g. 69, LT-47177"
+    "address": "Kaunas, Kalnų g. 69, LT-47177",
+    "vatcode": "LT354744219"
   },
   {
     "name": "UAB LMGAGA kontrolinės stotys",

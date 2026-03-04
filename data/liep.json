@@ -2,7 +2,8 @@
   {
     "name": "BC LIEPA, UAB",
     "code": "307058450",
-    "address": "Klaipėda, Liepų g. 54-1, LT-92106"
+    "address": "Klaipėda, Liepų g. 54-1, LT-92106",
+    "vatcode": "LT100017477016"
   },
   {
     "name": "DNSB \"Gargždų liepa\"",
@@ -51,8 +52,7 @@
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Liepa-2\"",
-    "code": "183123576",
-    "address": "Ukmergė, Vasario 16-osios g. 49-17, LT-20129"
+    "code": "183123576"
   },
   {
     "name": "Daugiabučių namų savininkų bendrija \"Liepa\"",
@@ -62,17 +62,13 @@
   {
     "name": "Firma Liepa, UAB",
     "code": "155492235",
-    "address": "Ignalina, Liepų g. 5-6, LT-30103"
+    "address": "Ignalina, Liepų g. 5-6, LT-30103",
+    "vatcode": "LT100000381614"
   },
   {
     "name": "Garažų bendrija \"Vasaros liepa\"",
     "code": "304451459",
     "address": "Telšių r. sav., Ryškėnų sen., Užgirių k., Klevo Sodų 3-oji g. 12, LT-87418"
-  },
-  {
-    "name": "Garažų eksploatavimo bendrija \"Liepa\"",
-    "code": "169277253",
-    "address": "Pasvalys, S. Nėries g."
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Liepa\"",
@@ -81,8 +77,7 @@
   },
   {
     "name": "Individualių garažų bendrija \"Liepa\"",
-    "code": "265229550",
-    "address": "Lazdijai, Vilties g."
+    "code": "265229550"
   },
   {
     "name": "Individualių gyvenamųjų namų eksploatavimo bendrija \"Liepa-3\"",
@@ -90,9 +85,15 @@
     "address": "Kauno miesto savivaldybės teritorija"
   },
   {
+    "name": "Juliaus Gylio įmonė \"Pakelės liepa\"",
+    "code": "167584887",
+    "address": "Molėtų r. sav., Luokesos sen., Kijėlių k., Liepų g. 8, LT-33153"
+  },
+  {
     "name": "MB \"Liepa music\"",
     "code": "306682518",
-    "address": "Vilnius, Stepono Batoro g. 11, LT-01216"
+    "address": "Vilnius, Stepono Batoro g. 11, LT-01216",
+    "vatcode": "LT100016813316"
   },
   {
     "name": "MB \"Po liepa\"",
@@ -102,7 +103,8 @@
   {
     "name": "MB Liepa 999",
     "code": "306704509",
-    "address": "Klaipėdos r. sav., Dovilų sen., Kiškėnų k., Vyturių g. 24, LT-92490"
+    "address": "Klaipėdos r. sav., Dovilų sen., Kiškėnų k., Vyturių g. 24, LT-92490",
+    "vatcode": "LT100017512914"
   },
   {
     "name": "PANEVĖŽIO RAJONO SUJETŲ BENDRUOMENĖS CENTRAS \"LIEPA\"",
@@ -115,6 +117,10 @@
     "address": "Plungės r. sav., Nausodžio sen., Kaušėnų k."
   },
   {
+    "name": "Sigito Bučinsko įmonė \"Liepa\"",
+    "code": "133347461"
+  },
+  {
     "name": "Sodininkų bendrija \"LIEPA\"",
     "code": "191498729",
     "address": "Vilnius, Mileišiškių Sodų 8-oji g. 3, LT-10211"
@@ -122,11 +128,8 @@
   {
     "name": "UAB \"Grainio liepa\"",
     "code": "307137969",
-    "address": "Varėnos r. sav., Merkinė, Nemunaičio g. 28, LT-65335"
-  },
-  {
-    "name": "UAB \"Liepa LT\"",
-    "code": "304747006"
+    "address": "Varėnos r. sav., Merkinė, Nemunaičio g. 28, LT-65335",
+    "vatcode": "LT100018605313"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"MAŽOJI LIEPA\"",
@@ -195,9 +198,14 @@
     "address": "Šakių r. sav., Šakių sen., Girėnų k., Siesarties g. 10, LT-71131"
   },
   {
+    "name": "UAB \"Liepaloto lentpjūvė\"",
+    "code": "170665947"
+  },
+  {
     "name": "MB Liepalotų statyba",
     "code": "302998390",
-    "address": "Šakių r. sav., Lukšių sen., Adomiškių k. 2, LT-71196"
+    "address": "Šakių r. sav., Lukšių sen., Adomiškių k. 2, LT-71196",
+    "vatcode": "LT100007522014"
   },
   {
     "name": "UAB \"LIEPARAS\"",
@@ -208,22 +216,30 @@
   {
     "name": "MB \"Liepas\"",
     "code": "303098166",
-    "address": "Kėdainių r. sav., Josvainių sen., Juodkaimių k., Parko g. 22, LT-58196"
+    "address": "Kėdainių r. sav., Josvainių sen., Juodkaimių k., Parko g. 22, LT-58196",
+    "vatcode": "LT100008613713"
   },
   {
     "name": "MB Liepasoft",
     "code": "306687020",
-    "address": "Jonava, Sodų g. 91-37, LT-55147"
+    "address": "Jonava, Sodų g. 91-37, LT-55147",
+    "vatcode": "LT100017254018"
+  },
+  {
+    "name": "Audriaus Vinco Liepaus įmonė",
+    "code": "135792848"
   },
   {
     "name": "UAB \"Liepausta\"",
     "code": "304400361",
-    "address": "Plungė, S. Nėries g. 5, LT-90167"
+    "address": "Plungė, S. Nėries g. 5, LT-90167",
+    "vatcode": "LT100010471012"
   },
   {
     "name": "UAB \"Liepgerta\"",
     "code": "304418263",
-    "address": "Vilnius, Lvivo g. 21-101, LT-09309"
+    "address": "Vilnius, Lvivo g. 21-101, LT-09309",
+    "vatcode": "LT100012225219"
   },
   {
     "name": "IĮ \"Liepgiris\"",
@@ -232,7 +248,8 @@
   {
     "name": "MB \"Liepgirė\"",
     "code": "305981268",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
+    "vatcode": "LT100015003615"
   },
   {
     "name": "Ekologijos klubas \"Liepija\"",
@@ -250,6 +267,11 @@
     "address": "Molėtų r. sav., Luokesos sen., Lėlių k., Lėlių g. 6, LT-33157"
   },
   {
+    "name": "D. Liepinaičio individuali įmonė",
+    "code": "300029193",
+    "address": "Vilnius, Šeškinės g. 35-11, LT-07158"
+  },
+  {
     "name": "V. Liepinaičio dizaino ir reklamos studija",
     "code": "185322865",
     "address": "Vilkaviškis, Kęstučio g. 7-1, LT-70190"
@@ -258,6 +280,10 @@
     "name": "Individualių gyvenamųjų namų savininkų bendrija \"LIEPINIAI\"",
     "code": "302351378",
     "address": "Vilniaus r. sav., Avižienių sen., Raisteniškių vs., Liepų g. 8-1, LT-14180"
+  },
+  {
+    "name": "Alos Liepinienės įmonė",
+    "code": "168657046"
   },
   {
     "name": "Jono Liepinio įmonė",
@@ -283,17 +309,23 @@
   {
     "name": "UAB \"Liepita\"",
     "code": "303211429",
-    "address": "Šilutės r. sav., Katyčiai, Malūno g. 14, LT-99224"
+    "address": "Šilutės r. sav., Katyčiai, Malūno g. 14, LT-99224",
+    "vatcode": "LT100019180516"
   },
   {
     "name": "Liepiškių namai, UAB",
     "code": "305828596",
-    "address": "Vilnius, Liepiškių g. 15A, LT-11303"
+    "address": "Vilnius, Liepiškių g. 15A, LT-11303",
+    "vatcode": "LT100014441214"
   },
   {
     "name": "UAB Liepiškių turtas",
     "code": "307277316",
     "address": "Vilnius, Antano Tumėno g. 4-7, LT-01110"
+  },
+  {
+    "name": "Viešoji įstaiga \"Liepiškių technologijų parkas\"",
+    "code": "301075553"
   },
   {
     "name": "UAB \"Liepiškė\"",
@@ -308,7 +340,8 @@
   {
     "name": "Liepių žemės ūkio bendrovė",
     "code": "156604687",
-    "address": "Jonavos r. sav., Bukonių sen., Liepių k."
+    "address": "Jonavos r. sav., Bukonių sen., Liepių k.",
+    "vatcode": "LT566046811"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Jonavos skyriaus Liepių medžiotojų būrelis",
@@ -323,7 +356,8 @@
   {
     "name": "\"UPP Liepkalnio\", UAB",
     "code": "303252625",
-    "address": "Vilniaus m. sav."
+    "address": "Vilniaus m. sav.",
+    "vatcode": "LT100011773215"
   },
   {
     "name": "Daugiabučio gyvenamojo namo Liepkalnio g. 10 savininkų bendrija",
@@ -333,12 +367,14 @@
   {
     "name": "UAB \"Liepkalnio investicija\"",
     "code": "306299092",
-    "address": "Vilnius, Lvivo g. 21-101, LT-09309"
+    "address": "Vilnius, Lvivo g. 21-101, LT-09309",
+    "vatcode": "LT100019546017"
   },
   {
     "name": "UAB \"Liepkalnio investicijos\"",
     "code": "305949968",
-    "address": "Kaunas, A. Juozapavičiaus pr. 84, LT-45212"
+    "address": "Kaunas, A. Juozapavičiaus pr. 84, LT-45212",
+    "vatcode": "LT100015177615"
   },
   {
     "name": "Vilniaus Liepkalnio mokykla",
@@ -358,12 +394,14 @@
   {
     "name": "UAB \"Liepkalnis Burger\"",
     "code": "301730642",
-    "address": "Vilnius, Ukmergės g. 238, LT-07160"
+    "address": "Vilnius, Ukmergės g. 238, LT-07160",
+    "vatcode": "LT100004119719"
   },
   {
     "name": "UAB \"Liepkalva\"",
     "code": "304418270",
-    "address": "Vilnius, Lvivo g. 21-101, LT-09309"
+    "address": "Vilnius, Lvivo g. 21-101, LT-09309",
+    "vatcode": "LT100011833616"
   },
   {
     "name": "Viešoji įstaiga \"LIEPKIEMIS\"",
@@ -393,7 +431,8 @@
   {
     "name": "UAB \"Liepmeta\"",
     "code": "303410160",
-    "address": "Vilnius, Metalo g. 19A, LT-02190"
+    "address": "Vilnius, Metalo g. 19A, LT-02190",
+    "vatcode": "LT100008955011"
   },
   {
     "name": "MB \"Liepnora\"",
@@ -413,12 +452,19 @@
   {
     "name": "MB \"Po liepom\"",
     "code": "304432099",
-    "address": "Kaišiadorių r. sav., Paparčių sen., Paparčių k., Bažnyčios g. 10, LT-56438"
+    "address": "Kaišiadorių r. sav., Paparčių sen., Paparčių k., Bažnyčios g. 10, LT-56438",
+    "vatcode": "LT100012861915"
   },
   {
     "name": "UAB \"Po liepomis\"",
     "code": "305753695",
     "address": "Kaunas, Jovarų g. 2, LT-47193"
+  },
+  {
+    "name": "V. Gedmino individuali įmonė \"Po liepomis\"",
+    "code": "186100522",
+    "address": "Vilniaus r. sav., Rudaminos sen., Kalviškių k., Žalioji g. 10, LT-14106",
+    "vatcode": "LT861005219"
   },
   {
     "name": "Lieponių kaimo bendruomenė \"Karaliaus salos\"",
@@ -502,6 +548,10 @@
     "address": "Kaišiadorių r. sav., Rumšiškės, Etnografų g. 8, LT-56337"
   },
   {
+    "name": "Labdaros ir paramos fondas Liepos Danylaitės reabilitacijai",
+    "code": "305580745"
+  },
+  {
     "name": "Liepos Venytės labdaros ir paramos fondas",
     "code": "307119572",
     "address": "Marijampolė, Mokolų g. 9-37, LT-68172"
@@ -515,7 +565,8 @@
   {
     "name": "MB \"Liepos sprendimai\"",
     "code": "304561877",
-    "address": "Vilnius, Akademijos g. 7, LT-08412"
+    "address": "Vilnius, Akademijos g. 7, LT-08412",
+    "vatcode": "LT100010998813"
   },
   {
     "name": "MB \"Liepos vestuvės\"",
@@ -526,6 +577,10 @@
     "name": "MB Liepos darbai",
     "code": "306971323",
     "address": "Kaunas, A. Juozapavičiaus pr. 127B, LT-45267"
+  },
+  {
+    "name": "Remigijaus Liepos firma \"Aga\"",
+    "code": "144374125"
   },
   {
     "name": "Sodininkų bendrija \"Liepos\"",
@@ -546,13 +601,22 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Liepos žiedas\"",
     "code": "177423487",
-    "address": "Šilutės r. sav., Švėkšna, Vilkėno g. 8, LT-99383"
+    "address": "Šilutės r. sav., Švėkšna, Vilkėno g. 8, LT-99383",
+    "vatcode": "LT100002280419"
+  },
+  {
+    "name": "V. Liepos personalinė įmonė",
+    "code": "123986215"
   },
   {
     "name": "UAB \"Lieprasta\"",
     "code": "279449880",
     "address": "Tauragės r. sav., Mažonų sen., Norkaičių k.",
     "vatcode": "LT100008392512"
+  },
+  {
+    "name": "Akcinė bendrovė \"Liepsna\"",
+    "code": "134165942"
   },
   {
     "name": "Asociacija \"Širdžių liepsna\"",
@@ -582,7 +646,8 @@
   {
     "name": "UAB \"Liepsna ir Ko\"",
     "code": "301492874",
-    "address": "Kaunas, Raudondvario pl. 94, LT-47180"
+    "address": "Kaunas, Raudondvario pl. 94, LT-47180",
+    "vatcode": "LT100003699310"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"MĖLYNOJI LIEPSNA\"",
@@ -633,12 +698,18 @@
   {
     "name": "UAB \"Liepsnolita\" ir ko",
     "code": "300553598",
-    "address": "Panevėžys, Kranto g. 36, LT-35172"
+    "address": "Panevėžys, Kranto g. 36, LT-35172",
+    "vatcode": "LT100002280519"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Liepsnolita\"",
     "code": "148498558",
     "address": "Panevėžys, Tinklų g. 27, LT-35115"
+  },
+  {
+    "name": "Viešoji įstaiga \"Šuolis - Liepsnos stovyklos jaunimui\"",
+    "code": "307595824",
+    "address": "Panevėžio r. sav., Karsakiškio sen., Startų k., Beržyno g. 2, LT-38463"
   },
   {
     "name": "VšĮ studija \"Liepsnose\"",
@@ -654,12 +725,14 @@
   {
     "name": "UAB \"Liepsraigta\"",
     "code": "304498341",
-    "address": "Vilnius, Girulių g. 5, LT-12124"
+    "address": "Vilnius, Girulių g. 5, LT-12124",
+    "vatcode": "LT100010845210"
   },
   {
     "name": "UAB \"Liepta\"",
     "code": "304215957",
-    "address": "Zarasų r. sav., Antalieptės sen., Gaspariškių k. 5, LT-32244"
+    "address": "Zarasų r. sav., Antalieptės sen., Gaspariškių k. 5, LT-32244",
+    "vatcode": "LT100010049515"
   },
   {
     "name": "Kūrybos ir tarpregioninių kultūrinių ryšių palaikymo sambūris LIEPTAS",
@@ -689,7 +762,12 @@
   {
     "name": "MB \"Liepukas\"",
     "code": "307128361",
-    "address": "Marijampolės sav., Igliaukos sen., Padvariškių k. 6, LT-69120"
+    "address": "Marijampolės sav., Igliaukos sen., Padvariškių k. 6, LT-69120",
+    "vatcode": "LT100017734515"
+  },
+  {
+    "name": "D. Liepuoniaus įmonė",
+    "code": "147713310"
   },
   {
     "name": "Melioracijos statinių naudotojų asociacija \"Žalioji Liepupė\"",
@@ -704,12 +782,14 @@
   {
     "name": "MB \"Liepurta\"",
     "code": "306054723",
-    "address": "Utena, Aukštakalnio g. 120-7, LT-28174"
+    "address": "Utena, Aukštakalnio g. 120-7, LT-28174",
+    "vatcode": "LT100015373110"
   },
   {
     "name": "MB Lieputrading",
     "code": "306222142",
-    "address": "Klaipėda, K. Donelaičio g. 13-1, LT-92141"
+    "address": "Klaipėda, K. Donelaičio g. 13-1, LT-92141",
+    "vatcode": "LT100015898118"
   },
   {
     "name": "MB Lieputė",
@@ -719,7 +799,8 @@
   {
     "name": "UAB \"Liepužė\"",
     "code": "306201194",
-    "address": "Vilnius, Kirtimų g. 2, LT-02300"
+    "address": "Vilnius, Kirtimų g. 2, LT-02300",
+    "vatcode": "LT100016975211"
   },
   {
     "name": "UAB \"Liepvalda\"",
@@ -730,12 +811,19 @@
   {
     "name": "UAB \"Liepvita\"",
     "code": "303888534",
-    "address": "Vilnius, Lvivo g. 21-101, LT-09309"
+    "address": "Vilnius, Lvivo g. 21-101, LT-09309",
+    "vatcode": "LT100009257119"
   },
   {
     "name": "MB Liepvyga",
     "code": "306360727",
-    "address": "Tauragė, J. Tumo-Vaižganto g. 124-105, LT-72268"
+    "address": "Tauragė, J. Tumo-Vaižganto g. 124-105, LT-72268",
+    "vatcode": "LT100016165914"
+  },
+  {
+    "name": "IĮ \"Liepvėja\"",
+    "code": "302655445",
+    "address": "Šiauliai, Ievų g. 38, LT-77116"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS LIEPYNAS\"",
@@ -761,17 +849,20 @@
   {
     "name": "MB Lapė filmuos liepą",
     "code": "307561409",
-    "address": "Vilniaus r. sav., Mickūnų sen., Ližiškių k., Švendrų g. 46-1, LT-13100"
+    "address": "Vilniaus r. sav., Mickūnų sen., Ližiškių k., Švendrų g. 46-1, LT-13100",
+    "vatcode": "LT100019567514"
   },
   {
     "name": "\"10 liepų\", UAB",
     "code": "305235418",
-    "address": "Klaipėda, Liepų g. 4, LT-92114"
+    "address": "Klaipėda, Liepų g. 4, LT-92114",
+    "vatcode": "LT100012822616"
   },
   {
     "name": "\"Liepų\" biurai, UAB",
     "code": "305378430",
-    "address": "Klaipėda, Liepų g. 4, LT-92114"
+    "address": "Klaipėda, Liepų g. 4, LT-92114",
+    "vatcode": "LT100012845312"
   },
   {
     "name": "32-oji garažų eksploatavimo bendrija Liepų g. 20a",
@@ -976,7 +1067,12 @@
   {
     "name": "Liepų gyvenamųjų namų statybos bendrija",
     "code": "300148190",
-    "address": "Vilnius, Kaštonų g. 4A-24, LT-01107"
+    "address": "Vilniaus m. sav."
+  },
+  {
+    "name": "Liepų investicija MB",
+    "code": "307597444",
+    "address": "Kaunas, Krėvos g. 8-23, LT-44237"
   },
   {
     "name": "Liepų klubas",
@@ -986,7 +1082,8 @@
   {
     "name": "MB \"Liepų 16\"",
     "code": "307010605",
-    "address": "Palanga, Liepų tak. 16-1, LT-00128"
+    "address": "Palanga, Liepų tak. 16-1, LT-00128",
+    "vatcode": "LT100018489513"
   },
   {
     "name": "MB \"Liepų kelias\"",
@@ -1011,12 +1108,14 @@
   {
     "name": "UAB \"Liepų 38\"",
     "code": "304535925",
-    "address": "Klaipėda, Liepų g. 38, LT-92107"
+    "address": "Klaipėda, Liepų g. 38, LT-92107",
+    "vatcode": "LT100010944511"
   },
   {
     "name": "UAB \"Liepų 64\"",
     "code": "304994387",
-    "address": "Klaipėda, Liepų g. 64, LT-92101"
+    "address": "Klaipėda, Liepų g. 64, LT-92101",
+    "vatcode": "LT100012164112"
   },
   {
     "name": "UAB \"Liepų 99\"",
@@ -1042,22 +1141,26 @@
   {
     "name": "UAB \"Liepų parkas\"",
     "code": "302995405",
-    "address": "Klaipėda, Pramonės g. 8A, LT-94102"
+    "address": "Klaipėda, Pramonės g. 8A, LT-94102",
+    "vatcode": "LT100008342314"
   },
   {
     "name": "UAB \"Liepų parko alėja\"",
     "code": "141678646",
-    "address": "Klaipėda, Baltijos pr. 117, LT-93221"
+    "address": "Klaipėda, Baltijos pr. 117, LT-93221",
+    "vatcode": "LT100006682210"
   },
   {
     "name": "UAB \"Liepų projektai\"",
     "code": "304716391",
-    "address": "Vilnius, Ozo g. 25, LT-07150"
+    "address": "Vilnius, Ozo g. 25, LT-07150",
+    "vatcode": "LT100011429410"
   },
   {
     "name": "UAB \"Liepų ratas\"",
     "code": "306714065",
-    "address": "Lazdijų r. sav., Veisiejai, Danieliaus Sadausko g. 8, LT-67340"
+    "address": "Lazdijų r. sav., Veisiejai, Danieliaus Sadausko g. 8, LT-67340",
+    "vatcode": "LT100016869019"
   },
   {
     "name": "UAB \"Liepų restoranas\"",
@@ -1074,7 +1177,8 @@
   {
     "name": "UAB \"Liepų terasų\" statybos",
     "code": "305740235",
-    "address": "Klaipėda, Pilkalnio g. 1-1, LT-92196"
+    "address": "Klaipėda, Pilkalnio g. 1-1, LT-92196",
+    "vatcode": "LT100014034317"
   },
   {
     "name": "UAB Liepų 126",

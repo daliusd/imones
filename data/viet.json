@@ -16,9 +16,15 @@
     "address": "Anykščių r. sav., Kavarsko sen., Vetygalos k. 3, LT-29255"
   },
   {
+    "name": "MB \"Lėta vieta\"",
+    "code": "304617977",
+    "address": "Širvintų r. sav., Musninkų sen., Krunų k., Saulės g. 12, LT-19184"
+  },
+  {
     "name": "MB \"Mudviejų vieta\"",
     "code": "303273135",
-    "address": "Vilnius, S. Stanevičiaus g. 14-91, LT-07127"
+    "address": "Vilnius, S. Stanevičiaus g. 14-91, LT-07127",
+    "vatcode": "LT100008485112"
   },
   {
     "name": "MB \"Patogi vieta\"",
@@ -53,12 +59,14 @@
   {
     "name": "MB Tvarkinga vieta",
     "code": "305628784",
-    "address": "Širvintų r. sav., Jauniūnų sen., Medžiukų k., Plento g. 29, LT-19156"
+    "address": "Širvintų r. sav., Jauniūnų sen., Medžiukų k., Plento g. 29, LT-19156",
+    "vatcode": "LT100013801417"
   },
   {
     "name": "MB Vieta jūsų reklamai",
     "code": "306161682",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100015462717"
   },
   {
     "name": "Mažoji bendrija Keista vieta",
@@ -94,12 +102,14 @@
   {
     "name": "UAB Nuostabi vieta",
     "code": "306850204",
-    "address": "Alytus, J. Basanavičiaus g. 11, LT-62145"
+    "address": "Alytus, J. Basanavičiaus g. 11, LT-62145",
+    "vatcode": "LT100018095214"
   },
   {
     "name": "UAB SMARAGDO VIETA",
     "code": "306947500",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
+    "vatcode": "LT100019473119"
   },
   {
     "name": "UAB Sporto vieta",
@@ -110,6 +120,11 @@
     "name": "Vieta rasta, MB",
     "code": "307176096",
     "address": "Kauno r. sav., Karmėlava, Tulpių g. 26, LT-54461"
+  },
+  {
+    "name": "Vieta x Architektūra, UAB",
+    "code": "307585470",
+    "address": "Vilnius, Apkasų g. 12A-130, LT-08228"
   },
   {
     "name": "VšĮ \"Vieta sportui\"",
@@ -124,7 +139,8 @@
   {
     "name": "MB Čeburekų Vietelė",
     "code": "306945588",
-    "address": "Jonavos r. sav., Upninkų sen., Kryžiaukos k. 1, LT-55108"
+    "address": "Jonavos r. sav., Upninkų sen., Kryžiaukos k. 1, LT-55108",
+    "vatcode": "LT100017444114"
   },
   {
     "name": "UAB Kelmės vietinio ūkio filialas \"Kelmės mokesta\"",
@@ -139,7 +155,8 @@
   {
     "name": "UAB \"Vietinis\"",
     "code": "125206112",
-    "address": "Palanga, Ganyklų g. 28B, LT-00126"
+    "address": "Palanga, Ganyklų g. 28B, LT-00126",
+    "vatcode": "LT100002146614"
   },
   {
     "name": "UAB Kelmės vietinis ūkis",
@@ -156,6 +173,10 @@
     "name": "Vietinis vėjas UAB",
     "code": "306142924",
     "address": "Vilnius, Igno Šimulionio g. 5-57, LT-04330"
+  },
+  {
+    "name": "Viešoji įstaiga VILNIAUS VERSLO BEI VIETINIŲ INICIATYVŲ RĖMIMO CENTRAS \"LENVERSA\"",
+    "code": "300037507"
   },
   {
     "name": "LIETUVOS AKLŲJŲ IR SILPNAREGIŲ SĄJUNGOS VILNIAUS ĮMONĖS DIRBANČIŲJŲ VIETINĖ PROFESINĖ ORGANIZACIJA",
@@ -211,7 +232,8 @@
   {
     "name": "UAB \"Vietoj darbo\"",
     "code": "305814696",
-    "address": "Vilnius, Mileišiškių Sodų 11-oji g. 28, LT-10211"
+    "address": "Vilnius, Mileišiškių Sodų 11-oji g. 28, LT-10211",
+    "vatcode": "LT100014483411"
   },
   {
     "name": "VšĮ \"Nestovėk vietoj\"",
@@ -226,7 +248,8 @@
   {
     "name": "MB Viskas vietoje",
     "code": "307049985",
-    "address": "Vilnius, Eišiškių pl. 47-65, LT-02184"
+    "address": "Vilnius, Eišiškių pl. 47-65, LT-02184",
+    "vatcode": "LT100017429615"
   },
   {
     "name": "VšĮ \"VPB Nestovėk vietoje\"",
@@ -377,6 +400,11 @@
     "name": "Ignalinos rajono vietos veiklos grupė",
     "code": "301166818",
     "address": "Ignalina, Ateities g. 23, LT-30121"
+  },
+  {
+    "name": "IĮ Alberto Vietos automobilių remonto įmonė",
+    "code": "172211459",
+    "address": "Raseiniai, Turgaus g. 34-23, LT-60122"
   },
   {
     "name": "Jonavos miesto vietos veiklos grupė",
@@ -945,9 +973,17 @@
     "address": "Plungė, Vytauto g. 10, LT-90123"
   },
   {
+    "name": "MB \"Platininė vietovė\"",
+    "code": "303344917"
+  },
+  {
     "name": "Joniškio rajono Kirnaičių kadastro vietovės melioracijos sistemų naudotojų asociacija",
     "code": "302439084",
     "address": "Joniškio r. sav., Kepalių sen., Šlapakių k., Šlapakių g. 16, LT-84197"
+  },
+  {
+    "name": "Pasvalio rajono Saločių kadastrinės vietovės melioracijos sistemų naudotojų asociacija",
+    "code": "302527602"
   },
   {
     "name": "Prienų rajono Ašmintos kadastrinės vietovės kaimo bendruomenė \"Ošvenčia\"",

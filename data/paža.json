@@ -40,11 +40,6 @@
     "address": "Panevėžio r. sav., Panevėžio sen., Pažagienių k., Švyturio g. 27, LT-36222"
   },
   {
-    "name": "Pažagienių daugiabučio namo Nr. 11 savininkų bendrija",
-    "code": "168943275",
-    "address": "Panevėžio r. sav., Panevėžio sen., Pažagienių k., Švyturio g. 21, LT-36222"
-  },
-  {
     "name": "Pažagienių kaimo bendruomenė \"SAVAS\"",
     "code": "168975846",
     "address": "Panevėžio r. sav., Velžio sen., Pažagienių k."
@@ -57,7 +52,8 @@
   {
     "name": "PAŽAISLIO KULTŪROS IR TURIZMO CENTRAS",
     "code": "300710505",
-    "address": "Kaunas, T. Masiulio g. 31, LT-52436"
+    "address": "Kaunas, T. Masiulio g. 31, LT-52436",
+    "vatcode": "LT100011688711"
   },
   {
     "name": "PAŽAISLIO PARAMOS FONDAS",
@@ -67,17 +63,20 @@
   {
     "name": "UAB \"Pažaislio projektai\"",
     "code": "305073044",
-    "address": "Kaunas, Betonuotojų g. 4, LT-52370"
+    "address": "Kaunas, Betonuotojų g. 4, LT-52370",
+    "vatcode": "LT100012246211"
   },
   {
     "name": "UAB Pažaislio namai",
     "code": "306216399",
-    "address": "Kaunas, Betonuotojų g. 4-21, LT-52370"
+    "address": "Kaunas, Betonuotojų g. 4-21, LT-52370",
+    "vatcode": "LT100015804311"
   },
   {
     "name": "Viešoji įstaiga Pažaislio muzikos festivalis",
     "code": "135457127",
-    "address": "Kaunas, E. Ožeškienės g. 12, LT-44252"
+    "address": "Kaunas, E. Ožeškienės g. 12, LT-44252",
+    "vatcode": "LT354571219"
   },
   {
     "name": "VŠĮ \"Atėjau pažaist\"",
@@ -122,7 +121,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Pažanga\"",
     "code": "155413476",
-    "address": "Ignalina, Ažušilės g. 15, LT-30126"
+    "address": "Ignalina, Ažušilės g. 15, LT-30126",
+    "vatcode": "LT100001953915"
   },
   {
     "name": "VšĮ \"Sporto pažanga\"",
@@ -148,12 +148,14 @@
   {
     "name": "MB \"Pažangi odontologija\"",
     "code": "305064700",
-    "address": "Vilnius, Smolensko g. 6, LT-03201"
+    "address": "Vilnius, Smolensko g. 6, LT-03201",
+    "vatcode": "LT100012539813"
   },
   {
     "name": "Pažangi energija, UAB",
     "code": "305754092",
-    "address": "Vilnius, Fabijoniškių g. 99, LT-07101"
+    "address": "Vilnius, Fabijoniškių g. 99, LT-07101",
+    "vatcode": "LT100014053414"
   },
   {
     "name": "UAB \"Pažangi apskaita\"",
@@ -163,7 +165,8 @@
   {
     "name": "UAB \"Pažangi energetika\"",
     "code": "305564755",
-    "address": "Kėdainių r. sav., Pelėdnagių sen., Paobelio k., Nevėžio g. 31, LT-58158"
+    "address": "Kėdainių r. sav., Pelėdnagių sen., Paobelio k., Nevėžio g. 31, LT-58158",
+    "vatcode": "LT100013861219"
   },
   {
     "name": "UAB \"Pažangi namų automatika\"",
@@ -179,12 +182,14 @@
   {
     "name": "Uždaroji akcinė bendrovė \"PAŽANGI STATYBA\"",
     "code": "123444862",
-    "address": "Vilnius, Metalo g. 19, LT-02190"
+    "address": "Vilnius, Metalo g. 19, LT-02190",
+    "vatcode": "LT234448610"
   },
   {
     "name": "UAB \"SPRENDIMAI PAŽANGIAM VERSLUI\"",
     "code": "302493993",
-    "address": "Vilnius, Ukmergės g. 126, LT-08100"
+    "address": "Vilnius, Ukmergės g. 126, LT-08100",
+    "vatcode": "LT100005322313"
   },
   {
     "name": "\"Pažangios investicijos\", UAB",
@@ -199,12 +204,17 @@
   {
     "name": "UAB \"PAŽANGIOS ARCHITEKTŪRINĖS MINTYS\"",
     "code": "125480526",
-    "address": "Vilnius, Vasario 16-osios g. 2-1, LT-01106"
+    "address": "Vilnius, Vasario 16-osios g. 2-1, LT-01106",
+    "vatcode": "LT254805219"
   },
   {
     "name": "UAB \"PAŽANGIOS ODONTOLOGIJOS METROPOLIS\"",
     "code": "301733670",
     "address": "Vilnius, Sakalų g. 22-6, LT-08108"
+  },
+  {
+    "name": "UAB \"Pažangios idėjos\"",
+    "code": "302597433"
   },
   {
     "name": "UAB \"Pažangios inovacijos\"",
@@ -215,7 +225,8 @@
   {
     "name": "UAB Pažangios medicinos centras",
     "code": "305964596",
-    "address": "Vilnius, Kryžiokų Sodų 2-oji g. 260, LT-08443"
+    "address": "Vilnius, Kryžiokų Sodų 2-oji g. 260, LT-08443",
+    "vatcode": "LT100018071111"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Pažangios ekolinijos\"",
@@ -225,7 +236,8 @@
   {
     "name": "MB Pažangiosios medicinos asociacija",
     "code": "306303270",
-    "address": "Kauno r. sav., Domeikavos sen., Varluvos k., Gilių 1-asis tak. 7, LT-54341"
+    "address": "Kauno r. sav., Domeikavos sen., Varluvos k., Gilių 1-asis tak. 7, LT-54341",
+    "vatcode": "LT100017216913"
   },
   {
     "name": "Pažangiosios medicinos draugija",
@@ -235,7 +247,8 @@
   {
     "name": "UAB \"Pažangiosios technologijos\"",
     "code": "304862777",
-    "address": "Marijampolės sav., Liudvinavo sen., Liucinavo k., Alyvų g. 7, LT-69168"
+    "address": "Marijampolės sav., Liudvinavo sen., Liucinavo k., Alyvų g. 7, LT-69168",
+    "vatcode": "LT100016248613"
   },
   {
     "name": "\"PAŽANGIŲ IDĖJŲ RĖMIMO\" labdaros ir paramos fondas",
@@ -245,12 +258,14 @@
   {
     "name": "Baltijos pažangių technologijų institutas",
     "code": "301846141",
-    "address": "Vilnius, Pilies g. 16-8, LT-01403"
+    "address": "Vilnius, Pilies g. 16-8, LT-01403",
+    "vatcode": "LT100004815216"
   },
   {
     "name": "MB Pažangių idėjų technologijos",
     "code": "300131173",
-    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Žiburių g. 8-2, LT-14186"
+    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Žiburių g. 8-2, LT-14186",
+    "vatcode": "LT100001827617"
   },
   {
     "name": "Nacionalinė pažangių globos namų asociacija",
@@ -279,9 +294,14 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Šviesos g. 10, LT-92338"
   },
   {
+    "name": "Lietuvos pažangos institutas",
+    "code": "304019905"
+  },
+  {
     "name": "MB \"Pažangos akademija\"",
     "code": "306356586",
-    "address": "Palanga, Aido tak. 15A, LT-00168"
+    "address": "Palanga, Aido tak. 15A, LT-00168",
+    "vatcode": "LT100016388518"
   },
   {
     "name": "MB Pažangos kelias",
@@ -316,7 +336,8 @@
   {
     "name": "UAB \"Pažangus pažinimas\"",
     "code": "304984254",
-    "address": "Vilnius, Tuskulėnų g. 23A-5, LT-09218"
+    "address": "Vilnius, Tuskulėnų g. 23A-5, LT-09218",
+    "vatcode": "LT100018667717"
   },
   {
     "name": "UAB \"Pažangūs pozicionavimo sprendimai\"",
@@ -334,5 +355,9 @@
     "name": "Viešoji įstaiga \"Pažangūs sprendimai\"",
     "code": "154332530",
     "address": "Vilnius, Adutiškio g. 3-3, LT-02112"
+  },
+  {
+    "name": "Janinos Pažarauskienės individuali įmonė",
+    "code": "157697025"
   }
 ]

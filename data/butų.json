@@ -416,8 +416,7 @@
   },
   {
     "name": "201-oji butų savininkų bendrija",
-    "code": "135385090",
-    "address": "Kaunas, A. Ramanausko-Vanago g. 3, LT-49347"
+    "code": "135385090"
   },
   {
     "name": "202-oji butų savininkų bendrija",
@@ -486,8 +485,7 @@
   },
   {
     "name": "215-oji butų savininkų bendrija",
-    "code": "135366161",
-    "address": "Kaunas, P. Lukšio g. 47, LT-49398"
+    "code": "135366161"
   },
   {
     "name": "216-VIII butų savininkų bendrija",
@@ -651,8 +649,7 @@
   },
   {
     "name": "46-oji butų savininkų bendrija",
-    "code": "302874414",
-    "address": "Kaunas, Laimos g. 7, LT-52361"
+    "code": "302874414"
   },
   {
     "name": "5-oji butų savininkų bendrija",
@@ -796,7 +793,8 @@
   {
     "name": "Akcinė bendrovė \"PANEVĖŽIO BUTŲ ŪKIS\"",
     "code": "147146714",
-    "address": "Panevėžys, Beržų g. 48, LT-36145"
+    "address": "Panevėžys, Beržų g. 48, LT-36145",
+    "vatcode": "LT471467113"
   },
   {
     "name": "Asociacija \"LIETUVOS BUTŲ ŪKIS\"",
@@ -806,7 +804,8 @@
   {
     "name": "Atvirojo tipo specialioji nekilnojamojo turto investicinė kintamojo kapitalo bendrovė \"Demus Atviro Butų Fondo Investicijos\"",
     "code": "307467618",
-    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
+    "vatcode": "LT100019362218"
   },
   {
     "name": "Baltų pr. 13 butų savininkų bendrija",
@@ -827,11 +826,6 @@
     "name": "Biržų miesto Vytauto gatvės 15-ojo namo butų savininkų bendrija",
     "code": "304714928",
     "address": "Biržai, Vytauto g. 15-5, LT-41173"
-  },
-  {
-    "name": "Butų savininkų bendrija \"A. Jakšto 8\"",
-    "code": "304678617",
-    "address": "Kaunas, A. Jakšto g. 8, LT-44275"
   },
   {
     "name": "Butų savininkų bendrija \"Aidas\"",
@@ -962,11 +956,6 @@
     "name": "Butų savininkų bendrija \"Geodezininkas\"",
     "code": "135354579",
     "address": "Kaunas, Taikos pr. 38, LT-50232"
-  },
-  {
-    "name": "Butų savininkų bendrija \"Gilė-1\"",
-    "code": "160194169",
-    "address": "Kupiškio r. sav., Noriūnų sen., Noriūnų k., Melioratorių g. 8A, LT-40390"
   },
   {
     "name": "Butų savininkų bendrija \"Girios 15\"",
@@ -1145,8 +1134,7 @@
   },
   {
     "name": "Butų savininkų bendrija \"Mėta\"",
-    "code": "165381429",
-    "address": "Kupiškis, P. Mažylio g. 6, LT-40123"
+    "code": "165381429"
   },
   {
     "name": "Butų savininkų bendrija \"Mūza\"",
@@ -1190,8 +1178,7 @@
   },
   {
     "name": "Butų savininkų bendrija \"Pakrantė\"",
-    "code": "160319936",
-    "address": "Kupiškis, Krantinės g. 22, LT-40117"
+    "code": "160319936"
   },
   {
     "name": "Butų savininkų bendrija \"Palaukė\"",
@@ -1305,8 +1292,7 @@
   },
   {
     "name": "Butų savininkų bendrija \"Rūta\"",
-    "code": "135321668",
-    "address": "Kaunas, Demokratų g. 37, LT-48495"
+    "code": "165378447"
   },
   {
     "name": "Butų savininkų bendrija \"Sanitarija\"",
@@ -1419,11 +1405,6 @@
     "address": "Kaunas, Vievio g. 45, LT-44430"
   },
   {
-    "name": "Butų savininkų bendrija \"Viktorija\"",
-    "code": "165379691",
-    "address": "Kupiškis, P. Mažylio g. 28, LT-40120"
-  },
-  {
     "name": "Butų savininkų bendrija \"Vilija\"",
     "code": "135335269",
     "address": "Kaunas, Varnių g. 45, LT-48413"
@@ -1450,8 +1431,7 @@
   },
   {
     "name": "Butų savininkų bendrija \"Vėtrungė\"",
-    "code": "165377911",
-    "address": "Kupiškis, Taikos g. 5, LT-40125"
+    "code": "165377911"
   },
   {
     "name": "Butų savininkų bendrija \"Ąžuolas\"",
@@ -1514,11 +1494,6 @@
     "address": "Kaunas, Kovo 11-osios g. 112, LT-49374"
   },
   {
-    "name": "Butų savininkų bendrija \"Žuvėdra\"",
-    "code": "135363770",
-    "address": "Kaunas, Varnių g. 47, LT-48413"
-  },
-  {
     "name": "Butų savininkų bendrija \"Žėrutis\"",
     "code": "135351992",
     "address": "Kaunas, Taikos pr. 55, LT-50431"
@@ -1567,11 +1542,6 @@
     "name": "Daugiabučio namo butų ir kitų patalpų Mėsinių g. 7 savininkų bendrija",
     "code": "303387231",
     "address": "Vilnius, Mėsinių g. 7-1, LT-01133"
-  },
-  {
-    "name": "Daugiabučio namo butų savininkų bendrija \"Beržai\"",
-    "code": "300563279",
-    "address": "Raseiniai, Dubysos g. 3-6, LT-60146"
   },
   {
     "name": "Daugiabučio namo butų savininkų bendrija \"Jankausko 7 (215 ir 217 korpusai)\"",
@@ -1695,8 +1665,7 @@
   },
   {
     "name": "Mažylio g. Nr. 20 namo butų savininkų bendrija",
-    "code": "160324730",
-    "address": "Kupiškis, P. Mažylio g. 20, LT-40123"
+    "code": "160324730"
   },
   {
     "name": "Namo butų savininkų bendrija \"Lauko g. 9\"",
@@ -1732,11 +1701,6 @@
     "name": "SEDULINOS AL. 4 NAMO BUTŲ SAVININKŲ BENDRIJA",
     "code": "302741353",
     "address": "Visaginas, Sedulinos al. 4-17, LT-31126"
-  },
-  {
-    "name": "SP UAB \"Prienų butų ūkis\" profesinė sąjunga",
-    "code": "170772536",
-    "address": "Prienai, Kęstučio g. 37, LT-59129"
   },
   {
     "name": "Sedulinos al. 14/3 namo butų ir kitų patalpų savininkų bendrija",
@@ -1789,14 +1753,15 @@
     "address": "Marijampolės sav., Liudvinavo sen., Liepynų k., Poilsio g. 3, LT-68126"
   },
   {
-    "name": "UAB Kauno butų ūkio darbuotojų profesinė sąjunga",
-    "code": "304127966",
-    "address": "Kaunas, Kuršių g. 46-36, LT-48140"
-  },
-  {
     "name": "UAB Kauno butų ūkis",
     "code": "132532496",
-    "address": "Kaunas, Chemijos g. 18, LT-51339"
+    "address": "Kaunas, Chemijos g. 18, LT-51339",
+    "vatcode": "LT325324917"
+  },
+  {
+    "name": "Ukmergės g. 10 namo butų savininkų bendrija",
+    "code": "307600278",
+    "address": "Kaunas, Ukmergės g. 10-42, LT-49407"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Alytaus butų ūkis\"",
@@ -1812,12 +1777,14 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Biržų butų ūkis\"",
     "code": "254709320",
-    "address": "Biržai, Rotušės g. 12-1, LT-41175"
+    "address": "Biržai, Rotušės g. 12-1, LT-41175",
+    "vatcode": "LT547093219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Druskininkų butų ūkis\"",
     "code": "152007157",
-    "address": "Druskininkai, Ligoninės g. 12, LT-66249"
+    "address": "Druskininkai, Ligoninės g. 12, LT-66249",
+    "vatcode": "LT520071515"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kaišiadorių butų ūkis\"",
@@ -1826,19 +1793,26 @@
     "vatcode": "LT588060219"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"Marijampolės butų ūkis\"",
+    "code": "151005356"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"Pasvalio butų ūkis\"",
     "code": "169176222",
-    "address": "Pasvalys, Gėlių g. 5A, LT-39136"
+    "address": "Pasvalys, Gėlių g. 5A, LT-39136",
+    "vatcode": "LT691762219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Prienų butų ūkis\"",
     "code": "170609076",
-    "address": "Prienai, Kęstučio g. 37, LT-59129"
+    "address": "Prienai, Kęstučio g. 37, LT-59129",
+    "vatcode": "LT706090716"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Ukmergės butų ūkis\"",
     "code": "182701785",
-    "address": "Ukmergė, S. Daukanto g. 18, LT-20176"
+    "address": "Ukmergė, S. Daukanto g. 18, LT-20176",
+    "vatcode": "LT827017811"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Utenos butų ūkis\"",
@@ -1849,17 +1823,20 @@
   {
     "name": "Uždaroji akcinė bendrovė Ignalinos butų ūkis",
     "code": "255512870",
-    "address": "Ignalina, Turistų g. 9, LT-30105"
+    "address": "Ignalina, Turistų g. 9, LT-30105",
+    "vatcode": "LT555128716"
   },
   {
     "name": "Uždaroji akcinė bendrovė JONIŠKIO BUTŲ ŪKIS",
     "code": "157521319",
-    "address": "Joniškis, Vilniaus g. 46, LT-84166"
+    "address": "Joniškis, Vilniaus g. 46, LT-84166",
+    "vatcode": "LT575213113"
   },
   {
     "name": "Uždaroji akcinė bendrovė Telšių butų ūkis",
     "code": "180102018",
-    "address": "Telšiai, Plungės g. 29, LT-87329"
+    "address": "Telšiai, Plungės g. 29, LT-87329",
+    "vatcode": "LT801020113"
   },
   {
     "name": "Veteranų g. 20 namo butų savininkų bendrija",

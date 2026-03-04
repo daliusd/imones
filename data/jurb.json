@@ -2,12 +2,14 @@
   {
     "name": "UAB \"JURBANA\"",
     "code": "302249366",
-    "address": "Lazdijai, Ežero g. 16-2, LT-67115"
+    "address": "Lazdijai, Ežero g. 16-2, LT-67115",
+    "vatcode": "LT100004854116"
   },
   {
     "name": "MB \"Jurbaras\"",
     "code": "303097274",
-    "address": "Vilnius, L. Giros g. 82-15, LT-06315"
+    "address": "Vilnius, L. Giros g. 82-15, LT-06315",
+    "vatcode": "LT100008507611"
   },
   {
     "name": "ŽŪB \"AUGA Jurbarkai\"",
@@ -168,8 +170,7 @@
   },
   {
     "name": "Jurbarko garažų statybos ir eksploatavimo bendrija \"Miškas 1\"",
-    "code": "158735660",
-    "address": "Jurbarkas, Kauno g. 38-50, LT-74125"
+    "code": "158735660"
   },
   {
     "name": "Jurbarko jaunimo organizacijų sąjunga",
@@ -197,11 +198,6 @@
     "address": "Jurbarkas, Dariaus ir Girėno g. 97-24, LT-74185"
   },
   {
-    "name": "Jurbarko miškų darbuotojų profesinė sąjunga",
-    "code": "300091526",
-    "address": "Jurbarkas, Miškininkų g. 5, LT-74212"
-  },
-  {
     "name": "Jurbarko moterų užimtumo ir informacijos centras",
     "code": "158740084",
     "address": "Jurbarkas, Dariaus ir Girėno g. 94, LT-74187"
@@ -215,6 +211,14 @@
     "name": "Jurbarko orientavimosi sporto klubas \"Karšuva\"",
     "code": "158310143",
     "address": "Jurbarkas, Lauko g. 17, LT-74157"
+  },
+  {
+    "name": "Jurbarko politinių kalinių ir tremtinių choras \"Versmė\"",
+    "code": "191432679"
+  },
+  {
+    "name": "Jurbarko prancūzų kultūros klubas \"Bonjor\"",
+    "code": "158745811"
   },
   {
     "name": "Jurbarko r. Eržvilko gimnazija",
@@ -244,12 +248,18 @@
   {
     "name": "Jurbarko rajono Klausučių žemės ūkio bendrovė",
     "code": "158178268",
-    "address": "Jurbarko r. sav., Seredžiaus sen., Pikčiūnų k., Pievų g. 10, LT-74401"
+    "address": "Jurbarko r. sav., Seredžiaus sen., Pikčiūnų k., Pievų g. 10, LT-74401",
+    "vatcode": "LT581782610"
   },
   {
     "name": "Jurbarko rajono Medininkų žemės ūkio bendrovė",
     "code": "158181588",
-    "address": "Jurbarko r. sav., Šimkaičiai, Liepų g. 4, LT-74337"
+    "address": "Jurbarko r. sav., Šimkaičiai, Liepų g. 4, LT-74337",
+    "vatcode": "LT581815811"
+  },
+  {
+    "name": "Jurbarko rajono Vadžgirio žemės ūkio bendrovė",
+    "code": "158173335"
   },
   {
     "name": "Jurbarko rajono jaunimo iniciatyvos centras",
@@ -352,11 +362,6 @@
     "address": "Jurbarkas, Lauko g. 17-1A, LT-74157"
   },
   {
-    "name": "Jurbarko rajono ugniagesių gelbėtojų profesinė sąjunga",
-    "code": "158756640",
-    "address": "Jurbarko rajono savivaldybės teritorija"
-  },
-  {
     "name": "Jurbarko rajono vaikų popchoras \"Pasakėlė\"",
     "code": "158305872",
     "address": "Jurbarkas, Gedimino g. 30, LT-74179"
@@ -374,7 +379,8 @@
   {
     "name": "Jurbarko rajono žemės ūkio bendrovė \"Bebirvytis\"",
     "code": "258174580",
-    "address": "Jurbarko r. sav., Šimkaičiai"
+    "address": "Jurbarko r. sav., Šimkaičiai",
+    "vatcode": "LT581745811"
   },
   {
     "name": "Jurbarko rajono žemės ūkio bendrovė \"Dobilas\"",
@@ -427,14 +433,13 @@
     "address": "Jurbarkas, Gedimino g. 25-22, LT-74166"
   },
   {
+    "name": "Jurbarko sporto klubas \"Vulkanas\"",
+    "code": "158328337"
+  },
+  {
     "name": "Jurbarko susivienijimas \"Sodai\"",
     "code": "193216349",
     "address": "Jurbarkas, Vytauto Didžiojo g. 8A, LT-74182"
-  },
-  {
-    "name": "Jurbarko sveikatos apsaugos darbuotojų profesinė sąjunga",
-    "code": "158749076",
-    "address": "Jurbarkas, Vydūno g. 56, LT-74112"
   },
   {
     "name": "Jurbarko teatro mėgėjų klubas",
@@ -454,7 +459,8 @@
   {
     "name": "Jurbarko vartotojų kooperatyvas \"Vienybė\"",
     "code": "158168726",
-    "address": "Jurbarkas, Dariaus ir Girėno g. 21, LT-74127"
+    "address": "Jurbarkas, Dariaus ir Girėno g. 21, LT-74127",
+    "vatcode": "LT581687219"
   },
   {
     "name": "Jurbarko Švč. Trejybės parapija",
@@ -484,7 +490,8 @@
   {
     "name": "Jurbarko ūkiai, Kooperatinė bendrovė",
     "code": "306325039",
-    "address": "Jurbarko r. sav., Jurbarkų sen., Klišių k., Vytauto Didžiojo g. 99, LT-74196"
+    "address": "Jurbarko r. sav., Jurbarkų sen., Klišių k., Vytauto Didžiojo g. 99, LT-74196",
+    "vatcode": "LT100016097810"
   },
   {
     "name": "Kultūros centro choras \"Jurbarko lelija\"",
@@ -560,22 +567,26 @@
   {
     "name": "UAB \"Jurbarko karjerai\"",
     "code": "302788680",
-    "address": "Tauragė, Pramonės g. 3, LT-72359"
+    "address": "Tauragė, Pramonės g. 3, LT-72359",
+    "vatcode": "LT100006965310"
   },
   {
     "name": "UAB \"Jurbarko laikas\"",
     "code": "158318567",
-    "address": "Jurbarkas, Kranto g. 7-2, LT-74182"
+    "address": "Jurbarkas, Kranto g. 7-2, LT-74182",
+    "vatcode": "LT583185610"
   },
   {
     "name": "UAB \"Jurbarko linų verslas\"",
     "code": "158742516",
-    "address": "Jurbarkas, Vytauto Didžiojo g. 57, LT-74135"
+    "address": "Jurbarkas, Vytauto Didžiojo g. 57, LT-74135",
+    "vatcode": "LT587425113"
   },
   {
     "name": "UAB \"Jurbarko mažieji autobusai\"",
     "code": "258302610",
-    "address": "Jurbarkas, Vydūno g. 11A, LT-74118"
+    "address": "Jurbarkas, Vydūno g. 11A, LT-74118",
+    "vatcode": "LT583026113"
   },
   {
     "name": "UAB \"Jurbarko vėjo elektrinės\"",
@@ -591,22 +602,26 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Jurbarko komunalininkas\"",
     "code": "258325370",
-    "address": "Jurbarkas, Muitinės g. 26A, LT-74106"
+    "address": "Jurbarkas, Muitinės g. 26A, LT-74106",
+    "vatcode": "LT583253716"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Jurbarko vandenys\"",
     "code": "158275315",
-    "address": "Jurbarkas, Muitinės g. 1, LT-74106"
+    "address": "Jurbarkas, Muitinės g. 1, LT-74106",
+    "vatcode": "LT582753113"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Jurbarko šviesa\"",
     "code": "158273111",
-    "address": "Jurbarkas, Kauno g. 36, LT-74125"
+    "address": "Jurbarkas, Kauno g. 36, LT-74125",
+    "vatcode": "LT582731113"
   },
   {
     "name": "Uždaroji akcinė bendrovė Jurbarko autobusų parkas",
     "code": "158161361",
-    "address": "Jurbarkas, V. Kudirkos g. 35, LT-74138"
+    "address": "Jurbarkas, V. Kudirkos g. 35, LT-74138",
+    "vatcode": "LT581613610"
   },
   {
     "name": "Uždaroji akcinė bendrovė Jurbarko knygynas",
@@ -672,7 +687,8 @@
   {
     "name": "UAB \"Jurbarkų mėsa\"",
     "code": "158249726",
-    "address": "Jurbarko r. sav., Jurbarkų sen., Jurbarkų k., Daržų g. 10, LT-74205"
+    "address": "Jurbarko r. sav., Jurbarkų sen., Jurbarkų k., Daržų g. 10, LT-74205",
+    "vatcode": "LT582497219"
   },
   {
     "name": "ŽŪB Jurbarkų ekologinis ūkis",
@@ -683,12 +699,14 @@
   {
     "name": "MB Jurbena",
     "code": "306799603",
-    "address": "Vilnius, Elvyro Andriolio g. 20, LT-25128"
+    "address": "Vilnius, Elvyro Andriolio g. 20, LT-25128",
+    "vatcode": "LT100017308919"
   },
   {
     "name": "MB \"Jurbilis\"",
     "code": "307188508",
-    "address": "Anykščiai, Šeimyniškėlių g. 15C, LT-29109"
+    "address": "Anykščiai, Šeimyniškėlių g. 15C, LT-29109",
+    "vatcode": "LT100018297118"
   },
   {
     "name": "UAB \"Jurby Technology Operations\"",

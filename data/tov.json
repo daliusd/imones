@@ -5,6 +5,10 @@
     "address": "Vilnius, Tolminkiemio g. 11-67, LT-06210"
   },
   {
+    "name": "MB \"Tov 1\"",
+    "code": "306308723"
+  },
+  {
     "name": "TOV \"A. GRUP\" atstovybė Lietuvoje",
     "code": "304087532",
     "address": "Vilniaus r. sav., Sužionių sen., Veriškių k., Dvarvietės g. 14, LT-15164"
@@ -102,12 +106,14 @@
   {
     "name": "MB Hevra tova",
     "code": "307050126",
-    "address": "Vilnius, Naugarduko g. 26-24, LT-03225"
+    "address": "Vilnius, Naugarduko g. 26-24, LT-03225",
+    "vatcode": "LT100017581216"
   },
   {
     "name": "UAB Tova LT",
     "code": "301151855",
-    "address": "Vilnius, Laisvės pr. 44-27, LT-04342"
+    "address": "Vilnius, Laisvės pr. 44-27, LT-04342",
+    "vatcode": "LT100003543913"
   },
   {
     "name": "MB \"TOVAAUTO\"",
@@ -122,7 +128,14 @@
   {
     "name": "UAB \"Tovaina\"",
     "code": "303500412",
-    "address": "Marijampolė, Vytenio g. 26-29, LT-68277"
+    "address": "Marijampolė, Vytenio g. 26-29, LT-68277",
+    "vatcode": "LT100009060319"
+  },
+  {
+    "name": "IĮ \"TOVALDA\"",
+    "code": "304193927",
+    "address": "Švenčionys, Trakų g. 3, LT-18130",
+    "vatcode": "LT100010320516"
   },
   {
     "name": "Tovarishchestvo s ogranichennoi otvetstvennostiu \"ITERA\" atstovybė",
@@ -228,18 +241,28 @@
   {
     "name": "UAB \"Toverta\"",
     "code": "302108579",
-    "address": "Kauno r. sav., Zapyškio sen., Zapyškio mstl., Vytauto g. 47, LT-53419"
+    "address": "Kauno r. sav., Zapyškio sen., Zapyškio mstl., Vytauto g. 47, LT-53419",
+    "vatcode": "LT100004362912"
+  },
+  {
+    "name": "D. Tovianskienės Požerskienės įmonė \"SPASA\"",
+    "code": "148219211"
   },
   {
     "name": "UAB \"TOVIDO\"",
     "code": "303007565",
-    "address": "Vilnius, M. K. Paco g. 13-17, LT-10309"
+    "address": "Vilnius, M. K. Paco g. 13-17, LT-10309",
+    "vatcode": "LT100008435610"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"TOVIGINTA\"",
     "code": "140993062",
     "address": "Vilnius, Kalvarijų g. 21-13, LT-09313",
     "vatcode": "LT409930610"
+  },
+  {
+    "name": "IĮ \"Tovila\"",
+    "code": "302304624"
   },
   {
     "name": "MB \"Tovilda\"",
@@ -272,7 +295,8 @@
   {
     "name": "UAB Tovita baltic",
     "code": "305963804",
-    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Parko g. 53, LT-14261"
+    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Parko g. 53, LT-14261",
+    "vatcode": "LT100014615712"
   },
   {
     "name": "Tovlasta MB",
@@ -282,7 +306,8 @@
   {
     "name": "UAB \"Tovlita\"",
     "code": "305454134",
-    "address": "Varėnos r. sav., Matuizų sen., Matuizų k., Pušų g. 42, LT-65470"
+    "address": "Varėnos r. sav., Matuizų sen., Matuizų k., Pušų g. 42, LT-65470",
+    "vatcode": "LT100013134116"
   },
   {
     "name": "UAB \"Tovė\"",

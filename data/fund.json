@@ -12,7 +12,13 @@
   {
     "name": "Atvirojo tipo informuotiesiems investuotojams skirta investicinė bendrovė \"Retail Opportunity Fund\"",
     "code": "305665658",
-    "address": "Vilnius, Polocko g. 40-9, LT-01205"
+    "address": "Vilnius, Polocko g. 40-9, LT-01205",
+    "vatcode": "LT100015752113"
+  },
+  {
+    "name": "Atvirojo tipo informuotiesiems investuotojams skirta investicinė bendrovė KŪB \"ZeroSum Debt Fund I\"",
+    "code": "306096957",
+    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
   },
   {
     "name": "Citco Fund Services Lithuania, UAB",
@@ -31,9 +37,25 @@
     "address": "Vilnius, Antano Tumėno g. 4, LT-01109"
   },
   {
+    "name": "Finasta Private Equity Fund I, KŪB",
+    "code": "302650665"
+  },
+  {
     "name": "Fund, UAB",
     "code": "303189317",
-    "address": "Vilnius, Lukšinės g. 20, LT-11332"
+    "address": "Vilnius, Lukšinės g. 20, LT-11332",
+    "vatcode": "LT100009872616"
+  },
+  {
+    "name": "Growth Opportunities Fund 1 KŪB",
+    "code": "305757195",
+    "address": "Vilnius, Antakalnio g. 17, LT-10312"
+  },
+  {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė \"Smart Energy Fund powered by Ignitis Group\" KŪB",
+    "code": "304596351",
+    "address": "Vilnius, Vingrių g. 3D-3, LT-01118",
+    "vatcode": "LT100018910611"
   },
   {
     "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė Groa Real Estate Fund I, UAB",
@@ -44,7 +66,8 @@
   {
     "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė Groa Real Estate Opportunity Fund, UAB",
     "code": "306105096",
-    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
+    "vatcode": "LT100017365110"
   },
   {
     "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB \"LcX Opportunity Fund\"",
@@ -52,14 +75,84 @@
     "address": "Vilnius, Gedimino pr. 10-9B, LT-01103"
   },
   {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB Baltic Sandbox Pre-seed Fund I",
+    "code": "306192286",
+    "address": "Vilnius, Vašingtono a. 1-11, LT-01108"
+  },
+  {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB Baltic Sandbox Seed Fund II",
+    "code": "306192254",
+    "address": "Vilnius, Vašingtono a. 1-11, LT-01108"
+  },
+  {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB FIRSTPICK ACCEL FUND",
+    "code": "306183942",
+    "address": "Vilnius, Lvivo g. 21-101, LT-09309"
+  },
+  {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB FIRSTPICK SEED FUND",
+    "code": "306184631",
+    "address": "Vilnius, Lvivo g. 21-101, LT-09309"
+  },
+  {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB Milgard Growth Fund I",
+    "code": "307494608",
+    "address": "Vilnius, Konstitucijos pr. 7, LT-09308"
+  },
+  {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB Rontgen Aviation Fund",
+    "code": "307044301",
+    "address": "Vilnius, Gynėjų g. 14-115, LT-01110",
+    "vatcode": "LT100017547519"
+  },
+  {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB Wise Guys Pre-Seed Fund I",
+    "code": "305017394",
+    "address": "Vilnius, Jogailos g. 4, LT-01116"
+  },
+  {
+    "name": "Informuotiesiems investuotojams skirta uždarojo tipo investicinė bendrovė KŪB Wise Guys Seed Fund I",
+    "code": "305017387",
+    "address": "Vilnius, Jogailos g. 4, LT-01116"
+  },
+  {
     "name": "Investicinė kintamojo kapitalo bendrovė \"OMX Baltic Benchmark Fund\"",
-    "code": "111713358",
-    "address": "Vilnius, Antano Tumėno g. 4, LT-01109"
+    "code": "111713358"
+  },
+  {
+    "name": "Komanditinė ūkinė bendrija \"Essore Infrastructure Fund\"",
+    "code": "304855793",
+    "address": "Vilnius, Jogailos g. 4, LT-01116"
+  },
+  {
+    "name": "KŪB \"Contrarian Ventures Opportunity Fund I\"",
+    "code": "305822337",
+    "address": "Vilnius, Vingrių g. 3D-3, LT-01118"
+  },
+  {
+    "name": "KŪB \"Contrarian Ventures Opportunity Fund II\"",
+    "code": "305900362",
+    "address": "Vilnius, Vingrių g. 3D-3, LT-01118"
+  },
+  {
+    "name": "KŪB \"Contrarian Ventures Opportunity Fund III\"",
+    "code": "305926706",
+    "address": "Vilnius, Vingrių g. 3D-3, LT-01118"
   },
   {
     "name": "KŪB \"Contrarian Ventures Opportunity Fund IV\"",
     "code": "305950696",
     "address": "Vilnius, Vingrių g. 3D-3, LT-01118"
+  },
+  {
+    "name": "KŪB \"Gamedev Fund\"",
+    "code": "306151898",
+    "address": "Vilnius, Ukmergės g. 219-1, LT-07152"
+  },
+  {
+    "name": "KŪB BIGDATA FUND",
+    "code": "306111149",
+    "address": "Vilnius, Studentų g. 41-52, LT-08106"
   },
   {
     "name": "Labdaros fondas \"United support international fund\"",
@@ -87,9 +180,19 @@
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
+    "name": "Labdaros ir paramos fondas Adliga women at risk solidarity fund",
+    "code": "307581760",
+    "address": "Visaginas, Kosmoso g. 30-903, LT-31103"
+  },
+  {
     "name": "Labdaros ir paramos fondas Arena legacy family fund",
     "code": "306630489",
     "address": "Kaunas, Pramonės pr. 41A-52, LT-50464"
+  },
+  {
+    "name": "Labdaros ir paramos fondas Owl child protection humanitarian fund",
+    "code": "307582129",
+    "address": "Visaginas, Kosmoso g. 30-903, LT-31103"
   },
   {
     "name": "Les Couleurs Youth Art Fund VšĮ",
@@ -97,9 +200,15 @@
     "address": "Kaunas, Kęstučio g. 27-204, LT-44312"
   },
   {
+    "name": "Lithuania SME Fund KŪB",
+    "code": "302503875",
+    "address": "Vilnius, J. Jasinskio g. 16B, LT-03163"
+  },
+  {
     "name": "Longevity Fund, UAB",
     "code": "307455509",
-    "address": "Vilnius, Polocko g. 40-9, LT-01205"
+    "address": "Vilnius, Polocko g. 40-9, LT-01205",
+    "vatcode": "LT100019142715"
   },
   {
     "name": "MB \"A FUND\"",
@@ -140,7 +249,8 @@
   {
     "name": "Pakeitimo vertybiniais popieriais UAB Artea Retrofit Fund 1",
     "code": "306057616",
-    "address": "Šiauliai, Tilžės g. 149, LT-76348"
+    "address": "Šiauliai, Tilžės g. 149, LT-76348",
+    "vatcode": "LT100018313910"
   },
   {
     "name": "Pakeitimo vertybiniais popieriais UAB Artea Retrofit Fund 2",
@@ -160,7 +270,8 @@
   {
     "name": "Salos Real Estate Fund 2, UAB",
     "code": "307030643",
-    "address": "Vilnius, Kęstučio g. 41A, LT-08123"
+    "address": "Vilnius, Kęstučio g. 41A, LT-08123",
+    "vatcode": "LT100017955515"
   },
   {
     "name": "Sisters real estate fund, UAB",
@@ -195,7 +306,8 @@
   {
     "name": "UAB \"Investment fund by MR\"",
     "code": "305849932",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019102716"
   },
   {
     "name": "UAB \"KC Angel Fund I\"",
@@ -210,7 +322,8 @@
   {
     "name": "UAB \"LT Development Fund\"",
     "code": "303218562",
-    "address": "Vilnius, Konstitucijos pr. 7, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 7, LT-09308",
+    "vatcode": "LT100008365313"
   },
   {
     "name": "UAB \"Litcapital Fund Management\"",
@@ -220,7 +333,8 @@
   {
     "name": "UAB \"Nordic Investment Fund\"",
     "code": "302587040",
-    "address": "Vilnius, Ozo g. 12A, LT-08200"
+    "address": "Vilnius, Ozo g. 12A, LT-08200",
+    "vatcode": "LT100010026314"
   },
   {
     "name": "UAB \"PROPERTY FUND\"",
@@ -235,7 +349,18 @@
   {
     "name": "UAB \"Prime Location Property Fund\"",
     "code": "304110365",
-    "address": "Vilnius, Konstitucijos pr. 7, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 7, LT-09308",
+    "vatcode": "LT100010562312"
+  },
+  {
+    "name": "UAB \"Prosperus opportunity fund\"",
+    "code": "307577317",
+    "address": "Vilnius, Antano Tumėno g. 4-107, LT-01110"
+  },
+  {
+    "name": "UAB \"Prosperus retail property fund\"",
+    "code": "307577160",
+    "address": "Vilnius, Antano Tumėno g. 4-107, LT-01110"
   },
   {
     "name": "UAB \"Santumas 1597 growth fund limited\"",
@@ -245,12 +370,14 @@
   {
     "name": "UAB \"XIII Family Fund\"",
     "code": "307006254",
-    "address": "Vilnius, Subačiaus g. 17-28, LT-01300"
+    "address": "Vilnius, Subačiaus g. 17-28, LT-01300",
+    "vatcode": "LT100017443812"
   },
   {
     "name": "UAB 2x Capital Fund",
     "code": "304990467",
-    "address": "Vilnius, T. Kosciuškos g. 26-19, LT-01100"
+    "address": "Vilnius, T. Kosciuškos g. 26-19, LT-01100",
+    "vatcode": "LT100015223219"
   },
   {
     "name": "UAB Blue Flight Fund",
@@ -261,11 +388,6 @@
     "name": "UAB GS FAMILY FUND",
     "code": "305886172",
     "address": "Kaunas, Laisvės al. 110, LT-44253"
-  },
-  {
-    "name": "UAB Hermis fund management",
-    "code": "124500310",
-    "address": "Vilnius, Antano Tumėno g. 4, LT-01109"
   },
   {
     "name": "UAB Kordušas family fund",
@@ -285,7 +407,8 @@
   {
     "name": "UAB Product growth fund",
     "code": "305975692",
-    "address": "Kaunas, Darbo g. 24, LT-52102"
+    "address": "Kaunas, Darbo g. 24, LT-52102",
+    "vatcode": "LT100015481511"
   },
   {
     "name": "UAB Reverest Fund Management",
@@ -296,7 +419,8 @@
   {
     "name": "UPIA Fund UAB",
     "code": "120426948",
-    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144"
+    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144",
+    "vatcode": "LT204269412"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"BALTIC FUND INVESTMENTS\"",
@@ -306,12 +430,31 @@
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė \"SNTG Real Estate Fund\"",
     "code": "306304205",
-    "address": "Vilnius, Vingrių g. 1-101, LT-01118"
+    "address": "Vilnius, Vingrių g. 1-101, LT-01118",
+    "vatcode": "LT100017057918"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė ,,A3 Residential Fund\"",
     "code": "306818391",
-    "address": "Vilnius, Didžioji g. 18, LT-01128"
+    "address": "Vilnius, Didžioji g. 18, LT-01128",
+    "vatcode": "LT100017680416"
+  },
+  {
+    "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė KŪB \"ZeroSum Special Fund I\"",
+    "code": "306004880",
+    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
+  },
+  {
+    "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė KŪB Reverest Fund I",
+    "code": "306183198",
+    "address": "Vilnius, Ukmergės g. 126, LT-08100",
+    "vatcode": "LT100015706816"
+  },
+  {
+    "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė KŪB Reverest Fund II",
+    "code": "306183180",
+    "address": "Vilnius, Ukmergės g. 126, LT-08100",
+    "vatcode": "LT100017574516"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"CAPITALICA BALTIC REAL ESTATE FUND I\"",
@@ -332,7 +475,8 @@
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"EIKA REAL ESTATE FUND\"",
     "code": "304959653",
-    "address": "Vilnius, J. Jasinskio g. 2, LT-01112"
+    "address": "Vilnius, J. Jasinskio g. 2, LT-01112",
+    "vatcode": "LT100014657415"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"North Europe real estate development fund II\"",
@@ -347,7 +491,8 @@
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB Riverside real estate fund",
     "code": "307135772",
-    "address": "Vilnius, Tilto g. 12B-6, LT-01101"
+    "address": "Vilnius, Tilto g. 12B-6, LT-01101",
+    "vatcode": "LT100018032110"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė uždaroji akcinė bendrovė \"ORION Healthcare and Wellness Fund\"",
@@ -357,22 +502,26 @@
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė uždaroji akcinė bendrovė \"ZeroSum Mixed Fund I\"",
     "code": "304150922",
-    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
+    "address": "Vilnius, Lenktoji g. 34, LT-08112",
+    "vatcode": "LT100010265419"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė uždaroji akcinė bendrovė \"ZeroSum Mixed Fund II\"",
     "code": "304149464",
-    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
+    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400",
+    "vatcode": "LT100009863718"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė uždaroji akcinė bendrovė \"ZeroSum Mixed Fund III\"",
     "code": "304929820",
-    "address": "Vilnius, Turniškių g. 14, LT-10104"
+    "address": "Vilnius, Lenktoji g. 34, LT-08112",
+    "vatcode": "LT100011945414"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė uždaroji akcinė bendrovė \"ZeroSum Mixed Fund IV\"",
     "code": "304259042",
-    "address": "Vilnius, Švitrigailos g. 11B, LT-03228"
+    "address": "Vilnius, Švitrigailos g. 11B, LT-03228",
+    "vatcode": "LT100010241119"
   },
   {
     "name": "Viešoji įstaiga \"Nasha Niva Fund\"",
@@ -428,7 +577,8 @@
   {
     "name": "Fundacija UAB",
     "code": "302908051",
-    "address": "Vilnius, Vilkpėdės g. 22, LT-03151"
+    "address": "Vilnius, Vilkpėdės g. 22, LT-03151",
+    "vatcode": "LT100014664610"
   },
   {
     "name": "Lenkijos firmos \"MARK\" FUNDACJA FUNDUSZ ZIEMI LODZKIEJ atstovybė",
@@ -452,7 +602,8 @@
   {
     "name": "UAB \"Fundamenta\"",
     "code": "304740613",
-    "address": "Vilniaus r. sav., Medininkų sen., Juozapinės k. 10, LT-13193"
+    "address": "Vilniaus r. sav., Medininkų sen., Juozapinės k. 10, LT-13193",
+    "vatcode": "LT100011435516"
   },
   {
     "name": "UAB Fundamental care",
@@ -468,7 +619,8 @@
   {
     "name": "MB Fundamentali banga",
     "code": "306998256",
-    "address": "Klaipėda, I. Kanto g. 19-24, LT-92239"
+    "address": "Klaipėda, I. Kanto g. 19-24, LT-92239",
+    "vatcode": "LT100017245116"
   },
   {
     "name": "Tarptautinis fundamentalių studijų universitetas",
@@ -493,7 +645,8 @@
   {
     "name": "UAB \"Stabile fundamentum\"",
     "code": "303359965",
-    "address": "Vilnius, Bajorų Sodų 2-oji g. 17-2, LT-08426"
+    "address": "Vilnius, Bajorų Sodų 2-oji g. 17-2, LT-08426",
+    "vatcode": "LT100010399813"
   },
   {
     "name": "Fundatio vilnensis medicorum labdaros ir paramos fondas",
@@ -508,7 +661,8 @@
   {
     "name": "UAB \"Fundatoriai\"",
     "code": "135699098",
-    "address": "Kaunas, Kapsų g. 22-2, LT-50175"
+    "address": "Kaunas, Kapsų g. 22-2, LT-50175",
+    "vatcode": "LT100001654813"
   },
   {
     "name": "MB Fundchat",
@@ -529,7 +683,8 @@
   {
     "name": "MB Fundify",
     "code": "306425491",
-    "address": "Vilnius, Sodų g. 9-10, LT-01313"
+    "address": "Vilnius, Sodų g. 9-10, LT-01313",
+    "vatcode": "LT100016276810"
   },
   {
     "name": "Bendrovės \"AMERICAN FUNDING CORPORATION\" filialas",
@@ -576,7 +731,8 @@
   {
     "name": "Viešoji įstaiga \"Humana Second Hand Fundraising Projects\"",
     "code": "300648904",
-    "address": "Vilnius, Kibirkšties g. 6, LT-02242"
+    "address": "Vilnius, Kibirkšties g. 6, LT-02242",
+    "vatcode": "LT100003695811"
   },
   {
     "name": "Amerikos kompanijos \"GLOBAL EXCHANGE FUNDS, Inc.\" filialas",
@@ -596,7 +752,8 @@
   {
     "name": "Mažoji bendrija \"Eu funds\"",
     "code": "306385591",
-    "address": "Vilnius, Dagiliškių g. 21B-2, LT-14187"
+    "address": "Vilnius, Dagiliškių g. 21B-2, LT-14187",
+    "vatcode": "LT100016831314"
   },
   {
     "name": "Nord funds UAB",
@@ -606,22 +763,26 @@
   {
     "name": "UAB \"Baltic Funds Management\"",
     "code": "300925625",
-    "address": "Vilnius, Užupio g. 24-9, LT-01203"
+    "address": "Vilnius, Užupio g. 24-9, LT-01203",
+    "vatcode": "LT100005718119"
   },
   {
     "name": "UAB \"Nextury funds\"",
     "code": "306275127",
-    "address": "Vilnius, Gedimino pr. 20-35, LT-01103"
+    "address": "Vilnius, Gedimino pr. 20-35, LT-01103",
+    "vatcode": "LT100015818715"
   },
   {
     "name": "UAB SEA funds",
     "code": "307046149",
-    "address": "Neringa, G. D. Kuverto g. 15G-14, LT-93127"
+    "address": "Neringa, G. D. Kuverto g. 15G-14, LT-93127",
+    "vatcode": "LT100019340510"
   },
   {
     "name": "FUNDSTR UAB",
     "code": "305201405",
-    "address": "Vilnius, Lvivo g. 105A, LT-08104"
+    "address": "Vilnius, Lvivo g. 105A, LT-08104",
+    "vatcode": "LT100014312113"
   },
   {
     "name": "\"FundTechnologies\" UAB",
@@ -657,6 +818,7 @@
   {
     "name": "UAB FUNDyou",
     "code": "305692922",
-    "address": "Vilnius, Antano Tumėno g. 4, LT-01109"
+    "address": "Vilnius, Antano Tumėno g. 4, LT-01109",
+    "vatcode": "LT100016090416"
   }
 ]

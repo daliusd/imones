@@ -2,18 +2,23 @@
   {
     "name": "Tenija, UAB",
     "code": "303045605",
-    "address": "Panevėžys, J. Žemgulio g. 46, LT-35239"
+    "address": "Panevėžys, J. Žemgulio g. 46, LT-35239",
+    "vatcode": "LT100007709312"
   },
   {
     "name": "Rimos Tenikaitienės įmonė",
     "code": "276572810",
-    "address": "Šilalės r. sav., Šilalės kaimiškoji sen., Biržų Lauko k.",
+    "address": "Šilalės r. sav., Šilalės kaimiškoji sen., Biržų Lauko k., Biržiškų g. 2, LT-75110",
     "vatcode": "LT765728113"
   },
   {
     "name": "Viešoji įstaiga \"Teniludus\"",
     "code": "305085406",
     "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Miglės g. 111, LT-14262"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Tenira\"",
+    "code": "134719110"
   },
   {
     "name": "MB Tenisas24",
@@ -62,6 +67,11 @@
     "address": "Vilnius, Pušų g. 2-8, LT-08120"
   },
   {
+    "name": "Visagino Tenisas",
+    "code": "307585716",
+    "address": "Visaginas, Visagino g. 14-30, LT-31120"
+  },
+  {
     "name": "VŠĮ Tenisas Prienuose",
     "code": "307511609",
     "address": "Prienai, Vytenio g. 22-39, LT-59140"
@@ -69,7 +79,8 @@
   {
     "name": "VšĮ \"Klaipėdos padelio tenisas\"",
     "code": "305535910",
-    "address": "Klaipėda, Taikos pr. 5-203, LT-91133"
+    "address": "Klaipėda, Taikos pr. 5-203, LT-91133",
+    "vatcode": "LT100014243319"
   },
   {
     "name": "VšĮ \"Tado Babelio tenisas\"",
@@ -344,7 +355,8 @@
   {
     "name": "MB Teniso vartai",
     "code": "307007324",
-    "address": "Kaunas, Vasarvietės g. 11E-2, LT-44104"
+    "address": "Kaunas, Vasarvietės g. 11E-2, LT-44104",
+    "vatcode": "LT100018470411"
   },
   {
     "name": "MONCIŠKIŲ PAPLŪDIMIO TENISO KLUBAS",
@@ -402,9 +414,19 @@
     "address": "Vilnius, Marcelės Kubiliūtės g. 7, LT-04224"
   },
   {
+    "name": "Prienų Teniso ir Padelio Asociacija",
+    "code": "307600043",
+    "address": "Prienai, F. Vaitkaus g. 12A-3, LT-59113"
+  },
+  {
     "name": "Prienų stalo teniso klubas",
     "code": "303400497",
     "address": "Prienai, J. Brundzos g. 3-3, LT-59127"
+  },
+  {
+    "name": "Prienų teniso klubas VšĮ",
+    "code": "307597177",
+    "address": "Prienai, Žalgirio 3-ioji g. 5, LT-59111"
   },
   {
     "name": "Prienų teniso sporto klubas",
@@ -419,7 +441,8 @@
   {
     "name": "Riešės teniso mokykla",
     "code": "305588667",
-    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Vieversių g. 20, LT-14260"
+    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Vieversių g. 20, LT-14260",
+    "vatcode": "LT100018725516"
   },
   {
     "name": "Rimanto Šerniaus teniso akademija",
@@ -564,7 +587,8 @@
   {
     "name": "UAB \"TENISO PASAULIS\"",
     "code": "125915284",
-    "address": "Vilnius, Ąžuolyno g. 7, LT-07196"
+    "address": "Vilnius, Ąžuolyno g. 7, LT-07196",
+    "vatcode": "LT259152811"
   },
   {
     "name": "UAB \"Teniso erdvė\"",
@@ -581,7 +605,8 @@
   {
     "name": "UAB Septyni Šeši teniso akademija",
     "code": "307194468",
-    "address": "Vilniaus r. sav., Riešės sen., Jadvygiškių k., Alksnynų g. 4, LT-14258"
+    "address": "Vilniaus r. sav., Riešės sen., Jadvygiškių k., Alksnynų g. 4, LT-14258",
+    "vatcode": "LT100018861115"
   },
   {
     "name": "Ugniaus lauko teniso labdaros ir paramos fondas",
@@ -600,7 +625,8 @@
   {
     "name": "Uždaroji akcinė bendrovė KLAIPĖDOS TENISO KLUBAS",
     "code": "123814710",
-    "address": "Klaipėda, H. Manto g. 31, LT-92236"
+    "address": "Klaipėda, H. Manto g. 31, LT-92236",
+    "vatcode": "LT100001776417"
   },
   {
     "name": "VARĖNOS TENISO KLUBAS",
@@ -729,6 +755,10 @@
     "address": "Vilnius, Kapsų g. 21-10, LT-02182"
   },
   {
+    "name": "Visuomeninė organizacija VILNIAUS TENISO KLUBAS \"KAROLINA\"",
+    "code": "191184536"
+  },
+  {
     "name": "VšĮ \"AS Teniso kelias\"",
     "code": "307065473",
     "address": "Panevėžys, Kalnelio g. 13, LT-37176"
@@ -751,7 +781,8 @@
   {
     "name": "VšĮ \"Klaipėdos teniso akademija\"",
     "code": "302856188",
-    "address": "Klaipėda, Dragūnų g. 7-26, LT-92331"
+    "address": "Klaipėda, Dragūnų g. 7-26, LT-92331",
+    "vatcode": "LT100009413413"
   },
   {
     "name": "VšĮ \"Pilaitės stalo teniso klubas\"",
@@ -791,7 +822,8 @@
   {
     "name": "VšĮ \"Teniso slėnis\"",
     "code": "303126936",
-    "address": "Plungė, Lentpjūvės g. 26, LT-90117"
+    "address": "Plungė, Lentpjūvės g. 26, LT-90117",
+    "vatcode": "LT100014913115"
   },
   {
     "name": "VšĮ \"Teniso stilius\"",
@@ -886,12 +918,18 @@
   {
     "name": "VšĮ Pilaitės teniso klubas",
     "code": "304565847",
-    "address": "Vilnius, Tilžės g. 15, LT-06247"
+    "address": "Vilnius, Tilžės g. 15, LT-06247",
+    "vatcode": "LT100011025614"
   },
   {
     "name": "VšĮ Sabeckio teniso akademija",
     "code": "306998612",
     "address": "Kaunas, Leipalingio g. 6A-14, LT-46426"
+  },
+  {
+    "name": "VšĮ Set Reset Teniso Klubas",
+    "code": "307593983",
+    "address": "Klaipėda, Ragainės g. 13-29, LT-92196"
   },
   {
     "name": "VšĮ Teniso klubas \"Žalia varlė\"",
@@ -932,6 +970,10 @@
     "name": "Šiaulių m. teniso klubas \"Senas parkas\"",
     "code": "293247580",
     "address": "Šiauliai, S. Lukauskio g. 7, LT-76236"
+  },
+  {
+    "name": "Šiaulių miesto žolės riedulio teniso klubas \"Šiauliai\"",
+    "code": "193290132"
   },
   {
     "name": "Šiaulių teniso akademija",
@@ -977,12 +1019,14 @@
   {
     "name": "UAB \"Viskas tenisui\"",
     "code": "160430947",
-    "address": "Kauno r. sav., Taurakiemio sen., Piliuonos k., Piliakalnio g. 4, LT-53185"
+    "address": "Kauno r. sav., Taurakiemio sen., Piliuonos k., Piliakalnio g. 4, LT-53185",
+    "vatcode": "LT604309410"
   },
   {
     "name": "UAB \"TENITA\"",
     "code": "225325690",
-    "address": "Vilnius, Žirmūnų g. 36-46, LT-09228"
+    "address": "Vilnius, Žirmūnų g. 36-46, LT-09228",
+    "vatcode": "LT253256917"
   },
   {
     "name": "Raimundo Teniuko įmonė",

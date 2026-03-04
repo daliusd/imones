@@ -7,7 +7,8 @@
   {
     "name": "MB Natura Vida",
     "code": "307071985",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
+    "vatcode": "LT100017538711"
   },
   {
     "name": "UAB \"ViDa investicija\"",
@@ -26,7 +27,8 @@
   {
     "name": "UAB \"VIDAILA\"",
     "code": "148201028",
-    "address": "Panevėžys, Margių g. 22-33, LT-36200"
+    "address": "Panevėžys, Margių g. 22-33, LT-36200",
+    "vatcode": "LT482010219"
   },
   {
     "name": "MB \"Vidaimeta\"",
@@ -47,7 +49,8 @@
   {
     "name": "UAB \"Vidalis\"",
     "code": "304058089",
-    "address": "Vilnius, Veiverių g. 9B-62, LT-11346"
+    "address": "Vilnius, Veiverių g. 9B-62, LT-11346",
+    "vatcode": "LT100009545014"
   },
   {
     "name": "UAB VIDALOKA",
@@ -57,7 +60,8 @@
   {
     "name": "UAB \"Vidalsta\"",
     "code": "301753598",
-    "address": "Vilnius, Vyšnių g. 4-20, LT-02173"
+    "address": "Vilnius, Vyšnių g. 4-20, LT-02173",
+    "vatcode": "LT100004163413"
   },
   {
     "name": "UAB \"Vidalta\"",
@@ -67,7 +71,8 @@
   {
     "name": "UAB \"Vidalva\"",
     "code": "300118126",
-    "address": "Kaunas, J. I. Kraševskio g. 24, LT-50281"
+    "address": "Kaunas, J. I. Kraševskio g. 24, LT-50281",
+    "vatcode": "LT100006504313"
   },
   {
     "name": "UAB Vidamarina",
@@ -101,6 +106,10 @@
     "name": "Uždarosios akcinės bendrovės \"Vidara\" Kalvarijos filialas",
     "code": "165776230",
     "address": "Kalvarija, Laisvės g. 7, LT-69206"
+  },
+  {
+    "name": "V. Gružausko individuali įmonė \"Vidas ir partneriai\"",
+    "code": "300038872"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Vidasa\"",
@@ -147,7 +156,8 @@
   {
     "name": "Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos",
     "code": "188729923",
-    "address": "Vilnius, Šventaragio g. 2, LT-01510"
+    "address": "Vilnius, Šventaragio g. 2, LT-01510",
+    "vatcode": "LT887299219"
   },
   {
     "name": "Klaipėdos apskrities vidaus reikalų sistemos profesinė sąjunga",
@@ -177,7 +187,8 @@
   {
     "name": "MB \"DJ vidaus apdaila\"",
     "code": "305927587",
-    "address": "Kretingos r. sav., Kretingos sen., Rūdaičių k., Mokyklos g. 23, LT-97230"
+    "address": "Kretingos r. sav., Kretingos sen., Rūdaičių k., Mokyklos g. 23, LT-97230",
+    "vatcode": "LT100016368816"
   },
   {
     "name": "MB \"MG vidaus apdaila\"",
@@ -192,7 +203,8 @@
   {
     "name": "MB \"Vidaus apdaila Jums\"",
     "code": "304895453",
-    "address": "Kaunas, Karaliaus Mindaugo pr. 68-16, LT-44351"
+    "address": "Kaunas, Karaliaus Mindaugo pr. 68-16, LT-44351",
+    "vatcode": "LT100014229414"
   },
   {
     "name": "MB \"Vidaus apdaila\"",
@@ -202,12 +214,14 @@
   {
     "name": "MB \"Vidaus apdailos broliai\"",
     "code": "306965669",
-    "address": "Vilnius, Vaduvos g. 22-39, LT-02307"
+    "address": "Vilnius, Vaduvos g. 22-39, LT-02307",
+    "vatcode": "LT100017525810"
   },
   {
     "name": "MB \"Vidaus apdailos technologijos\"",
     "code": "304889404",
-    "address": "Molėtų r. sav., Videniškių sen., Krupelių k., Upės g. 47, LT-33290"
+    "address": "Molėtų r. sav., Videniškių sen., Krupelių k., Upės g. 47, LT-33290",
+    "vatcode": "LT100011804118"
   },
   {
     "name": "MB \"Vidaus darbai\"",
@@ -217,7 +231,8 @@
   {
     "name": "MB \"Vidaus ir lauko apdaila Klaipėdoje\"",
     "code": "304983120",
-    "address": "Klaipėda, Kaštonų g. 8 K4-127, LT-92206"
+    "address": "Klaipėda, Kaštonų g. 8 K4-127, LT-92206",
+    "vatcode": "LT100012100812"
   },
   {
     "name": "MB \"Vidaus ir lauko inžinerija\"",
@@ -234,6 +249,11 @@
     "name": "MB M&T MATAS vidaus ir išorės apdaila",
     "code": "305592861",
     "address": "Neringa, Preilos g. 2A-3, LT-93130"
+  },
+  {
+    "name": "MB NN vidaus apdailos darbai",
+    "code": "307596965",
+    "address": "Prienai, Vytauto g. 27-81, LT-59124"
   },
   {
     "name": "MB Pilna vidaus apdaila",
@@ -253,37 +273,26 @@
   {
     "name": "Mažoji bendrija Vidaus linija",
     "code": "307545789",
-    "address": "Alytaus r. sav., Pivašiūnų sen., Būdos k. 9, LT-62191"
+    "address": "Alytaus r. sav., Pivašiūnų sen., Būdos k. 9, LT-62191",
+    "vatcode": "LT100019572611"
   },
   {
     "name": "Migracijos departamentas prie Lietuvos Respublikos Vidaus reikalų ministerijos",
     "code": "188610666",
-    "address": "Vilnius, L. Sapiegos g. 1, LT-10312"
-  },
-  {
-    "name": "Pasvalio rajono vidaus reikalų sistemos darbuotojų profesinė sąjunga",
-    "code": "169282777",
-    "address": "Pasvalys, Gėlių g. 4-19, LT-39142"
-  },
-  {
-    "name": "Plungės raj. vidaus reikalų sistemos darbuotojų profesinė sąjunga",
-    "code": "171042091",
-    "address": "Plungė, Vytauto g. 1, LT-90123"
+    "address": "Vilnius, L. Sapiegos g. 1, LT-10312",
+    "vatcode": "LT100013621913"
   },
   {
     "name": "Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos",
     "code": "188785847",
-    "address": "Vilnius, Saltoniškių g. 19, LT-08106"
+    "address": "Vilnius, Saltoniškių g. 19, LT-08106",
+    "vatcode": "LT100005428413"
   },
   {
     "name": "Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos",
     "code": "188601311",
-    "address": "Vilnius, Švitrigailos g. 18, LT-03223"
-  },
-  {
-    "name": "Raseinių raj. vidaus reikalų sistemos darbuotojų profesinė sąjunga",
-    "code": "172435069",
-    "address": "Raseiniai, T. Daugirdo g. 8, LT-60151"
+    "address": "Vilnius, Švitrigailos g. 18, LT-03223",
+    "vatcode": "LT886013113"
   },
   {
     "name": "Telšių apskrities Vidaus Reikalų Sistemos darbuotojų profesinė sąjunga",
@@ -315,12 +324,18 @@
   {
     "name": "UAB \"Vidaus inžineriniai tinklai\"",
     "code": "303824357",
-    "address": "Kėdainiai, Rūtų g. 19, LT-57190"
+    "address": "Kėdainiai, Rūtų g. 19, LT-57190",
+    "vatcode": "LT100009247617"
+  },
+  {
+    "name": "UAB \"Vidaus tinklų inžinieriai\"",
+    "code": "303195334"
   },
   {
     "name": "VIDAUS AUDITORIŲ ASOCIACIJA",
     "code": "124111729",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100017938414"
   },
   {
     "name": "VIDAUS TARNYBOS GENEROLŲ KLUBAS",
@@ -335,12 +350,8 @@
   {
     "name": "Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos",
     "code": "188608252",
-    "address": "Vilnius, Savanorių pr. 2, LT-03116"
-  },
-  {
-    "name": "Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos Lazdijų rinktinės profesinė sąjunga",
-    "code": "291998450",
-    "address": "Lazdijų r. sav., Lazdijų sen., Dumblio k."
+    "address": "Vilnius, Savanorių pr. 2, LT-03116",
+    "vatcode": "LT886082515"
   },
   {
     "name": "Vidaus Forma, MB",
@@ -355,7 +366,8 @@
   {
     "name": "Vidaus instaliacija, UAB",
     "code": "304882395",
-    "address": "Kauno r. sav., Alšėnų sen., Mastaičių k., Samanų g. 16, LT-53306"
+    "address": "Kauno r. sav., Alšėnų sen., Mastaičių k., Samanų g. 16, LT-53306",
+    "vatcode": "LT100013289311"
   },
   {
     "name": "Vidaus ir Lauko šaudyklų asociacija",

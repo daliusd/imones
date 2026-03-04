@@ -1,5 +1,9 @@
 [
   {
+    "name": "Asociacija \"Gamta visų namai\"",
+    "code": "301675135"
+  },
+  {
     "name": "Gamta ir kultūra VšĮ",
     "code": "305928098",
     "address": "Švenčionių r. sav., Labanoro sen., Laukagalio k. 9, LT-18235"
@@ -98,12 +102,14 @@
   {
     "name": "UAB Gamta ir energija",
     "code": "302648276",
-    "address": "Kaunas, S. Raštikio g. 17, LT-50144"
+    "address": "Kaunas, S. Raštikio g. 17, LT-50144",
+    "vatcode": "LT100006359812"
   },
   {
     "name": "UAB Unikali gamta",
     "code": "305849793",
-    "address": "Anykščių r. sav., Skiemonių sen., Paežerių I k. 4, LT-29225"
+    "address": "Anykščių r. sav., Skiemonių sen., Paežerių I k. 4, LT-29225",
+    "vatcode": "LT100014704315"
   },
   {
     "name": "Viešoji įstaiga \"Gamta ir aš\"",
@@ -133,7 +139,8 @@
   {
     "name": "UAB \"Technika gamtai\"",
     "code": "304096951",
-    "address": "Vilniaus r. sav., Buivydžių sen., Buivydžių II k. 1, LT-15213"
+    "address": "Vilniaus r. sav., Buivydžių sen., Buivydžių II k. 1, LT-15213",
+    "vatcode": "LT100009687510"
   },
   {
     "name": "VšĮ \"Paslaugos gamtai\"",
@@ -153,7 +160,8 @@
   {
     "name": "MB \"Gamtara\"",
     "code": "306716828",
-    "address": "Marijampolė, R. Juknevičiaus g. 19-10, LT-68186"
+    "address": "Marijampolė, R. Juknevičiaus g. 19-10, LT-68186",
+    "vatcode": "LT100017324810"
   },
   {
     "name": "MB \"Gamtaurus\"",
@@ -164,12 +172,18 @@
   {
     "name": "Mažoji bendrija Gamtava",
     "code": "305630486",
-    "address": "Ukmergės r. sav., Pivonijos sen., Alionių k., Kalno g. 22, LT-20101"
+    "address": "Ukmergės r. sav., Pivonijos sen., Alionių k., Kalno g. 22, LT-20101",
+    "vatcode": "LT100015398812"
   },
   {
     "name": "IĮ \"Gamtecha\"",
     "code": "305720784",
     "address": "Klaipėdos r. sav., Sendvario sen., Martinų k., Rogainių g. 64, LT-91283"
+  },
+  {
+    "name": "MB \"GAMTIKA\"",
+    "code": "307601647",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "Antazavės gamtininkų ir menininkų namai",
@@ -230,7 +244,8 @@
   {
     "name": "UAB \"Gamtogrąža\"",
     "code": "305937325",
-    "address": "Akmenės r. sav., Naujosios Akmenės kaimiškoji sen., Alkiškių k., Alkiškių g. 29, LT-85270"
+    "address": "Akmenės r. sav., Naujosios Akmenės kaimiškoji sen., Alkiškių k., Alkiškių g. 29, LT-85270",
+    "vatcode": "LT100014582712"
   },
   {
     "name": "MB \"Gamtoje\"",
@@ -257,6 +272,11 @@
     "name": "VšĮ \"Akademija gamtoje\"",
     "code": "305734200",
     "address": "Raseinių r. sav., Kalnujų sen., Palendrių k., Klevų g. 13, LT-60320"
+  },
+  {
+    "name": "VšĮ \"Šimašius gamtoje\"",
+    "code": "307587902",
+    "address": "Plungės r. sav., Stalgėnų sen., Milašaičių k., Pakalnės g. 5, LT-90355"
   },
   {
     "name": "\"Ekstremalūs gamtos namai\"",
@@ -323,7 +343,8 @@
   {
     "name": "Gamtos galia UAB",
     "code": "307050165",
-    "address": "Vilnius, Žalgirio g. 92, LT-09303"
+    "address": "Vilnius, Žalgirio g. 92, LT-09303",
+    "vatcode": "LT100017551113"
   },
   {
     "name": "Gamtos gėrybės MB",
@@ -338,7 +359,8 @@
   {
     "name": "Gamtos paveldo fondas",
     "code": "125606786",
-    "address": "Vilnius, A. Vivulskio g. 41-113, LT-03114"
+    "address": "Vilnius, A. Vivulskio g. 41-113, LT-03114",
+    "vatcode": "LT100001983019"
   },
   {
     "name": "Gamtos tyrimų centro Profesinė sąjunga",
@@ -414,7 +436,8 @@
   {
     "name": "MB \"Gamtos draugai\"",
     "code": "306961336",
-    "address": "Kauno r. sav., Garliava, Gedimino g. 32-13, LT-53254"
+    "address": "Kauno r. sav., Garliava, Gedimino g. 32-13, LT-53254",
+    "vatcode": "LT100017767617"
   },
   {
     "name": "MB \"Gamtos girnos\"",
@@ -429,7 +452,8 @@
   {
     "name": "MB \"Gamtos kvapai\"",
     "code": "306285609",
-    "address": "Vilnius, Gėlių g. 4-R1, LT-01137"
+    "address": "Vilnius, Gėlių g. 4-R1, LT-01137",
+    "vatcode": "LT100015870511"
   },
   {
     "name": "MB \"Gamtos laboratorija\"",
@@ -466,7 +490,8 @@
   {
     "name": "MB \"Įkvėpti gamtos\"",
     "code": "305888682",
-    "address": "Kretingos r. sav., Kūlupėnų sen., Sauserių k. 6A, LT-97330"
+    "address": "Kretingos r. sav., Kūlupėnų sen., Sauserių k. 6A, LT-97330",
+    "vatcode": "LT100016203214"
   },
   {
     "name": "MB Arčiau gamtos",
@@ -487,7 +512,8 @@
   {
     "name": "MB Gamtos istorija",
     "code": "305863309",
-    "address": "Vilnius, Šeimyniškių g. 21D-17, LT-09236"
+    "address": "Vilnius, Šeimyniškių g. 21D-17, LT-09236",
+    "vatcode": "LT100014294414"
   },
   {
     "name": "MB Gamtos namai",
@@ -517,7 +543,8 @@
   {
     "name": "MB Gamtos tekstilė",
     "code": "306949191",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Karklės k., Pajūrio tak. 19, LT-92383"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Karklės k., Pajūrio tak. 19, LT-92383",
+    "vatcode": "LT100018225918"
   },
   {
     "name": "MB Gėrybės iš gamtos",
@@ -527,7 +554,8 @@
   {
     "name": "MB Sveikata iš gamtos",
     "code": "306127616",
-    "address": "Kauno r. sav., Domeikavos sen., Žemaitkiemio k., Žalčio g. 20, LT-54340"
+    "address": "Kauno r. sav., Domeikavos sen., Žemaitkiemio k., Žalčio g. 20, LT-54340",
+    "vatcode": "LT100015210711"
   },
   {
     "name": "Mažoji bendrija \"Gamtos balansas\"",
@@ -538,12 +566,14 @@
   {
     "name": "Mažoji bendrija Gamtos lizdas",
     "code": "307506074",
-    "address": "Vilnius, Priegliaus g. 10-30, LT-06293"
+    "address": "Vilnius, Priegliaus g. 10-30, LT-06293",
+    "vatcode": "LT100019325919"
   },
   {
     "name": "Mažoji bendrija IŠ GAMTOS",
     "code": "305591439",
-    "address": "Kėdainiai, Eglių g. 55, LT-57322"
+    "address": "Kėdainiai, Eglių g. 55, LT-57322",
+    "vatcode": "LT100017388513"
   },
   {
     "name": "Panevėžio gamtos mokykla",
@@ -588,7 +618,8 @@
   {
     "name": "UAB \"Gamtos puokštė\"",
     "code": "142013820",
-    "address": "Gargždai, J. Janonio g. 13-25, LT-96138"
+    "address": "Gargždai, J. Janonio g. 13-25, LT-96138",
+    "vatcode": "LT420138219"
   },
   {
     "name": "UAB \"Gamtos skonis\"",
@@ -603,12 +634,14 @@
   {
     "name": "UAB \"Gamtos turtai\"",
     "code": "304045444",
-    "address": "Klaipėda, Grįžgatvio g. 3-9, LT-91249"
+    "address": "Klaipėda, Grįžgatvio g. 3-9, LT-91249",
+    "vatcode": "LT100012699914"
   },
   {
     "name": "UAB \"Gamtos valdos\"",
     "code": "300576853",
-    "address": "Vilnius, Jurgio Baltrušaičio g. 11-122, LT-06145"
+    "address": "Vilnius, Jurgio Baltrušaičio g. 11-122, LT-06145",
+    "vatcode": "LT100003383617"
   },
   {
     "name": "UAB \"Gamtos šalis\"",
@@ -619,7 +652,8 @@
   {
     "name": "UAB GAMTOS ENERGETIKA",
     "code": "302803698",
-    "address": "Vilnius, A. Goštauto g. 8-100, LT-01108"
+    "address": "Vilnius, A. Goštauto g. 8-100, LT-01108",
+    "vatcode": "LT100007010111"
   },
   {
     "name": "UAB GAMTOS SINERGIJA",
@@ -629,7 +663,8 @@
   {
     "name": "UAB Gamtos kodas",
     "code": "300060776",
-    "address": "Vilniaus r. sav., Bezdonių sen., Bezdonių k., Užupio g. 53, LT-15203"
+    "address": "Vilniaus r. sav., Bezdonių sen., Bezdonių k., Užupio g. 53, LT-15203",
+    "vatcode": "LT100018585113"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"GAMTOS PASAULIS\"",
@@ -639,7 +674,12 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Gamtos energija\"",
     "code": "280885330",
-    "address": "Telšių r. sav., Viešvėnų sen., Rainių k., Telšių g. 2P, LT-88401"
+    "address": "Telšių r. sav., Viešvėnų sen., Rainių k., Telšių g. 2P, LT-88401",
+    "vatcode": "LT808853314"
+  },
+  {
+    "name": "VILNIAUS UNIVERSITETO GAMTOS MOKSLŲ FAKULTETO STUDENTŲ ATSTOVYBĖ",
+    "code": "125540012"
   },
   {
     "name": "Valstybinis mokslinių tyrimų institutas Gamtos tyrimų centras",
@@ -730,7 +770,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"GAMTOVAIZDIS\"",
     "code": "124825528",
-    "address": "Vilnius, Kareivių g. 9A, LT-09108"
+    "address": "Vilnius, Kareivių g. 9A, LT-09108",
+    "vatcode": "LT248255219"
   },
   {
     "name": "MB \"Gamtukas\"",

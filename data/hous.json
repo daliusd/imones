@@ -27,17 +27,20 @@
   {
     "name": "\"Sales House LT\", UAB",
     "code": "307154502",
-    "address": "Vilnius, Veiverių g. 9B-62, LT-11346"
+    "address": "Vilnius, Veiverių g. 9B-62, LT-11346",
+    "vatcode": "LT100019403219"
   },
   {
     "name": "\"Uzmetkombinat\" Europe Trading house, UAB",
     "code": "306101849",
-    "address": "Vilniaus m. sav."
+    "address": "Vilniaus m. sav.",
+    "vatcode": "LT100015174515"
   },
   {
     "name": "Baltic business house, UAB",
     "code": "305655308",
-    "address": "Klaipėda, H. Manto g. 50-1, LT-92223"
+    "address": "Klaipėda, H. Manto g. 50-1, LT-92223",
+    "vatcode": "LT100016053011"
   },
   {
     "name": "Bendra Lietuvos ir Vokietijos įmonė uždaroji akcinė bendrovė \"Baltic Noble House Trading Company\"",
@@ -52,7 +55,8 @@
   {
     "name": "EBE house UAB",
     "code": "305938085",
-    "address": "Marijampolė, Naujakurių g. 5, LT-68263"
+    "address": "Marijampolė, Naujakurių g. 5, LT-68263",
+    "vatcode": "LT100014577716"
   },
   {
     "name": "ELECTRONIC HOUSE, UAB",
@@ -80,17 +84,24 @@
   {
     "name": "Hempa House, MB",
     "code": "307024989",
-    "address": "Kaunas, S. Dariaus ir S. Girėno g. 22-8, LT-46251"
+    "address": "Kaunas, S. Dariaus ir S. Girėno g. 22-8, LT-46251",
+    "vatcode": "LT100019448410"
   },
   {
     "name": "House LT, MB",
     "code": "305694752",
-    "address": "Palanga, Miško tak. 75, LT-00332"
+    "address": "Palanga, Miško tak. 75, LT-00332",
+    "vatcode": "LT100013824811"
   },
   {
     "name": "House of Intimates, MB",
     "code": "306017109",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "IĮ \"AJ HOUSE\"",
+    "code": "300601025",
+    "address": "Vilnius, Taikos g. 13-3, LT-05262"
   },
   {
     "name": "IĮ \"E&L&A Language House\"",
@@ -100,12 +111,17 @@
   {
     "name": "JDream House, UAB",
     "code": "306175689",
-    "address": "Vilnius, Dariaus ir Girėno g. 5D-19, LT-02158"
+    "address": "Vilnius, Dariaus ir Girėno g. 5D-19, LT-02158",
+    "vatcode": "LT100015486018"
   },
   {
     "name": "Light Steel House UAB",
     "code": "307464173",
     "address": "Vilnius, Jurgio Baltrušaičio g. 11-124, LT-06145"
+  },
+  {
+    "name": "MAŽOJI BENDRIJA \"GLULAM HOUSE\"",
+    "code": "305217402"
   },
   {
     "name": "MB \"AB beauty therapy house\"",
@@ -139,6 +155,11 @@
     "address": "Akmenės r. sav., Ventos sen., Ventos k., Tujų g. 4-4, LT-85302"
   },
   {
+    "name": "MB \"Bingel House\"",
+    "code": "307588819",
+    "address": "Kaunas, Giraitės g. 1, LT-52351"
+  },
+  {
     "name": "MB \"Bio Beauty House\"",
     "code": "306962947",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -151,7 +172,8 @@
   {
     "name": "MB \"Broker House\"",
     "code": "306178016",
-    "address": "Klaipėdos r. sav., Dovilų sen., Kulių k., Kulių 2-oji g. 8, LT-95405"
+    "address": "Klaipėdos r. sav., Dovilų sen., Kulių k., Kulių 2-oji g. 8, LT-95405",
+    "vatcode": "LT100015720710"
   },
   {
     "name": "MB \"Car house\"",
@@ -186,12 +208,14 @@
   {
     "name": "MB \"ELITE HOUSE\"",
     "code": "306487087",
-    "address": "Vilnius, Trinapolio g. 21, LT-08344"
+    "address": "Vilnius, Trinapolio g. 21, LT-08344",
+    "vatcode": "LT100016320418"
   },
   {
     "name": "MB \"Easy house\"",
     "code": "305883308",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100015281216"
   },
   {
     "name": "MB \"GV house\"",
@@ -207,7 +231,8 @@
   {
     "name": "MB \"Heydekrug house\"",
     "code": "305711276",
-    "address": "Šilutė, Žalgirio g. 3-10, LT-99176"
+    "address": "Šilutė, Žalgirio g. 3-10, LT-99176",
+    "vatcode": "LT100013856818"
   },
   {
     "name": "MB \"House hub\"",
@@ -222,7 +247,8 @@
   {
     "name": "MB \"If house\"",
     "code": "307104321",
-    "address": "Vilnius, Pustabalių g. 8, LT-02212"
+    "address": "Vilnius, Pustabalių g. 8, LT-02212",
+    "vatcode": "LT100019092614"
   },
   {
     "name": "MB \"LILY Beauty House\"",
@@ -262,12 +288,14 @@
   {
     "name": "MB \"Projects house\"",
     "code": "305889186",
-    "address": "Kaunas, M. Riomerio g. 10-7, LT-51469"
+    "address": "Kaunas, M. Riomerio g. 10-7, LT-51469",
+    "vatcode": "LT100015891817"
   },
   {
     "name": "MB \"RIR Prop House\"",
     "code": "305976374",
-    "address": "Vilnius, V. Grybo g. 5-3, LT-10313"
+    "address": "Vilnius, V. Grybo g. 5-3, LT-10313",
+    "vatcode": "LT100014854312"
   },
   {
     "name": "MB \"SD House\"",
@@ -287,7 +315,8 @@
   {
     "name": "MB \"Sparrow house\"",
     "code": "307557026",
-    "address": "Vilnius, Džiaugsmo g. 77, LT-11302"
+    "address": "Vilnius, Džiaugsmo g. 77, LT-11302",
+    "vatcode": "LT100019567211"
   },
   {
     "name": "MB \"Student Coffee House\"",
@@ -312,17 +341,20 @@
   {
     "name": "MB \"Video production house\"",
     "code": "305567452",
-    "address": "Vilnius, Mindaugo g. 27-146, LT-03210"
+    "address": "Vilnius, Mindaugo g. 27-146, LT-03210",
+    "vatcode": "LT100015317715"
   },
   {
     "name": "MB \"Visual marketing house\"",
     "code": "305639745",
-    "address": "Plungės r. sav., Paukštakių sen., Nugarių k., Piliakalnio g. 2, LT-90486"
+    "address": "Plungės r. sav., Paukštakių sen., Nugarių k., Piliakalnio g. 2, LT-90486",
+    "vatcode": "LT100017293715"
   },
   {
     "name": "MB \"Winter house\"",
     "code": "305933622",
-    "address": "Pakruojo r. sav., Pašvitinio sen., Mikniūnų k., Trivalakių g. 56, LT-83321"
+    "address": "Pakruojo r. sav., Pašvitinio sen., Mikniūnų k., Trivalakių g. 56, LT-83321",
+    "vatcode": "LT100017701019"
   },
   {
     "name": "MB Accounting House LT",
@@ -354,7 +386,8 @@
   {
     "name": "MB Archi house",
     "code": "307183977",
-    "address": "Kaunas, Siūlų g. 5-2, LT-45196"
+    "address": "Kaunas, Siūlų g. 5-2, LT-45196",
+    "vatcode": "LT100018529112"
   },
   {
     "name": "MB Blueberry house",
@@ -364,12 +397,14 @@
   {
     "name": "MB CFO House",
     "code": "307534419",
-    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
+    "vatcode": "LT100019550419"
   },
   {
     "name": "MB CV house",
     "code": "305443903",
-    "address": "Kėdainių r. sav., Dotnuvos sen., Beržų k., Ąžuolų g. 3, LT-58360"
+    "address": "Kėdainių r. sav., Dotnuvos sen., Beržų k., Ąžuolų g. 3, LT-58360",
+    "vatcode": "LT100013704516"
   },
   {
     "name": "MB Chic beauty house LT",
@@ -440,7 +475,8 @@
   {
     "name": "MB House of saku",
     "code": "305654334",
-    "address": "Vilnius, Šatrininkų g. 11A-1, LT-11332"
+    "address": "Vilnius, Šatrininkų g. 11A-1, LT-11332",
+    "vatcode": "LT100013636619"
   },
   {
     "name": "MB House service",
@@ -455,17 +491,20 @@
   {
     "name": "MB JEN House",
     "code": "307494177",
-    "address": "Molėtų r. sav., Luokesos sen., Ažubalių k., Moletūno g. 15A, LT-33103"
+    "address": "Molėtų r. sav., Luokesos sen., Ažubalių k., Moletūno g. 15A, LT-33103",
+    "vatcode": "LT100019173412"
   },
   {
     "name": "MB Jonas House",
     "code": "307464547",
-    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Samanų g. 8-1, LT-14263"
+    "address": "Vilniaus r. sav., Riešės sen., Didžiosios Riešės k., Samanų g. 8-1, LT-14263",
+    "vatcode": "LT100019186515"
   },
   {
     "name": "MB Kame house",
     "code": "307162043",
-    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Gilių g. 2-2, LT-54307"
+    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Gilių g. 2-2, LT-54307",
+    "vatcode": "LT100018641612"
   },
   {
     "name": "MB LEANI BEAUTY HOUSE",
@@ -491,12 +530,14 @@
   {
     "name": "MB Moto house",
     "code": "305987449",
-    "address": "Ignalinos r. sav., Linkmenų sen., Linkmenų k., Bažnyčios g. 34, LT-30211"
+    "address": "Ignalinos r. sav., Linkmenų sen., Linkmenų k., Bažnyčios g. 34, LT-30211",
+    "vatcode": "LT100015603018"
   },
   {
     "name": "MB Motor house",
     "code": "307404728",
-    "address": "Kaunas, Šv. Gertrūdos g. 22-1, LT-44260"
+    "address": "Kaunas, Šv. Gertrūdos g. 22-1, LT-44260",
+    "vatcode": "LT100018823314"
   },
   {
     "name": "MB New House Solution",
@@ -521,6 +562,11 @@
     "vatcode": "LT100016663713"
   },
   {
+    "name": "MB Prive Hair House",
+    "code": "307578426",
+    "address": "Vilnius, Algirdo g. 50-98, LT-03209"
+  },
+  {
     "name": "MB Renewable House",
     "code": "306344242",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
@@ -534,12 +580,14 @@
   {
     "name": "MB Rpg house",
     "code": "306281272",
-    "address": "Kaunas, Geležinio Vilko g. 20-41, LT-49276"
+    "address": "Kaunas, Geležinio Vilko g. 20-41, LT-49276",
+    "vatcode": "LT100017735215"
   },
   {
     "name": "MB Rs house",
     "code": "306304408",
-    "address": "Kaišiadorių r. sav., Žiežmarių apylinkės sen., Burbiškių k., Alyvų g. 11, LT-56206"
+    "address": "Kaišiadorių r. sav., Žiežmarių apylinkės sen., Burbiškių k., Alyvų g. 11, LT-56206",
+    "vatcode": "LT100016077816"
   },
   {
     "name": "MB Sky House",
@@ -554,7 +602,8 @@
   {
     "name": "MB Strong house",
     "code": "306247665",
-    "address": "Šiaulių r. sav., Kuršėnai, Gergždelių g. 9, LT-81140"
+    "address": "Šiaulių r. sav., Kuršėnai, Gergždelių g. 9, LT-81140",
+    "vatcode": "LT100015763714"
   },
   {
     "name": "MB Summer house special",
@@ -573,14 +622,21 @@
     "vatcode": "LT100015762110"
   },
   {
+    "name": "MB Take-Off Production House",
+    "code": "307580740",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
+  },
+  {
     "name": "MB Team in-house",
     "code": "306218222",
-    "address": "Vilnius, I. Kanto al. 24-1, LT-06215"
+    "address": "Vilnius, I. Kanto al. 24-1, LT-06215",
+    "vatcode": "LT100016064511"
   },
   {
     "name": "MB Trio House",
     "code": "307475312",
-    "address": "Utena, Bokšto g. 57, LT-28175"
+    "address": "Utena, Bokšto g. 57, LT-28175",
+    "vatcode": "LT100019105115"
   },
   {
     "name": "MB Urbo House",
@@ -596,12 +652,14 @@
   {
     "name": "MB Volleyart House",
     "code": "307197489",
-    "address": "Vilnius, Dailidžių g. 2A, LT-01210"
+    "address": "Vilnius, Dailidžių g. 2A, LT-01210",
+    "vatcode": "LT100018754116"
   },
   {
     "name": "MB Warm House LT",
     "code": "306124417",
-    "address": "Vilnius, Grendavės g. 157, LT-25126"
+    "address": "Vilnius, Grendavės g. 157, LT-25126",
+    "vatcode": "LT100015184517"
   },
   {
     "name": "MB Wheels House",
@@ -614,14 +672,21 @@
     "address": "Vilnius, Šv. Stepono g. 7, LT-01139"
   },
   {
+    "name": "MILLS HOUSE, MB",
+    "code": "307594843",
+    "address": "Vilnius, Pavilnionių g. 71-9, LT-06257"
+  },
+  {
     "name": "Mažoji bendrija Alpa house",
     "code": "305659908",
-    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Elnių g. 2-1, LT-53363"
+    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Elnių g. 2-1, LT-53363",
+    "vatcode": "LT100014770116"
   },
   {
     "name": "Mažoji bendrija Esea house",
     "code": "307196704",
-    "address": "Vilnius, Mindaugo g. 14B-22A, LT-03225"
+    "address": "Vilnius, Mindaugo g. 14B-22A, LT-03225",
+    "vatcode": "LT100019003112"
   },
   {
     "name": "Mažoji bendrija Fish house",
@@ -632,12 +697,14 @@
   {
     "name": "Mažoji bendrija Horeca house",
     "code": "306725745",
-    "address": "Vilnius, Vytenio g. 50-50, LT-03229"
+    "address": "Vilnius, Vytenio g. 50-50, LT-03229",
+    "vatcode": "LT100018540416"
   },
   {
     "name": "Mažoji bendrija House of wheels",
     "code": "306382595",
-    "address": "Marijampolė, Žalioji g. 26, LT-68111"
+    "address": "Marijampolė, Žalioji g. 26, LT-68111",
+    "vatcode": "LT100016351519"
   },
   {
     "name": "Pajinės bendrovės \"AT House\" Klaipėdos filialas",
@@ -678,7 +745,8 @@
   {
     "name": "UAB \"Augustine house plius\"",
     "code": "302880374",
-    "address": "Vilnius, Jono Kazimiero Vilčinskio g. 7, LT-04224"
+    "address": "Vilnius, Jono Kazimiero Vilčinskio g. 7, LT-04224",
+    "vatcode": "LT100007202414"
   },
   {
     "name": "UAB \"Augustine house\"",
@@ -688,12 +756,14 @@
   {
     "name": "UAB \"Aurinda house\"",
     "code": "305837111",
-    "address": "Telšiai, Šviesos g. 29-8, LT-87124"
+    "address": "Telšiai, Šviesos g. 29-8, LT-87124",
+    "vatcode": "LT100016471419"
   },
   {
     "name": "UAB \"BPO House\"",
     "code": "163270095",
-    "address": "Vilnius, Spaudos g. 7, LT-05132"
+    "address": "Vilnius, Spaudos g. 7, LT-05132",
+    "vatcode": "LT632700917"
   },
   {
     "name": "UAB \"BSG house\"",
@@ -704,7 +774,8 @@
   {
     "name": "UAB \"Baltic Printing House\"",
     "code": "300623413",
-    "address": "Klaipėda, Svajonės g. 40, LT-94101"
+    "address": "Klaipėda, Svajonės g. 40, LT-94101",
+    "vatcode": "LT100002912610"
   },
   {
     "name": "UAB \"Baltic Trading House\"",
@@ -752,18 +823,14 @@
   {
     "name": "UAB \"Consul Trade House\"",
     "code": "302284716",
-    "address": "Vilnius, Gedimino pr. 35, LT-01109"
+    "address": "Vilnius, Gedimino pr. 35, LT-01109",
+    "vatcode": "LT100012331512"
   },
   {
     "name": "UAB \"Data House\"",
     "code": "300529024",
-    "address": "Vilnius, Savanorių pr. 1, LT-03116"
-  },
-  {
-    "name": "UAB \"Delici House\"",
-    "code": "305688518",
-    "address": "Vilnius, Rinktinės g. 5-101, LT-09234",
-    "vatcode": "LT100014876414"
+    "address": "Vilnius, Savanorių pr. 1, LT-03116",
+    "vatcode": "LT100004718517"
   },
   {
     "name": "UAB \"Dental House\"",
@@ -779,22 +846,26 @@
   {
     "name": "UAB \"Fresh production house\"",
     "code": "302748878",
-    "address": "Vilnius, Žirmūnų g. 139, LT-09120"
+    "address": "Vilnius, Žirmūnų g. 139, LT-09120",
+    "vatcode": "LT100006910010"
   },
   {
     "name": "UAB \"GOOD HOUSE\"",
     "code": "302441480",
-    "address": "Vilnius, V. Pietario g. 4-53, LT-03125"
+    "address": "Vilnius, V. Pietario g. 4-53, LT-03125",
+    "vatcode": "LT100005718613"
   },
   {
     "name": "UAB \"Harmony House dizainas\"",
     "code": "305176076",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100012435310"
   },
   {
     "name": "UAB \"Harvest House\"",
     "code": "302862369",
-    "address": "Klaipėda, Turgaus g. 33-3, LT-91249"
+    "address": "Klaipėda, Turgaus g. 33-3, LT-91249",
+    "vatcode": "LT100007143718"
   },
   {
     "name": "UAB \"House Baltik\"",
@@ -804,22 +875,26 @@
   {
     "name": "UAB \"House makers\"",
     "code": "304794205",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Teleičių k., Dvaro g. 40, LT-53273"
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Teleičių k., Dvaro g. 40, LT-53273",
+    "vatcode": "LT100012889516"
   },
   {
     "name": "UAB \"House of English\"",
     "code": "300948830",
-    "address": "Vilnius, Kęstučio g. 41A, LT-08123"
+    "address": "Vilnius, Kęstučio g. 41A, LT-08123",
+    "vatcode": "LT100017958510"
   },
   {
     "name": "UAB \"House of Languages\"",
     "code": "302637301",
-    "address": "Klaipėda, I. Kanto g. 9-5, LT-92241"
+    "address": "Klaipėda, I. Kanto g. 9-5, LT-92241",
+    "vatcode": "LT100008085218"
   },
   {
     "name": "UAB \"House to Home\"",
     "code": "307409700",
-    "address": "Kaunas, Užnerio g. 51G, LT-47491"
+    "address": "Kaunas, Užnerio g. 51G, LT-47491",
+    "vatcode": "LT100019111917"
   },
   {
     "name": "UAB \"INN HOUSE\"",
@@ -835,12 +910,14 @@
   {
     "name": "UAB \"Indian House\"",
     "code": "306689306",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100017509819"
   },
   {
     "name": "UAB \"Indigo House\"",
     "code": "303039876",
-    "address": "Šiauliai, Bačiūnų g. 12M, LT-77110"
+    "address": "Šiauliai, Bačiūnų g. 12M, LT-77110",
+    "vatcode": "LT100007681117"
   },
   {
     "name": "UAB \"Insta House\"",
@@ -850,17 +927,20 @@
   {
     "name": "UAB \"Invest House\"",
     "code": "303067509",
-    "address": "Šalčininkai, Vilniaus g. 2, LT-17101"
+    "address": "Šalčininkai, Vilniaus g. 2, LT-17101",
+    "vatcode": "LT100008157319"
   },
   {
     "name": "UAB \"Kriautė house\"",
     "code": "303466390",
-    "address": "Panevėžys, Ateities g. 22-23, LT-37342"
+    "address": "Panevėžys, Ateities g. 22-23, LT-37342",
+    "vatcode": "LT100009231318"
   },
   {
     "name": "UAB \"LHM House\"",
     "code": "301819361",
-    "address": "Plungės r. sav., Nausodžio sen., Kaušėnų k., Vyturio g. 1, LT-90100"
+    "address": "Plungės r. sav., Nausodžio sen., Kaušėnų k., Vyturio g. 1, LT-90100",
+    "vatcode": "LT100004225911"
   },
   {
     "name": "UAB \"Lapka Design House\"",
@@ -875,7 +955,8 @@
   {
     "name": "UAB \"Menthol house\"",
     "code": "302443727",
-    "address": "Vilnius, Kalvarijų g. 29B-9, LT-09313"
+    "address": "Vilnius, Kalvarijų g. 29B-9, LT-09313",
+    "vatcode": "LT100004957510"
   },
   {
     "name": "UAB \"Mouse house LT\"",
@@ -895,7 +976,8 @@
   {
     "name": "UAB \"Nice House\"",
     "code": "307530513",
-    "address": "Klaipėda, Giraitės g. 8, LT-93201"
+    "address": "Klaipėda, Giraitės g. 8, LT-93201",
+    "vatcode": "LT100019667117"
   },
   {
     "name": "UAB \"Nordland house\"",
@@ -922,7 +1004,8 @@
   {
     "name": "UAB \"Pharm House\"",
     "code": "304114456",
-    "address": "Vilnius, Saulėtekio al. 15-1, LT-10224"
+    "address": "Vilnius, Saulėtekio al. 15-1, LT-10224",
+    "vatcode": "LT100009768813"
   },
   {
     "name": "UAB \"Productivity House\"",
@@ -933,7 +1016,8 @@
   {
     "name": "UAB \"R21 House\"",
     "code": "307529233",
-    "address": "Klaipėda, Rūtų g. 21, LT-91222"
+    "address": "Klaipėda, Rūtų g. 21, LT-91222",
+    "vatcode": "LT100019623317"
   },
   {
     "name": "UAB \"RGB Production House\"",
@@ -944,7 +1028,8 @@
   {
     "name": "UAB \"Real house\"",
     "code": "300616358",
-    "address": "Vilnius, Šiaulių g. 8-1, LT-01133"
+    "address": "Vilnius, Šiaulių g. 8-1, LT-01133",
+    "vatcode": "LT100002771613"
   },
   {
     "name": "UAB \"SNUG HOUSE\"",
@@ -955,6 +1040,10 @@
     "name": "UAB \"SOLUTION HOUSE\"",
     "code": "302609273",
     "address": "Vilnius, Pramonės g. 97, LT-11115"
+  },
+  {
+    "name": "UAB \"SPORT HOUSE\"",
+    "code": "300522670"
   },
   {
     "name": "UAB \"STONKUS HOUSE\"",
@@ -974,7 +1063,8 @@
   {
     "name": "UAB \"Simona house\"",
     "code": "302914307",
-    "address": "Šiauliai, Dubijos g. 22A, LT-77207"
+    "address": "Šiauliai, Dubijos g. 22A, LT-77207",
+    "vatcode": "LT100012111616"
   },
   {
     "name": "UAB \"Solo House\"",
@@ -987,19 +1077,30 @@
     "address": "Kaunas, S. Žukausko g. 2D, LT-50118"
   },
   {
+    "name": "UAB \"TRADE HOUSE LT\"",
+    "code": "300096886"
+  },
+  {
+    "name": "UAB \"Trade House\"",
+    "code": "302883139"
+  },
+  {
     "name": "UAB \"Trading House Uzkimyoimpeks-Lithuania\"",
     "code": "306658175",
-    "address": "Vilkaviškio r. sav., Pilviškiai, Geležinkelio g. 26, LT-70482"
+    "address": "Vilkaviškio r. sav., Pilviškiai, Geležinkelio g. 26, LT-70482",
+    "vatcode": "LT100016935919"
   },
   {
     "name": "UAB \"Uz-euro trade house\"",
     "code": "303445414",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
+    "address": "Vilnius, Laisvės pr. 60, LT-05120",
+    "vatcode": "LT100014898314"
   },
   {
     "name": "UAB \"VANA house\"",
     "code": "307169080",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103",
+    "vatcode": "LT100018622313"
   },
   {
     "name": "UAB \"VILNIUS TRADE HOUSE\"",
@@ -1030,6 +1131,11 @@
     "vatcode": "LT100014923914"
   },
   {
+    "name": "UAB Admin House",
+    "code": "307595888",
+    "address": "Vilnius, V. Mykolaičio-Putino g. 10-5, LT-03155"
+  },
+  {
     "name": "UAB Art House LT",
     "code": "305963754",
     "address": "Kaunas, Partizanų g. 61-806, LT-49282",
@@ -1048,7 +1154,8 @@
   {
     "name": "UAB EPL House Group",
     "code": "304952242",
-    "address": "Vilnius, Verkių g. 5-101, LT-08218"
+    "address": "Vilnius, Verkių g. 5-101, LT-08218",
+    "vatcode": "LT100012128217"
   },
   {
     "name": "UAB Expert house",
@@ -1058,7 +1165,8 @@
   {
     "name": "UAB Extraction House Europe",
     "code": "306823342",
-    "address": "Vilnius, Albanų g. 12A-1, LT-11332"
+    "address": "Vilnius, Albanų g. 12A-1, LT-11332",
+    "vatcode": "LT100017011112"
   },
   {
     "name": "UAB FASHION HOUSE JUOZAS STATKEVIČIUS",
@@ -1074,7 +1182,8 @@
   {
     "name": "UAB GOLD HOUSE",
     "code": "305443942",
-    "address": "Vilnius, Širvintų g. 67-5, LT-08215"
+    "address": "Vilnius, Širvintų g. 67-5, LT-08215",
+    "vatcode": "LT100012930119"
   },
   {
     "name": "UAB HOUSE TEAM",
@@ -1084,47 +1193,56 @@
   {
     "name": "UAB House 4 area",
     "code": "305839226",
-    "address": "Klaipėda, Baltijos pr. 117-20, LT-93221"
+    "address": "Klaipėda, Baltijos pr. 117-20, LT-93221",
+    "vatcode": "LT100014313111"
   },
   {
     "name": "UAB House care",
     "code": "305249396",
-    "address": "Vilnius, Kazio Ulvydo g. 7-76, LT-08354"
+    "address": "Vilnius, Kazio Ulvydo g. 7-76, LT-08354",
+    "vatcode": "LT100012947113"
   },
   {
     "name": "UAB House clean",
     "code": "306947048",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103",
+    "vatcode": "LT100017084915"
   },
   {
     "name": "UAB House concept",
     "code": "306097023",
-    "address": "Panevėžio r. sav., Velžio sen., Keravos k., Laukų g. 1, LT-38131"
+    "address": "Panevėžio r. sav., Velžio sen., Keravos k., Laukų g. 1, LT-38131",
+    "vatcode": "LT100015040317"
   },
   {
     "name": "UAB House of Brands LT",
     "code": "307544057",
-    "address": "Vilnius, Konstitucijos pr. 21A, LT-08105"
+    "address": "Vilnius, Konstitucijos pr. 21A, LT-08105",
+    "vatcode": "LT100019610810"
   },
   {
     "name": "UAB Jar house",
     "code": "306110008",
-    "address": "Vilnius, Perkūnkiemio g. 13-25B, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-25B, LT-12114",
+    "vatcode": "LT100016563515"
   },
   {
     "name": "UAB LEE HOUSE",
     "code": "307177038",
-    "address": "Panevėžys, Anykščių g. 6-16, LT-35171"
+    "address": "Panevėžys, Anykščių g. 6-16, LT-35171",
+    "vatcode": "LT100018542210"
   },
   {
     "name": "UAB MWC HOUSE",
     "code": "301733396",
-    "address": "Šiauliai, Gamybos g. 6, LT-76128"
+    "address": "Šiauliai, Gamybos g. 6, LT-76128",
+    "vatcode": "LT100004090414"
   },
   {
     "name": "UAB Mad motion house",
     "code": "306968042",
-    "address": "Vilnius, Ozo g. 8A-3A, LT-08200"
+    "address": "Vilnius, Ozo g. 8A-3A, LT-08200",
+    "vatcode": "LT100017086518"
   },
   {
     "name": "UAB Manor House",
@@ -1149,17 +1267,20 @@
   {
     "name": "UAB Od house",
     "code": "307552794",
-    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
+    "vatcode": "LT100019690919"
   },
   {
     "name": "UAB PIXEL HOUSE",
     "code": "302697063",
-    "address": "Vilnius, Nolonių g. 7, LT-12204"
+    "address": "Vilnius, Nolonių g. 7, LT-12204",
+    "vatcode": "LT100006788014"
   },
   {
     "name": "UAB Production house international",
     "code": "306085010",
-    "address": "Vilnius, Dzūkų g. 10A-13, LT-02163"
+    "address": "Vilnius, Dzūkų g. 10A-13, LT-02163",
+    "vatcode": "LT100015547114"
   },
   {
     "name": "UAB READY HOUSE",
@@ -1180,17 +1301,20 @@
   {
     "name": "UAB Self-love house",
     "code": "307077543",
-    "address": "Vilnius, Tolminkiemio g. 20-11, LT-06286"
+    "address": "Vilnius, Tolminkiemio g. 20-11, LT-06286",
+    "vatcode": "LT100018009015"
   },
   {
     "name": "UAB SigMa house",
     "code": "306236665",
-    "address": "Skuodo r. sav., Aleksandrijos sen., Aleksandrijos k., Alyvų g. 16, LT-98332"
+    "address": "Skuodo r. sav., Aleksandrijos sen., Aleksandrijos k., Alyvų g. 16, LT-98332",
+    "vatcode": "LT100015836410"
   },
   {
     "name": "UAB Smart House systems",
     "code": "306115293",
-    "address": "Alytus, Audėjų g. 7, LT-62175"
+    "address": "Alytus, Audėjų g. 7, LT-62175",
+    "vatcode": "LT100015351614"
   },
   {
     "name": "UAB Swan house",
@@ -1211,7 +1335,8 @@
   {
     "name": "UAB Urbano house",
     "code": "305475363",
-    "address": "Vilnius, K. Semenavičiaus g. 38, LT-10251"
+    "address": "Vilnius, K. Semenavičiaus g. 38, LT-10251",
+    "vatcode": "LT100013577418"
   },
   {
     "name": "UAB Vilnius house",
@@ -1221,7 +1346,8 @@
   {
     "name": "UAB Žuvėdra house",
     "code": "307024067",
-    "address": "Vilnius, Fabijoniškių g. 5C-1031, LT-06335"
+    "address": "Vilnius, Fabijoniškių g. 5C-1031, LT-06335",
+    "vatcode": "LT100017322914"
   },
   {
     "name": "UPSIDE DOWN HOUSE EUROPE UAB",
@@ -1236,12 +1362,14 @@
   {
     "name": "Uždaroji akcinė bendrovė \"MEDIA HOUSE\"",
     "code": "111707070",
-    "address": "Vilnius, Aukštaičių g. 7, LT-11341"
+    "address": "Vilnius, Aukštaičių g. 7, LT-11341",
+    "vatcode": "LT117070716"
   },
   {
     "name": "Uždaroji akcinė bendrovė Alder smoke house",
     "code": "306993437",
-    "address": "Kauno r. sav., Domeikavos sen., Smiltynų I k., Ūkininkų g. 6, LT-54373"
+    "address": "Kauno r. sav., Domeikavos sen., Smiltynų I k., Ūkininkų g. 6, LT-54373",
+    "vatcode": "LT100019190311"
   },
   {
     "name": "Uždaroji akcinė bendrovė Bn house kits",
@@ -1251,7 +1379,8 @@
   {
     "name": "Viešoji įstaiga \"Baltic media art house\"",
     "code": "302677922",
-    "address": "Vilnius, A. Vivulskio g. 23-61, LT-03114"
+    "address": "Vilnius, A. Vivulskio g. 23-61, LT-03114",
+    "vatcode": "LT100014711312"
   },
   {
     "name": "Viešoji įstaiga \"Freedom House\"",
@@ -1291,7 +1420,8 @@
   {
     "name": "Žemės ūkio bendrovė \"House of Angus\"",
     "code": "303058467",
-    "address": "Vilnius, Kuosų g. 9-111, LT-10312"
+    "address": "Vilnius, Kuosų g. 9-111, LT-10312",
+    "vatcode": "LT100007731813"
   },
   {
     "name": "Gyvenamųjų laivų asociacija \"Houseboat\"",
@@ -1306,7 +1436,8 @@
   {
     "name": "UAB \"Houseda\"",
     "code": "304079852",
-    "address": "Panevėžio r. sav., Panevėžio sen., Vaivadų k., Lauko g. 11, LT-38448"
+    "address": "Panevėžio r. sav., Panevėžio sen., Vaivadų k., Lauko g. 11, LT-38448",
+    "vatcode": "LT100009595616"
   },
   {
     "name": "MB Houseland",
@@ -1331,7 +1462,8 @@
   {
     "name": "MB \"Housemeda\"",
     "code": "305243048",
-    "address": "Kauno m. sav."
+    "address": "Kauno m. sav.",
+    "vatcode": "LT100012764110"
   },
   {
     "name": "MB Housemk",
@@ -1351,7 +1483,8 @@
   {
     "name": "Fossheim Houses, UAB",
     "code": "300563172",
-    "address": "Skuodo r. sav., Skuodo sen., Narvydžių k., Virvių g. 3-1, LT-98102"
+    "address": "Skuodo r. sav., Skuodo sen., Narvydžių k., Virvių g. 3-1, LT-98102",
+    "vatcode": "LT100002387412"
   },
   {
     "name": "MB \"Tiny houses\"",
@@ -1366,7 +1499,8 @@
   {
     "name": "MB Dream Houses",
     "code": "307287552",
-    "address": "Vilnius, Kauno g. 16-309, LT-03212"
+    "address": "Vilnius, Kauno g. 16-309, LT-03212",
+    "vatcode": "LT100018898215"
   },
   {
     "name": "MB H&F Houses and Furniture design",
@@ -1376,7 +1510,8 @@
   {
     "name": "MB R&K Houses",
     "code": "306995559",
-    "address": "Vilnius, Azerų g. 42-1, LT-11332"
+    "address": "Vilnius, Azerų g. 42-1, LT-11332",
+    "vatcode": "LT100017748610"
   },
   {
     "name": "MB Raigė houses",
@@ -1386,17 +1521,20 @@
   {
     "name": "UAB \"Construction Houses\"",
     "code": "305653912",
-    "address": "Kaunas, Miško g. 30-66, LT-44313"
+    "address": "Kaunas, Miško g. 30-66, LT-44313",
+    "vatcode": "LT100013558714"
   },
   {
     "name": "UAB \"Energy Houses\"",
     "code": "302686259",
-    "address": "Akmenės r. sav., Venta, Statybininkų g. 4, LT-85305"
+    "address": "Akmenės r. sav., Venta, Statybininkų g. 4, LT-85305",
+    "vatcode": "LT100006537315"
   },
   {
     "name": "UAB \"WOOD & HOUSES\"",
     "code": "300886930",
-    "address": "Vilnius, A. Goštauto g. 8-120, LT-01108"
+    "address": "Vilnius, A. Goštauto g. 8-120, LT-01108",
+    "vatcode": "LT100003334518"
   },
   {
     "name": "UAB Market houses",
@@ -1417,7 +1555,8 @@
   {
     "name": "Maple Housing Investment Management, UAB",
     "code": "307137307",
-    "address": "Vilnius, Gynėjų g. 14-115, LT-01110"
+    "address": "Vilnius, Gynėjų g. 14-115, LT-01110",
+    "vatcode": "LT100019667914"
   },
   {
     "name": "MB \"Housinger\"",
@@ -1452,7 +1591,8 @@
   {
     "name": "UAB Houstog",
     "code": "305744696",
-    "address": "Švenčionių r. sav., Švenčionių sen., Lygumų k. 8, LT-18105"
+    "address": "Švenčionių r. sav., Švenčionių sen., Lygumų k. 8, LT-18105",
+    "vatcode": "LT100016442819"
   },
   {
     "name": "MB \"Houswindoor\"",

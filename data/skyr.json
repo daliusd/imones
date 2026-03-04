@@ -2,7 +2,8 @@
   {
     "name": "MB Skyrenta",
     "code": "306700749",
-    "address": "Vilniaus r. sav., Riešės sen., Stadališkių k., Stadališkių g. 13, LT-15140"
+    "address": "Vilniaus r. sav., Riešės sen., Stadališkių k., Stadališkių g. 13, LT-15140",
+    "vatcode": "LT100016812510"
   },
   {
     "name": "AB \"Lietuvos geležinkeliai\" Radviliškio regiono stočių skyriaus profesinė sąjunga",
@@ -10,19 +11,17 @@
     "address": "Radviliškis, Laisvės al. 15, LT-82119"
   },
   {
-    "name": "AB Lietuvos žemės ūkio banko Radviliškio skyriaus darbuotojų profesinė sąjunga",
-    "code": "171645470",
-    "address": "Radviliškis, Dariaus ir Girėno g. 30, LT-82138"
-  },
-  {
-    "name": "AB Taupomojo banko Kėdainių skyriaus darbuotojų profesinė sąjunga",
-    "code": "161615151",
-    "address": "Kėdainiai, Didžioji g. 28, LT-57255"
-  },
-  {
     "name": "Alytaus apskrities valstybinės mokesčių inspekcijos Druskininkų skyriaus profsąjunga",
     "code": "152131952",
     "address": "Druskininkai, Vilniaus al. 2, LT-66119"
+  },
+  {
+    "name": "Kauno apsaugos policijos skyriaus prie VPK AGS elektromonterių profesinės sąjungos įmonė \"Aliarmo kodas\"",
+    "code": "135203292"
+  },
+  {
+    "name": "Kauno arkivyskupijos Caritas skyriaus įmonė \"Germė\"",
+    "code": "133369924"
   },
   {
     "name": "LIETUVOS MEDŽIOTOJŲ IR ŽVEJŲ DRAUGIJOS AKMENĖS SKYRIAUS \"ATRAMOS\" MEDŽIOTOJŲ BŪRELIS",
@@ -30,9 +29,17 @@
     "address": "Naujoji Akmenė, Respublikos g. 2, LT-85143"
   },
   {
+    "name": "LIETUVOS NAŠLAIČIŲ BROLIJOS VILNIAUS SKYRIAUS PERSONALINĖ ĮMONĖ \"SOSTINĖS TAKSI\"",
+    "code": "125666235"
+  },
+  {
     "name": "LIETUVOS POLITINIŲ KALINIŲ IR TREMTINIŲ BENDRIJOS VILNIAUS SKYRIAUS ŠEŠKINĖS SENIŪNIJOS LABDAROS FONDAS",
     "code": "193013295",
     "address": "Vilnius, Dūkštų g. 12-10, LT-07173"
+  },
+  {
+    "name": "Lietuvos Gydytojų sąjungos Kelmės skyriaus profesinė organizacija",
+    "code": "191179165"
   },
   {
     "name": "Lietuvos Medžiotojų ir Žvejų Draugijos Trakų skyriaus Trakų miesto medžiotojų būrelis",
@@ -45,14 +52,8 @@
     "address": "Kaišiadorių r. sav., Palomenės sen., Beištrakių k., Šešuvos g. 32, LT-56100"
   },
   {
-    "name": "Lietuvos darbininkų sąjungos AB \"Lietuvos spauda\" Anykščių skyriaus darbuotojų profesinė sąjunga",
-    "code": "154302359",
-    "address": "Anykščiai, J. Biliūno g. 5, LT-29113"
-  },
-  {
-    "name": "Lietuvos darbininkų sąjungos Valstybinio socialinio draudimo fondo valdybos Ignalinos rajono skyriaus paslaugų sektoriaus darbuotojų sąjunga",
-    "code": "155629748",
-    "address": "Ignalina, Laisvės g. 62, LT-30117"
+    "name": "Lietuvos architektų sąjungos Kauno skyriaus įmonė",
+    "code": "134321875"
   },
   {
     "name": "Lietuvos dirvožemininkų draugija prie Lietuvos MA Žemės ūkio ir miškų mokslų skyriaus",
@@ -60,9 +61,21 @@
     "address": "Kauno r. sav., Akademija, Studentų g. 11, LT-53361"
   },
   {
+    "name": "Lietuvos dizainerių sąjungos Klaipėdos skyriaus studija",
+    "code": "240391690"
+  },
+  {
+    "name": "Lietuvos geležinkelių Kauno regiono stočių skyriaus profesinė sąjunga",
+    "code": "303473933"
+  },
+  {
     "name": "Lietuvos invalidų draugijos Biržų skyriaus sergančiųjų onkologinėmis ligomis klubas \"Stenkimės nugalėti ligas\"",
     "code": "154883042",
     "address": "Biržai, Žemoji g. 1, LT-41172"
+  },
+  {
+    "name": "Lietuvos ir Švedijos uždaroji akcinė bendrovė \"V. RUTKAUSKO, R. SKYRIAUS IR PARTNERIŲ KONSULTACINĖ FIRMA\"",
+    "code": "110691446"
   },
   {
     "name": "Lietuvos medžiotojų ir žvejų draugijos Akmenės skyriaus Akmenės medžiotojų būrelis",
@@ -445,9 +458,9 @@
     "address": "Rietavo sav., Medingėnų sen., Medingėnų k., Žarėnų g. 4, LT-90271"
   },
   {
-    "name": "Panevėžio apskrities valstybinės mokesčių inspekcijos Rokiškio skyriaus tarnautojų profesinė sąjunga",
-    "code": "273246880",
-    "address": "Rokiškis, Alvydo Matulkos g. 14"
+    "name": "R. Skyriaus komercinė firma",
+    "code": "140458889",
+    "address": "Klaipėda, S. Daukanto g. 19, LT-92233"
   },
   {
     "name": "TARPTAUTINĖS POLICIJOS ASOCIACIJOS LIETUVOS SKYRIAUS ŠILALĖS POSKYRIS",
@@ -608,6 +621,11 @@
     "name": "Žemaičių Kalvarijos Caritas skyriaus globos namai",
     "code": "193770213",
     "address": "Plungės r. sav., Žemaičių Kalvarija, Tvenkinio g. 1, LT-90443"
+  },
+  {
+    "name": "J. Skyrienės įmonė \"Otilija\"",
+    "code": "232543020",
+    "address": "Kaunas, Nemuno g. 45, LT-44288"
   },
   {
     "name": "\"Lietuvai pagražinti draugijos\" Alytaus miesto ir rajono skyrius",
@@ -910,6 +928,10 @@
     "address": "Kelmė, Dariaus ir Girėno g. 2, LT-86136"
   },
   {
+    "name": "Lietuvos Vytautų klubo Marijampolės skyrius",
+    "code": "151485542"
+  },
+  {
     "name": "Lietuvos agentūros \"SOS vaikai\" Panevėžio skyrius",
     "code": "290864530",
     "address": "Panevėžys, Projektuotojų g. 20A, LT-37148"
@@ -922,7 +944,8 @@
   {
     "name": "Lietuvos architektų sąjungos Kauno skyrius",
     "code": "193418639",
-    "address": "Kaunas, Vilniaus g. 22, LT-44280"
+    "address": "Kaunas, Vilniaus g. 22, LT-44280",
+    "vatcode": "LT934186314"
   },
   {
     "name": "Lietuvos architektų sąjungos Šiaulių skyrius",
@@ -977,7 +1000,8 @@
   {
     "name": "Lietuvos dailininkų sąjungos Kauno skyrius",
     "code": "135588482",
-    "address": "Kaunas, Rotušės a. 26, LT-44279"
+    "address": "Kaunas, Rotušės a. 26, LT-44279",
+    "vatcode": "LT355884811"
   },
   {
     "name": "Lietuvos dailininkų sąjungos Klaipėdos skyrius",
@@ -995,31 +1019,6 @@
     "address": "Šiauliai, Ežero g. 68, LT-76244"
   },
   {
-    "name": "Lietuvos darbo federacijos Ignalinos skyrius",
-    "code": "155627882",
-    "address": "Ignalinos r. sav., Mielagėnai"
-  },
-  {
-    "name": "Lietuvos darbo federacijos Kauno apskrities skyrius",
-    "code": "300525702",
-    "address": "Vilnius, Ulonų g. 5-301, LT-08240"
-  },
-  {
-    "name": "Lietuvos darbo federacijos Marijampolės apskrities skyrius",
-    "code": "300629195",
-    "address": "Marijampolė, Vasaros g. 7, LT-68114"
-  },
-  {
-    "name": "Lietuvos darbo federacijos Panevėžio apskrities skyrius",
-    "code": "300083682",
-    "address": "Panevėžys, Staniūnų g. 33A-35, LT-36120"
-  },
-  {
-    "name": "Lietuvos darbo federacijos Telšių apskrities skyrius",
-    "code": "302955859",
-    "address": "Mažeikiai, Skuodo g. 4, LT-89100"
-  },
-  {
     "name": "Lietuvos darbo federacijos Utenos skyrius",
     "code": "183843129",
     "address": "Utena, J. Basanavičiaus g. 35-5"
@@ -1032,12 +1031,16 @@
   {
     "name": "Lietuvos fotomenininkų sąjungos Kauno skyrius",
     "code": "135510925",
-    "address": "Kaunas, Rotušės a. 1, LT-44280"
+    "address": "Kaunas, Rotušės a. 1, LT-44280",
+    "vatcode": "LT355109219"
   },
   {
     "name": "Lietuvos fotomenininkų sąjungos Klaipėdos skyrius",
-    "code": "141656030",
-    "address": "Klaipėda, Tomo g. 7, LT-91247"
+    "code": "141656030"
+  },
+  {
+    "name": "Lietuvos gailestingųjų seserų profesinės sąjungos Alytaus apskrities skyrius",
+    "code": "193489593"
   },
   {
     "name": "Lietuvos gatvės vaikų futbolo federacijos Anykščių skyrius",
@@ -1050,24 +1053,13 @@
     "address": "Biržai, Rotušės g. 25, LT-41138"
   },
   {
-    "name": "Lietuvos gydytojų sąjungos Rokiškio skyrius",
-    "code": "191082556",
-    "address": "Rokiškis, V. Lašo g. 3, LT-42106"
-  },
-  {
-    "name": "Lietuvos gydytojų sąjungos Zarasų skyrius",
-    "code": "187896321",
-    "address": "Zarasai, Malūno g. 4, LT-32129"
-  },
-  {
-    "name": "Lietuvos gydytojų sąjungos viešosios įstaigos \"Lazdijų ligoninė\" skyrius",
-    "code": "265248860",
-    "address": "Lazdijai, Kauno g. 8, LT-67128"
-  },
-  {
     "name": "Lietuvos gyvūnų globos draugijos Joniškio skyrius",
     "code": "157679536",
     "address": "Joniškis, Miesto a. 5A-28, LT-84144"
+  },
+  {
+    "name": "Lietuvos gyvūnų globos draugijos Raseinių skyrius",
+    "code": "272786770"
   },
   {
     "name": "Lietuvos gyvūnų globos draugijos Tauragės skyrius",
@@ -1099,6 +1091,10 @@
     "name": "Lietuvos ir Prancūzijos asociacijos Plungės skyrius",
     "code": "307424549",
     "address": "Plungė, Vytauto g. 7-14, LT-90123"
+  },
+  {
+    "name": "Lietuvos jaunųjų socialliberalų sąjungos Panevėžio skyrius",
+    "code": "148443565"
   },
   {
     "name": "Lietuvos judėjimo \"Černobylis\" Vilkaviškio rajono skyrius",
@@ -1601,6 +1597,10 @@
     "address": "Druskininkai, Veisiejų g. 17, LT-66245"
   },
   {
+    "name": "Lietuvos specialiosios kūrybos draugijos \"Guboja\" Kupiškio skyrius",
+    "code": "165386166"
+  },
+  {
     "name": "Lietuvos sutrikusio intelekto žmonių globos bendrijos \"Viltis\" Švenčionių skyrius",
     "code": "191687562",
     "address": "Švenčionys, Sodų g. 30, LT-18126"
@@ -1681,6 +1681,10 @@
     "address": "Vilnius, Šeimyniškių g. 23-201, LT-09236"
   },
   {
+    "name": "Lietuvos ūkininkių draugija Linksmakalnio skyrius",
+    "code": "160299259"
+  },
+  {
     "name": "Lietuvos ūkininkių draugijos Šilalės rajono skyrius",
     "code": "177978058",
     "address": "Šilalės r. sav., Šilalės kaimiškoji sen., Balsių k."
@@ -1748,7 +1752,8 @@
   {
     "name": "Lietuvos ūkininkų sąjungos Zarasų skyrius",
     "code": "190852751",
-    "address": "Zarasai, Savanorių g. 2, LT-32109"
+    "address": "Zarasai, Savanorių g. 2, LT-32109",
+    "vatcode": "LT100012784519"
   },
   {
     "name": "Lietuvos ūkininkų sąjungos Šilalės skyrius",
@@ -1803,7 +1808,8 @@
   {
     "name": "MB \"IT skyrius\"",
     "code": "304570424",
-    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Agnytės g. 7-2, LT-92337"
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Agnytės g. 7-2, LT-92337",
+    "vatcode": "LT100011021117"
   },
   {
     "name": "MB \"Kostiumų skyrius\"",
@@ -1818,7 +1824,8 @@
   {
     "name": "MB Kadrų skyrius",
     "code": "304942586",
-    "address": "Vilnius, Vitebsko g. 23, LT-11350"
+    "address": "Vilnius, Vitebsko g. 23, LT-11350",
+    "vatcode": "LT100012991817"
   },
   {
     "name": "MB Meno skyrius",
@@ -1899,12 +1906,14 @@
   {
     "name": "Uždaroji akcinė bendrovė \"SODYBŲ SKYRIUS\"",
     "code": "121180588",
-    "address": "Vilnius, Rolando Jankausko g. 15-29, LT-04315"
+    "address": "Vilnius, Rolando Jankausko g. 15-29, LT-04315",
+    "vatcode": "LT211805811"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA \"TRANSPARENCY INTERNATIONAL\" LIETUVOS SKYRIUS",
     "code": "125290167",
-    "address": "Vilnius, Didžioji g. 5, LT-01128"
+    "address": "Vilnius, Didžioji g. 5, LT-01128",
+    "vatcode": "LT100018480015"
   },
   {
     "name": "Valstybinio socialinio draudimo fondo valdybos Kauno skyrius",
@@ -1950,11 +1959,6 @@
     "name": "Vilkaviškio rajono savivaldybės administracijos Švietimo skyrius",
     "code": "188711544",
     "address": "Vilkaviškis, S. Nėries g. 1, LT-70147"
-  },
-  {
-    "name": "Visagino gydytojų sąjungos Visagino ligoninės skyrius",
-    "code": "255981280",
-    "address": "Visaginas, Taikos pr. 15, LT-31107"
   },
   {
     "name": "Visuomeninė organizacija Lietuvos Lenkų Sąjungos Vilniaus r. skyrius",
@@ -2089,12 +2093,18 @@
   {
     "name": "UAB \"SKYRIV\"",
     "code": "300010741",
-    "address": "Vilnius, Bitininkų g. 1B-50, LT-08310"
+    "address": "Vilnius, Bitininkų g. 1B-50, LT-08310",
+    "vatcode": "LT100000906110"
   },
   {
     "name": "Savivaldybių žemės ūkio skyrių darbuotojų asociacija",
     "code": "302670479",
     "address": "Biržų r. sav., Širvėnos sen., Kilučių k., Biržų g. 20, LT-41103"
+  },
+  {
+    "name": "Stasio Skyro IĮ",
+    "code": "302658975",
+    "address": "Plungė, A. Vaišvilos g. 27-46, LT-90127"
   },
   {
     "name": "UAB \"Skyroad Leasing\"",
@@ -2111,6 +2121,11 @@
     "name": "MB Skyrybų butikas",
     "code": "307542031",
     "address": "Kaunas, Rasytės g. 2-22, LT-48119"
+  },
+  {
+    "name": "UAB \"Skyrybų angelai\"",
+    "code": "307599502",
+    "address": "Klaipėda, Tiltų g. 19, LT-91249"
   },
   {
     "name": "UAB \"Skyrybų mediatoriai\"",

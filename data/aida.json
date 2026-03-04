@@ -1,5 +1,10 @@
 [
   {
+    "name": "Aidos Petrauskaitės įmonė \"Aida\"",
+    "code": "133093066",
+    "address": "Kaunas, Šiaurės pr. 61-37, LT-49204"
+  },
+  {
     "name": "Kauno šokių klubas \"Aida\", VšĮ",
     "code": "193590681",
     "address": "Kauno r. sav., Zapyškio sen., Dievogalos k., Apynėlio g. 23, LT-53423"
@@ -22,13 +27,19 @@
   {
     "name": "MB \"Aida projektai\"",
     "code": "305439680",
-    "address": "Vilnius, Naugarduko g. 3-401, LT-03231"
+    "address": "Vilnius, Naugarduko g. 3-401, LT-03231",
+    "vatcode": "LT100013021317"
   },
   {
     "name": "MB \"Aida sprendimai\"",
     "code": "305757206",
     "address": "Vilniaus r. sav., Zujūnų sen., Leičių k., Adomo Mickevičiaus g. 232B, LT-14207",
     "vatcode": "LT100017025314"
+  },
+  {
+    "name": "MB Aidagus",
+    "code": "307598585",
+    "address": "Panevėžio r. sav., Panevėžio sen., Paežerio I k., Vlado Rozmano g. 10-1, LT-38445"
   },
   {
     "name": "2 aidai, MB",
@@ -54,7 +65,8 @@
   {
     "name": "MB \"Miško aidai\"",
     "code": "156670566",
-    "address": "Jonava, A. Kulviečio g. 8A, LT-55216"
+    "address": "Jonava, A. Kulviečio g. 8A, LT-55216",
+    "vatcode": "LT566705610"
   },
   {
     "name": "MB \"Tėvynės aidai\"",
@@ -64,7 +76,8 @@
   {
     "name": "MB \"Užtvankos aidai\"",
     "code": "307441705",
-    "address": "Jurbarkas, Šilelio 1-oji g. 34, LT-74107"
+    "address": "Jurbarkas, Šilelio 1-oji g. 34, LT-74107",
+    "vatcode": "LT100019622712"
   },
   {
     "name": "MB Japonijos aidai",
@@ -79,12 +92,14 @@
   {
     "name": "UAB \"Vilniaus aidai\"",
     "code": "126298220",
-    "address": "Vilnius, Žarijų g. 6A, LT-02300"
+    "address": "Vilnius, Žarijų g. 6A, LT-02300",
+    "vatcode": "LT100002073716"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Kaišiadorių aidai\"",
     "code": "158840622",
-    "address": "Kaišiadorys, Gedimino g. 42, LT-56126"
+    "address": "Kaišiadorys, Gedimino g. 42, LT-56126",
+    "vatcode": "LT588406219"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"MOKSLO AIDAI\"",
@@ -98,7 +113,8 @@
   {
     "name": "Viešoji įstaiga \"NAUJASIS ŽIDINYS - AIDAI\"",
     "code": "124626686",
-    "address": "Vilnius, Didžioji g. 34, LT-01128"
+    "address": "Vilnius, Didžioji g. 34, LT-01128",
+    "vatcode": "LT246266811"
   },
   {
     "name": "Viešoji įstaiga \"Varpų aidai\"",
@@ -108,12 +124,22 @@
   {
     "name": "Aidana, MB",
     "code": "306728531",
-    "address": "Joniškio r. sav., Joniškio sen., Maironių k., Parko g. 11, LT-84267"
+    "address": "Joniškio r. sav., Joniškio sen., Maironių k., Parko g. 11, LT-84267",
+    "vatcode": "LT100016849216"
   },
   {
     "name": "UAB \"AIDARA\"",
     "code": "302509458",
     "address": "Kaunas, J. Vienožinskio g. 66A, LT-48462"
+  },
+  {
+    "name": "IĮ \"Aidaragnė\"",
+    "code": "304413088",
+    "address": "Vilnius, Santariškių g. 75-34, LT-08457"
+  },
+  {
+    "name": "Z. Grėbliauskienės įmonė \"Aidarida\"",
+    "code": "134672290"
   },
   {
     "name": "UAB \"Aidarlita\"",
@@ -124,7 +150,8 @@
   {
     "name": "UAB \"Aidarsa\"",
     "code": "135136840",
-    "address": "Kaunas, K. Donelaičio g. 62-1, LT-44248"
+    "address": "Kaunas, K. Donelaičio g. 62-1, LT-44248",
+    "vatcode": "LT351368418"
   },
   {
     "name": "1-oji sodininkų bendrija \"Girios aidas\"",
@@ -142,6 +169,11 @@
     "address": "Vilnius, Ukmergės g. 226-41, LT-07161"
   },
   {
+    "name": "Artūro Raščiaus lengvųjų automobilių remonto įmonė \"Aidas\"",
+    "code": "254129310",
+    "address": "Anykščiai, Pilies g. 16, LT-29109"
+  },
+  {
     "name": "Asociacija \"Ugnies aidas\"",
     "code": "302790083",
     "address": "Kaunas, Tvirtovės al. 35A, LT-50154"
@@ -154,7 +186,8 @@
   {
     "name": "Aukštagirio aidas, MB",
     "code": "307147162",
-    "address": "Vilnius, Aukštagirio g. 25C, LT-10105"
+    "address": "Vilnius, Aukštagirio g. 25C, LT-10105",
+    "vatcode": "LT100017783518"
   },
   {
     "name": "Butų savininkų bendrija \"Aidas\"",
@@ -177,11 +210,6 @@
     "address": "Telšiai, Vilniaus g. 14, LT-87136"
   },
   {
-    "name": "Daugiabučių namų savininkų bendrija \"Radviliškio aidas\"",
-    "code": "301532817",
-    "address": "Radviliškis, Jaunystės g. 22-13, LT-82165"
-  },
-  {
     "name": "Futbolo klubas \"Aidas\"",
     "code": "303306037",
     "address": "Kauno r. sav., Domeikavos sen., Eigirgalos k., Jovarų g. 16, LT-54341"
@@ -193,8 +221,7 @@
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Aidas\"",
-    "code": "171495259",
-    "address": "Radviliškio r. sav., Baisogalos apylinkės sen., Vainiūnų k."
+    "code": "171495259"
   },
   {
     "name": "Gyvenamojo namo statybos bendrija \"Aidas\"",
@@ -224,7 +251,8 @@
   {
     "name": "MB \"Medžio aidas\"",
     "code": "304725853",
-    "address": "Raseinių r. sav., Viduklė, Gamyklos g. 3A-4, LT-60346"
+    "address": "Raseinių r. sav., Viduklė, Gamyklos g. 3A-4, LT-60346",
+    "vatcode": "LT100011308215"
   },
   {
     "name": "MB \"Spalvos aidas\"",
@@ -234,7 +262,8 @@
   {
     "name": "MB \"Statybų aidas\"",
     "code": "307083368",
-    "address": "Klaipėda, Vyturio g. 15-55, LT-95186"
+    "address": "Klaipėda, Vyturio g. 15-55, LT-95186",
+    "vatcode": "LT100017706716"
   },
   {
     "name": "MB Aidas Pociūnas",
@@ -244,7 +273,8 @@
   {
     "name": "MB Pajūrio aidas",
     "code": "306202691",
-    "address": "Kauno r. sav., Taurakiemio sen., Arlaviškių k., Lokio g. 1, LT-53194"
+    "address": "Kauno r. sav., Taurakiemio sen., Arlaviškių k., Lokio g. 1, LT-53194",
+    "vatcode": "LT100016375516"
   },
   {
     "name": "MB Tylus aidas",
@@ -289,7 +319,8 @@
   {
     "name": "Skonio aidas UAB",
     "code": "307132580",
-    "address": "Kaunas, Trakų g. 17-7, LT-44236"
+    "address": "Kaunas, Trakų g. 17-7, LT-44236",
+    "vatcode": "LT100017754211"
   },
   {
     "name": "Skuodo rajono medžiotojų klubas \"Aidas\"",
@@ -329,12 +360,14 @@
   {
     "name": "UAB \"Girių aidas\"",
     "code": "305012422",
-    "address": "Kauno r. sav., Vilkijos apylinkių sen., Vilkijos k., Bubriko g. 18, LT-54222"
+    "address": "Kauno r. sav., Vilkijos apylinkių sen., Vilkijos k., Bubriko g. 18, LT-54222",
+    "vatcode": "LT100012194518"
   },
   {
     "name": "UAB \"Kalnų aidas\"",
     "code": "302426076",
-    "address": "Ukmergė, Pašilės g. 12A-1, LT-20194"
+    "address": "Ukmergė, Pašilės g. 12A-1, LT-20194",
+    "vatcode": "LT100004931618"
   },
   {
     "name": "UAB \"Mažeikių aidas\"",
@@ -366,7 +399,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Aidas ir ko\"",
     "code": "126041286",
-    "address": "Vilnius, Laisvės pr. 42-153, LT-04341"
+    "address": "Vilnius, Laisvės pr. 42-153, LT-04341",
+    "vatcode": "LT260412811"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"JŪROS AIDAS\"",
@@ -377,7 +411,12 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Marių aidas\"",
     "code": "135495932",
-    "address": "Kaunas, Rasos g. 10, LT-45461"
+    "address": "Kaunas, Rasos g. 10, LT-45461",
+    "vatcode": "LT354959314"
+  },
+  {
+    "name": "Uždaroji akcinė bendrovė \"Parko aidas\"",
+    "code": "252649910"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"SIGNALO AIDAS\"",
@@ -428,11 +467,13 @@
   {
     "name": "MB \"Aidautomatika\"",
     "code": "307100440",
-    "address": "Kazlų Rūda, Maironio g. 38-23, LT-69402"
+    "address": "Kazlų Rūda, Maironio g. 38-23, LT-69402",
+    "vatcode": "LT100019655113"
   },
   {
     "name": "UAB \"Aidava\"",
     "code": "302853683",
-    "address": "Vilnius, Veiverių g. 9B-62, LT-11346"
+    "address": "Vilnius, Veiverių g. 9B-62, LT-11346",
+    "vatcode": "LT100008410817"
   }
 ]

@@ -96,6 +96,11 @@
     "address": "Vilnius, Varšuvos g. 27, LT-02103"
   },
   {
+    "name": "IĮ Arklėnų amatų kiemas",
+    "code": "302691078",
+    "address": "Vilniaus r. sav., Rukainių sen., Arklėnų k., Arklėnų g. 9, LT-13202"
+  },
+  {
     "name": "MB \"Būro kiemas\"",
     "code": "305679622",
     "address": "Pagėgių sav., Pagėgių sen., Kulmenų k. 6, LT-99239"
@@ -108,7 +113,8 @@
   {
     "name": "MB \"Kitoks kiemas\"",
     "code": "305783788",
-    "address": "Šakių r. sav., Lekėčių sen., Tirmėnų k. 2, LT-71223"
+    "address": "Šakių r. sav., Lekėčių sen., Tirmėnų k. 2, LT-71223",
+    "vatcode": "LT100014870919"
   },
   {
     "name": "MB \"Medinis kiemas\"",
@@ -143,7 +149,8 @@
   {
     "name": "MB \"Tvarkingas kiemas\"",
     "code": "305714728",
-    "address": "Kaunas, Demokratų g. 37-43, LT-48495"
+    "address": "Kaunas, Demokratų g. 37-43, LT-48495",
+    "vatcode": "LT100015354215"
   },
   {
     "name": "MB \"Virtualus kiemas\"",
@@ -163,7 +170,8 @@
   {
     "name": "MB Ajaus kiemas",
     "code": "307041561",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100018060015"
   },
   {
     "name": "MB Klevų kiemas",
@@ -179,7 +187,8 @@
   {
     "name": "MB Statybų kiemas",
     "code": "305730515",
-    "address": "Kėdainių r. sav., Surviliškio sen., Berželės k., Berželės g. 6, LT-58401"
+    "address": "Kėdainių r. sav., Surviliškio sen., Berželės k., Berželės g. 6, LT-58401",
+    "vatcode": "LT100014441910"
   },
   {
     "name": "MB Čia mano kiemas",
@@ -199,7 +208,8 @@
   {
     "name": "UAB \"AUTOMOBILIŲ KIEMAS\"",
     "code": "125702731",
-    "address": "Vilniaus m. sav., Daniliškių k."
+    "address": "Vilniaus m. sav., Daniliškių k.",
+    "vatcode": "LT100001780913"
   },
   {
     "name": "UAB \"Aliaus kiemas\"",
@@ -210,17 +220,20 @@
   {
     "name": "UAB \"Anos kiemas\"",
     "code": "304151846",
-    "address": "Kaunas, Laisvės al. 21, LT-44311"
+    "address": "Kaunas, Laisvės al. 21, LT-44311",
+    "vatcode": "LT100009856513"
   },
   {
     "name": "UAB \"Aukštas kiemas\"",
     "code": "304585376",
-    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Jungtinė g. 2, LT-92359"
+    "address": "Klaipėdos r. sav., Sendvario sen., Aukštkiemių k., Jungtinė g. 2, LT-92359",
+    "vatcode": "LT100011039614"
   },
   {
     "name": "UAB \"Gražus kiemas\"",
     "code": "161168177",
-    "address": "Kėdainiai, Šėtos g. 47, LT-57206"
+    "address": "Kėdainiai, Šėtos g. 47, LT-57206",
+    "vatcode": "LT611681716"
   },
   {
     "name": "UAB \"ILGAS KIEMAS\"",
@@ -230,7 +243,8 @@
   {
     "name": "UAB \"Mano kiemas\"",
     "code": "304632370",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
+    "vatcode": "LT100011598218"
   },
   {
     "name": "UAB \"Mano sodas ir kiemas\"",
@@ -240,7 +254,8 @@
   {
     "name": "UAB \"Modernus kiemas\"",
     "code": "305226910",
-    "address": "Telšiai, Luokės g. 67-67, LT-87140"
+    "address": "Telšiai, Luokės g. 67-67, LT-87140",
+    "vatcode": "LT100012709017"
   },
   {
     "name": "UAB \"Tavo kiemas\"",
@@ -314,7 +329,17 @@
   {
     "name": "MB Savam Kieme",
     "code": "305518882",
-    "address": "Vilnius, Santariškių g. 85-2, LT-08464"
+    "address": "Vilnius, Santariškių g. 85-2, LT-08464",
+    "vatcode": "LT100013759614"
+  },
+  {
+    "name": "MB Šventės jūsų kieme",
+    "code": "307596310",
+    "address": "Marijampolė, Vilkaviškio g. 47A, LT-68153"
+  },
+  {
+    "name": "MB \"Saulės Kiemeliai\"",
+    "code": "302919197"
   },
   {
     "name": "Pasvalio rajono žemės ūkio bendrovė \"Kiemeliai\"",
@@ -335,7 +360,8 @@
   {
     "name": "MB \"Piliakalnio kiemelis\"",
     "code": "306073531",
-    "address": "Kauno r. sav., Kačerginė, J. Biliūno g. 68, LT-53447"
+    "address": "Kauno r. sav., Kačerginė, J. Biliūno g. 68, LT-53447",
+    "vatcode": "LT100016177116"
   },
   {
     "name": "MB Kiemelis",
@@ -360,12 +386,14 @@
   {
     "name": "UŽDAROJI AKCINĖ BENDROVĖ \"MEDŽIOTOJŲ KIEMELIS\"",
     "code": "245509370",
-    "address": "Šiauliai, Dubijos g. 20, LT-77207"
+    "address": "Šiauliai, Dubijos g. 20, LT-77207",
+    "vatcode": "LT455093716"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Gėlių kiemelis\"",
     "code": "156874526",
-    "address": "Jonava, J. Basanavičiaus g. 35, LT-55149"
+    "address": "Jonava, J. Basanavičiaus g. 35, LT-55149",
+    "vatcode": "LT100004448116"
   },
   {
     "name": "VšĮ \"Draugų kiemelis\"",
@@ -395,7 +423,8 @@
   {
     "name": "Kiemo jardai, MB",
     "code": "306112685",
-    "address": "Vilnius, Čiobiškio g. 6-66, LT-07181"
+    "address": "Vilnius, Čiobiškio g. 6-66, LT-07181",
+    "vatcode": "LT100015435810"
   },
   {
     "name": "MB \"Kiemo Herojai\"",
@@ -411,7 +440,8 @@
   {
     "name": "MB \"Kiemo dangos\"",
     "code": "303312271",
-    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
+    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120",
+    "vatcode": "LT100009488911"
   },
   {
     "name": "MB \"Kiemo ekspertai\"",
@@ -427,12 +457,14 @@
   {
     "name": "MB \"Kiemo harmonija\"",
     "code": "304030816",
-    "address": "Kaunas, Neries krant. 5-9, LT-48344"
+    "address": "Kaunas, Neries krant. 5-9, LT-48344",
+    "vatcode": "LT100015894216"
   },
   {
     "name": "MB \"Kiemo idėja\"",
     "code": "304824029",
-    "address": "Kauno r. sav., Lapių sen., Tauralaukio k., Tiesioji g. 1, LT-54415"
+    "address": "Kauno r. sav., Lapių sen., Tauralaukio k., Tiesioji g. 1, LT-54415",
+    "vatcode": "LT100011857714"
   },
   {
     "name": "MB \"Kiemo mozaika\"",
@@ -454,7 +486,8 @@
   {
     "name": "MB \"Kiemo technika\"",
     "code": "305516963",
-    "address": "Šiauliai, Vilniaus g. 174A, LT-76299"
+    "address": "Šiauliai, Vilniaus g. 174A, LT-76299",
+    "vatcode": "LT100013076418"
   },
   {
     "name": "MB \"Kiemo vaikai\"",
@@ -485,7 +518,8 @@
   {
     "name": "MB Kiemo flora",
     "code": "306736617",
-    "address": "Vilnius, Kryžiokų Sodų 5-oji g. 98, LT-08444"
+    "address": "Vilnius, Kryžiokų Sodų 5-oji g. 98, LT-08444",
+    "vatcode": "LT100016909314"
   },
   {
     "name": "MB Kiemo magija",
@@ -501,7 +535,8 @@
   {
     "name": "MB Kiemo sistemos",
     "code": "306155003",
-    "address": "Anykščiai, Gegužės g. 49F, LT-29107"
+    "address": "Anykščiai, Gegužės g. 49F, LT-29107",
+    "vatcode": "LT100016023817"
   },
   {
     "name": "MB Kiemo veja",
@@ -518,6 +553,11 @@
     "name": "Mažoji bendrija \"Kiemo tvarkymo darbai\"",
     "code": "305803130",
     "address": "Kaišiadorių r. sav., Žiežmarių apylinkės sen., Liutonių k., Jovarų g. 20, LT-56204"
+  },
+  {
+    "name": "Roberto Šukio IĮ Kiemo servisas",
+    "code": "301738322",
+    "address": "Biržai, Laisvės g. 41, LT-41126"
   },
   {
     "name": "UAB \"Kiemo bitės\"",
@@ -549,6 +589,10 @@
     "vatcode": "LT100014114712"
   },
   {
+    "name": "Uždaroji akcinė bendrovė \"KIEMO APDAILA\"",
+    "code": "186255825"
+  },
+  {
     "name": "VšĮ \"Kiemo lyga\"",
     "code": "304287173",
     "address": "Kauno r. sav., Babtų sen., Piepalių k., Verslo g. 8, LT-54293"
@@ -561,12 +605,14 @@
   {
     "name": "MB KiemoRombas",
     "code": "307299992",
-    "address": "Šalčininkų r. sav., Šalčininkų sen., Žališkių k., Saulutės g. 20, LT-17267"
+    "address": "Šalčininkų r. sav., Šalčininkų sen., Žališkių k., Saulutės g. 20, LT-17267",
+    "vatcode": "LT100018722312"
   },
   {
     "name": "MB \"Kiemstata\"",
     "code": "304216055",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Trakų r. sav., Lentvario sen., Kariotiškių k., Draugystės g. 12, LT-25100",
+    "vatcode": "LT100010624911"
   },
   {
     "name": "UAB \"Kiemstata ir partneriai\"",
@@ -580,7 +626,8 @@
   {
     "name": "MB Projektai kiemui",
     "code": "306480580",
-    "address": "Vilnius, Helsinkio g. 62-1, LT-06298"
+    "address": "Vilnius, Helsinkio g. 62-1, LT-06298",
+    "vatcode": "LT100018999215"
   },
   {
     "name": "Viešoji įstaiga \"Mūsų kiemui\"",

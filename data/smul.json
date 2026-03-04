@@ -30,14 +30,13 @@
     "address": "Vilnius, Užusienio g. 5, LT-02185"
   },
   {
+    "name": "Viešoji įstaiga Smulkaus verslo dirbtuvė",
+    "code": "303255258"
+  },
+  {
     "name": "Vilniaus apskrities smulkaus ir vidutinio verslo darbuotojų profesinė sąjunga",
     "code": "193400783",
     "address": "Vilnius, J. Basanavičiaus g. 29A, LT-03109"
-  },
-  {
-    "name": "Vilniaus miesto Kalvarijų turgaus smulkaus ir vidutinio verslo darbuotojų profesinė sąjunga",
-    "code": "125993660",
-    "address": "Vilnius, J. Basanavičiaus g. 29A-56"
   },
   {
     "name": "MB Smulki",
@@ -57,7 +56,8 @@
   {
     "name": "MB \"Trauk, smulkink\"",
     "code": "304958359",
-    "address": "Kelmės r. sav., Kelmės apylinkių sen., Gaštynų k., Gaštynų g. 29, LT-86116"
+    "address": "Kelmės r. sav., Kelmės apylinkių sen., Gaštynų k., Gaštynų g. 29, LT-86116",
+    "vatcode": "LT100012522314"
   },
   {
     "name": "IĮ \"Smulkinta\"",
@@ -72,7 +72,8 @@
   {
     "name": "Mažoji bendrija \"Smulkintuvų remontas\"",
     "code": "305639713",
-    "address": "Kelmė, A. Mackevičiaus g. 33-6, LT-86127"
+    "address": "Kelmė, A. Mackevičiaus g. 33-6, LT-86127",
+    "vatcode": "LT100013686918"
   },
   {
     "name": "UAB Smulkinu LT",
@@ -160,12 +161,22 @@
   {
     "name": "MB \"Dėmesys smulkmenai\"",
     "code": "307046455",
-    "address": "Vilnius, Vito Gerulaičio g. 6-21, LT-08200"
+    "address": "Vilnius, Vito Gerulaičio g. 6-21, LT-08200",
+    "vatcode": "LT100017439410"
   },
   {
     "name": "UAB \"Vandens smulkmenos\"",
     "code": "302701914",
     "address": "Šiauliai, Rygos g. 23, LT-76203"
+  },
+  {
+    "name": "A. Urbono prekybos įmonė \"100 smulkmenų\"",
+    "code": "177103430"
+  },
+  {
+    "name": "IĮ \"Užuolaidos ir 1000 smulkmenų\"",
+    "code": "301021655",
+    "address": "Klaipėda, Baltijos pr. 39-30, LT-94128"
   },
   {
     "name": "Mažoji bendrija Smulkusis verslas",
@@ -176,5 +187,14 @@
     "name": "UAB \"Smulkūs statybos darbai\"",
     "code": "305328267",
     "address": "Vilniaus rajono savivaldybės teritorija"
+  },
+  {
+    "name": "R. Smulskio individuali įmonė \"Rolina\"",
+    "code": "133645479"
+  },
+  {
+    "name": "Ramūno Smulskio įmonė",
+    "code": "161429428",
+    "address": "Kėdainių r. sav., Dotnuvos sen., Šlapaberžės k., Saulėtekio g. 11, LT-58321"
   }
 ]
