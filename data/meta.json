@@ -333,6 +333,10 @@
     "address": "Vilnius, K. Sirvydo g. 6, LT-01101"
   },
   {
+    "name": "Viešoji įstaiga ''Sveikatos metai''",
+    "code": "302826152"
+  },
+  {
     "name": "Viešoji įstaiga Sidabro metai",
     "code": "307551557",
     "address": "Vilniaus r. sav., Sužionių sen., Ponasų k., Sužionių kel. 43, LT-15111"
@@ -445,6 +449,11 @@
     "name": "MB B metal",
     "code": "305720791",
     "address": "Vilnius, Vaduvos g. 7-10, LT-02304"
+  },
+  {
+    "name": "MB Domus metal",
+    "code": "307625541",
+    "address": "Kaunas, J. Šimoliūno g. 36, LT-46311"
   },
   {
     "name": "MB Egd metal",
@@ -623,7 +632,8 @@
   {
     "name": "UAB \"Metal pro team\"",
     "code": "301245799",
-    "address": "Kaunas, Laisvės al. 99-22, LT-44291"
+    "address": "Kaunas, Laisvės al. 99-22, LT-44291",
+    "vatcode": "LT100003671118"
   },
   {
     "name": "UAB \"Metal service\"",
@@ -691,7 +701,7 @@
   {
     "name": "UAB Metal solutions",
     "code": "302475803",
-    "address": "Vilnius, Dariaus ir Girėno g. 149, LT-02199",
+    "address": "Vilnius, Titnago g. 19, LT-02300",
     "vatcode": "LT100005138912"
   },
   {
@@ -756,6 +766,11 @@
     "code": "305467822",
     "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Akacijų g. 4, LT-38185",
     "vatcode": "LT100013007011"
+  },
+  {
+    "name": "Gintaro metalai MB",
+    "code": "307611082",
+    "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
     "name": "Gs metalai, MB",
@@ -847,8 +862,7 @@
   {
     "name": "UAB \"SK metalai\"",
     "code": "300579835",
-    "address": "Vilnius, Gamyklos g. 8, LT-02210",
-    "vatcode": "LT100002566412"
+    "address": "Vilnius, Gamyklos g. 8, LT-02210"
   },
   {
     "name": "UAB \"Spalvotieji metalai\"",
@@ -971,7 +985,7 @@
   {
     "name": "Malkos ir metalas MB",
     "code": "306146171",
-    "address": "Kaišiadorys, Gedimino g. 68, LT-56145",
+    "address": "Kaišiadorių r. sav., Paparčių sen., Našlėnų k., Savanorių g. 8, LT-56437",
     "vatcode": "LT100016106016"
   },
   {
@@ -1224,11 +1238,6 @@
     "vatcode": "LT100019339314"
   },
   {
-    "name": "\"Kauno marių\" metalinių garažų eksploatavimo bendrija",
-    "code": "135365789",
-    "address": "Kaunas, Nemajūnų g. 11A, LT-52455"
-  },
-  {
     "name": "\"Sankryžos\" metalinių garažų eksploatavimo bendrija",
     "code": "135384031",
     "address": "Kaunas, Skaudvilės g. 5, LT-48457"
@@ -1249,23 +1258,9 @@
     "address": "Vilnius, Pylimo g. 41-10, LT-01308"
   },
   {
-    "name": "13-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija",
-    "code": "124878840",
-    "address": "Vilnius, Žirnių g. 12, LT-02120"
-  },
-  {
-    "name": "16-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija",
-    "code": "125068540",
-    "address": "Vilnius, Justiniškių g. 124, LT-05268"
-  },
-  {
     "name": "2-oji metalinių garažų eksploatavimo bendrija Energetikų g.",
     "code": "145867021",
     "address": "Šiauliai, Energetikų g."
-  },
-  {
-    "name": "200-oji metalinių garažų eksploatavimo bendrija",
-    "code": "135359163"
   },
   {
     "name": "21-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija",
@@ -1292,11 +1287,6 @@
     "address": "Šiauliai, Gegužių g."
   },
   {
-    "name": "31-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija \"EGLĖ\"",
-    "code": "124880916",
-    "address": "Vilnius, Savanorių pr. 202, LT-02301"
-  },
-  {
     "name": "33-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija",
     "code": "124745249",
     "address": "Vilnius, Kurapkų g. 1, LT-11116"
@@ -1305,11 +1295,6 @@
     "name": "39-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija \"KAROLINIŠKĖS\"",
     "code": "125265146",
     "address": "Vilnius, Algimanto Petro Kavoliuko g. 1A"
-  },
-  {
-    "name": "4-oji metalinių garažų eksploatavimo bendrija Rygos g.",
-    "code": "145493538",
-    "address": "Šiauliai, Rygos g."
   },
   {
     "name": "4-oji metalinių garažų statybos ir eksploatavimo bendrija",
@@ -1345,11 +1330,6 @@
     "name": "5-oji metalinių garažų statybos ir eksploatavimo bendrija",
     "code": "148292394",
     "address": "Panevėžys, Prekybos g. 19-2, LT-35104"
-  },
-  {
-    "name": "59-oji metalinių garažų statybos ir eksploatavimo bendrija",
-    "code": "135369086",
-    "address": "Kaunas, Šaldytuvų g."
   },
   {
     "name": "6-oji metalinių garažų eksploatavimo bendrija Gegužių g.",
@@ -1397,10 +1377,6 @@
     "address": "Panevėžio r. sav., Smilgių sen., Savitiškio vs."
   },
   {
-    "name": "Metalinių garažų eksploatavimo bendrija Nr. 3",
-    "code": "250159950"
-  },
-  {
     "name": "Metalinių garažų statybos ir eksploatavimo bendrija \"Gelžbetonis-3\"",
     "code": "135387675",
     "address": "Kaunas, Elektrėnų g. 10A"
@@ -1433,7 +1409,7 @@
   {
     "name": "MB \"Metalinė\"",
     "code": "304726211",
-    "address": "Kaunas, Radvilėnų pl. 36-6, LT-50271",
+    "address": "Trakų r. sav., Trakų sen., Miškinių k., Geležinkelio g. 1-2, LT-21119",
     "vatcode": "LT100012278714"
   },
   {
@@ -2142,7 +2118,7 @@
   {
     "name": "UAB \"Viskas iš metalo\"",
     "code": "303026163",
-    "address": "Marijampolės sav., Marijampolės sen., Baraginės k., Juozo Montvilos g. 30, LT-69491",
+    "address": "Panevėžio r. sav., Panevėžio sen., Šilagalio k., Miško g. 8, LT-36220",
     "vatcode": "LT100008614015"
   },
   {
@@ -2332,6 +2308,11 @@
     "address": "Kaunas, Draugystės g. 17-1, LT-51229"
   },
   {
+    "name": "UAB Copper&platinum group metals",
+    "code": "307620010",
+    "address": "Vilnius, Viršupio Sodų 20-oji g. 6, LT-10230"
+  },
+  {
     "name": "UAB \"Metalsetas\"",
     "code": "303119151",
     "address": "Vilniaus r. sav., Juodšilių sen., Valčiūnų k., Draugystės g. 6, LT-13220",
@@ -2440,6 +2421,11 @@
     "vatcode": "LT100016364914"
   },
   {
+    "name": "MB Metaluva",
+    "code": "307608549",
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Pajiesio k., Pamiškės g. 1, LT-53293"
+  },
+  {
     "name": "UAB \"Metalvita\"",
     "code": "304457939"
   },
@@ -2527,7 +2513,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Metalų laužas\"",
     "code": "302605563",
-    "address": "Vilnius, Jankiškių g. 2, LT-02300",
+    "address": "Vilnius, Jankiškių g. 2-304, LT-02300",
     "vatcode": "LT100006024810"
   },
   {
@@ -2587,8 +2573,7 @@
   {
     "name": "MB Metanda",
     "code": "305894055",
-    "address": "Klaipėdos r. sav., Kretingalė, Jūros g. 16, LT-96332",
-    "vatcode": "LT100016996315"
+    "address": "Klaipėdos r. sav., Kretingalė, Jūros g. 16, LT-96332"
   },
   {
     "name": "UAB Metanet",
@@ -2693,7 +2678,8 @@
   {
     "name": "MB Metaria Viva Punctum",
     "code": "307498108",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+    "address": "Kaunas, Europos pr. 34-47, LT-46370",
+    "vatcode": "LT100019731213"
   },
   {
     "name": "Metarijus, MB",
@@ -2923,7 +2909,8 @@
   {
     "name": "MB Metaviras",
     "code": "307597483",
-    "address": "Šiaulių r. sav., Kairių sen., Mumaičių k. 1A, LT-80104"
+    "address": "Šiaulių r. sav., Kairių sen., Mumaičių k. 1A, LT-80104",
+    "vatcode": "LT100019754818"
   },
   {
     "name": "Metavisata MB",

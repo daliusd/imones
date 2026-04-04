@@ -161,6 +161,10 @@
     "address": "Vilnius, Virginijaus Druskio g. 9-204, LT-04306"
   },
   {
+    "name": "MB \"Reklamos greitoji pagalba\"",
+    "code": "304701749"
+  },
+  {
     "name": "MB \"Skubi pagalba kelyje\"",
     "code": "304647867",
     "address": "Vilnius, Gerosios Vilties g. 6-28, LT-03134"
@@ -179,6 +183,11 @@
     "name": "MB Elektronikos pagalba",
     "code": "307191027",
     "address": "Kaunas, Ginklininkų g. 10-1, LT-46494"
+  },
+  {
+    "name": "MB Juvelyro pagalba",
+    "code": "307605072",
+    "address": "Zarasų r. sav., Dusetų sen., Užtiltės k., Žirgų g. 8-7, LT-32302"
   },
   {
     "name": "MB Laidotuvių pagalba",
@@ -381,6 +390,11 @@
     "address": "Vilnius, Didlaukio g. 52-2, LT-08328"
   },
   {
+    "name": "VšĮ \"Pagalba Jums\"",
+    "code": "307603235",
+    "address": "Gargždai, Kvietinių g. 17-5, LT-96136"
+  },
+  {
     "name": "VšĮ \"Pagalba artimui\"",
     "code": "306154086",
     "address": "Kaunas, Dubravų g. 54, LT-45482"
@@ -456,20 +470,25 @@
     "address": "Rietavas, L. Ivinskio g. 5, LT-90311"
   },
   {
+    "name": "VšĮ Visa pagalba senjorams",
+    "code": "307604458",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "Žvirblytės stomatologinė pagalba",
     "code": "122464239",
     "address": "Vilnius, Teatro g. 5A, LT-03107"
+  },
+  {
+    "name": "Labdaros ir paramos fondas Izabelės pagalbai",
+    "code": "307625687",
+    "address": "Kelmė, Raseinių g. 9-20, LT-86161"
   },
   {
     "name": "MB \"Pagalbininkai\"",
     "code": "304859820",
     "address": "Vilnius, Žirmūnų g. 57-86, LT-09110",
     "vatcode": "LT100017692218"
-  },
-  {
-    "name": "Pagalbinio pastato ir negyvenamojo namo savininkų bendrija \"Prieupis\"",
-    "code": "304960171",
-    "address": "Vilnius, Aukštaičių g. 14, LT-11341"
   },
   {
     "name": "Mažoji bendrija \"Pagalbinis inkaras\"",
@@ -796,7 +815,7 @@
   {
     "name": "Prienų švietimo pagalbos tarnyba",
     "code": "300047768",
-    "address": "Prienai, Kauno g. 1A, LT-59147"
+    "address": "Prienai, Kauno g. 1A-2, LT-59147"
   },
   {
     "name": "Psichologinės pagalbos ir švietimo centras",
@@ -976,11 +995,6 @@
     "address": "Klaipėda, Jurginų g. 33, LT-91206"
   },
   {
-    "name": "Viešosios įstaigos Marijampolės greitosios medicinos pagalbos stoties pirminė profesinė sąjunga",
-    "code": "165809189",
-    "address": "Marijampolė, P. Kriaučiūno g. 2, LT-68298"
-  },
-  {
     "name": "Viešosios įstaigos Mažeikių greitosios medicinos pagalbos centro profesinė sąjunga",
     "code": "167336781",
     "address": "Mažeikiai, J. Basanavičiaus g. 24, LT-89217"
@@ -1051,14 +1065,14 @@
     "address": "Joniškis, Medžiotojų g. 10-5, LT-84116"
   },
   {
-    "name": "VšĮ KLAIPĖDOS PALIATYVIOSIOS PAGALBOS IR SLAUGOS PRIEŽIŪROS TARNYBA",
-    "code": "306178062",
-    "address": "Klaipėda, Dragūnų g. 6-40, LT-92331"
-  },
-  {
     "name": "VšĮ Klaipėdos apskrities pagalbos vyrams centras",
     "code": "305659744",
     "address": "Klaipėda, Smilčių g. 6, LT-92277"
+  },
+  {
+    "name": "VšĮ Klaipėdos integraliosios pagalbos tarnyba",
+    "code": "306178062",
+    "address": "Klaipėda, Dragūnų g. 6-40, LT-92331"
   },
   {
     "name": "VšĮ Ligos paliestųjų psichologinės pagalbos centras",
@@ -1072,7 +1086,8 @@
   {
     "name": "VšĮ Pagalbos tiltas",
     "code": "307277095",
-    "address": "Šilutės r. sav., Žemaičių Naumiestis, Ramybės g. 3-512, LT-99204"
+    "address": "Šilutės r. sav., Žemaičių Naumiestis, Ramybės g. 3-512, LT-99204",
+    "vatcode": "LT100019789719"
   },
   {
     "name": "VšĮ Paliatyviosios pagalbos klinika",

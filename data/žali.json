@@ -522,13 +522,17 @@
   },
   {
     "name": "128-oji daugiabučio namo savininkų bendrija \"ŽALIAKALNIS\"",
-    "code": "125419612",
-    "address": "Vilnius, V. Sirokomlės g. 19-33, LT-11200"
+    "code": "125419612"
   },
   {
     "name": "Bendruomenės centras \"Žaliakalnis\"",
     "code": "306768853",
     "address": "Kaunas, Nevėžio g. 13-1, LT-44187"
+  },
+  {
+    "name": "MB \"Žaliakalnis trans\"",
+    "code": "307619595",
+    "address": "Vilnius, Girulių g. 10, LT-12112"
   },
   {
     "name": "Sodininkų bendrija \"Žaliakalnis\"",
@@ -1334,11 +1338,6 @@
     "address": "Panevėžys, F. Vaitkaus g. 7-58, LT-37361"
   },
   {
-    "name": "Baltosios Vokės Žalioji g. 7 namo bendrija",
-    "code": "300563788",
-    "address": "Šalčininkų r. sav., Baltoji Vokė, Žalioji g. 7-12, LT-17234"
-  },
-  {
     "name": "Bendrija \"Žalioji 5A\"",
     "code": "305510088",
     "address": "Kauno r. sav., Garliava, Žalioji g. 5A, LT-53245"
@@ -1352,11 +1351,6 @@
     "name": "Bendrija \"Žalioji 5C\"",
     "code": "305538372",
     "address": "Kauno r. sav., Garliava, Žalioji g. 5, LT-53249"
-  },
-  {
-    "name": "Daugiabučio namo Nr. 5 Žalioji g., Baltosios Vokės m., Šalčininkų r. sav. savininkų bendrija",
-    "code": "300932655",
-    "address": "Šalčininkų r. sav., Baltoji Vokė, Žalioji g. 5-3, LT-17234"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"ŽALIOJI BANGA\"",
@@ -1534,7 +1528,7 @@
   {
     "name": "UAB \"Žalioji gervė\"",
     "code": "303015380",
-    "address": "Vilnius, Kalvarijų g. 98-48, LT-08211",
+    "address": "Vilniaus m. sav.",
     "vatcode": "LT100017121318"
   },
   {
@@ -1563,7 +1557,7 @@
   {
     "name": "UAB \"Žalioji versmė\"",
     "code": "170637969",
-    "address": "Prienai, Liepų g. 11-5, LT-59127",
+    "address": "Prienai, Vytenio g. 8-10, LT-59140",
     "vatcode": "LT706379610"
   },
   {
@@ -1693,6 +1687,11 @@
     "address": "Vilnius, Antakalnio g. 55-9, LT-10325"
   },
   {
+    "name": "MB \"Žalios bangos\"",
+    "code": "307611673",
+    "address": "Kauno r. sav., Garliava, Pažangos g. 15, LT-53204"
+  },
+  {
     "name": "MB \"Žalios pušys\"",
     "code": "304757032",
     "address": "Vilnius, Vydūno g. 16-61, LT-06205",
@@ -1737,7 +1736,8 @@
   {
     "name": "UAB \"Žaliosios investicijos\"",
     "code": "305905822",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
+    "address": "Vilnius, Jogailos g. 4, LT-01116",
+    "vatcode": "LT100019758013"
   },
   {
     "name": "UAB \"Žaliosios mediena\"",

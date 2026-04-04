@@ -43,8 +43,7 @@
   {
     "name": "MB \"Greita sveika\"",
     "code": "305195895",
-    "address": "Kaunas, Chemijos g. 9A-32, LT-51326",
-    "vatcode": "LT100017499010"
+    "address": "Kaunas, Chemijos g. 9A-32, LT-51326"
   },
   {
     "name": "MB \"Nesveikai sveika\"",
@@ -267,11 +266,6 @@
     "name": "MB \"Tik sveikai\"",
     "code": "306227730",
     "address": "Anykščiai, Statybininkų g. 14-51, LT-29122"
-  },
-  {
-    "name": "MB Auk sveikai",
-    "code": "306154136",
-    "address": "Vilnius, Fabijoniškių g. 21-11, LT-07121"
   },
   {
     "name": "MB Gyvenu sveikai LT",
@@ -530,7 +524,8 @@
   {
     "name": "MB Sveikata365",
     "code": "307195513",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+    "address": "Kaunas, Europos pr. 34-47, LT-46370",
+    "vatcode": "LT100019814916"
   },
   {
     "name": "Bendrija \"Sveikata-1\"",
@@ -566,11 +561,6 @@
     "name": "Laimos Marijos Šilgalienės įmonė \"Sveikata\"",
     "code": "280165820",
     "address": "Telšių r. sav., Viešvėnų sen., Viešvėnų I k., Getautės g. 1, LT-88405"
-  },
-  {
-    "name": "Lazdijų miesto individualių garažų bendrija \"Sveikata\"",
-    "code": "165245945",
-    "address": "Lazdijai, Kauno g."
   },
   {
     "name": "MAŽOJI BENDRIJA GROŽIS IR SVEIKATA",
@@ -883,11 +873,6 @@
     "address": "Alytus, Ulonų g. 33A, LT-62161"
   },
   {
-    "name": "Alytaus neįgaliųjų sportinis sveikatingumo klubas \"VILTIS\"",
-    "code": "149934649",
-    "address": "Alytus, Žuvinto g. 9-10, LT-62351"
-  },
-  {
     "name": "Asociacija \"Sveikatingumo kodas\"",
     "code": "305141495",
     "address": "Kelmės r. sav., Kelmės apylinkių sen., Pagojo k., Uosių g. 116, LT-86149",
@@ -961,7 +946,8 @@
   {
     "name": "Kovos menų ir sveikatingumo klubas \"Tėkmė\"",
     "code": "304628272",
-    "address": "Vilnius, Krokuvos g. 9A-18, LT-09314"
+    "address": "Vilnius, Krokuvos g. 9A-18, LT-09314",
+    "vatcode": "LT100019729014"
   },
   {
     "name": "Lietuvos sporto ir sveikatingumo klubų asociacija",
@@ -1466,6 +1452,11 @@
     "address": "Kauno r. sav., Alšėnų sen., Girininkų I k., Mokyklos g. 35, LT-53323"
   },
   {
+    "name": "MB Sveikatinimo sklaida",
+    "code": "307617288",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
     "name": "MB kineziterapijos ir sveikatinimo studija \"Lavus\"",
     "code": "305184450",
     "address": "Marijampolė, J. Ambrazevičiaus-Brazaičio g. 15-19, LT-68158"
@@ -1673,6 +1664,11 @@
     "address": "Druskininkai, M. K. Čiurlionio g. 80, LT-66144"
   },
   {
+    "name": "EN sveikatos labdaros ir paramos fondas",
+    "code": "307625178",
+    "address": "Kėdainiai, Gegučių g. 11-80, LT-57462"
+  },
+  {
     "name": "Elektrėnų savivaldybės visuomenės sveikatos biuras",
     "code": "303210658",
     "address": "Elektrėnai, Taikos g. 8B, LT-26115"
@@ -1775,7 +1771,7 @@
   {
     "name": "Kaišiadorių rajono savivaldybės visuomenės sveikatos biuras",
     "code": "301729889",
-    "address": "Kaišiadorys, Gedimino g. 85-1, LT-56144"
+    "address": "Kaišiadorys, Gedimino g. 48-3, LT-56126"
   },
   {
     "name": "Kauno apskrities moterų sveikatos draugija \"Alma\"",
@@ -2114,12 +2110,6 @@
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
-    "name": "MB \"Vilniaus grožio ir sveikatos prekyba\"",
-    "code": "306084175",
-    "address": "Vilnius, Alko g. 4-2, LT-08401",
-    "vatcode": "LT100015012917"
-  },
-  {
     "name": "MB Baronų sveikatos centras",
     "code": "307533616",
     "address": "Palanga, Klaipėdos pl. 52-14, LT-00115"
@@ -2221,6 +2211,11 @@
     "name": "MB Sveikatos laboratorija",
     "code": "304862058",
     "address": "Visaginas, Taikos pr. 36-28, LT-31112"
+  },
+  {
+    "name": "MB Sveikatos logistikos inovacijos",
+    "code": "307603406",
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
   },
   {
     "name": "MB Sveikatos priežiūros akademija",
@@ -2361,6 +2356,11 @@
     "address": "Vilnius, Žirmūnų g. 128-10, LT-09126"
   },
   {
+    "name": "Neringos miesto pirminės sveikatos priežiūros centro darbuotojų profesinė sąjunga",
+    "code": "307608428",
+    "address": "Neringa, Taikos g. 10-10A, LT-93121"
+  },
+  {
     "name": "Neringos sveikatos klubas \"Esuva\"",
     "code": "300647791",
     "address": "Neringa, Kopų g. 23-4, LT-93122"
@@ -2428,7 +2428,7 @@
   {
     "name": "Prienų rajono savivaldybės visuomenės sveikatos biuras",
     "code": "301846675",
-    "address": "Prienai, J. Brundzos g. 12A, LT-59127"
+    "address": "Prienai, J. Brundzos g. 12A-2, LT-59127"
   },
   {
     "name": "Psichikos sveikatos vadybos asociacija",
@@ -2513,6 +2513,11 @@
     "code": "191349831",
     "address": "Kaunas, M. K. Čiurlionio g. 23, LT-44356",
     "vatcode": "LT100004955514"
+  },
+  {
+    "name": "Sveikatos kompetencijų centras MB",
+    "code": "307614032",
+    "address": "Trakai, Gilušio g. 16-16, LT-21110"
   },
   {
     "name": "Sveikatos mokykla \"Šalavijas\"",
@@ -2823,6 +2828,12 @@
     "name": "UAB \"Užvenčio šeimos sveikatos centras\"",
     "code": "162772312",
     "address": "Kelmės r. sav., Užventis, Vilties g. 2, LT-86346"
+  },
+  {
+    "name": "UAB \"Vilniaus grožio ir sveikatos prekyba\"",
+    "code": "306084175",
+    "address": "Vilnius, Alko g. 4-2, LT-08401",
+    "vatcode": "LT100015012917"
   },
   {
     "name": "UAB \"Vilniaus sveikatos namai\"",
@@ -3173,10 +3184,13 @@
     "address": "Šilutė, Liepų g. 15, LT-99182"
   },
   {
+    "name": "Viešoji įstaiga \"Sveikatos vandenynas\"",
+    "code": "304433468"
+  },
+  {
     "name": "Viešoji įstaiga \"Sveikatos žinios\"",
     "code": "135957424",
-    "address": "Širvintų r. sav., Kernavė, Pajautos g. 41, LT-19170",
-    "vatcode": "LT359574219"
+    "address": "Širvintų r. sav., Kernavė, Pajautos g. 41, LT-19170"
   },
   {
     "name": "Viešoji įstaiga \"Vilkijos pirminės sveikatos priežiūros centras\"",
@@ -3188,6 +3202,10 @@
     "name": "Viešoji įstaiga \"Šeimos sveikatos sprendimai\"",
     "code": "300026336",
     "address": "Kauno m. sav."
+  },
+  {
+    "name": "Viešoji įstaiga ''Sveikatos metai''",
+    "code": "302826152"
   },
   {
     "name": "Viešoji įstaiga Alytaus rajono savivaldybės pirminės sveikatos priežiūros centras",
@@ -3964,11 +3982,6 @@
     "address": "Švenčionių r. sav., Švenčionėliai, Žemutinė g. 33B-35, LT-18211"
   },
   {
-    "name": "MB \"Sveikera\"",
-    "code": "305659783",
-    "address": "Vilnius, Girulių g. 18, LT-12122"
-  },
-  {
     "name": "MB \"Sveikesnis kūnas\"",
     "code": "305660020",
     "address": "Klaipėda, Kauno g. 9A-26, LT-91156"
@@ -4034,6 +4047,11 @@
     "name": "SVEIKI BALDAI, MB",
     "code": "307130024",
     "address": "Kauno r. sav., Akademija, Pilėnų g. 3-3, LT-53347"
+  },
+  {
+    "name": "Sveiki UAB",
+    "code": "307619360",
+    "address": "Klaipėda, H. Manto g. 46-22, LT-92225"
   },
   {
     "name": "UAB \"Sveiki dantys Jums\"",
@@ -4123,6 +4141,11 @@
     "address": "Panevėžio r. sav., Krekenavos sen., Žibartonių k., Žibartonių g. 52, LT-38323"
   },
   {
+    "name": "Sveiklean, MB",
+    "code": "307617128",
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
     "name": "\"Sveiko Judesio\" asociacija",
     "code": "304222161",
     "address": "Elektrėnų sav., Vievis, Naujoji g. 15A-29, LT-21373"
@@ -4178,6 +4201,11 @@
   {
     "name": "Viešoji įstaiga Sveiko miesto institutas",
     "code": "234959640"
+  },
+  {
+    "name": "VšĮ Sveiko maisto kūrėjai",
+    "code": "307613286",
+    "address": "Kauno r. sav., Raudondvario sen., Biliūnų k., Gilės g. 6, LT-54104"
   },
   {
     "name": "MB \"Sveikoda\"",
@@ -4301,7 +4329,7 @@
   {
     "name": "Sveikos nugaros akademija, UAB",
     "code": "305506905",
-    "address": "Vilnius, Mindaugo g. 27-279, LT-03210",
+    "address": "Vilnius, Mindaugo g. 27-358, LT-03210",
     "vatcode": "LT100013054114"
   },
   {

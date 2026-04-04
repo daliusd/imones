@@ -1010,6 +1010,11 @@
     "address": "Šiauliai, Tilžės g. 36-7, LT-78205"
   },
   {
+    "name": "VšĮ \"Dėl vaiko\"",
+    "code": "307619428",
+    "address": "Vilnius, Konstitucijos pr. 23, LT-08105"
+  },
+  {
     "name": "VšĮ \"VAIKO VILTIS\"",
     "code": "302516513",
     "address": "Kaunas, Alovės g. 6, LT-46343"
@@ -1260,8 +1265,7 @@
   {
     "name": "MB Vaikučiai",
     "code": "305971733",
-    "address": "Akmenės r. sav., Naujosios Akmenės kaimiškoji sen., Alkiškių k., Atžalyno g. 2, LT-85270",
-    "vatcode": "LT100015522916"
+    "address": "Akmenės r. sav., Naujosios Akmenės kaimiškoji sen., Alkiškių k., Atžalyno g. 2, LT-85270"
   },
   {
     "name": "IĮ Broniaus Vaikučio gamybinė-komercinė įmonė",
@@ -1555,10 +1559,6 @@
     "name": "Ramunės Vaikšnienės individuali įmonė",
     "code": "270748760",
     "address": "Prienai, F. Vaitkaus g. 36, LT-59113"
-  },
-  {
-    "name": "Algimanto Vaikšnoros įmonė \"Lana\"",
-    "code": "259671560"
   },
   {
     "name": "UAB \"Vaikšta\"",
@@ -3415,7 +3415,8 @@
   {
     "name": "VšĮ Vaikų ugdymo akademija",
     "code": "305730337",
-    "address": "Klaipėda, Taikos pr. 127-2, LT-94247"
+    "address": "Klaipėda, Taikos pr. 127-2, LT-94247",
+    "vatcode": "LT100019858413"
   },
   {
     "name": "VšĮ Vaikų ugdymo centras \"Vedika\"",

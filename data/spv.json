@@ -1,84 +1,5 @@
 [
   {
-    "name": "UAB Lapino namai SPV01",
-    "code": "307138494",
-    "address": "Vilnius, Krokuvos g. 13, LT-09314",
-    "vatcode": "LT100017835413"
-  },
-  {
-    "name": "UAB Lapino namai SPV02",
-    "code": "307138551",
-    "address": "Vilnius, Krokuvos g. 13, LT-09314",
-    "vatcode": "LT100017835615"
-  },
-  {
-    "name": "UAB \"RAZ SPV10\"",
-    "code": "302700043",
-    "address": "Kaunas, Islandijos pl. 32B, LT-47446",
-    "vatcode": "LT100006571915"
-  },
-  {
-    "name": "UAB \"RAZ SPV16\"",
-    "code": "302949895",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
-  },
-  {
-    "name": "Snowball SPV1, UAB",
-    "code": "305630657",
-    "address": "Vilnius, Jogailos g. 4, LT-01116"
-  },
-  {
-    "name": "UAB SVK SPV1",
-    "code": "305822725",
-    "address": "Vilnius, Aukštaičių g. 8A-10, LT-11341"
-  },
-  {
-    "name": "UAB Saulės SPV1",
-    "code": "306083461",
-    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263"
-  },
-  {
-    "name": "UAB VC SPV1",
-    "code": "305217683",
-    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
-  },
-  {
-    "name": "UAB ZSC NT SPV1",
-    "code": "304932453",
-    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
-  },
-  {
-    "name": "UAB SPV200CBM",
-    "code": "307460748",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
-  },
-  {
-    "name": "Lvivo SPV2, UAB",
-    "code": "306676209",
-    "address": "Vilnius, Geležinio Vilko g. 18A, LT-08126"
-  },
-  {
-    "name": "UAB \"BP SPV2\"",
-    "code": "305959275",
-    "address": "Vilnius, A. Goštauto g. 40B, LT-03163"
-  },
-  {
-    "name": "UAB Saulės SPV2",
-    "code": "306150134",
-    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263"
-  },
-  {
-    "name": "UAB VC SPV2",
-    "code": "305228893",
-    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400"
-  },
-  {
-    "name": "UAB RE-SPV5",
-    "code": "307138010",
-    "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Žirgų g. 21, LT-14158",
-    "vatcode": "LT100018744714"
-  },
-  {
     "name": "MB \"SPV PROJEKTAI\"",
     "code": "303046575",
     "address": "Vilnius, Šeškinės g. 6-65, LT-07152",
@@ -87,12 +8,18 @@
   {
     "name": "Mykolo SPV, UAB",
     "code": "307560015",
-    "address": "Vilnius, Vakarinė g. 105, LT-06298"
+    "address": "Vilnius, Vakarinė g. 105, LT-06298",
+    "vatcode": "LT100019771717"
   },
   {
     "name": "Recor spv, UAB",
     "code": "306962203",
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+  },
+  {
+    "name": "SPV Mexico, MB",
+    "code": "307607664",
+    "address": "Vilnius, Elniakampio g. 16-4, LT-10100"
   },
   {
     "name": "SPV-18 UAB",
@@ -137,6 +64,11 @@
     "address": "Vilnius, Gedimino pr. 44A-301, LT-01110"
   },
   {
+    "name": "SPV-66 UAB",
+    "code": "307605510",
+    "address": "Vilnius, Gedimino pr. 44A-301, LT-01110"
+  },
+  {
     "name": "SPV-A1 UAB",
     "code": "307519545",
     "address": "Vilnius, Jogailos g. 4, LT-01116"
@@ -174,6 +106,11 @@
     "code": "304907051",
     "address": "Vilnius, Antano Tumėno g. 4-305, LT-01110",
     "vatcode": "LT100014040715"
+  },
+  {
+    "name": "UAB \"LNT-SPV\"",
+    "code": "307620512",
+    "address": "Kaunas, J. Gruodžio g. 21, LT-44293"
   },
   {
     "name": "UAB \"Medeinos SPV\"",
@@ -411,7 +348,8 @@
   {
     "name": "UAB RE-SPV-6",
     "code": "307153724",
-    "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Žirgų g. 21, LT-14158"
+    "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Žirgų g. 21, LT-14158",
+    "vatcode": "LT100019747815"
   },
   {
     "name": "UAB SPV A18",
@@ -454,6 +392,11 @@
     "code": "307162050",
     "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Žirgų g. 21, LT-14158",
     "vatcode": "LT100019670218"
+  },
+  {
+    "name": "UAB SPV Manufaktūros",
+    "code": "307629881",
+    "address": "Kauno r. sav., Lapių sen., Tauralaukio k., Pušyno g. 6, LT-54415"
   },
   {
     "name": "UAB SPV NS",
@@ -530,14 +473,14 @@
     "vatcode": "LT100008817618"
   },
   {
+    "name": "UAB VILNIA-SPV",
+    "code": "307610639",
+    "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Žirgų g. 21, LT-14158"
+  },
+  {
     "name": "UAB Victory SPV 1",
     "code": "306178781",
     "address": "Vilnius, Kareivių g. 5, LT-08351",
     "vatcode": "LT100015811415"
-  },
-  {
-    "name": "UAB \"SPVG projektai\"",
-    "code": "302769242",
-    "address": "Vilnius, Saltoniškių g. 29, LT-08106"
   }
 ]

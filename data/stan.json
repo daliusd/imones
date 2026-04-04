@@ -32,11 +32,6 @@
     "address": "Kauno r. sav., Garliava, Žalioji g. 7-40, LT-53247"
   },
   {
-    "name": "J. Stanaičio įmonė",
-    "code": "125896275",
-    "address": "Vilnius, Žemynos g. 29-5, LT-06132"
-  },
-  {
     "name": "Mantvydo Stanaičio labdaros ir paramos fondas",
     "code": "300678388",
     "address": "Kaunas, Kuršių g. 56-42, LT-48133"
@@ -234,7 +229,8 @@
   {
     "name": "MB Aukšti Standartai",
     "code": "307591167",
-    "address": "Vilnius, Azerų g. 44-1, LT-11332"
+    "address": "Vilnius, Azerų g. 44-1, LT-11332",
+    "vatcode": "LT100019723313"
   },
   {
     "name": "MB Tarptautiniai standartai",
@@ -455,7 +451,12 @@
   {
     "name": "MB \"Standartinis procesas\"",
     "code": "306157762",
-    "address": "Vilnius, Juozo Rutkausko g. 25-R20, LT-05132"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+  },
+  {
+    "name": "MB Standartinis Nuokrypis",
+    "code": "307630378",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
   },
   {
     "name": "Lietuvos akreditacijos ir standartizacijos agentūra",
@@ -594,8 +595,7 @@
   {
     "name": "Stanevičiaus, MB",
     "code": "306375946",
-    "address": "Alytus, Sudvajų g. 22-13, LT-63281",
-    "vatcode": "LT100016926617"
+    "address": "Alytus, Sudvajų g. 22-13, LT-63281"
   },
   {
     "name": "UAB \"Stanevičiaus 86\"",
@@ -1249,7 +1249,7 @@
   {
     "name": "MB \"Stanių mėsinė\"",
     "code": "305879174",
-    "address": "Telšių r. sav., Upynos sen., Upynos k., Kuršėnų g. 56, LT-88227",
+    "address": "Telšių r. sav., Upynos sen., Upynos k., Kuršėnų g. 44C, LT-88227",
     "vatcode": "LT100015240511"
   },
   {
@@ -1756,6 +1756,12 @@
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
+    "name": "UAB Stantransa",
+    "code": "174998187",
+    "address": "Šalčininkai, Vytauto g. 21-2, LT-17108",
+    "vatcode": "LT100000829517"
+  },
+  {
     "name": "Mildos Stanulienės įmonė",
     "code": "145797231",
     "address": "Šiaulių r. sav., Kuršėnai, Ventos g. 7-1"
@@ -1831,12 +1837,6 @@
     "name": "MB \"V. Stančiko veterinarinės paslaugos\"",
     "code": "304869412",
     "address": "Kretinga, Šventosios g. 1A-1, LT-97122"
-  },
-  {
-    "name": "UAB Stančiko autotransporto įmonė",
-    "code": "174998187",
-    "address": "Šalčininkai, Vytauto g. 21-2, LT-17108",
-    "vatcode": "LT100000829517"
   },
   {
     "name": "VšĮ Linos Stančiūtės teniso akademija",

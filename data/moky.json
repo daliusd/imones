@@ -629,6 +629,11 @@
     "address": "Kaunas, Laisvės al. 33, LT-44311"
   },
   {
+    "name": "Kauno irklavimo mokykla",
+    "code": "307611381",
+    "address": "Kaunas, A. Smetonos al. 65-32, LT-45310"
+  },
+  {
     "name": "Kauno mokykla-darželis \"Rūtelė\"",
     "code": "191635156",
     "address": "Kaunas, Kalniečių g. 167, LT-50152"
@@ -3465,7 +3470,8 @@
   {
     "name": "Zarasų Fausto Latėno meno mokykla",
     "code": "190212420",
-    "address": "Zarasai, Dariaus ir Girėno g. 11, LT-32129"
+    "address": "Zarasai, Dariaus ir Girėno g. 11, LT-32129",
+    "vatcode": "LT100019823915"
   },
   {
     "name": "Zarasų profesinė mokykla",
@@ -3905,6 +3911,11 @@
     "address": "Vilnius, Raugyklos g. 17-20, LT-01140"
   },
   {
+    "name": "Mažeikių \"Žiburėlio\" pradinės mokyklos bendruomenė",
+    "code": "307603267",
+    "address": "Mažeikiai, S. Daukanto g. 5-29, LT-89118"
+  },
+  {
     "name": "Mokyklos g. 58 daugiabučio namo savininkų bendrija",
     "code": "125177486",
     "address": "Palanga, Mokyklos g. 58, LT-00303"
@@ -3942,11 +3953,6 @@
   {
     "name": "Raseinių rajono Nemakščių Martyno Mažvydo vidurinės mokyklos jaunųjų ūkininkų ratelis",
     "code": "172440625"
-  },
-  {
-    "name": "Raudėnų pagrindinės mokyklos sporto klubas \"Olimpinė viltis\"",
-    "code": "145796325",
-    "address": "Šiaulių r. sav., Raudėnų sen., Raudėnų k., Tryškių g. 4, LT-81322"
   },
   {
     "name": "SMK Aukštosios Mokyklos Studentų Atstovybė",
@@ -4434,6 +4440,11 @@
     "name": "MB Logistikos mokymai",
     "code": "306722603",
     "address": "Kaunas, Laisvės al. 110, LT-44253"
+  },
+  {
+    "name": "MB MK mokymai",
+    "code": "307610870",
+    "address": "Trakų r. sav., Grendavės sen., Žuklijų k., Pakojo g. 22, LT-21190"
   },
   {
     "name": "MB Mokymai ir edukacija",
@@ -6016,11 +6027,6 @@
     "name": "Lietuvos mokytojų profesinės sąjungos Vilniaus skyrius",
     "code": "301542366",
     "address": "Vilnius, Viršuliškių g. 45-38, LT-05102"
-  },
-  {
-    "name": "Lietuvos mokytojų profesinės sąjungos Šiaulių skyrius",
-    "code": "145602368",
-    "address": "Šiauliai, Pakalnės g. 6A, LT-76293"
   },
   {
     "name": "Lietuvos mokytojų, švietimo ir mokslo profesinės sąjungos Tauragės rajono susivienijimas",

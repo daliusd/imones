@@ -94,7 +94,8 @@
   {
     "name": "Enereso UAB",
     "code": "304936131",
-    "address": "Kaunas, Kukučių g. 39, LT-51338"
+    "address": "Kaunas, Kukučių g. 39, LT-51338",
+    "vatcode": "LT100011971012"
   },
   {
     "name": "UAB ENERGA GRUPE",
@@ -126,7 +127,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"ENERGEN VILNIUS\"",
     "code": "111655684",
-    "address": "Vilnius, Šv. Ignoto g. 5-270"
+    "address": "Vilnius, Šv. Ignoto g. 5-270",
+    "vatcode": "LT116556811"
   },
   {
     "name": "UAB \"Energenas\"",
@@ -161,6 +163,11 @@
     "name": "UAB \"Energeta\"",
     "code": "302462357",
     "address": "Vilnius, Ozo g. 10A-10, LT-08200"
+  },
+  {
+    "name": "Stardust Energetics, UAB",
+    "code": "307624005",
+    "address": "Vilnius, Krivių g. 5, LT-01204"
   },
   {
     "name": "Akcinė bendrovė \"KLAIPĖDOS ENERGETIKA\"",
@@ -378,18 +385,14 @@
     "address": "Elektrėnai, Elektrinės g. 4, LT-26109"
   },
   {
-    "name": "Garažų eksploatavimo ir statybos bendrija \"Energetikas\"",
-    "code": "167619733",
-    "address": "Molėtai, Statybininkų g. 7, LT-33112"
-  },
-  {
     "name": "Garažų statybos ir eksploatavimo bendrija \"ENERGETIKAS\"",
     "code": "141784514",
     "address": "Klaipėda, Dubysos g. 37B K3, LT-91181"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Energetikas\"",
-    "code": "170546665"
+    "code": "135385133",
+    "address": "Kaunas, V. Krėvės pr. 131, LT-51100"
   },
   {
     "name": "Garažų statybos ir eksploatavimo bendrija \"Energetikas-3\"",
@@ -1086,11 +1089,6 @@
     "vatcode": "LT100004205614"
   },
   {
-    "name": "UAB \"Ventus Energia\"",
-    "code": "307046512",
-    "address": "Vilnius, Švitrigailos g. 7, LT-03110"
-  },
-  {
     "name": "UAB \"Via Solis Energia\"",
     "code": "302468584",
     "address": "Kaunas, B. Brazdžionio g. 23, LT-48184",
@@ -1288,6 +1286,11 @@
     "vatcode": "LT100011873514"
   },
   {
+    "name": "MB \"Pranatula energija ir balansas\"",
+    "code": "307607486",
+    "address": "Gargždai, Dariaus ir Girėno g. 31A-1, LT-96127"
+  },
+  {
     "name": "MB \"TM energija\"",
     "code": "302909071",
     "address": "Vilnius, Žirmūnų g. 26-1, LT-09229",
@@ -1444,8 +1447,7 @@
   {
     "name": "UAB \"ALKOS energija\"",
     "code": "302799755",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Raizgių k., Vakarų g. 2C, LT-80192",
-    "vatcode": "LT100007750214"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Raizgių k., Vakarų g. 2C, LT-80192"
   },
   {
     "name": "UAB \"APR ENERGIJA\"",
@@ -1569,12 +1571,6 @@
     "vatcode": "LT100007003813"
   },
   {
-    "name": "UAB \"EKO ENERGIJA-1\"",
-    "code": "302470343",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Teleičių k., Narsiečių g. 20H, LT-53273",
-    "vatcode": "LT100007452514"
-  },
-  {
     "name": "UAB \"EKO ENERGIJA-3\"",
     "code": "302776913",
     "address": "Prienai, Liepų g. 11-5, LT-59127"
@@ -1611,11 +1607,6 @@
     "code": "302798952",
     "address": "Klaipėda, Skautų g. 5, LT-92282",
     "vatcode": "LT100007550615"
-  },
-  {
-    "name": "UAB \"EU energija\"",
-    "code": "302862629",
-    "address": "Kauno miesto savivaldybės teritorija"
   },
   {
     "name": "UAB \"Ekologiška energija\"",
@@ -1782,7 +1773,7 @@
   {
     "name": "UAB \"MJ energija\"",
     "code": "302855620",
-    "address": "Kaunas, Aukštutinių Kaniūkų g. 41-2, LT-47297",
+    "address": "Vilnius, Gelvonų g. 51-52, LT-07136",
     "vatcode": "LT100008916515"
   },
   {
@@ -3147,6 +3138,10 @@
     "vatcode": "LT263219917"
   },
   {
+    "name": "UAB \"Energolinija\"",
+    "code": "135647258"
+  },
+  {
     "name": "UAB \"VS energolink\"",
     "code": "302781878",
     "address": "Kaunas, Laisvės al. 110, LT-44253",
@@ -3316,7 +3311,7 @@
   {
     "name": "UAB \"Energostata\"",
     "code": "176636518",
-    "address": "Mažeikiai, Lazdynų 3-ioji g. 11, LT-89146",
+    "address": "Mažeikių r. sav.",
     "vatcode": "LT766365113"
   },
   {
@@ -3370,6 +3365,18 @@
     "name": "MB Energotonas",
     "code": "305822426",
     "address": "Marijampolės sav., Liudvinavo sen., Padovinio k., Šermukšnių g. 5, LT-69151"
+  },
+  {
+    "name": "UAB Energotrade",
+    "code": "307620505",
+    "address": "Kaunas, Darbo g. 6, LT-52102",
+    "vatcode": "LT100019857112"
+  },
+  {
+    "name": "UAB Energotrans",
+    "code": "307604732",
+    "address": "Kaunas, Partizanų g. 61-806, LT-49282",
+    "vatcode": "LT100019790312"
   },
   {
     "name": "UAB \"Energoturtas\"",
@@ -3521,6 +3528,11 @@
     "address": "Vilnius, Taikos g. 50-23, LT-05236"
   },
   {
+    "name": "Bytera energy, MB",
+    "code": "307608225",
+    "address": "Kėdainių r. sav., Vilainių sen., Daukainių k., Daukainių g. 19, LT-58112"
+  },
+  {
     "name": "Civitas Energy, UAB",
     "code": "304892350",
     "address": "Vilnius, Jogailos g. 4, LT-01116"
@@ -3528,12 +3540,14 @@
   {
     "name": "Clean Energy Holding UAB",
     "code": "307097364",
-    "address": "Vilnius, Žalgirio g. 112-1, LT-09300"
+    "address": "Vilnius, Žalgirio g. 112-1, LT-09300",
+    "vatcode": "LT100019738116"
   },
   {
     "name": "Clean Energy Investments II UAB",
     "code": "307151730",
-    "address": "Vilnius, Žalgirio g. 112-1, LT-09300"
+    "address": "Vilnius, Žalgirio g. 112-1, LT-09300",
+    "vatcode": "LT100019758114"
   },
   {
     "name": "Clean Energy Investments UAB",
@@ -3764,6 +3778,11 @@
     "code": "306732145",
     "address": "Šiauliai, Gegužių g. 77-70, LT-78338",
     "vatcode": "LT100017164210"
+  },
+  {
+    "name": "MB ,,ZERRA ENERGY\"",
+    "code": "307628690",
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
   },
   {
     "name": "MB 3F ENERGY",
@@ -4002,8 +4021,7 @@
   {
     "name": "Smart Energy DIH, VšĮ",
     "code": "303081996",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
-    "vatcode": "LT100007847917"
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "Solar Energy Investments UAB",
@@ -4036,7 +4054,12 @@
   {
     "name": "UAB \"APS Energy\"",
     "code": "306156258",
-    "address": "Vilnius, J. Basanavičiaus g. 9C-6, LT-01118"
+    "address": "Vilnius, J. Basanavičiaus g. 9C-6, LT-01118",
+    "vatcode": "LT100019868118"
+  },
+  {
+    "name": "UAB \"Agri Energy\"",
+    "code": "302504991"
   },
   {
     "name": "UAB \"Area energy\"",
@@ -4310,7 +4333,8 @@
   {
     "name": "UAB \"KN New Energy Solutions\"",
     "code": "304977459",
-    "address": "Klaipėda, Burių g. 19, LT-92276"
+    "address": "Klaipėda, Burių g. 19, LT-92276",
+    "vatcode": "LT100012432113"
   },
   {
     "name": "UAB \"LA ENERGY\"",
@@ -4360,6 +4384,11 @@
     "vatcode": "LT100017664717"
   },
   {
+    "name": "UAB \"Memel Energy\"",
+    "code": "307604383",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "UAB \"Memel Wind Energy\"",
     "code": "302469138",
     "address": "Kretingos r. sav., Darbėnų sen., Žynelių k. 4, LT-97282",
@@ -4391,8 +4420,7 @@
   {
     "name": "UAB \"OX ENERGY\"",
     "code": "302680548",
-    "address": "Vilnius, Maišiagalos g. 23, LT-08213",
-    "vatcode": "LT100007217614"
+    "address": "Vilnius, Maišiagalos g. 23, LT-08213"
   },
   {
     "name": "UAB \"PV ENERGY LT\"",
@@ -4538,6 +4566,16 @@
     "address": "Vilnius, Aguonų g. 5-13, LT-03213"
   },
   {
+    "name": "UAB BRE Energy",
+    "code": "307603630",
+    "address": "Mažeikiai, Pavenčių g. 6 K1-10, LT-89189"
+  },
+  {
+    "name": "UAB Baltic energy hub",
+    "code": "307629372",
+    "address": "Kauno r. sav., Ringaudų sen., Noreikiškių k., Rytų g. 5-2, LT-53363"
+  },
+  {
     "name": "UAB CYPRUS ENERGY",
     "code": "302915156",
     "address": "Panevėžys, Staniūnų g. 80, LT-36158"
@@ -4608,6 +4646,11 @@
     "name": "UAB Evecon energy holding",
     "code": "306617328",
     "address": "Vilnius, A. Domaševičiaus g. 9, LT-01400"
+  },
+  {
+    "name": "UAB FRR Energy",
+    "code": "307605033",
+    "address": "Mažeikiai, Pavenčių g. 6 K1-10, LT-89189"
   },
   {
     "name": "UAB FUTURE HOME ENERGY",
@@ -4875,6 +4918,12 @@
     "name": "MB N.Energyburstshop",
     "code": "307085629",
     "address": "Kaunas, Giedraičių g. 9-14, LT-44156"
+  },
+  {
+    "name": "Energyk global services UAB",
+    "code": "306147451",
+    "address": "Vilnius, Architektų g. 56-101, LT-04111",
+    "vatcode": "LT100019619117"
   },
   {
     "name": "UAB \"Energyk LT\"",

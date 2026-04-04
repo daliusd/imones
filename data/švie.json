@@ -15,6 +15,11 @@
     "address": "Šiauliai, Tilžės g. 175-1, LT-76204"
   },
   {
+    "name": "Asociacija \"Ir šviesa ir tiesa\"",
+    "code": "307629664",
+    "address": "Kaišiadorys, Gedimino g. 58-2, LT-56126"
+  },
+  {
     "name": "Asociacija \"Tikėjimas ir šviesa\"",
     "code": "193011091",
     "address": "Vilnius, Aušros Vartų g. 12, LT-01303"
@@ -131,7 +136,8 @@
   {
     "name": "MB \"Kalėdų šviesa\"",
     "code": "307476407",
-    "address": "Vilnius, Žaibo g. 15-31, LT-04126"
+    "address": "Vilnius, Žaibo g. 15-31, LT-04126",
+    "vatcode": "LT100019731314"
   },
   {
     "name": "MB \"Lazurito šviesa\"",
@@ -346,11 +352,6 @@
     "name": "Vlado Gumuliausko šeimyna \"Vaiko šviesa\"",
     "code": "302530356",
     "address": "Šiauliai, Tilžės g. 36-7, LT-78205"
-  },
-  {
-    "name": "VšĮ \"Mano šviesa\"",
-    "code": "303157928",
-    "address": "Vilniaus r. sav., Avižienių sen., Lindiniškių k., Vijoklių g. 21B, LT-14181"
   },
   {
     "name": "VšĮ \"Mokslo šviesa\"",
@@ -695,7 +696,8 @@
   {
     "name": "MB \"Šviesos kūrėja\"",
     "code": "304710538",
-    "address": "Trakų r. sav., Senųjų Trakų sen., Senojo Tarpupio k., Meduvio 1-oji g. 53, LT-21148"
+    "address": "Trakų r. sav., Senųjų Trakų sen., Senojo Tarpupio k., Meduvio 1-oji g. 53, LT-21148",
+    "vatcode": "LT100019795815"
   },
   {
     "name": "MB \"Šviesos lūžis\"",
@@ -1162,7 +1164,7 @@
   {
     "name": "Mažoji bendrija Šiandien šviesu",
     "code": "307035277",
-    "address": "Vilnius, Žirmūnų g. 48E-18, LT-09226"
+    "address": "Vilnius, Gervuogių g. 20-11, LT-10103"
   },
   {
     "name": "UAB \"Šviesulys\"",
@@ -1321,7 +1323,8 @@
   {
     "name": "VšĮ Išmanus švietimas",
     "code": "306150166",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019726512"
   },
   {
     "name": "Lietuvos įtraukties švietime centras",
@@ -1376,11 +1379,6 @@
   {
     "name": "Ekologinio švietimo klubas \"ATAUGA\"",
     "code": "193346798"
-  },
-  {
-    "name": "Elektrėnų savivaldybės švietimo darbuotojų profesinė sąjunga",
-    "code": "301745861",
-    "address": "Elektrėnai, Rungos g. 24, LT-26110"
   },
   {
     "name": "Elektrėnų švietimo paslaugų centras",
@@ -1640,6 +1638,11 @@
     "address": "Šalčininkai, Vilniaus g. 49, LT-17116"
   },
   {
+    "name": "Lietuvos švietimo ir mokslo profesinės sąjungos Elektrėnų savivaldybės susivienijimas",
+    "code": "301745861",
+    "address": "Elektrėnai, Rungos g. 24, LT-26110"
+  },
+  {
     "name": "Lietuvos švietimo ir mokslo profesinės sąjungos Joniškio rajono susivienijimas",
     "code": "301498756",
     "address": "Joniškis, Livonijos g. 4, LT-84124"
@@ -1657,7 +1660,7 @@
   {
     "name": "Lietuvos švietimo ir mokslo profesinės sąjungos Kazlų Rūdos savivaldybės susivienijimas",
     "code": "302622363",
-    "address": "Kazlų Rūda, M. K. Čiurlionio g. 9, LT-69419"
+    "address": "Kazlų Rūdos sav., Kazlų Rūdos sen., Jūrės k., Lauko g. 10, LT-69447"
   },
   {
     "name": "Lietuvos švietimo ir mokslo profesinės sąjungos Kelmės rajono susivienijimas",
@@ -1907,7 +1910,7 @@
   {
     "name": "Prienų švietimo pagalbos tarnyba",
     "code": "300047768",
-    "address": "Prienai, Kauno g. 1A, LT-59147"
+    "address": "Prienai, Kauno g. 1A-2, LT-59147"
   },
   {
     "name": "Psichologinės pagalbos ir švietimo centras",

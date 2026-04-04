@@ -47,7 +47,8 @@
   {
     "name": "Ba apskaita, MB",
     "code": "306918153",
-    "address": "Šiauliai, Lazdynų g. 60, LT-76217"
+    "address": "Šiauliai, Lazdynų g. 60, LT-76217",
+    "vatcode": "LT100019739118"
   },
   {
     "name": "Biudžetinė įstaiga \"Kauno biudžetinių įstaigų buhalterinė apskaita\"",
@@ -644,6 +645,11 @@
     "address": "Kretinga, Žalioji g. 12-80, LT-97145"
   },
   {
+    "name": "MB Elit apskaita",
+    "code": "307611794",
+    "address": "Kaunas, Partizanų g. 84-72, LT-50346"
+  },
+  {
     "name": "MB Ev apskaita",
     "code": "305863202",
     "address": "Kaunas, Savanorių pr. 376-45, LT-49362",
@@ -714,10 +720,6 @@
     "address": "Lazdijai, Sodų g. 19, LT-67112"
   },
   {
-    "name": "MB Lanksti apskaita",
-    "code": "305671077"
-  },
-  {
     "name": "MB Lekri apskaita",
     "code": "305920863",
     "address": "Kėdainiai, Didžioji g. 29-1, LT-57257",
@@ -780,6 +782,11 @@
     "name": "MB Sava apskaita",
     "code": "306684316",
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Raisto g. 14, LT-54358"
+  },
+  {
+    "name": "MB Sigma apskaita",
+    "code": "307606808",
+    "address": "Kaunas, M. Daukšos g. 6-8, LT-44280"
   },
   {
     "name": "MB Sipi apskaita",
@@ -3287,8 +3294,7 @@
   },
   {
     "name": "Alytaus apskrities valstybinės mokesčių inspekcijos Druskininkų skyriaus profsąjunga",
-    "code": "152131952",
-    "address": "Druskininkai, Vilniaus al. 2, LT-66119"
+    "code": "152131952"
   },
   {
     "name": "Alytaus apskrities valstybės darbuotojų profesinė sąjunga",
@@ -3980,11 +3986,6 @@
     "name": "Utenos apskrities aeroklubas",
     "code": "193086877",
     "address": "Utena, Maironio g. 4, LT-28241"
-  },
-  {
-    "name": "Utenos apskrities centrinio pašto darbuotojų profesinė sąjunga",
-    "code": "184291185",
-    "address": "Utena, J. Basanavičiaus g. 59, LT-28241"
   },
   {
     "name": "Utenos apskrities darbdavių asociacija",

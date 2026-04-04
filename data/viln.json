@@ -130,7 +130,7 @@
     "address": "Vilnius, Pakraščio g. 10-6, LT-11342"
   },
   {
-    "name": "IĮ Vilnelės odontologijos klinika",
+    "name": "MB Vilnelės odontologijos klinika",
     "code": "305603165",
     "address": "Vilnius, A. Vivulskio g. 15-22, LT-03162",
     "vatcode": "LT100018890210"
@@ -224,6 +224,11 @@
     "name": "Baltarusių bendrija \"Vilnia\"",
     "code": "305384440",
     "address": "Vilnius, V. Sirokomlės g. 7-2, LT-11200"
+  },
+  {
+    "name": "UAB VILNIA-SPV",
+    "code": "307610639",
+    "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Žirgų g. 21, LT-14158"
   },
   {
     "name": "UAB Vilnia Expedition",
@@ -325,11 +330,6 @@
     "name": "AKCINĖS BENDROVĖS \"ORTOPEDIJOS TECHNIKA\" VILNIAUS FILIALAS",
     "code": "125816119",
     "address": "Vilnius, Loretos Asanavičiūtės g. 27A, LT-04318"
-  },
-  {
-    "name": "AKCINĖS BENDROVĖS \"VILNIAUS KAILIAI\" PROFESINĖ SĄJUNGA",
-    "code": "193048061",
-    "address": "Vilniaus m. sav."
   },
   {
     "name": "AKCINĖS BENDROVĖS \"VILNIAUS SIGMA\" PROFESINĖ SĄJUNGA",
@@ -532,7 +532,7 @@
   {
     "name": "Asociacija \"Vilniaus rajono Avižienių bendruomenė\"",
     "code": "303344949",
-    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Sodų g. 42, LT-14185"
+    "address": "Vilniaus r. sav."
   },
   {
     "name": "Asociacija \"Vilniaus regiono futbolo sąjunga\"",
@@ -615,11 +615,6 @@
     "address": "Vilnius, Taikos g. 129-4, LT-05206"
   },
   {
-    "name": "Beržų g. 1, Buivydiškių k., Vilniaus r. savininkų bendrija",
-    "code": "302676788",
-    "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Beržų g. 1-26, LT-14165"
-  },
-  {
     "name": "Biržų miesto Vilniaus g. 10 gyvenamojo namo savininkų bendrija",
     "code": "154893684",
     "address": "Biržai, Vilniaus g. 10, LT-41172"
@@ -650,19 +645,9 @@
     "address": "Biržai, Vilniaus g. 40A, LT-41145"
   },
   {
-    "name": "Biržų miesto Vilniaus g. 42 daugiabučio namo savininkų bendrija",
-    "code": "155317944",
-    "address": "Biržai, Vilniaus g. 42, LT-41144"
-  },
-  {
     "name": "Biržų miesto Vilniaus g. 47a gyvenamojo namo savininkų bendrija",
     "code": "154895735",
     "address": "Biržai, Vilniaus g. 47A-10, LT-41149"
-  },
-  {
-    "name": "Biržų miesto Vilniaus g. 6 daugiabučio namo savininkų bendrija",
-    "code": "155313351",
-    "address": "Biržai, Vilniaus g. 6-11, LT-41172"
   },
   {
     "name": "Biržų miesto Vilniaus g. 61a gyvenamojo namo savininkų bendrija \"Liepaitė\"",
@@ -678,10 +663,6 @@
     "name": "Biržų miesto Vilniaus g. 8 gyvenamojo namo savininkų bendrija \"Agluona\"",
     "code": "154902585",
     "address": "Biržai, Vilniaus g. 8-15, LT-41172"
-  },
-  {
-    "name": "Biržų miesto Vilniaus g. gyvenamojo namo Nr. 4 savininkų bendrija",
-    "code": "155288250"
   },
   {
     "name": "Biržų miesto Vilniaus gatvės 92 namo bendrija",
@@ -753,6 +734,11 @@
     "address": "Vilniaus m. sav., Grigiškių m., Šviesos g. 14-20, LT-27123"
   },
   {
+    "name": "Daugiabučio gyvenamojo namo Dvaro g. 2, Buivydiškių k., Vilniaus r. savininkų bendrija",
+    "code": "307610660",
+    "address": "Vilniaus r. sav., Zujūnų sen., Buivydiškių k., Dvaro g. 2-18, LT-14165"
+  },
+  {
     "name": "Daugiabučio gyvenamojo namo Vilniaus g. 237, Šiauliai savininkų bendrija",
     "code": "305195991",
     "address": "Šiauliai, Vilniaus g. 237-37, LT-76343"
@@ -771,11 +757,6 @@
     "name": "Daugiabučio namo Nr. 24 Vilniaus g., Šalčininkų m., Šalčininkų r. sav. savininkų bendrija",
     "code": "302775081",
     "address": "Šalčininkai, Vilniaus g. 24-4, LT-17109"
-  },
-  {
-    "name": "Daugiabučio namo Sodų g. 6A, Skaidiškių k., Vilniaus r. savininkų bendrija",
-    "code": "302345496",
-    "address": "Vilniaus r. sav., Nemėžio sen., Skaidiškių k., Sodų g. 6A-6, LT-13269"
   },
   {
     "name": "Daugiabučio namo VILNIAUS G. 271 savininkų bendrija",
@@ -1021,11 +1002,6 @@
     "name": "Daugiabučio namo savininkų bendrija Vilniaus g. 52",
     "code": "145474566",
     "address": "Šiauliai, Vilniaus g. 52, LT-76251"
-  },
-  {
-    "name": "Daugiabučio namo, Vilniaus 14, Vilniuje, savininkų bendrija",
-    "code": "301721554",
-    "address": "Vilnius, Vilniaus g. 14-5, LT-01402"
   },
   {
     "name": "Daugiabučių gyvenamųjų namų Jogailos g. 8, Vilniaus g. 21, Vilniuje savininkų bendrija",
@@ -1468,6 +1444,11 @@
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
+    "name": "MB \"Vilniaus aplinkos tvarkymas\"",
+    "code": "307603623",
+    "address": "Vilnius, Manufaktūrų g. 20-8, LT-11342"
+  },
+  {
     "name": "MB \"Vilniaus apskaita\"",
     "code": "303157935",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
@@ -1510,12 +1491,6 @@
     "name": "MB \"Vilniaus garsai\"",
     "code": "306074170",
     "address": "Vilnius, Virginijaus Druskio g. 10-138, LT-04304"
-  },
-  {
-    "name": "MB \"Vilniaus grožio ir sveikatos prekyba\"",
-    "code": "306084175",
-    "address": "Vilnius, Alko g. 4-2, LT-08401",
-    "vatcode": "LT100015012917"
   },
   {
     "name": "MB \"Vilniaus gydomieji masažai\"",
@@ -2196,7 +2171,7 @@
   {
     "name": "UAB \"Vilniaus DAISTA\"",
     "code": "300917653",
-    "address": "Vilnius, P. Žadeikos g. 26-22, LT-06321",
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Ežero g. 11, LT-92338",
     "vatcode": "LT100003324413"
   },
   {
@@ -2440,6 +2415,12 @@
     "code": "304766501",
     "address": "Vilnius, Linkmenų g. 5-46, LT-09300",
     "vatcode": "LT100011543917"
+  },
+  {
+    "name": "UAB \"Vilniaus grožio ir sveikatos prekyba\"",
+    "code": "306084175",
+    "address": "Vilnius, Alko g. 4-2, LT-08401",
+    "vatcode": "LT100015012917"
   },
   {
     "name": "UAB \"Vilniaus gurmanas\"",
@@ -2980,8 +2961,7 @@
   {
     "name": "UAB Vilniaus ekspedicijos centras",
     "code": "305270419",
-    "address": "Alytaus r. sav., Miroslavo sen., Obelninkų k., Šilo g. 16, LT-64265",
-    "vatcode": "LT100012679819"
+    "address": "Alytaus r. sav., Miroslavo sen., Obelninkų k., Šilo g. 16, LT-64265"
   },
   {
     "name": "UAB Vilniaus ekspertai",
@@ -3089,8 +3069,7 @@
   },
   {
     "name": "UAB Vilniaus saulės parkas",
-    "code": "306138897",
-    "address": "Vilnius, Jočionių g. 13, LT-02300"
+    "code": "306138897"
   },
   {
     "name": "UAB Vilniaus sporto namai",
@@ -3138,7 +3117,8 @@
   {
     "name": "UAB Vilniaus Žalgirio atributika",
     "code": "307585659",
-    "address": "Vilnius, K. Donelaičio g. 20-7, LT-03102"
+    "address": "Vilnius, K. Donelaičio g. 20-7, LT-03102",
+    "vatcode": "LT100019811716"
   },
   {
     "name": "Uzbekų kultūros centro Vilniaus padalinys",
@@ -3451,7 +3431,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS VIZITAS\"",
     "code": "121085581",
-    "address": "Vilnius, Gabijos g. 81-14, LT-06104",
+    "address": "Vilnius, Molėtų pl. 64, LT-08449",
     "vatcode": "LT210855811"
   },
   {
@@ -4212,7 +4192,8 @@
   {
     "name": "VILNIAUS MIESTO SPORTINIŲ DVIKOVŲ KLUBAS \"GELEŽINIS VILKAS\"",
     "code": "191193880",
-    "address": "Vilnius, M. Daukšos g. 7, LT-02101"
+    "address": "Vilnius, M. Daukšos g. 7, LT-02101",
+    "vatcode": "LT100019881610"
   },
   {
     "name": "VILNIAUS MIESTO SPORTINIŲ ŠOKIŲ KLUBAS \"SILUETAS\"",
@@ -5526,6 +5507,11 @@
     "address": "Vilnius, Miglos g. 57-10, LT-08102"
   },
   {
+    "name": "Vilniaus Monteball asociacija",
+    "code": "307622157",
+    "address": "Biržų r. sav., Parovėjos sen., Vinkšninių k., Vinkšninių g. 19C, LT-41481"
+  },
+  {
     "name": "Vilniaus Mykolo Biržiškos gimnazija",
     "code": "190003328",
     "address": "Vilnius, Taikos g. 81, LT-05217"
@@ -5729,11 +5715,6 @@
     "name": "Vilniaus Tarptautinis Rotaract klubas",
     "code": "303417589",
     "address": "Vilnius, Šv. Stepono g. 5-39, LT-01139"
-  },
-  {
-    "name": "Vilniaus Trakėnų gatvės daugiabučių namų Nr. 27a, 29a savininkų bendrija",
-    "code": "303166208",
-    "address": "Vilnius, Trakėnų g. 29A-1, LT-06280"
   },
   {
     "name": "Vilniaus Trakų Vokės gimnazija",
@@ -6034,6 +6015,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "Vilniaus bokso klubas Gintarinė pirštinė",
+    "code": "307605421",
+    "address": "Vilnius, Krokuvos g. 60-6, LT-09306"
+  },
+  {
     "name": "Vilniaus chirurgų draugija",
     "code": "193400630",
     "address": "Vilnius, Antakalnio g. 57, LT-10207"
@@ -6193,7 +6179,7 @@
   {
     "name": "Vilniaus futbolo klubas \"FC VAD\"",
     "code": "302772473",
-    "address": "Vilnius, Santariškių g. 39A-3, LT-08437"
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
   },
   {
     "name": "Vilniaus futbolo klubas \"Raudona juoda\"",
@@ -6284,6 +6270,11 @@
     "name": "Vilniaus gudų leidybos paramos fondas \"Naša chata\"",
     "code": "306273286",
     "address": "Vilnius, Algirdo g. 69-7, LT-03209"
+  },
+  {
+    "name": "Vilniaus idėjos, UAB",
+    "code": "307603274",
+    "address": "Vilnius, Vilkų g. 5-2, LT-08101"
   },
   {
     "name": "Vilniaus ikimokyklinių įstaigų vadovų asociacija",
@@ -7600,6 +7591,11 @@
     "address": "Vilnius, Erfurto g. 36-4, LT-04100"
   },
   {
+    "name": "Vilniaus miesto Laisvės prospekto 53E pastato savininkų bendrija",
+    "code": "307603064",
+    "address": "Vilnius, Laisvės pr. 53E-1, LT-07191"
+  },
+  {
     "name": "Vilniaus miesto Pagyvenusių Žmonių Asociacija",
     "code": "124708069",
     "address": "Vilnius, Žirmūnų g. 139, LT-09120"
@@ -7693,11 +7689,6 @@
     "name": "Vilniaus miesto daugiabučio gyvenamojo namo Kražių g. Nr. 4 savininkų bendrija",
     "code": "303070359",
     "address": "Vilnius, Kražių g. 4-2, LT-01108"
-  },
-  {
-    "name": "Vilniaus miesto daugiabučio gyvenamojo namo Laurų g. 48 savininkų bendrija",
-    "code": "304720906",
-    "address": "Vilnius, Laurų g. 48-2, LT-10153"
   },
   {
     "name": "Vilniaus miesto daugiabučio gyvenamojo namo Literatų g. 5 savininkų bendrija \"L5\"",
@@ -8095,7 +8086,7 @@
   {
     "name": "Vilniaus musulmonų religinė bendruomenė \"Hikma\"",
     "code": "304973724",
-    "address": "Vilnius, Riovonių g. 2A-1, LT-03154"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "Vilniaus musulmonų sunitų religinė bendruomenė",
@@ -9624,7 +9615,7 @@
   {
     "name": "Virvės traukimo klubas \"Vilniaus vilkas\"",
     "code": "304232853",
-    "address": "Širvintų r. sav., Alionių sen., Juodiškių k., Liepų g. 10, LT-19142"
+    "address": "Vilniaus r. sav., Avižienių sen., Gilužių k., Vingio g. 9, LT-14195"
   },
   {
     "name": "Visuomeninė organizacija Lietuvos Lenkų Sąjungos Vilniaus r. skyrius",
@@ -10260,6 +10251,11 @@
     "address": "Vilnius, Pergalės g. 34A, LT-11202"
   },
   {
+    "name": "UAB \"Naujosios Vilnios projektai\"",
+    "code": "307611545",
+    "address": "Vilnius, Savanorių pr. 1-70, LT-03116"
+  },
+  {
     "name": "UAB \"Naujosios Vilnios turgavietė\"",
     "code": "302650163",
     "address": "Vilnius, J. Basanavičiaus g. 44, LT-03109",
@@ -10478,11 +10474,6 @@
     "address": "Vilnius, Mindaugo g. 23, LT-03214"
   },
   {
-    "name": "DNSB Rato g. 12B, Rato g. 12C, Vilniuje",
-    "code": "300857829",
-    "address": "Vilnius, Gervuogių g. 20-10, LT-10103"
-  },
-  {
     "name": "Daugiabučio Namo Bitininkų g.4F, Vilniuje Savininkų Bendrija",
     "code": "304736472",
     "address": "Vilnius, Bitininkų g. 4F-18, LT-08310"
@@ -10491,6 +10482,11 @@
     "name": "Daugiabučio gyvenamojo namo A. Jakšto g. 22 ir pastato Vasario 16-osios g. 4A, Vilniuje savininkų bendrija",
     "code": "304030467",
     "address": "Vilnius, Vasario 16-osios g. 4-27, LT-01106"
+  },
+  {
+    "name": "Daugiabučio gyvenamojo namo Aguonų g. 18A, Vilniuje savininkų bendrija \"Aguonų g. 18A\"",
+    "code": "307605108",
+    "address": "Vilnius, Aguonų g. 18A-17, LT-03213"
   },
   {
     "name": "Daugiabučio gyvenamojo namo Architektų g. 66, Vilniuje savininkų bendrija",
@@ -10526,11 +10522,6 @@
     "name": "Daugiabučio gyvenamojo namo Gedvydžių g. 25 Vilniuje 312-oji savininkų bendrija",
     "code": "124782386",
     "address": "Vilnius, Gedvydžių g. 25-8, LT-06311"
-  },
-  {
-    "name": "Daugiabučio gyvenamojo namo Gervėčių g. 9 Vilniuje, savininkų bendrija",
-    "code": "304368166",
-    "address": "Vilnius, Gervėčių g. 9-4, LT-11350"
   },
   {
     "name": "Daugiabučio gyvenamojo namo Kauno g. 31, Vilniuje, savininkų bendrija",
@@ -10591,11 +10582,6 @@
     "name": "Daugiabučio gyvenamojo namo Verkių g. 23, Vilniuje, savininkų bendrija",
     "code": "302522021",
     "address": "Vilnius, Verkių g. 23, LT-08246"
-  },
-  {
-    "name": "Daugiabučio gyvenamojo namo Vytauto g. 61, Vilniuje savininkų bendrija",
-    "code": "303107850",
-    "address": "Vilnius, Vytauto g. 61-1, LT-08122"
   },
   {
     "name": "Daugiabučio gyvenamojo namo savininkų bendrija Ateities g. 17A Vilniuje",
@@ -10722,10 +10708,6 @@
     "address": "Vilnius, Buivydiškių g. 6-701, LT-07193"
   },
   {
-    "name": "Daugiabučio namo Didlaukio g. Nr. 17, Vilniuje savininkų bendrija",
-    "code": "300536773"
-  },
-  {
     "name": "Daugiabučio namo Didlaukio g. Nr. 54, Vilniuje savininkų bendrija",
     "code": "300154108",
     "address": "Vilnius, Didlaukio g. 54-16, LT-08328"
@@ -10734,11 +10716,6 @@
     "name": "Daugiabučio namo Didlaukio g. Nr. 56, Vilniuje savininkų bendrija",
     "code": "300139202",
     "address": "Vilnius, Didlaukio g. 56-1, LT-08328"
-  },
-  {
-    "name": "Daugiabučio namo Didlaukio g. Nr. 78, Vilniuje savininkų bendrija",
-    "code": "300536887",
-    "address": "Vilnius, Didlaukio g. 78-11, LT-08326"
   },
   {
     "name": "Daugiabučio namo Didžioji g. 10, Vilniuje savininkų bendrija",
@@ -10754,20 +10731,6 @@
     "name": "Daugiabučio namo Gedimino pr. 20/Jogailos g. 1, Vilniuje savininkų bendrija",
     "code": "301770576",
     "address": "Vilnius, Gedimino pr. 20-36, LT-01103"
-  },
-  {
-    "name": "Daugiabučio namo Gedimino pr. 24, Vilniuje, savininkų bendrija",
-    "code": "302641844",
-    "address": "Vilnius, Gedimino pr. 24-67, LT-01103"
-  },
-  {
-    "name": "Daugiabučio namo Gedvydžių g. Nr. 34, Vilniuje savininkų bendrija",
-    "code": "300560379"
-  },
-  {
-    "name": "Daugiabučio namo Gudų g. 20 Vilniuje butų savininkų bendrija",
-    "code": "305179567",
-    "address": "Vilnius, Gudų g. 20-14, LT-02110"
   },
   {
     "name": "Daugiabučio namo I. Kanto al. 23, Vilniuje, savininkų bendrija",
@@ -10790,11 +10753,6 @@
     "address": "Vilnius, Jonažolių g. 10, LT-04134"
   },
   {
-    "name": "Daugiabučio namo Jonažolių g. 4, Vilniuje savininkų bendrija",
-    "code": "300124307",
-    "address": "Vilnius, Jonažolių g. 4-51, LT-04134"
-  },
-  {
     "name": "Daugiabučio namo Justiniškių g. 49, Vilniuje savininkų bendrija",
     "code": "302290893",
     "address": "Vilnius, Justiniškių g. 49-30, LT-05130"
@@ -10815,28 +10773,14 @@
     "address": "Vilnius, K. Kalinausko g. 11-4, LT-03107"
   },
   {
-    "name": "Daugiabučio namo Kaimelio g. Nr. 5, Vilniuje savininkų bendrija",
-    "code": "300043257",
-    "address": "Vilnius, Kaimelio g. 5-2, LT-07100"
-  },
-  {
     "name": "Daugiabučio namo Kalinausko g. 10/Mindaugo g. 2, Vilniuje savininkų bendrija",
     "code": "302514633",
     "address": "Vilnius, K. Kalinausko g. 10-8, LT-03107"
   },
   {
-    "name": "Daugiabučio namo Kalvarijų Sodų 5-oji g. Nr. 6, Vilniuje savininkų bendrija",
-    "code": "302586248",
-    "address": "Vilnius, Kalvarijų Sodų 5-oji g. 6-3, LT-08315"
-  },
-  {
     "name": "Daugiabučio namo Kalvarijų g. 286 ir Kalvarijų g. 286A Vilniuje bendrija",
     "code": "300657839",
     "address": "Vilnius, Kalvarijų g. 286-8, LT-08317"
-  },
-  {
-    "name": "Daugiabučio namo Kalvarijų g. Nr. 9, Vilniuje savininkų bendrija",
-    "code": "300107368"
   },
   {
     "name": "Daugiabučio namo Kaminkelio g. Nr. 26, Vilniuje savininkų bendrija",
@@ -10904,11 +10848,6 @@
     "address": "Vilnius, Nemenčinės pl. 26A-24, LT-10103"
   },
   {
-    "name": "Daugiabučio namo Odminių g. 11, Vilniuje savininkų bendrija",
-    "code": "300543643",
-    "address": "Vilnius, Odminių g. 11-1, LT-01122"
-  },
-  {
     "name": "Daugiabučio namo P. Smuglevičiaus g. 6, Vilniuje, savininkų bendrija",
     "code": "301240542",
     "address": "Vilnius, Pranciškaus Smuglevičiaus g. 6-20, LT-08333"
@@ -10947,10 +10886,6 @@
     "name": "Daugiabučio namo Raitininkų g. 2B, Vilniuje, savininkų bendrija",
     "code": "302443111",
     "address": "Vilnius, Raitininkų g. 2B, LT-09232"
-  },
-  {
-    "name": "Daugiabučio namo Rinktinės g. Nr. 40, Vilniuje savininkų bendrija",
-    "code": "300098257"
   },
   {
     "name": "Daugiabučio namo Rugių g. 12, Vilniuje savininkų bendrija",
@@ -11109,11 +11044,6 @@
     "address": "Vilnius, Rinktinės g. 19-158, LT-09202"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija Tuskulėnų g. 28, Vilniuje",
-    "code": "301569541",
-    "address": "Vilnius, Tuskulėnų g. 28-21, LT-09211"
-  },
-  {
     "name": "Daugiabučio namo savininkų bendrija Tuskulėnų g. 56, Vilniuje",
     "code": "301734352",
     "address": "Vilnius, Tuskulėnų g. 56-32, LT-09208"
@@ -11224,11 +11154,6 @@
     "address": "Vilnius, T. Kosciuškos g. 24-19, LT-01100"
   },
   {
-    "name": "Daugiabučio namo, Vilniaus 14, Vilniuje, savininkų bendrija",
-    "code": "301721554",
-    "address": "Vilnius, Vilniaus g. 14-5, LT-01402"
-  },
-  {
     "name": "Daugiabučio namo, esančio Antakalnio g. 97, Vilniuje, savininkų bendrija",
     "code": "300063740",
     "address": "Vilniaus m. sav."
@@ -11262,6 +11187,11 @@
     "name": "Daugiabučių gyvenamųjų namų Pylimo g. 55 ir Pylimo g. 57, Vilniuje savininkų bendrija",
     "code": "303325614",
     "address": "Vilnius, Pylimo g. 57-9, LT-01137"
+  },
+  {
+    "name": "Daugiabučių gyvenamųjų namų Žiupronių g. 7 ir Žiupronių g. 9, Vilniuje, savininkų bendrija",
+    "code": "307622506",
+    "address": "Vilnius, Žiupronių g. 7-R7, LT-02102"
   },
   {
     "name": "Daugiabučių gyvenamųjų namų Žolyno g. 11A, 11B ir 11C Vilniuje savininkų bendrija",
@@ -11525,11 +11455,6 @@
     "address": "Vilnius, K. Semenavičiaus g. 13-8, LT-10251"
   },
   {
-    "name": "Namo Kalvarijų g. 6 Vilniuje savininkų bendrija",
-    "code": "305031515",
-    "address": "Vilnius, Kalvarijų g. 6-2, LT-09309"
-  },
-  {
     "name": "Namo Kapsų g. 38 Vilniuje savininkų bendrija",
     "code": "304981518",
     "address": "Vilnius, Kapsų g. 38-101, LT-02168"
@@ -11558,7 +11483,7 @@
   {
     "name": "Namo Latvių g. 13 Vilniuje bendrija",
     "code": "304693868",
-    "address": "Vilnius, Latvių g. 13-26, LT-08123"
+    "address": "Vilnius, Latvių g. 13-7, LT-08123"
   },
   {
     "name": "Namo M. Mažvydo g. 1 Vilniuje savininkų bendrija",
@@ -11589,11 +11514,6 @@
     "name": "Namo Rasų g. 22 Vilniuje bendrija",
     "code": "304411938",
     "address": "Vilnius, Rasų g. 22-2, LT-11351"
-  },
-  {
-    "name": "Namo Rinktinės g. 26 Vilniuje savininkų bendrija",
-    "code": "304953465",
-    "address": "Vilnius, Rinktinės g. 26-2, LT-09315"
   },
   {
     "name": "Namo Savanorių pr. 1 Vilniuje savininkų bendrija",
@@ -11999,11 +11919,6 @@
     "address": "Vilnius, A. Vivulskio g. 15-21, LT-03162"
   },
   {
-    "name": "Bendrija \"Vytauto g. 32, Vilnius\"",
-    "code": "305160061",
-    "address": "Vilnius, Vytauto g. 32-12, LT-08122"
-  },
-  {
     "name": "Bendrija Antakalnio g. 22, Vilnius",
     "code": "306662782",
     "address": "Vilnius, Antakalnio g. 22-28, LT-10305"
@@ -12260,7 +12175,8 @@
   {
     "name": "Invest Group Vilnius, UAB",
     "code": "305839621",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100019777817"
   },
   {
     "name": "IĮ \"BMP Vilnius\"",
@@ -12483,6 +12399,11 @@
     "vatcode": "LT100017288618"
   },
   {
+    "name": "MB Vilnius deals",
+    "code": "307624934",
+    "address": "Trakų r. sav., Lentvaris, Obelų g. 11A, LT-25123"
+  },
+  {
     "name": "MB Vilnius plumber",
     "code": "305695021",
     "address": "Vilnius, Skersinės Sodų 1-oji g. 41, LT-08449",
@@ -12583,7 +12504,7 @@
   {
     "name": "Stiftelsen Svenskt Internationellt Liberalt Centrum atstovybė \"Swedish International Liberal Centre (SILC) Vilnius Office\"",
     "code": "302943344",
-    "address": "Vilnius, Olimpiečių g. 1A, LT-09235"
+    "address": "Vilnius, Olimpiečių g. 1A-19B, LT-09235"
   },
   {
     "name": "UAB \"4Team Vilnius\"",
@@ -12647,7 +12568,7 @@
   {
     "name": "UAB \"CORE CAP VILNIUS\"",
     "code": "300076570",
-    "address": "Vilnius, Didžioji g. 25, LT-01128"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "UAB \"Citus Vilnius\"",
@@ -12670,7 +12591,7 @@
   {
     "name": "UAB \"Cremains Vilnius\"",
     "code": "304484249",
-    "address": "Vilnius, A. Rotundo g. 5-102, LT-01400",
+    "address": "Vilnius, Lentvario g. 15B, LT-02300",
     "vatcode": "LT100012079215"
   },
   {
@@ -12694,7 +12615,7 @@
   {
     "name": "UAB \"DTL Vilnius\"",
     "code": "300576497",
-    "address": "Vilnius, Žirmūnų g. 70, LT-09124"
+    "address": "Vilniaus r. sav., Zujūnų sen., Vaivadiškių k., Laimės g. 22, LT-14207"
   },
   {
     "name": "UAB \"Depot Vilnius\"",
@@ -12850,7 +12771,8 @@
   {
     "name": "UAB \"Kavinė baras Vilnius\"",
     "code": "306950941",
-    "address": "Vilnius, Algimanto Petro Kavoliuko g. 20, LT-04326"
+    "address": "Vilnius, Algimanto Petro Kavoliuko g. 20, LT-04326",
+    "vatcode": "LT100019822311"
   },
   {
     "name": "UAB \"Koelner Vilnius\"",
@@ -12871,6 +12793,10 @@
     "vatcode": "LT100010976812"
   },
   {
+    "name": "UAB \"MEBIUS IT Vilnius\"",
+    "code": "111820666"
+  },
+  {
     "name": "UAB \"MENAR Vilnius\"",
     "code": "304094929",
     "address": "Vilnius, Konstitucijos pr. 23, LT-08105"
@@ -12884,7 +12810,7 @@
   {
     "name": "UAB \"MS Vilnius\"",
     "code": "305696098",
-    "address": "Vilnius, Vaduvos g. 27-2, LT-02306"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "UAB \"MSM Vilnius\"",
@@ -12943,7 +12869,7 @@
   {
     "name": "UAB \"Porta Vilnius\"",
     "code": "304278352",
-    "address": "Vilnius, A. Vivulskio g. 7, LT-03162"
+    "address": "Vilnius, Kalnėnų g. 85D, LT-11329"
   },
   {
     "name": "UAB \"Pure Nordic Interior Vilnius\"",
@@ -13178,7 +13104,7 @@
   {
     "name": "UAB \"VSA Vilnius\"",
     "code": "220074960",
-    "address": "Vilnius, Lentvario g. 15, LT-02300",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
     "vatcode": "LT100000002413"
   },
   {
@@ -13226,7 +13152,7 @@
   {
     "name": "UAB \"Vilnius Coding School\"",
     "code": "304299909",
-    "address": "Vilnius, Žalgirio g. 90-100, LT-09303"
+    "address": "Vilnius, J. Jasinskio g. 14B-102, LT-01112"
   },
   {
     "name": "UAB \"Vilnius Education Infrastructure\"",
@@ -13530,7 +13456,8 @@
   {
     "name": "Uždaroji akcinė bendrovė \"ENERGEN VILNIUS\"",
     "code": "111655684",
-    "address": "Vilnius, Šv. Ignoto g. 5-270"
+    "address": "Vilnius, Šv. Ignoto g. 5-270",
+    "vatcode": "LT116556811"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"ESTRAVEL VILNIUS\"",
@@ -13651,6 +13578,11 @@
     "address": "Vilnius, Širvintų g. 75, LT-08216"
   },
   {
+    "name": "VILNIUS INSTITUTE OF PSYCHOLOGY",
+    "code": "307607479",
+    "address": "Vilnius, Virginijaus Druskio g. 9-186, LT-04306"
+  },
+  {
     "name": "Vairavimo mokykla Vilnius, UAB",
     "code": "306146381",
     "address": "Vilnius, Virginijaus Druskio g. 2-206, LT-04305"
@@ -13691,11 +13623,6 @@
     "name": "Viešoji įstaiga \"OMPO VILNIUS\"",
     "code": "110076798",
     "address": "Vilnius, Algirdo Juliaus Greimo g. 1-3, LT-10245"
-  },
-  {
-    "name": "Viešoji įstaiga \"PYXERA Global Vilnius\"",
-    "code": "305885469",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "Viešoji įstaiga \"SALSA VILNIUS\"",
@@ -13879,9 +13806,19 @@
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
+    "name": "VšĮ Switezianka Vilnius",
+    "code": "307620989",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "VšĮ Vilnius Art Events",
     "code": "305604491",
     "address": "Vilnius, Verslo g. 1, LT-11346"
+  },
+  {
+    "name": "VšĮ Vilnius Cricket Club",
+    "code": "307604593",
+    "address": "Vilnius, A. Goštauto g. 8-358, LT-01108"
   },
   {
     "name": "VšĮ Vilnius Futsal School",
@@ -13902,6 +13839,11 @@
     "name": "VšĮ Vilnius Polo Club",
     "code": "307410987",
     "address": "Vilnius, Belmonto g. 34B, LT-01206"
+  },
+  {
+    "name": "VšĮ Vilnius Racing Club",
+    "code": "307624083",
+    "address": "Vilnius, Olimpiečių g. 3F-11, LT-09235"
   },
   {
     "name": "VšĮ Vilnius Rugby Academy",

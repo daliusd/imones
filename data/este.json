@@ -222,6 +222,11 @@
     "address": "Ukmergė, A. Smetonos g. 26A, LT-20128"
   },
   {
+    "name": "MB \"Estetika Pro\"",
+    "code": "307604141",
+    "address": "Kaunas, S. Hariso g. 16-4, LT-46249"
+  },
+  {
     "name": "MB \"Estetika\"",
     "code": "304924289",
     "address": "Vilnius, Laisvės pr. 78B-79, LT-05263"
@@ -231,11 +236,6 @@
     "code": "306726651",
     "address": "Kaunas, Antagynės g. 1A-1, LT-47164",
     "vatcode": "LT100018832212"
-  },
-  {
-    "name": "MB \"Ilgalaike estetika\"",
-    "code": "306707035",
-    "address": "Kaunas, Savanorių pr. 376-44, LT-49362"
   },
   {
     "name": "MB \"Karolinos estetika\"",
@@ -389,7 +389,8 @@
   {
     "name": "MB \"Mi estetikos klinika\"",
     "code": "305636101",
-    "address": "Klaipėda, Nidos g. 54-5, LT-93190"
+    "address": "Klaipėda, Nidos g. 54-5, LT-93190",
+    "vatcode": "LT100019769715"
   },
   {
     "name": "MB \"Nagų estetikos studija\"",
@@ -775,6 +776,7 @@
   {
     "name": "MB Estezija",
     "code": "306073613",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019869015"
   }
 ]

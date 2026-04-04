@@ -58,15 +58,15 @@
     "vatcode": "LT219144917"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija \"Kranas\"",
-    "code": "300030605",
-    "address": "Utena, Kampo g. 3-9, LT-28240"
-  },
-  {
     "name": "MB \"Juodas kranas\"",
     "code": "306003718",
     "address": "Kaunas, Prancūzų g. 17-64, LT-44438",
     "vatcode": "LT100014835417"
+  },
+  {
+    "name": "MB Kilo kranas",
+    "code": "307623309",
+    "address": "Vilnius, Paribio g. 14-119, LT-08101"
   },
   {
     "name": "MB Ričardo kranas",
@@ -160,7 +160,8 @@
   {
     "name": "MB Kranoma",
     "code": "307596367",
-    "address": "Vilnius, Švitrigailos g. 7-12, LT-03110"
+    "address": "Vilnius, Švitrigailos g. 7-12, LT-03110",
+    "vatcode": "LT100019750216"
   },
   {
     "name": "UAB \"Kransetas\"",
@@ -213,18 +214,14 @@
     "address": "Biržai, Vytauto g. 35A-17, LT-41147"
   },
   {
-    "name": "Butų savininkų bendrija \"Krantas\"",
-    "code": "160193786",
-    "address": "Kupiškis, Krantinės g. 10, LT-40117"
-  },
-  {
     "name": "Daugiabučio namo savininkų bendrija \"KRANTAS\"",
     "code": "152137453",
     "address": "Druskininkai, Ateities g. 20-45, LT-66313"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Krantas\"",
-    "code": "162763078"
+    "code": "151395155",
+    "address": "Marijampolė, R. Juknevičiaus g. 10-43, LT-68213"
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Krantas-1\"",
@@ -313,6 +310,11 @@
     "code": "307133547",
     "address": "Vilnius, Sėlių g. 33-6, LT-08109",
     "vatcode": "LT100017993417"
+  },
+  {
+    "name": "MB Lapainios krantas",
+    "code": "307623818",
+    "address": "Kaišiadorių r. sav., Nemaitonių sen., Varkalių k., Žiežmarių g. 35, LT-56276"
   },
   {
     "name": "MB Liepų krantas",
@@ -547,8 +549,7 @@
   {
     "name": "KRANTIDI, MB",
     "code": "307059577",
-    "address": "Trakų r. sav., Lentvario sen., Valų k., Pušynų g. 15, LT-21422",
-    "vatcode": "LT100019237917"
+    "address": "Trakų r. sav., Lentvario sen., Valų k., Pušynų g. 15, LT-21422"
   },
   {
     "name": "Asociacija \"Krantietis\"",
@@ -707,11 +708,6 @@
     "name": "Kranto g. 7A namo savininkų bendrija",
     "code": "306245867",
     "address": "Panevėžys, Kranto g. 7A-5, LT-35174"
-  },
-  {
-    "name": "Kranto g. 9-ojo daugiabučio namo savininkų bendrija",
-    "code": "300052797",
-    "address": "Panevėžys, Kranto g. 9-10, LT-35174"
   },
   {
     "name": "MB \"Ant Kranto\"",

@@ -397,11 +397,6 @@
     "address": "Klaipėda, Kretingos g. 37-26, LT-92302"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija \"Bendras namas\"",
-    "code": "302598720",
-    "address": "Kelmė, A. Mackevičiaus g. 27-38, LT-86128"
-  },
-  {
     "name": "Daugiabučio namo savininkų bendrija \"Bendras stogas\"",
     "code": "307266476",
     "address": "Klaipėda, Liubeko g. 17-7, LT-94283"
@@ -426,8 +421,7 @@
   {
     "name": "MB \"Bendras sprendimas\"",
     "code": "304730957",
-    "address": "Vilniaus r. sav., Kalvelių sen., Šumsko mstl., Naujoji g. 10, LT-13169",
-    "vatcode": "LT100015912117"
+    "address": "Vilniaus r. sav., Kalvelių sen., Šumsko mstl., Naujoji g. 10, LT-13169"
   },
   {
     "name": "MB \"Bendras taškas\"",
@@ -437,7 +431,8 @@
   {
     "name": "MB Bendras stalas",
     "code": "307508602",
-    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Žilių g. 16B, LT-92439"
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Žilių g. 16B, LT-92439",
+    "vatcode": "LT100019753214"
   },
   {
     "name": "MB Bendras statybos sprendimas",
@@ -577,15 +572,6 @@
     "address": "Šiauliai, Žilvičių g. 7, LT-76245"
   },
   {
-    "name": "47-osios garažų eksploatavimo bendrijos 2 grupė S. Dariaus ir S. Girėno g.15",
-    "code": "145587941"
-  },
-  {
-    "name": "63-osios garažų eksploatavimo bendrijos 2-ra grupė Radviliškio g.",
-    "code": "145588139",
-    "address": "Šiauliai, Radviliškio g."
-  },
-  {
     "name": "63-osios garažų eksploatavimo bendrijos 3-čia grupė Radviliškio g. 18b",
     "code": "245598390",
     "address": "Šiauliai, Vilniaus g. 296, LT-76308"
@@ -598,11 +584,6 @@
   {
     "name": "65-osios garažų eksploatavimo bendrijos 14-oji grupė Garažų g.",
     "code": "145738927",
-    "address": "Šiauliai, Garažų g."
-  },
-  {
-    "name": "65-osios garažų eksploatavimo bendrijos 6 grupė Garažų g.",
-    "code": "145587418",
     "address": "Šiauliai, Garažų g."
   },
   {
@@ -778,6 +759,11 @@
   {
     "name": "MB \"Mažosios bendrijos pavadinimas\"",
     "code": "304738391"
+  },
+  {
+    "name": "Raktažolių bendrijos",
+    "code": "307610799",
+    "address": "Vilniaus r. sav., Mickūnų sen., Galgių k., Raktažolių g. 24-2, LT-13102"
   },
   {
     "name": "Ribotos atsakomybės bendrijos \"ŽARYK - 1\" atstovybė",
@@ -1155,6 +1141,11 @@
     "address": "Vilnius, Tilto g. 35-6, LT-01101"
   },
   {
+    "name": "Bendru MB",
+    "code": "307504842",
+    "address": "Vilnius, Juodvarnių Sodų 24-oji g. 16, LT-10235"
+  },
+  {
     "name": "Profesinė sąjunga \"Bendrumas-LAGK\"",
     "code": "306712655",
     "address": "Vilnius, Volungės g. 18-10, LT-10316"
@@ -1413,7 +1404,7 @@
   {
     "name": "PANEVĖŽIO RAJONO BENDRUOMENIŲ SĄJUNGA",
     "code": "168984667",
-    "address": "Panevėžio r. sav., Naujamiestis, S. Nėries g. 14, LT-38335"
+    "address": "Panevėžio r. sav., Upytės sen., Upytės k., Upytės g. 1, LT-38294"
   },
   {
     "name": "Pamario regiono bendruomenių asociacija",
@@ -1527,7 +1518,7 @@
   {
     "name": "VšĮ Socialinė reabilitacija bendruomenėje",
     "code": "307097446",
-    "address": "Prienai, F. Vaitkaus g. 169, LT-59109"
+    "address": "Kaunas, Girstupio g. 7-13, LT-44356"
   },
   {
     "name": "Šaudyklų triukšmo ir poveikio bendruomenėms asociacija",
@@ -1688,6 +1679,11 @@
     "name": "Asociacija Stančių bendruomenės centras",
     "code": "306327150",
     "address": "Klaipėdos r. sav., Kretingalės sen., Stančių k., Rasos g. 5, LT-96338"
+  },
+  {
+    "name": "Atžalyniečių bendruomenės paramos fondas",
+    "code": "307594569",
+    "address": "Klaipėdos r. sav., Sendvario sen., Klipščių k., Plantožės g. 20, LT-92339"
   },
   {
     "name": "Aukštųjų Rusokų bendruomenės centras",
@@ -2220,11 +2216,6 @@
     "address": "Šakių r. sav., Kidulių sen., Kidulių k., Nemuno g. 51, LT-71400"
   },
   {
-    "name": "Klaipėdos \"Atžalyno\" bendruomenės paramos fondas",
-    "code": "307594569",
-    "address": "Klaipėdos r. sav., Sendvario sen., Klipščių k., Plantožės g. 20, LT-92339"
-  },
-  {
     "name": "Klaipėdos rajono Žadeikių kaimo bendruomenės centras",
     "code": "302650291",
     "address": "Klaipėdos r. sav., Endriejavo sen., Žadeikių k., Liepos g. 8, LT-96304"
@@ -2374,6 +2365,11 @@
     "address": "Kauno r. sav., Lapės, Antano Merkio g. 1, LT-54434"
   },
   {
+    "name": "Lautės bendruomenės asociacija",
+    "code": "307628847",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
     "name": "Lazdijų miesto seniūnijos bendruomenės komitetas",
     "code": "165247572",
     "address": "Lazdijai, Vilniaus g. 1, LT-67106"
@@ -2486,6 +2482,11 @@
     "name": "Maišiagalos bendruomenės centras",
     "code": "302622826",
     "address": "Vilniaus r. sav., Maišiagala, Algirdo g. 4, LT-14242"
+  },
+  {
+    "name": "Mato Slančiausko progimnazijos bendruomenės asociacija",
+    "code": "307614178",
+    "address": "Joniškis, Melioratorių a. 3-12, LT-84171"
   },
   {
     "name": "Mergalaukio ir aplinkinių Angininkų, Bažavos, Komisaruvkos, Atesninkų kaimų bendruomenės klubas \"Besimokanti visuomenė-sėkmingas ateities garantas\"",
@@ -3241,7 +3242,7 @@
   {
     "name": "Visuomeninė organizacija Girkalių bendruomenės centras",
     "code": "163746854",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Girkalių k., Draugystės g. 11, LT-92371"
+    "address": "Klaipėdos r. sav., Kretingalės sen., Girkalių k., Artojų g. 17, LT-92371"
   },
   {
     "name": "Visuomeninė organizacija Samylų bendruomenės centras",

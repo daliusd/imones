@@ -60,6 +60,11 @@
     "address": "Kazlų Rūdos sav., Kazlų Rūdos sen., Judrarūdės k., Ąžuolo g. 41, LT-69389"
   },
   {
+    "name": "Lūžio taškas LT",
+    "code": "307616492",
+    "address": "Vilkaviškio r. sav., Bartninkų sen., Sausininkų k., Gandrų g. 4, LT-70329"
+  },
+  {
     "name": "MB \"Apskaitos taškas\"",
     "code": "304927919",
     "address": "Vilnius, Šaltkalvių g. 34-57, LT-02172"
@@ -121,6 +126,10 @@
     "name": "MB \"Linija ir taškas\"",
     "code": "305450755",
     "address": "Vilnius, Algirdo g. 31-400, LT-03219"
+  },
+  {
+    "name": "MB \"Mados taškas\"",
+    "code": "303552455"
   },
   {
     "name": "MB \"Maisto taškas\"",
@@ -338,7 +347,7 @@
   {
     "name": "UAB \"Vėjo taškas\"",
     "code": "306259849",
-    "address": "Kauno r. sav., Babtai, Šiltnamių g. 8, LT-54334",
+    "address": "Vilnius, Dariaus ir Girėno g. 34F, LT-02188",
     "vatcode": "LT100015830119"
   },
   {
@@ -352,6 +361,10 @@
     "code": "304757064",
     "address": "Panevėžio r. sav., Velžio sen., Dembavos k., Melioratorių g. 9-30, LT-38187",
     "vatcode": "LT100012429315"
+  },
+  {
+    "name": "UAB AUKŠČIAUSIAS TAŠKAS",
+    "code": "302807052"
   },
   {
     "name": "UAB EKO TAŠKAS",
@@ -464,7 +477,8 @@
   {
     "name": "MB \"IK taškuota\"",
     "code": "306120504",
-    "address": "Vilniaus r. sav., Maišiagalos sen., Dūkštelių k., Dūkštelių g. 61, LT-14247"
+    "address": "Vilniaus r. sav., Maišiagalos sen., Dūkštelių k., Dūkštelių g. 61, LT-14247",
+    "vatcode": "LT100019864317"
   },
   {
     "name": "MB Taškuotas zebras",
@@ -476,10 +490,5 @@
     "code": "304915436",
     "address": "Vilnius, Ramybės g. 4-70, LT-02103",
     "vatcode": "LT100012726219"
-  },
-  {
-    "name": "VšĮ \"BE TAŠKŲ\"",
-    "code": "306234721",
-    "address": "Alytaus miesto savivaldybės teritorija"
   }
 ]

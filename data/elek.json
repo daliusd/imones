@@ -638,11 +638,6 @@
     "vatcode": "LT100008653813"
   },
   {
-    "name": "Kauno rajono garažų savininkų bendrija \"Elektrikas\"",
-    "code": "302940907",
-    "address": "Kaunas, Taikos pr. 80-54, LT-51297"
-  },
-  {
     "name": "MB \"Elektrikas Klaipėdoje\"",
     "code": "305172220",
     "address": "Klaipėda, Kranto g. 16, LT-92335",
@@ -788,7 +783,8 @@
   {
     "name": "UAB Elektrinių priežiūra",
     "code": "307504148",
-    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Švedės g. 52, LT-81490"
+    "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Švedės g. 52, LT-81490",
+    "vatcode": "LT100019836513"
   },
   {
     "name": "Vėjo elektrinių statyba, UAB",
@@ -908,11 +904,6 @@
     "address": "Elektrėnai, Elektrinės g. 21, LT-26108"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija \"Elektrinės 15\"",
-    "code": "304543943",
-    "address": "Kelmė, Elektrinės g. 15-4, LT-86140"
-  },
-  {
     "name": "MB Elektrinės sistemos",
     "code": "305694510",
     "address": "Kaunas, Draugystės g. 17-1, LT-51229",
@@ -1001,6 +992,11 @@
     "vatcode": "LT100012931016"
   },
   {
+    "name": "MB Elektriva",
+    "code": "307617637",
+    "address": "Vilnius, Mėguvos g. 2, LT-14333"
+  },
+  {
     "name": "MB \"Elektro service\"",
     "code": "305945261",
     "address": "Vilnius, Meistrų g. 8-101, LT-02190"
@@ -1045,8 +1041,7 @@
   {
     "name": "UAB \"BALTIC ELEKTRO GROUP\"",
     "code": "144839631",
-    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Raizgių k., Slėnio g. 1, LT-80192",
-    "vatcode": "LT100007612013"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Raizgių k., Slėnio g. 1, LT-80192"
   },
   {
     "name": "UAB \"Elektro LT\"",
@@ -1085,6 +1080,11 @@
     "name": "MB \"Elektroaudit\"",
     "code": "307437475",
     "address": "Šiauliai, Gegužių g. 77-10, LT-78338"
+  },
+  {
+    "name": "MB \"Elektroauris\"",
+    "code": "307624998",
+    "address": "Utenos r. sav., Utenos sen., Klovinių k., Žirgapievio g. 10, LT-28118"
   },
   {
     "name": "UAB \"Elektroautomatika\"",
@@ -1129,8 +1129,7 @@
   {
     "name": "MB Elektrochemija",
     "code": "306678391",
-    "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
-    "vatcode": "LT100016736218"
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
     "name": "UAB \"Elektrociklas\"",
@@ -2110,7 +2109,8 @@
   {
     "name": "UAB Elektropolas",
     "code": "307579072",
-    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319",
+    "vatcode": "LT100019746817"
   },
   {
     "name": "UAB \"ELEKTROPOLIS ESA\"",
@@ -2175,6 +2175,11 @@
     "name": "Elektros 9 A namo savininkų bendrija",
     "code": "307193672",
     "address": "Panevėžys, Elektros g. 9A-R1, LT-35175"
+  },
+  {
+    "name": "Elektros architektai, MB",
+    "code": "307613464",
+    "address": "Klaipėda, Panevėžio g. 25B-19, LT-92310"
   },
   {
     "name": "Elektros darbų servisas, UAB",
@@ -2440,7 +2445,8 @@
   {
     "name": "MB Elektros arka",
     "code": "307475732",
-    "address": "Palanga, Druskininkų g. 5A-50, LT-00151"
+    "address": "Palanga, Druskininkų g. 5A-50, LT-00151",
+    "vatcode": "LT100019842911"
   },
   {
     "name": "MB Elektros blyksnis",
@@ -3517,11 +3523,6 @@
     "address": "Elektrėnai, Taikos g. 8B, LT-26115"
   },
   {
-    "name": "Elektrėnų savivaldybės švietimo darbuotojų profesinė sąjunga",
-    "code": "301745861",
-    "address": "Elektrėnai, Rungos g. 24, LT-26110"
-  },
-  {
     "name": "Elektrėnų savivaldybės ūkininkų sąjunga",
     "code": "300634840",
     "address": "Elektrėnai, Elektrinės g. 8, LT-26108"
@@ -3630,6 +3631,11 @@
     "name": "Lietuvos politinių kalinių ir tremtinių sąjungos Elektrėnų filialas",
     "code": "307526696",
     "address": "Elektrėnai, Rungos g. 18A, LT-26109"
+  },
+  {
+    "name": "Lietuvos švietimo ir mokslo profesinės sąjungos Elektrėnų savivaldybės susivienijimas",
+    "code": "301745861",
+    "address": "Elektrėnai, Rungos g. 24, LT-26110"
   },
   {
     "name": "LŠDPS Elektrėnų savivaldybės susivienijimas",

@@ -88,11 +88,6 @@
     "vatcode": "LT100018694211"
   },
   {
-    "name": "UAB OrderEnter",
-    "code": "304685978",
-    "address": "Kauno r. sav., Samylų sen., Girionių k., Liepų g. 11-4, LT-53103"
-  },
-  {
     "name": "MB Time Orderis",
     "code": "306945556",
     "address": "Klaipėda, Pietinė g. 17-4, LT-93147"
@@ -391,12 +386,19 @@
   {
     "name": "UAB \"ORDIS\"",
     "code": "302667305",
-    "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Aušrinės g. 25A, LT-91289"
+    "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Aušrinės g. 25A, LT-91289",
+    "vatcode": "LT100019843617"
   },
   {
     "name": "MB Orditek",
     "code": "307491989",
     "address": "Vilnius, Paberžės g. 14-21, LT-07155"
+  },
+  {
+    "name": "MB Ordiva",
+    "code": "307614979",
+    "address": "Vilnius, Olandų g. 10-8, LT-01100",
+    "vatcode": "LT100019831411"
   },
   {
     "name": "UAB Ordnance LT",
@@ -418,6 +420,11 @@
     "name": "MB \"Ordo konstrukcijos\"",
     "code": "305208360",
     "address": "Vilnius, Eitminų g. 16-8, LT-12111"
+  },
+  {
+    "name": "MB \"Vera ordo\"",
+    "code": "307619677",
+    "address": "Panevėžys, Molainių g. 46-45, LT-37145"
   },
   {
     "name": "UAB Ordo Oris",
@@ -445,6 +452,7 @@
   {
     "name": "MB \"Ordostructum\"",
     "code": "307549677",
-    "address": "Kauno r. sav., Garliavos apylinkių sen., Kalinavos k. 2, LT-53287"
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Kalinavos k. 2, LT-53287",
+    "vatcode": "LT100019794211"
   }
 ]
