@@ -25,7 +25,8 @@
   {
     "name": "MB Inova capital",
     "code": "307450031",
-    "address": "Vilnius, Giedraičių g. 56-63, LT-09302"
+    "address": "Vilnius, Giedraičių g. 56-63, LT-09302",
+    "vatcode": "LT100019862815"
   },
   {
     "name": "MB Inova group",
@@ -228,7 +229,8 @@
   {
     "name": "MB \"RK Inovacijos\"",
     "code": "307568834",
-    "address": "Vilnius, Vaduvos g. 22-39, LT-02307"
+    "address": "Vilnius, Vaduvos g. 22-39, LT-02307",
+    "vatcode": "LT100019743711"
   },
   {
     "name": "MB \"Socialinės inovacijos\"",
@@ -314,6 +316,11 @@
     "code": "306666567",
     "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Arkos g. 1-15, LT-14180",
     "vatcode": "LT100016861316"
+  },
+  {
+    "name": "MB Sveikatos logistikos inovacijos",
+    "code": "307603406",
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
   },
   {
     "name": "MB Vadovavimo Inovacijos",
@@ -698,6 +705,11 @@
     "vatcode": "LT100012708412"
   },
   {
+    "name": "MB \"Inovacijų spiečius\"",
+    "code": "307622844",
+    "address": "Vilnius, Šumsko g. 34, LT-02196"
+  },
+  {
     "name": "MB \"Inovacijų sprendimai\"",
     "code": "303145000",
     "address": "Kaunas, Partizanų g. 29I-54, LT-49450"
@@ -812,7 +824,8 @@
   {
     "name": "Regioninis inovacijų vadybos centras",
     "code": "302694302",
-    "address": "Vilnius, Saulėtekio al. 15-1, LT-10224"
+    "address": "Vilnius, Saulėtekio al. 15-1, LT-10224",
+    "vatcode": "LT100007117214"
   },
   {
     "name": "Regionų plėtros ir inovacijų asociacija",
@@ -1100,6 +1113,11 @@
     "address": "Klaipėdos r. sav., Sendvario sen., Purmalių k., Jazminų g. 14, LT-92444"
   },
   {
+    "name": "VšĮ \"Kūrybos ir inovacijų akademija\"",
+    "code": "307619702",
+    "address": "Panevėžio r. sav., Velžio sen., Velžio k., Nevėžio g. 54-21, LT-38128"
+  },
+  {
     "name": "VšĮ \"Regionų socialinių inovacijų projektai\"",
     "code": "302593698",
     "address": "Joniškis, Malūno g. 15A, LT-84167"
@@ -1180,11 +1198,6 @@
     "name": "VšĮ Kūrybos ir inovacijų laboratorija",
     "code": "304163357",
     "address": "Vilnius, Vilkpėdės g. 6A-46, LT-03151"
-  },
-  {
-    "name": "VšĮ Profesinių inovacijų institutas",
-    "code": "303239503",
-    "address": "Kaunas, V. Putvinskio g. 12A, LT-44212"
   },
   {
     "name": "VšĮ Regos inovacijų institutas",
@@ -1276,11 +1289,6 @@
     "vatcode": "LT100011700815"
   },
   {
-    "name": "UAB \"Vismaliukų inovaciniai projektai\"",
-    "code": "305202222",
-    "address": "Vilnius, Žirmūnų g. 117-49, LT-09118"
-  },
-  {
     "name": "UAB Inovaciniai namai",
     "code": "303015035",
     "address": "Vilnius, Ramybės g. 4-70, LT-02103",
@@ -1289,7 +1297,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"INOVACINIAI PROJEKTAI\"",
     "code": "142068432",
-    "address": "Klaipėda, Nemuno g. 2, LT-91199"
+    "address": "Vilnius, Kalvarijų g. 137E, LT-08248"
   },
   {
     "name": "VšĮ \"Inovaciniai ir sporto projektai\"",
@@ -1372,6 +1380,12 @@
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
   },
   {
+    "name": "Inovara, MB",
+    "code": "307607671",
+    "address": "Vilnius, Bitėnų g. 3C-21, LT-06236",
+    "vatcode": "LT100019820618"
+  },
+  {
     "name": "UAB \"Inovas\"",
     "code": "306661463",
     "address": "Vilnius, Kazio Ulvydo g. 7-35, LT-08354"
@@ -1426,6 +1440,11 @@
     "code": "305987584",
     "address": "Molėtai, Parko g. 34, LT-33137",
     "vatcode": "LT100014715910"
+  },
+  {
+    "name": "MB Inovatek",
+    "code": "307630104",
+    "address": "Kaunas, Savanorių pr. 370-8, LT-49362"
   },
   {
     "name": "UAB Inovatera",
@@ -1944,8 +1963,7 @@
   {
     "name": "MB Inovatyvūs plėtros projektai",
     "code": "305571461",
-    "address": "Kalvarijos sav., Kalvarijos sen., Trakiškių k., Birutės g. 22, LT-69315",
-    "vatcode": "LT100013643414"
+    "address": "Kalvarijos sav., Kalvarijos sen., Trakiškių k., Birutės g. 22, LT-69315"
   },
   {
     "name": "UAB \"Inovatyvūs restoranai\"",
@@ -2053,7 +2071,7 @@
   {
     "name": "UAB Inovelita",
     "code": "307453974",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "address": "Vilnius, Žemynos g. 49-45, LT-06127"
   },
   {
     "name": "UAB Inovelo",
@@ -2064,7 +2082,8 @@
   {
     "name": "MB Inoventa",
     "code": "307596424",
-    "address": "Kaunas, Žolynų g. 29, LT-47202"
+    "address": "Kaunas, Žolynų g. 29, LT-47202",
+    "vatcode": "LT100019856719"
   },
   {
     "name": "UAB \"Inoventas\"",

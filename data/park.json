@@ -872,11 +872,6 @@
     "vatcode": "LT100012516915"
   },
   {
-    "name": "UAB \"Raseinių autobusų parkas\" darbuotojų profesinė sąjunga",
-    "code": "172412451",
-    "address": "Raseiniai, Vilniaus g. 3, LT-60187"
-  },
-  {
     "name": "UAB \"Renergo parkas\"",
     "code": "305961746",
     "address": "Kaunas, Prancūzų g. 110F, LT-44414"
@@ -1055,13 +1050,14 @@
   {
     "name": "UAB Duomenų parkas",
     "code": "306764844",
-    "address": "Vilnius, V. Grybo g. 17-16, LT-10318",
+    "address": "Vilnius, J. Galvydžio g. 3, LT-08236",
     "vatcode": "LT100016920214"
   },
   {
     "name": "UAB Easy parkas",
     "code": "307571620",
-    "address": "Klaipėdos r. sav., Dovilų sen., Kalvių k., Liepų g. 13, LT-95411"
+    "address": "Klaipėdos r. sav., Dovilų sen., Kalvių k., Liepų g. 13, LT-95411",
+    "vatcode": "LT100019864014"
   },
   {
     "name": "UAB Elektros parkas",
@@ -1121,7 +1117,8 @@
   {
     "name": "UAB Molėtų Technikos Parkas",
     "code": "307594551",
-    "address": "Molėtai, Statybininkų g. 9, LT-33112"
+    "address": "Molėtai, Statybininkų g. 9, LT-33112",
+    "vatcode": "LT100019897414"
   },
   {
     "name": "UAB Molėtų autobusų parkas",
@@ -1181,8 +1178,7 @@
   },
   {
     "name": "UAB Vilniaus saulės parkas",
-    "code": "306138897",
-    "address": "Vilnius, Jočionių g. 13, LT-02300"
+    "code": "306138897"
   },
   {
     "name": "UAB Vėjų technologijų parkas",
@@ -1942,10 +1938,6 @@
     "address": "Kėdainių r. sav., Vilainių sen., Vilainių k., Parko g. 2-12, LT-58102"
   },
   {
-    "name": "Parko g. 20-ojo daugiabučio namo savininkų bendrija \"Lingeris\"",
-    "code": "300056436"
-  },
-  {
     "name": "Parko g. 21-ojo namo savininkų bendrija",
     "code": "148477610",
     "address": "Panevėžys, Parko g. 21, LT-37323"
@@ -2103,12 +2095,7 @@
   },
   {
     "name": "Rokiškio m. Parko g. 32-ojo daugiabučio namo savininkų bendrija",
-    "code": "301503573",
-    "address": "Rokiškis, Parko g. 32, LT-42126"
-  },
-  {
-    "name": "Rokiškio m. Parko g. 34-ojo daugiabučio namo savininkų bendrija",
-    "code": "301579610"
+    "code": "301503573"
   },
   {
     "name": "Sostinės parko bendruomenė",
@@ -2219,6 +2206,11 @@
     "vatcode": "LT100015235616"
   },
   {
+    "name": "UAB Prekybos parko vystymas",
+    "code": "307611157",
+    "address": "Vilnius, Gedimino pr. 10-13, LT-01103"
+  },
+  {
     "name": "UAB Saulės parko rezidencija",
     "code": "306774347",
     "address": "Vilnius, Justiniškių g. 146, LT-06153",
@@ -2234,6 +2226,11 @@
     "code": "301153870",
     "address": "Vilnius, Nemenčinės pl. 15A, LT-10105",
     "vatcode": "LT100003589911"
+  },
+  {
+    "name": "UAB Vakarų parko projektai",
+    "code": "307611716",
+    "address": "Vilnius, Gedimino pr. 10-13, LT-01103"
   },
   {
     "name": "UAB Verslo parko projektai",
@@ -2349,6 +2346,11 @@
     "code": "306074989",
     "address": "Klaipėda, Naujoji Uosto g. 11-13, LT-92121",
     "vatcode": "LT100017517810"
+  },
+  {
+    "name": "\"Parkūro studija\" MB",
+    "code": "305862253",
+    "address": "Klaipėda, Statybininkų pr. 6-78, LT-94224"
   },
   {
     "name": "Lietuvos parkūro asociacija",

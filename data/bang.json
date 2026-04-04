@@ -42,11 +42,6 @@
     "address": "Šiauliai, Vilniaus g. 272A, LT-76307"
   },
   {
-    "name": "Asociacija \"Vilties banga\"",
-    "code": "305381896",
-    "address": "Palanga, Plytų g. 89-1, LT-00195"
-  },
-  {
     "name": "Asociacija sporto klubas \"Galvės banga\"",
     "code": "307094724",
     "address": "Trakų r. sav., Lentvaris, Vytauto g. 6-50, LT-25102"
@@ -60,6 +55,11 @@
     "name": "Butų savininkų bendrija \"Banga\"",
     "code": "235340630",
     "address": "Kaunas, Vytenio g. 14, LT-48418"
+  },
+  {
+    "name": "Cistinės fibrozės asociacija \"Sūri banga\"",
+    "code": "307625146",
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Klipščių g. 26, LT-92338"
   },
   {
     "name": "DNSB \"Baltijos banga\"",
@@ -212,6 +212,11 @@
     "code": "306998256",
     "address": "Klaipėda, I. Kanto g. 19-24, LT-92239",
     "vatcode": "LT100017245116"
+  },
+  {
+    "name": "MB Jūros banga",
+    "code": "307613852",
+    "address": "Vilnius, Viršuliškių g. 53D-3, LT-05127"
   },
   {
     "name": "MB Mano banga",
@@ -444,7 +449,8 @@
   {
     "name": "UAB Namų banga",
     "code": "307566580",
-    "address": "Vilnius, V. A. Graičiūno g. 10-208, LT-02244"
+    "address": "Vilnius, V. A. Graičiūno g. 10-208, LT-02244",
+    "vatcode": "LT100019737212"
   },
   {
     "name": "UAB Rinkos banga",
@@ -532,6 +538,11 @@
     "name": "VšĮ \"Maloni banga\"",
     "code": "304909006",
     "address": "Klaipėda, Geležinkelio g. 12-10, LT-92260"
+  },
+  {
+    "name": "VšĮ Aktyvi banga",
+    "code": "307625018",
+    "address": "Palanga, Vytauto g. 4 K12-101, LT-00101"
   },
   {
     "name": "VšĮ Meno Banga",
@@ -760,7 +771,8 @@
   {
     "name": "VšĮ \"Banginių garsai\"",
     "code": "304479608",
-    "address": "Vilnius, Kalno g. 97-5, LT-13105"
+    "address": "Vilnius, Kalno g. 97-5, LT-13105",
+    "vatcode": "LT100019797613"
   },
   {
     "name": "UAB \"Bangkok service\"",
@@ -829,6 +841,11 @@
     "name": "MB \"Minčių bangos\"",
     "code": "305910463",
     "address": "Tauragė, Vytauto g. 75-7, LT-72252"
+  },
+  {
+    "name": "MB \"Žalios bangos\"",
+    "code": "307611673",
+    "address": "Kauno r. sav., Garliava, Pažangos g. 15, LT-53204"
   },
   {
     "name": "MB Geros bangos",

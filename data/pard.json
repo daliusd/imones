@@ -427,6 +427,11 @@
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
+    "name": "MB La Parde",
+    "code": "307603121",
+    "address": "Palanga, Vaivorykštės g. 53-107, LT-00168"
+  },
+  {
     "name": "MB Parde ops",
     "code": "307164628",
     "address": "Panevėžio r. sav., Miežiškių sen., Limeikių k., Limeikių g. 13, LT-38140"
@@ -434,13 +439,13 @@
   {
     "name": "UAB Parde technology",
     "code": "307183817",
-    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Raisto g. 4, LT-14180"
+    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Raisto g. 4, LT-14180",
+    "vatcode": "LT100018335417"
   },
   {
     "name": "UAB \"Pardega\"",
     "code": "306430086",
-    "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194",
-    "vatcode": "LT100018756213"
+    "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"PARDES\"",
@@ -525,11 +530,6 @@
     "name": "MB E-parduotuve",
     "code": "307070075",
     "address": "Klaipėda, Tiltų g. 19, LT-91249"
-  },
-  {
-    "name": "Bendra Lietuvos ir Vokietijos įmonė uždaroji akcinė bendrovė \"MBR PARDUOTUVIŲ IR RESTORANŲ ĮRANGA\"",
-    "code": "110451974",
-    "address": "Vilnius, Kirtimų g. 49B, LT-02244"
   },
   {
     "name": "UAB \"Restoranų ir parduotuvių ranga\"",
@@ -825,8 +825,7 @@
   {
     "name": "IĮ Revutos parduotuvė \"Sodžius\"",
     "code": "153616378",
-    "address": "Alytaus r. sav., Simnas, Alytaus g. 1, LT-64313",
-    "vatcode": "LT536163716"
+    "address": "Alytaus r. sav., Simnas, Alytaus g. 1, LT-64313"
   },
   {
     "name": "IĮ Sigito Ignatavičiaus parduotuvė",
@@ -957,7 +956,7 @@
   {
     "name": "MB Gėlių parduotuvė \"Smiltė\"",
     "code": "306008900",
-    "address": "Širvintos, Jaunimo g. 13-6, LT-19112",
+    "address": "Širvintų r. sav., Širvintų sen., Peliškių vs., Kaštonų g. 3, LT-19128",
     "vatcode": "LT100014770913"
   },
   {
@@ -1033,6 +1032,11 @@
   {
     "name": "P. Kostino parduotuvė \"Šarlota\"",
     "code": "183641177"
+  },
+  {
+    "name": "Parduotuvė \"Sostika\" UAB",
+    "code": "222751560",
+    "address": "Vilnius, A. Kojelavičiaus g. 180, LT-11106"
   },
   {
     "name": "Petrauskienės avalynės parduotuvė",

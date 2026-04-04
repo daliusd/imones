@@ -58,7 +58,7 @@
   {
     "name": "Konsergo, UAB",
     "code": "304607538",
-    "address": "Vilnius, Gedimino pr. 3A-2A, LT-01103"
+    "address": "Vilnius, K. Kalinausko g. 20-6, LT-03107"
   },
   {
     "name": "MB \"Konservai pas Vidą\"",
@@ -242,7 +242,8 @@
   {
     "name": "MB \"Laiminga Konsolė\"",
     "code": "307505684",
-    "address": "Gargždai, Turgaus g. 28-25, LT-96129"
+    "address": "Gargždai, Turgaus g. 28-25, LT-96129",
+    "vatcode": "LT100019761518"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"KONSOLĖ\"",
@@ -476,10 +477,6 @@
     "vatcode": "LT100013935014"
   },
   {
-    "name": "I. Slavinskaitės architektūros ir konstravimo biuras",
-    "code": "135454736"
-  },
-  {
     "name": "MB Baldų konstravimo studija",
     "code": "307060501",
     "address": "Naujoji Akmenė, Nepriklausomybės al. 13A-5, LT-85128",
@@ -511,6 +508,11 @@
     "code": "306774735",
     "address": "Kretinga, Svajonių g. 2, LT-97193",
     "vatcode": "LT100018120813"
+  },
+  {
+    "name": "MB Konstris",
+    "code": "307627784",
+    "address": "Kaunas, Laisvės al. 110, LT-44253"
   },
   {
     "name": "MB \"Konstrokus\"",
@@ -1271,6 +1273,11 @@
     "vatcode": "LT100012140418"
   },
   {
+    "name": "MB Konstrum",
+    "code": "307619410",
+    "address": "Vilnius, Liubavos g. 18, LT-06299"
+  },
+  {
     "name": "MB \"Konstruma\"",
     "code": "305419126",
     "address": "Vilnius, A. Gustaičio g. 23-255A, LT-02189"
@@ -2013,7 +2020,8 @@
   {
     "name": "MB \"Vyno konsultacijos ir rinkos tyrimai\"",
     "code": "304875575",
-    "address": "Vilnius, M. Mažvydo g. 15-29, LT-06256"
+    "address": "Vilnius, M. Mažvydo g. 15-29, LT-06256",
+    "vatcode": "LT100019730114"
   },
   {
     "name": "MB \"Vytauto konsultacijos\"",
@@ -2296,6 +2304,11 @@
     "name": "MB Sporto konsultacijos",
     "code": "306962452",
     "address": "Ignalinos r. sav., Dūkšto sen., Ažukarklinės k., Vasario 16-osios g. 67, LT-30258"
+  },
+  {
+    "name": "MB Statybos procesų konsultacijos",
+    "code": "307605695",
+    "address": "Alytaus r. sav., Alovės sen., Takniškių k., Takniškių g. 81A, LT-62188"
   },
   {
     "name": "MB Tr konsultacijos",
@@ -2930,6 +2943,11 @@
     "address": "Kaunas, Seniavos pl. 8G, LT-46386"
   },
   {
+    "name": "Vyganto strateginės konsultacijos, MB",
+    "code": "307610678",
+    "address": "Vilnius, Skroblų g. 6-23, LT-03142"
+  },
+  {
     "name": "VšĮ \"IT konsultacijos verslui\"",
     "code": "305973677",
     "address": "Kaunas, J. Biliūno g. 7, LT-46379"
@@ -3140,12 +3158,6 @@
     "name": "UAB \"Statybos konsultacijų ir paslaugų centras\"",
     "code": "300536499",
     "address": "Šilutė, Uosto g. 3, LT-99185"
-  },
-  {
-    "name": "UAB \"Tarptautinis konsultacijų servisas\"",
-    "code": "304066342",
-    "address": "Vilnius, Gurių Sodų 33-ioji g. 18, LT-11316",
-    "vatcode": "LT100018610017"
   },
   {
     "name": "UAB \"VERSLO KONSULTACIJŲ SPEKTRAS\"",
@@ -3397,11 +3409,6 @@
     "code": "154307858",
     "address": "Anykščių r. sav., Anykščių sen., Ažupiečių k.",
     "vatcode": "LT100004209314"
-  },
-  {
-    "name": "D. K. Koriakinos konsultacinė firma",
-    "code": "135740584",
-    "address": "Kaunas, Partizanų g. 9-37, LT-50206"
   },
   {
     "name": "Dainiaus Pakėno transporto ekspedicijos konsultacinė įmonė",

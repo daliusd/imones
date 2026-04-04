@@ -189,6 +189,11 @@
     "vatcode": "LT100019036018"
   },
   {
+    "name": "MB Profas",
+    "code": "307630168",
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Vijolių k., Ievos g. 18, LT-76223"
+  },
+  {
     "name": "MB Profas LT",
     "code": "305675104",
     "address": "Kaunas, Šv. Antano g. 29, LT-46105",
@@ -372,7 +377,7 @@
     "address": "Vilnius, Vieversių g. 9A, LT-02121"
   },
   {
-    "name": "Viešoji įstaiga \"Profesijų spektras\"",
+    "name": "UAB Profesijų spektras",
     "code": "152161415",
     "address": "Druskininkai, Sveikatos g. 3-1, LT-66251",
     "vatcode": "LT100002030611"
@@ -820,11 +825,6 @@
     "address": "Visaginas, Jaunystės g. 1-24, LT-31233"
   },
   {
-    "name": "VšĮ Profesinių inovacijų institutas",
-    "code": "303239503",
-    "address": "Kaunas, V. Putvinskio g. 12A, LT-44212"
-  },
-  {
     "name": "Šiaulių švietimo profesinių sąjungų susivienijimas",
     "code": "145670789",
     "address": "Šiauliai, Aušros al. 48, LT-76236"
@@ -876,11 +876,6 @@
     "name": "Lietuvos mokytojų profesinės sąjungos Vilniaus skyrius",
     "code": "301542366",
     "address": "Vilnius, Viršuliškių g. 45-38, LT-05102"
-  },
-  {
-    "name": "Lietuvos mokytojų profesinės sąjungos Šiaulių skyrius",
-    "code": "145602368",
-    "address": "Šiauliai, Pakalnės g. 6A, LT-76293"
   },
   {
     "name": "Lietuvos mokytojų, švietimo ir mokslo profesinės sąjungos Tauragės rajono susivienijimas",
@@ -943,6 +938,11 @@
     "address": "Zarasai, Savanorių g. 1, LT-32110"
   },
   {
+    "name": "Lietuvos švietimo ir mokslo profesinės sąjungos Elektrėnų savivaldybės susivienijimas",
+    "code": "301745861",
+    "address": "Elektrėnai, Rungos g. 24, LT-26110"
+  },
+  {
     "name": "Lietuvos švietimo ir mokslo profesinės sąjungos Joniškio rajono susivienijimas",
     "code": "301498756",
     "address": "Joniškis, Livonijos g. 4, LT-84124"
@@ -960,7 +960,7 @@
   {
     "name": "Lietuvos švietimo ir mokslo profesinės sąjungos Kazlų Rūdos savivaldybės susivienijimas",
     "code": "302622363",
-    "address": "Kazlų Rūda, M. K. Čiurlionio g. 9, LT-69419"
+    "address": "Kazlų Rūdos sav., Kazlų Rūdos sen., Jūrės k., Lauko g. 10, LT-69447"
   },
   {
     "name": "Lietuvos švietimo ir mokslo profesinės sąjungos Kelmės rajono susivienijimas",
@@ -1681,8 +1681,7 @@
   {
     "name": "UAB \"Salonų profesionalų partneris\"",
     "code": "141690068",
-    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Klipščių g. 6, LT-92338",
-    "vatcode": "LT416900610"
+    "address": "Klaipėdos r. sav., Sendvario sen., Slengių k., Klipščių g. 6, LT-92338"
   },
   {
     "name": "UAB Salonų profesionalų akademija",
@@ -1729,9 +1728,15 @@
     "address": "Vilnius, Lukiškių g. 5, LT-01108"
   },
   {
+    "name": "Aynur professional group, MB",
+    "code": "307627503",
+    "address": "Kupiškio r. sav., Alizavos sen., Žaidelių k., Tujų g. 14, LT-40451"
+  },
+  {
     "name": "Event Host Professional, MB",
     "code": "306879113",
-    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., Juozo Vyšniausko g. 6, LT-53304"
+    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., Juozo Vyšniausko g. 6, LT-53304",
+    "vatcode": "LT100019886610"
   },
   {
     "name": "ILC PROFESSIONAL, MB",
@@ -1910,6 +1915,11 @@
     "vatcode": "LT100016905412"
   },
   {
+    "name": "MB \"Profi apdaila\"",
+    "code": "307622011",
+    "address": "Kaunas, Kukučių g. 39, LT-51338"
+  },
+  {
     "name": "MB \"Profi sprendimai\"",
     "code": "304498245",
     "address": "Vilnius, Geležinio Vilko g. 14-9, LT-03163",
@@ -2021,7 +2031,8 @@
   {
     "name": "MB \"Proficiency Consulting\"",
     "code": "307535115",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100019852818"
   },
   {
     "name": "MB profiCLEAN",
@@ -2290,6 +2301,11 @@
     "code": "300626480",
     "address": "Šilalė, Šarūnkalnio g. 15, LT-75133",
     "vatcode": "LT100002797415"
+  },
+  {
+    "name": "MB PROFIMETA",
+    "code": "307614993",
+    "address": "Klaipėdos r. sav., Sendvario sen., Trušelių k., Gilijos g. 41, LT-92441"
   },
   {
     "name": "UAB Profimus",
@@ -2791,8 +2807,7 @@
   },
   {
     "name": "Alytaus apskrities valstybinės mokesčių inspekcijos Druskininkų skyriaus profsąjunga",
-    "code": "152131952",
-    "address": "Druskininkai, Vilniaus al. 2, LT-66119"
+    "code": "152131952"
   },
   {
     "name": "Jonavos rajono sveikatos apsaugos darbuotojų profsąjunga",
@@ -2861,11 +2876,6 @@
     "name": "Alytaus centrinio pašto profsąjungos organizacija",
     "code": "153740988",
     "address": "Alytus, Pulko g. 12, LT-62133"
-  },
-  {
-    "name": "Radviliškio rajono pašto darbuotojų profsąjungos organizacija",
-    "code": "171490326",
-    "address": "Radviliškio rajono savivaldybės teritorija"
   },
   {
     "name": "UAB \"Naujosios Akmenės autobusų parkas\" profsąjungos organizacija",

@@ -34,11 +34,6 @@
     "address": "Klaipėda, Šaulių g. 13, LT-92134"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija \"Akmena\"",
-    "code": "177375430",
-    "address": "Šilutė, Eglių g. 6A, LT-99176"
-  },
-  {
     "name": "Kretingos rajono sodininkų bendrija \"Akmena\"",
     "code": "191157083",
     "address": "Kretingos r. sav., Kretingos sen., Kretingsodžio k."
@@ -162,7 +157,8 @@
   {
     "name": "UAB Akmenistas",
     "code": "307105284",
-    "address": "Vilnius, Deltuvos g. 34-1, LT-08100"
+    "address": "Vilnius, Deltuvos g. 34-1, LT-08100",
+    "vatcode": "LT100019736719"
   },
   {
     "name": "IĮ \"Akmenita\"",
@@ -205,7 +201,8 @@
   {
     "name": "MB Akmenorius Saulius",
     "code": "307601768",
-    "address": "Kretingos r. sav., Imbarės sen., Gargždelės k., Plungės g. 6, LT-97318"
+    "address": "Kretingos r. sav., Imbarės sen., Gargždelės k., Plungės g. 6, LT-97318",
+    "vatcode": "LT100019848618"
   },
   {
     "name": "UAB \"Akmenorius\"",
@@ -247,8 +244,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"Akmenos projektai\"",
     "code": "307101574",
-    "address": "Trakų r. sav., Trakų sen., Naujasodžio II k., Sodų g. 11E, LT-21100",
-    "vatcode": "LT100017628811"
+    "address": "Trakų r. sav., Trakų sen., Naujasodžio II k., Sodų g. 11E, LT-21100"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Akmenos projektų valdymas\"",
@@ -347,6 +343,11 @@
     "vatcode": "LT100015655010"
   },
   {
+    "name": "MB Akmens apdirbimas",
+    "code": "307623661",
+    "address": "Panevėžio r. sav., Raguvos sen., Užunevėžių k., Šilo g. 1, LT-38165"
+  },
+  {
     "name": "MB Akmens draugas",
     "code": "306695558",
     "address": "Prienų r. sav., Pakuonis, Sodų g. 54, LT-59317"
@@ -368,9 +369,20 @@
     "address": "Kėdainiai, Pievų g. 25A, LT-57141"
   },
   {
+    "name": "MB Akmens meistras",
+    "code": "307623031",
+    "address": "Klaipėdos r. sav., Sendvario sen., Klipščių k., Ąžuolynės g. 15, LT-92339",
+    "vatcode": "LT100019877218"
+  },
+  {
     "name": "MB Akmens mozaika",
     "code": "306010673",
     "address": "Raseiniai, Birutės g. 10, LT-60115"
+  },
+  {
+    "name": "MB Akmens projektai",
+    "code": "307614897",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
   },
   {
     "name": "MB Akmens standartas",
@@ -610,8 +622,7 @@
   {
     "name": "UAB \"Akmenynas\"",
     "code": "305342427",
-    "address": "Klaipėda, Dubysos g. 64, LT-94107",
-    "vatcode": "LT100015746217"
+    "address": "Klaipėda, Dubysos g. 64, LT-94107"
   },
   {
     "name": "Sodininkų bendrija \"AKMENYNĖ\"",
@@ -901,10 +912,6 @@
     "address": "Naujoji Akmenė, L. Petravičiaus a. 2, LT-85132"
   },
   {
-    "name": "Akmenės miesto Stadiono g. 9 daugiabučio namo savininkų bendrija",
-    "code": "300100605"
-  },
-  {
     "name": "Akmenės r. Dabikinės Vladimiro Zubovo mokykla",
     "code": "290984490",
     "address": "Akmenės r. sav., Akmenės sen., Dabikinės k., Mokyklos g. 3, LT-85365"
@@ -1151,7 +1158,7 @@
   {
     "name": "Akmenės rajono, Papilės mstl. Ventos g. 13 daugiabučio namo savininkų bendrija",
     "code": "300592416",
-    "address": "Akmenės r. sav., Papilė, Ventos g. 13-5, LT-85245"
+    "address": "Akmenės r. sav., Papilė, Ventos g. 13-7, LT-85245"
   },
   {
     "name": "Akmenės seniūnijos melioracijos sistemų naudotojų asociacija",
@@ -1228,16 +1235,6 @@
     "address": "Naujoji Akmenė, Nepriklausomybės al. 14-2, LT-85127"
   },
   {
-    "name": "Daugiabučio namo Nepriklausomybės al. 33, Naujosios Akmenės mieste savininkų bendrija",
-    "code": "301150130",
-    "address": "Naujoji Akmenė, Nepriklausomybės al. 33-5, LT-85129"
-  },
-  {
-    "name": "Daugiabučio namo Nepriklausomybės al. 35, Naujosios Akmenės mieste savininkų bendrija",
-    "code": "300677681",
-    "address": "Naujoji Akmenė, Nepriklausomybės al. 35-9, LT-85129"
-  },
-  {
     "name": "Daugiabučio namo Ramučių g. 40, Naujosios Akmenės mieste savininkų bendrija",
     "code": "301277544",
     "address": "Naujoji Akmenė, Ramučių g. 40-9, LT-85186"
@@ -1246,10 +1243,6 @@
     "name": "Daugiabučio namo Stadiono g. Nr. 13, Akmenės mieste savininkų bendrija",
     "code": "300760458",
     "address": "Akmenės r. sav., Akmenė, Stadiono g. 13-16, LT-85375"
-  },
-  {
-    "name": "Daugiabučio namo Stadiono g. Nr. 7, Akmenės mieste savininkų bendrija",
-    "code": "300860661"
   },
   {
     "name": "IĮ \"Akmenės medis\"",
@@ -1360,21 +1353,6 @@
     "name": "Naujosios Akmenės kaimiškosios seniūnijos neįgaliųjų klubas \"Žėrutis\"",
     "code": "153270862",
     "address": "Akmenės r. sav., Naujosios Akmenės kaimiškoji sen., Alkiškių k., Atžalyno g. 8, LT-85270"
-  },
-  {
-    "name": "Naujosios Akmenės miesto Ramučių g. 39 daugiabučio namo savininkų bendrija",
-    "code": "300116050",
-    "address": "Naujoji Akmenė, Ramučių g. 39-20, LT-85183"
-  },
-  {
-    "name": "Naujosios Akmenės miesto Respublikos g. 9 daugiabučio namo savininkų bendrija",
-    "code": "301743593",
-    "address": "Naujoji Akmenė, Respublikos g. 9-81, LT-85140"
-  },
-  {
-    "name": "Naujosios Akmenės miesto V. Kudirkos g. 6 daugiabučio namo savininkų bendrija",
-    "code": "300135823",
-    "address": "Naujoji Akmenė, V. Kudirkos g. 6-31, LT-85169"
   },
   {
     "name": "Naujosios Akmenės miesto V. Kudirkos gatvės 5 daugiabučio namo savininkų bendrija",

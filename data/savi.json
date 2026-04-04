@@ -52,11 +52,6 @@
     "vatcode": "LT100019685115"
   },
   {
-    "name": "MB Savi paslaugos",
-    "code": "306730393",
-    "address": "Kėdainiai, Žydų g. 7, LT-57256"
-  },
-  {
     "name": "MB Savi ratai",
     "code": "306346115",
     "address": "Vilnius, Lazdynėlių g. 38A-50, LT-04126",
@@ -370,7 +365,8 @@
   {
     "name": "MB Savico",
     "code": "307540710",
-    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Vaikystės g. 38-2, LT-14184"
+    "address": "Vilniaus r. sav., Avižienių sen., Avižienių k., Vaikystės g. 38-2, LT-14184",
+    "vatcode": "LT100019886913"
   },
   {
     "name": "MB Saviconsult",
@@ -856,15 +852,6 @@
     "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Žeimių g. 8A-4, LT-81487"
   },
   {
-    "name": "Garažų savininkų bendrija \"Prie Savitiškio\"",
-    "code": "301321567",
-    "address": "Panevėžys, Dariaus ir Girėno g. 11-34, LT-37366"
-  },
-  {
-    "name": "Savitiškio g. 10a namo savininkų bendrija \"Savitiškis\"",
-    "code": "148484957"
-  },
-  {
     "name": "Savitiškio g. 21-ojo namo savininkų bendrija",
     "code": "148315081",
     "address": "Panevėžys, Savitiškio g. 21, LT-37370"
@@ -873,10 +860,6 @@
     "name": "Savitiškio g. 23-ojo daugiabučio namo savininkų bendrija",
     "code": "301817613",
     "address": "Panevėžys, Savitiškio g. 23-301, LT-37370"
-  },
-  {
-    "name": "Savitiškio g. 10a namo savininkų bendrija \"Savitiškis\"",
-    "code": "148484957"
   },
   {
     "name": "Marijampolės miesto \"Savito\" ansamblis",
@@ -954,7 +937,8 @@
   {
     "name": "MB Saviugdos studija \"Juna\"",
     "code": "306013146",
-    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
+    "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114",
+    "vatcode": "LT100019891516"
   },
   {
     "name": "Panevėžio saviugdos klubas \"Auk\"",
@@ -1196,7 +1180,8 @@
   {
     "name": "Alytaus miesto savivaldybės administracija",
     "code": "188706935",
-    "address": "Alytus, Rotušės a. 4, LT-62141"
+    "address": "Alytus, Rotušės a. 4, LT-62141",
+    "vatcode": "LT100019774217"
   },
   {
     "name": "Alytaus miesto savivaldybės administracijos profesinė sąjunga",
@@ -1316,7 +1301,7 @@
   {
     "name": "Alytaus rajono savivaldybės įmonė \"Simno komunalininkas\"",
     "code": "153720195",
-    "address": "Alytaus r. sav., Simnas, Vytauto g. 28, LT-64305",
+    "address": "Alytaus r. sav., Simnas, Vytauto g. 57, LT-64305",
     "vatcode": "LT537201917"
   },
   {
@@ -1666,11 +1651,6 @@
     "name": "Elektrėnų savivaldybės visuomenės sveikatos biuras",
     "code": "303210658",
     "address": "Elektrėnai, Taikos g. 8B, LT-26115"
-  },
-  {
-    "name": "Elektrėnų savivaldybės švietimo darbuotojų profesinė sąjunga",
-    "code": "301745861",
-    "address": "Elektrėnai, Rungos g. 24, LT-26110"
   },
   {
     "name": "Elektrėnų savivaldybės ūkininkų sąjunga",
@@ -2090,7 +2070,7 @@
   {
     "name": "Kaišiadorių rajono savivaldybės visuomenės sveikatos biuras",
     "code": "301729889",
-    "address": "Kaišiadorys, Gedimino g. 85-1, LT-56144"
+    "address": "Kaišiadorys, Gedimino g. 48-3, LT-56126"
   },
   {
     "name": "Kalvarijos savivaldybės Akmenynų seniūnija",
@@ -3062,9 +3042,14 @@
     "address": "Vilnius, Vingrių g. 6A-17, LT-01141"
   },
   {
+    "name": "Lietuvos švietimo ir mokslo profesinės sąjungos Elektrėnų savivaldybės susivienijimas",
+    "code": "301745861",
+    "address": "Elektrėnai, Rungos g. 24, LT-26110"
+  },
+  {
     "name": "Lietuvos švietimo ir mokslo profesinės sąjungos Kazlų Rūdos savivaldybės susivienijimas",
     "code": "302622363",
-    "address": "Kazlų Rūda, M. K. Čiurlionio g. 9, LT-69419"
+    "address": "Kazlų Rūdos sav., Kazlų Rūdos sen., Jūrės k., Lauko g. 10, LT-69447"
   },
   {
     "name": "Lietuvos švietimo ir mokslo profesinės sąjungos Rietavo savivaldybės susivienijimas",
@@ -3928,7 +3913,12 @@
   {
     "name": "Prienų rajono savivaldybės visuomenės sveikatos biuras",
     "code": "301846675",
-    "address": "Prienai, J. Brundzos g. 12A, LT-59127"
+    "address": "Prienai, J. Brundzos g. 12A-2, LT-59127"
+  },
+  {
+    "name": "RADVILIŠKIO RAJONO SAVIVALDYBĖS ADMINISTACIJOS DARBUOTOJŲ PROFESINĖ SĄJUNGA",
+    "code": "307631291",
+    "address": "Radviliškis, Aušros a. 10, LT-82196"
   },
   {
     "name": "Radviliškio rajono savivaldybės Kultūros skyrius",

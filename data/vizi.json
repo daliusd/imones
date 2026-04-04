@@ -380,11 +380,6 @@
     "address": "Vilnius, Rugių g. 8B-6, LT-08430"
   },
   {
-    "name": "MB Gerbūvio vizija",
-    "code": "305795712",
-    "address": "Kauno miesto savivaldybės teritorija"
-  },
-  {
     "name": "MB Gipso Vizija",
     "code": "307296569",
     "address": "Kaunas, M. Riomerio g. 13-2, LT-51446"
@@ -435,6 +430,11 @@
     "name": "MB Meistro vizija",
     "code": "305548808",
     "address": "Šiauliai, Lyros g. 22-72, LT-78274"
+  },
+  {
+    "name": "MB Nd baldų vizija",
+    "code": "307604077",
+    "address": "Klaipėda, Budelkiemio g. 18-41, LT-95245"
   },
   {
     "name": "MB Odos vizija",
@@ -497,7 +497,8 @@
   {
     "name": "MB Vizija 3D",
     "code": "307385797",
-    "address": "Telšių r. sav., Tryškių sen., Pabalvės k., Vainočių g. 36, LT-88200"
+    "address": "Telšių r. sav., Tryškių sen., Pabalvės k., Vainočių g. 36, LT-88200",
+    "vatcode": "LT100019825013"
   },
   {
     "name": "MB Vizija media",
@@ -590,6 +591,12 @@
     "code": "302607952",
     "address": "Klaipėda, Mogiliovo g. 5-2, LT-95249",
     "vatcode": "LT100006447613"
+  },
+  {
+    "name": "UAB \"Ekologijos vizija\"",
+    "code": "300602351",
+    "address": "Kaunas, Savanorių pr. 273, LT-50131",
+    "vatcode": "LT100002650311"
   },
   {
     "name": "UAB \"GROŽIO VIZIJA\"",
@@ -813,7 +820,7 @@
   {
     "name": "UAB GG Investicijų vizija",
     "code": "307113975",
-    "address": "Vilnius, Laisvės pr. 78B-225, LT-05263",
+    "address": "Neringa, G. D. Kuverto g. 17A-20, LT-93127",
     "vatcode": "LT100017831312"
   },
   {
@@ -849,12 +856,6 @@
     "name": "Uždaroji akcinė bendrovė Biudžeto vizija",
     "code": "307135384",
     "address": "Ukmergė, Anykščių g. 13-24, LT-20181"
-  },
-  {
-    "name": "Viešoji įstaiga \"Ekologijos vizija\"",
-    "code": "300602351",
-    "address": "Kaunas, Savanorių pr. 273, LT-50131",
-    "vatcode": "LT100002650311"
   },
   {
     "name": "Viešoji įstaiga \"IMPRO VIZIJA\"",
@@ -1074,7 +1075,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS VIZITAS\"",
     "code": "121085581",
-    "address": "Vilnius, Gabijos g. 81-14, LT-06104",
+    "address": "Vilnius, Molėtų pl. 64, LT-08449",
     "vatcode": "LT210855811"
   },
   {

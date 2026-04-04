@@ -16,11 +16,6 @@
     "address": "Kaunas, Europos pr. 34-47, LT-46370"
   },
   {
-    "name": "Daugiabučių namų savininkų bendrija Muziejaus g. 18",
-    "code": "180752642",
-    "address": "Telšiai, Muziejaus g. 18, LT-87341"
-  },
-  {
     "name": "Gargždų krašto muziejaus filialas Agluonėnų etnografinė sodyba",
     "code": "300819458",
     "address": "Klaipėdos r. sav., Agluonėnų sen., Agluonėnų k., Aukštujų g. 5A-3, LT-96251"
@@ -39,11 +34,6 @@
     "name": "Gargždų krašto muziejaus filialas Laisvės kovų ir tremties istorijos muziejus",
     "code": "300653901",
     "address": "Klaipėdos r. sav., Priekulė, Klaipėdos g. 29, LT-96341"
-  },
-  {
-    "name": "Lietuvos liaudies buities muziejaus profesinė sąjunga",
-    "code": "300031301",
-    "address": "Kaišiadorių r. sav., Rumšiškės, S. Nėries g. 6, LT-56336"
   },
   {
     "name": "Viešoji įstaiga Rumšiškių muziejaus dvaro akademija",
@@ -78,7 +68,8 @@
   {
     "name": "Art Deco muziejus",
     "code": "306005879",
-    "address": "Kaunas, Gedimino g. 48-5, LT-44239"
+    "address": "Kaunas, Gedimino g. 48-5, LT-44239",
+    "vatcode": "LT100019713711"
   },
   {
     "name": "Asociacija Čekauskų etnografijos muziejus",
@@ -325,6 +316,10 @@
     "name": "Marijos ir Jurgio Šlapelių namas-muziejus",
     "code": "300110243",
     "address": "Vilnius, Pilies g. 40, LT-01123"
+  },
+  {
+    "name": "Markučių dvaro muziejus",
+    "code": "300110421"
   },
   {
     "name": "Matematikos muziejus VšĮ",
@@ -769,7 +764,8 @@
   {
     "name": "Žemaičių muziejus \"Alka\"",
     "code": "190599771",
-    "address": "Telšiai, Muziejaus g. 31, LT-87357"
+    "address": "Telšiai, Muziejaus g. 31, LT-87357",
+    "vatcode": "LT100019826112"
   },
   {
     "name": "Žemdirbio muziejus",
@@ -943,7 +939,8 @@
   {
     "name": "SNK Muzika, MB",
     "code": "307578547",
-    "address": "Vilnius, Gabijos g. 32-27, LT-06158"
+    "address": "Vilnius, Gabijos g. 32-27, LT-06158",
+    "vatcode": "LT100019739612"
   },
   {
     "name": "UAB \"Baltijos muzika\"",
@@ -1077,7 +1074,7 @@
   {
     "name": "UAB \"Silvestras muzikantas\"",
     "code": "304822583",
-    "address": "Palanga, Klaipėdos pl. 46-R1, LT-00111"
+    "address": "Palanga, Taikos g. 18-1, LT-00116"
   },
   {
     "name": "Kybartų orkestro muzikantų asociacija",
@@ -1122,6 +1119,11 @@
     "code": "301707921",
     "address": "Klaipėda, Sportininkų g. 24-34, LT-92262",
     "vatcode": "LT100019217615"
+  },
+  {
+    "name": "VšĮ Muzikiniai karoliukai",
+    "code": "307614776",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
   },
   {
     "name": "Kauno valstybinio muzikinio teatro darbuotojų profesinė sąjunga",
@@ -1237,6 +1239,11 @@
     "address": "Vilnius, Kernavės g. 84-1, LT-08216"
   },
   {
+    "name": "MB Muzikon",
+    "code": "307619289",
+    "address": "Alytus, Kalniškės g. 17-45, LT-62417"
+  },
+  {
     "name": "Alytaus miesto liaudies muzikos studija \"VARSA\"",
     "code": "193364515",
     "address": "Alytus, Pramonės g. 1A, LT-62175"
@@ -1276,6 +1283,10 @@
     "name": "Asociacija Sunkiosios muzikos klubas",
     "code": "305241912",
     "address": "Alytus, Vilniaus g. 18, LT-62112"
+  },
+  {
+    "name": "Asociacija Visagino country muzikos fanų klubas",
+    "code": "300125277"
   },
   {
     "name": "Asociacija liaudiškos muzikos kapela \"Paparcis\"",
@@ -1554,7 +1565,7 @@
   {
     "name": "Muzikos festivalių paramos fondas",
     "code": "192018325",
-    "address": "Kaunas, M. Daukšos g. 34, LT-44283"
+    "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Žalgirio g. 24, LT-54115"
   },
   {
     "name": "Muzikos grupė \"AVENUE\"",

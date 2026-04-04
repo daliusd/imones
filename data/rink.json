@@ -145,6 +145,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB Rinkcloud",
+    "code": "307614267",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB \"Rinkesta\"",
     "code": "305665156",
     "address": "Pasvalio r. sav., Pasvalio apylinkių sen., Migonių k., Geležinkelio g. 12, LT-39111",
@@ -540,6 +545,11 @@
     "vatcode": "LT100018713512"
   },
   {
+    "name": "MB Sporto rinkodaros projektai",
+    "code": "307615426",
+    "address": "Mažeikiai, Ventos g. 29-10, LT-89112"
+  },
+  {
     "name": "Rinkodaros grupė, MB",
     "code": "305625208",
     "address": "Kauno r. sav., Neveronių sen., Pabiržio k., Miškininkų g. 30, LT-54476",
@@ -625,11 +635,6 @@
     "address": "Vilnius, Kauno g. 34, LT-03202"
   },
   {
-    "name": "Biržų miesto Rinkos g. 1 gyvenamojo namo savininkų bendrija",
-    "code": "154898126",
-    "address": "Biržai, Rinkos g. 1-3, LT-41170"
-  },
-  {
     "name": "DNSB \"Senosios Rinkos 5\"",
     "code": "301670565",
     "address": "Kėdainiai, Senosios Rinkos a. 5-2, LT-57247"
@@ -678,7 +683,8 @@
   {
     "name": "MB \"Vyno konsultacijos ir rinkos tyrimai\"",
     "code": "304875575",
-    "address": "Vilnius, M. Mažvydo g. 15-29, LT-06256"
+    "address": "Vilnius, M. Mažvydo g. 15-29, LT-06256",
+    "vatcode": "LT100019730114"
   },
   {
     "name": "MB \"Žaliavų rinkos ekspertai\"",
@@ -694,7 +700,8 @@
   {
     "name": "MB Rinkos skatinimo sprendimai",
     "code": "307583494",
-    "address": "Vilnius, Savanorių pr. 178F, LT-02301"
+    "address": "Vilnius, Savanorių pr. 178F, LT-02301",
+    "vatcode": "LT100019697119"
   },
   {
     "name": "MB Šiuolaikiniai rinkos sprendimai",
@@ -768,6 +775,10 @@
   {
     "name": "UAB \"Rinkos žodis\"",
     "code": "110617467"
+  },
+  {
+    "name": "UAB NT rinkos centras",
+    "code": "303262263"
   },
   {
     "name": "UAB Rinkos banga",
@@ -860,6 +871,11 @@
     "vatcode": "LT100004256114"
   },
   {
+    "name": "Širvintų sporto klubas ,,Rinktiniai\"",
+    "code": "307624592",
+    "address": "Širvintų r. sav., Širvintų sen., Dubelių k. 3, LT-19128"
+  },
+  {
     "name": "Valstybės sienos apsaugos tarnybos rinktinių vadų klubas",
     "code": "301806766",
     "address": "Vilnius, Savanorių pr. 2, LT-03116"
@@ -920,10 +936,6 @@
     "address": "Vilnius, Rinktinės g. 28-8, LT-09315"
   },
   {
-    "name": "Daugiabučio namo Rinktinės g. Nr. 40, Vilniuje savininkų bendrija",
-    "code": "300098257"
-  },
-  {
     "name": "Daugiabučio namo Rinktinės g. Nr. 53 savininkų bendrija",
     "code": "302833524",
     "address": "Vilnius, Rinktinės g. 53-26, LT-09207"
@@ -950,11 +962,6 @@
   {
     "name": "Lietuvos šaulių sąjungos Klaipėdos apskrities jūros šaulių 3 - os rinktinės Gargždų šaulių 9-oji kuopa",
     "code": "263697130"
-  },
-  {
-    "name": "Namo Rinktinės g. 26 Vilniuje savininkų bendrija",
-    "code": "304953465",
-    "address": "Vilnius, Rinktinės g. 26-2, LT-09315"
   },
   {
     "name": "Suvalkijos šaulių 4 rinktinės 403 kuopos šaulių klubas",

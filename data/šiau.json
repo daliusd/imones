@@ -240,12 +240,7 @@
     "address": "Šiauliai, Vilniaus g. 233-12, LT-76343"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija Stoties g. 5, Šiauliai",
-    "code": "302564390",
-    "address": "Šiauliai, Stoties g. 5, LT-77156"
-  },
-  {
-    "name": "Daugiabučo namo Žemaitės g. 43, Šiauliai savininkų bendrija",
+    "name": "Daugiabučio namo Žemaitės g. 43, Šiauliai savininkų bendrija",
     "code": "307504664",
     "address": "Šiauliai, Žemaitės g. 43-18, LT-76339"
   },
@@ -329,8 +324,7 @@
   },
   {
     "name": "UAB \"JMA Šiauliai\"",
-    "code": "302298064",
-    "address": "Šiauliai, Išradėjų g. 16, LT-78148"
+    "code": "302298064"
   },
   {
     "name": "UAB \"Ss parts Šiauliai\"",
@@ -811,11 +805,6 @@
     "address": "Šiaulių r. sav., Ginkūnų sen., Ginkūnų k., Sodo tak. 10, LT-81496"
   },
   {
-    "name": "Lietuvos mokytojų profesinės sąjungos Šiaulių skyrius",
-    "code": "145602368",
-    "address": "Šiauliai, Pakalnės g. 6A, LT-76293"
-  },
-  {
     "name": "Lietuvos pasauliečių pranciškonų ordino Šiaulių Kryžių kalno brolija",
     "code": "192092642",
     "address": "Šiaulių r. sav., Meškuičių sen., Jurgaičių k. 12, LT-81439"
@@ -919,6 +908,10 @@
     "name": "MB Šiaulių biliardo klubas",
     "code": "305376447",
     "address": "Šiauliai, Gegužių g. 7-4, LT-78311"
+  },
+  {
+    "name": "MB Šiaulių senoji klinika",
+    "code": "305350395"
   },
   {
     "name": "MB Šiaulių stogai",
@@ -1045,7 +1038,8 @@
   {
     "name": "UAB \"CGP Šiaulių NT\"",
     "code": "307585748",
-    "address": "Vilniaus r. sav., Nemėžio sen., Daržininkų k., Svajonių g. 18-1, LT-13281"
+    "address": "Vilniaus r. sav., Nemėžio sen., Daržininkų k., Svajonių g. 18-1, LT-13281",
+    "vatcode": "LT100019884614"
   },
   {
     "name": "UAB \"Guliverio kelionės\" Šiaulių filialas",
@@ -1259,7 +1253,7 @@
   {
     "name": "UAB \"Šiaulių pieno baras\"",
     "code": "302615917",
-    "address": "Šiauliai, Trakų g. 38, LT-76295"
+    "address": "Šiauliai, Gaisrininkų g. 4, LT-76295"
   },
   {
     "name": "UAB \"Šiaulių reklama\"",
@@ -2830,7 +2824,8 @@
   {
     "name": "Šiaulių miesto koncertinė įstaiga \"Saulė\"",
     "code": "302296914",
-    "address": "Šiauliai, Tilžės g. 140, LT-76350"
+    "address": "Šiauliai, Tilžės g. 140, LT-76350",
+    "vatcode": "LT100019812415"
   },
   {
     "name": "Šiaulių miesto krepšinio asociacija \"Oranžinis kamuolys LT\"",
@@ -2970,6 +2965,10 @@
     "name": "Šiaulių motokroso klubas",
     "code": "305668565",
     "address": "Šiauliai, Vasario 16-osios g. 41, LT-76350"
+  },
+  {
+    "name": "Šiaulių municipalinė aplinkos tyrimų laboratorija",
+    "code": "145412194"
   },
   {
     "name": "Šiaulių muzikos klubas-studija \"EN DEN DU\"",
@@ -3440,10 +3439,6 @@
     "address": "Šiauliai, Vilniaus g. 160, LT-76297"
   },
   {
-    "name": "Šiaulių regiono bokso populiarinimo asociacija",
-    "code": "306109237"
-  },
-  {
     "name": "Šiaulių regiono dirbančiųjų profesinė sąjunga \"Solidarumas\"",
     "code": "307166287",
     "address": "Radviliškis, V. Kudirkos g. 19-1, LT-82169"
@@ -3597,7 +3592,8 @@
   {
     "name": "Šiaulių turizmo informacijos centras",
     "code": "145398346",
-    "address": "Šiauliai, Vilniaus g. 213-90, LT-76348"
+    "address": "Šiauliai, Vilniaus g. 213-90, LT-76348",
+    "vatcode": "LT100001775711"
   },
   {
     "name": "Šiaulių universitetinė gimnazija",
@@ -4060,6 +4056,12 @@
     "vatcode": "LT100015058410"
   },
   {
+    "name": "MB \"Šiaurės baldai\"",
+    "code": "307616065",
+    "address": "Joniškis, Pašvitinio g. 21A, LT-84152",
+    "vatcode": "LT100019840511"
+  },
+  {
     "name": "MB \"Šiaurės estetika architektai\"",
     "code": "307507564",
     "address": "Vilnius, S. Stanevičiaus g. 17-6, LT-07134"
@@ -4107,6 +4109,11 @@
     "code": "303864362",
     "address": "Pasvalio r. sav., Pasvalio apylinkių sen., Valakėlių k., Lėvens g. 4, LT-39112",
     "vatcode": "LT100009228711"
+  },
+  {
+    "name": "MB \"Šiaurės namai\"",
+    "code": "307630086",
+    "address": "Šiaulių r. sav., Kuršėnai, Pievų g. 1, LT-81137"
   },
   {
     "name": "MB \"Šiaurės pardavimai\"",
@@ -4504,7 +4511,7 @@
   {
     "name": "Viešoji įstaiga \"Šiaurės Jeruzalė\"",
     "code": "302656789",
-    "address": "Vilnius, Jogailos g. 9, LT-01116"
+    "address": "Vilnius, J. Jasinskio g. 2, LT-01112"
   },
   {
     "name": "Viešoji įstaiga LASS šiaurės rytų centras",
@@ -4591,6 +4598,11 @@
     "name": "Šiaurės svajonė MB",
     "code": "306383918",
     "address": "Vilnius, Girulių g. 10-201, LT-12112"
+  },
+  {
+    "name": "Šiaurės turas VšĮ",
+    "code": "307604351",
+    "address": "Panevėžys, Margių g. 44A, LT-36200"
   },
   {
     "name": "Šiaurės vakarų Lietuvos vietos veiklos grupė",

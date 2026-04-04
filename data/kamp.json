@@ -51,7 +51,8 @@
   {
     "name": "UAB \"Minties kampai\"",
     "code": "307564145",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229",
+    "vatcode": "LT100019730518"
   },
   {
     "name": "UAB \"Penki kampai\"",
@@ -115,11 +116,6 @@
     "address": "Gargždai, Pušų g. 52, LT-96144"
   },
   {
-    "name": "Daugiabučio namo savininkų bendrija \"Kampas\"",
-    "code": "160008515",
-    "address": "Kauno r. sav., Ežerėlis, Kauno g. 25, LT-53387"
-  },
-  {
     "name": "Daugiabučio namo savininkų bendrija \"Kampas-1\"",
     "code": "151429629",
     "address": "Marijampolė, Sporto g. 22, LT-68231"
@@ -138,11 +134,6 @@
     "name": "Garažų eksploatavimo bendrija \"KAMPAS\"",
     "code": "160199853",
     "address": "Kauno r. sav., Garliava, Vasario 16-osios g."
-  },
-  {
-    "name": "Garažų eksploatavimo bendrija \"Kampas\"",
-    "code": "185667199",
-    "address": "Vilkaviškis, Lobiškių g."
   },
   {
     "name": "Garažų eksploatavimo bendrija \"Kampas\" Dubijos g. 18",
@@ -182,6 +173,11 @@
     "address": "Vilnius, Paribio g. 31-4, LT-08102"
   },
   {
+    "name": "MB \"Linksmas kampas\"",
+    "code": "307627859",
+    "address": "Panevėžys, Vasario 16-osios g. 56-2, LT-35160"
+  },
+  {
     "name": "MB \"Mados kampas\"",
     "code": "304749612",
     "address": "Varėna, Dzūkų g. 19-28, LT-65170"
@@ -218,6 +214,11 @@
     "name": "MB \"Tvarus kampas\"",
     "code": "304915009",
     "address": "Vilnius, Antakalnio g. 69-32, LT-10207"
+  },
+  {
+    "name": "MB \"Tvirtas kampas\"",
+    "code": "307614484",
+    "address": "Kauno r. sav., Samylų sen., Laumėnų k., Beržų al. 1, LT-53118"
   },
   {
     "name": "MB \"Vėsus kampas\"",
@@ -358,8 +359,7 @@
   {
     "name": "UAB Baldų kampas",
     "code": "305338425",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
-    "vatcode": "LT100014038612"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "UAB SKANUS KAMPAS",

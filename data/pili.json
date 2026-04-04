@@ -120,6 +120,21 @@
     "address": "Kaunas, Brastos g. 28C-R3, LT-47185"
   },
   {
+    "name": "UAB \"Piliamiestis 1\"",
+    "code": "307608588",
+    "address": "Vilnius, Spaudos g. 7, LT-05132"
+  },
+  {
+    "name": "UAB \"Piliamiestis 2\"",
+    "code": "307608353",
+    "address": "Vilnius, Spaudos g. 7, LT-05132"
+  },
+  {
+    "name": "UAB \"Piliamiestis 3\"",
+    "code": "307608346",
+    "address": "Vilnius, Spaudos g. 7, LT-05132"
+  },
+  {
     "name": "UAB Piliamiesčio klinika",
     "code": "304766896",
     "address": "Kaunas, Brastos g. 22-103, LT-47185"
@@ -281,7 +296,8 @@
   {
     "name": "VšĮ \"Pilietinio atsparumo iniciatyva\"",
     "code": "305375936",
-    "address": "Vilnius, Smolensko g. 10D-55, LT-03201"
+    "address": "Vilnius, Smolensko g. 10D-55, LT-03201",
+    "vatcode": "LT100019746716"
   },
   {
     "name": "VšĮ Pilietinio ugdymo centras",
@@ -885,12 +901,6 @@
     "name": "MB \"Spalvų pilis\"",
     "code": "305336890",
     "address": "Marijampolė, Birutės g. 6, LT-68151"
-  },
-  {
-    "name": "MB Slibino pilis",
-    "code": "305672332",
-    "address": "Alytus, Jaunimo g. 27-21, LT-63315",
-    "vatcode": "LT100013657813"
   },
   {
     "name": "R. Staševičiūtės projektavimo firma \"Pilis\"",

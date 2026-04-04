@@ -249,6 +249,11 @@
     "address": "Vilnius, Krokuvos g. 53-3, LT-09306"
   },
   {
+    "name": "MB \"IT Tech Neighbour\"",
+    "code": "307605186",
+    "address": "Kauno r. sav., Samylų sen., Laumėnų k., Beržų al. 1, LT-53118"
+  },
+  {
     "name": "MB \"Jarmint tech\"",
     "code": "306388235",
     "address": "Vilnius, Taikos g. 85-63, LT-05215"
@@ -372,7 +377,8 @@
   {
     "name": "MB \"Tech Vitae\"",
     "code": "307597921",
-    "address": "Kaunas, Svirbygalos g. 43-14, LT-46283"
+    "address": "Kaunas, Svirbygalos g. 43-14, LT-46283",
+    "vatcode": "LT100019846813"
   },
   {
     "name": "MB \"Tech forge\"",
@@ -468,6 +474,11 @@
     "name": "MB Di-Tech Lithuania",
     "code": "307129680",
     "address": "Vilnius, Žirmūnų g. 57-50, LT-09110"
+  },
+  {
+    "name": "MB Dom tech",
+    "code": "307622919",
+    "address": "Vilniaus r. sav., Avižienių sen., Bajorų k., Žiedų g. 129-2, LT-14189"
   },
   {
     "name": "MB Dryland tech",
@@ -569,6 +580,17 @@
     "vatcode": "LT100019489611"
   },
   {
+    "name": "MB Ksk tech",
+    "code": "307602400",
+    "address": "Vilnius, Fizikų g. 14-40, LT-08448",
+    "vatcode": "LT100019853412"
+  },
+  {
+    "name": "MB LUIGI TECH",
+    "code": "307603299",
+    "address": "Širvintos, Medžiotojų g. 12, LT-19124"
+  },
+  {
     "name": "MB Linkis tech",
     "code": "307076861",
     "address": "Gargždai, Vyšnių g. 3A-2, LT-96139",
@@ -593,8 +615,7 @@
   {
     "name": "MB Mangusta Tech",
     "code": "307406597",
-    "address": "Kauno r. sav., Karmėlava, Baldininkų g. 4E-1, LT-54448",
-    "vatcode": "LT100019256514"
+    "address": "Kauno r. sav., Karmėlava, Baldininkų g. 4E-1, LT-54448"
   },
   {
     "name": "MB Mygom.tech",
@@ -738,6 +759,11 @@
     "vatcode": "LT100018541616"
   },
   {
+    "name": "MB Timber tech",
+    "code": "307628092",
+    "address": "Vilnius, Kauno g. 32A-41, LT-03202"
+  },
+  {
     "name": "MB VILKAS TECH",
     "code": "307569007",
     "address": "Vilnius, Sausio 13-osios g. 13-6, LT-04345"
@@ -751,8 +777,7 @@
   {
     "name": "MB Wereg tech",
     "code": "306677268",
-    "address": "Vilnius, K. Donelaičio g. 20-13, LT-03102",
-    "vatcode": "LT100017490612"
+    "address": "Vilnius, K. Donelaičio g. 20-13, LT-03102"
   },
   {
     "name": "MB ZRV TECH LT",
@@ -796,9 +821,19 @@
     "address": "Vilnius, Dysnos g. 4-6, LT-01135"
   },
   {
+    "name": "Robertas Tech MB",
+    "code": "307631569",
+    "address": "Pasvalys, Taikos g. 27-30, LT-39132"
+  },
+  {
     "name": "SA Media Tech, UAB",
     "code": "306083397",
     "address": "Vilnius, Verkių g. 35, LT-09117"
+  },
+  {
+    "name": "SayAI Tech Solutions UAB",
+    "code": "307611004",
+    "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
     "name": "Sorokin craft tech MB",
@@ -906,7 +941,7 @@
   {
     "name": "UAB \"Atlantic Partners Asia Tech\"",
     "code": "306155512",
-    "address": "Vilnius, Žalgirio g. 88-101, LT-09303"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "UAB \"BIURO TECH\"",
@@ -1014,7 +1049,7 @@
   {
     "name": "UAB \"Qlindo Tech\"",
     "code": "306325683",
-    "address": "Vilnius, Žalgirio g. 88-101, LT-09303"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "UAB \"RVS Tech\"",
@@ -1042,7 +1077,7 @@
   {
     "name": "UAB \"SAASY TECH\"",
     "code": "307517035",
-    "address": "Vilnius, Veiverių g. 9B-1, LT-11346"
+    "address": "Vilnius, Ukmergės g. 219-1, LT-07152"
   },
   {
     "name": "UAB \"SOI Tech\"",
@@ -1075,11 +1110,6 @@
     "name": "UAB \"Tech Talents\"",
     "code": "307063141",
     "address": "Vilnius, Vytauto g. 53-10, LT-08122"
-  },
-  {
-    "name": "UAB \"Tidex Tech\"",
-    "code": "306056674",
-    "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194"
   },
   {
     "name": "UAB \"VH TECH Lietuva\"",
@@ -1229,8 +1259,7 @@
   {
     "name": "UAB Normalis tech",
     "code": "305779213",
-    "address": "Visaginas, Statybininkų g. 24, LT-31205",
-    "vatcode": "LT100014287916"
+    "address": "Visaginas, Statybininkų g. 24, LT-31205"
   },
   {
     "name": "UAB Nova Tech Solutions",
@@ -1325,6 +1354,11 @@
     "address": "Vilniaus r. sav., Nemėžio sen., Nemėžio k., Topolių g. 24-1, LT-13262"
   },
   {
+    "name": "UAB Witsee Tech",
+    "code": "307624838",
+    "address": "Vilnius, P. Lukšio g. 5-1, LT-08221"
+  },
+  {
     "name": "UAB ng tech",
     "code": "305137123",
     "address": "Jonavos r. sav., Užusalių sen., Išorų k., Miško g. 9, LT-55328"
@@ -1350,8 +1384,7 @@
   {
     "name": "VEE TECH, UAB",
     "code": "302765023",
-    "address": "Kaunas, Savanorių pr. 192, LT-44151",
-    "vatcode": "LT100006828713"
+    "address": "Kaunas, Savanorių pr. 192, LT-44151"
   },
   {
     "name": "VEESLA Tech, UAB",
@@ -1418,6 +1451,11 @@
     "code": "306661805",
     "address": "Vilnius, Elbingo g. 27-5, LT-06285",
     "vatcode": "LT100016681913"
+  },
+  {
+    "name": "\"TechAcademy\" UAB",
+    "code": "306966760",
+    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
   },
   {
     "name": "UAB \"TechAgro\"",
@@ -1579,7 +1617,8 @@
   {
     "name": "MB TecheraLT",
     "code": "307567020",
-    "address": "Panevėžys, Smėlynės g. 59-1, LT-35112"
+    "address": "Panevėžys, Smėlynės g. 59-1, LT-35112",
+    "vatcode": "LT100019851315"
   },
   {
     "name": "UAB Techfabrikas",
@@ -1748,7 +1787,7 @@
   {
     "name": "UAB \"Techlogistika\"",
     "code": "304423075",
-    "address": "Vilnius, Kalvarijų g. 98-48, LT-08211"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "MB \"Techma\"",
@@ -2017,6 +2056,11 @@
     "code": "302721824",
     "address": "Vilnius, S. Žukausko g. 39, LT-09130",
     "vatcode": "LT100006685114"
+  },
+  {
+    "name": "Icelandair Third Party Technical Services UAB",
+    "code": "307620964",
+    "address": "Vilnius, Vilniaus g. 31, LT-01402"
   },
   {
     "name": "KR Technical, UAB",
@@ -2316,8 +2360,8 @@
   },
   {
     "name": "Daugiabučio namo savininkų bendrija \"Technika\"",
-    "code": "174428027",
-    "address": "Šakiai, J. Basanavičiaus g. 4-32, LT-71109"
+    "code": "135338030",
+    "address": "Kaunas, Vydūno al. 9, LT-50285"
   },
   {
     "name": "Dsd technika, UAB",
@@ -2416,6 +2460,11 @@
     "address": "Kaunas, Draugystės g. 17-1, LT-51229"
   },
   {
+    "name": "MB \"JMR technika\"",
+    "code": "307607041",
+    "address": "Klaipėda, Aukštaičių g. 13, LT-91268"
+  },
+  {
     "name": "MB \"Josvainių technika\"",
     "code": "304470420",
     "address": "Kėdainiai, J. Basanavičiaus g. 146-40, LT-57372"
@@ -2476,7 +2525,7 @@
   {
     "name": "MB \"Technika ON\"",
     "code": "307125041",
-    "address": "Šiauliai, Tilžės g. 36, LT-78205"
+    "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Aukštelkės k., Sodybų g. 26, LT-80181"
   },
   {
     "name": "MB \"Technika statybai\"",
@@ -3373,8 +3422,7 @@
   },
   {
     "name": "UAB \"Technikonus\"",
-    "code": "302033532",
-    "address": "Panevėžys, J. Janonio g. 1, LT-35101"
+    "code": "302033532"
   },
   {
     "name": "\"Technikos tiekimo kompanija\", UAB",
@@ -3667,7 +3715,7 @@
   {
     "name": "UAB \"Technikos centro paslaugos\"",
     "code": "304832015",
-    "address": "Panevėžys, Vilniaus g. 55-2, LT-36101",
+    "address": "Panevėžys, Tinklų g. 25, LT-35115",
     "vatcode": "LT100011605910"
   },
   {
@@ -3774,7 +3822,8 @@
   {
     "name": "UAB Molėtų Technikos Parkas",
     "code": "307594551",
-    "address": "Molėtai, Statybininkų g. 9, LT-33112"
+    "address": "Molėtai, Statybininkų g. 9, LT-33112",
+    "vatcode": "LT100019897414"
   },
   {
     "name": "UAB SIURBLIŲ TECHNIKOS CENTRAS",
@@ -3945,8 +3994,7 @@
   {
     "name": "UAB Technikrent",
     "code": "305970567",
-    "address": "Kaunas, Kukučių g. 41, LT-51338",
-    "vatcode": "LT100015797910"
+    "address": "Kaunas, Kukučių g. 41, LT-51338"
   },
   {
     "name": "UAB Technikrent transportas",
@@ -5186,8 +5234,7 @@
   {
     "name": "HomeDoc Technologies Baltic, UAB",
     "code": "305563226",
-    "address": "Vilnius, Didžioji g. 18, LT-01128",
-    "vatcode": "LT100013233911"
+    "address": "Vilnius, Didžioji g. 18, LT-01128"
   },
   {
     "name": "Homtection technologies MB",
@@ -5300,6 +5347,11 @@
     "code": "305501491",
     "address": "Kaunas, Šiaudinės g. 4A-1, LT-46447",
     "vatcode": "LT100015824619"
+  },
+  {
+    "name": "MB \"Everfair technologies\"",
+    "code": "307625609",
+    "address": "Mažeikiai, Žemaitijos g. 1-14, LT-89140"
   },
   {
     "name": "MB \"Gopher Technologies\"",
@@ -5429,6 +5481,11 @@
     "address": "Vilnius, Paribio g. 12-98, LT-08101"
   },
   {
+    "name": "MB Olten technologies",
+    "code": "307620042",
+    "address": "Vilnius, Žaibo g. 5-42, LT-04126"
+  },
+  {
     "name": "MB Onro Technologies",
     "code": "306359753",
     "address": "Kaunas, Draugystės g. 17-1, LT-51229",
@@ -5460,6 +5517,11 @@
     "name": "MB Tevux technologies",
     "code": "305949669",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "MB Topostride Technologies",
+    "code": "307630766",
+    "address": "Vilnius, Lvivo g. 21A, LT-09313"
   },
   {
     "name": "MB Traceworks Technologies LT",
@@ -5615,6 +5677,11 @@
     "name": "Sika Technologies UAB",
     "code": "306628602",
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
+  },
+  {
+    "name": "Silver Fir Technologies UAB",
+    "code": "307611260",
+    "address": "Vilnius, Rinktinės g. 16-47, LT-09322"
   },
   {
     "name": "Simply Digital Technologies UAB",
@@ -5863,6 +5930,11 @@
     "vatcode": "LT100004223814"
   },
   {
+    "name": "UAB \"Insaitus Technologies\"",
+    "code": "307611207",
+    "address": "Vilnius, Birutės g. 25B-1, LT-08114"
+  },
+  {
     "name": "UAB \"JDR Future technologies\"",
     "code": "306008512",
     "address": "Vilnius, Polocko g. 2-3, LT-01204"
@@ -5951,7 +6023,7 @@
   {
     "name": "UAB \"SingQuant Technologies\"",
     "code": "306273304",
-    "address": "Vilnius, Žalgirio g. 88-101, LT-09303"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "UAB \"Skeen technologies\"",
@@ -6051,8 +6123,7 @@
   {
     "name": "UAB Beauty technologies",
     "code": "306671870",
-    "address": "Vilnius, Ramybės g. 4-70, LT-02103",
-    "vatcode": "LT100018031415"
+    "address": "Vilnius, Ramybės g. 4-70, LT-02103"
   },
   {
     "name": "UAB Bigbrolis technologies",
@@ -6285,6 +6356,11 @@
     "name": "UAB Terra Technologies",
     "code": "307434080",
     "address": "Kėdainių r. sav., Pernaravos sen., Jakšių k., Aušros g. 16-2, LT-58229"
+  },
+  {
+    "name": "UAB Thunderbird technologies",
+    "code": "307628103",
+    "address": "Alytus, Pramonės g. 23A, LT-62175"
   },
   {
     "name": "UAB Trust technologies",
@@ -6975,12 +7051,6 @@
     "vatcode": "LT100017357019"
   },
   {
-    "name": "Pigmentų technologijos, UAB",
-    "code": "306262891",
-    "address": "Vilnius, Pušų g. 12-4, LT-08120",
-    "vatcode": "LT100015804412"
-  },
-  {
     "name": "Roberto Šertvyčio programavimo firma \"KOMPIUTERINĖS TECHNOLOGIJOS\"",
     "code": "121803163",
     "address": "Vilnius, Aguonų g. 10, LT-03213"
@@ -7063,7 +7133,8 @@
   {
     "name": "UAB \"Baltijos interneto technologijos\"",
     "code": "304415114",
-    "address": "Vilnius, Prūsų g. 14-62, LT-02154"
+    "address": "Vilnius, Prūsų g. 14-62, LT-02154",
+    "vatcode": "LT100019764119"
   },
   {
     "name": "UAB \"Baltijos investicijų technologijos\"",
@@ -7256,11 +7327,6 @@
     "vatcode": "LT100003269514"
   },
   {
-    "name": "UAB \"Kipu technologijos\"",
-    "code": "305792118",
-    "address": "Šiauliai, Mažosios Lietuvos g. 1G, LT-78376"
-  },
-  {
     "name": "UAB \"Klijavimo technologijos\"",
     "code": "303250318",
     "address": "Kauno r. sav., Akademija, Tako g. 5-15, LT-53356",
@@ -7390,11 +7456,6 @@
     "name": "UAB \"Nuotekų valymo technologijos\"",
     "code": "302509198",
     "address": "Vilnius, Sandėlių g. 44-101, LT-02248"
-  },
-  {
-    "name": "UAB \"OPER technologijos\"",
-    "code": "305795833",
-    "address": "Vilnius, Švitrigailos g. 11K-109, LT-03228"
   },
   {
     "name": "UAB \"OPTIMALIŲ SISTEMŲ TECHNOLOGIJOS\"",
@@ -8606,8 +8667,7 @@
   },
   {
     "name": "UAB Progresyvių investicijų ir technologinių sprendimų spektras",
-    "code": "303144763",
-    "address": "Kaunas, K. Donelaičio g. 62-1, LT-44248"
+    "code": "303144763"
   },
   {
     "name": "UAB \"MEDŽIO TECHNOLOGINĖ ĮRANGA\"",
@@ -8744,7 +8804,7 @@
   {
     "name": "Fast and Trust Technology Limited UAB",
     "code": "306029983",
-    "address": "Vilnius, Laisvės pr. 60, LT-05120"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "Flickon technology, MB",
@@ -8910,6 +8970,11 @@
     "vatcode": "LT100019682019"
   },
   {
+    "name": "MB Verdant Technology Co",
+    "code": "307613247",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+  },
+  {
     "name": "Meaningful Technology UAB",
     "code": "306726441",
     "address": "Vilnius, Girulių g. 10, LT-12112"
@@ -8977,10 +9042,6 @@
     "name": "UAB \"Advance Technology Laboratory\"",
     "code": "302442397",
     "address": "Vilnius, Geležinkelio g. 3-14A, LT-02100"
-  },
-  {
-    "name": "UAB \"Aqua - technology group\"",
-    "code": "305499923"
   },
   {
     "name": "UAB \"Arm technology\"",
@@ -9317,7 +9378,8 @@
   {
     "name": "UAB Parde technology",
     "code": "307183817",
-    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Raisto g. 4, LT-14180"
+    "address": "Vilniaus r. sav., Avižienių sen., Klevinės vs., Raisto g. 4, LT-14180",
+    "vatcode": "LT100018335417"
   },
   {
     "name": "UAB Pulsetto technology",
@@ -9537,7 +9599,8 @@
   {
     "name": "MB \"Technoris\"",
     "code": "307579250",
-    "address": "Vilnius, Kuosų g. 9-R18, LT-10312"
+    "address": "Vilnius, Kuosų g. 9-R18, LT-10312",
+    "vatcode": "LT100019755112"
   },
   {
     "name": "UAB \"Technorus\"",
@@ -9700,7 +9763,8 @@
   {
     "name": "MB \"BS Technuoma\"",
     "code": "307587941",
-    "address": "Panevėžys, Ramygalos g. 69-1, LT-36216"
+    "address": "Panevėžys, Ramygalos g. 69-1, LT-36216",
+    "vatcode": "LT100019738715"
   },
   {
     "name": "UAB \"TECHNUOMA\"",
@@ -9733,7 +9797,8 @@
   {
     "name": "MB Techpagalba Alytus",
     "code": "307106703",
-    "address": "Alytus, Medžiotojų g. 12, LT-62207"
+    "address": "Alytus, Medžiotojų g. 12, LT-62207",
+    "vatcode": "LT100019871017"
   },
   {
     "name": "UAB \"Techparkas\"",
@@ -9928,7 +9993,7 @@
   {
     "name": "UAB \"Techseed\"",
     "code": "306331661",
-    "address": "Vilnius, Žalgirio g. 88-101, LT-09303"
+    "address": "Vilniaus m. sav."
   },
   {
     "name": "Techselt MB",

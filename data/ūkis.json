@@ -52,7 +52,8 @@
   {
     "name": "IĮ Mažasis gėlių ūkis",
     "code": "166846347",
-    "address": "Mažeikių r. sav., Židikų sen., Ukrinų k."
+    "address": "Mažeikių r. sav., Židikų sen., Ukrinų k.",
+    "vatcode": "LT668463410"
   },
   {
     "name": "J. Gabriūnienės firma \"Stetiškių ūkis\"",
@@ -247,12 +248,18 @@
   {
     "name": "MB Balsių ūkis",
     "code": "307442515",
-    "address": "Ignalinos r. sav., Linkmenų sen., Krivasalio k., Žiliuko g. 6, LT-30216"
+    "address": "Ignalinos r. sav., Linkmenų sen., Krivasalio k., Žiliuko g. 6, LT-30216",
+    "vatcode": "LT100019788116"
   },
   {
     "name": "MB Baublių ūkis",
     "code": "305628834",
     "address": "Šilalės r. sav., Kvėdarnos sen., Gražjūrio k. 13, LT-75344"
+  },
+  {
+    "name": "MB Baužų ūkis",
+    "code": "307601729",
+    "address": "Jurbarko r. sav., Jurbarkų sen., Gedžių k., Pranciškaus Mikutaičio g. 7, LT-74201"
   },
   {
     "name": "MB Bešonių ūkis",
@@ -390,6 +397,11 @@
     "address": "Kaunas, A. Juozapavičiaus pr. 23-7, LT-45256"
   },
   {
+    "name": "MB Petro ūkis",
+    "code": "307604999",
+    "address": "Rokiškio r. sav., Obelių sen., Audronių I k., J. Vienožinskio g. 28A, LT-42221"
+  },
+  {
     "name": "MB S&A ūkis",
     "code": "307282014",
     "address": "Radviliškio r. sav., Pakalniškių sen., Radvilonių k., Parko g. 7, LT-82497"
@@ -443,6 +455,11 @@
     "code": "305801478",
     "address": "Molėtų r. sav., Luokesos sen., Ažubalių k., S. Dariaus ir S. Girėno g. 42, LT-33103",
     "vatcode": "LT100014452219"
+  },
+  {
+    "name": "MB Šarūno ūkis",
+    "code": "307614452",
+    "address": "Alytus, Kaštonų g. 21-35, LT-63311"
   },
   {
     "name": "MB Šepučių ūkis",
@@ -1037,12 +1054,6 @@
     "address": "Šiauliai, Vytauto g. 110-20, LT-76345"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"Alytaus butų ūkis\"",
-    "code": "149951417",
-    "address": "Alytus, Vingio g. 5, LT-63221",
-    "vatcode": "LT499514113"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"Biržų butų ūkis\"",
     "code": "254709320",
     "address": "Biržai, Rotušės g. 12-1, LT-41175",
@@ -1273,8 +1284,7 @@
   {
     "name": "Žemės ūkio bendrovė Panoterių ūkis",
     "code": "111799777",
-    "address": "Jonavos r. sav., Šilų sen., Panoterių mstl.",
-    "vatcode": "LT117997716"
+    "address": "Jonavos r. sav., Šilų sen., Panoterių mstl."
   },
   {
     "name": "Žemės ūkio kooperatinė bendrovė \"EKO ūkis\"",

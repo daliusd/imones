@@ -143,6 +143,11 @@
     "address": "Kaunas, Partizanų g. 61-806, LT-49282"
   },
   {
+    "name": "MB Pablo paslaptys",
+    "code": "307620576",
+    "address": "Vilnius, Vokiečių g. 12-1, LT-01130"
+  },
+  {
     "name": "UAB \"Grožio paslaptys\"",
     "code": "303302996",
     "address": "Kaunas, Mosėdžio g. 5, LT-48177"
@@ -164,6 +169,11 @@
     "code": "304466201",
     "address": "Alytus, Putinų g. 66D, LT-62315",
     "vatcode": "LT100011639017"
+  },
+  {
+    "name": "UAB Undinės paslaptys",
+    "code": "307629828",
+    "address": "Palanga, Vėjų g. 10, LT-00147"
   },
   {
     "name": "Viešoji įstaiga \"Šokio paslaptys\"",
@@ -1091,7 +1101,7 @@
   {
     "name": "MB \"Kokybiškos paslaugos\"",
     "code": "304632324",
-    "address": "Kaunas, V. Krėvės pr. 82A-26, LT-50385",
+    "address": "Kauno r. sav., Alšėnų sen., Alšėnų k., Fazanų g. 7, LT-53369",
     "vatcode": "LT100015962719"
   },
   {
@@ -1938,11 +1948,6 @@
     "address": "Mažeikių r. sav., Židikai, Dariaus ir Girėno g. 20, LT-89443"
   },
   {
-    "name": "MB Savi paslaugos",
-    "code": "306730393",
-    "address": "Kėdainiai, Žydų g. 7, LT-57256"
-  },
-  {
     "name": "MB Slz Paslaugos",
     "code": "305603069",
     "address": "Kauno r. sav., Domeikavos sen., Domeikavos k., Parko g. 24, LT-54351"
@@ -2118,6 +2123,12 @@
     "code": "306284717",
     "address": "Vilnius, Jonažolių g. 11-167, LT-04135",
     "vatcode": "LT100016510716"
+  },
+  {
+    "name": "Nb programavimo paslaugos, MB",
+    "code": "307612017",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319",
+    "vatcode": "LT100019814119"
   },
   {
     "name": "Perkraustymo paslaugos MB",
@@ -2453,12 +2464,6 @@
     "code": "300821886",
     "address": "Vilnius, Gerosios Vilties g. 22A-2, LT-03145",
     "vatcode": "LT100003283913"
-  },
-  {
-    "name": "UAB \"Gedimino paslaugos\"",
-    "code": "301818665",
-    "address": "Vilnius, Perkūnkiemio g. 53, LT-12144",
-    "vatcode": "LT100004192417"
   },
   {
     "name": "UAB \"Greiderio paslaugos\"",
@@ -2917,6 +2922,10 @@
     "vatcode": "LT116781414"
   },
   {
+    "name": "UAB \"Tarptautinės verslo paslaugos\"",
+    "code": "305064547"
+  },
+  {
     "name": "UAB \"Tauro paslaugos\"",
     "code": "305328121",
     "address": "Šiaulių r. sav., Kuršėnai, Daugėlių g. 79B, LT-81116",
@@ -2925,7 +2934,7 @@
   {
     "name": "UAB \"Technikos centro paslaugos\"",
     "code": "304832015",
-    "address": "Panevėžys, Vilniaus g. 55-2, LT-36101",
+    "address": "Panevėžys, Tinklų g. 25, LT-35115",
     "vatcode": "LT100011605910"
   },
   {
@@ -3689,10 +3698,6 @@
     "address": "Mažeikių r. sav., Mažeikių apylinkės sen., Sovaičių k., Purvėnų g. 77, LT-89262"
   },
   {
-    "name": "Arūno Kučinsko paslaugų įmonė",
-    "code": "151421162"
-  },
-  {
     "name": "Asociacija \"Nukentėjusieji nuo finansinių paslaugų teikėjų\"",
     "code": "306249919",
     "address": "Kaunas, Kukučių g. 39, LT-51338"
@@ -4258,11 +4263,6 @@
     "address": "Prienų r. sav., Stakliškių sen., Stakliškių k., Kauno g. 11A-1, LT-59371"
   },
   {
-    "name": "J. Butkevičiaus veterinarinių paslaugų įmonė",
-    "code": "184549116",
-    "address": "Varėnos r. sav., Valkininkų sen., Užuperkasio k., Mokyklos g. 21, LT-65443"
-  },
-  {
     "name": "J. Dringelio veterinarijos paslaugų įmonė",
     "code": "283712440",
     "address": "Utenos r. sav., Daugailių sen., Nuodėgulių k."
@@ -4698,6 +4698,11 @@
     "name": "MB \"PASLAUGŲ SALA\"",
     "code": "302910853",
     "address": "Kaunas, Draugystės g. 19C, LT-51231"
+  },
+  {
+    "name": "MB \"Paslaugų arka\"",
+    "code": "307618034",
+    "address": "Vilnius, Girulių g. 10, LT-12112"
   },
   {
     "name": "MB \"Paslaugų biuras\"",
@@ -5288,6 +5293,10 @@
     "address": "Marijampolė, Sporto g. 2-18, LT-68238"
   },
   {
+    "name": "Romo Dailydos prekybos ir paslaugų įmonė",
+    "code": "151333545"
+  },
+  {
     "name": "Romo Kurmilevičiaus paslaugų įmonė",
     "code": "165813796",
     "address": "Marijampolės sav., Sasnavos sen., Puskelnių k., Šešupės g. 6, LT-68103",
@@ -5431,11 +5440,6 @@
     "address": "Trakai, Birutės g. 7, LT-21106"
   },
   {
-    "name": "Trakų globos ir socialinių paslaugų centro darbuotojų profesinė sąjunga",
-    "code": "305288926",
-    "address": "Trakai, Birutės g. 7, LT-21106"
-  },
-  {
     "name": "Trakų turizmo ir poilsio paslaugų plėtros asociacija",
     "code": "301818640",
     "address": "Trakų r. sav., Trakų sen., Seimėnų k., Dvaro g. 17, LT-21103"
@@ -5519,8 +5523,7 @@
   {
     "name": "UAB \"Inžinerinių paslaugų spektras\"",
     "code": "302923936",
-    "address": "Varėna, Marcinkonių g. 12-25, LT-65164",
-    "vatcode": "LT100007419018"
+    "address": "Varėna, Marcinkonių g. 12-25, LT-65164"
   },
   {
     "name": "UAB \"Laidojimo paslaugų centras\"",
@@ -5770,11 +5773,6 @@
     "address": "Kaunas, Pienių g. 10-110, LT-47445"
   },
   {
-    "name": "UAB Darbo paslaugų centras",
-    "code": "304738441",
-    "address": "Kaunas, Lazdijų g. 32, LT-46394"
-  },
-  {
     "name": "UAB Elektroninių paslaugų grupė",
     "code": "303214514",
     "address": "Šiauliai, Dainų g. 30-40, LT-78329",
@@ -5817,7 +5815,7 @@
   {
     "name": "UAB Komunalinių paslaugų centras",
     "code": "301846604",
-    "address": "Kauno r. sav., Garliava, Vytauto g. 71, LT-53258",
+    "address": "Kauno r. sav., Garliava, Liepų g. 34, LT-53205",
     "vatcode": "LT100004286913"
   },
   {

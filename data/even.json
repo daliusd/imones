@@ -87,7 +87,8 @@
   {
     "name": "Event Host Professional, MB",
     "code": "306879113",
-    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., Juozo Vyšniausko g. 6, LT-53304"
+    "address": "Kauno r. sav., Alšėnų sen., Narsiečių k., Juozo Vyšniausko g. 6, LT-53304",
+    "vatcode": "LT100019886610"
   },
   {
     "name": "Event lab MB",
@@ -287,6 +288,11 @@
     "vatcode": "LT100017473814"
   },
   {
+    "name": "AG Events & Projects, MB",
+    "code": "307625395",
+    "address": "Zarasai, Smėlynės g. 22, LT-32118"
+  },
+  {
     "name": "AJ events UAB",
     "code": "307562653",
     "address": "Kaunas, Griunvaldo g. 8-12, LT-44330"
@@ -304,7 +310,13 @@
   {
     "name": "Atlanta events, MB",
     "code": "307547441",
-    "address": "Vilnius, Odminių g. 8, LT-01122"
+    "address": "Vilnius, Odminių g. 8, LT-01122",
+    "vatcode": "LT100019788419"
+  },
+  {
+    "name": "Behappy events, MB",
+    "code": "307613261",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
   },
   {
     "name": "Futurae events, UAB",
@@ -456,7 +468,8 @@
   {
     "name": "MB Neurochange events",
     "code": "306761759",
-    "address": "Vilnius, P. Vileišio g. 16-10, LT-10306"
+    "address": "Vilnius, P. Vileišio g. 16-10, LT-10306",
+    "vatcode": "LT100019885814"
   },
   {
     "name": "MB Pro events",
@@ -471,14 +484,18 @@
   {
     "name": "MB YOU ARE events LT",
     "code": "307097535",
-    "address": "Šiauliai, Vytauto g. 147-18, LT-76341",
-    "vatcode": "LT100018151618"
+    "address": "Šiauliai, Vytauto g. 147-18, LT-76341"
   },
   {
     "name": "Mažoji bendrija Baltic events and marketing",
     "code": "307007623",
     "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
     "vatcode": "LT100017265619"
+  },
+  {
+    "name": "Mažoji bendrija Events lab",
+    "code": "307618529",
+    "address": "Vilnius, Laisvės pr. 60-1107, LT-05120"
   },
   {
     "name": "Mažoji bendrija Gravity events",
@@ -616,6 +633,11 @@
     "address": "Joniškis, Draugystės g. 5-21, LT-84137"
   },
   {
+    "name": "VšĮ AMP events",
+    "code": "307602368",
+    "address": "Trakai, Gilušio g. 16-21, LT-21110"
+  },
+  {
     "name": "VšĮ Horizontas events",
     "code": "307046996",
     "address": "Vilnius, M. Jankaus g. 16-16, LT-06237"
@@ -655,8 +677,7 @@
   },
   {
     "name": "\"365 eventus\", UAB",
-    "code": "303375866",
-    "address": "Kauno m. sav."
+    "code": "303375866"
   },
   {
     "name": "MB \"Eventus LT\"",

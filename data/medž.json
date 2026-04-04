@@ -38,6 +38,11 @@
     "address": "Vilnius, Santariškių g. 59-6, LT-08457"
   },
   {
+    "name": "MB Medžiagos forma",
+    "code": "307611214",
+    "address": "Elektrėnai, Raistinės g. 23, LT-26129"
+  },
+  {
     "name": "UAB \"Apdailos medžiagos\"",
     "code": "125239557",
     "address": "Vilnius, Kuršių g. 2, LT-03153",
@@ -328,7 +333,8 @@
   {
     "name": "MB \"Medžio pėda\"",
     "code": "307579695",
-    "address": "Alytus, Volungės g. 34-8, LT-63183"
+    "address": "Alytus, Volungės g. 34-8, LT-63183",
+    "vatcode": "LT100019719815"
   },
   {
     "name": "MB \"Medžio rankos\"",
@@ -382,6 +388,11 @@
     "vatcode": "LT100016355313"
   },
   {
+    "name": "MB Medžio genas",
+    "code": "307604974",
+    "address": "Ukmergė, Paupio g. 30, LT-20113"
+  },
+  {
     "name": "MB Medžio kvapas",
     "code": "306356223",
     "address": "Kaunas, Draugystės g. 17-1, LT-51229"
@@ -432,6 +443,11 @@
     "name": "Mažoji bendrija \"Medžio ir metalo dirbiniai\"",
     "code": "304164181",
     "address": "Druskininkai, Baltašiškės g. 33, LT-66371"
+  },
+  {
+    "name": "Medžio ir statybos darbai MB",
+    "code": "307628523",
+    "address": "Anykščių r. sav., Troškūnų sen., Latavėnų k., Okuličių g. 17, LT-29303"
   },
   {
     "name": "Medžio karaliai MB",
@@ -949,7 +965,7 @@
   {
     "name": "MEDŽIOTOJŲ KLUBAS \"Saulėtekio medžiotojai\"",
     "code": "302749396",
-    "address": "Vilnius, Saulėtekio al. 64, LT-10228"
+    "address": "Vilnius, Kalvarijų g. 53, LT-09317"
   },
   {
     "name": "Mažoji bendrija Akcijų medžiotojai",
@@ -1293,11 +1309,6 @@
     "address": "Utenos r. sav., Daugailių sen., Juknėnų k."
   },
   {
-    "name": "Daugiabučio namo Medžiotojų 2a, Kazlų Rūdos m. savininkų bendrija",
-    "code": "302922987",
-    "address": "Kazlų Rūda, Medžiotojų g. 2A-7, LT-69425"
-  },
-  {
     "name": "Daunorių medžiotojų klubas",
     "code": "304232433",
     "address": "Utenos r. sav., Tauragnai, Medžiotojų g. 7, LT-28314"
@@ -1460,7 +1471,7 @@
   {
     "name": "Januliškio medžiotojų būrelis",
     "code": "178855119",
-    "address": "Švenčionių r. sav., Švenčionėliai, Žeimenos g. 49, LT-18208"
+    "address": "Švenčionys, Lentupio g. 55, LT-18126"
   },
   {
     "name": "Jiezno medžiotojų būrelis",
@@ -2041,6 +2052,10 @@
     "name": "Lekėčių medžiotojų klubas",
     "code": "193329158",
     "address": "Šakių r. sav., Lekėčiai"
+  },
+  {
+    "name": "Lenkų medžiotojų klubas \"Ostoja Wilenska\"",
+    "code": "302326478"
   },
   {
     "name": "Lietuvos Medžiotojų ir Žvejų Draugijos Trakų skyriaus Trakų miesto medžiotojų būrelis",
@@ -2700,7 +2715,7 @@
   {
     "name": "MEDŽIOTOJŲ KLUBAS \"Saulėtekio medžiotojai\"",
     "code": "302749396",
-    "address": "Vilnius, Saulėtekio al. 64, LT-10228"
+    "address": "Vilnius, Kalvarijų g. 53, LT-09317"
   },
   {
     "name": "MEDŽIOTOJŲ KLUBAS \"ĄŽUOLO PAVĖSIS\"",
@@ -3773,7 +3788,7 @@
   {
     "name": "Medžiotojų klubas \"Pyvesa\"",
     "code": "169275398",
-    "address": "Pasvalio r. sav., Pasvalio sen., Žadeikių k."
+    "address": "Pasvalio r. sav., Pasvalio apylinkių sen., Trūliškio k. 8, LT-39194"
   },
   {
     "name": "Medžiotojų klubas \"Ragas\"",
@@ -4780,6 +4795,12 @@
     "code": "300626459",
     "address": "Kėdainių r. sav., Josvainių sen., Kunionių k., Malūno g. 4, LT-58201",
     "vatcode": "LT100004375417"
+  },
+  {
+    "name": "UAB Kėdainių medžiotojų užeiga",
+    "code": "161588576",
+    "address": "Kėdainiai, J. Basanavičiaus g. 91K, LT-57356",
+    "vatcode": "LT615885716"
   },
   {
     "name": "Ukmergės medžiotojų ir žvejų draugija",

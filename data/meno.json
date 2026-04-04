@@ -206,6 +206,11 @@
     "address": "Kaunas, Šarkuvos g. 30, LT-48169"
   },
   {
+    "name": "Kauno Juozo Grušo meno gimnazijos labdaros ir paramos fondas",
+    "code": "307607792",
+    "address": "Kaunas, Šarkuvos g. 6-77, LT-48175"
+  },
+  {
     "name": "Kauno r. meno mokykla",
     "code": "191099071",
     "address": "Kauno r. sav., Garliava, Vytauto g. 54, LT-53259"
@@ -284,10 +289,6 @@
     "name": "Lazdijų meno mokykla",
     "code": "190614198",
     "address": "Lazdijai, Nepriklausomybės a. 6, LT-67107"
-  },
-  {
-    "name": "Liaudies meno meistrų gyvenamojo namo su kūrybinėmis dirbtuvėmis statybos ir eksploatavimo bendrija \"Klevas\"",
-    "code": "164305453"
   },
   {
     "name": "Liaudies meno studija \"Tarškutis\"",
@@ -976,7 +977,8 @@
   {
     "name": "Viešoji įstaiga \"Lietuvos meno pažinimo centras Tartle\"",
     "code": "305135154",
-    "address": "Vilnius, Užupio g. 40, LT-01203"
+    "address": "Vilnius, Užupio g. 40, LT-01203",
+    "vatcode": "LT100019860819"
   },
   {
     "name": "Viešoji įstaiga \"Meno artelė\"",
@@ -1310,6 +1312,11 @@
     "vatcode": "LT100012345512"
   },
   {
+    "name": "VšĮ \"Rimaitytės meno fondas\"",
+    "code": "307605065",
+    "address": "Kaunas, P. Kalpoko g. 12-1, LT-44146"
+  },
+  {
     "name": "VšĮ \"Socialiniai meno projektai\"",
     "code": "302954401",
     "address": "Vilnius, Architektų g. 115-60, LT-04211"
@@ -1380,6 +1387,10 @@
     "address": "Vilnius, Parko g. 13-1A, LT-11205"
   },
   {
+    "name": "VšĮ Meno fondas",
+    "code": "303198152"
+  },
+  {
     "name": "VšĮ Meno ir Verslo Sinergija",
     "code": "302932700",
     "address": "Vilnius, Kirtimų g. 67, LT-02244"
@@ -1447,7 +1458,8 @@
   {
     "name": "Zarasų Fausto Latėno meno mokykla",
     "code": "190212420",
-    "address": "Zarasai, Dariaus ir Girėno g. 11, LT-32129"
+    "address": "Zarasai, Dariaus ir Girėno g. 11, LT-32129",
+    "vatcode": "LT100019823915"
   },
   {
     "name": "ŠIUOLAIKINIO MENO ASOCIACIJA",
@@ -1529,8 +1541,7 @@
   },
   {
     "name": "MB MenoJauta",
-    "code": "306313720",
-    "address": "Kauno r. sav., Akademija, Skroblų g. 11, LT-53348"
+    "code": "306313720"
   },
   {
     "name": "Asociacija \"MENOKLIS\"",

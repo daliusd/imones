@@ -312,12 +312,6 @@
     "address": "Šiauliai, K. Korsako g. 23-18, LT-78358"
   },
   {
-    "name": "IĮ Vilnelės odontologijos klinika",
-    "code": "305603165",
-    "address": "Vilnius, A. Vivulskio g. 15-22, LT-03162",
-    "vatcode": "LT100018890210"
-  },
-  {
     "name": "J. Kurienės odontologijos klinika, IĮ",
     "code": "183818065",
     "address": "Utena, Aušros g. 34-18, LT-28146"
@@ -428,7 +422,8 @@
   {
     "name": "MB \"Ederma klinika\"",
     "code": "306679600",
-    "address": "Vilnius, Žygio g. 90-161, LT-08242"
+    "address": "Vilnius, Žygio g. 90-161, LT-08242",
+    "vatcode": "LT100019791419"
   },
   {
     "name": "MB \"Estetinės kosmetologijos klinika\"",
@@ -486,7 +481,8 @@
   {
     "name": "MB \"Mi estetikos klinika\"",
     "code": "305636101",
-    "address": "Klaipėda, Nidos g. 54-5, LT-93190"
+    "address": "Klaipėda, Nidos g. 54-5, LT-93190",
+    "vatcode": "LT100019769715"
   },
   {
     "name": "MB \"Miško klinika\"",
@@ -1119,6 +1115,12 @@
     "vatcode": "LT100018490113"
   },
   {
+    "name": "MB Vilnelės odontologijos klinika",
+    "code": "305603165",
+    "address": "Vilnius, A. Vivulskio g. 15-22, LT-03162",
+    "vatcode": "LT100018890210"
+  },
+  {
     "name": "MB Vilniaus masažo ir grožio klinika",
     "code": "306988995",
     "address": "Vilnius, Vanaginės Sodų 5-oji g. 26, LT-08421"
@@ -1160,6 +1162,10 @@
     "address": "Vilnius, Kintų g. 5-17, LT-09301"
   },
   {
+    "name": "MB Šiaulių senoji klinika",
+    "code": "305350395"
+  },
+  {
     "name": "MB Šv. Jurgio odontologijos klinika",
     "code": "304865079",
     "address": "Kaunas, Savanorių pr. 5-3, LT-44255"
@@ -1188,6 +1194,11 @@
     "name": "MB Žvėryno grožio klinika",
     "code": "304125965",
     "address": "Vilnius, Sėlių g. 29-101, LT-08125"
+  },
+  {
+    "name": "MPEAK klinika UAB",
+    "code": "307604771",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
     "name": "Mažoji bendrija \"Aukštakalnio klinika\"",
@@ -1654,12 +1665,6 @@
     "name": "UAB \"Medicus DENTUM\" Estetinės odontologijos klinika",
     "code": "301535553",
     "address": "Vilnius, Justiniškių g. 146-1, LT-06153"
-  },
-  {
-    "name": "UAB \"Nemuno klinika\"",
-    "code": "302516068",
-    "address": "Vilniaus r. sav., Avižienių sen., Bajorų k., Šaulio g. 44-1, LT-14189",
-    "vatcode": "LT100015455714"
   },
   {
     "name": "UAB \"Neries odontologijos klinika\"",
@@ -2495,6 +2500,12 @@
     "code": "304436731",
     "address": "Vilnius, P. Vileišio g. 3A-36, LT-10308",
     "vatcode": "LT100017965018"
+  },
+  {
+    "name": "UAB Ova klinika",
+    "code": "282902440",
+    "address": "Ukmergė, A. Smetonos g. 37-1, LT-20129",
+    "vatcode": "LT829024416"
   },
   {
     "name": "UAB P9 klinika",
@@ -3484,11 +3495,6 @@
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
   },
   {
-    "name": "UAB \"Klinkerhaus\"",
-    "code": "302338021",
-    "address": "Vilnius, Fabijoniškių g. 73-100, LT-07111"
-  },
-  {
     "name": "MB Klinkerinis",
     "code": "307131286",
     "address": "Šiaulių r. sav., Šiaulių kaimiškoji sen., Toliočių k., Aguonų g. 19, LT-76321",
@@ -3569,6 +3575,11 @@
     "address": "Vilnius, Žirmūnų g. 1K-2, LT-09239"
   },
   {
+    "name": "MB Klinkfix",
+    "code": "307629874",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
+  },
+  {
     "name": "Uždaroji akcinė bendrovė \"KLINKMANN LIT\"",
     "code": "111469231",
     "address": "Vilnius, Juozo Balčikonio g. 9, LT-08247",
@@ -3578,6 +3589,11 @@
     "name": "A. Klinkovo komercinė firma",
     "code": "141290113",
     "address": "Klaipėda, Minijos g. 115-8, LT-93231"
+  },
+  {
+    "name": "MB Klinora",
+    "code": "307629073",
+    "address": "Vilnius, Kelmijos Sodų 12-oji g. 7, LT-02214"
   },
   {
     "name": "UAB \"Klinta\"",

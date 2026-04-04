@@ -24,7 +24,8 @@
   {
     "name": "MB \"TinkaDa\"",
     "code": "307140940",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019847418"
   },
   {
     "name": "Asociacija \"Tinkamas metas\"",
@@ -45,7 +46,7 @@
   {
     "name": "UAB \"Tinkamas sprendimas\"",
     "code": "304529776",
-    "address": "Vilnius, Dociškių g. 22-14, LT-05271",
+    "address": "Vilnius, Mokslininkų g. 11B-126, LT-08466",
     "vatcode": "LT100010947213"
   },
   {
@@ -171,6 +172,11 @@
     "code": "306966874",
     "address": "Kaunas, H. ir O. Minkovskių g. 41B-83, LT-46213",
     "vatcode": "LT100017149419"
+  },
+  {
+    "name": "MB Vandens tinklai",
+    "code": "307611488",
+    "address": "Kėdainių r. sav., Pernaravos sen., Langakių k., Rasų g. 12, LT-58210"
   },
   {
     "name": "UAB \"Alytaus šilumos tinklai\" darbuotojų profesinė sąjunga",
@@ -416,12 +422,6 @@
     "address": "Kaunas, Savanorių pr. 206, LT-50193"
   },
   {
-    "name": "UAB Tinklaitis",
-    "code": "307098231",
-    "address": "Kaunas, Žemaičių g. 69, LT-44186",
-    "vatcode": "LT100019606115"
-  },
-  {
     "name": "Uždaroji akcinė bendrovė \"ŽVEJŲ TINKLAPIS\"",
     "code": "141942117",
     "address": "Palanga, Virbališkės tak. 3J-7, LT-00127",
@@ -594,6 +594,12 @@
     "name": "MB Saugus tinklas",
     "code": "305762705",
     "address": "Vilnius, Mozūriškių g. 166-1, LT-06298"
+  },
+  {
+    "name": "MB Termo tinklas",
+    "code": "307612138",
+    "address": "Kaunas, Varnių g. 36-14, LT-48392",
+    "vatcode": "LT100019864418"
   },
   {
     "name": "MB Verslo tinklas",
@@ -1047,8 +1053,7 @@
   },
   {
     "name": "Tinklinio klubas \"Salduvė\"",
-    "code": "304438885",
-    "address": "Šiauliai, Gytarių g. 35-15, LT-78414"
+    "code": "304438885"
   },
   {
     "name": "Tinklinio klubas \"Skraiduolis\"",
@@ -1335,8 +1340,7 @@
   {
     "name": "MB Tinklonetas",
     "code": "306665821",
-    "address": "Vilnius, Elbingo g. 19-28, LT-06285",
-    "vatcode": "LT100016634619"
+    "address": "Vilnius, Elbingo g. 19-28, LT-06285"
   },
   {
     "name": "MB \"Tinklosaka\"",
@@ -1389,10 +1393,6 @@
     "name": "Biržų r., Širvėnos sen., Biržų k., Tinklų g. 3 gyvenamojo namo savininkų bendrija",
     "code": "155292487",
     "address": "Biržų r. sav., Širvėnos sen., Biržų k., Tinklų g. 3-1, LT-41180"
-  },
-  {
-    "name": "Gyvenamųjų namų ir inžinierinių tinklų savininkų bendrija \"Jakai\"",
-    "code": "163732687"
   },
   {
     "name": "Klaipėdos elektros tinklų darbuotojų profesinė sąjunga",
@@ -1448,11 +1448,6 @@
     "name": "Tinklų g. 1-ojo namo savininkų bendrija",
     "code": "248488440",
     "address": "Panevėžys, Tinklų g. 1, LT-35115"
-  },
-  {
-    "name": "Tinklų g. 11-ojo namo savininkų bendrija",
-    "code": "148484380",
-    "address": "Panevėžys, Tinklų g. 11, LT-35115"
   },
   {
     "name": "UAB \"Elektros tinklų projektai\"",
@@ -1563,6 +1558,10 @@
     "name": "IĮ \"Tinkoera\"",
     "code": "305221678",
     "address": "Kelmė, Ievų g. 17, LT-86175"
+  },
+  {
+    "name": "UAB Tinkolema",
+    "code": "306085779"
   },
   {
     "name": "UAB \"Tinkolemana\"",

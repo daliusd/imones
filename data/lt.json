@@ -19,7 +19,8 @@
   {
     "name": "\"Agilis LT\", MB",
     "code": "305199979",
-    "address": "Vilnius, Verkių g. 20-77, LT-08219"
+    "address": "Vilnius, Verkių g. 20-77, LT-08219",
+    "vatcode": "LT100019790814"
   },
   {
     "name": "\"Altranz LT\", UAB",
@@ -73,7 +74,7 @@
   {
     "name": "\"Bebras LT\", MB",
     "code": "304782085",
-    "address": "Vilnius, Šermukšnių g. 1-9A, LT-01106",
+    "address": "Vilnius, Tuskulėnų g. 38-68, LT-09210",
     "vatcode": "LT100011932311"
   },
   {
@@ -167,6 +168,12 @@
     "code": "304531745",
     "address": "Vilnius, Birutės g. 56-23, LT-08110",
     "vatcode": "LT100011124017"
+  },
+  {
+    "name": "\"FastTrack LT\", UAB",
+    "code": "305535846",
+    "address": "Vilnius, Saulėtekio al. 15-1, LT-10224",
+    "vatcode": "LT100018781618"
   },
   {
     "name": "\"Flora LT\", UAB",
@@ -559,11 +566,6 @@
     "vatcode": "LT100015311211"
   },
   {
-    "name": "\"Tondo LT\", MB",
-    "code": "305409477",
-    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
-  },
-  {
     "name": "\"Trade flow lt\" MB",
     "code": "307579108",
     "address": "Vilnius, Žaizdrių g. 3, LT-25132",
@@ -821,8 +823,7 @@
   {
     "name": "Artel LT UAB",
     "code": "307484603",
-    "address": "Vilkaviškio r. sav., Kybartai, Vištyčio g. 43A, LT-70428",
-    "vatcode": "LT100019162114"
+    "address": "Vilkaviškio r. sav., Kybartai, Vištyčio g. 43A, LT-70428"
   },
   {
     "name": "Arvida Lt, MB",
@@ -1270,6 +1271,11 @@
     "vatcode": "LT100012412018"
   },
   {
+    "name": "Cdk lt, UAB",
+    "code": "307620868",
+    "address": "Vilnius, Pieninės g. 8-9, LT-08101"
+  },
+  {
     "name": "Census Labs LT, UAB",
     "code": "307545725",
     "address": "Vilnius, Saulėtekio al. 15-1, LT-10224"
@@ -1338,6 +1344,11 @@
     "name": "Cordeel LT, UAB",
     "code": "306076762",
     "address": "Vilnius, Volungės g. 18-7, LT-10316"
+  },
+  {
+    "name": "Coreline LT, MB",
+    "code": "307605962",
+    "address": "Vilnius, Taikos g. 77-45, LT-05217"
   },
   {
     "name": "CrimeRP.LT, VšĮ",
@@ -1486,7 +1497,8 @@
   {
     "name": "Dpower LT, MB",
     "code": "307571307",
-    "address": "Panevėžys, Eglyno g. 18, LT-37460"
+    "address": "Panevėžys, Eglyno g. 18, LT-37460",
+    "vatcode": "LT100019724816"
   },
   {
     "name": "Draugija \"Veikiam.Lt\"",
@@ -1854,8 +1866,7 @@
   {
     "name": "GrECo International LT, UADBB",
     "code": "110801410",
-    "address": "Vilnius, Laisvės pr. 3, LT-04215",
-    "vatcode": "LT108014113"
+    "address": "Vilnius, Laisvės pr. 3, LT-04215"
   },
   {
     "name": "Gravity Money LT UAB",
@@ -1933,7 +1944,7 @@
   {
     "name": "HSG Service LT, UAB",
     "code": "304847953",
-    "address": "Vilnius, Vilkpėdės g. 8, LT-03151",
+    "address": "Vilniaus r. sav., Marijampolio sen., Parudaminio k., Jano Korfo g. 15, LT-13224",
     "vatcode": "LT100011830218"
   },
   {
@@ -1947,6 +1958,10 @@
     "code": "305173009",
     "address": "Vilnius, Konstitucijos pr. 26, LT-08131",
     "vatcode": "LT100012472617"
+  },
+  {
+    "name": "Hemera LT, MB",
+    "code": "306639196"
   },
   {
     "name": "Home concept LT, UAB",
@@ -2233,7 +2248,7 @@
   {
     "name": "IĮ \"MOB.LT\"",
     "code": "300656776",
-    "address": "Vilnius, Uosių g. 23, LT-11103",
+    "address": "Vilniaus m. sav.",
     "vatcode": "LT100003133315"
   },
   {
@@ -2569,7 +2584,7 @@
   {
     "name": "Kooperatinė bendrovė \"Biohumus LT\"",
     "code": "302693136",
-    "address": "Klaipėdos r. sav., Kretingalė, Žalioji g. 16, LT-96332"
+    "address": "Klaipėdos r. sav., Kretingalė, Žalioji g. 20"
   },
   {
     "name": "Kooperatinė bendrovė \"Inovacija LT\"",
@@ -2857,6 +2872,11 @@
     "vatcode": "LT100013407713"
   },
   {
+    "name": "Lūžio taškas LT",
+    "code": "307616492",
+    "address": "Vilkaviškio r. sav., Bartninkų sen., Sausininkų k., Gandrų g. 4, LT-70329"
+  },
+  {
     "name": "M&S Business service LT, UAB",
     "code": "303056523",
     "address": "Vilnius, Žygio g. 5-75, LT-08230"
@@ -3013,6 +3033,11 @@
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
+    "name": "MB \"AYKO LT\"",
+    "code": "307615344",
+    "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105"
+  },
+  {
     "name": "MB \"Abelia LT\"",
     "code": "303332726",
     "address": "Kaunas, Taikos pr. 77-34, LT-50434"
@@ -3088,7 +3113,7 @@
   {
     "name": "MB \"Aeternus LT\"",
     "code": "304298860",
-    "address": "Vilnius, Liepsnos g. 3, LT-03154",
+    "address": "Vilnius, Liepsnos g. 3-201, LT-02301",
     "vatcode": "LT100018908519"
   },
   {
@@ -3410,7 +3435,8 @@
   {
     "name": "MB \"Atria LT\"",
     "code": "307542177",
-    "address": "Kaunas, Europos pr. 122, LT-46351"
+    "address": "Kaunas, Europos pr. 122, LT-46351",
+    "vatcode": "LT100019834416"
   },
   {
     "name": "MB \"Auditas LT\"",
@@ -4231,8 +4257,7 @@
   {
     "name": "MB \"Decospot LT\"",
     "code": "306031112",
-    "address": "Jurbarkas, A. Šabaniausko g. 6, LT-74170",
-    "vatcode": "LT100014815715"
+    "address": "Jurbarkas, A. Šabaniausko g. 6, LT-74170"
   },
   {
     "name": "MB \"Decostyle LT\"",
@@ -4352,7 +4377,7 @@
   {
     "name": "MB \"Dorama LT\"",
     "code": "305671255",
-    "address": "Druskininkai, Šiltnamių g. 11-26, LT-66255",
+    "address": "Druskininkai, Druskininkų g. 10-11, LT-66168",
     "vatcode": "LT100016784319"
   },
   {
@@ -4593,7 +4618,8 @@
   {
     "name": "MB \"Elona LT\"",
     "code": "307058863",
-    "address": "Kauno r. sav., Kulautuva, Žemuogių g. 1, LT-53479"
+    "address": "Kauno r. sav., Kulautuva, Žemuogių g. 1, LT-53479",
+    "vatcode": "LT100019852414"
   },
   {
     "name": "MB \"Eltema LT\"",
@@ -4740,12 +4766,6 @@
     "name": "MB \"Express slauga LT\"",
     "code": "306897499",
     "address": "Vilnius, Architektų g. 168-44, LT-04203"
-  },
-  {
-    "name": "MB \"ExtraMile LT\"",
-    "code": "306269462",
-    "address": "Vilnius, Žirmūnų g. 86-30, LT-09123",
-    "vatcode": "LT100015847315"
   },
   {
     "name": "MB \"F24 LT\"",
@@ -5307,8 +5327,7 @@
   },
   {
     "name": "MB \"Gvd lt\"",
-    "code": "305997742",
-    "address": "Vilkaviškio r. sav., Pajevonio sen., Sodėnų k., Padvarių g. 4, LT-70360"
+    "code": "305997742"
   },
   {
     "name": "MB \"Gwills Consultancy LT\"",
@@ -5387,7 +5406,8 @@
   {
     "name": "MB \"Horizontas LT\"",
     "code": "306087641",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100019897616"
   },
   {
     "name": "MB \"Hubertas LT\"",
@@ -5424,6 +5444,11 @@
     "code": "305918467",
     "address": "Vilnius, Kalvarijų g. 125, LT-08221",
     "vatcode": "LT100018843218"
+  },
+  {
+    "name": "MB \"ITexpert LT\"",
+    "code": "307624731",
+    "address": "Kauno r. sav., Samylų sen., Laumėnų k., Beržų al. 1, LT-53118"
   },
   {
     "name": "MB \"Idėjos namams LT\"",
@@ -5678,7 +5703,8 @@
   {
     "name": "MB \"Jupolis LT\"",
     "code": "307061521",
-    "address": "Vilnius, Vaduvos g. 28-24, LT-02307"
+    "address": "Vilnius, Vaduvos g. 28-24, LT-02307",
+    "vatcode": "LT100019807510"
   },
   {
     "name": "MB \"Justika LT\"",
@@ -5704,7 +5730,7 @@
   {
     "name": "MB \"K GO LT\"",
     "code": "305487974",
-    "address": "Telšiai, Rambyno g. 18-109, LT-87117"
+    "address": "Telšių r. sav."
   },
   {
     "name": "MB \"KA Logistics LT\"",
@@ -5982,9 +6008,19 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB \"LA FLEUR LT\"",
+    "code": "307631117",
+    "address": "Vilnius, Girulių g. 5, LT-12124"
+  },
+  {
     "name": "MB \"LIPS LT\"",
     "code": "307427207",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
+    "name": "MB \"LIRO LT\"",
+    "code": "307630143",
+    "address": "Kaunas, Ramybės g. 51, LT-47162"
   },
   {
     "name": "MB \"LIVI LT\"",
@@ -6312,6 +6348,12 @@
     "vatcode": "LT100019637811"
   },
   {
+    "name": "MB \"MOPU LT\"",
+    "code": "307603281",
+    "address": "Palanga, Žvejų g. 11A, LT-00158",
+    "vatcode": "LT100019759112"
+  },
+  {
     "name": "MB \"MOVI gear LT\"",
     "code": "305987755",
     "address": "Vilnius, J. Jasinskio g. 12, LT-01112",
@@ -6402,8 +6444,7 @@
   {
     "name": "MB \"Manifesto LT\"",
     "code": "306409633",
-    "address": "Vilnius, Gedvydžių g. 27-12, LT-06311",
-    "vatcode": "LT100016267618"
+    "address": "Vilnius, Gedvydžių g. 27-12, LT-06311"
   },
   {
     "name": "MB \"Mano LT\"",
@@ -7024,6 +7065,11 @@
     "code": "305739610",
     "address": "Vilnius, Miežių g. 18-22, LT-08416",
     "vatcode": "LT100014035416"
+  },
+  {
+    "name": "MB \"Novakids LT\"",
+    "code": "307604789",
+    "address": "Vilnius, Gelvonų g. 26-12, LT-07147"
   },
   {
     "name": "MB \"Noway lt\"",
@@ -7669,11 +7715,6 @@
     "address": "Vilnius, Tolminkiemio g. 3-5, LT-06210"
   },
   {
-    "name": "MB \"Rembo LT\"",
-    "code": "306080586",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
-  },
-  {
     "name": "MB \"Renginių bankas LT\"",
     "code": "304953091",
     "address": "Vilnius, Kalvarijų g. 166A-4, LT-08205"
@@ -8021,7 +8062,8 @@
   {
     "name": "MB \"Sirona LT\"",
     "code": "305622692",
-    "address": "Kaunas, Kovo 11-osios g. 61-58, LT-49435"
+    "address": "Kaunas, Kovo 11-osios g. 61-58, LT-49435",
+    "vatcode": "LT100019745516"
   },
   {
     "name": "MB \"Siūk LT\"",
@@ -8548,7 +8590,8 @@
   {
     "name": "MB \"Trex LT\"",
     "code": "307018413",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019726419"
   },
   {
     "name": "MB \"Trečiadienis.lt\"",
@@ -8595,8 +8638,7 @@
   {
     "name": "MB \"Ultimate Rental LT\"",
     "code": "307194354",
-    "address": "Vilnius, Elbingo g. 6-8, LT-06285",
-    "vatcode": "LT100018393313"
+    "address": "Vilnius, Elbingo g. 6-8, LT-06285"
   },
   {
     "name": "MB \"Ulu LT\"",
@@ -8683,6 +8725,11 @@
     "name": "MB \"VGTech LT\"",
     "code": "306745840",
     "address": "Vilniaus r. sav., Riešės sen., Didžiųjų Gulbinų k., Laimės g. 36-2, LT-14335"
+  },
+  {
+    "name": "MB \"VID&CO.LT\"",
+    "code": "307627567",
+    "address": "Kaunas, Labūnavos g. 5, LT-47115"
   },
   {
     "name": "MB \"VISKO LT\"",
@@ -8848,8 +8895,7 @@
   {
     "name": "MB \"Veža LT\"",
     "code": "306223408",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
-    "vatcode": "LT100015689711"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Vialand LT\"",
@@ -9044,7 +9090,8 @@
   {
     "name": "MB \"ZOLIT LT\"",
     "code": "305707993",
-    "address": "Vilnius, Žygio g. 97-R2, LT-08236"
+    "address": "Vilnius, Žygio g. 97-R2, LT-08236",
+    "vatcode": "LT100019780716"
   },
   {
     "name": "MB \"Zarela LT\"",
@@ -9123,9 +9170,19 @@
     "vatcode": "LT100014552216"
   },
   {
+    "name": "MB 1 LT",
+    "code": "307607365",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+  },
+  {
     "name": "MB 1000L.LT",
     "code": "306168591",
     "address": "Vilnius, Arimų g. 18, LT-11114"
+  },
+  {
+    "name": "MB 123 LT",
+    "code": "307604928",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
     "name": "MB 242 LT",
@@ -9346,6 +9403,11 @@
     "vatcode": "LT100012402919"
   },
   {
+    "name": "MB Ambiance.lt",
+    "code": "307617391",
+    "address": "Klaipėdos r. sav., Priekulės sen., Gručeikių k., Kalvos g. 13, LT-95396"
+  },
+  {
     "name": "MB Amila LT",
     "code": "306722343",
     "address": "Trakai, Karaimų g. 24-6, LT-21104"
@@ -9388,6 +9450,11 @@
     "vatcode": "LT100019369619"
   },
   {
+    "name": "MB Apdailos Guru LT",
+    "code": "307627841",
+    "address": "Klaipėdos r. sav., Sendvario sen., Gindulių k., Žalioji g. 50, LT-91276"
+  },
+  {
     "name": "MB Apdailos darbai LT",
     "code": "306696037",
     "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Gėlių g. 5-8, LT-53335",
@@ -9397,12 +9464,6 @@
     "name": "MB Apex LT",
     "code": "307086827",
     "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
-  },
-  {
-    "name": "MB Apollo LT",
-    "code": "306988461",
-    "address": "Klaipėdos r. sav., Kretingalės sen., Grabių k., Kukučių g. 36, LT-92381",
-    "vatcode": "LT100018748212"
   },
   {
     "name": "MB Apskaitos kodas lt",
@@ -9461,7 +9522,8 @@
   {
     "name": "MB Auram LT",
     "code": "306693525",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100019693711"
   },
   {
     "name": "MB Aurevo LT",
@@ -9554,7 +9616,8 @@
   {
     "name": "MB Aventura lt",
     "code": "307102530",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019784812"
   },
   {
     "name": "MB Aviasta LT",
@@ -9580,7 +9643,8 @@
   {
     "name": "MB BALU.LT",
     "code": "302925887",
-    "address": "Mažeikiai, Draugystės g. 3-45, LT-89150"
+    "address": "Mažeikiai, Draugystės g. 3-45, LT-89150",
+    "vatcode": "LT100019735912"
   },
   {
     "name": "MB BD Dance LT",
@@ -9592,6 +9656,11 @@
     "name": "MB BIG START LT",
     "code": "307119490",
     "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+  },
+  {
+    "name": "MB BLITZFIX.LT",
+    "code": "307606740",
+    "address": "Šiauliai, Vytauto g. 147-18, LT-76341"
   },
   {
     "name": "MB BLIZGUTIS LT",
@@ -10249,7 +10318,8 @@
   {
     "name": "MB EM PREKYBA LT",
     "code": "307561658",
-    "address": "Utena, Kauno g. 16-41, LT-28241"
+    "address": "Utena, Kauno g. 16-41, LT-28241",
+    "vatcode": "LT100019716714"
   },
   {
     "name": "MB ENGINEERING.LT",
@@ -10395,7 +10465,8 @@
   {
     "name": "MB Euforija lt",
     "code": "307062146",
-    "address": "Klaipėda, Valstiečių g. 3-3, LT-92206"
+    "address": "Klaipėda, Valstiečių g. 3-3, LT-92206",
+    "vatcode": "LT100019777918"
   },
   {
     "name": "MB Eurohome LT",
@@ -10427,6 +10498,11 @@
     "name": "MB FOMA LT",
     "code": "307404094",
     "address": "Vilnius, Rolando Jankausko g. 4-R7, LT-04310"
+  },
+  {
+    "name": "MB FONTAKT LT",
+    "code": "307611463",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
   },
   {
     "name": "MB FOOD LT, UAB",
@@ -10686,7 +10762,7 @@
   {
     "name": "MB Grikis LT",
     "code": "306657899",
-    "address": "Vilnius, Povilo Plechavičiaus g. 1-1, LT-11114",
+    "address": "Vilnius, Giedraičių g. 39-112, LT-09302",
     "vatcode": "LT100016633116"
   },
   {
@@ -10694,6 +10770,11 @@
     "code": "307077632",
     "address": "Vilnius, Krakiškių Sodų 20-oji g. 30, LT-14289",
     "vatcode": "LT100017516710"
+  },
+  {
+    "name": "MB Gusto Italiano LT",
+    "code": "307618988",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
   },
   {
     "name": "MB Gyvenu sveikai LT",
@@ -10792,6 +10873,11 @@
     "vatcode": "LT100017695818"
   },
   {
+    "name": "MB Ingridos projektai lt",
+    "code": "307622050",
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
+  },
+  {
     "name": "MB Inkarta LT",
     "code": "306717054",
     "address": "Vilnius, Tolimoji g. 32, LT-11307"
@@ -10815,7 +10901,8 @@
   {
     "name": "MB Installpro Lt",
     "code": "306400036",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
+    "vatcode": "LT100019685912"
   },
   {
     "name": "MB Intes LT",
@@ -10983,8 +11070,7 @@
   },
   {
     "name": "MB Kompas LT",
-    "code": "307313673",
-    "address": "Vilnius, Linkmenų g. 19-123, LT-08217"
+    "code": "307313673"
   },
   {
     "name": "MB Konferita LT",
@@ -11070,7 +11156,7 @@
   {
     "name": "MB LT Irons",
     "code": "305452884",
-    "address": "Švenčionių r. sav., Pabradė, Arnionių g. 60E, LT-18170",
+    "address": "Vilniaus r. sav., Nemenčinės sen., Didžiųjų Kabiškių k., Nemenčinės g. 37, LT-15153",
     "vatcode": "LT100012982919"
   },
   {
@@ -11170,6 +11256,11 @@
     "name": "MB Linux LT",
     "code": "306718601",
     "address": "Mažeikiai, M. Daukšos g. 28A-1, LT-89125"
+  },
+  {
+    "name": "MB Live safe lt",
+    "code": "307604878",
+    "address": "Kėdainių r. sav., Pernarava, Gegužių g. 3, LT-58227"
   },
   {
     "name": "MB Lobyna LT",
@@ -11290,6 +11381,11 @@
     "address": "Vilnius, Girulių g. 10, LT-12112"
   },
   {
+    "name": "MB MTL LT",
+    "code": "307629835",
+    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+  },
+  {
     "name": "MB Macon lt",
     "code": "307403761",
     "address": "Vilnius, Kalvarijų g. 160-68, LT-08207"
@@ -11315,6 +11411,11 @@
     "address": "Šiauliai, Trakų g. 9, LT-76262"
   },
   {
+    "name": "MB Marsulis LT",
+    "code": "307608022",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
     "name": "MB Mate.lt",
     "code": "307032391",
     "address": "Vilnius, Ukmergės g. 198-111, LT-07169",
@@ -11335,6 +11436,11 @@
     "name": "MB Mebu.lt",
     "code": "306213677",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
+  },
+  {
+    "name": "MB Mecen Group LT",
+    "code": "307623622",
+    "address": "Trakų r. sav., Senųjų Trakų sen., Senųjų Trakų k., Pilies g. 5, LT-21147"
   },
   {
     "name": "MB MediShop LT",
@@ -11769,6 +11875,11 @@
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332"
   },
   {
+    "name": "MB PATALOKAS LT",
+    "code": "307621144",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
     "name": "MB PINE LT",
     "code": "307102181",
     "address": "Klaipėda, Ragainės g. 17-9, LT-92196",
@@ -11964,9 +12075,20 @@
     "address": "Šiauliai, Vytauto g. 147-18, LT-76341"
   },
   {
+    "name": "MB RED LINE LT",
+    "code": "307627179",
+    "address": "Klaipėda, Jaunystės g. 16-15, LT-91274",
+    "vatcode": "LT100019894510"
+  },
+  {
     "name": "MB RFS LT",
     "code": "304720308",
     "address": "Kauno r. sav., Užliedžių sen., Romainių Kaimelės k., Pelėdų g. 9, LT-54306"
+  },
+  {
+    "name": "MB RT AUTOWORKS.LT",
+    "code": "307610429",
+    "address": "Šiauliai, Vytauto g. 147-18, LT-76341"
   },
   {
     "name": "MB RYN LT",
@@ -11983,6 +12105,11 @@
     "name": "MB Radau lt",
     "code": "307030141",
     "address": "Vilnius, Jūžintų g. 1-2, LT-12205"
+  },
+  {
+    "name": "MB Ramus lt",
+    "code": "307623145",
+    "address": "Kaunas, Draugystės g. 17-1, LT-51229"
   },
   {
     "name": "MB Remedia LT",
@@ -12049,6 +12176,11 @@
     "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
   },
   {
+    "name": "MB Rivanta LT",
+    "code": "307612501",
+    "address": "Vilnius, Taugotiškių g. 45A, LT-11324"
+  },
+  {
     "name": "MB Rmotors LT",
     "code": "305718712",
     "address": "Šalčininkai, A. Mickevičiaus g. 12-6, LT-17104"
@@ -12063,6 +12195,11 @@
     "name": "MB Rokars LT",
     "code": "307057754",
     "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+  },
+  {
+    "name": "MB Rolteka lt",
+    "code": "307623483",
+    "address": "Kauno r. sav., Garliavos apylinkių sen., Jonučių II k., Svajonių al. 2, LT-53272"
   },
   {
     "name": "MB Royal house LT",
@@ -12090,7 +12227,8 @@
   {
     "name": "MB SITEX LT",
     "code": "307579873",
-    "address": "Kaunas, Europos pr. 34-47, LT-46370"
+    "address": "Kaunas, Europos pr. 34-47, LT-46370",
+    "vatcode": "LT100019810519"
   },
   {
     "name": "MB SOLID DISPATCH LT",
@@ -12213,7 +12351,8 @@
   {
     "name": "MB Silhouette LT",
     "code": "307568371",
-    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302",
+    "vatcode": "LT100019849919"
   },
   {
     "name": "MB Simeta.lt",
@@ -12280,7 +12419,7 @@
   {
     "name": "MB Smart funding LT",
     "code": "306005669",
-    "address": "Kaunas, V. Krėvės pr. 83-56, LT-50364"
+    "address": "Vilnius, Manufaktūrų g. 7-17, LT-11342"
   },
   {
     "name": "MB SmartBalt LT",
@@ -12378,7 +12517,8 @@
   {
     "name": "MB Starvie LT",
     "code": "306660308",
-    "address": "Vilnius, Skroblų g. 12-120, LT-03142"
+    "address": "Vilnius, Skroblų g. 12-120, LT-03142",
+    "vatcode": "LT100019879416"
   },
   {
     "name": "MB Statybos LT",
@@ -12657,6 +12797,11 @@
     "vatcode": "LT100016396115"
   },
   {
+    "name": "MB Varus LT",
+    "code": "307609028",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
+  },
+  {
     "name": "MB Velora LT",
     "code": "307436537",
     "address": "Vilnius, M. K. Čiurlionio g. 6-23, LT-03104",
@@ -12807,8 +12952,7 @@
   {
     "name": "MB YOU ARE events LT",
     "code": "307097535",
-    "address": "Šiauliai, Vytauto g. 147-18, LT-76341",
-    "vatcode": "LT100018151618"
+    "address": "Šiauliai, Vytauto g. 147-18, LT-76341"
   },
   {
     "name": "MB ZRV TECH LT",
@@ -12829,7 +12973,8 @@
   {
     "name": "MB Zuk LT",
     "code": "307142304",
-    "address": "Vilnius, Kiaunių g. 59, LT-14151"
+    "address": "Vilnius, Kiaunių g. 59, LT-14151",
+    "vatcode": "LT100019822513"
   },
   {
     "name": "MB ePrekyba LT",
@@ -12995,7 +13140,7 @@
   {
     "name": "Mažoji bendrija \"ITMA LT\"",
     "code": "304419422",
-    "address": "Kaunas, Rietavo g. 17-40, LT-48265",
+    "address": "Kaunas, Vasario 16-osios g. 9-10, LT-44251",
     "vatcode": "LT100012648415"
   },
   {
@@ -13055,7 +13200,8 @@
   {
     "name": "Mažoji bendrija Ansa LT",
     "code": "306729341",
-    "address": "Vilnius, Fabijoniškių g. 93-76, LT-07101"
+    "address": "Vilnius, Fabijoniškių g. 93-76, LT-07101",
+    "vatcode": "LT100019806511"
   },
   {
     "name": "Mažoji bendrija Aplinkos sprendimai LT",
@@ -13366,7 +13512,8 @@
   {
     "name": "Norvik home lt, UAB",
     "code": "123604135",
-    "address": "Vilnius, Virginijaus Druskio g. 6-228, LT-04305"
+    "address": "Vilnius, Virginijaus Druskio g. 6-228, LT-04305",
+    "vatcode": "LT100019835919"
   },
   {
     "name": "Novodomo LT, MB",
@@ -13445,7 +13592,7 @@
   {
     "name": "Ortex LT UAB",
     "code": "305456911",
-    "address": "Vilnius, Lvivo g. 89A-27, LT-08104",
+    "address": "Vilnius, Žemaitės g. 21-102, LT-03118",
     "vatcode": "LT100013034513"
   },
   {
@@ -13632,6 +13779,10 @@
     "address": "Vilnius, Naugarduko g. 98, LT-03160"
   },
   {
+    "name": "QBS LT UAB",
+    "code": "306380231"
+  },
+  {
     "name": "RAMTECH LT, MB",
     "code": "304855028",
     "address": "Vilnius, Girulių g. 5, LT-12124"
@@ -13705,6 +13856,11 @@
     "name": "Riedėk.Lt",
     "code": "125782364",
     "address": "Vilnius, Žirmūnų g. 32B-13, LT-09228"
+  },
+  {
+    "name": "Rikatra LT UAB",
+    "code": "307630339",
+    "address": "Vilnius, Verkių g. 46, LT-09117"
   },
   {
     "name": "Ro Line LT, MB",
@@ -14366,6 +14522,10 @@
     "vatcode": "LT100006636419"
   },
   {
+    "name": "UAB \"ALNUS LT\"",
+    "code": "303007572"
+  },
+  {
     "name": "UAB \"AM distribucijos sistema LT\"",
     "code": "301942549",
     "address": "Vilnius, Polocko g. 32, LT-01205",
@@ -14601,7 +14761,8 @@
   {
     "name": "UAB \"Advansis LT\"",
     "code": "303127696",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100007971119"
   },
   {
     "name": "UAB \"Adveras LT\"",
@@ -15390,7 +15551,7 @@
   {
     "name": "UAB \"BANKROTO DEPARTAMENTAS LT\"",
     "code": "302458138",
-    "address": "Vilnius, S. Žukausko g. 35-94, LT-09129"
+    "address": "Vilnius, Krivių g. 5, LT-01204"
   },
   {
     "name": "UAB \"BENDRABUTIS LT\"",
@@ -16269,6 +16430,12 @@
     "vatcode": "LT217936917"
   },
   {
+    "name": "UAB \"Clefi international LT\"",
+    "code": "304934415",
+    "address": "Kaunas, Kukučių g. 39, LT-51338",
+    "vatcode": "LT100011976919"
+  },
+  {
     "name": "UAB \"Click IT.lt\"",
     "code": "304717995",
     "address": "Vilnius, Laisvės pr. 60-1107, LT-05120",
@@ -16544,8 +16711,7 @@
   {
     "name": "UAB \"Daimora LT\"",
     "code": "305031508",
-    "address": "Šakių r. sav., Gelgaudiškis, Taikos g. 76C-7, LT-71431",
-    "vatcode": "LT100013709416"
+    "address": "Šakių r. sav., Gelgaudiškis, Taikos g. 76C-7, LT-71431"
   },
   {
     "name": "UAB \"DairyHub.LT\"",
@@ -16642,6 +16808,11 @@
     "vatcode": "LT100014101115"
   },
   {
+    "name": "UAB \"Debesų namai LT\"",
+    "code": "307631238",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "UAB \"Decolife LT\"",
     "code": "304827324",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108",
@@ -16713,10 +16884,6 @@
     "code": "301818925",
     "address": "Panevėžio r. sav., Panevėžio sen., Molainių k., Vytauto g. 30, LT-37175",
     "vatcode": "LT100004243617"
-  },
-  {
-    "name": "UAB \"Dervos industrija LT\"",
-    "code": "304214524"
   },
   {
     "name": "UAB \"Derybininkai.lt\"",
@@ -16904,6 +17071,11 @@
     "code": "301913540",
     "address": "Vilnius, Liepyno g. 25A, LT-08108",
     "vatcode": "LT100006276917"
+  },
+  {
+    "name": "UAB \"E3 LT\"",
+    "code": "307616147",
+    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
   },
   {
     "name": "UAB \"EA CONSULT LT\"",
@@ -17177,6 +17349,11 @@
     "vatcode": "LT100006476213"
   },
   {
+    "name": "UAB \"Eiko lt\"",
+    "code": "306133220",
+    "address": "Kaunas, Linkuvos g. 85, LT-48313"
+  },
+  {
     "name": "UAB \"Einsammon LT\"",
     "code": "305934457",
     "address": "Vilnius, T. Ševčenkos g. 19-1001, LT-03111"
@@ -17338,12 +17515,6 @@
     "name": "UAB \"Emrita LT\"",
     "code": "304783269",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
-  },
-  {
-    "name": "UAB \"Ena LT\"",
-    "code": "303937853",
-    "address": "Vilnius, Kirtimų g. 2 K4, LT-02300",
-    "vatcode": "LT100009326610"
   },
   {
     "name": "UAB \"EnergoPro LT\"",
@@ -17606,6 +17777,12 @@
     "code": "303374928",
     "address": "Vilniaus r. sav., Zujūnų sen., Antežerių k., Miško g. 11-1, LT-14158",
     "vatcode": "LT100008812011"
+  },
+  {
+    "name": "UAB \"ExtraMile LT\"",
+    "code": "306269462",
+    "address": "Vilnius, Žirmūnų g. 86-30, LT-09123",
+    "vatcode": "LT100015847315"
   },
   {
     "name": "UAB \"Ezra LT\"",
@@ -17978,7 +18155,7 @@
   {
     "name": "UAB \"Fortis LT\"",
     "code": "302843461",
-    "address": "Vilnius, Adutiškio g. 3-3, LT-02112",
+    "address": "Vilniaus r. sav., Zujūnų sen., Pilikonių k., Lapaučiškių g. 9A, LT-14207",
     "vatcode": "LT100007095210"
   },
   {
@@ -18294,6 +18471,10 @@
     "address": "Trakų r. sav., Lentvaris, Geležinkelio g. 32-18, LT-25116"
   },
   {
+    "name": "UAB \"Globali prekyba LT\"",
+    "code": "305438557"
+  },
+  {
     "name": "UAB \"Globalika LT\"",
     "code": "307563029",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -18545,8 +18726,7 @@
   },
   {
     "name": "UAB \"HSX LT\"",
-    "code": "304530369",
-    "address": "Biržai, Vytauto g. 122, LT-41121"
+    "code": "304530369"
   },
   {
     "name": "UAB \"HURRICANE LT\"",
@@ -18657,7 +18837,7 @@
   {
     "name": "UAB \"Homeland LT\"",
     "code": "306028746",
-    "address": "Kaunas, A. Juozapavičiaus pr. 7A-1, LT-45251",
+    "address": "Kaunas, Prancūzų g. 86, LT-44419",
     "vatcode": "LT100014830012"
   },
   {
@@ -19151,11 +19331,6 @@
     "code": "304628703",
     "address": "Vilnius, Švitrigailos g. 11A, LT-03228",
     "vatcode": "LT100011997911"
-  },
-  {
-    "name": "UAB \"Investicija LT\"",
-    "code": "303088236",
-    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "UAB \"Invicta LT\"",
@@ -20551,7 +20726,7 @@
   {
     "name": "UAB \"M&M Trade Lt\"",
     "code": "301846159",
-    "address": "Vilnius, J. Kubiliaus g. 6, LT-08234",
+    "address": "Vilnius, Paplaujos g. 3-12, LT-11342",
     "vatcode": "LT100005965416"
   },
   {
@@ -20858,7 +21033,7 @@
   {
     "name": "UAB \"Marvi LT\"",
     "code": "307076669",
-    "address": "Varėnos r. sav., Varėnos sen., Mergežerio k., Martyno Vainilaičio g. 12, LT-65426"
+    "address": "Vilniaus r. sav., Avižienių sen., Žemųjų Rusokų k., Klonių g. 65-1, LT-14180"
   },
   {
     "name": "UAB \"Mary Poppins LT\"",
@@ -21696,8 +21871,7 @@
   {
     "name": "UAB \"Novum LT\"",
     "code": "304038663",
-    "address": "Vilnius, Balstogės g. 8-2, LT-11350",
-    "vatcode": "LT100009606312"
+    "address": "Vilnius, Balstogės g. 8-2, LT-11350"
   },
   {
     "name": "UAB \"Novus LT\"",
@@ -21785,8 +21959,7 @@
   {
     "name": "UAB \"Omnispower LT\"",
     "code": "300092496",
-    "address": "Vilnius, Vakarinė g. 2, LT-06298",
-    "vatcode": "LT100001543710"
+    "address": "Vilnius, Vakarinė g. 2, LT-06298"
   },
   {
     "name": "UAB \"OneSelf LT\"",
@@ -22285,7 +22458,8 @@
   {
     "name": "UAB \"Pogo LT\"",
     "code": "307033568",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019866010"
   },
   {
     "name": "UAB \"Polis LT\"",
@@ -22462,11 +22636,6 @@
     "vatcode": "LT100015143711"
   },
   {
-    "name": "UAB \"Proplanas LT\"",
-    "code": "305563475",
-    "address": "Šilutė, Gintaro 7-asis tak. 8, LT-99166"
-  },
-  {
     "name": "UAB \"Propoint LT\"",
     "code": "121928850",
     "address": "Vilnius, Latvių g. 15-55, LT-08123",
@@ -22487,8 +22656,7 @@
   {
     "name": "UAB \"Providi lt\"",
     "code": "307052675",
-    "address": "Vilnius, Ozo g. 41-81, LT-07171",
-    "vatcode": "LT100017485010"
+    "address": "Vilnius, Ozo g. 41-81, LT-07171"
   },
   {
     "name": "UAB \"Puota LT\"",
@@ -22505,8 +22673,7 @@
   {
     "name": "UAB \"Purepro LT\"",
     "code": "300542769",
-    "address": "Kaunas, Užnerio g. 1-3, LT-47484",
-    "vatcode": "LT100003839016"
+    "address": "Kaunas, Užnerio g. 1-3, LT-47484"
   },
   {
     "name": "UAB \"Purple Monday LT\"",
@@ -22532,6 +22699,11 @@
   {
     "name": "UAB \"R5 LT\"",
     "code": "307503726",
+    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+  },
+  {
+    "name": "UAB \"R8 LT\"",
+    "code": "307616229",
     "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
   },
   {
@@ -23767,8 +23939,7 @@
   },
   {
     "name": "UAB \"Solnova LT\"",
-    "code": "302892259",
-    "address": "Šiaulių r. sav., Kuršėnų kaimiškoji sen., Romučių k., Ventos g. 22, LT-81105"
+    "code": "302892259"
   },
   {
     "name": "UAB \"Sololine LT\"",
@@ -23933,6 +24104,12 @@
     "name": "UAB \"Statprojektai LT\"",
     "code": "305902662",
     "address": "Radviliškio r. sav., Sidabravo sen., Ožaičių k., Grybų g. 10, LT-82276"
+  },
+  {
+    "name": "UAB \"Statum LT\"",
+    "code": "305674956",
+    "address": "Klaipėda, Šilutės pl. 35G-36, LT-94105",
+    "vatcode": "LT100013756811"
   },
   {
     "name": "UAB \"Status LT\"",
@@ -24496,7 +24673,8 @@
   {
     "name": "UAB \"Top trans LT\"",
     "code": "307147671",
-    "address": "Pasvalio r. sav., Vaškų sen., Nairių k., Maučiuvio g. 17-4, LT-39380"
+    "address": "Marijampolė, J. Basanavičiaus a. 8, LT-68307",
+    "vatcode": "LT100019778916"
   },
   {
     "name": "UAB \"Topas LT\"",
@@ -24969,6 +25147,11 @@
     "name": "UAB \"Verslo inovacijos LT\"",
     "code": "303145242",
     "address": "Rokiškio r. sav., Juodupė, Pergalės g. 12-55, LT-42458"
+  },
+  {
+    "name": "UAB \"Verslospektras.lt\"",
+    "code": "125475155",
+    "address": "Vilnius, Linkmenų g. 4, LT-08104"
   },
   {
     "name": "UAB \"Versus LT\"",
@@ -25846,6 +26029,11 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "UAB BAREPA LT",
+    "code": "307613959",
+    "address": "Panevėžys, Respublikos g. 57-1, LT-35159"
+  },
+  {
     "name": "UAB BCMAF LT",
     "code": "307461540",
     "address": "Vilnius, Upės g. 21-1, LT-08128"
@@ -26040,7 +26228,8 @@
   {
     "name": "UAB CORM Group LT",
     "code": "307437692",
-    "address": "Alytus, Sudvajų g. 22-13, LT-63281"
+    "address": "Alytus, Sudvajų g. 22-13, LT-63281",
+    "vatcode": "LT100019793415"
   },
   {
     "name": "UAB CRAB LT",
@@ -26133,10 +26322,15 @@
     "vatcode": "LT100009468612"
   },
   {
+    "name": "UAB Constructa LT",
+    "code": "307613674",
+    "address": "Klaipėda, Ievų g. 52, LT-92357",
+    "vatcode": "LT100019893411"
+  },
+  {
     "name": "UAB Consult Trade LT",
     "code": "305778823",
-    "address": "Vilnius, Bitėnų g. 1C-39, LT-06236",
-    "vatcode": "LT100014106812"
+    "address": "Vilnius, Bitėnų g. 1C-39, LT-06236"
   },
   {
     "name": "UAB Consulting LT",
@@ -26358,7 +26552,7 @@
   {
     "name": "UAB ELKOMPA LT",
     "code": "302301820",
-    "address": "Vilniaus r. sav., Nemėžio sen., Didžiasalio k., Ežero g. 8, LT-13264",
+    "address": "Vilniaus r. sav., Nemėžio sen., Didžiasalio k., Ežero g. 8-2, LT-13264",
     "vatcode": "LT100004530019"
   },
   {
@@ -26580,12 +26774,6 @@
     "name": "UAB Farmlio LT",
     "code": "307266558",
     "address": "Vilniaus r. sav., Nemėžio sen., Didžiasalio k., Šv. Antano g. 70-1, LT-13264"
-  },
-  {
-    "name": "UAB FastTrack LT",
-    "code": "305535846",
-    "address": "Vilnius, Saulėtekio al. 15-1, LT-10224",
-    "vatcode": "LT100018781618"
   },
   {
     "name": "UAB Feel Flex LT",
@@ -26846,6 +27034,10 @@
     "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
+    "name": "UAB IREF Retail LT",
+    "code": "306676789"
+  },
+  {
     "name": "UAB ISCOPE LT",
     "code": "305337907",
     "address": "Klaipėda, Liepų g. 83, LT-92195",
@@ -26928,8 +27120,7 @@
   {
     "name": "UAB Investa LT",
     "code": "306667021",
-    "address": "Vilnius, Kalvarijų g. 125, LT-08221",
-    "vatcode": "LT100016725515"
+    "address": "Vilnius, Kalvarijų g. 125, LT-08221"
   },
   {
     "name": "UAB Investus LT",
@@ -26970,6 +27161,12 @@
     "code": "306692359",
     "address": "Vilnius, Girulių g. 10-201, LT-12112",
     "vatcode": "LT100017267817"
+  },
+  {
+    "name": "UAB Julmax LT",
+    "code": "307616663",
+    "address": "Vilniaus r. sav., Avižienių sen., Saldenės k., Saldenės g. 4-2, LT-14186",
+    "vatcode": "LT100019887013"
   },
   {
     "name": "UAB K15 LT",
@@ -27128,7 +27325,8 @@
   {
     "name": "UAB Lakada LT",
     "code": "306972489",
-    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232",
+    "vatcode": "LT100019879517"
   },
   {
     "name": "UAB Lakeland LT",
@@ -27840,11 +28038,6 @@
     "name": "UAB RD Bau LT",
     "code": "302570571",
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
-  },
-  {
-    "name": "UAB REABILITA.LT",
-    "code": "305661033",
-    "vatcode": "LT100013802314"
   },
   {
     "name": "UAB REAL LT",
@@ -28673,6 +28866,11 @@
     "vatcode": "LT100014536113"
   },
   {
+    "name": "UAB Woowi LT",
+    "code": "307623743",
+    "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
+  },
+  {
     "name": "UAB Work up LT",
     "code": "307102676",
     "address": "Kaunas, Nartavos g. 25C, LT-47488",
@@ -28959,7 +29157,7 @@
   {
     "name": "Uždaroji akcinė bendrovė EASTCON AG LT",
     "code": "111495354",
-    "address": "Vilnius, Žirmūnų g. 70, LT-09124",
+    "address": "Vilnius, J. Jasinskio g. 16, LT-03163",
     "vatcode": "LT114953515"
   },
   {
@@ -29411,8 +29609,7 @@
   },
   {
     "name": "VšĮ \"Kamadevas LT\"",
-    "code": "304446978",
-    "address": "Vilnius, Šerkšno g. 6, LT-04126"
+    "code": "304446978"
   },
   {
     "name": "VšĮ \"Karma Fitness LT\"",
@@ -29485,12 +29682,6 @@
     "name": "VšĮ \"Magnis.lt\"",
     "code": "303238885",
     "address": "Vilniaus r. sav., Šatrininkų sen., Grigaičių k., Jaunimo g. 36, LT-11237"
-  },
-  {
-    "name": "VšĮ \"Mano Baltija LT\"",
-    "code": "306217444",
-    "address": "Vilnius, Piromonto g. 7-152, LT-09219",
-    "vatcode": "LT100016213711"
   },
   {
     "name": "VšĮ \"Master gym LT\"",
@@ -29725,6 +29916,11 @@
     "address": "Jonavos r. sav., Rukla, Rupeikio g. 5-34, LT-55289"
   },
   {
+    "name": "VšĮ Active Camp LT",
+    "code": "307602457",
+    "address": "Ukmergė, Vilniaus g. 99, LT-20170"
+  },
+  {
     "name": "VšĮ Alchemic LT",
     "code": "302412308",
     "address": "Vilnius, Pylimo g. 10-18, LT-01117"
@@ -29904,11 +30100,6 @@
     "address": "Šiauliai, Vytauto g. 154-10, LT-76334"
   },
   {
-    "name": "VšĮ Tavo darna lt",
-    "code": "306379421",
-    "address": "Klaipėda, Taikos pr. 51-36, LT-91150"
-  },
-  {
     "name": "VšĮ TenisoNamai.lt",
     "code": "302728199",
     "address": "Vilnius, Konstitucijos pr. 15-53, LT-09319",
@@ -30028,6 +30219,11 @@
     "vatcode": "LT100007086019"
   },
   {
+    "name": "Zamar LT, MB",
+    "code": "307606758",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
+  },
+  {
     "name": "Zeta lt, MB",
     "code": "307018203",
     "address": "Mažeikiai, Žemaitijos g. 32-9, LT-89153"
@@ -30043,6 +30239,11 @@
     "code": "305708853",
     "address": "Vilniaus r. sav., Zujūnų sen., Dvarykščių k., Onos Radvilaitės-Mostovskos g. 11-1, LT-14168",
     "vatcode": "LT100013950411"
+  },
+  {
+    "name": "bonusokortele.lt UAB",
+    "code": "307615223",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "buhalteriai.lt UAB",

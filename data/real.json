@@ -425,11 +425,6 @@
     "address": "Vilnius, Žygimanto Liauksmino g. 3, LT-01101"
   },
   {
-    "name": "UAB \"FE Real Estate\"",
-    "code": "302634682",
-    "address": "Vilnius, Vikingų g. 1, LT-02189"
-  },
-  {
     "name": "UAB \"FM Real Estate\"",
     "code": "302806032",
     "address": "Vilnius, Žygimanto Liauksmino g. 3, LT-01101"
@@ -524,7 +519,8 @@
   {
     "name": "UAB \"Orion Real Estate\"",
     "code": "307463630",
-    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
+    "vatcode": "LT100019721418"
   },
   {
     "name": "UAB \"REAL EASY\"",
@@ -855,7 +851,8 @@
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB \"North Europe real estate development fund II\"",
     "code": "307510959",
-    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308"
+    "address": "Vilnius, Konstitucijos pr. 18B, LT-09308",
+    "vatcode": "LT100019731819"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė UAB Riverside real estate fund",
@@ -911,6 +908,11 @@
     "code": "302242635",
     "address": "Vilnius, Ozo g. 12A-1, LT-08200",
     "vatcode": "LT100004381111"
+  },
+  {
+    "name": "Mažoji bendrija Realcon",
+    "code": "307630549",
+    "address": "Vilnius, Apolinaro Juozo Povilaičio g. 14-28, LT-04338"
   },
   {
     "name": "UAB \"Realconas\"",
@@ -1084,8 +1086,7 @@
   {
     "name": "MB Infrastruktūros realizacija",
     "code": "306725599",
-    "address": "Vilnius, Girulių g. 10-201, LT-12112",
-    "vatcode": "LT100017174117"
+    "address": "Vilnius, Girulių g. 10-201, LT-12112"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"VILNIAUS SIGMOS REALIZACIJA\"",
@@ -1364,8 +1365,7 @@
   {
     "name": "Avilys Realty, MB",
     "code": "307333505",
-    "address": "Vilnius, Padekaniškių g. 44-23, LT-06232",
-    "vatcode": "LT100018796818"
+    "address": "Vilnius, Padekaniškių g. 44-23, LT-06232"
   },
   {
     "name": "Core Baltic Realty UAB",
@@ -1447,11 +1447,6 @@
     "code": "307060782",
     "address": "Vilnius, Galinės g. 2, LT-11320",
     "vatcode": "LT100018339914"
-  },
-  {
-    "name": "UAB \"AURA Realty\"",
-    "code": "304409104",
-    "address": "Vilnius, Jankiškių g. 52, LT-02300"
   },
   {
     "name": "UAB \"Baltic Realty Investments\"",
@@ -1590,6 +1585,11 @@
     "code": "301278685",
     "address": "Vilnius, Žirmūnų g. 68A-4, LT-09124",
     "vatcode": "LT100012067110"
+  },
+  {
+    "name": "MB \"Su kitokia realybe\"",
+    "code": "307610443",
+    "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
   },
   {
     "name": "MB \"Papildyta realybė\"",
