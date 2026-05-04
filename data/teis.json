@@ -123,12 +123,6 @@
     "address": "Vilnius, Jogailos g. 4, LT-01116"
   },
   {
-    "name": "UAB \"Teisingas kodas\"",
-    "code": "304208432",
-    "address": "Vilnius, M. Valančiaus g. 7-25, LT-03158",
-    "vatcode": "LT100010156413"
-  },
-  {
     "name": "UAB \"Teisingas pasirinkimas\" ir Ko",
     "code": "302646065",
     "address": "Panevėžys, Klaipėdos g. 99 K1-2A, LT-37103",
@@ -187,6 +181,10 @@
     "name": "Asociacija \"Liaudis - tvarka - teisingumas\"",
     "code": "301670661",
     "address": "Šalčininkų r. sav., Jašiūnai, Popierinės g. 3, LT-17250"
+  },
+  {
+    "name": "Lietuvos profesinių sąjungų centras \"Tautos teisingumas\"",
+    "code": "191998983"
   },
   {
     "name": "Partija Tvarka ir teisingumas",
@@ -499,6 +497,11 @@
     "name": "MB \"Teisinių konsultacijų ir paslaugų biuras\"",
     "code": "307430484",
     "address": "Vilnius, Erfurto g. 33-7, LT-04226"
+  },
+  {
+    "name": "MB Teisinių konsultacijų biuras",
+    "code": "307669751",
+    "address": "Panevėžio r. sav., Panevėžio sen., Tičkūnų k., Serbentų g. 11, LT-38412"
   },
   {
     "name": "MB Teisinių paslaugų centras",
@@ -1238,7 +1241,8 @@
   {
     "name": "Valstybinė teismo medicinos tarnyba",
     "code": "191351330",
-    "address": "Vilnius, Didlaukio g. 86E, LT-08303"
+    "address": "Vilnius, Didlaukio g. 86E, LT-08303",
+    "vatcode": "LT100019929315"
   },
   {
     "name": "Valstybinė teismo psichiatrijos tarnyba prie Sveikatos apsaugos ministerijos",
@@ -1542,6 +1546,11 @@
     "address": "Marijampolė, Sporto g. 1, LT-68230"
   },
   {
+    "name": "Motociklų sporto teisėjų asociacija",
+    "code": "307636833",
+    "address": "Anykščiai, Statybininkų g. 2-9, LT-29123"
+  },
+  {
     "name": "Panevėžio miesto krepšinio teisėjų asociacija",
     "code": "191895563",
     "address": "Panevėžys, Klaipėdos g. 31-42, LT-35216"
@@ -1801,6 +1810,10 @@
     "address": "Vilniaus r. sav., Pagirių sen., Baltosios Vokės k., Parko g. 16-9, LT-14147"
   },
   {
+    "name": "UAB \"Teisės garantas\"",
+    "code": "302312247"
+  },
+  {
     "name": "UAB \"Teisės guru\"",
     "code": "304295177",
     "address": "Vilnius, I. Kanto al. 16-8, LT-06217"
@@ -1902,11 +1915,6 @@
     "name": "Viešoji įstaiga VILNIAUS UNIVERSITETO TEISĖS KLINIKA",
     "code": "124369918",
     "address": "Vilnius, Saulėtekio al. 9, LT-10222"
-  },
-  {
-    "name": "Viešoji įstaiga Šv. Juozapo teisės klinika",
-    "code": "305934635",
-    "address": "Kaunas, Laisvės al. 118, LT-44253"
   },
   {
     "name": "Vilniaus teisės centras, UAB",

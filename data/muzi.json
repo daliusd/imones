@@ -156,7 +156,8 @@
   {
     "name": "Kauno IX forto muziejus",
     "code": "190756991",
-    "address": "Kaunas, Žemaičių pl. 73, LT-47435"
+    "address": "Kaunas, Žemaičių pl. 73, LT-47435",
+    "vatcode": "LT100020002513"
   },
   {
     "name": "Kauno Tado Ivanausko zoologijos muziejus",
@@ -530,13 +531,18 @@
   {
     "name": "Viešoji įstaiga Lietuvos kulinarinio paveldo muziejus",
     "code": "126170142",
-    "address": "Vilnius, Subačiaus g. 3, LT-01302"
+    "address": "Palanga, J. Basanavičiaus g. 24A, LT-00135"
   },
   {
     "name": "Viešoji įstaiga MO muziejus",
     "code": "302325629",
     "address": "Vilnius, Pylimo g. 17, LT-01141",
     "vatcode": "LT100006626218"
+  },
+  {
+    "name": "Viešoji įstaiga Mados istorijos muziejus",
+    "code": "307654272",
+    "address": "Visaginas, Taikos pr. 15, LT-31107"
   },
   {
     "name": "Viešoji įstaiga Molėtų krašto muziejus",
@@ -1873,7 +1879,7 @@
   {
     "name": "Viešoji įstaiga Muzikos eksporto fondas",
     "code": "303996887",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Palangos g. 4-301, LT-01402"
   },
   {
     "name": "Viešoji įstaiga Muzikos pakrantė",
@@ -1915,6 +1921,10 @@
     "name": "Vilniaus Balio Dvariono dešimtmetė muzikos mokykla",
     "code": "191662185",
     "address": "Vilnius, T. Kosciuškos g. 13, LT-01100"
+  },
+  {
+    "name": "Vilniaus Balio Dvariono dešimtmetės muzikos mokyklos \"VIVA VOCE\" choro rėmėjų klubas",
+    "code": "301533253"
   },
   {
     "name": "Vilniaus Balio Dvariono dešimtmetės muzikos mokyklos darbuotojų profesinė sąjunga",
@@ -2122,6 +2132,10 @@
     "name": "LIETUVOS MUZIKŲ SĄJUNGA",
     "code": "190749274",
     "address": "Vilnius, Gedimino pr. 32-2, LT-01104"
+  },
+  {
+    "name": "Lietuvos muzikų rėmimo fondas",
+    "code": "190726852"
   },
   {
     "name": "Muzikų centras \"Muzikos idėjos\"",

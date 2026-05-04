@@ -1167,6 +1167,11 @@
     "address": "Vilnius, Vašingtono a. 1-11, LT-01108"
   },
   {
+    "name": "MB \"Šilinės mokykla\"",
+    "code": "307635628",
+    "address": "Jurbarko r. sav., Skirsnemunės sen., Šilinės k., Raseinių g. 9-6, LT-74465"
+  },
+  {
     "name": "MB Alfredo vairavimo mokykla",
     "code": "306448127",
     "address": "Klaipėda, Tilžės g. 35A K1-5, LT-91253"
@@ -2316,7 +2321,8 @@
   {
     "name": "Viešoji įstaiga \"Vilniaus tarptautinė mokykla\"",
     "code": "300030249",
-    "address": "Vilnius, Rusų g. 3, LT-01125"
+    "address": "Vilnius, Rusų g. 3, LT-01125",
+    "vatcode": "LT100020049812"
   },
   {
     "name": "Viešoji įstaiga Amatų mokykla \"Sodžiaus meistrai\"",
@@ -2859,6 +2865,10 @@
     "name": "Visagino \"Žiburio\" pagrindinė mokykla",
     "code": "193170510",
     "address": "Visaginas, Energetikų g. 56, LT-31226"
+  },
+  {
+    "name": "Visuomeninės organizacijos \"Naujosios Komunikacijos Mokykla\" personalinė įmonė \"Naujoji Komunikacija\"",
+    "code": "122671857"
   },
   {
     "name": "VšĮ \"AGORA mokykla\"",
@@ -3911,6 +3921,10 @@
     "address": "Vilnius, Raugyklos g. 17-20, LT-01140"
   },
   {
+    "name": "Marijampolės Rimanto Stankevičiaus pagrindinės mokyklos klubas",
+    "code": "304285090"
+  },
+  {
     "name": "Mažeikių \"Žiburėlio\" pradinės mokyklos bendruomenė",
     "code": "307603267",
     "address": "Mažeikiai, S. Daukanto g. 5-29, LT-89118"
@@ -4052,6 +4066,10 @@
     "code": "226401550"
   },
   {
+    "name": "Vilniaus Balio Dvariono dešimtmetės muzikos mokyklos \"VIVA VOCE\" choro rėmėjų klubas",
+    "code": "301533253"
+  },
+  {
     "name": "Vilniaus Balio Dvariono dešimtmetės muzikos mokyklos darbuotojų profesinė sąjunga",
     "code": "300156714",
     "address": "Vilnius, Paupio g. 33A-27, LT-11341"
@@ -4099,10 +4117,6 @@
     "name": "Vydmantų vidurinės mokyklos rėmimo fondas",
     "code": "264680550",
     "address": "Kretingos r. sav., Kretingos sen., Vydmantų k., Mokyklos g. 4, LT-97222"
-  },
-  {
-    "name": "Vyžuonų vidurinės mokyklos jaunųjų ūkininkų ratelis",
-    "code": "193060779"
   },
   {
     "name": "VšĮ Mokyklos sporto klubas \"Meškuičiai\"",
@@ -4364,6 +4378,16 @@
     "vatcode": "LT100011610715"
   },
   {
+    "name": "MB \"Greitėja vairavimo mokymai\"",
+    "code": "307633602",
+    "address": "Klaipėda, Taikos pr. 17-20, LT-91140"
+  },
+  {
+    "name": "MB \"Initium mokymai\"",
+    "code": "307664989",
+    "address": "Vilnius, M. Pretorijaus g. 1-12, LT-06227"
+  },
+  {
     "name": "MB \"Matematikos mokymai\"",
     "code": "306979359",
     "address": "Vilnius, Žirmūnų g. 47-92, LT-09107"
@@ -4423,7 +4447,8 @@
   {
     "name": "MB Jokūbo Mokymai",
     "code": "306108982",
-    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120",
+    "vatcode": "LT100019925918"
   },
   {
     "name": "MB Konsultaciniai mokymai",
@@ -4483,11 +4508,6 @@
     "name": "Mažoji bendrija Pirmosios pagalbos mokymai",
     "code": "306313706",
     "address": "Kaunas, V. Krėvės pr. 26-34, LT-50412"
-  },
-  {
-    "name": "Peletrūnų skydo mokymai",
-    "code": "306716098",
-    "address": "Alytus, Jaunimo g. 11-21, LT-63310"
   },
   {
     "name": "Profesionalūs mokymai, MB",
@@ -4555,7 +4575,7 @@
   {
     "name": "Viešoji įstaiga \"Grožio mokymai\"",
     "code": "304624562",
-    "address": "Kauno r. sav., Samylų sen., Šlienavos k., Centrinė g. 3, LT-53123",
+    "address": "Kaunas, E. Ožeškienės g. 29-11, LT-44254",
     "vatcode": "LT100018045919"
   },
   {
@@ -5799,6 +5819,11 @@
     "name": "VšĮ Žemaitijos mokymų centras",
     "code": "306475583",
     "address": "Klaipėdos r. sav., Kretingalės sen., Kunkių k., Kunkių g. 2A, LT-92382"
+  },
+  {
+    "name": "VšĮ Žirgų terapijos, reabilitacijos ir mokymų centras \"Laimos žirgai\"",
+    "code": "307661441",
+    "address": "Vilnius, Eduardo Andrė g. 14-5, LT-02232"
   },
   {
     "name": "Šiuolaikinės odontologijos mokymų centras \"SCOPE\"",

@@ -293,6 +293,11 @@
     "vatcode": "LT100017035019"
   },
   {
+    "name": "MB Gorbita Kaunas",
+    "code": "307640340",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
+  },
+  {
     "name": "MB Kaunas Rent",
     "code": "307218773",
     "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
@@ -469,7 +474,7 @@
   {
     "name": "UAB \"Kaunas Communication Centre\"",
     "code": "300028636",
-    "address": "Kaunas, V. Krėvės pr. 57B, LT-50358",
+    "address": "Kaunas, Savanorių pr. 321C, LT-50120",
     "vatcode": "LT100001085018"
   },
   {
@@ -550,6 +555,10 @@
     "address": "Kaunas, Taikos pr. 113, LT-50456"
   },
   {
+    "name": "UAB \"TNR Kaunas\"",
+    "code": "300502931"
+  },
+  {
     "name": "UAB \"Tavo Kaunas\"",
     "code": "302554122",
     "address": "Kaunas, Julijanavos g. 1D, LT-46392",
@@ -610,6 +619,11 @@
     "code": "305174520",
     "address": "Kaunas, V. Krėvės pr. 79A, LT-50361",
     "vatcode": "LT100012423619"
+  },
+  {
+    "name": "UAB Panorama Kaunas",
+    "code": "307652093",
+    "address": "Palanga, Vytauto g. 4 K1-3, LT-00101"
   },
   {
     "name": "UAB VERO KAUNAS",
@@ -1615,7 +1629,8 @@
   {
     "name": "Kauno IX forto muziejus",
     "code": "190756991",
-    "address": "Kaunas, Žemaičių pl. 73, LT-47435"
+    "address": "Kaunas, Žemaičių pl. 73, LT-47435",
+    "vatcode": "LT100020002513"
   },
   {
     "name": "Kauno Jaunimo Simfoninis Orkestras \"Da Capo Al Fine\"",
@@ -3298,6 +3313,11 @@
     "address": "Kaunas, Kalniečių g. 214, LT-49409"
   },
   {
+    "name": "Kauno lopšelis-darželis \"Vėjukai\"",
+    "code": "307636751",
+    "address": "Kaunas, Rasytės g. 5, LT-48128"
+  },
+  {
     "name": "Kauno lopšelis-darželis \"Vėrinėlis\"",
     "code": "191641248",
     "address": "Kaunas, Žiemgalių g. 1, LT-48222"
@@ -3604,9 +3624,19 @@
     "address": "Kaunas, Gričiupio g. 7, LT-51372"
   },
   {
+    "name": "Kauno miesto Daugiabučio gyvenamojo namo K. Būgos g. 15 savininkų bendrija",
+    "code": "307648928",
+    "address": "Kaunas, K. Būgos g. 15-5, LT-44327"
+  },
+  {
     "name": "Kauno miesto Daugiabučio gyvenamojo namo Klevų g. 3 savininkų bendrija \"Trys Klevai\"",
     "code": "303127504",
     "address": "Kaunas, Klevų g. 3-4, LT-45301"
+  },
+  {
+    "name": "Kauno miesto Daugiabučio gyvenamojo namo Varnių g. 47 savininkų bendrija \"Žuvėdra\"",
+    "code": "307664715",
+    "address": "Kaunas, Varnių g. 47-37, LT-48413"
   },
   {
     "name": "Kauno miesto Utenos g. 8 pastato savininkų bendrija",
@@ -3788,11 +3818,6 @@
     "name": "Kauno mišrus choras \"Skambusis gintaras\"",
     "code": "135529982",
     "address": "Kaunas, Akmenės g. 26-2"
-  },
-  {
-    "name": "Kauno mišrus choras \"Song Deo\"",
-    "code": "303462431",
-    "address": "Kaunas, Gedimino g. 5A, LT-44332"
   },
   {
     "name": "Kauno moksleivių techninės kūrybos centras",
@@ -6885,6 +6910,10 @@
     "vatcode": "LT100009225616"
   },
   {
+    "name": "UAB Kauno komunalinio ir butų ūkio darbuotojų profesinė sąjunga \"KKBŪ PRO\"",
+    "code": "303197036"
+  },
+  {
     "name": "UAB Kauno laidotuvių rūmai",
     "code": "307428597",
     "address": "Kaunas, Jonavos g. 220, LT-44132",
@@ -7340,6 +7369,10 @@
     "name": "Uždarosios akcinės bendrovės \"Kauno autobusai\" darbuotojų profesinė sąjunga",
     "code": "135588144",
     "address": "Kaunas, Raudondvario pl. 105, LT-47185"
+  },
+  {
+    "name": "Uždarosios akcinės bendrovės \"Kauno energetikos remontas\" darbuotojų profesinė sąjunga",
+    "code": "135581356"
   },
   {
     "name": "Uždarosios akcinės bendrovės \"Kauno vandenys\" darbuotojų profesinė sąjunga",
