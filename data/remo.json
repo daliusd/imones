@@ -116,11 +116,6 @@
     "address": "Kaunas, Taikos pr. 95-1, LT-50449"
   },
   {
-    "name": "Uždaroji akcinė bendrovė \"STATYBA IR REMONTAI\"",
-    "code": "307401568",
-    "address": "Kaunas, Šilalės g. 13, LT-48315"
-  },
-  {
     "name": "UAB \"Remontalis\"",
     "code": "167619167",
     "address": "Molėtai, Malūno g. 3, LT-33109",
@@ -227,7 +222,8 @@
   {
     "name": "MB Durų remontas",
     "code": "307605275",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
+    "vatcode": "LT100019917311"
   },
   {
     "name": "MB Kompleksinis remontas",
@@ -413,6 +409,10 @@
     "vatcode": "LT447130314"
   },
   {
+    "name": "Uždarosios akcinės bendrovės \"Kauno energetikos remontas\" darbuotojų profesinė sąjunga",
+    "code": "135581356"
+  },
+  {
     "name": "UAB \"Remontechas\"",
     "code": "305236018",
     "address": "Alytus, Statybininkų g. 30-16, LT-63417"
@@ -525,10 +525,6 @@
   {
     "name": "Broniaus Dapkūno automobilių remonto įmonė",
     "code": "185186625"
-  },
-  {
-    "name": "Dariaus Kriaučiūno automobilių remonto įmonė",
-    "code": "152828079"
   },
   {
     "name": "Domininko Janušausko individuali automašinų remonto įmonė",
@@ -661,6 +657,11 @@
     "name": "MB \"Remonto namai\"",
     "code": "304459908",
     "address": "Telšių r. sav., Ryškėnų sen., Ryškėnų k., Aušros g. 21, LT-87430"
+  },
+  {
+    "name": "MB \"Remonto paslaugos\"",
+    "code": "307631875",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Remonto sprendimai\"",
@@ -962,7 +963,7 @@
   {
     "name": "MB \"Remosel\"",
     "code": "305719433",
-    "address": "Klaipėda, I. Simonaitytės g. 21-84, LT-95122"
+    "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Baukštininkų g. 5, LT-91290"
   },
   {
     "name": "MB \"Remospecas\"",
@@ -1003,6 +1004,11 @@
     "code": "305658560",
     "address": "Vilnius, Žalgirio g. 112-1, LT-09300",
     "vatcode": "LT100013582010"
+  },
+  {
+    "name": "Remote anchorage, MB",
+    "code": "307665322",
+    "address": "Kaunas, Žeimenos g. 2E-1, LT-50115"
   },
   {
     "name": "UAB \"Remote work\"",

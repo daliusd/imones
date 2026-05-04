@@ -134,7 +134,7 @@
   {
     "name": "MB \"Apskaita 360\"",
     "code": "307045990",
-    "address": "Raseinių r. sav., Paliepių sen., Slabados k., Pavasario g. 14, LT-60109"
+    "address": "Raseinių r. sav., Raseinių sen., Trupinėlių k. 4, LT-60158"
   },
   {
     "name": "MB \"Apskaita ir konsultavimas\"",
@@ -742,6 +742,11 @@
     "address": "Marijampolė, Birutės g. 20, LT-68151"
   },
   {
+    "name": "MB MNG apskaita",
+    "code": "307640194",
+    "address": "Kauno r. sav., Akademija, Gabijos g. 25, LT-53348"
+  },
+  {
     "name": "MB Marselio apskaita",
     "code": "305710053",
     "address": "Vilnius, Lazdynėlių g. 38A-44, LT-04126"
@@ -1079,6 +1084,11 @@
     "code": "300592551",
     "address": "Vilnius, Vilkpėdės g. 2A, LT-03151",
     "vatcode": "LT100003313212"
+  },
+  {
+    "name": "UAB \"Clarus apskaita\"",
+    "code": "307631793",
+    "address": "Vilnius, Giedraičių g. 39-R53, LT-09302"
   },
   {
     "name": "UAB \"D&G apskaita\"",
@@ -1541,12 +1551,13 @@
   {
     "name": "UAB MAE apskaita",
     "code": "307570582",
-    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Pievų g. 3-2, LT-53333"
+    "address": "Kauno r. sav., Ringaudų sen., Ringaudų k., Pievų g. 3-2, LT-53333",
+    "vatcode": "LT100019990010"
   },
   {
     "name": "UAB Taxlink apskaita",
     "code": "304425998",
-    "address": "Palanga, Ajerų g. 38, LT-00155",
+    "address": "Vilnius, Olimpiečių g. 1-44, LT-09235",
     "vatcode": "LT100015980515"
   },
   {
@@ -2133,6 +2144,10 @@
     "name": "MB \"Finansiniai apskaitos sprendimai\"",
     "code": "306188252",
     "address": "Druskininkai, Liškiavos g. 10-7, LT-66291"
+  },
+  {
+    "name": "MB \"Finansų valdymo ir apskaitos paslaugų centras\"",
+    "code": "305527194"
   },
   {
     "name": "MB \"Grenetos apskaitos grupė\"",
@@ -2908,6 +2923,11 @@
     "vatcode": "LT100011508616"
   },
   {
+    "name": "UAB Apskaitos skaičiai",
+    "code": "307665660",
+    "address": "Marijampolės sav., Liudvinavo sen., Buktos k., Buktos g. 5-4, LT-69191"
+  },
+  {
     "name": "UAB Apskaitos sprendimų centras",
     "code": "304641558",
     "address": "Vilnius, Manufaktūrų g. 6-201, LT-11342"
@@ -3293,10 +3313,6 @@
     "address": "Alytaus r. sav., Punios sen., Raižių k."
   },
   {
-    "name": "Alytaus apskrities valstybinės mokesčių inspekcijos Druskininkų skyriaus profsąjunga",
-    "code": "152131952"
-  },
-  {
     "name": "Alytaus apskrities valstybės darbuotojų profesinė sąjunga",
     "code": "193489821",
     "address": "Alytus, Jotvingių g. 10-1, LT-62116"
@@ -3562,6 +3578,10 @@
     "name": "Klaipėdos apskrities globėjų ir įtėvių asociacija \"Vaikų gerovė\"",
     "code": "304428955",
     "address": "Klaipėda, Ryšininkų g. 8-7, LT-91118"
+  },
+  {
+    "name": "Klaipėdos apskrities gydytojų profesinė sąjunga",
+    "code": "193425637"
   },
   {
     "name": "Klaipėdos apskrities išsėtine skleroze sergančiųjų ligonių draugija",

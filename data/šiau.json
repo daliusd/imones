@@ -12,7 +12,8 @@
   {
     "name": "UAB Šiaudiniai namai",
     "code": "307548714",
-    "address": "Vilnius, Bajorų kel. 27-3, LT-08467"
+    "address": "Vilnius, Bajorų kel. 27-3, LT-08467",
+    "vatcode": "LT100020004510"
   },
   {
     "name": "Šiaudiniškių kaimo bendruomenė",
@@ -162,7 +163,7 @@
   {
     "name": "Daugiabučio gyvenamojo namo, esančio Lyros g. 2, Šiauliai, savininkų bendrija",
     "code": "307057957",
-    "address": "Šiauliai, Lyros g. 2-19, LT-78330"
+    "address": "Šiauliai, Lyros g. 2-10, LT-78330"
   },
   {
     "name": "Daugiabučio namo Aukštabalio g. 12, Šiauliai savininkų bendrija",
@@ -172,7 +173,7 @@
   {
     "name": "Daugiabučio namo Aušros takas 5, Šiauliai savininkų bendrija",
     "code": "305868199",
-    "address": "Šiauliai, Aušros tak. 5-45, LT-76294"
+    "address": "Šiauliai, Aušros tak. 5-4, LT-76294"
   },
   {
     "name": "Daugiabučio namo Dvaro g. 50, Šiauliai savininkų bendrija",
@@ -321,10 +322,6 @@
     "name": "UAB \"Ceragem Šiauliai\"",
     "code": "301666556",
     "address": "Mažeikiai, S. Nėries g. 11, LT-89300"
-  },
-  {
-    "name": "UAB \"JMA Šiauliai\"",
-    "code": "302298064"
   },
   {
     "name": "UAB \"Ss parts Šiauliai\"",
@@ -596,6 +593,10 @@
     "name": "Akcinės bendrovės \"Lytagra\" Šiaulių filialas",
     "code": "144754387",
     "address": "Šiauliai, Tilžės g. 231, LT-76297"
+  },
+  {
+    "name": "Akcinės bendrovės \"Šiaulių duona\" darbuotojų profesinė sąjunga",
+    "code": "145589198"
   },
   {
     "name": "Asociacija \"Šiaulių aušra\"",
@@ -910,6 +911,11 @@
     "address": "Šiauliai, Gegužių g. 7-4, LT-78311"
   },
   {
+    "name": "MB Šiaulių karjeras",
+    "code": "307636776",
+    "address": "Kaunas, Laumių g. 16, LT-47202"
+  },
+  {
     "name": "MB Šiaulių senoji klinika",
     "code": "305350395"
   },
@@ -1076,7 +1082,8 @@
   {
     "name": "UAB \"Šiaulių 40\"",
     "code": "307186069",
-    "address": "Kaunas, Karaliaus Mindaugo pr. 31-1, LT-44300"
+    "address": "Kaunas, Karaliaus Mindaugo pr. 31-1, LT-44300",
+    "vatcode": "LT100019959014"
   },
   {
     "name": "UAB \"Šiaulių Aktila\"",
@@ -1340,6 +1347,11 @@
     "code": "245881890",
     "address": "Šiauliai, Tilžės g. 36-2A, LT-78205",
     "vatcode": "LT100001320517"
+  },
+  {
+    "name": "UAB Šiaulių laidojimo paslaugos",
+    "code": "307651618",
+    "address": "Šiauliai, Žemaitės g. 2B, LT-77207"
   },
   {
     "name": "UAB Šiaulių metalo grupė",
@@ -2031,8 +2043,7 @@
   },
   {
     "name": "Šiaulių Artrito draugija \"Artis\"",
-    "code": "145834263",
-    "address": "Šiauliai, Aušros al. 15, LT-76300"
+    "code": "145834263"
   },
   {
     "name": "Šiaulių Aušros Rotary klubas",
@@ -3828,8 +3839,7 @@
   },
   {
     "name": "Uždaroji akcinė bendrovė \"Šiaurinis namas\"",
-    "code": "153744328",
-    "address": "Alytaus r. sav., Alytaus sen., Praniūnų k."
+    "code": "153744328"
   },
   {
     "name": "Šiaurinis fondas, UAB",

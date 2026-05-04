@@ -189,6 +189,11 @@
     "address": "Klaipėda, Baltijos pr. 123-5, LT-93224"
   },
   {
+    "name": "Balanso sprendimai, MB",
+    "code": "307636534",
+    "address": "Vilnius, Smolensko g. 27-9, LT-03201"
+  },
+  {
     "name": "Baldų konstrukciniai sprendimai MB",
     "code": "306350302",
     "address": "Kėdainių r. sav., Pelėdnagių sen., Pelėdnagių k., V. Koncevičiaus g. 2, LT-58164",
@@ -674,7 +679,8 @@
   {
     "name": "MB \"EG sprendimai\"",
     "code": "307625776",
-    "address": "Kauno r. sav., Ringaudų sen., Poderiškių k., Tiesioji g. 70, LT-53370"
+    "address": "Kauno r. sav., Ringaudų sen., Poderiškių k., Tiesioji g. 70, LT-53370",
+    "vatcode": "LT100019910112"
   },
   {
     "name": "MB \"EKKA Renovacijų Sprendimai\"",
@@ -789,7 +795,8 @@
   {
     "name": "MB \"GL sprendimai\"",
     "code": "307605617",
-    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263"
+    "address": "Vilnius, Laisvės pr. 78B-214, LT-05263",
+    "vatcode": "LT100019873518"
   },
   {
     "name": "MB \"GM sprendimai\"",
@@ -941,7 +948,8 @@
   {
     "name": "MB \"Individualūs sprendimai\"",
     "code": "306629120",
-    "address": "Klaipėdos r. sav., Dovilų sen., Ketvergių k., Pirmoji g. 7-1, LT-95409"
+    "address": "Klaipėdos r. sav., Dovilų sen., Ketvergių k., Pirmoji g. 7-1, LT-95409",
+    "vatcode": "LT100019979614"
   },
   {
     "name": "MB \"Individualūs techniniai sprendimai\"",
@@ -1138,7 +1146,8 @@
   {
     "name": "MB \"Jono kompiuteriniai sprendimai\"",
     "code": "307474025",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019902212"
   },
   {
     "name": "MB \"Jungtiniai sprendimai\"",
@@ -1550,6 +1559,10 @@
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
+    "name": "MB \"Patikrinti sprendimai\"",
+    "code": "304991989"
+  },
+  {
     "name": "MB \"Pelningi sprendimai\"",
     "code": "304195554",
     "address": "Klaipėda, Liepų g. 83, LT-92195",
@@ -1592,8 +1605,7 @@
   {
     "name": "MB \"Ponulio interjero sprendimai\"",
     "code": "305078963",
-    "address": "Kaunas, V. Krėvės pr. 99A-58, LT-50371",
-    "vatcode": "LT100013437311"
+    "address": "Kaunas, V. Krėvės pr. 99A-58, LT-50371"
   },
   {
     "name": "MB \"Pozityvūs sprendimai\"",
@@ -1742,6 +1754,11 @@
     "name": "MB \"Rinkodaros sprendimai\"",
     "code": "303307096",
     "address": "Vilnius, Laisvės pr. 117-57, LT-06118"
+  },
+  {
+    "name": "MB \"Roko sprendimai\"",
+    "code": "307654308",
+    "address": "Alytaus r. sav., Alovės sen., Jurkionių k., Vyšnių g. 10, LT-64107"
   },
   {
     "name": "MB \"Rosk sprendimai\"",
@@ -1957,6 +1974,11 @@
     "address": "Lazdijų r. sav., Veisiejai, Vilties g. 28-8, LT-67338"
   },
   {
+    "name": "MB \"Statybos sprendimai LT\"",
+    "code": "307642124",
+    "address": "Palanga, Vytauto g. 118-4, LT-00153"
+  },
+  {
     "name": "MB \"Statymo sprendimai\"",
     "code": "305612755",
     "address": "Klaipėdos r. sav., Sendvario sen., Klemiškės II k., Dvarininkų g. 33, LT-91290",
@@ -1993,6 +2015,11 @@
     "name": "MB \"Strateginiai verslo sprendimai\"",
     "code": "304038364",
     "address": "Kaunas, Aušros g. 15-2, LT-44173"
+  },
+  {
+    "name": "MB \"Sumanūs sprendimai LT\"",
+    "code": "307661231",
+    "address": "Pakruojo r. sav., Žeimelio sen., Lauksodžio k., Gėlių g. 20, LT-83355"
   },
   {
     "name": "MB \"Susisiekimo komunikacijų sprendimai\"",
@@ -2117,6 +2144,11 @@
     "vatcode": "LT100012371612"
   },
   {
+    "name": "MB \"Tylos sprendimai\"",
+    "code": "307665258",
+    "address": "Neringa, Pervalkos g. 13, LT-93104"
+  },
+  {
     "name": "MB \"Užtikrinti sprendimai\"",
     "code": "304219756",
     "address": "Vilnius, V. Mačernio g. 3F, LT-08336"
@@ -2135,7 +2167,8 @@
   {
     "name": "MB \"VV sprendimai\"",
     "code": "307183735",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237",
+    "vatcode": "LT100019959811"
   },
   {
     "name": "MB \"Vadybos sistemų sprendimai ir konsultacijos\"",
@@ -2371,6 +2404,11 @@
     "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Laisvės g. 13-1, LT-14182"
   },
   {
+    "name": "MB AL Būsto sprendimai",
+    "code": "307639092",
+    "address": "Tauragės r. sav., Tauragės sen., Tauragės Dvaro k., Tauragės Dvaro g. 32B-8, LT-72134"
+  },
+  {
     "name": "MB ART sprendimai",
     "code": "306036465",
     "address": "Vilniaus r. sav., Medininkų sen., Medininkų k., Medaus g. 30, LT-13192",
@@ -2497,6 +2535,11 @@
     "name": "MB Buhalterijos sprendimai",
     "code": "305814187",
     "address": "Klaipėda, Debreceno g. 19-510, LT-94170"
+  },
+  {
+    "name": "MB Buitinės technikos sprendimai",
+    "code": "307642850",
+    "address": "Panevėžys, Mėtų g. 17, LT-37457"
   },
   {
     "name": "MB Būsto paskolų sprendimai",
@@ -2648,7 +2691,7 @@
   {
     "name": "MB Fouraflow informacinių technologijų sprendimai",
     "code": "307056271",
-    "address": "Vilnius, Savanorių pr. 63-2, LT-03131"
+    "address": "Vilniaus r. sav., Maišiagalos sen., Masionių vs., Gardenijų g. 1 K16-3, LT-14200"
   },
   {
     "name": "MB GKA Sprendimai",
@@ -2906,6 +2949,11 @@
     "name": "MB MR inžineriniai sprendimai",
     "code": "307077194",
     "address": "Šiauliai, Kelmės g. 1A-3, LT-78146"
+  },
+  {
+    "name": "MB Manto sprendimai",
+    "code": "307645145",
+    "address": "Klaipėda, Dragūnų g. 6-40, LT-92331"
   },
   {
     "name": "MB Mariaus sprendimai",
@@ -3490,6 +3538,11 @@
     "vatcode": "LT100013394314"
   },
   {
+    "name": "MB Ąžuolo sprendimai",
+    "code": "307634394",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+  },
+  {
     "name": "MB Šablinsko sprendimai",
     "code": "306673978",
     "address": "Vilniaus r. sav., Avižienių sen., Užubalių k., Užubalių g. 53-1, LT-14302",
@@ -3566,7 +3619,8 @@
   {
     "name": "Mažoji bendrija \"KMP sprendimai\"",
     "code": "302910593",
-    "address": "Vilnius, Pilkalnio g. 7-47, LT-06232"
+    "address": "Vilnius, Pilkalnio g. 7-47, LT-06232",
+    "vatcode": "LT100019940316"
   },
   {
     "name": "Mažoji bendrija \"Martinpro sprendimai\"",
@@ -3620,6 +3674,11 @@
     "code": "304959347",
     "address": "Vilnius, Antano Gudaičio g. 21C, LT-25128",
     "vatcode": "LT100014850118"
+  },
+  {
+    "name": "Mažoji bendrija AN 21 sprendimai",
+    "code": "307656889",
+    "address": "Kaunas, E. Volterio g. 96-1, LT-47215"
   },
   {
     "name": "Mažoji bendrija Aplinkos sprendimai LT",
@@ -3978,7 +4037,7 @@
   {
     "name": "UAB \"Aušros sprendimai\"",
     "code": "301854647",
-    "address": "Vilnius, Moliakalnio g. 27, LT-10231"
+    "address": "Vilnius, Plytinės g. 29-13, LT-10105"
   },
   {
     "name": "UAB \"BM Sprendimai\"",
@@ -4180,10 +4239,6 @@
     "vatcode": "LT100010928419"
   },
   {
-    "name": "UAB \"Efektyvūs saugos sprendimai\"",
-    "code": "304938239"
-  },
-  {
     "name": "UAB \"Efektyvūs sprendimai\"",
     "code": "302424456",
     "address": "Panevėžys, Vilktupio g. 5, LT-38449",
@@ -4272,7 +4327,7 @@
   {
     "name": "UAB \"Europos projektų sprendimai\"",
     "code": "305207098",
-    "address": "Vilnius, Gabijos g. 42-21, LT-06157",
+    "address": "Trakų r. sav., Trakų sen., Būdos III k., Ramunių g. 27, LT-21400",
     "vatcode": "LT100012961411"
   },
   {
@@ -4872,8 +4927,7 @@
   {
     "name": "UAB \"Monotinklo sprendimai\"",
     "code": "304811786",
-    "address": "Vilnius, Saulėtekio al. 15-1, LT-10224",
-    "vatcode": "LT100013576712"
+    "address": "Vilnius, Saulėtekio al. 15-1, LT-10224"
   },
   {
     "name": "UAB \"Muitinės sprendimai\"",
@@ -6274,7 +6328,8 @@
   {
     "name": "UAB Vejos sprendimai",
     "code": "307568987",
-    "address": "Kaišiadorių r. sav., Kruonio sen., Lapainios k., Pylimo g. 41, LT-56301"
+    "address": "Kaišiadorių r. sav., Kruonio sen., Lapainios k., Pylimo g. 41, LT-56301",
+    "vatcode": "LT100019944218"
   },
   {
     "name": "UAB Verslo finansavimo sprendimai",
@@ -6701,6 +6756,11 @@
     "address": "Vilnius, Tolminkiemio g. 37-50, LT-06286"
   },
   {
+    "name": "MB \"Stiprus sprendimas\"",
+    "code": "307643308",
+    "address": "Kaišiadorių r. sav., Kaišiadorių apylinkės sen., Gudienos k., Bartaičių g. 13, LT-56115"
+  },
+  {
     "name": "MB \"Taiklus sprendimas\"",
     "code": "305665850",
     "address": "Vilnius, Medeinos g. 16-56, LT-06156"
@@ -6729,14 +6789,20 @@
     "vatcode": "LT100010047216"
   },
   {
+    "name": "MB \"Ūkio sprendimas\"",
+    "code": "307635603",
+    "address": "Jurbarko r. sav., Eržvilkas, Ateities g. 7, LT-74287",
+    "vatcode": "LT100019947313"
+  },
+  {
     "name": "MB 1001 statybų sprendimas",
     "code": "307309098",
     "address": "Vilniaus r. sav., Avižienių sen., Riešės k., Riedulių g. 21-2, LT-14181"
   },
   {
-    "name": "MB Baltijos orbitų sprendimas",
-    "code": "305934083",
-    "address": "Druskininkai, M. K. Čiurlionio g. 44-3, LT-66142"
+    "name": "MB Auto sprendimas",
+    "code": "307649161",
+    "address": "Elektrėnai, Marių g. 33A, LT-21333"
   },
   {
     "name": "MB Bendras statybos sprendimas",
@@ -6796,7 +6862,7 @@
   {
     "name": "UAB \"Garantuotas sprendimas\"",
     "code": "304069139",
-    "address": "Kaunas, A. Purėno g. 4A, LT-51369"
+    "address": "Kauno m. sav."
   },
   {
     "name": "UAB \"Geras sprendimas\"",
@@ -7113,6 +7179,11 @@
     "vatcode": "LT100011460618"
   },
   {
+    "name": "MB MV Sprendimų namai",
+    "code": "307634501",
+    "address": "Vilnius, Žemynos g. 43-57, LT-06128"
+  },
+  {
     "name": "MB Nekilnojamų sprendimų agentūra",
     "code": "306745826",
     "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
@@ -7150,6 +7221,11 @@
     "address": "Kaunas, Laisvės al. 85E-5, LT-44297"
   },
   {
+    "name": "Mažoji bendrija Nt sprendimų centras",
+    "code": "307639224",
+    "address": "Kėdainių r. sav., Pelėdnagių sen., Pelėdnagių k., V. Koncevičiaus g. 8-17, LT-58160"
+  },
+  {
     "name": "Mažoji bendrija Turto sprendimų grupė",
     "code": "307056990",
     "address": "Alytus, Pabalių g. 3-1, LT-62452"
@@ -7162,7 +7238,8 @@
   {
     "name": "Sprendimų architektas MB",
     "code": "306398119",
-    "address": "Kupiškio r. sav., Kupiškio sen., Šepetos k., Sodų g. 12, LT-40334"
+    "address": "Kupiškio r. sav., Kupiškio sen., Šepetos k., Sodų g. 12, LT-40334",
+    "vatcode": "LT100019898715"
   },
   {
     "name": "UAB \"Apskaitos sprendimų partneriai\"",
@@ -7395,10 +7472,6 @@
     "name": "UAB Nuomos sprendimų slėnis",
     "code": "305712467",
     "address": "Vilnius, Žalgirio g. 112-1, LT-09300"
-  },
-  {
-    "name": "UAB Progresyvių investicijų ir technologinių sprendimų spektras",
-    "code": "303144763"
   },
   {
     "name": "UAB SPRENDIMŲ METAS",

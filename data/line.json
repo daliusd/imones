@@ -40,6 +40,11 @@
     "address": "Vilnius, Kedrų g. 6-209, LT-03120"
   },
   {
+    "name": "Aurum Cargo Line UAB",
+    "code": "307646208",
+    "address": "Klaipėda, Tiltų g. 19, LT-91249"
+  },
+  {
     "name": "Baltic Consol Line UAB",
     "code": "302858399",
     "address": "Vilnius, Konstitucijos pr. 15-97, LT-09319",
@@ -140,7 +145,8 @@
   {
     "name": "MB \"MM Road Line\"",
     "code": "307604198",
-    "address": "Vilnius, Liudvinavo g. 111, LT-02241"
+    "address": "Vilnius, Liudvinavo g. 111, LT-02241",
+    "vatcode": "LT100019936217"
   },
   {
     "name": "MB \"Media line\"",
@@ -199,6 +205,12 @@
     "vatcode": "LT100018625015"
   },
   {
+    "name": "MB Avora Line",
+    "code": "307642455",
+    "address": "Kaunas, Chemijos g. 27C-62, LT-51331",
+    "vatcode": "LT100019996412"
+  },
+  {
     "name": "MB CARS LINE",
     "code": "307546033",
     "address": "Tauragė, Moksleivių al. 6-33, LT-72280",
@@ -207,7 +219,8 @@
   {
     "name": "MB Engine line",
     "code": "307596004",
-    "address": "Kaunas, K. Baršausko g. 65-38, LT-51433"
+    "address": "Kaunas, K. Baršausko g. 65-38, LT-51433",
+    "vatcode": "LT100019914912"
   },
   {
     "name": "MB Fast Line Motors",
@@ -285,6 +298,11 @@
     "name": "MB Speed line LT",
     "code": "307458124",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51331"
+  },
+  {
+    "name": "MB TIS Line",
+    "code": "307652111",
+    "address": "Vilnius, Perkūnkiemio g. 19, LT-12120"
   },
   {
     "name": "MB Šulcas line",
@@ -386,14 +404,18 @@
   },
   {
     "name": "UAB \"Baltic Line\"",
-    "code": "300612897",
-    "address": "Vilnius, Eitminų g. 3-102, LT-12113"
+    "code": "300612897"
   },
   {
     "name": "UAB \"Baltic Trade Line\"",
     "code": "304413864",
     "address": "Klaipėda, Baltijos pr. 123-4, LT-93224",
     "vatcode": "LT100010518811"
+  },
+  {
+    "name": "UAB \"Bikul line\"",
+    "code": "307656412",
+    "address": "Vilniaus r. sav., Nemėžis, Pakalnės g. 7, LT-13263"
   },
   {
     "name": "UAB \"CV line\"",
@@ -1097,6 +1119,11 @@
     "vatcode": "LT100009644517"
   },
   {
+    "name": "UAB \"Linen Mare\"",
+    "code": "307666716",
+    "address": "Vilnius, Laurų Sodų 2-oji g. 1, LT-10150"
+  },
+  {
     "name": "UAB \"Linen Texture\"",
     "code": "306117401",
     "address": "Vilnius, Eišiškių Sodų 18-oji g. 11, LT-02194"
@@ -1349,7 +1376,7 @@
   {
     "name": "IĮ, Sigito Dauskurdžio firma \"Linevita\"",
     "code": "171468187",
-    "address": "Radviliškis, Taikos g. 10, LT-82128"
+    "address": "Radviliškis, J. Jaramino g. 14-6, LT-82123"
   },
   {
     "name": "Artūro Linevo IĮ",

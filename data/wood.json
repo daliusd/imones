@@ -1,5 +1,10 @@
 [
   {
+    "name": "Auron wood, MB",
+    "code": "307646336",
+    "address": "Elektrėnų sav., Gilučių sen., Gilučių k., Kaštonų g. 19, LT-26131"
+  },
+  {
     "name": "Custom Wood & Metal, MB",
     "code": "305237383",
     "address": "Šiauliai, Vyšnių g. 38, LT-76275"
@@ -144,7 +149,8 @@
   {
     "name": "MB GM Wood",
     "code": "307625452",
-    "address": "Klaipėda, Tiltų g. 19, LT-91249"
+    "address": "Klaipėda, Tiltų g. 19, LT-91249",
+    "vatcode": "LT100019946910"
   },
   {
     "name": "MB Hooked on wood",
@@ -160,6 +166,11 @@
     "name": "MB MMA Wood",
     "code": "305745200",
     "address": "Alytus, Amatų g. 10, LT-62441"
+  },
+  {
+    "name": "MB Nerita wood",
+    "code": "307662098",
+    "address": "Šilutė, Aušros 8-asis tak. 14, LT-99193"
   },
   {
     "name": "MB Nordic wood",
@@ -377,10 +388,6 @@
     "name": "UAB \"LEX WOOD LT\"",
     "code": "184294523",
     "address": "Vilniaus r. sav."
-  },
-  {
-    "name": "UAB \"LITH Wood\"",
-    "code": "300627810"
   },
   {
     "name": "UAB \"NKS BALT WOOD\"",
@@ -611,8 +618,7 @@
   {
     "name": "Mažoji bendrija \"Woodandwine\"",
     "code": "306155672",
-    "address": "Alytus, S. Dariaus ir S. Girėno g. 9-20, LT-62137",
-    "vatcode": "LT100016115519"
+    "address": "Alytus, S. Dariaus ir S. Girėno g. 9-20, LT-62137"
   },
   {
     "name": "UAB \"WoodBalt\"",
@@ -753,9 +759,7 @@
   },
   {
     "name": "UAB \"Wooden Windows\"",
-    "code": "302996674",
-    "address": "Jonava, Darbininkų g. 4-4",
-    "vatcode": "LT100007534310"
+    "code": "302996674"
   },
   {
     "name": "UAB Wooden cabins",
@@ -850,10 +854,6 @@
     "code": "305777116",
     "address": "Kauno m. sav.",
     "vatcode": "LT100014123511"
-  },
-  {
-    "name": "MB The Woodlet",
-    "code": "307395236"
   },
   {
     "name": "UAB \"Woodlex grupė\"",
@@ -969,6 +969,11 @@
     "vatcode": "LT100010152713"
   },
   {
+    "name": "MB \"Woodspace lt\"",
+    "code": "307664811",
+    "address": "Kauno r. sav., Samylų sen., Laumėnų k., Beržų al. 1, LT-53118"
+  },
+  {
     "name": "UAB Woodstem Lithuania",
     "code": "307119992",
     "address": "Vilnius, Polocko g. 4B-20, LT-01204",
@@ -1008,7 +1013,7 @@
   {
     "name": "UAB Woodworking Industry Solutions",
     "code": "304452696",
-    "address": "Jonava, Skarulių g. 10, LT-55198",
+    "address": "Jonava, Skarulių g. 10A, LT-55198",
     "vatcode": "LT100010779017"
   },
   {

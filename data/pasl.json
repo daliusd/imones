@@ -148,6 +148,11 @@
     "address": "Vilnius, Vokiečių g. 12-1, LT-01130"
   },
   {
+    "name": "MB Plaukų paslaptys",
+    "code": "307665190",
+    "address": "Alytus, Kaštonų g. 15-18, LT-63311"
+  },
+  {
     "name": "UAB \"Grožio paslaptys\"",
     "code": "303302996",
     "address": "Kaunas, Mosėdžio g. 5, LT-48177"
@@ -333,6 +338,11 @@
     "name": "MB Paslauga kelyje",
     "code": "305936718",
     "address": "Vilnius, Melioratorių g. 27, LT-02204"
+  },
+  {
+    "name": "MB Pirma paslauga",
+    "code": "307634070",
+    "address": "Kaunas, Mikėnų aklg. 12B-2, LT-47329"
   },
   {
     "name": "Mažoji bendrija \"Buhalterinė paslauga\"",
@@ -963,7 +973,8 @@
   {
     "name": "MB \"Elmo paslaugos\"",
     "code": "305698868",
-    "address": "Vilnius, Broniaus Grigo g. 16, LT-11235"
+    "address": "Vilnius, Broniaus Grigo g. 16, LT-11235",
+    "vatcode": "LT100020014416"
   },
   {
     "name": "MB \"Ets paslaugos\"",
@@ -1349,6 +1360,11 @@
     "name": "MB \"Ratuotos paslaugos\"",
     "code": "305718502",
     "address": "Kaišiadorių r. sav., Žiežmariai, Kauno g. 68A, LT-56232"
+  },
+  {
+    "name": "MB \"Remonto paslaugos\"",
+    "code": "307631875",
+    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
   },
   {
     "name": "MB \"Ritualinės paslaugos\"",
@@ -1765,6 +1781,11 @@
     "name": "MB Finansinės ir valdymo paslaugos",
     "code": "306852326",
     "address": "Vilnius, Maironio g. 15-9, LT-01125"
+  },
+  {
+    "name": "MB Gamyba paslaugos konsultacijos",
+    "code": "307668382",
+    "address": "Kaišiadorių r. sav., Žasliai, Plento g. 14, LT-56412"
   },
   {
     "name": "MB Gerbūvio paslaugos",
@@ -2653,6 +2674,12 @@
     "vatcode": "LT100015761314"
   },
   {
+    "name": "UAB \"Mokslinės paslaugos\"",
+    "code": "302467849",
+    "address": "Kaunas, Gynelės g. 15, LT-47484",
+    "vatcode": "LT100017790016"
+  },
+  {
     "name": "UAB \"Montavimo paslaugos\"",
     "code": "304171749",
     "address": "Vilnius, Gelvonų g. 5-65, LT-07140",
@@ -3081,7 +3108,7 @@
   {
     "name": "UAB Dezinfekcijos paslaugos",
     "code": "302502912",
-    "address": "Vilnius, Žirmūnų g. 58-35, LT-09100",
+    "address": "Vilnius, Žirmūnų g. 147-1110, LT-09127",
     "vatcode": "LT100016792410"
   },
   {
@@ -3144,6 +3171,11 @@
     "name": "UAB Visos paslaugos verslui",
     "code": "306107389",
     "address": "Molėtai, Verslo g. 5A, LT-33114"
+  },
+  {
+    "name": "UAB Šiaulių laidojimo paslaugos",
+    "code": "307651618",
+    "address": "Šiauliai, Žemaitės g. 2B, LT-77207"
   },
   {
     "name": "UAB Ūkio administravimo paslaugos",
@@ -3321,12 +3353,6 @@
     "name": "VšĮ \"Kalbų kursų ir personalo paslaugos\"",
     "code": "304553115",
     "address": "Vilnius, J. Savickio g. 4-7, LT-01108"
-  },
-  {
-    "name": "VšĮ \"Mokslinės paslaugos\"",
-    "code": "302467849",
-    "address": "Kaunas, Gynelės g. 15, LT-47484",
-    "vatcode": "LT100017790016"
   },
   {
     "name": "VšĮ \"Nacionalinės paslaugos\"",
@@ -3645,6 +3671,10 @@
   {
     "name": "Almonto Giedraičio prekybos ir paslaugų įmonė",
     "code": "151339950"
+  },
+  {
+    "name": "Alytaus medienos apdirbimo ir paslaugų įmonių profesinė sąjunga",
+    "code": "150079713"
   },
   {
     "name": "Alytaus miesto paslaugų centras",
@@ -4668,6 +4698,10 @@
     "address": "Vilnius, Perkūnkiemio g. 35-11, LT-12138"
   },
   {
+    "name": "MB \"Finansų valdymo ir apskaitos paslaugų centras\"",
+    "code": "305527194"
+  },
+  {
     "name": "MB \"Inžinerinių paslaugų partneris\"",
     "code": "305701022",
     "address": "Kaunas, Laisvės al. 110, LT-44253",
@@ -4987,6 +5021,10 @@
     "name": "Ortopedijos ir reabilitacijos paslaugų teikėjų asociacija",
     "code": "135971192",
     "address": "Kaunas, Savanorių pr. 284"
+  },
+  {
+    "name": "P. Patalausko radijotechninių paslaugų įmonė",
+    "code": "183665114"
   },
   {
     "name": "P. Statkevičiaus individuali paslaugų įmonė \"Žydrė\"",
@@ -6365,8 +6403,7 @@
   },
   {
     "name": "VšĮ \"Socialinės pagalbos ir paslaugų centras\"",
-    "code": "306146812",
-    "address": "Klaipėda, Baltijos pr. 123-5, LT-93224"
+    "code": "306146812"
   },
   {
     "name": "VšĮ \"Teisinių paslaugų tarnyba\"",

@@ -298,11 +298,6 @@
     "address": "Vilnius, Perkūnkiemio g. 13-91, LT-12114"
   },
   {
-    "name": "UAB Sf sport consulting",
-    "code": "306224830",
-    "address": "Vilnius, Volungės g. 18-7, LT-10316"
-  },
-  {
     "name": "UAB Sport road",
     "code": "302623725",
     "address": "Molėtų r. sav., Alantos sen., Kazlų k., Utenos g. 9, LT-33311"
@@ -327,6 +322,11 @@
     "name": "Viešoji įstaiga \"R2P Sport\"",
     "code": "303389168",
     "address": "Kaunas, Chemijos g. 9A-56, LT-51326"
+  },
+  {
+    "name": "Viešoji įstaiga ETUM Sport",
+    "code": "307671268",
+    "address": "Kelmės r. sav., Tytuvėnai, Geležinkelio g. 11, LT-86499"
   },
   {
     "name": "Visagino irklavimo sporto klubas \"MMF SPORT\"",
@@ -1334,6 +1334,10 @@
     "address": "Kupiškis, Lauko g. 42-2, LT-40108"
   },
   {
+    "name": "UAB \"SportIN Grupė\"",
+    "code": "302836100"
+  },
+  {
     "name": "Panevėžio r. stendinio šaudymo klubas \"Medeina Sporting\"",
     "code": "305286957",
     "address": "Panevėžio r. sav., Naujamiesčio sen., Nociagalos k., Naujamiesčio g. 73, LT-38334"
@@ -1501,6 +1505,11 @@
     "name": "Asociacija \"Sportinio šaudymo klubas Mažeikiai\"",
     "code": "306734153",
     "address": "Mažeikių r. sav., Viekšnių sen., Užventės k., Virvytės g. 3A, LT-89494"
+  },
+  {
+    "name": "Asociacija Vilniaus rajono sportinio šaudymo klubas",
+    "code": "307667280",
+    "address": "Vilniaus r. sav., Rukainių sen., Bareikiškių k., Minsko pl. 200, LT-13176"
   },
   {
     "name": "Karių sportinio pokerio klubas \"KIRTIS\"",
@@ -2237,13 +2246,17 @@
   },
   {
     "name": "MB \"Sportistore\"",
-    "code": "305668953",
-    "address": "Vilnius, Žalgirio g. 88-102, LT-09303"
+    "code": "305668953"
   },
   {
     "name": "UAB SPORTITUS",
     "code": "302725922",
     "address": "Panevėžio r. sav., Paįstrio sen., Gegužinės k., Pakaušių g. 18, LT-38428"
+  },
+  {
+    "name": "MB Sportivija",
+    "code": "307649738",
+    "address": "Klaipėda, Tiltų g. 19, LT-91249"
   },
   {
     "name": "MB \"SPORTIX GROUP\"",
@@ -3421,7 +3434,7 @@
   {
     "name": "JSO badmintono sporto klubas",
     "code": "303105949",
-    "address": "Kaunas, Savanorių pr. 112-4, LT-44147"
+    "address": "Kaunas, V. Krėvės pr. 124-9, LT-51117"
   },
   {
     "name": "JUOZO PURELIO TENISO SPORTO KLUBAS",
@@ -4052,7 +4065,7 @@
   {
     "name": "Klaipėdos miesto badmintono sporto klubas",
     "code": "193174341",
-    "address": "Klaipėda, Rumpiškės g. 2A-4, LT-91131"
+    "address": "Klaipėdos m. sav."
   },
   {
     "name": "Klaipėdos miesto bokso sporto klubas \"Čempionas\"",
@@ -5287,6 +5300,11 @@
     "address": "Ignalinos r. sav., Dūkšto sen., Ažukarklinės k., Vasario 16-osios g. 67, LT-30258"
   },
   {
+    "name": "MB Sporto organizacija",
+    "code": "307671250",
+    "address": "Vilnius, Pamėnkalnio g. 18-19, LT-01114"
+  },
+  {
     "name": "MB Sporto paslaugų centras",
     "code": "303410018",
     "address": "Kaišiadorių r. sav., Palomenės sen., Bučionių k., Neries g. 9, LT-56393"
@@ -5467,6 +5485,11 @@
     "name": "Motociklų sporto klubas \"SPHAGNUM\"",
     "code": "191534844",
     "address": "Kelmės r. sav., Tytuvėnai, Taikos g. 2, LT-86477"
+  },
+  {
+    "name": "Motociklų sporto teisėjų asociacija",
+    "code": "307636833",
+    "address": "Anykščiai, Statybininkų g. 2-9, LT-29123"
   },
   {
     "name": "Motokroso sporto klubas \"Aleksotas MX\"",
@@ -5727,7 +5750,7 @@
   {
     "name": "Panevėžio kurčiųjų sporto klubas \"Vėjas\"",
     "code": "290865970",
-    "address": "Panevėžys, Molainių g. 90-14, LT-37152"
+    "address": "Panevėžio r. sav., Paįstrio sen., Gailiūnų k., Gailiūnų g. 23, LT-38401"
   },
   {
     "name": "Panevėžio lengvosios atletikos sporto klubas \"Žvaigždė\"",
@@ -8123,7 +8146,7 @@
   {
     "name": "Tauragės \"Volano\" sporto klubas",
     "code": "191459345",
-    "address": "Tauragė, Televizijos g. 5, LT-72343"
+    "address": "Tauragės r. sav., Mažonų sen., Papušynės k., Žalioji g. 15, LT-72175"
   },
   {
     "name": "Tauragės apskrities automobilių ir motociklų sporto teisejų ir veteranų klubas \"Jūra\"",
@@ -10205,7 +10228,7 @@
   {
     "name": "VšĮ R. Matučio sporto klubas",
     "code": "304909796",
-    "address": "Šilalė, Maironio g. 26-5, LT-75137"
+    "address": "Šilalė, Beržynėlio g. 8, LT-75121"
   },
   {
     "name": "VšĮ Reabilitacinis sporto centras \"Reasportas\"",
@@ -10545,10 +10568,6 @@
     "code": "303117741",
     "address": "Kaunas, Lygybės g. 21-86, LT-51379",
     "vatcode": "LT100010877017"
-  },
-  {
-    "name": "VšĮ sporto klubas \"Forma\"",
-    "code": "304117356"
   },
   {
     "name": "VšĮ sporto klubas \"Krepšinio kapitalas\"",
@@ -11270,6 +11289,11 @@
     "address": "Vilnius, Didlaukio g. 3-21, LT-08339"
   },
   {
+    "name": "MB Sports organisation",
+    "code": "307653786",
+    "address": "Vilnius, Pamėnkalnio g. 18-19, LT-01114"
+  },
+  {
     "name": "Sportinio šaudymo klubas \"TGR SPORTS\"",
     "code": "307406565",
     "address": "Vilniaus r. sav., Dūkštų sen., Dūkštų k., Mokyklos g. 1B, LT-14222"
@@ -11326,7 +11350,8 @@
   {
     "name": "UAB MIKOLIUNAS SPORTS MANAGEMENT",
     "code": "304584826",
-    "address": "Vilnius, Šeimyniškių g. 21D-18, LT-09236"
+    "address": "Vilnius, Šeimyniškių g. 21D-18, LT-09236",
+    "vatcode": "LT100015087818"
   },
   {
     "name": "UAB Mtt sports",
@@ -11413,7 +11438,8 @@
   {
     "name": "MB \"Sportstep\"",
     "code": "307605923",
-    "address": "Kaunas, Rimvydo g. 15-16, LT-50233"
+    "address": "Kaunas, Rimvydo g. 15-16, LT-50233",
+    "vatcode": "LT100019916010"
   },
   {
     "name": "MB Sportsvisual",
@@ -11444,6 +11470,11 @@
     "name": "IĮ \"Technologijos sportui\"",
     "code": "304311279",
     "address": "Kaunas, Laisvės al. 75-12, LT-44304"
+  },
+  {
+    "name": "JDG parama sportui",
+    "code": "307652129",
+    "address": "Palanga, Mokyklos g. 62 K11-50, LT-00303"
   },
   {
     "name": "Labdaros ir paramos fondas \"Įtaka sportui\"",

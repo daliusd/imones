@@ -233,6 +233,10 @@
     "address": "Vilnius, Laisvės pr. 77C, LT-06155"
   },
   {
+    "name": "VšĮ \"Socialiai atsakinga bendruomenė\"",
+    "code": "306210161"
+  },
+  {
     "name": "VšĮ \"Socialiai atsakingas verslas\"",
     "code": "142115387",
     "address": "Elektrėnai, Taikos g. 5-41, LT-26112"
@@ -271,7 +275,8 @@
   {
     "name": "UAB \"Socialiniai algoritmai\"",
     "code": "304068578",
-    "address": "Vilnius, M. Valančiaus g. 1A-21, LT-03155"
+    "address": "Vilnius, M. Valančiaus g. 1A-21, LT-03155",
+    "vatcode": "LT100019931317"
   },
   {
     "name": "UAB \"Socialiniai ir sveikatos projektai\"",
@@ -305,6 +310,10 @@
     "code": "126092067",
     "address": "Vilnius, Gedimino pr. 24, LT-01103",
     "vatcode": "LT100000944113"
+  },
+  {
+    "name": "Viešoji įstaiga \"Socialiniai projektai internete\"",
+    "code": "302422494"
   },
   {
     "name": "Viešoji įstaiga \"Socialiniai projektai ir konsultacijos\"",
@@ -1368,7 +1377,8 @@
   {
     "name": "MB Socialinė dokumentika",
     "code": "307066340",
-    "address": "Vilnius, Ateities g. 7-38, LT-08305"
+    "address": "Vilnius, Ateities g. 7-38, LT-08305",
+    "vatcode": "LT100019930319"
   },
   {
     "name": "Nacionalinė ekonominė-socialinė taryba",
@@ -1756,6 +1766,11 @@
     "address": "Molėtai, Smilgų g. 4, LT-33120"
   },
   {
+    "name": "NIJOLĖS GENYTĖS SOCIALINĖS GLOBOS NAMŲ DARBUOTOJŲ VIETINĖ PROFESINĖ SĄJUNGA",
+    "code": "302632845",
+    "address": "Švenčionių r. sav., Pabradė, Klevų g. 27, LT-18180"
+  },
+  {
     "name": "NVO Socialinės integracijos dirbtuvės",
     "code": "305987659",
     "address": "Klaipėdos r. sav., Dovilų sen., Kalvių k., Laukų g. 12, LT-95411"
@@ -1763,11 +1778,6 @@
   {
     "name": "Nijolės Genytės socialinės globos namai",
     "code": "190797664",
-    "address": "Švenčionių r. sav., Pabradė, Klevų g. 27, LT-18180"
-  },
-  {
-    "name": "PABRADĖS SOCIALINĖS GLOBOS NAMŲ DARBUOTOJŲ VIETINĖ PROFESINĖ SĄJUNGA",
-    "code": "302632845",
     "address": "Švenčionių r. sav., Pabradė, Klevų g. 27, LT-18180"
   },
   {
@@ -1786,6 +1796,11 @@
     "address": "Pagėgiai, Žemaičių g. 7, LT-99290"
   },
   {
+    "name": "Pilietinės ir Socialinės Iniciatyvos Asociacija",
+    "code": "307661270",
+    "address": "Šiauliai, Trakų g. 27-35, LT-76290"
+  },
+  {
     "name": "Plinkšių socialinės gerovės centras",
     "code": "304617411",
     "address": "Mažeikiai, Pavasario g. 27-33, LT-89157"
@@ -1799,11 +1814,6 @@
     "name": "Raseinių r. Blinstrubiškių socialinės globos namai",
     "code": "190791978",
     "address": "Raseinių r. sav., Paliepių sen., Blinstrubiškių k., Dvaro g. 6, LT-60345"
-  },
-  {
-    "name": "Rokiškio socialinės paramos centro darbuotojų profesinė sąjunga",
-    "code": "304996114",
-    "address": "Vilnius, J. Jasinskio g. 9, LT-01112"
   },
   {
     "name": "Rokiškio socialinės paramos centro darbuotojų profesinė sąjunga \"Solidarumas\"",
@@ -2165,8 +2175,7 @@
   },
   {
     "name": "VšĮ \"Socialinės pagalbos ir paslaugų centras\"",
-    "code": "306146812",
-    "address": "Klaipėda, Baltijos pr. 123-5, LT-93224"
+    "code": "306146812"
   },
   {
     "name": "VšĮ \"Socialinės partnerystės centras\"",
@@ -2197,11 +2206,6 @@
     "name": "VšĮ Regionų socialinės ekonomikos centras",
     "code": "305526936",
     "address": "Vilnius, Mileišiškių Sodų 8-oji g. 5, LT-10211"
-  },
-  {
-    "name": "VšĮ Rokų socialinės gerovės centras",
-    "code": "304240483",
-    "address": "Kauno r. sav., Rokų sen., Girininkų k., Knygnešio Petro Varkalos g. 26, LT-46169"
   },
   {
     "name": "VšĮ SOCIALINĖS IR POLITINĖS EKSPERTIZĖS AGENTŪRA",

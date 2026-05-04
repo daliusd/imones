@@ -399,6 +399,12 @@
     "address": "Vilnius, S. Stanevičiaus g. 90-20, LT-07103"
   },
   {
+    "name": "VšĮ Miestas plius",
+    "code": "304456730",
+    "address": "Alytus, S. Dariaus ir S. Girėno g. 1-27A, LT-62137",
+    "vatcode": "LT100010796511"
+  },
+  {
     "name": "VšĮ ŠVIESOS MIESTAS",
     "code": "302919756",
     "address": "Vilnius, Meilės Lukšienės g. 95, LT-02212"
@@ -803,7 +809,8 @@
   {
     "name": "Viešoji įstaiga \"Kaladėlių miestelis\"",
     "code": "304140305",
-    "address": "Vilnius, Eišiškių Sodų 6-oji g. 6, LT-02194"
+    "address": "Vilnius, Eišiškių Sodų 6-oji g. 6, LT-02194",
+    "vatcode": "LT100019912119"
   },
   {
     "name": "VšĮ \"Kepyklos gatvės prekybos ir paslaugų miestelis\"",
@@ -1146,6 +1153,11 @@
     "name": "Asociacija Jurbarko miesto centro bendruomenė",
     "code": "306436648",
     "address": "Jurbarkas, K. Donelaičio g. 64, LT-74184"
+  },
+  {
+    "name": "Asociacija Kretingos miesto bendruomenė",
+    "code": "307657813",
+    "address": "Kretinga, Savanorių g. 14, LT-97108"
   },
   {
     "name": "Asociacija Pakruojo miesto Naujamiesčio bendruomenė",
@@ -1763,9 +1775,19 @@
     "address": "Kaunas, Gričiupio g. 7, LT-51372"
   },
   {
+    "name": "Kauno miesto Daugiabučio gyvenamojo namo K. Būgos g. 15 savininkų bendrija",
+    "code": "307648928",
+    "address": "Kaunas, K. Būgos g. 15-5, LT-44327"
+  },
+  {
     "name": "Kauno miesto Daugiabučio gyvenamojo namo Klevų g. 3 savininkų bendrija \"Trys Klevai\"",
     "code": "303127504",
     "address": "Kaunas, Klevų g. 3-4, LT-45301"
+  },
+  {
+    "name": "Kauno miesto Daugiabučio gyvenamojo namo Varnių g. 47 savininkų bendrija \"Žuvėdra\"",
+    "code": "307664715",
+    "address": "Kaunas, Varnių g. 47-37, LT-48413"
   },
   {
     "name": "Kauno miesto Utenos g. 8 pastato savininkų bendrija",
@@ -1986,7 +2008,7 @@
   {
     "name": "Klaipėdos miesto badmintono sporto klubas",
     "code": "193174341",
-    "address": "Klaipėda, Rumpiškės g. 2A-4, LT-91131"
+    "address": "Klaipėdos m. sav."
   },
   {
     "name": "Klaipėdos miesto baltarusių bendrija \"KRYNICA\"",
@@ -3223,6 +3245,10 @@
     "vatcode": "LT100004903915"
   },
   {
+    "name": "Palangos miesto švietimo darbuotojų profsąjungos organizacijų sąjunga",
+    "code": "125187594"
+  },
+  {
     "name": "Pandėlio miesto bendruomenė",
     "code": "300099918",
     "address": "Rokiškio r. sav., Pandėlys, Vytauto a. 11, LT-42372"
@@ -3563,6 +3589,10 @@
     "name": "Tytuvėnų miesto bendruomenė \"Gralis\"",
     "code": "304466952",
     "address": "Kelmės r. sav., Tytuvėnai, J. Basanavičiaus g. 2, LT-86486"
+  },
+  {
+    "name": "UAB \"COMLIET\" Klaipėdos miesto darbuotojų profesinė sąjunga",
+    "code": "142070999"
   },
   {
     "name": "UAB \"Klaipėdos miesto tvarka\"",
@@ -4275,12 +4305,14 @@
   {
     "name": "Viešoji įstaiga Panevėžio miesto odontologijos poliklinika",
     "code": "190429413",
-    "address": "Panevėžys, Respublikos g. 68, LT-35158"
+    "address": "Panevėžys, Respublikos g. 68, LT-35158",
+    "vatcode": "LT904294113"
   },
   {
     "name": "Viešoji įstaiga Panevėžio miesto poliklinika",
     "code": "148194854",
-    "address": "Panevėžys, Nemuno g. 75, LT-37355"
+    "address": "Panevėžys, Nemuno g. 75, LT-37355",
+    "vatcode": "LT481948515"
   },
   {
     "name": "Viešoji įstaiga Sveiko miesto institutas",
@@ -5317,10 +5349,6 @@
     "address": "Zarasai, Palaukės g. 40-47, LT-32114"
   },
   {
-    "name": "Zarasų miesto garažų statybos ir eksploatavimo bendrija \"Ąžuolas\"",
-    "code": "187897423"
-  },
-  {
     "name": "Zarasų miesto vietos veiklos grupė",
     "code": "304082948",
     "address": "Zarasai, Vilniaus g. 61-1, LT-32107"
@@ -5593,10 +5621,6 @@
     "name": "Širvintų miesto garažų statybos ir eksploatavimo bendrija Nr. 1",
     "code": "178312326",
     "address": "Širvintos, J. Janonio g. 22, LT-19116"
-  },
-  {
-    "name": "Širvintų miesto garažų statybos ir eksploatavimo bendrija Nr. 7",
-    "code": "178313570"
   },
   {
     "name": "Širvintų miesto garažų statybos ir eksploatavimo bendrija Nr.4",

@@ -424,6 +424,10 @@
     "vatcode": "LT100015727516"
   },
   {
+    "name": "MB studija \"Balta balta\"",
+    "code": "305621665"
+  },
+  {
     "name": "Mažoji bendrija Balta platforma",
     "code": "307576172",
     "address": "Kaunas, Rimties skg. 48, LT-47160"
@@ -460,10 +464,6 @@
     "code": "305264099",
     "address": "Palanga, Plytų g. 2-1, LT-00132",
     "vatcode": "LT100015231815"
-  },
-  {
-    "name": "UAB \"Balta klėtis\"",
-    "code": "305634029"
   },
   {
     "name": "UAB \"Balta lempa\"",
@@ -1986,7 +1986,7 @@
   {
     "name": "UAB \"Balteva\"",
     "code": "302599637",
-    "address": "Vilnius, Konstitucijos pr. 9-41, LT-09308",
+    "address": "Vilnius, Vilniaus g. 18, LT-01402",
     "vatcode": "LT100016132116"
   },
   {
@@ -2122,6 +2122,10 @@
     "code": "303429488",
     "address": "Alytus, Žiburio g. 5-130, LT-63239",
     "vatcode": "LT100008944319"
+  },
+  {
+    "name": "UAB \"Baltfortas\"",
+    "code": "304282030"
   },
   {
     "name": "Baltfreight UAB",
@@ -2532,6 +2536,11 @@
     "address": "Vilnius, Daugėliškio g. 32A-103, LT-09300"
   },
   {
+    "name": "\"Infinitum Baltic\", UAB",
+    "code": "304903284",
+    "address": "Vilnius, Ozo g. 41-101, LT-07171"
+  },
+  {
     "name": "\"JayDevs Baltic\", UAB",
     "code": "305689940",
     "address": "Vilnius, Naugarduko g. 3-401, LT-03231",
@@ -2934,7 +2943,7 @@
   {
     "name": "BALTIC TENNIS & PADEL CLUB",
     "code": "302786366",
-    "address": "Klaipėda, Jotvingių g. 11, LT-91261"
+    "address": "Klaipėda, J. Janonio g. 6B, LT-92252"
   },
   {
     "name": "BALTIC VIANCO prekyba, UAB",
@@ -3009,6 +3018,12 @@
     "code": "304840058",
     "address": "Vilnius, Šeškinės g. 6-65, LT-07152",
     "vatcode": "LT100011765012"
+  },
+  {
+    "name": "Baltic Aviation Fund, UAB",
+    "code": "307655239",
+    "address": "Vilnius, Sporto g. 8-10, LT-09238",
+    "vatcode": "LT100020029919"
   },
   {
     "name": "Baltic Biotech Group, UAB",
@@ -3165,6 +3180,11 @@
     "code": "302632375",
     "address": "Vilniaus m. sav.",
     "vatcode": "LT100006373515"
+  },
+  {
+    "name": "Baltic Hotcraft MB",
+    "code": "307670611",
+    "address": "Šiaulių r. sav., Kuršėnai, Maironio g. 48, LT-81164"
   },
   {
     "name": "Baltic InnoLab",
@@ -3401,6 +3421,16 @@
     "name": "Baltic around, UAB",
     "code": "305971822",
     "address": "Vilnius, J. Basanavičiaus g. 23, LT-03108"
+  },
+  {
+    "name": "Baltic aviation support MB",
+    "code": "307633584",
+    "address": "Vilnius, Gedimino pr. 50, LT-01110"
+  },
+  {
+    "name": "Baltic bastion, UAB",
+    "code": "307665233",
+    "address": "Kaunas, M. Krupavičiaus g. 1C, LT-46141"
   },
   {
     "name": "Baltic building company, MB",
@@ -4492,7 +4522,8 @@
   {
     "name": "MB \"Hse Baltic\"",
     "code": "307625420",
-    "address": "Klaipėda, Liepojos g. 218, LT-92330"
+    "address": "Klaipėda, Liepojos g. 218, LT-92330",
+    "vatcode": "LT100019903614"
   },
   {
     "name": "MB \"IN VIA Baltic\"",
@@ -4687,6 +4718,11 @@
     "address": "Rietavo sav., Medingėnų sen., Medingėnų k., Vytauto Didžiojo a. 6, LT-90271"
   },
   {
+    "name": "MB BALTIC FAMILY GROUP",
+    "code": "307635400",
+    "address": "Kaišiadorių r. sav., Rumšiškių sen., Karčiupio k., Lakštingalų g. 30, LT-56326"
+  },
+  {
     "name": "MB BALTIC GODS STUDIO",
     "code": "307511826",
     "address": "Jonavos r. sav., Jonavos sen., Bazilionių k., J. Basanavičiaus g. 58, LT-55465"
@@ -4840,8 +4876,7 @@
   {
     "name": "MB Baltic Staff",
     "code": "307158034",
-    "address": "Palanga, Kontininkų g. 3B K8, LT-00171",
-    "vatcode": "LT100018703616"
+    "address": "Palanga, Kontininkų g. 3B K8, LT-00171"
   },
   {
     "name": "MB Baltic Startup",
@@ -5020,13 +5055,18 @@
   {
     "name": "MB Baltic shamans shop",
     "code": "306002107",
-    "address": "Molėtų r. sav., Giedraičių sen., Dienavagių k. 7, LT-33280"
+    "address": "Švenčionių r. sav., Švenčionėliai, Pašto g. 38, LT-18218"
   },
   {
     "name": "MB Baltic soja",
     "code": "307063515",
     "address": "Kauno r. sav., Raudondvario sen., Raudondvario k., Maironio g. 2A, LT-54129",
     "vatcode": "LT100017661510"
+  },
+  {
+    "name": "MB Baltic steel works",
+    "code": "307657514",
+    "address": "Vilnius, Garsioji g. 5A, LT-11306"
   },
   {
     "name": "MB Baltic stroy group lt",
@@ -5091,7 +5131,8 @@
   {
     "name": "MB Cars4Sale Baltic",
     "code": "307585584",
-    "address": "Kaunas, Laisvės al. 110, LT-44253"
+    "address": "Kaunas, Laisvės al. 110, LT-44253",
+    "vatcode": "LT100019923215"
   },
   {
     "name": "MB Domotech Baltic",
@@ -5143,6 +5184,11 @@
     "code": "306309227",
     "address": "Kaunas, Chemijos g. 27C-62, LT-51332",
     "vatcode": "LT100015946313"
+  },
+  {
+    "name": "MB Flareon baltic",
+    "code": "307658413",
+    "address": "Vilniaus r. sav., Skaidiškės, Akacijų g. 14, LT-13268"
   },
   {
     "name": "MB GR Baltic",
@@ -5283,6 +5329,11 @@
     "vatcode": "LT100019860011"
   },
   {
+    "name": "MB Octane Baltic",
+    "code": "307639377",
+    "address": "Kaunas, Gedimino g. 22A-14, LT-44319"
+  },
+  {
     "name": "MB Oilis Baltic",
     "code": "302904398",
     "address": "Pakruojo r. sav., Pakruojo sen., Sigutėnų k., Malūno g. 4, LT-83106",
@@ -5403,7 +5454,7 @@
   {
     "name": "MPS Baltic UAB",
     "code": "111691043",
-    "address": "Vilnius, J. Jasinskio g. 14A-12, LT-01112",
+    "address": "Vilnius, Vykinto g. 27-13, LT-08117",
     "vatcode": "LT116910413"
   },
   {
@@ -7313,8 +7364,7 @@
   },
   {
     "name": "UAB \"Baltic Line\"",
-    "code": "300612897",
-    "address": "Vilnius, Eitminų g. 3-102, LT-12113"
+    "code": "300612897"
   },
   {
     "name": "UAB \"Baltic Logistics Group\"",
@@ -7472,8 +7522,7 @@
   {
     "name": "UAB \"Baltic Production Service Sound\"",
     "code": "306799464",
-    "address": "Vilnius, Naugarduko g. 68-3, LT-03203",
-    "vatcode": "LT100016935212"
+    "address": "Vilnius, Naugarduko g. 68-3, LT-03203"
   },
   {
     "name": "UAB \"Baltic Production Service\"",
@@ -7952,6 +8001,11 @@
     "vatcode": "LT100006687615"
   },
   {
+    "name": "UAB \"Baltic commercial property fund 1\"",
+    "code": "307665087",
+    "address": "Vilnius, J. Jasinskio g. 16B, LT-03163"
+  },
+  {
     "name": "UAB \"Baltic condition\"",
     "code": "300124741",
     "address": "Kaunas, Šiaurės pr. 61-42, LT-49204",
@@ -8057,8 +8111,7 @@
   {
     "name": "UAB \"Baltic foundry\"",
     "code": "306246830",
-    "address": "Kaunas, R. Kalantos g. 49K, LT-52302",
-    "vatcode": "LT100015747813"
+    "address": "Kaunas, R. Kalantos g. 49K, LT-52302"
   },
   {
     "name": "UAB \"Baltic fumigation service\"",
@@ -8196,6 +8249,11 @@
     "code": "304765965",
     "address": "Klaipėdos r. sav., Priekulės sen., Pleškučių k., Pjaulių g. 1A, LT-96344",
     "vatcode": "LT100011457214"
+  },
+  {
+    "name": "UAB \"Baltic printo capital\"",
+    "code": "307653640",
+    "address": "Klaipėda, Baltijos pr. 111C-1, LT-93223"
   },
   {
     "name": "UAB \"Baltic pro\"",
@@ -8424,6 +8482,10 @@
     "address": "Klaipėda, Turgaus a. 21, LT-91246"
   },
   {
+    "name": "UAB \"CBS Baltic\"",
+    "code": "304546042"
+  },
+  {
     "name": "UAB \"CHEMO Baltic\"",
     "code": "302337777",
     "address": "Panevėžys, Dariaus ir Girėno g. 23-1, LT-37345",
@@ -8624,8 +8686,7 @@
   },
   {
     "name": "UAB \"Dinos Baltic\"",
-    "code": "300131547",
-    "address": "Kupiškis, Sodų g. 30, LT-40131"
+    "code": "300131547"
   },
   {
     "name": "UAB \"Dneprochem Baltic\"",
@@ -9135,6 +9196,10 @@
     "address": "Vilnius, Kiemeliškių g. 28, LT-02238"
   },
   {
+    "name": "UAB \"IPJ Baltic\"",
+    "code": "300066170"
+  },
+  {
     "name": "UAB \"IREC Baltic\"",
     "code": "302290726",
     "address": "Vilnius, Konstitucijos pr. 15-94, LT-09319",
@@ -9610,7 +9675,7 @@
   {
     "name": "UAB \"Mclaren Baltic\"",
     "code": "305534694",
-    "address": "Vilnius, Apkasų g. 12A-12, LT-08228",
+    "address": "Pagėgių sav., Stoniškių sen., Rukų k., Miško g. 6, LT-99302",
     "vatcode": "LT100013106514"
   },
   {
@@ -10544,8 +10609,7 @@
   },
   {
     "name": "UAB \"Washnet Baltic\"",
-    "code": "304950526",
-    "address": "Kaunas, Partizanų g. 61-806, LT-49282"
+    "code": "304950526"
   },
   {
     "name": "UAB \"WeeRide Baltic\"",
@@ -10796,6 +10860,11 @@
     "code": "305651676",
     "address": "Vilnius, Jogailos g. 3-14, LT-01116",
     "vatcode": "LT100017420712"
+  },
+  {
+    "name": "UAB BALTIC SMOKE",
+    "code": "307643436",
+    "address": "Vilniaus r. sav., Nemėžio sen., Didžiasalio k., Pakupečių g. 33, LT-13264"
   },
   {
     "name": "UAB BALTIC SYNERGY",
@@ -11270,6 +11339,11 @@
     "vatcode": "LT100009747715"
   },
   {
+    "name": "UAB Baltic Wind Infrastructure",
+    "code": "307634946",
+    "address": "Kaunas, Darbo g. 9, LT-52102"
+  },
+  {
     "name": "UAB Baltic Windturbines",
     "code": "307190975",
     "address": "Raseinių r. sav., Ariogala, Plento g. 25, LT-60249",
@@ -11365,7 +11439,7 @@
   {
     "name": "UAB Baltic fleet solutions",
     "code": "305654494",
-    "address": "Klaipėda, Stadiono g. 16-6, LT-92271",
+    "address": "Klaipėda, Žaibo g. 21-1, LT-92346",
     "vatcode": "LT100013544212"
   },
   {
@@ -11729,7 +11803,8 @@
   {
     "name": "UAB Eor Baltic",
     "code": "307543069",
-    "address": "Vilnius, Stumbrų g. 26B-34, LT-08101"
+    "address": "Vilnius, Stumbrų g. 26B-34, LT-08101",
+    "vatcode": "LT100019916818"
   },
   {
     "name": "UAB FIRST BIO BALTIC",
@@ -11851,6 +11926,17 @@
     "name": "UAB IT BALTIC CONSULTATION",
     "code": "302803876",
     "address": "Kaunas, V. Krėvės pr. 128G, LT-51108"
+  },
+  {
+    "name": "UAB ITP Baltic",
+    "code": "307636790",
+    "address": "Vilnius, Antakalnio g. 17, LT-10312"
+  },
+  {
+    "name": "UAB JENOPTIK Baltic",
+    "code": "307507144",
+    "address": "Vilniaus r. sav., Avižienių sen., Bukiškio k., Sedulų g. 2-16, LT-14183",
+    "vatcode": "LT100019339011"
   },
   {
     "name": "UAB JP Baltic",
@@ -12018,6 +12104,10 @@
     "name": "UAB OPTIC GURU BALTIC",
     "code": "307577922",
     "address": "Vilnius, Ramybės g. 4-70, LT-02103"
+  },
+  {
+    "name": "UAB Ocean Light Baltic",
+    "code": "304746281"
   },
   {
     "name": "UAB Omnispower Baltic",
@@ -12555,8 +12645,7 @@
   {
     "name": "Uždaroji akcinė bendrovė \"INOVA BALTIC\"",
     "code": "110815164",
-    "address": "Vilnius, J. Basanavičiaus g. 26, LT-03224",
-    "vatcode": "LT108151610"
+    "address": "Vilnius, J. Basanavičiaus g. 26, LT-03224"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"JMJ BALTIC\"",
@@ -12689,8 +12778,7 @@
   {
     "name": "Uždaroji akcinė bendrovė Mhc baltic",
     "code": "306277167",
-    "address": "Širvintų r. sav., Zibalai, Gojaus g. 1, LT-19106",
-    "vatcode": "LT100015968213"
+    "address": "Širvintų r. sav., Zibalai, Gojaus g. 1, LT-19106"
   },
   {
     "name": "Uždarojo tipo informuotiesiems investuotojams skirta investicinė bendrovė AB \"Baltic Opportunity\"",
@@ -12789,7 +12877,7 @@
   {
     "name": "VšĮ \"Australasian Baltic Business Association\"",
     "code": "307117226",
-    "address": "Vilnius, Krivių g. 5, LT-01204"
+    "address": "Vilniaus r. sav., Bezdonių sen., Vilkiškių k., Šeštoji g. 8, LT-15206"
   },
   {
     "name": "VšĮ \"BALTIC COOPERATION INITIATIVE\"",
@@ -13276,6 +13364,11 @@
     "name": "UAB \"Balticbill\"",
     "code": "300868715",
     "address": "Vilnius, Naugarduko g. 3, LT-03231"
+  },
+  {
+    "name": "MB Balticbot",
+    "code": "307666659",
+    "address": "Kaunas, Kovo 11-osios g. 32-62, LT-51323"
   },
   {
     "name": "UAB BalticByggeri",
@@ -13785,7 +13878,7 @@
   {
     "name": "MC Baltics UAB",
     "code": "306270436",
-    "address": "Vilnius, Upės g. 23-1, LT-08128",
+    "address": "Vilnius, Kalvarijų g. 272A, LT-08339",
     "vatcode": "LT100015911512"
   },
   {
@@ -14229,7 +14322,7 @@
   {
     "name": "UAB \"RKB Baltics\"",
     "code": "303322632",
-    "address": "Kauno r. sav., Alšėnų sen., Pamaišupio k., Bijūnų g. 2, LT-53301",
+    "address": "Kauno r. sav., Užliedžių sen., Giraitės k., Aido g. 2, LT-54310",
     "vatcode": "LT100008667016"
   },
   {
@@ -14595,6 +14688,11 @@
     "name": "UAB \"BALTICSTA\"",
     "code": "302928634",
     "address": "Vilnius, Architektų g. 56-101, LT-04111"
+  },
+  {
+    "name": "MB Balticstat",
+    "code": "303118590",
+    "address": "Plungė, Vytauto g. 22-20A, LT-90123"
   },
   {
     "name": "UAB \"Balticstatus\" filialas \"Vandens spektras\"",
@@ -15621,6 +15719,10 @@
     "address": "Vilniaus miesto savivaldybės teritorija"
   },
   {
+    "name": "UAB \"Alfos verslo grupės Baltijoje\"",
+    "code": "305266926"
+  },
+  {
     "name": "\"BALTIJOS ALJANSAS\" tremčių ir deportacijų istorinės atminties asociacija",
     "code": "307600997",
     "address": "Kaunas, Laisvės al. 39, LT-44309"
@@ -15629,6 +15731,12 @@
     "name": "\"Baltijos GPS\", UAB",
     "code": "304034184",
     "address": "Vilnius, Darželio g. 5-118, LT-11209"
+  },
+  {
+    "name": "\"Baltijos Kompiuterių Akademija\" UAB",
+    "code": "111623537",
+    "address": "Vilnius, J. Jasinskio g. 14B-102, LT-01112",
+    "vatcode": "LT116235314"
   },
   {
     "name": "\"Baltijos deližansas\", UAB",
@@ -16347,7 +16455,8 @@
   {
     "name": "MB \"Baltijos stovėjimo aikštelė\"",
     "code": "305760316",
-    "address": "Klaipėda, Baltijos pr. 53A, LT-94125"
+    "address": "Klaipėda, Baltijos pr. 53A, LT-94125",
+    "vatcode": "LT100019888516"
   },
   {
     "name": "MB \"Baltijos suvirinimo sprendimai\"",
@@ -16455,11 +16564,6 @@
     "vatcode": "LT100017509011"
   },
   {
-    "name": "MB Baltijos orbitų sprendimas",
-    "code": "305934083",
-    "address": "Druskininkai, M. K. Čiurlionio g. 44-3, LT-66142"
-  },
-  {
     "name": "MB Baltijos panorama Invest",
     "code": "306058611",
     "address": "Vilnius, Kalvarijų g. 125, LT-08221"
@@ -16499,7 +16603,7 @@
   {
     "name": "MB Baltijos Šamanai",
     "code": "305553812",
-    "address": "Molėtų r. sav., Giedraičių sen., Dienavagių k. 7, LT-33280",
+    "address": "Švenčionių r. sav., Švenčionėliai, Pašto g. 38, LT-18218",
     "vatcode": "LT100013799411"
   },
   {
@@ -17140,12 +17244,6 @@
     "address": "Klaipėda, Švyturio g. 14-12, LT-92264"
   },
   {
-    "name": "UAB \"Baltijos kompiuterių akademija\"",
-    "code": "111623537",
-    "address": "Vilnius, J. Jasinskio g. 14B-102, LT-01112",
-    "vatcode": "LT116235314"
-  },
-  {
     "name": "UAB \"Baltijos konservai\"",
     "code": "300015471",
     "address": "Klaipėdos r. sav., Sendvario sen., Martinų k., Rogainių g. 64, LT-91283",
@@ -17390,7 +17488,7 @@
   {
     "name": "UAB \"Baltijos pramoninis tiekimas\"",
     "code": "303202914",
-    "address": "Vilnius, Kareivių g. 6, LT-09117",
+    "address": "Vilnius, P. Lukšio g. 1, LT-08221",
     "vatcode": "LT100008208913"
   },
   {
@@ -17741,8 +17839,7 @@
   {
     "name": "UAB \"Baltijos vėjas\"",
     "code": "301492707",
-    "address": "Vilnius, Konstitucijos pr. 15-3, LT-09319",
-    "vatcode": "LT100008216016"
+    "address": "Vilnius, Konstitucijos pr. 15-3, LT-09319"
   },
   {
     "name": "UAB \"Baltijos įmonių grupė\"",
@@ -17943,8 +18040,7 @@
   {
     "name": "UAB Baltijos jūros prekyba",
     "code": "306264134",
-    "address": "Kaunas, Kovo 11-osios g. 118-15, LT-49379",
-    "vatcode": "LT100016742818"
+    "address": "Kaunas, Kovo 11-osios g. 118-15, LT-49379"
   },
   {
     "name": "UAB Baltijos koncernas",
@@ -18359,6 +18455,10 @@
     "name": "VIEŠOJI ĮSTAIGA \"BALTIJOS MEDICINOS TYRIMŲ INSTITUTAS\"",
     "code": "300054894",
     "address": "Vilnius, Gedimino pr. 14, LT-01103"
+  },
+  {
+    "name": "VIEŠOJI ĮSTAIGA BALTIJOS AGROVERSLO INSTITUTAS",
+    "code": "125452886"
   },
   {
     "name": "VIEŠOJI ĮSTAIGA BALTIJOS INOVACIJŲ, VERSLUMO IR KOMUNIKACIJŲ TYRIMŲ INSTITUTAS",
@@ -19110,14 +19210,12 @@
   {
     "name": "UAB \"Baltilita\"",
     "code": "306015097",
-    "address": "Ignalinos r. sav., Naujojo Daugėliškio sen., Naujojo Daugėliškio k., Jaunimo g. 16, LT-30290",
-    "vatcode": "LT100015859016"
+    "address": "Ignalinos r. sav., Naujojo Daugėliškio sen., Naujojo Daugėliškio k., Jaunimo g. 16, LT-30290"
   },
   {
     "name": "UAB \"Baltimar\"",
     "code": "306107670",
-    "address": "Rokiškio r. sav., Juodupė, Taikos g. 15-1, LT-42465",
-    "vatcode": "LT100017645115"
+    "address": "Rokiškio r. sav., Juodupė, Taikos g. 15-1, LT-42465"
   },
   {
     "name": "UAB \"Baltimark\"",
@@ -19187,6 +19285,10 @@
     "code": "306822087",
     "address": "Kaunas, I. Kanto g. 18, LT-44296",
     "vatcode": "LT100017112016"
+  },
+  {
+    "name": "AB \"Baltinstat\" profsąjunga",
+    "code": "161616787"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"BALTINTER\"",
@@ -19818,7 +19920,7 @@
   {
     "name": "UAB \"BALTNETOS\" HOLDINGAS",
     "code": "111701384",
-    "address": "Vilnius, J. Galvydžio g. 5, LT-08236"
+    "address": "Vilnius, Antakalnio g. 17, LT-10312"
   },
   {
     "name": "Uždaroji akcinė bendrovė \"BALTNETOS KOMUNIKACIJOS\"",
@@ -20219,8 +20321,7 @@
   },
   {
     "name": "MB \"Baltos pėdutės\"",
-    "code": "307092584",
-    "address": "Vilnius, V. Nagevičiaus g. 3, LT-08237"
+    "code": "307092584"
   },
   {
     "name": "MB \"Žalgirio baltos inovacijos\"",
@@ -20388,6 +20489,10 @@
     "name": "UAB \"Baltpartneris\"",
     "code": "304163364",
     "address": "Klaipėda, Laukininkų g. 37-10, LT-95173"
+  },
+  {
+    "name": "UAB \"Baltpersa\"",
+    "code": "304445634"
   },
   {
     "name": "UAB \"Baltpola\"",
@@ -20977,7 +21082,8 @@
   {
     "name": "UAB \"Baltstatus\"",
     "code": "300073065",
-    "address": "Klaipėda, Zarasų g. 12, LT-92309"
+    "address": "Klaipėda, Zarasų g. 12, LT-92309",
+    "vatcode": "LT100001534610"
   },
   {
     "name": "MB Baltstatyba",
@@ -21066,8 +21172,7 @@
   {
     "name": "UAB \"BALTU Mediena\"",
     "code": "306120422",
-    "address": "Vilnius, Kirtimų g. 61, LT-02244",
-    "vatcode": "LT100015640910"
+    "address": "Vilnius, Kirtimų g. 61, LT-02244"
   },
   {
     "name": "MB \"Baltukas\"",
@@ -21098,6 +21203,10 @@
     "address": "Kretinga, Klaipėdos g. 133B-33, LT-97156"
   },
   {
+    "name": "UAB \"Baltupakas\"",
+    "code": "304609891"
+  },
+  {
     "name": "Personalinė Rimo Masiliūno įmonė \"Baltupio vaistinė\"",
     "code": "122477076",
     "address": "Vilnius, Didlaukio g. 62-3, LT-08327",
@@ -21107,6 +21216,11 @@
     "name": "UAB \"Baltupio odontologijos klinika\"",
     "code": "303181427",
     "address": "Vilnius, Baltupio g. 151, LT-08334"
+  },
+  {
+    "name": "Daugiabučių namų savininkų bendrija \"Baltupis\"",
+    "code": "307633940",
+    "address": "Vilnius, Didlaukio g. 53-165, LT-08303"
   },
   {
     "name": "Asociacija Baltupių stalo žaidimų klubas",
